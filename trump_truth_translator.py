@@ -9,6 +9,7 @@ import feedparser
 import requests
 import json
 import os
+import re
 import ssl
 import certifi
 import time
@@ -125,6 +126,22 @@ def bsky_login():
     return session['did'], session['accessJwt']
 
 
+def detect_url_facets(text):
+    """テキスト内のURLを検出してBluesky facets（リッチテキスト）を生成する"""
+    facets = []
+    text_bytes = text.encode('utf-8')
+    for m in re.finditer(r'https?://[^\s\u3000）)」』】>]+', text):
+        url = m.group()
+        # バイト位置を計算（Blueskyはバイトオフセットを使用）
+        byte_start = len(text[:m.start()].encode('utf-8'))
+        byte_end = byte_start + len(url.encode('utf-8'))
+        facets.append({
+            'index': {'byteStart': byte_start, 'byteEnd': byte_end},
+            'features': [{'$type': 'app.bsky.richtext.facet#link', 'uri': url}]
+        })
+    return facets
+
+
 def post_to_bluesky(chunks, did, token):
     root_ref = None
     parent_ref = None
@@ -137,6 +154,10 @@ def post_to_bluesky(chunks, did, token):
             'createdAt': now,
             'langs': ['ja']
         }
+
+        facets = detect_url_facets(chunk)
+        if facets:
+            record['facets'] = facets
 
         if parent_ref is not None:
             record['reply'] = {
