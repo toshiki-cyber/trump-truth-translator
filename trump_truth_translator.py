@@ -114,7 +114,7 @@ def translate_with_gemini(text):
     except Exception as e:
         error_str = str(e)
         log(f"Gemini API エラー: {error_str}")
-        if "403" in error_str or "429" in error_str:
+        if "403" in error_str or "429" in error_str or "503" in error_str:
             return "RATE_LIMITED"
         return None
 
