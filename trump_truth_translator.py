@@ -18,6 +18,10 @@ from google import genai
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 
+MEDIA_ARCHIVE_DOMAIN = "truth-archive.us-iad-1.linodeobjects.com"
+IMAGE_EXTENSIONS = ('.jpg', '.jpeg', '.png', '.gif', '.webp')
+VIDEO_EXTENSIONS = ('.mp4', '.webm', '.mov')
+
 # --- 環境変数からシークレット取得 ---
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 BSKY_HANDLE = os.environ["BSKY_HANDLE"]
@@ -123,7 +127,224 @@ def bsky_login():
     )
     resp.raise_for_status()
     session = resp.json()
-    return session['did'], session['accessJwt']
+    did = session['did']
+    token = session['accessJwt']
+
+    # 動画アップロードに必要なPDS DIDを取得
+    pds_did = None
+    try:
+        desc_resp = requests.get(
+            f"{BSKY_API}/com.atproto.repo.describeRepo",
+            params={'repo': did},
+            timeout=30
+        )
+        desc_resp.raise_for_status()
+        for svc in desc_resp.json().get('didDoc', {}).get('service', []):
+            if svc.get('id') == '#atproto_pds':
+                pds_url = svc['serviceEndpoint']
+                pds_host = pds_url.replace('https://', '').rstrip('/')
+                pds_did = f"did:web:{pds_host}"
+                break
+    except Exception as e:
+        log(f"PDS DID取得エラー（動画アップロード不可）: {e}")
+
+    return did, token, pds_did
+
+
+def fetch_media(page_url):
+    """trumpstruth.orgのページからメディアURL一覧を取得する"""
+    try:
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        req = urllib.request.Request(page_url, headers={
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+        })
+        response = urllib.request.urlopen(req, context=ctx, timeout=30)
+        html = response.read()
+        soup = BeautifulSoup(html, 'html.parser')
+
+        images = []
+        videos = []
+        for a_tag in soup.find_all('a', href=True):
+            href = a_tag['href']
+            if MEDIA_ARCHIVE_DOMAIN not in href:
+                continue
+            href_lower = href.lower()
+            if any(href_lower.endswith(ext) for ext in IMAGE_EXTENSIONS):
+                # alt テキストを取得（img タグから）
+                img_tag = a_tag.find('img')
+                alt = img_tag.get('alt', '') if img_tag else ''
+                images.append({'url': href, 'alt': alt})
+            elif any(href_lower.endswith(ext) for ext in VIDEO_EXTENSIONS):
+                videos.append({'url': href})
+
+        return {'images': images[:4], 'videos': videos[:1]}
+    except Exception as e:
+        log(f"メディア取得エラー: {e}")
+        return {'images': [], 'videos': []}
+
+
+def upload_image_blob(image_url, token):
+    """画像をダウンロードしてBlueskyにアップロードする"""
+    try:
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        req = urllib.request.Request(image_url, headers={
+            'User-Agent': 'Mozilla/5.0'
+        })
+        response = urllib.request.urlopen(req, context=ctx, timeout=60)
+        img_data = response.read()
+        content_type = response.headers.get('Content-Type', 'image/jpeg')
+
+        # 1MB超の場合はスキップ
+        if len(img_data) > 1_000_000:
+            log(f"画像サイズ超過（{len(img_data)} bytes）、スキップ: {image_url}")
+            return None
+
+        resp = requests.post(
+            f"{BSKY_API}/com.atproto.repo.uploadBlob",
+            data=img_data,
+            headers={
+                'Authorization': f'Bearer {token}',
+                'Content-Type': content_type
+            },
+            timeout=60
+        )
+        resp.raise_for_status()
+        return resp.json()['blob']
+    except Exception as e:
+        log(f"画像アップロードエラー: {e}")
+        return None
+
+
+def upload_video_blob(video_url, did, pds_did, token):
+    """動画をダウンロードしてBlueskyにアップロードする"""
+    try:
+        # 動画ダウンロード
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        req = urllib.request.Request(video_url, headers={
+            'User-Agent': 'Mozilla/5.0'
+        })
+        response = urllib.request.urlopen(req, context=ctx, timeout=120)
+        vid_data = response.read()
+
+        # 50MB超の場合はスキップ
+        if len(vid_data) > 50_000_000:
+            log(f"動画サイズ超過（{len(vid_data)} bytes）、スキップ: {video_url}")
+            return None
+
+        # サービス認証トークン取得
+        auth_resp = requests.get(
+            f"{BSKY_API}/com.atproto.server.getServiceAuth",
+            params={
+                'aud': pds_did,
+                'lxm': 'com.atproto.repo.uploadBlob',
+                'exp': int(time.time()) + 60 * 30,
+            },
+            headers={'Authorization': f'Bearer {token}'},
+            timeout=30
+        )
+        auth_resp.raise_for_status()
+        service_token = auth_resp.json()['token']
+
+        # 動画アップロード
+        upload_resp = requests.post(
+            "https://video.bsky.app/xrpc/app.bsky.video.uploadVideo",
+            data=vid_data,
+            params={'did': did, 'name': 'video.mp4'},
+            headers={
+                'Authorization': f'Bearer {service_token}',
+                'Content-Type': 'video/mp4',
+            },
+            timeout=300
+        )
+        if upload_resp.status_code != 200:
+            log(f"動画アップロード失敗: {upload_resp.status_code} {upload_resp.text}")
+            return None
+
+        job_result = upload_resp.json()
+        job_id = job_result.get('jobId')
+
+        if job_id:
+            # 処理完了を待つ
+            for attempt in range(60):
+                time.sleep(3)
+                status_resp = requests.get(
+                    "https://video.bsky.app/xrpc/app.bsky.video.getJobStatus",
+                    params={'jobId': job_id},
+                    headers={'Authorization': f'Bearer {token}'},
+                    timeout=30
+                )
+                status = status_resp.json()
+                state = status.get('jobStatus', {}).get('state', 'unknown')
+                if state == 'JOB_STATE_COMPLETED':
+                    return status['jobStatus']['blob']
+                elif state == 'JOB_STATE_FAILED':
+                    log(f"動画処理失敗: {status}")
+                    return None
+            log("動画処理タイムアウト")
+            return None
+        else:
+            return job_result.get('blob')
+
+    except Exception as e:
+        log(f"動画アップロードエラー: {e}")
+        return None
+
+
+def build_media_embed(media, did, pds_did, token):
+    """メディア情報からBluesky embed辞書を生成する"""
+    # 動画が優先（1投稿に動画は1つのみ）
+    if media['videos']:
+        if not pds_did:
+            log("PDS DIDが取得できなかったため動画スキップ")
+        else:
+            video = media['videos'][0]
+            log(f"動画アップロード中: {video['url']}")
+            blob = upload_video_blob(video['url'], did, pds_did, token)
+            if blob:
+                return {'$type': 'app.bsky.embed.video', 'video': blob}
+
+    # 画像（最大4枚）
+    if media['images']:
+        uploaded = []
+        for img in media['images']:
+            log(f"画像アップロード中: {img['url']}")
+            blob = upload_image_blob(img['url'], token)
+            if blob:
+                uploaded.append({'alt': img.get('alt', ''), 'image': blob})
+        if uploaded:
+            return {'$type': 'app.bsky.embed.images', 'images': uploaded}
+
+    return None
+
+
+def fetch_post_text(page_url):
+    """RSS descriptionが空の場合、ページからテキストを取得する"""
+    try:
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        req = urllib.request.Request(page_url, headers={
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+        })
+        response = urllib.request.urlopen(req, context=ctx, timeout=30)
+        html = response.read()
+        soup = BeautifulSoup(html, 'html.parser')
+
+        # 投稿本文を取得
+        content_div = soup.find('div', class_='status__content')
+        if content_div:
+            text = content_div.get_text(separator='\n').strip()
+            if text:
+                return text
+
+        # 本文がない場合、添付テキスト（動画トランスクリプト等）を取得
+        for att in soup.find_all('div', class_='status-details-attachment__text'):
+            text = att.get_text(separator='\n').strip()
+            if text:
+                return text
+
+        return ''
+    except Exception as e:
+        log(f"ページテキスト取得エラー: {e}")
+        return ''
 
 
 def detect_url_facets(text):
@@ -142,7 +363,7 @@ def detect_url_facets(text):
     return facets
 
 
-def post_to_bluesky(chunks, did, token):
+def post_to_bluesky(chunks, did, token, embed=None):
     root_ref = None
     parent_ref = None
 
@@ -154,6 +375,10 @@ def post_to_bluesky(chunks, did, token):
             'createdAt': now,
             'langs': ['ja']
         }
+
+        # メディアは最初の投稿にのみ添付
+        if i == 0 and embed:
+            record['embed'] = embed
 
         facets = detect_url_facets(chunk)
         if facets:
@@ -218,12 +443,15 @@ def main():
             continue
 
         content = entry.get('description') or entry.get('summary', '')
-        if not content:
-            processed.append(post_id)
-            continue
-
         soup = BeautifulSoup(content, 'html.parser')
         text = soup.get_text(separator='\n').strip()
+
+        # RSS descriptionが空の場合、ページ本体からテキストを取得
+        if not text:
+            page_url = entry.get('link', '')
+            if page_url:
+                log(f"RSS空のためページ取得: {page_url}")
+                text = fetch_post_text(page_url)
 
         if not text:
             processed.append(post_id)
@@ -244,7 +472,7 @@ def main():
     log(f"新規投稿: {len(new_posts)}件")
 
     try:
-        did, token = bsky_login()
+        did, token, pds_did = bsky_login()
         log(f"Blueskyログイン成功 (DID: {did})")
     except Exception as e:
         log(f"Blueskyログインエラー: {e}")
@@ -265,10 +493,19 @@ def main():
             continue
 
         chunks = split_for_posts(translation, post['link'])
+
+        # メディア取得・アップロード
+        embed = None
+        if post['link']:
+            media = fetch_media(post['link'])
+            if media['images'] or media['videos']:
+                log(f"メディア検出: 画像{len(media['images'])}枚, 動画{len(media['videos'])}本")
+                embed = build_media_embed(media, did, pds_did, token)
+
         log(f"Bluesky投稿中 ({len(chunks)}ポスト): {translation[:80]}...")
 
         try:
-            post_uri = post_to_bluesky(chunks, did, token)
+            post_uri = post_to_bluesky(chunks, did, token, embed=embed)
             log(f"投稿成功 (URI: {post_uri})")
         except Exception as e:
             log(f"Bluesky投稿エラー: {e}")
