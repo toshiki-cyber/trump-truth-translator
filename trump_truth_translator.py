@@ -105,18 +105,25 @@ def translate_with_gemini(text):
         "- 翻訳のみを出力し、解説や注釈は不要\n\n"
         f"【原文】\n{text}"
     )
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt
-        )
-        return response.text.strip()
-    except Exception as e:
-        error_str = str(e)
-        log(f"Gemini API エラー: {error_str}")
-        if "403" in error_str or "429" in error_str or "503" in error_str:
-            return "RATE_LIMITED"
-        return None
+    retry_delays = [5, 15, 30]
+    for attempt, delay in enumerate(retry_delays + [None], start=1):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt
+            )
+            return response.text.strip()
+        except Exception as e:
+            error_str = str(e)
+            log(f"Gemini API エラー (試行{attempt}): {error_str}")
+            if "503" in error_str and delay is not None:
+                log(f"一時的な高負荷、{delay}秒後にリトライ...")
+                time.sleep(delay)
+                continue
+            if "403" in error_str or "429" in error_str or "503" in error_str:
+                return "RATE_LIMITED"
+            return None
+    return "RATE_LIMITED"
 
 
 def bsky_login():
@@ -317,6 +324,51 @@ def build_media_embed(media, did, pds_did, token):
     return None
 
 
+def fetch_ogp(page_url):
+    """ページのOGP情報（title, description, og:image）を取得する"""
+    try:
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        req = urllib.request.Request(page_url, headers={
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+        })
+        response = urllib.request.urlopen(req, context=ctx, timeout=30)
+        soup = BeautifulSoup(response.read(), 'html.parser')
+
+        def meta(prop):
+            tag = soup.find('meta', property=prop) or soup.find('meta', attrs={'name': prop})
+            return (tag.get('content') or '').strip() if tag else ''
+
+        return {
+            'title': meta('og:title') or meta('twitter:title'),
+            'description': meta('og:description') or meta('twitter:description'),
+            'image_url': meta('og:image') or meta('twitter:image'),
+        }
+    except Exception as e:
+        log(f"OGP取得エラー: {e}")
+        return {'title': '', 'description': '', 'image_url': ''}
+
+
+def build_external_embed(page_url, token):
+    """OGP情報から app.bsky.embed.external を生成する"""
+    ogp = fetch_ogp(page_url)
+    if not ogp['title'] and not ogp['description']:
+        return None
+
+    external = {
+        'uri': page_url,
+        'title': ogp['title'] or page_url,
+        'description': ogp['description'],
+    }
+
+    if ogp['image_url']:
+        log(f"OGP画像アップロード中: {ogp['image_url']}")
+        blob = upload_image_blob(ogp['image_url'], token)
+        if blob:
+            external['thumb'] = blob
+
+    return {'$type': 'app.bsky.embed.external', 'external': external}
+
+
 def fetch_post_text(page_url):
     """RSS descriptionが空の場合、ページからテキストを取得する"""
     try:
@@ -501,6 +553,9 @@ def main():
             if media['images'] or media['videos']:
                 log(f"メディア検出: 画像{len(media['images'])}枚, 動画{len(media['videos'])}本")
                 embed = build_media_embed(media, did, pds_did, token)
+            if embed is None:
+                # 画像・動画なし → OGPリンクカードにフォールバック
+                embed = build_external_embed(post['link'], token)
 
         log(f"Bluesky投稿中 ({len(chunks)}ポスト): {translation[:80]}...")
 
