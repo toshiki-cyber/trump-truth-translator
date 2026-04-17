@@ -12,12 +12,12 @@ import os
 import re
 import certifi
 import time
-from groq import Groq
+import anthropic
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 
 # --- API Keys ---
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
 # --- Bluesky ---
 BSKY_HANDLE = os.environ.get("BSKY_HANDLE", "trump-ts-jp.bsky.social")
@@ -283,8 +283,8 @@ def upload_image_to_bsky(image_url, did, token):
     return upload_resp.json()['blob']
 
 
-def translate_with_groq(text):
-    client = Groq(api_key=GROQ_API_KEY, http_client=httpx.Client(trust_env=False))
+def translate_with_claude(text):
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     prompt = (
         "以下はトランプ大統領のTruth Social投稿です。日本語に翻訳してください。\n"
         "ルール：\n"
@@ -294,15 +294,16 @@ def translate_with_groq(text):
         f"【原文】\n{text}"
     )
     try:
-        response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+        response = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=1024,
             messages=[{"role": "user", "content": prompt}]
         )
-        return response.choices[0].message.content.strip()
+        return response.content[0].text.strip()
     except Exception as e:
         error_str = str(e)
-        log(f"Groq API エラー: {error_str}")
-        if "429" in error_str:
+        log(f"Claude API エラー: {error_str}")
+        if "429" in error_str or "overloaded" in error_str.lower():
             return "RATE_LIMITED"
         return None
 
@@ -486,9 +487,9 @@ def main():
             translation = post['text'].strip()
             log("URLのみの投稿のため翻訳スキップ")
         else:
-            translation = translate_with_groq(post['text'])
+            translation = translate_with_claude(post['text'])
         if translation == "RATE_LIMITED":
-            log("Groq APIレート制限、残りの投稿は次回処理")
+            log("Claude APIレート制限、残りの投稿は次回処理")
             save_processed(processed)
             return
         if not translation:

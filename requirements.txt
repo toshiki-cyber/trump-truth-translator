@@ -1,6 +1,5 @@
 feedparser
 requests
 beautifulsoup4
-groq
-httpx
+anthropic
 certifi
