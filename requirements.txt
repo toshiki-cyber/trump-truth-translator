@@ -1,5 +1,6 @@
 feedparser
 requests
 beautifulsoup4
-google-genai
+groq
+httpx
 certifi
