@@ -2,45 +2,47 @@
 """
 Trump Truth Social → 日本語翻訳 → Bluesky投稿 ボット
 trumpstruth.org のRSSフィードを監視し、新規投稿を翻訳してBlueskyに投稿する
-GitHub Actions版：シークレットは環境変数から取得
 """
 
 import feedparser
 import requests
+import httpx
 import json
 import os
 import re
-import ssl
 import certifi
 import time
-import urllib.request
-from google import genai
+from groq import Groq
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 
-MEDIA_ARCHIVE_DOMAIN = "truth-archive.us-iad-1.linodeobjects.com"
-IMAGE_EXTENSIONS = ('.jpg', '.jpeg', '.png', '.gif', '.webp')
-VIDEO_EXTENSIONS = ('.mp4', '.webm', '.mov')
-
-# --- 環境変数からシークレット取得 ---
-GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-BSKY_HANDLE = os.environ["BSKY_HANDLE"]
-BSKY_APP_PASSWORD = os.environ["BSKY_APP_PASSWORD"]
+# --- API Keys ---
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 
 # --- Bluesky ---
+BSKY_HANDLE = os.environ.get("BSKY_HANDLE", "trump-ts-jp.bsky.social")
+BSKY_APP_PASSWORD = os.environ.get("BSKY_APP_PASSWORD", "")
 BSKY_API = "https://bsky.social/xrpc"
+BSKY_PROXIES = {
+    "http": "http://localhost:50717",
+    "https": "http://localhost:50717"
+}
+# プロキシを使わない接続（trumpstruth.org, bsky.social など）
+NO_PROXY = {"http": "", "https": ""}
 
 RSS_URL = "https://www.trumpstruth.org/feed"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROCESSED_FILE = os.path.join(SCRIPT_DIR, "trump_processed.json")
+LOG_FILE = os.path.join(SCRIPT_DIR, "trump_translator.log")
 
 JST = timezone(timedelta(hours=9))
-BSKY_MAX_LENGTH = 300
+BSKY_MAX_LENGTH = 300  # Blueskyの文字数上限（grapheme単位）
 
 
 def log(msg):
     now = datetime.now(JST).strftime('%Y-%m-%d %H:%M:%S JST')
-    print(f"[{now}] {msg}")
+    line = f"[{now}] {msg}"
+    print(line)
 
 
 def load_processed():
@@ -56,6 +58,7 @@ def save_processed(processed):
 
 
 def grapheme_len(text):
+    """Blueskyの文字数カウント（grapheme単位、日本語も1文字=1）"""
     return len(text)
 
 
@@ -63,11 +66,14 @@ def split_for_posts(text, source_url):
     """テキストをBluesky投稿用に分割する。最後の投稿にリンクを付加"""
     suffix = f"\n{source_url}"
     suffix_len = len(suffix)
+
     max_len = BSKY_MAX_LENGTH
 
+    # 1投稿に収まる場合
     if grapheme_len(text) + suffix_len <= max_len:
         return [text + suffix]
 
+    # スレッドに分割
     chunks = []
     remaining = text
     while remaining:
@@ -75,6 +81,7 @@ def split_for_posts(text, source_url):
             chunks.append(remaining)
             break
 
+        # 分割点を探す（句点、改行、またはlimit）
         best = 0
         for i, ch in enumerate(remaining):
             if i >= max_len:
@@ -87,6 +94,7 @@ def split_for_posts(text, source_url):
         chunks.append(remaining[:best])
         remaining = remaining[best:].lstrip('\n')
 
+    # 最後のチャンクにsuffixを追加（収まらなければ新チャンクに）
     if grapheme_len(chunks[-1]) + suffix_len <= max_len:
         chunks[-1] += suffix
     else:
@@ -95,332 +103,216 @@ def split_for_posts(text, source_url):
     return chunks
 
 
-def translate_with_gemini(text):
-    client = genai.Client(api_key=GEMINI_API_KEY)
+def get_ts_post_id(trumpstruth_url):
+    """trumpstruth.orgのページからTruth Social投稿IDを取得"""
+    try:
+        resp = requests.get(
+            trumpstruth_url,
+            headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+            proxies=NO_PROXY,
+            verify=certifi.where(),
+            timeout=15
+        )
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        link = soup.find('a', class_='status__external-link')
+        if link:
+            href = link.get('href', '')
+            m = re.search(r'/(\d+)$', href)
+            if m:
+                return m.group(1)
+    except Exception as e:
+        log(f"trumpstruth.orgページ取得エラー: {e}")
+    return None
+
+
+def get_ts_media(post_id):
+    """Truth Social APIからメディア添付を取得（プロキシ経由）"""
+    resp = requests.get(
+        f'https://truthsocial.com/api/v1/statuses/{post_id}',
+        headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+        proxies=BSKY_PROXIES,
+        verify=certifi.where(),
+        timeout=30
+    )
+    resp.raise_for_status()
+    data = resp.json()
+    video_url = None
+    image_urls = []
+    seen_urls = set()
+    for att in data.get('media_attachments', []):
+        att_type = att.get('type', '')
+        url = att.get('url', '')
+        if att_type in ('video', 'gifv') and not video_url:
+            video_url = url
+        elif att_type == 'image' and url not in seen_urls and len(image_urls) < 4:
+            image_urls.append(url)
+            seen_urls.add(url)
+    return video_url, image_urls
+
+
+def extract_images(html_content):
+    """RSS HTMLから画像URLを抽出（最大4枚）"""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    images = []
+    seen_urls = set()
+    for img in soup.find_all('img'):
+        src = img.get('src', '')
+        if src and src.startswith('http') and src not in seen_urls:
+            images.append(src)
+            seen_urls.add(src)
+            if len(images) >= 4:
+                break
+    return images
+
+
+def scrape_images_from_page(status_url):
+    """trumpstruth.orgのステータスページから投稿画像URLを抽出（最大4枚）"""
+    try:
+        resp = requests.get(
+            status_url,
+            headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+            proxies=NO_PROXY,
+            verify=certifi.where(),
+            timeout=15
+        )
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        images = []
+        seen_urls = set()
+        for img in soup.find_all('img'):
+            src = img.get('src', '')
+            if not src or not src.startswith('http'):
+                continue
+            # ロゴ・アバター・サムネイル画像を除外
+            if '/logo.svg' in src or '/avatars/' in src or '/small/' in src:
+                continue
+            if src in seen_urls:
+                continue
+            images.append(src)
+            seen_urls.add(src)
+            if len(images) >= 4:
+                break
+        return images
+    except Exception as e:
+        log(f"ページスクレイピングエラー: {e}")
+        return []
+
+
+def extract_video(html_content):
+    """RSS HTMLから動画URLを抽出（最初の1件）"""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    for video in soup.find_all('video'):
+        src = video.get('src', '')
+        if src and src.startswith('http'):
+            return src
+        source = video.find('source')
+        if source:
+            src = source.get('src', '')
+            if src and src.startswith('http'):
+                return src
+    return None
+
+
+def upload_video_to_bsky(video_url, did, token):
+    """動画をダウンロードしてBlueskyにアップロード、blobを返す"""
+    MAX_SIZE = 50 * 1024 * 1024  # 50MB
+
+    # ファイルサイズ事前確認（direct優先、失敗時はproxy）
+    try:
+        head = requests.head(video_url, proxies=NO_PROXY, timeout=15, allow_redirects=True)
+    except Exception:
+        head = requests.head(video_url, proxies=BSKY_PROXIES, timeout=15, allow_redirects=True)
+    size = int(head.headers.get('content-length', 0))
+    if size > MAX_SIZE:
+        raise ValueError(f"動画サイズ超過: {size / 1024 / 1024:.1f}MB > 50MB")
+
+    try:
+        resp = requests.get(video_url, proxies=NO_PROXY, timeout=120)
+        resp.raise_for_status()
+    except Exception:
+        resp = requests.get(video_url, proxies=BSKY_PROXIES, timeout=120)
+        resp.raise_for_status()
+
+    if len(resp.content) > MAX_SIZE:
+        raise ValueError(f"動画サイズ超過: {len(resp.content) / 1024 / 1024:.1f}MB > 50MB")
+
+    content_type = resp.headers.get('content-type', 'video/mp4').split(';')[0]
+    upload_resp = requests.post(
+        f"{BSKY_API}/com.atproto.repo.uploadBlob",
+        data=resp.content,
+        headers={
+            'Authorization': f'Bearer {token}',
+            'Content-Type': content_type
+        },
+        proxies=NO_PROXY,
+        timeout=60
+    )
+    upload_resp.raise_for_status()
+    return upload_resp.json()['blob']
+
+
+def upload_image_to_bsky(image_url, did, token):
+    """画像をダウンロードしてBlueskyにアップロード、blobを返す（direct優先、失敗時proxy）"""
+    try:
+        resp = requests.get(image_url, proxies=NO_PROXY, timeout=30)
+        resp.raise_for_status()
+    except Exception:
+        resp = requests.get(image_url, proxies=BSKY_PROXIES, timeout=30)
+        resp.raise_for_status()
+    content_type = resp.headers.get('content-type', 'image/jpeg').split(';')[0]
+    upload_resp = requests.post(
+        f"{BSKY_API}/com.atproto.repo.uploadBlob",
+        data=resp.content,
+        headers={
+            'Authorization': f'Bearer {token}',
+            'Content-Type': content_type
+        },
+        proxies=NO_PROXY,
+        timeout=30
+    )
+    upload_resp.raise_for_status()
+    return upload_resp.json()['blob']
+
+
+def translate_with_groq(text):
+    client = Groq(api_key=GROQ_API_KEY, http_client=httpx.Client(trust_env=False))
     prompt = (
         "以下はトランプ大統領のTruth Social投稿です。日本語に翻訳してください。\n"
         "ルール：\n"
-        "- 必ず日本語（ひらがな・カタカナ・漢字）のみで出力する。韓国語・中国語など他の言語を混入させない\n"
-        "- 一般の日本人が読んでわかりやすく、読みやすい自然な日本語にする\n"
-        "- 直訳ではなく、意味が伝わる意訳を優先する\n"
-        "- 難しい英語の固有名詞や略語はカタカナまたは一般的な日本語表現に置き換える\n"
+        "- 自然な日本語にする\n"
         "- 投稿のトーンや強調（大文字表現など）を維持する\n"
         "- 翻訳のみを出力し、解説や注釈は不要\n\n"
         f"【原文】\n{text}"
     )
-    retry_delays = [5, 15, 30]
-    for attempt, delay in enumerate(retry_delays + [None], start=1):
-        try:
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt
-            )
-            return response.text.strip()
-        except Exception as e:
-            error_str = str(e)
-            log(f"Gemini API エラー (試行{attempt}): {error_str}")
-            if "503" in error_str and delay is not None:
-                log(f"一時的な高負荷、{delay}秒後にリトライ...")
-                time.sleep(delay)
-                continue
-            if "403" in error_str or "429" in error_str or "503" in error_str:
-                return "RATE_LIMITED"
-            return None
-    return "RATE_LIMITED"
+    try:
+        response = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content": prompt}]
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        error_str = str(e)
+        log(f"Groq API エラー: {error_str}")
+        if "429" in error_str:
+            return "RATE_LIMITED"
+        return None
 
 
 def bsky_login():
+    """Blueskyにログインしてセッション情報を返す"""
     resp = requests.post(
         f"{BSKY_API}/com.atproto.server.createSession",
         json={"identifier": BSKY_HANDLE, "password": BSKY_APP_PASSWORD},
-        timeout=30
+        proxies=NO_PROXY, timeout=30
     )
     resp.raise_for_status()
     session = resp.json()
-    did = session['did']
-    token = session['accessJwt']
-
-    # 動画アップロードに必要なPDS DIDを取得
-    pds_did = None
-    try:
-        desc_resp = requests.get(
-            f"{BSKY_API}/com.atproto.repo.describeRepo",
-            params={'repo': did},
-            timeout=30
-        )
-        desc_resp.raise_for_status()
-        for svc in desc_resp.json().get('didDoc', {}).get('service', []):
-            if svc.get('id') == '#atproto_pds':
-                pds_url = svc['serviceEndpoint']
-                pds_host = pds_url.replace('https://', '').rstrip('/')
-                pds_did = f"did:web:{pds_host}"
-                break
-    except Exception as e:
-        log(f"PDS DID取得エラー（動画アップロード不可）: {e}")
-
-    return did, token, pds_did
+    return session['did'], session['accessJwt']
 
 
-def fetch_media(page_url):
-    """trumpstruth.orgのページからメディアURL一覧を取得する"""
-    try:
-        ctx = ssl.create_default_context(cafile=certifi.where())
-        req = urllib.request.Request(page_url, headers={
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-        })
-        response = urllib.request.urlopen(req, context=ctx, timeout=30)
-        html = response.read()
-        soup = BeautifulSoup(html, 'html.parser')
-
-        images = []
-        videos = []
-        seen_urls = set()
-        for a_tag in soup.find_all('a', href=True):
-            href = a_tag['href']
-            if MEDIA_ARCHIVE_DOMAIN not in href or href in seen_urls:
-                continue
-            seen_urls.add(href)
-            href_lower = href.lower()
-            if any(href_lower.endswith(ext) for ext in IMAGE_EXTENSIONS):
-                # alt テキストを取得（img タグから）
-                img_tag = a_tag.find('img')
-                alt = img_tag.get('alt', '') if img_tag else ''
-                images.append({'url': href, 'alt': alt})
-            elif any(href_lower.endswith(ext) for ext in VIDEO_EXTENSIONS):
-                videos.append({'url': href})
-
-        return {'images': images[:4], 'videos': videos[:1]}
-    except Exception as e:
-        log(f"メディア取得エラー: {e}")
-        return {'images': [], 'videos': []}
-
-
-def upload_image_blob(image_url, token):
-    """画像をダウンロードしてBlueskyにアップロードする"""
-    try:
-        ctx = ssl.create_default_context(cafile=certifi.where())
-        req = urllib.request.Request(image_url, headers={
-            'User-Agent': 'Mozilla/5.0'
-        })
-        response = urllib.request.urlopen(req, context=ctx, timeout=60)
-        img_data = response.read()
-        content_type = response.headers.get('Content-Type', 'image/jpeg')
-
-        # 1MB超の場合はスキップ
-        if len(img_data) > 1_000_000:
-            log(f"画像サイズ超過（{len(img_data)} bytes）、スキップ: {image_url}")
-            return None
-
-        resp = requests.post(
-            f"{BSKY_API}/com.atproto.repo.uploadBlob",
-            data=img_data,
-            headers={
-                'Authorization': f'Bearer {token}',
-                'Content-Type': content_type
-            },
-            timeout=60
-        )
-        resp.raise_for_status()
-        return resp.json()['blob']
-    except Exception as e:
-        log(f"画像アップロードエラー: {e}")
-        return None
-
-
-def upload_video_blob(video_url, did, pds_did, token):
-    """動画をダウンロードしてBlueskyにアップロードする"""
-    try:
-        # 動画ダウンロード
-        ctx = ssl.create_default_context(cafile=certifi.where())
-        req = urllib.request.Request(video_url, headers={
-            'User-Agent': 'Mozilla/5.0'
-        })
-        response = urllib.request.urlopen(req, context=ctx, timeout=120)
-        vid_data = response.read()
-
-        # 50MB超の場合はスキップ
-        if len(vid_data) > 50_000_000:
-            log(f"動画サイズ超過（{len(vid_data)} bytes）、スキップ: {video_url}")
-            return None
-
-        # サービス認証トークン取得
-        auth_resp = requests.get(
-            f"{BSKY_API}/com.atproto.server.getServiceAuth",
-            params={
-                'aud': pds_did,
-                'lxm': 'com.atproto.repo.uploadBlob',
-                'exp': int(time.time()) + 60 * 30,
-            },
-            headers={'Authorization': f'Bearer {token}'},
-            timeout=30
-        )
-        auth_resp.raise_for_status()
-        service_token = auth_resp.json()['token']
-
-        # 動画アップロード
-        upload_resp = requests.post(
-            "https://video.bsky.app/xrpc/app.bsky.video.uploadVideo",
-            data=vid_data,
-            params={'did': did, 'name': 'video.mp4'},
-            headers={
-                'Authorization': f'Bearer {service_token}',
-                'Content-Type': 'video/mp4',
-            },
-            timeout=300
-        )
-        if upload_resp.status_code != 200:
-            log(f"動画アップロード失敗: {upload_resp.status_code} {upload_resp.text}")
-            return None
-
-        job_result = upload_resp.json()
-        job_id = job_result.get('jobId')
-
-        if job_id:
-            # 処理完了を待つ
-            for attempt in range(60):
-                time.sleep(3)
-                status_resp = requests.get(
-                    "https://video.bsky.app/xrpc/app.bsky.video.getJobStatus",
-                    params={'jobId': job_id},
-                    headers={'Authorization': f'Bearer {token}'},
-                    timeout=30
-                )
-                status = status_resp.json()
-                state = status.get('jobStatus', {}).get('state', 'unknown')
-                if state == 'JOB_STATE_COMPLETED':
-                    return status['jobStatus']['blob']
-                elif state == 'JOB_STATE_FAILED':
-                    log(f"動画処理失敗: {status}")
-                    return None
-            log("動画処理タイムアウト")
-            return None
-        else:
-            return job_result.get('blob')
-
-    except Exception as e:
-        log(f"動画アップロードエラー: {e}")
-        return None
-
-
-def build_media_embed(media, did, pds_did, token):
-    """メディア情報からBluesky embed辞書を生成する"""
-    # 動画が優先（1投稿に動画は1つのみ）
-    if media['videos']:
-        if not pds_did:
-            log("PDS DIDが取得できなかったため動画スキップ")
-        else:
-            video = media['videos'][0]
-            log(f"動画アップロード中: {video['url']}")
-            blob = upload_video_blob(video['url'], did, pds_did, token)
-            if blob:
-                return {'$type': 'app.bsky.embed.video', 'video': blob}
-
-    # 画像（最大4枚）
-    if media['images']:
-        uploaded = []
-        for img in media['images']:
-            log(f"画像アップロード中: {img['url']}")
-            blob = upload_image_blob(img['url'], token)
-            if blob:
-                uploaded.append({'alt': img.get('alt', ''), 'image': blob})
-        if uploaded:
-            return {'$type': 'app.bsky.embed.images', 'images': uploaded}
-
-    return None
-
-
-def fetch_ogp(page_url):
-    """ページのOGP情報（title, description, og:image）を取得する"""
-    try:
-        ctx = ssl.create_default_context(cafile=certifi.where())
-        req = urllib.request.Request(page_url, headers={
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-        })
-        response = urllib.request.urlopen(req, context=ctx, timeout=30)
-        soup = BeautifulSoup(response.read(), 'html.parser')
-
-        def meta(prop):
-            tag = soup.find('meta', property=prop) or soup.find('meta', attrs={'name': prop})
-            return (tag.get('content') or '').strip() if tag else ''
-
-        return {
-            'title': meta('og:title') or meta('twitter:title'),
-            'description': meta('og:description') or meta('twitter:description'),
-            'image_url': meta('og:image') or meta('twitter:image'),
-        }
-    except Exception as e:
-        log(f"OGP取得エラー: {e}")
-        return {'title': '', 'description': '', 'image_url': ''}
-
-
-def build_external_embed(page_url, token):
-    """OGP情報から app.bsky.embed.external を生成する"""
-    ogp = fetch_ogp(page_url)
-    if not ogp['title'] and not ogp['description']:
-        return None
-
-    external = {
-        'uri': page_url,
-        'title': ogp['title'] or page_url,
-        'description': ogp['description'],
-    }
-
-    if ogp['image_url']:
-        log(f"OGP画像アップロード中: {ogp['image_url']}")
-        blob = upload_image_blob(ogp['image_url'], token)
-        if blob:
-            external['thumb'] = blob
-
-    return {'$type': 'app.bsky.embed.external', 'external': external}
-
-
-def fetch_post_text(page_url):
-    """RSS descriptionが空の場合、ページからテキストを取得する"""
-    try:
-        ctx = ssl.create_default_context(cafile=certifi.where())
-        req = urllib.request.Request(page_url, headers={
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-        })
-        response = urllib.request.urlopen(req, context=ctx, timeout=30)
-        html = response.read()
-        soup = BeautifulSoup(html, 'html.parser')
-
-        # 投稿本文を取得
-        content_div = soup.find('div', class_='status__content')
-        if content_div:
-            text = content_div.get_text(separator='\n').strip()
-            if text:
-                return text
-
-        # 本文がない場合、添付テキスト（動画トランスクリプト等）を取得
-        for att in soup.find_all('div', class_='status-details-attachment__text'):
-            text = att.get_text(separator='\n').strip()
-            if text:
-                return text
-
-        return ''
-    except Exception as e:
-        log(f"ページテキスト取得エラー: {e}")
-        return ''
-
-
-def detect_url_facets(text):
-    """テキスト内のURLを検出してBluesky facets（リッチテキスト）を生成する"""
-    facets = []
-    text_bytes = text.encode('utf-8')
-    for m in re.finditer(r'https?://[^\s\u3000）)」』】>]+', text):
-        url = m.group()
-        # バイト位置を計算（Blueskyはバイトオフセットを使用）
-        byte_start = len(text[:m.start()].encode('utf-8'))
-        byte_end = byte_start + len(url.encode('utf-8'))
-        facets.append({
-            'index': {'byteStart': byte_start, 'byteEnd': byte_end},
-            'features': [{'$type': 'app.bsky.richtext.facet#link', 'uri': url}]
-        })
-    return facets
-
-
-def post_to_bluesky(chunks, did, token, embed=None):
+def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None):
+    """Blueskyに投稿する。複数チャンクの場合はスレッドにする"""
     root_ref = None
     parent_ref = None
 
@@ -433,14 +325,21 @@ def post_to_bluesky(chunks, did, token, embed=None):
             'langs': ['ja']
         }
 
-        # メディアは最初の投稿にのみ添付
-        if i == 0 and embed:
-            record['embed'] = embed
+        # 最初の投稿にのみメディアを添付（動画優先、なければ画像）
+        if i == 0:
+            if video_blob:
+                record['embed'] = {
+                    '$type': 'app.bsky.embed.video',
+                    'video': video_blob,
+                    'alt': ''
+                }
+            elif image_blobs:
+                record['embed'] = {
+                    '$type': 'app.bsky.embed.images',
+                    'images': [{'image': blob, 'alt': ''} for blob in image_blobs]
+                }
 
-        facets = detect_url_facets(chunk)
-        if facets:
-            record['facets'] = facets
-
+        # スレッド（リプライ）の場合
         if parent_ref is not None:
             record['reply'] = {
                 'root': root_ref,
@@ -455,7 +354,7 @@ def post_to_bluesky(chunks, did, token, embed=None):
                 'record': record
             },
             headers={'Authorization': f'Bearer {token}'},
-            timeout=30
+            proxies=NO_PROXY, timeout=30
         )
         resp.raise_for_status()
         result = resp.json()
@@ -474,13 +373,17 @@ def post_to_bluesky(chunks, did, token, embed=None):
 def main():
     log("=== Trump翻訳ボット 実行開始 ===")
 
-    ctx = ssl.create_default_context(cafile=certifi.where())
-    req = urllib.request.Request(RSS_URL, headers={
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-    })
+    # RSS取得（プロキシ環境変数を無視してdirect接続）
     try:
-        response = urllib.request.urlopen(req, context=ctx)
-        feed = feedparser.parse(response.read())
+        rss_resp = requests.get(
+            RSS_URL,
+            headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+            proxies=NO_PROXY,
+            verify=certifi.where(),
+            timeout=30
+        )
+        rss_resp.raise_for_status()
+        feed = feedparser.parse(rss_resp.content)
     except Exception as e:
         log(f"RSSフィード取得エラー: {e}")
         return
@@ -494,31 +397,58 @@ def main():
     processed = load_processed()
     new_posts = []
 
-    for entry in reversed(feed.entries):
+    for entry in reversed(feed.entries):  # 古い順に処理
         post_id = entry.get('id') or entry.get('link', '')
         if post_id in processed:
             continue
 
         content = entry.get('description') or entry.get('summary', '')
+        if not content:
+            processed.append(post_id)
+            continue
+
         soup = BeautifulSoup(content, 'html.parser')
         text = soup.get_text(separator='\n').strip()
-
-        # RSS descriptionが空の場合、ページ本体からテキストを取得
-        if not text:
-            page_url = entry.get('link', '')
-            if page_url:
-                log(f"RSS空のためページ取得: {page_url}")
-                text = fetch_post_text(page_url)
 
         if not text:
             processed.append(post_id)
             continue
 
+        # Truth Social APIからメディア取得（プロキシ経由）、失敗時はRSS HTMLにフォールバック
+        video_url = None
+        image_urls = []
+        ts_post_id = get_ts_post_id(entry.get('link', ''))
+        if ts_post_id:
+            try:
+                video_url, image_urls = get_ts_media(ts_post_id)
+                log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
+            except Exception as e:
+                log(f"Truth Social APIエラー（フォールバック）: {e}")
+                video_url = extract_video(content)
+                if not video_url:
+                    status_link = entry.get('link', '')
+                    image_urls = scrape_images_from_page(status_link) if status_link else []
+                    if not image_urls:
+                        image_urls = extract_images(content)
+        else:
+            video_url = extract_video(content)
+            if not video_url:
+                status_link = entry.get('link', '')
+                image_urls = scrape_images_from_page(status_link) if status_link else []
+                if not image_urls:
+                    image_urls = extract_images(content)
+
+        # URL重複排除（同じ画像が複数回添付されるのを防ぐ）
+        seen = set()
+        image_urls = [u for u in image_urls if not (u in seen or seen.add(u))]
+
         new_posts.append({
             'id': post_id,
             'text': text,
             'link': entry.get('link', ''),
-            'published': entry.get('published', '')
+            'published': entry.get('published', ''),
+            'video_url': video_url,
+            'image_urls': image_urls
         })
 
     if not new_posts:
@@ -528,8 +458,9 @@ def main():
 
     log(f"新規投稿: {len(new_posts)}件")
 
+    # Blueskyログイン
     try:
-        did, token, pds_did = bsky_login()
+        did, token = bsky_login()
         log(f"Blueskyログイン成功 (DID: {did})")
     except Exception as e:
         log(f"Blueskyログインエラー: {e}")
@@ -538,9 +469,14 @@ def main():
     for post in new_posts:
         log(f"翻訳中: {post['text'][:80]}...")
 
-        translation = translate_with_gemini(post['text'])
+        # URLのみの投稿は翻訳不要（LLMが断りメッセージを返すのを防ぐ）
+        if re.match(r'^https?://\S+$', post['text'].strip()):
+            translation = post['text'].strip()
+            log("URLのみの投稿のため翻訳スキップ")
+        else:
+            translation = translate_with_groq(post['text'])
         if translation == "RATE_LIMITED":
-            log("Gemini APIレート制限、残りの投稿は次回処理")
+            log("Groq APIレート制限、残りの投稿は次回処理")
             save_processed(processed)
             return
         if not translation:
@@ -549,23 +485,30 @@ def main():
             save_processed(processed)
             continue
 
+        # 動画または画像をアップロード（動画優先）
+        video_blob = None
+        image_blobs = []
+        if post.get('video_url'):
+            try:
+                video_blob = upload_video_to_bsky(post['video_url'], did, token)
+                log(f"動画アップロード成功: {post['video_url'][:60]}")
+            except Exception as e:
+                log(f"動画アップロード失敗（スキップ）: {e}")
+        else:
+            for url in post.get('image_urls', []):
+                try:
+                    blob = upload_image_to_bsky(url, did, token)
+                    image_blobs.append(blob)
+                    log(f"画像アップロード成功: {url[:60]}")
+                except Exception as e:
+                    log(f"画像アップロード失敗（スキップ）: {e}")
+
+        media_info = f"動画あり" if video_blob else f"画像{len(image_blobs)}枚"
         chunks = split_for_posts(translation, post['link'])
-
-        # メディア取得・アップロード
-        embed = None
-        if post['link']:
-            media = fetch_media(post['link'])
-            if media['images'] or media['videos']:
-                log(f"メディア検出: 画像{len(media['images'])}枚, 動画{len(media['videos'])}本")
-                embed = build_media_embed(media, did, pds_did, token)
-            if embed is None:
-                # 画像・動画なし → OGPリンクカードにフォールバック
-                embed = build_external_embed(post['link'], token)
-
-        log(f"Bluesky投稿中 ({len(chunks)}ポスト): {translation[:80]}...")
+        log(f"Bluesky投稿中 ({len(chunks)}ポスト, {media_info}): {translation[:80]}...")
 
         try:
-            post_uri = post_to_bluesky(chunks, did, token, embed=embed)
+            post_uri = post_to_bluesky(chunks, did, token, image_blobs, video_blob)
             log(f"投稿成功 (URI: {post_uri})")
         except Exception as e:
             log(f"Bluesky投稿エラー: {e}")
