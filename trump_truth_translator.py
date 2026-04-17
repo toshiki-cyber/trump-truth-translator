@@ -171,10 +171,12 @@ def fetch_media(page_url):
 
         images = []
         videos = []
+        seen_urls = set()
         for a_tag in soup.find_all('a', href=True):
             href = a_tag['href']
-            if MEDIA_ARCHIVE_DOMAIN not in href:
+            if MEDIA_ARCHIVE_DOMAIN not in href or href in seen_urls:
                 continue
+            seen_urls.add(href)
             href_lower = href.lower()
             if any(href_lower.endswith(ext) for ext in IMAGE_EXTENSIONS):
                 # alt テキストを取得（img タグから）
