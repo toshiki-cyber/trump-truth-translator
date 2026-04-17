@@ -62,18 +62,13 @@ def grapheme_len(text):
     return len(text)
 
 
-def split_for_posts(text, source_url):
-    """テキストをBluesky投稿用に分割する。最後の投稿にリンクを付加"""
-    suffix = f"\n{source_url}"
-    suffix_len = len(suffix)
-
+def split_for_posts(text):
+    """テキストをBluesky投稿用に分割する"""
     max_len = BSKY_MAX_LENGTH
 
-    # 1投稿に収まる場合
-    if grapheme_len(text) + suffix_len <= max_len:
-        return [text + suffix]
+    if grapheme_len(text) <= max_len:
+        return [text]
 
-    # スレッドに分割
     chunks = []
     remaining = text
     while remaining:
@@ -94,13 +89,26 @@ def split_for_posts(text, source_url):
         chunks.append(remaining[:best])
         remaining = remaining[best:].lstrip('\n')
 
-    # 最後のチャンクにsuffixを追加（収まらなければ新チャンクに）
-    if grapheme_len(chunks[-1]) + suffix_len <= max_len:
-        chunks[-1] += suffix
-    else:
-        chunks.append(source_url)
-
     return chunks
+
+
+def extract_facets(text):
+    """テキスト内のURLをBluesky richtext facetとして返す（byteオフセット）"""
+    facets = []
+    for m in re.finditer(r'https?://[^\s]+', text):
+        url = m.group()
+        byte_start = len(text[:m.start()].encode('utf-8'))
+        byte_end = len(text[:m.end()].encode('utf-8'))
+        facets.append({
+            '$type': 'app.bsky.richtext.facet',
+            'index': {
+                '$type': 'app.bsky.richtext.facet#byteSlice',
+                'byteStart': byte_start,
+                'byteEnd': byte_end
+            },
+            'features': [{'$type': 'app.bsky.richtext.facet#link', 'uri': url}]
+        })
+    return facets
 
 
 def get_ts_post_id(trumpstruth_url):
@@ -325,6 +333,10 @@ def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None):
             'langs': ['ja']
         }
 
+        facets = extract_facets(chunk)
+        if facets:
+            record['facets'] = facets
+
         # 最初の投稿にのみメディアを添付（動画優先、なければ画像）
         if i == 0:
             if video_blob:
@@ -504,7 +516,7 @@ def main():
                     log(f"画像アップロード失敗（スキップ）: {e}")
 
         media_info = f"動画あり" if video_blob else f"画像{len(image_blobs)}枚"
-        chunks = split_for_posts(translation, post['link'])
+        chunks = split_for_posts(translation)
         log(f"Bluesky投稿中 ({len(chunks)}ポスト, {media_info}): {translation[:80]}...")
 
         try:
