@@ -23,10 +23,8 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 BSKY_HANDLE = os.environ.get("BSKY_HANDLE", "trump-ts-jp.bsky.social")
 BSKY_APP_PASSWORD = os.environ.get("BSKY_APP_PASSWORD", "")
 BSKY_API = "https://bsky.social/xrpc"
-BSKY_PROXIES = {
-    "http": "http://localhost:50717",
-    "https": "http://localhost:50717"
-}
+_proxy_url = os.environ.get("PROXY_URL", "http://localhost:50717" if os.environ.get("GITHUB_ACTIONS") != "true" else "")
+BSKY_PROXIES = {"http": _proxy_url, "https": _proxy_url} if _proxy_url else None
 # プロキシを使わない接続（trumpstruth.org, bsky.social など）
 NO_PROXY = {"http": "", "https": ""}
 
@@ -135,15 +133,17 @@ def get_ts_post_id(trumpstruth_url):
 
 
 def get_ts_media(post_id):
-    """Truth Social APIからメディア添付を取得（プロキシ経由）"""
-    resp = requests.get(
-        f'https://truthsocial.com/api/v1/statuses/{post_id}',
-        headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
-        proxies=BSKY_PROXIES,
-        verify=certifi.where(),
-        timeout=30
-    )
-    resp.raise_for_status()
+    """Truth Social APIからメディア添付を取得（direct優先、失敗時proxy）"""
+    url = f'https://truthsocial.com/api/v1/statuses/{post_id}'
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'}
+    try:
+        resp = requests.get(url, headers=headers, proxies=NO_PROXY, verify=certifi.where(), timeout=30)
+        resp.raise_for_status()
+    except Exception:
+        if not BSKY_PROXIES:
+            raise
+        resp = requests.get(url, headers=headers, proxies=BSKY_PROXIES, verify=certifi.where(), timeout=30)
+        resp.raise_for_status()
     data = resp.json()
     video_url = None
     image_urls = []
@@ -230,6 +230,8 @@ def upload_video_to_bsky(video_url, did, token):
     try:
         head = requests.head(video_url, proxies=NO_PROXY, timeout=15, allow_redirects=True)
     except Exception:
+        if not BSKY_PROXIES:
+            raise
         head = requests.head(video_url, proxies=BSKY_PROXIES, timeout=15, allow_redirects=True)
     size = int(head.headers.get('content-length', 0))
     if size > MAX_SIZE:
@@ -239,6 +241,8 @@ def upload_video_to_bsky(video_url, did, token):
         resp = requests.get(video_url, proxies=NO_PROXY, timeout=120)
         resp.raise_for_status()
     except Exception:
+        if not BSKY_PROXIES:
+            raise
         resp = requests.get(video_url, proxies=BSKY_PROXIES, timeout=120)
         resp.raise_for_status()
 
@@ -266,6 +270,8 @@ def upload_image_to_bsky(image_url, did, token):
         resp = requests.get(image_url, proxies=NO_PROXY, timeout=30)
         resp.raise_for_status()
     except Exception:
+        if not BSKY_PROXIES:
+            raise
         resp = requests.get(image_url, proxies=BSKY_PROXIES, timeout=30)
         resp.raise_for_status()
     content_type = resp.headers.get('content-type', 'image/jpeg').split(';')[0]
