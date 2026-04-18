@@ -488,10 +488,11 @@ def main():
     for post in new_posts:
         log(f"翻訳中: {post['text'][:80]}...")
 
-        # URLのみの投稿は翻訳不要（LLMが断りメッセージを返すのを防ぐ）
-        if re.match(r'^https?://\S+$', post['text'].strip()):
+        # URL・空白を除いた本文がなければ翻訳スキップ（メディアのみ投稿など）
+        text_body = re.sub(r'https?://\S+', '', post['text']).strip()
+        if not text_body:
             translation = post['text'].strip()
-            log("URLのみの投稿のため翻訳スキップ")
+            log("本文なし（メディアのみまたはURLのみ）のため翻訳スキップ")
         else:
             translation = translate_with_claude(post['text'])
         if translation == "RATE_LIMITED":
