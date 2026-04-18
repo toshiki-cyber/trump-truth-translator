@@ -488,18 +488,18 @@ def main():
     for post in new_posts:
         log(f"翻訳中: {post['text'][:80]}...")
 
-        # URL・空白を除いた本文がなければ翻訳スキップ（メディアのみ投稿など）
+        # URLを除いた本文のみをClaudeに渡す（URLがあるとアクセス拒否メッセージを返すため）
         text_body = re.sub(r'https?://\S+', '', post['text']).strip()
         if not text_body:
-            translation = post['text'].strip()
+            translation = ""
             log("本文なし（メディアのみまたはURLのみ）のため翻訳スキップ")
         else:
-            translation = translate_with_claude(post['text'])
+            translation = translate_with_claude(text_body)
         if translation == "RATE_LIMITED":
             log("Claude APIレート制限、残りの投稿は次回処理")
             save_processed(processed)
             return
-        if not translation:
+        if translation is None:
             log("翻訳失敗、スキップ")
             processed.append(post['id'])
             save_processed(processed)
