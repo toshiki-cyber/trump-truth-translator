@@ -90,6 +90,27 @@ def split_for_posts(text):
     return chunks
 
 
+def normalize_urls(text):
+    """RSSフィードで途中改行されたURLを修復し、https://のないURLにプロトコルを付加する"""
+    # URL内の改行を結合（次行がスペースなし・日本語なしならURL継続とみなす）
+    for _ in range(5):
+        new = re.sub(
+            r'((?:https?://|(?:[a-zA-Z0-9][-a-zA-Z0-9]*\.)+[a-zA-Z]{2,}/)[^\s\n]*)\n([^\s\n\u3040-\uffff]+)',
+            r'\1\2',
+            text
+        )
+        if new == text:
+            break
+        text = new
+    # 裸のドメインURL（https://なし）にプロトコルを付加
+    text = re.sub(
+        r'(?<!\S)((?:[a-zA-Z0-9][-a-zA-Z0-9]*\.)+(?:com|net|org|gov|edu|io|news|social|app|co|jp)/[^\s]*)',
+        r'https://\1',
+        text
+    )
+    return text
+
+
 def extract_facets(text):
     """テキスト内のURLをBluesky richtext facetとして返す（byteオフセット）"""
     facets = []
@@ -427,7 +448,7 @@ def main():
             continue
 
         soup = BeautifulSoup(content, 'html.parser')
-        text = soup.get_text(separator='\n').strip()
+        text = normalize_urls(soup.get_text(separator='\n').strip())
 
         if not text:
             processed.append(post_id)
