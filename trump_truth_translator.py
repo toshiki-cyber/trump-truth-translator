@@ -511,6 +511,8 @@ def main():
 
         # URLを除いた本文のみをClaudeに渡す（URLがあるとアクセス拒否メッセージを返すため）
         text_body = re.sub(r'https?://\S+', '', post['text']).strip()
+        # "RT:" だけ残るパターン（RTでURLが本文）も本文なし扱い
+        text_body = re.sub(r'^\s*RT\s*:?\s*$', '', text_body, flags=re.IGNORECASE).strip()
         if not text_body:
             translation = ""
             log("本文なし（メディアのみまたはURLのみ）のため翻訳スキップ")
@@ -522,6 +524,22 @@ def main():
             return
         if translation is None:
             log("翻訳失敗、スキップ")
+            processed.append(post['id'])
+            save_processed(processed)
+            continue
+        # Claude拒否メッセージ検出（翻訳対象がないと判断した場合の応答を投稿しない）
+        refusal_phrases = [
+            "申し訳ありませんが、",
+            "申し訳ございませんが、",
+            "すみませんが、翻訳",
+            "I appreciate you wanting to translate",
+            "翻訳対象の英文が",
+            "翻訳対象の原文が",
+            "原文が記載されていない",
+            "原文の投稿内容が示されていない",
+        ]
+        if translation and any(phrase in translation for phrase in refusal_phrases):
+            log(f"Claude拒否メッセージを検出、スキップ: {translation[:80]}")
             processed.append(post['id'])
             save_processed(processed)
             continue
