@@ -510,14 +510,20 @@ def main():
         log(f"翻訳中: {post['text'][:80]}...")
 
         # URLを除いた本文のみをClaudeに渡す（URLがあるとアクセス拒否メッセージを返すため）
+        post_urls = re.findall(r'https?://\S+', post['text'])
         text_body = re.sub(r'https?://\S+', '', post['text']).strip()
         # "RT:" だけ残るパターン（RTでURLが本文）も本文なし扱い
         text_body = re.sub(r'^\s*RT\s*:?\s*$', '', text_body, flags=re.IGNORECASE).strip()
         if not text_body:
-            translation = ""
+            translation = '\n'.join(post_urls) if post_urls else ""
             log("本文なし（メディアのみまたはURLのみ）のため翻訳スキップ")
         else:
             translation = translate_with_claude(text_body)
+            # 翻訳後にURLを末尾に追加（Claudeが除外したURLを復元）
+            if translation and translation not in ("RATE_LIMITED",):
+                for url in post_urls:
+                    if url not in translation:
+                        translation = translation.rstrip() + '\n' + url
         if translation == "RATE_LIMITED":
             log("Claude APIレート制限、残りの投稿は次回処理")
             save_processed(processed)
