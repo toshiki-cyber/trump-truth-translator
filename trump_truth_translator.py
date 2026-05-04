@@ -12,6 +12,7 @@ import os
 import re
 import certifi
 import time
+import difflib
 import anthropic
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
@@ -95,7 +96,7 @@ def normalize_urls(text):
     # URL内の改行を結合（次行がスペースなし・日本語なしならURL継続とみなす）
     for _ in range(5):
         new = re.sub(
-            r'((?:https?://|(?:[a-zA-Z0-9][-a-zA-Z0-9]*\.)+[a-zA-Z]{2,}/)[^\s\n]*)\n([^\s\n\u3040-\uffff]+)',
+            r'((?:https?://|(?:[a-zA-Z0-9][-a-zA-Z0-9]*\.)+[a-zA-Z]{2,}/)[^\s\n]*)\n([^\s\n぀-￿]+)',
             r'\1\2',
             text
         )
@@ -109,6 +110,26 @@ def normalize_urls(text):
         text
     )
     return text
+
+
+def has_japanese(text):
+    return bool(re.search(r'[぀-ヿ一-鿿]', text))
+
+
+def text_fingerprint(text):
+    """RT @xxx プレフィックスを除いた先頭150文字 — 内容重複チェック用"""
+    t = re.sub(r'^RT\s+@\S+\s+', '', text.strip())
+    return 'fp:' + t[:150]
+
+
+def is_similar_to_processed(fp, processed, threshold=0.92):
+    """保存済みフィンガープリントと類似度比較（誤字修正再投稿の二重投稿防止）"""
+    for p in processed:
+        if p.startswith('fp:'):
+            ratio = difflib.SequenceMatcher(None, fp, p).ratio()
+            if ratio >= threshold:
+                return True
+    return False
 
 
 def extract_facets(text):
@@ -315,28 +336,55 @@ def upload_image_to_bsky(image_url, did, token):
 
 
 def translate_with_claude(text):
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    # URLをプレースホルダーに置換して翻訳後に復元
+    urls = re.findall(r'https?://\S+', text)
+    text_for_translation = text
+    for i, url in enumerate(urls):
+        text_for_translation = text_for_translation.replace(url, f'[URL_{i}]', 1)
+
+    # プロキシなしのhttpxクライアントを明示（環境変数プロキシの影響を排除）
+    client = anthropic.Anthropic(
+        api_key=ANTHROPIC_API_KEY,
+        http_client=httpx.Client(proxy=None)
+    )
     prompt = (
         "以下はトランプ大統領のTruth Social投稿です。日本語に翻訳してください。\n"
         "ルール：\n"
         "- 自然な日本語にする\n"
+        "- 文体は常体（だ・である調）を使う\n"
         "- 投稿のトーンや強調（大文字表現など）を維持する\n"
+        "- [URL_0]、[URL_1]などのプレースホルダーはそのまま保持すること\n"
         "- 翻訳のみを出力し、解説や注釈は不要\n\n"
-        f"【原文】\n{text}"
+        f"【原文】\n{text_for_translation}"
     )
-    try:
-        response = client.messages.create(
-            model="claude-haiku-4-5-20251001",
-            max_tokens=1024,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        return response.content[0].text.strip()
-    except Exception as e:
-        error_str = str(e)
-        log(f"Claude API エラー: {error_str}")
-        if "429" in error_str or "overloaded" in error_str.lower():
-            return "RATE_LIMITED"
-        return None
+    for attempt in range(3):
+        try:
+            response = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=1024,
+                messages=[{"role": "user", "content": prompt}]
+            )
+            return response.content[0].text.strip()
+        except Exception as e:
+            error_str = str(e)
+            log(f"Claude API エラー (試行{attempt + 1}/3): {error_str}")
+            if "429" in error_str or "overloaded" in error_str.lower():
+                return "RATE_LIMITED"
+            if attempt < 2:
+                time.sleep(5 * (attempt + 1))
+    return None
+
+
+def restore_urls(translated, urls):
+    """翻訳結果にURLプレースホルダーを元のURLに戻す。残ったURLは末尾に追加"""
+    result = translated
+    for i, url in enumerate(urls):
+        result = result.replace(f'[URL_{i}]', url)
+    # プレースホルダーが消えたURLを末尾に追加
+    for url in urls:
+        if url not in result:
+            result = result.rstrip() + '\n' + url
+    return result
 
 
 def bsky_login():
@@ -452,11 +500,22 @@ def main():
             continue
 
         soup = BeautifulSoup(content, 'html.parser')
+        for a in soup.find_all('a', href=True):
+            href = a.get('href', '')
+            if href.startswith('http'):
+                a.replace_with(href)
         text = normalize_urls(soup.get_text(separator='\n').strip())
 
         if not text:
             processed.append(post_id)
             continue
+
+        fp = text_fingerprint(text)
+        if fp in processed or is_similar_to_processed(fp, processed):
+            log(f"重複スキップ（内容重複）: {text[:60]}...")
+            processed.append(post_id)
+            continue
+        processed.append(fp)
 
         # Truth Social APIからメディア取得（プロキシ経由）、失敗時はRSS HTMLにフォールバック
         video_url = None
@@ -513,22 +572,21 @@ def main():
     for post in new_posts:
         log(f"翻訳中: {post['text'][:80]}...")
 
-        # URLを除いた本文のみをClaudeに渡す（URLがあるとアクセス拒否メッセージを返すため）
+        # URLとホワイトスペース（\xa0等Unicode空白含む）を除いた実質的なテキストがあるか確認
         post_urls = re.findall(r'https?://\S+', post['text'])
-        text_body = re.sub(r'https?://\S+', '', post['text']).strip()
-        # "RT:" だけ残るパターン（RTでURLが本文）も本文なし扱い
-        text_body = re.sub(r'^\s*RT\s*:?\s*$', '', text_body, flags=re.IGNORECASE).strip()
-        if not text_body:
-            translation = '\n'.join(post_urls) if post_urls else ""
-            log("本文なし（メディアのみまたはURLのみ）のため翻訳スキップ")
+        meaningful_text = re.sub(r'https?://\S+', '', post['text'])
+        # "RT:" などの短いプレフィックスも除外
+        meaningful_text = re.sub(r'\bRT:\s*', '', meaningful_text)
+        meaningful_text = re.sub(r'[\s\xa0]+', '', meaningful_text)
+        if not meaningful_text:
+            # テキストなし（画像のみ or URLのみ or RTのみ）→ 翻訳不要
+            translation = '\n'.join(post_urls) if post_urls else "【画像投稿】"
+            log("テキストなし（画像のみ/URLのみ/RTのみ）のため翻訳スキップ")
         else:
-            translation = translate_with_claude(text_body)
-            # 翻訳後にURLを末尾に追加（Claudeが除外したURLを復元）
+            translation = translate_with_claude(post['text'])
             if translation and translation not in ("RATE_LIMITED",):
-                for url in post_urls:
-                    if url not in translation:
-                        translation = translation.rstrip() + '\n' + url
-                if not re.search(r'[぀-ヿ一-鿿]', translation):
+                translation = restore_urls(translation, post_urls)
+                if not has_japanese(translation):
                     log(f"翻訳結果に日本語なし（LLMエラー応答）、スキップ: {translation[:80]}")
                     processed.append(post['id'])
                     save_processed(processed)
@@ -537,23 +595,23 @@ def main():
             log("Claude APIレート制限、残りの投稿は次回処理")
             save_processed(processed)
             return
-        if translation is None:
+        if not translation:
             log("翻訳失敗、スキップ")
             processed.append(post['id'])
             save_processed(processed)
             continue
-        # Claude拒否メッセージ検出（翻訳対象がないと判断した場合の応答を投稿しない）
+        # Claude拒否メッセージ検出（「翻訳対象がない」系の応答を投稿しない）
         refusal_phrases = [
-            "申し訳ありませんが、",
-            "申し訳ございませんが、",
-            "すみませんが、翻訳",
+            "翻訳対象となるテキストが提供されていません",
+            "翻訳してほしい",
+            "翻訳するテキストが",
+            "テキストが提供されていません",
+            "申し訳ありません",
+            "申し訳ございません",
+            "I appreciate your request",
             "I appreciate you wanting to translate",
-            "翻訳対象の英文が",
-            "翻訳対象の原文が",
-            "原文が記載されていない",
-            "原文の投稿内容が示されていない",
         ]
-        if translation and any(phrase in translation for phrase in refusal_phrases):
+        if any(phrase in translation for phrase in refusal_phrases):
             log(f"Claude拒否メッセージを検出、スキップ: {translation[:80]}")
             processed.append(post['id'])
             save_processed(processed)
@@ -577,7 +635,7 @@ def main():
                 except Exception as e:
                     log(f"画像アップロード失敗（スキップ）: {e}")
 
-        media_info = f"動画あり" if video_blob else f"画像{len(image_blobs)}枚"
+        media_info = "動画あり" if video_blob else f"画像{len(image_blobs)}枚"
         chunks = split_for_posts(translation)
         log(f"Bluesky投稿中 ({len(chunks)}ポスト, {media_info}): {translation[:80]}...")
 
