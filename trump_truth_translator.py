@@ -287,13 +287,17 @@ def upload_video_to_bsky(video_url, did, token):
 
 def upload_image_to_bsky(image_url, did, token):
     """画像をダウンロードしてBlueskyにアップロード、blobを返す（direct優先、失敗時proxy）"""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'Referer': 'https://truthsocial.com/'
+    }
     try:
-        resp = requests.get(image_url, proxies=NO_PROXY, timeout=30)
+        resp = requests.get(image_url, headers=headers, proxies=NO_PROXY, timeout=30)
         resp.raise_for_status()
     except Exception:
         if not BSKY_PROXIES:
             raise
-        resp = requests.get(image_url, proxies=BSKY_PROXIES, timeout=30)
+        resp = requests.get(image_url, headers=headers, proxies=BSKY_PROXIES, timeout=30)
         resp.raise_for_status()
     content_type = resp.headers.get('content-type', 'image/jpeg').split(';')[0]
     upload_resp = requests.post(
@@ -524,6 +528,11 @@ def main():
                 for url in post_urls:
                     if url not in translation:
                         translation = translation.rstrip() + '\n' + url
+                if not re.search(r'[぀-ヿ一-鿿]', translation):
+                    log(f"翻訳結果に日本語なし（LLMエラー応答）、スキップ: {translation[:80]}")
+                    processed.append(post['id'])
+                    save_processed(processed)
+                    continue
         if translation == "RATE_LIMITED":
             log("Claude APIレート制限、残りの投稿は次回処理")
             save_processed(processed)
