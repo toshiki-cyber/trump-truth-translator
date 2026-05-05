@@ -174,8 +174,8 @@ def get_ts_post_id(trumpstruth_url):
     return None
 
 
-def get_ts_media(post_id):
-    """Truth Social APIからメディア添付を取得（direct優先、失敗時proxy）"""
+def get_ts_post_data(post_id):
+    """Truth Social APIから投稿データ全体を取得（reblog情報含む）"""
     url = f'https://truthsocial.com/api/v1/statuses/{post_id}'
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'}
     try:
@@ -186,11 +186,16 @@ def get_ts_media(post_id):
             raise
         resp = requests.get(url, headers=headers, proxies=BSKY_PROXIES, verify=certifi.where(), timeout=30)
         resp.raise_for_status()
-    data = resp.json()
+    return resp.json()
+
+
+def extract_media_from_ts_data(data):
+    """Truth Social APIレスポンスからメディアURLを抽出（RT時はreblog側を参照）"""
+    source = data.get('reblog') or data
     video_url = None
     image_urls = []
     seen_urls = set()
-    for att in data.get('media_attachments', []):
+    for att in source.get('media_attachments', []):
         att_type = att.get('type', '')
         url = att.get('url', '')
         if att_type in ('video', 'gifv') and not video_url:
@@ -199,6 +204,28 @@ def get_ts_media(post_id):
             image_urls.append(url)
             seen_urls.add(url)
     return video_url, image_urls
+
+
+def extract_rt_info_from_ts_data(data):
+    """RT投稿の場合、(表示名, アカウント名) を返す。RTでなければ (None, None)"""
+    reblog = data.get('reblog')
+    if not reblog:
+        return None, None
+    account = reblog.get('account', {})
+    display_name = account.get('display_name', '').strip()
+    acct = account.get('acct', '').strip()
+    return display_name or acct, acct
+
+
+def parse_rt_body(text):
+    """RT投稿のプレフィックス（RT https://... or RT @xxx）を除去して本文のみ返す"""
+    m = re.match(r'^RT\s+https?://\S+\s*(.*)', text, re.DOTALL)
+    if m:
+        return m.group(1).strip()
+    m = re.match(r'^RT\s+@\S+\s*(.*)', text, re.DOTALL)
+    if m:
+        return m.group(1).strip()
+    return text
 
 
 def extract_images(html_content):
@@ -517,14 +544,19 @@ def main():
             continue
         processed.append(fp)
 
-        # Truth Social APIからメディア取得（プロキシ経由）、失敗時はRSS HTMLにフォールバック
+        # Truth Social APIからメディア・RT情報取得、失敗時はRSS HTMLにフォールバック
         video_url = None
         image_urls = []
+        rt_display_name, rt_acct = None, None
         ts_post_id = get_ts_post_id(entry.get('link', ''))
         if ts_post_id:
             try:
-                video_url, image_urls = get_ts_media(ts_post_id)
+                ts_data = get_ts_post_data(ts_post_id)
+                video_url, image_urls = extract_media_from_ts_data(ts_data)
+                rt_display_name, rt_acct = extract_rt_info_from_ts_data(ts_data)
                 log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
+                if rt_display_name:
+                    log(f"RT投稿: {rt_display_name} (@{rt_acct})")
             except Exception as e:
                 log(f"Truth Social APIエラー（フォールバック）: {e}")
                 video_url = extract_video(content)
@@ -545,13 +577,18 @@ def main():
         seen = set()
         image_urls = [u for u in image_urls if not (u in seen or seen.add(u))]
 
+        # RTの場合はプレフィックスを除いた本文のみを翻訳対象にする
+        body_text = parse_rt_body(text) if text.startswith('RT') else text
+
         new_posts.append({
             'id': post_id,
-            'text': text,
+            'text': body_text,
             'link': entry.get('link', ''),
             'published': entry.get('published', ''),
             'video_url': video_url,
-            'image_urls': image_urls
+            'image_urls': image_urls,
+            'rt_display_name': rt_display_name,
+            'rt_acct': rt_acct,
         })
 
     if not new_posts:
@@ -635,9 +672,16 @@ def main():
                 except Exception as e:
                     log(f"画像アップロード失敗（スキップ）: {e}")
 
+        # RT投稿の場合はヘッダーを先頭に付ける
+        if post.get('rt_display_name'):
+            rt_header = f"🔁 Donald Trump がリポスト\n{post['rt_display_name']} (@{post['rt_acct']})\n\n"
+            full_translation = rt_header + translation
+        else:
+            full_translation = translation
+
         media_info = "動画あり" if video_blob else f"画像{len(image_blobs)}枚"
-        chunks = split_for_posts(translation)
-        log(f"Bluesky投稿中 ({len(chunks)}ポスト, {media_info}): {translation[:80]}...")
+        chunks = split_for_posts(full_translation)
+        log(f"Bluesky投稿中 ({len(chunks)}ポスト, {media_info}): {full_translation[:80]}...")
 
         try:
             post_uri = post_to_bluesky(chunks, did, token, image_blobs, video_blob)
