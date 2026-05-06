@@ -198,10 +198,11 @@ def extract_media_from_ts_data(data):
     for att in source.get('media_attachments', []):
         att_type = att.get('type', '')
         url = att.get('url', '')
+        preview_url = att.get('preview_url', '')
         if att_type in ('video', 'gifv') and not video_url:
             video_url = url
         elif att_type == 'image' and url not in seen_urls and len(image_urls) < 4:
-            image_urls.append(url)
+            image_urls.append((url, preview_url))
             seen_urls.add(url)
     return video_url, image_urls
 
@@ -333,20 +334,30 @@ def upload_video_to_bsky(video_url, did, token):
     return upload_resp.json()['blob']
 
 
-def upload_image_to_bsky(image_url, did, token):
-    """画像をダウンロードしてBlueskyにアップロード、blobを返す（direct優先、失敗時proxy）"""
+def upload_image_to_bsky(image_url, did, token, fallback_url=None):
+    """画像をダウンロードしてBlueskyにアップロード、blobを返す（direct優先、失敗時proxy、fallback_url対応）"""
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
         'Referer': 'https://truthsocial.com/'
     }
+    def _try_download(url):
+        try:
+            r = requests.get(url, headers=headers, proxies=NO_PROXY, timeout=30)
+            r.raise_for_status()
+            return r
+        except Exception:
+            r = requests.get(url, headers=headers, proxies=BSKY_PROXIES, timeout=30)
+            r.raise_for_status()
+            return r
     try:
-        resp = requests.get(image_url, headers=headers, proxies=NO_PROXY, timeout=30)
-        resp.raise_for_status()
-    except Exception:
-        if not BSKY_PROXIES:
-            raise
-        resp = requests.get(image_url, headers=headers, proxies=BSKY_PROXIES, timeout=30)
-        resp.raise_for_status()
+        resp = _try_download(image_url)
+    except Exception as e:
+        if fallback_url:
+            resp = _try_download(fallback_url)
+        else:
+            raise Exception(f"{image_url}: {e}") from e
     content_type = resp.headers.get('content-type', 'image/jpeg').split(';')[0]
     upload_resp = requests.post(
         f"{BSKY_API}/com.atproto.repo.uploadBlob",
@@ -562,20 +573,20 @@ def main():
                 video_url = extract_video(content)
                 if not video_url:
                     status_link = entry.get('link', '')
-                    image_urls = scrape_images_from_page(status_link) if status_link else []
+                    image_urls = [(u, None) for u in (scrape_images_from_page(status_link) if status_link else [])]
                     if not image_urls:
-                        image_urls = extract_images(content)
+                        image_urls = [(u, None) for u in extract_images(content)]
         else:
             video_url = extract_video(content)
             if not video_url:
                 status_link = entry.get('link', '')
-                image_urls = scrape_images_from_page(status_link) if status_link else []
+                image_urls = [(u, None) for u in (scrape_images_from_page(status_link) if status_link else [])]
                 if not image_urls:
-                    image_urls = extract_images(content)
+                    image_urls = [(u, None) for u in extract_images(content)]
 
         # URL重複排除（同じ画像が複数回添付されるのを防ぐ）
         seen = set()
-        image_urls = [u for u in image_urls if not (u in seen or seen.add(u))]
+        image_urls = [t for t in image_urls if not (t[0] in seen or seen.add(t[0]))]
 
         # RTの場合はプレフィックスを除いた本文のみを翻訳対象にする
         body_text = parse_rt_body(text) if text.startswith('RT') else text
@@ -664,11 +675,12 @@ def main():
             except Exception as e:
                 log(f"動画アップロード失敗（スキップ）: {e}")
         else:
-            for url in post.get('image_urls', []):
+            for url_pair in post.get('image_urls', []):
+                primary, fallback = url_pair if isinstance(url_pair, tuple) else (url_pair, None)
                 try:
-                    blob = upload_image_to_bsky(url, did, token)
+                    blob = upload_image_to_bsky(primary, did, token, fallback_url=fallback)
                     image_blobs.append(blob)
-                    log(f"画像アップロード成功: {url[:60]}")
+                    log(f"画像アップロード成功: {primary[:60]}")
                 except Exception as e:
                     log(f"画像アップロード失敗（スキップ）: {e}")
 
