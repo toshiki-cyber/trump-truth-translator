@@ -373,6 +373,51 @@ def upload_image_to_bsky(image_url, did, token, fallback_url=None):
     return upload_resp.json()['blob']
 
 
+def fetch_ogp(url):
+    """URLからOGP情報（タイトル、説明、画像URL）を取得"""
+    try:
+        resp = requests.get(
+            url,
+            headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+            proxies=NO_PROXY,
+            verify=certifi.where(),
+            timeout=15
+        )
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        def og(prop):
+            tag = soup.find('meta', property=prop) or soup.find('meta', attrs={'name': prop})
+            return (tag or {}).get('content', '') if tag else ''
+        title = og('og:title') or og('twitter:title')
+        if not title:
+            t = soup.find('title')
+            title = t.get_text(strip=True) if t else ''
+        description = og('og:description') or og('twitter:description')
+        image_url = og('og:image') or og('twitter:image')
+        return title[:300], description[:500], image_url
+    except Exception as e:
+        log(f"OGP取得エラー ({url[:60]}): {e}")
+        return '', '', ''
+
+
+def make_external_embed(url, did, token):
+    """外部リンクカードembedを作成"""
+    title, description, image_url = fetch_ogp(url)
+    external = {
+        'uri': url,
+        'title': title or url,
+        'description': description or ''
+    }
+    if image_url:
+        try:
+            thumb_blob = upload_image_to_bsky(image_url, did, token)
+            external['thumb'] = thumb_blob
+            log(f"リンクカードサムネイル取得成功")
+        except Exception as e:
+            log(f"リンクカードサムネイル取得失敗（スキップ）: {e}")
+    return {'$type': 'app.bsky.embed.external', 'external': external}
+
+
 def translate_with_claude(text):
     # URLをプレースホルダーに置換して翻訳後に復元
     urls = re.findall(r'https?://\S+', text)
@@ -392,6 +437,7 @@ def translate_with_claude(text):
         "- 文体は常体（だ・である調）を使う\n"
         "- 投稿のトーンや強調（大文字表現など）を維持する\n"
         "- [URL_0]、[URL_1]などのプレースホルダーはそのまま保持すること\n"
+        "- 人名・国名・機関名は日本の主要メディアの表記に従うこと（例: President Xi → 習主席、Xi Jinping → 習近平）\n"
         "- 翻訳のみを出力し、解説や注釈は不要\n\n"
         f"【原文】\n{text_for_translation}"
     )
@@ -437,7 +483,7 @@ def bsky_login():
     return session['did'], session['accessJwt']
 
 
-def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None):
+def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, external_embed=None):
     """Blueskyに投稿する。複数チャンクの場合はスレッドにする"""
     root_ref = None
     parent_ref = None
@@ -455,7 +501,7 @@ def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None):
         if facets:
             record['facets'] = facets
 
-        # 最初の投稿にのみメディアを添付（動画優先、なければ画像）
+        # 最初の投稿にのみメディアを添付（動画 > リンクカード > 画像の優先順位）
         if i == 0:
             if video_blob:
                 record['embed'] = {
@@ -463,6 +509,8 @@ def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None):
                     'video': video_blob,
                     'alt': ''
                 }
+            elif external_embed:
+                record['embed'] = external_embed
             elif image_blobs:
                 record['embed'] = {
                     '$type': 'app.bsky.embed.images',
@@ -668,6 +716,8 @@ def main():
         # 動画または画像をアップロード（動画優先）
         video_blob = None
         image_blobs = []
+        external_embed = None
+        post_link = post.get('link', '')
         if post.get('video_url'):
             try:
                 video_blob = upload_video_to_bsky(post['video_url'], did, token)
@@ -684,6 +734,14 @@ def main():
                 except Exception as e:
                     log(f"画像アップロード失敗（スキップ）: {e}")
 
+        # 画像も動画もない場合、trumpstruth.orgのリンクカードを添付
+        if not video_blob and not image_blobs and post_link:
+            try:
+                external_embed = make_external_embed(post_link, did, token)
+                log(f"リンクカード作成: {post_link}")
+            except Exception as e:
+                log(f"リンクカード作成失敗（スキップ）: {e}")
+
         # RT投稿の場合はヘッダーを先頭に付ける
         if post.get('rt_display_name'):
             rt_header = f"🔁 Donald Trump がリポスト\n{post['rt_display_name']} (@{post['rt_acct']})\n\n"
@@ -696,7 +754,7 @@ def main():
         log(f"Bluesky投稿中 ({len(chunks)}ポスト, {media_info}): {full_translation[:80]}...")
 
         try:
-            post_uri = post_to_bluesky(chunks, did, token, image_blobs, video_blob)
+            post_uri = post_to_bluesky(chunks, did, token, image_blobs, video_blob, external_embed)
             log(f"投稿成功 (URI: {post_uri})")
         except Exception as e:
             log(f"Bluesky投稿エラー: {e}")
