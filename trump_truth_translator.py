@@ -641,6 +641,7 @@ def main():
 
         new_posts.append({
             'id': post_id,
+            'fp': fp,
             'text': body_text,
             'link': entry.get('link', ''),
             'published': entry.get('published', ''),
@@ -689,6 +690,9 @@ def main():
                     continue
         if translation == "RATE_LIMITED":
             log("Claude APIレート制限、残りの投稿は次回処理")
+            # 未処理投稿のfpをprocessedから除去（次回リトライさせるため）
+            pending_fps = {p['fp'] for p in new_posts if p['id'] not in processed}
+            processed = [x for x in processed if x not in pending_fps]
             save_processed(processed)
             return
         if not translation:

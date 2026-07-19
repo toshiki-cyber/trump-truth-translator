@@ -41,5 +41,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add trump_processed.json
-          git diff --cached --quiet || git commit -m "Update processed posts"
-          git push
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update processed posts"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              exit 0
+            fi
+            echo "push retry $i/5"
+            sleep $((i * 3))
+          done
+          echo "git push failed after 5 attempts"
+          exit 1
