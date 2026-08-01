@@ -1,0 +1,8 @@
+{
+  "name": "trump-truth-translator-scheduler",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
