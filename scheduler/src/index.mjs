@@ -16,10 +16,22 @@ export async function dispatchWorkflow(env, fetchImpl = fetch) {
   if (!response.ok) {
     throw new Error(`GitHub workflow dispatch failed: ${response.status}`);
   }
+
+  console.log(JSON.stringify({ event: "workflow_dispatched", status: response.status }));
 }
 
 export default {
   async scheduled(_controller, env, ctx) {
-    ctx.waitUntil(dispatchWorkflow(env));
+    ctx.waitUntil(
+      dispatchWorkflow(env).catch((error) => {
+        console.error(
+          JSON.stringify({
+            event: "workflow_dispatch_failed",
+            error: error instanceof Error ? error.message : String(error),
+          }),
+        );
+        throw error;
+      }),
+    );
   },
 };

@@ -1,8 +1,14 @@
 {
   "name": "trump-truth-translator-scheduler",
   "main": "src/index.mjs",
-  "compatibility_date": "2026-08-02",
+  "compatibility_date": "2026-08-01",
   "triggers": {
     "crons": ["*/5 * * * *"]
+  },
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "head_sampling_rate": 1
+    }
   }
 }
