@@ -1,6 +1,6 @@
 import io
 import unittest
-from unittest.mock import patch
+from unittest.mock import MagicMock, patch
 
 from PIL import Image
 
@@ -42,6 +42,28 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertEqual(record["embed"]["$type"], "app.bsky.embed.images")
         self.assertEqual(image["image"], blob)
         self.assertEqual(image["aspectRatio"], {"width": 1600, "height": 900})
+
+    @patch("trump_truth_translator.upload_video_blob_direct")
+    @patch("trump_truth_translator.upload_video_via_bsky_service")
+    @patch("trump_truth_translator.requests.get")
+    @patch("trump_truth_translator.requests.head")
+    def test_video_service_failure_falls_back_to_native_blob_upload(
+        self, mock_head, mock_get, mock_service, mock_direct
+    ):
+        mock_head.return_value.headers = {"content-length": "4"}
+        mock_get.return_value = MagicMock(
+            content=b"data", headers={"content-type": "video/mp4"}
+        )
+        mock_get.return_value.raise_for_status.return_value = None
+        mock_service.side_effect = RuntimeError("service unavailable")
+        mock_direct.return_value = {"$type": "blob"}
+
+        result = translator.upload_video_to_bsky(
+            "https://example.com/video.mp4", "did:example", "token"
+        )
+
+        self.assertEqual(result, {"$type": "blob"})
+        mock_direct.assert_called_once_with(b"data", "video/mp4", "token")
 
 
 if __name__ == "__main__":
