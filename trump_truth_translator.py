@@ -8,6 +8,7 @@ import feedparser
 import requests
 import httpx
 import json
+import io
 import os
 import re
 import certifi
@@ -16,6 +17,7 @@ import difflib
 import anthropic
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
+from PIL import Image, ImageOps
 
 # --- API Keys ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -36,6 +38,7 @@ LOG_FILE = os.path.join(SCRIPT_DIR, "trump_translator.log")
 
 JST = timezone(timedelta(hours=9))
 BSKY_MAX_LENGTH = 300  # Blueskyの文字数上限（grapheme単位）
+BSKY_IMAGE_SAFE_SIZE = 950_000  # 公式上限の変動に備え、1MB未満に収める
 
 
 def log(msg):
@@ -293,45 +296,118 @@ def extract_video(html_content):
 
 
 def upload_video_to_bsky(video_url, did, token):
-    """動画をダウンロードしてBlueskyにアップロード、blobを返す"""
+    """動画をBluesky動画サービスで処理してからアップロードし、blobを返す"""
     MAX_SIZE = 50 * 1024 * 1024  # 50MB
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'Referer': 'https://truthsocial.com/'
+    }
 
     # ファイルサイズ事前確認（direct優先、失敗時はproxy）
     try:
-        head = requests.head(video_url, proxies=NO_PROXY, timeout=15, allow_redirects=True)
+        head = requests.head(video_url, headers=headers, proxies=NO_PROXY, timeout=15, allow_redirects=True)
     except Exception:
         if not BSKY_PROXIES:
             raise
-        head = requests.head(video_url, proxies=BSKY_PROXIES, timeout=15, allow_redirects=True)
+        head = requests.head(video_url, headers=headers, proxies=BSKY_PROXIES, timeout=15, allow_redirects=True)
     size = int(head.headers.get('content-length', 0))
     if size > MAX_SIZE:
         raise ValueError(f"動画サイズ超過: {size / 1024 / 1024:.1f}MB > 50MB")
 
     try:
-        resp = requests.get(video_url, proxies=NO_PROXY, timeout=120)
+        resp = requests.get(video_url, headers=headers, proxies=NO_PROXY, timeout=120)
         resp.raise_for_status()
     except Exception:
         if not BSKY_PROXIES:
             raise
-        resp = requests.get(video_url, proxies=BSKY_PROXIES, timeout=120)
+        resp = requests.get(video_url, headers=headers, proxies=BSKY_PROXIES, timeout=120)
         resp.raise_for_status()
 
     if len(resp.content) > MAX_SIZE:
         raise ValueError(f"動画サイズ超過: {len(resp.content) / 1024 / 1024:.1f}MB > 50MB")
 
     content_type = resp.headers.get('content-type', 'video/mp4').split(';')[0]
-    upload_resp = requests.post(
-        f"{BSKY_API}/com.atproto.repo.uploadBlob",
-        data=resp.content,
-        headers={
-            'Authorization': f'Bearer {token}',
-            'Content-Type': content_type
+    # Blueskyの推奨フロー: 動画サービスへ先に送って変換完了を待つ。
+    auth_resp = requests.post(
+        f"{BSKY_API}/com.atproto.server.getServiceAuth",
+        json={
+            'aud': 'did:web:bsky.social',
+            'lxm': 'com.atproto.repo.uploadBlob',
+            'exp': int(time.time()) + 30 * 60,
         },
+        headers={'Authorization': f'Bearer {token}'},
         proxies=NO_PROXY,
-        timeout=60
+        timeout=30
     )
+    auth_resp.raise_for_status()
+    service_token = auth_resp.json()['token']
+    upload_resp = requests.post(
+        f"https://video.bsky.app/xrpc/app.bsky.video.uploadVideo?did={did}&name=truth-social-video.mp4",
+        data=resp.content,
+        headers={'Authorization': f'Bearer {service_token}', 'Content-Type': content_type},
+        proxies=NO_PROXY,
+        timeout=180
+    )
+    job = upload_resp.json()
+    # 同一動画が処理済みの場合もblobが返るため、HTTPエラーでも本文を確認する。
+    if job.get('blob'):
+        return job['blob']
     upload_resp.raise_for_status()
-    return upload_resp.json()['blob']
+
+    job_id = job.get('jobId')
+    if not job_id:
+        raise ValueError(f"動画処理ジョブIDを取得できません: {job}")
+    for _ in range(75):
+        time.sleep(2)
+        status_resp = requests.get(
+            f"https://video.bsky.app/xrpc/app.bsky.video.getJobStatus?jobId={job_id}",
+            proxies=NO_PROXY,
+            timeout=30
+        )
+        status_resp.raise_for_status()
+        status = status_resp.json().get('jobStatus', status_resp.json())
+        if status.get('blob'):
+            return status['blob']
+        if status.get('state') == 'JOB_STATE_FAILED':
+            raise ValueError(f"Bluesky動画処理失敗: {status}")
+    raise TimeoutError("Bluesky動画処理が150秒以内に完了しませんでした")
+
+
+def normalize_image_for_bsky(image_data):
+    """画像をBlueskyに安全に添付できるJPEGへ変換し、元の縦横比を返す"""
+    with Image.open(io.BytesIO(image_data)) as source:
+        source = ImageOps.exif_transpose(source)
+        width, height = source.size
+        if not width or not height:
+            raise ValueError("画像サイズを取得できません")
+        aspect_ratio = {'width': width, 'height': height}
+
+        if source.mode in ('RGBA', 'LA') or (source.mode == 'P' and 'transparency' in source.info):
+            background = Image.new('RGBA', source.size, 'white')
+            background.alpha_composite(source.convert('RGBA'))
+            image = background.convert('RGB')
+        else:
+            image = source.convert('RGB')
+
+        max_dimension = 2048
+        if max(image.size) > max_dimension:
+            scale = max_dimension / max(image.size)
+            image = image.resize(
+                (round(image.width * scale), round(image.height * scale)),
+                Image.Resampling.LANCZOS
+            )
+
+        for _ in range(8):
+            for quality in (90, 82, 74, 66, 58, 50):
+                output = io.BytesIO()
+                image.save(output, format='JPEG', quality=quality, optimize=True)
+                if output.tell() <= BSKY_IMAGE_SAFE_SIZE:
+                    return output.getvalue(), 'image/jpeg', aspect_ratio
+            image = image.resize(
+                (max(1, round(image.width * 0.85)), max(1, round(image.height * 0.85))),
+                Image.Resampling.LANCZOS
+            )
+    raise ValueError("画像をBlueskyの容量上限まで圧縮できませんでした")
 
 
 def upload_image_to_bsky(image_url, did, token, fallback_url=None):
@@ -358,10 +434,10 @@ def upload_image_to_bsky(image_url, did, token, fallback_url=None):
             resp = _try_download(fallback_url)
         else:
             raise Exception(f"{image_url}: {e}") from e
-    content_type = resp.headers.get('content-type', 'image/jpeg').split(';')[0]
+    image_data, content_type, aspect_ratio = normalize_image_for_bsky(resp.content)
     upload_resp = requests.post(
         f"{BSKY_API}/com.atproto.repo.uploadBlob",
-        data=resp.content,
+        data=image_data,
         headers={
             'Authorization': f'Bearer {token}',
             'Content-Type': content_type
@@ -370,7 +446,7 @@ def upload_image_to_bsky(image_url, did, token, fallback_url=None):
         timeout=30
     )
     upload_resp.raise_for_status()
-    return upload_resp.json()['blob']
+    return upload_resp.json()['blob'], aspect_ratio
 
 
 def fetch_ogp(url):
@@ -514,7 +590,10 @@ def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, exter
             elif image_blobs:
                 record['embed'] = {
                     '$type': 'app.bsky.embed.images',
-                    'images': [{'image': blob, 'alt': ''} for blob in image_blobs]
+                    'images': [
+                        {'image': blob, 'alt': '', 'aspectRatio': aspect_ratio}
+                        for blob, aspect_ratio in image_blobs
+                    ]
                 }
 
         # スレッド（リプライ）の場合
@@ -732,14 +811,16 @@ def main():
             for url_pair in post.get('image_urls', []):
                 primary, fallback = url_pair if isinstance(url_pair, tuple) else (url_pair, None)
                 try:
-                    blob = upload_image_to_bsky(primary, did, token, fallback_url=fallback)
-                    image_blobs.append(blob)
+                    blob, aspect_ratio = upload_image_to_bsky(primary, did, token, fallback_url=fallback)
+                    image_blobs.append((blob, aspect_ratio))
                     log(f"画像アップロード成功: {primary[:60]}")
                 except Exception as e:
                     log(f"画像アップロード失敗（スキップ）: {e}")
 
-        # 画像も動画もない場合、trumpstruth.orgのリンクカードを添付
-        if not video_blob and not image_blobs and post_link:
+        # 元メディアが存在しない投稿だけリンクカードを使う。元メディアの取得・投稿に
+        # 失敗した投稿をカード画像へすり替えないことで、失敗を次回確認できるようにする。
+        has_source_media = bool(post.get('video_url') or post.get('image_urls'))
+        if not video_blob and not image_blobs and post_link and not has_source_media:
             try:
                 external_embed = make_external_embed(post_link, did, token)
                 log(f"リンクカード作成: {post_link}")
