@@ -1,0 +1,37 @@
+name: Native media smoke test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  post-video:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Post the latest Truth Social video natively
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+        run: |
+          python - <<'PY'
+          import trump_truth_translator as bot
+
+          video_url = "https://1a-1791.com/video/fwe2/f9/s8/2/E/c/Q/L/EcQLA.caa.mp4?b=1&u=ummtf"
+          did, token = bot.bsky_login()
+          video_blob = bot.upload_video_to_bsky(video_url, did, token)
+          post_uri = bot.post_to_bluesky(["【画像投稿】"], did, token, video_blob=video_blob)
+          print(f"Native video test post created: {post_uri}")
+          PY
