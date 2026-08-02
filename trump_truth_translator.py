@@ -591,6 +591,12 @@ def bsky_login():
     return session['did'], session['accessJwt']
 
 
+def mark_post_processed(processed, post):
+    """Bluesky投稿に成功した投稿だけを重複判定済みにする。"""
+    processed.append(post['fp'])
+    processed.append(post['id'])
+
+
 def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, external_embed=None):
     """Blueskyに投稿する。複数チャンクの場合はスレッドにする"""
     root_ref = None
@@ -645,7 +651,13 @@ def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, exter
             headers={'Authorization': f'Bearer {token}'},
             proxies=NO_PROXY, timeout=30
         )
-        resp.raise_for_status()
+        try:
+            resp.raise_for_status()
+        except requests.HTTPError as error:
+            detail = resp.text[:500]
+            raise RuntimeError(
+                f"Bluesky投稿失敗 (HTTP {resp.status_code}): {detail}"
+            ) from error
         result = resp.json()
 
         ref = {'uri': result['uri'], 'cid': result['cid']}
@@ -712,8 +724,6 @@ def main():
             log(f"重複スキップ（内容重複）: {text[:60]}...")
             processed.append(post_id)
             continue
-        processed.append(fp)
-
         # Truth Social APIからメディア・RT情報取得、失敗時はRSS HTMLにフォールバック
         video_url = None
         image_urls = []
@@ -876,8 +886,9 @@ def main():
             log(f"投稿成功 (URI: {post_uri})")
         except Exception as e:
             log(f"Bluesky投稿エラー: {e}")
+            continue
 
-        processed.append(post['id'])
+        mark_post_processed(processed, post)
         save_processed(processed)
         time.sleep(3)
 

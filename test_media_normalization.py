@@ -3,11 +3,30 @@ import unittest
 from unittest.mock import MagicMock, patch
 
 from PIL import Image
+import requests
 
 import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    def test_marks_processed_only_after_a_successful_post(self):
+        processed = []
+        post = {"id": "https://example.com/post/1", "fp": "fp:example"}
+
+        translator.mark_post_processed(processed, post)
+
+        self.assertEqual(processed, ["fp:example", "https://example.com/post/1"])
+
+    @patch("trump_truth_translator.requests.post")
+    def test_bluesky_error_includes_response_detail(self, mock_post):
+        response = mock_post.return_value
+        response.status_code = 400
+        response.text = '{"error":"InvalidRequest","message":"bad embed"}'
+        response.raise_for_status.side_effect = requests.HTTPError("400 Client Error")
+
+        with self.assertRaisesRegex(RuntimeError, "InvalidRequest"):
+            translator.post_to_bluesky(["テスト投稿"], "did:example", "token")
+
     @patch("trump_truth_translator.anthropic.Anthropic")
     def test_translation_prompt_preserves_meaning_and_marks_attached_media(
         self, mock_anthropic
