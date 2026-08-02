@@ -509,7 +509,7 @@ def make_external_embed(url, did, token):
     }
     if image_url:
         try:
-            thumb_blob = upload_image_to_bsky(image_url, did, token)
+            thumb_blob, _ = upload_image_to_bsky(image_url, did, token)
             external['thumb'] = thumb_blob
             log(f"リンクカードサムネイル取得成功")
         except Exception as e:

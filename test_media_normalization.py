@@ -9,6 +9,19 @@ import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    @patch("trump_truth_translator.upload_image_to_bsky")
+    @patch("trump_truth_translator.fetch_ogp")
+    def test_external_embed_uses_only_thumbnail_blob(self, mock_ogp, mock_upload):
+        mock_ogp.return_value = ("記事", "説明", "https://example.com/thumb.jpg")
+        blob = {"$type": "blob", "ref": {"$link": "bafkexample"}}
+        mock_upload.return_value = (blob, {"width": 1600, "height": 900})
+
+        embed = translator.make_external_embed(
+            "https://example.com/article", "did:example", "token"
+        )
+
+        self.assertEqual(embed["external"]["thumb"], blob)
+
     def test_marks_processed_only_after_a_successful_post(self):
         processed = []
         post = {"id": "https://example.com/post/1", "fp": "fp:example"}
