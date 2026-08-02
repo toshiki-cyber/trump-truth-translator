@@ -517,7 +517,7 @@ def make_external_embed(url, did, token):
     return {'$type': 'app.bsky.embed.external', 'external': external}
 
 
-def translate_with_claude(text):
+def translate_with_claude(text, has_media=False):
     # URLをプレースホルダーに置換して翻訳後に復元
     urls = re.findall(r'https?://\S+', text)
     text_for_translation = text
@@ -529,15 +529,24 @@ def translate_with_claude(text):
         api_key=ANTHROPIC_API_KEY,
         http_client=httpx.Client(proxy=None)
     )
+    media_context = ""
+    if has_media:
+        media_context = (
+            "\nこの投稿には画像または動画が添付されている。原文がキャプション・見出し・"
+            "文の断片なら、説明的な完結文を補わず、断片・キャプション調を維持すること。"
+        )
     prompt = (
         "以下はトランプ大統領のTruth Social投稿です。日本語に翻訳してください。\n"
         "ルール：\n"
         "- 自然な日本語にする\n"
         "- 文体は常体（だ・である調）を使う\n"
         "- 投稿のトーンや強調（大文字表現など）を維持する\n"
+        "- 原文が示す因果、功績、責任、主体、確信度、評価、強調を弱めず・補わずに保持する\n"
+        "- 状況説明への言い換えで、原文の因果関係や誰に功績・責任を帰属させているかを曖昧にしない\n"
         "- [URL_0]、[URL_1]などのプレースホルダーはそのまま保持すること\n"
         "- 人名・国名・機関名は日本の主要メディアの表記に従うこと（例: President Xi → 習主席、Xi Jinping → 習近平）\n"
         "- 翻訳のみを出力し、解説や注釈は不要\n\n"
+        f"{media_context}\n\n"
         f"【原文】\n{text_for_translation}"
     )
     for attempt in range(3):
@@ -782,7 +791,8 @@ def main():
             translation = '\n'.join(post_urls) if post_urls else "【画像投稿】"
             log("テキストなし（画像のみ/URLのみ/RTのみ）のため翻訳スキップ")
         else:
-            translation = translate_with_claude(post['text'])
+            has_media = bool(post['video_url'] or post['image_urls'])
+            translation = translate_with_claude(post['text'], has_media=has_media)
             if translation and translation not in ("RATE_LIMITED",):
                 translation = restore_urls(translation, post_urls)
                 if not has_japanese(translation):

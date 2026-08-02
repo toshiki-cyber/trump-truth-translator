@@ -8,6 +8,26 @@ import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    @patch("trump_truth_translator.anthropic.Anthropic")
+    def test_translation_prompt_preserves_meaning_and_marks_attached_media(
+        self, mock_anthropic
+    ):
+        client = mock_anthropic.return_value
+        client.messages.create.return_value = MagicMock(
+            content=[MagicMock(text="テスト訳")]
+        )
+
+        result = translator.translate_with_claude(
+            "The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
+            has_media=True,
+        )
+
+        self.assertEqual(result, "テスト訳")
+        prompt = client.messages.create.call_args.kwargs["messages"][0]["content"]
+        self.assertIn("因果、功績、責任、主体、確信度、評価、強調", prompt)
+        self.assertIn("画像または動画が添付", prompt)
+        self.assertIn("断片・キャプション調", prompt)
+
     def test_reencodes_large_image_below_bluesky_safe_limit(self):
         image = Image.effect_noise((1800, 1200), 100).convert("RGB")
         source = io.BytesIO()
