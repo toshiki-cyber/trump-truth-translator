@@ -30,6 +30,15 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
 
         self.assertEqual(processed, ["fp:example", "https://example.com/post/1"])
 
+    def test_marks_media_only_post_by_id_without_empty_fingerprint(self):
+        processed = []
+
+        translator.mark_post_processed(
+            processed, {"id": "https://example.com/post/2", "fp": None}
+        )
+
+        self.assertEqual(processed, ["https://example.com/post/2"])
+
     @patch("trump_truth_translator.requests.post")
     def test_bluesky_error_includes_response_detail(self, mock_post):
         response = mock_post.return_value

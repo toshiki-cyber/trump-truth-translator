@@ -593,7 +593,8 @@ def bsky_login():
 
 def mark_post_processed(processed, post):
     """Bluesky投稿に成功した投稿だけを重複判定済みにする。"""
-    processed.append(post['fp'])
+    if post.get('fp'):
+        processed.append(post['fp'])
     processed.append(post['id'])
 
 
@@ -705,7 +706,32 @@ def main():
 
         content = entry.get('description') or entry.get('summary', '')
         if not content:
-            processed.append(post_id)
+            ts_post_id = get_ts_post_id(entry.get('link', ''))
+            if not ts_post_id:
+                processed.append(post_id)
+                continue
+            try:
+                ts_data = get_ts_post_data(ts_post_id)
+                video_url, image_urls = extract_media_from_ts_data(ts_data)
+                log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
+            except Exception as e:
+                log(f"Truth Social APIメディア取得エラー: {e}")
+                processed.append(post_id)
+                continue
+            if not video_url and not image_urls:
+                processed.append(post_id)
+                continue
+            new_posts.append({
+                'id': post_id,
+                'fp': None,
+                'text': '',
+                'link': entry.get('link', ''),
+                'published': entry.get('published', ''),
+                'video_url': video_url,
+                'image_urls': image_urls,
+                'rt_display_name': None,
+                'rt_acct': None,
+            })
             continue
 
         soup = BeautifulSoup(content, 'html.parser')
