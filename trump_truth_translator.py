@@ -716,10 +716,11 @@ def main():
                 log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
             except Exception as e:
                 log(f"Truth Social APIメディア取得エラー: {e}")
-                processed.append(post_id)
-                continue
+                image_urls = [(u, None) for u in scrape_images_from_page(entry.get('link', ''))]
+                video_url = None
+                log(f"ページフォールバック画像: {len(image_urls)}枚")
             if not video_url and not image_urls:
-                processed.append(post_id)
+                log("本文なし投稿のメディア未取得、次回再試行")
                 continue
             new_posts.append({
                 'id': post_id,

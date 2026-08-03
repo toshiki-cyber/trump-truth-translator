@@ -22,6 +22,7 @@ export async function dispatchWorkflow(env, fetchImpl = fetch) {
 
 export default {
   async scheduled(_controller, env, ctx) {
+    console.log(JSON.stringify({ event: "cron_started" }));
     ctx.waitUntil(
       dispatchWorkflow(env).catch((error) => {
         console.error(
