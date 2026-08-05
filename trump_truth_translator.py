@@ -18,6 +18,7 @@ import anthropic
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from PIL import Image, ImageOps
+from urllib.parse import urlparse
 
 # --- API Keys ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -113,6 +114,19 @@ def normalize_urls(text):
         text
     )
     return text
+
+
+def select_external_card_url(text):
+    """投稿本文からTruth Social系を除いた最初の外部URLを返す。"""
+    for raw_url in re.findall(r'https?://\S+', text):
+        url = raw_url.rstrip('.,;:!?)]}\'"')
+        hostname = (urlparse(url).hostname or '').lower()
+        if hostname == 'truthsocial.com' or hostname.endswith('.truthsocial.com'):
+            continue
+        if hostname == 'trumpstruth.org' or hostname.endswith('.trumpstruth.org'):
+            continue
+        return url
+    return None
 
 
 def has_japanese(text):
@@ -870,7 +884,7 @@ def main():
         video_blob = None
         image_blobs = []
         external_embed = None
-        post_link = post.get('link', '')
+        external_url = select_external_card_url(post['text'])
         if post.get('video_url'):
             try:
                 video_blob = upload_video_to_bsky(post['video_url'], did, token)
@@ -890,10 +904,10 @@ def main():
         # 元メディアが存在しない投稿だけリンクカードを使う。元メディアの取得・投稿に
         # 失敗した投稿をカード画像へすり替えないことで、失敗を次回確認できるようにする。
         has_source_media = bool(post.get('video_url') or post.get('image_urls'))
-        if not video_blob and not image_blobs and post_link and not has_source_media:
+        if not video_blob and not image_blobs and external_url and not has_source_media:
             try:
-                external_embed = make_external_embed(post_link, did, token)
-                log(f"リンクカード作成: {post_link}")
+                external_embed = make_external_embed(external_url, did, token)
+                log(f"外部リンクカード作成: {external_url}")
             except Exception as e:
                 log(f"リンクカード作成失敗（スキップ）: {e}")
 

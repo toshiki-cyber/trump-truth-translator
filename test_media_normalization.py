@@ -9,6 +9,22 @@ import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    def test_selects_article_url_for_external_card(self):
+        text = (
+            "Scott Bessent interviewed by Joe Kernen!\n"
+            "https://www.cnbc.com/video/2026/08/04/interview.html"
+        )
+
+        self.assertEqual(
+            translator.select_external_card_url(text),
+            "https://www.cnbc.com/video/2026/08/04/interview.html",
+        )
+
+    def test_does_not_use_truth_mirror_as_external_card(self):
+        text = "https://www.trumpstruth.org/statuses/40470"
+
+        self.assertIsNone(translator.select_external_card_url(text))
+
     @patch("trump_truth_translator.upload_image_to_bsky")
     @patch("trump_truth_translator.fetch_ogp")
     def test_external_embed_uses_only_thumbnail_blob(self, mock_ogp, mock_upload):
