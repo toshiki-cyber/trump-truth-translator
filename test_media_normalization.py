@@ -10,6 +10,42 @@ import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    @patch("trump_truth_translator.time.sleep")
+    @patch("trump_truth_translator.save_processed")
+    @patch("trump_truth_translator.load_processed", return_value=[])
+    @patch("trump_truth_translator.post_to_bluesky", return_value="at://posted")
+    @patch("trump_truth_translator.upload_image_to_bsky")
+    @patch("trump_truth_translator.bsky_login", return_value=("did:example", "token"))
+    @patch("trump_truth_translator.get_ts_post_data")
+    @patch("trump_truth_translator.feedparser.parse")
+    @patch("trump_truth_translator.requests.get")
+    def test_contentless_direct_truth_post_uploads_its_image(
+        self, mock_get, mock_parse, mock_ts_data, mock_login, mock_upload,
+        mock_post, mock_load, mock_save, mock_sleep
+    ):
+        post_url = "https://truthsocial.com/@realDonaldTrump/posts/117071685600361181"
+        mock_get.return_value.raise_for_status.return_value = None
+        mock_get.return_value.content = b"<rss />"
+        mock_parse.return_value = SimpleNamespace(
+            entries=[{"id": "mirror-1", "link": post_url}]
+        )
+        mock_ts_data.return_value = {
+            "media_attachments": [
+                {"type": "image", "url": "https://cdn.example.com/image.jpg"}
+            ]
+        }
+        blob = {"$type": "blob", "ref": {"$link": "bafkexample"}}
+        mock_upload.return_value = (blob, {"width": 1600, "height": 900})
+
+        translator.main()
+
+        mock_ts_data.assert_called_once_with("117071685600361181")
+        mock_upload.assert_called_once_with(
+            "https://cdn.example.com/image.jpg", "did:example", "token", fallback_url=""
+        )
+        self.assertEqual(mock_post.call_args.args[0], ["【画像投稿】"])
+        self.assertEqual(mock_post.call_args.args[3], [(blob, {"width": 1600, "height": 900})])
+
     @patch("trump_truth_translator.save_processed")
     @patch("trump_truth_translator.get_ts_post_id", return_value=None)
     @patch("trump_truth_translator.load_processed", return_value=[])
@@ -37,6 +73,16 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertEqual(
             translator.extract_ts_post_id_from_html(html), "117037771483072269"
         )
+
+    @patch("trump_truth_translator.requests.get")
+    def test_uses_direct_truth_posts_url_without_scraping_page(self, mock_get):
+        self.assertEqual(
+            translator.get_ts_post_id(
+                "https://truthsocial.com/@realDonaldTrump/posts/117071685600361181"
+            ),
+            "117071685600361181",
+        )
+        mock_get.assert_not_called()
 
     def test_preserves_legacy_external_link_status_id_extraction(self):
         html = (

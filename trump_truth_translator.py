@@ -168,6 +168,15 @@ def extract_facets(text):
     return facets
 
 
+def extract_ts_post_id_from_url(url):
+    """Truth Socialの公開URLから投稿IDを取り出す。"""
+    hostname = (urlparse(url).hostname or '').lower()
+    if hostname != 'truthsocial.com' and not hostname.endswith('.truthsocial.com'):
+        return None
+    match = re.search(r'/(?:posts|statuses)/(\d+)(?:[/?#]|$)', url)
+    return match.group(1) if match else None
+
+
 def extract_ts_post_id_from_html(html):
     """trumpstruth.orgページ内のTruth SocialステータスURLから投稿IDを取得する。"""
     soup = BeautifulSoup(html, 'html.parser')
@@ -175,12 +184,12 @@ def extract_ts_post_id_from_html(html):
     links = soup.find_all('a', href=True)
     for link in links:
         href = link.get('href', '')
+        post_id = extract_ts_post_id_from_url(href)
+        if post_id:
+            return post_id
         hostname = (urlparse(href).hostname or '').lower()
         if hostname != 'truthsocial.com' and not hostname.endswith('.truthsocial.com'):
             continue
-        match = re.search(r'/statuses/(\d+)(?:[/?#]|$)', href)
-        if match:
-            return match.group(1)
         if 'status__external-link' in link.get('class', []):
             match = re.search(r'/(\d+)(?:[/?#]|$)', href)
             if match:
@@ -190,6 +199,9 @@ def extract_ts_post_id_from_html(html):
 
 def get_ts_post_id(trumpstruth_url):
     """trumpstruth.orgのページからTruth Social投稿IDを取得"""
+    direct_post_id = extract_ts_post_id_from_url(trumpstruth_url)
+    if direct_post_id:
+        return direct_post_id
     try:
         resp = requests.get(
             trumpstruth_url,
