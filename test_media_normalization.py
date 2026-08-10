@@ -1,5 +1,6 @@
 import io
 import unittest
+from types import SimpleNamespace
 from unittest.mock import MagicMock, patch
 
 from PIL import Image
@@ -9,6 +10,67 @@ import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    @patch("trump_truth_translator.save_processed")
+    @patch("trump_truth_translator.get_ts_post_id", return_value=None)
+    @patch("trump_truth_translator.load_processed", return_value=[])
+    @patch("trump_truth_translator.feedparser.parse")
+    @patch("trump_truth_translator.requests.get")
+    def test_contentless_post_without_ts_id_remains_pending(
+        self, mock_get, mock_parse, mock_load, mock_ts_id, mock_save
+    ):
+        mock_get.return_value.raise_for_status.return_value = None
+        mock_get.return_value.content = b"<rss />"
+        mock_parse.return_value = SimpleNamespace(
+            entries=[{"id": "post-1", "link": "https://example.com/post-1"}]
+        )
+
+        translator.main()
+
+        mock_save.assert_called_once_with([])
+
+    def test_extracts_truth_status_id_from_any_truth_social_status_link(self):
+        html = (
+            '<a href="https://truthsocial.com/@realDonaldTrump/'
+            'statuses/117037771483072269">Original post</a>'
+        )
+
+        self.assertEqual(
+            translator.extract_ts_post_id_from_html(html), "117037771483072269"
+        )
+
+    def test_preserves_legacy_external_link_status_id_extraction(self):
+        html = (
+            '<a class="status__external-link" '
+            'href="https://truthsocial.com/@realDonaldTrump/117037771483072269">'
+            'Original post</a>'
+        )
+
+        self.assertEqual(
+            translator.extract_ts_post_id_from_html(html), "117037771483072269"
+        )
+
+    def test_does_not_mark_media_post_ready_without_an_uploaded_blob(self):
+        self.assertTrue(translator.should_retry_media_post(True, None, []))
+        self.assertFalse(translator.should_retry_media_post(True, {"$type": "blob"}, []))
+        self.assertFalse(
+            translator.should_retry_media_post(
+                True, None, [({"$type": "blob"}, {"width": 1, "height": 1})]
+            )
+        )
+        self.assertFalse(translator.should_retry_media_post(False, None, []))
+
+    @patch("trump_truth_translator.requests.get")
+    def test_image_download_does_not_repeat_direct_request_without_proxy(self, mock_get):
+        mock_get.side_effect = requests.ConnectionError("network unavailable")
+
+        with patch.object(translator, "BSKY_PROXIES", None):
+            with self.assertRaisesRegex(Exception, "network unavailable"):
+                translator.upload_image_to_bsky(
+                    "https://example.com/image.jpg", "did:example", "token"
+                )
+
+        self.assertEqual(mock_get.call_count, 1)
+
     def test_selects_article_url_for_external_card(self):
         text = (
             "Scott Bessent interviewed by Joe Kernen!\n"

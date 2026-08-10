@@ -168,6 +168,26 @@ def extract_facets(text):
     return facets
 
 
+def extract_ts_post_id_from_html(html):
+    """trumpstruth.orgページ内のTruth SocialステータスURLから投稿IDを取得する。"""
+    soup = BeautifulSoup(html, 'html.parser')
+    # 現行のミラー用classに加え、Truth Socialのstatus URL形式自体を判定する。
+    links = soup.find_all('a', href=True)
+    for link in links:
+        href = link.get('href', '')
+        hostname = (urlparse(href).hostname or '').lower()
+        if hostname != 'truthsocial.com' and not hostname.endswith('.truthsocial.com'):
+            continue
+        match = re.search(r'/statuses/(\d+)(?:[/?#]|$)', href)
+        if match:
+            return match.group(1)
+        if 'status__external-link' in link.get('class', []):
+            match = re.search(r'/(\d+)(?:[/?#]|$)', href)
+            if match:
+                return match.group(1)
+    return None
+
+
 def get_ts_post_id(trumpstruth_url):
     """trumpstruth.orgのページからTruth Social投稿IDを取得"""
     try:
@@ -179,13 +199,7 @@ def get_ts_post_id(trumpstruth_url):
             timeout=15
         )
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, 'html.parser')
-        link = soup.find('a', class_='status__external-link')
-        if link:
-            href = link.get('href', '')
-            m = re.search(r'/(\d+)$', href)
-            if m:
-                return m.group(1)
+        return extract_ts_post_id_from_html(resp.text)
     except Exception as e:
         log(f"trumpstruth.orgページ取得エラー: {e}")
     return None
@@ -461,6 +475,8 @@ def upload_image_to_bsky(image_url, did, token, fallback_url=None):
             r.raise_for_status()
             return r
         except Exception:
+            if not BSKY_PROXIES:
+                raise
             r = requests.get(url, headers=headers, proxies=BSKY_PROXIES, timeout=30)
             r.raise_for_status()
             return r
@@ -612,6 +628,11 @@ def mark_post_processed(processed, post):
     processed.append(post['id'])
 
 
+def should_retry_media_post(has_source_media, video_blob, image_blobs):
+    """元メディアがあるのにアップロードできなければ、本文だけで確定投稿しない。"""
+    return has_source_media and not video_blob and not image_blobs
+
+
 def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, external_embed=None):
     """Blueskyに投稿する。複数チャンクの場合はスレッドにする"""
     root_ref = None
@@ -722,12 +743,15 @@ def main():
         if not content:
             ts_post_id = get_ts_post_id(entry.get('link', ''))
             if not ts_post_id:
-                processed.append(post_id)
+                log(f"本文なし投稿のTruth Social ID未取得、次回再試行: {post_id}")
                 continue
             try:
                 ts_data = get_ts_post_data(ts_post_id)
                 video_url, image_urls = extract_media_from_ts_data(ts_data)
                 log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
+                if not video_url and not image_urls:
+                    image_urls = [(u, None) for u in scrape_images_from_page(entry.get('link', ''))]
+                    log(f"TS APIメディアなし、ページフォールバック画像: {len(image_urls)}枚")
             except Exception as e:
                 log(f"Truth Social APIメディア取得エラー: {e}")
                 image_urls = [(u, None) for u in scrape_images_from_page(entry.get('link', ''))]
@@ -776,6 +800,10 @@ def main():
                 video_url, image_urls = extract_media_from_ts_data(ts_data)
                 rt_display_name, rt_acct = extract_rt_info_from_ts_data(ts_data)
                 log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
+                if not video_url and not image_urls:
+                    status_link = entry.get('link', '')
+                    image_urls = [(u, None) for u in (scrape_images_from_page(status_link) if status_link else [])]
+                    log(f"TS APIメディアなし、ページフォールバック画像: {len(image_urls)}枚")
                 if rt_display_name:
                     log(f"RT投稿: {rt_display_name} (@{rt_acct})")
             except Exception as e:
@@ -904,6 +932,9 @@ def main():
         # 元メディアが存在しない投稿だけリンクカードを使う。元メディアの取得・投稿に
         # 失敗した投稿をカード画像へすり替えないことで、失敗を次回確認できるようにする。
         has_source_media = bool(post.get('video_url') or post.get('image_urls'))
+        if should_retry_media_post(has_source_media, video_blob, image_blobs):
+            log("元メディアのアップロードに失敗、本文のみで投稿せず次回再試行")
+            continue
         if not video_blob and not image_blobs and external_url and not has_source_media:
             try:
                 external_embed = make_external_embed(external_url, did, token)
