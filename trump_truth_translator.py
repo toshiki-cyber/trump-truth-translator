@@ -722,31 +722,37 @@ def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, exter
 def main():
     log("=== Trump翻訳ボット 実行開始 ===")
 
-    # RSS取得（プロキシ環境変数を無視してdirect接続）
-    try:
-        rss_resp = requests.get(
-            RSS_URL,
-            headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
-            proxies=NO_PROXY,
-            verify=certifi.where(),
-            timeout=30
-        )
-        rss_resp.raise_for_status()
-        feed = feedparser.parse(rss_resp.content)
-    except Exception as e:
-        log(f"RSSフィード取得エラー: {e}")
-        return
+    manual_post_url = os.environ.get('MANUAL_POST_URL', '').strip()
+    if manual_post_url:
+        entries = [{'id': manual_post_url, 'link': manual_post_url, 'description': ''}]
+        log(f"手動指定投稿を処理: {manual_post_url}")
+    else:
+        # RSS取得（プロキシ環境変数を無視してdirect接続）
+        try:
+            rss_resp = requests.get(
+                RSS_URL,
+                headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+                proxies=NO_PROXY,
+                verify=certifi.where(),
+                timeout=30
+            )
+            rss_resp.raise_for_status()
+            feed = feedparser.parse(rss_resp.content)
+        except Exception as e:
+            log(f"RSSフィード取得エラー: {e}")
+            return
 
-    if not feed.entries:
-        log("RSSフィードのエントリなし")
-        return
+        if not feed.entries:
+            log("RSSフィードのエントリなし")
+            return
 
-    log(f"RSSフィード取得成功: {len(feed.entries)}件")
+        entries = feed.entries
+        log(f"RSSフィード取得成功: {len(entries)}件")
 
     processed = load_processed()
     new_posts = []
 
-    for entry in reversed(feed.entries):  # 古い順に処理
+    for entry in reversed(entries):  # 古い順に処理
         post_id = entry.get('id') or entry.get('link', '')
         if post_id in processed:
             continue

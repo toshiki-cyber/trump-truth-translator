@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+    inputs:
+      manual_post_url:
+        description: 'Truth Socialの投稿URLを指定して1件だけ投稿（空欄ならRSSを通常処理）'
+        required: false
+        type: string
 
 concurrency:
   group: translate
@@ -34,6 +39,7 @@ jobs:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
           PROXY_URL: ${{ secrets.PROXY_URL }}
+          MANUAL_POST_URL: ${{ inputs.manual_post_url }}
         run: python trump_truth_translator.py
 
       - name: Commit processed state

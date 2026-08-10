@@ -37,8 +37,11 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         blob = {"$type": "blob", "ref": {"$link": "bafkexample"}}
         mock_upload.return_value = (blob, {"width": 1600, "height": 900})
 
-        translator.main()
+        with patch.dict(translator.os.environ, {"MANUAL_POST_URL": post_url}):
+            translator.main()
 
+        mock_get.assert_not_called()
+        mock_parse.assert_not_called()
         mock_ts_data.assert_called_once_with("117071685600361181")
         mock_upload.assert_called_once_with(
             "https://cdn.example.com/image.jpg", "did:example", "token", fallback_url=""
