@@ -19,6 +19,10 @@ test("dispatches the translation workflow on main", async () => {
   );
   assert.equal(request.options.method, "POST");
   assert.equal(request.options.headers.Authorization, "Bearer test-token");
+  assert.equal(
+    request.options.headers["User-Agent"],
+    "trump-truth-translator-scheduler",
+  );
   assert.equal(request.options.headers["X-GitHub-Api-Version"], "2026-03-10");
   assert.equal(request.options.body, '{"ref":"main"}');
 });
