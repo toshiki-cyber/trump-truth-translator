@@ -10,6 +10,52 @@ import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    @patch("trump_truth_translator.requests.get")
+    def test_extracts_only_archived_attachments_from_mirror_page(self, mock_get):
+        mock_get.return_value.raise_for_status.return_value = None
+        mock_get.return_value.content = b"""
+            <meta property="og:image" content="https://truth-archive.us-iad-1.linodeobjects.com/social_previews/40733/40733.jpg">
+            <div class="status-card__media"><img src="https://cdn.example/card.jpg"></div>
+            <div class="status-attachment status-attachment--image">
+              <a class="status-attachment__link" href="https://truth-archive.us-iad-1.linodeobjects.com/attachments/17609/photo.jpg">
+                <img src="https://truth-archive.us-iad-1.linodeobjects.com/attachments/17609/photo.jpg">
+              </a>
+            </div>
+            <div class="status-details-attachment__media">
+              <a href="https://truth-archive.us-iad-1.linodeobjects.com/attachments/17610/video.mp4"></a>
+            </div>
+        """
+
+        video_url, image_urls = translator.scrape_archived_media_from_page(
+            "https://www.trumpstruth.org/statuses/40733"
+        )
+
+        self.assertEqual(
+            video_url,
+            "https://truth-archive.us-iad-1.linodeobjects.com/attachments/17610/video.mp4",
+        )
+        self.assertEqual(
+            image_urls,
+            ["https://truth-archive.us-iad-1.linodeobjects.com/attachments/17609/photo.jpg"],
+        )
+
+    @patch("trump_truth_translator.requests.get")
+    def test_link_preview_is_not_misclassified_as_attached_media(self, mock_get):
+        mock_get.return_value.raise_for_status.return_value = None
+        mock_get.return_value.content = b"""
+            <meta property="og:image" content="https://truth-archive.us-iad-1.linodeobjects.com/social_previews/40729/40729.jpg">
+            <div class="status-card__media">
+              <img src="https://static-assets-1.truthsocial.com/cache/preview.jpg">
+            </div>
+        """
+
+        self.assertEqual(
+            translator.scrape_archived_media_from_page(
+                "https://www.trumpstruth.org/statuses/40729"
+            ),
+            (None, []),
+        )
+
     @patch("trump_truth_translator.time.sleep")
     @patch("trump_truth_translator.save_processed")
     @patch("trump_truth_translator.load_processed", return_value=[])

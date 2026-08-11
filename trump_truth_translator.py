@@ -320,6 +320,73 @@ def scrape_images_from_page(status_url):
         return []
 
 
+def scrape_archived_media_from_page(status_url):
+    """ミラーが保存した元添付だけを取得し、OGP・リンクカード画像は除外する。"""
+    try:
+        resp = requests.get(
+            status_url,
+            headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+            proxies=NO_PROXY,
+            verify=certifi.where(),
+            timeout=15
+        )
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        video_url = None
+        image_urls = []
+        seen_urls = set()
+        selectors = (
+            '.status-attachment__link[href], '
+            '.status-details-attachment__media a[href]'
+        )
+        for link in soup.select(selectors):
+            href = link.get('href', '')
+            parsed = urlparse(href)
+            if (
+                parsed.scheme != 'https'
+                or not parsed.hostname
+                or not parsed.hostname.endswith('.linodeobjects.com')
+                or '/attachments/' not in parsed.path
+                or href in seen_urls
+            ):
+                continue
+            seen_urls.add(href)
+            extension = os.path.splitext(parsed.path.lower())[1]
+            if extension in ('.mp4', '.mov', '.webm', '.m4v') and not video_url:
+                video_url = href
+            elif extension in ('.jpg', '.jpeg', '.png', '.webp', '.gif') and len(image_urls) < 4:
+                image_urls.append(href)
+        return video_url, image_urls
+    except Exception as e:
+        log(f"保存済みメディア取得エラー: {e}")
+        return None, []
+
+
+def prefer_archived_media(status_url, video_url, image_urls):
+    """ミラー保存済みメディアがあれば、403になりやすいTruth CDN URLより優先する。"""
+    status_host = (urlparse(status_url).hostname or '').lower()
+    if status_host not in ('trumpstruth.org', 'www.trumpstruth.org'):
+        return video_url, image_urls
+    archived_video, archived_images = scrape_archived_media_from_page(status_url)
+    if archived_video:
+        log("ミラー保存済み動画を使用")
+        return archived_video, []
+    if archived_images:
+        original_by_name = {}
+        for url_pair in image_urls:
+            primary, fallback = url_pair if isinstance(url_pair, tuple) else (url_pair, None)
+            for candidate in (primary, fallback):
+                if candidate:
+                    original_by_name[os.path.basename(urlparse(candidate).path)] = candidate
+        archived_pairs = [
+            (url, original_by_name.get(os.path.basename(urlparse(url).path)))
+            for url in archived_images
+        ]
+        log(f"ミラー保存済み画像を使用: {len(archived_pairs)}枚")
+        return None, archived_pairs
+    return video_url, image_urls
+
+
 def extract_video(html_content):
     """RSS HTMLから動画URLを抽出（最初の1件）"""
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -405,10 +472,12 @@ def upload_video_to_bsky(video_url, did, token):
     # ファイルサイズ事前確認（direct優先、失敗時はproxy）
     try:
         head = requests.head(video_url, headers=headers, proxies=NO_PROXY, timeout=15, allow_redirects=True)
+        head.raise_for_status()
     except Exception:
         if not BSKY_PROXIES:
             raise
         head = requests.head(video_url, headers=headers, proxies=BSKY_PROXIES, timeout=15, allow_redirects=True)
+        head.raise_for_status()
     size = int(head.headers.get('content-length', 0))
     if size > MAX_SIZE:
         raise ValueError(f"動画サイズ超過: {size / 1024 / 1024:.1f}MB > 50MB")
@@ -474,7 +543,7 @@ def normalize_image_for_bsky(image_data):
 
 
 def upload_image_to_bsky(image_url, did, token, fallback_url=None):
-    """画像をダウンロードしてBlueskyにアップロード、blobを返す（direct優先、失敗時proxy、fallback_url対応）"""
+    """画像をダウンロードしてBlueskyにアップロード、blobを返す。"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
@@ -759,7 +828,8 @@ def main():
 
         content = entry.get('description') or entry.get('summary', '')
         if not content:
-            ts_post_id = get_ts_post_id(entry.get('link', ''))
+            status_link = entry.get('link', '')
+            ts_post_id = get_ts_post_id(status_link)
             if not ts_post_id:
                 log(f"本文なし投稿のTruth Social ID未取得、次回再試行: {post_id}")
                 continue
@@ -767,14 +837,13 @@ def main():
                 ts_data = get_ts_post_data(ts_post_id)
                 video_url, image_urls = extract_media_from_ts_data(ts_data)
                 log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
-                if not video_url and not image_urls:
-                    image_urls = [(u, None) for u in scrape_images_from_page(entry.get('link', ''))]
-                    log(f"TS APIメディアなし、ページフォールバック画像: {len(image_urls)}枚")
             except Exception as e:
                 log(f"Truth Social APIメディア取得エラー: {e}")
-                image_urls = [(u, None) for u in scrape_images_from_page(entry.get('link', ''))]
+                image_urls = []
                 video_url = None
-                log(f"ページフォールバック画像: {len(image_urls)}枚")
+            video_url, image_urls = prefer_archived_media(
+                status_link, video_url, image_urls
+            )
             if not video_url and not image_urls:
                 log("本文なし投稿のメディア未取得、次回再試行")
                 continue
@@ -811,34 +880,29 @@ def main():
         video_url = None
         image_urls = []
         rt_display_name, rt_acct = None, None
-        ts_post_id = get_ts_post_id(entry.get('link', ''))
+        status_link = entry.get('link', '')
+        ts_post_id = get_ts_post_id(status_link)
         if ts_post_id:
             try:
                 ts_data = get_ts_post_data(ts_post_id)
                 video_url, image_urls = extract_media_from_ts_data(ts_data)
                 rt_display_name, rt_acct = extract_rt_info_from_ts_data(ts_data)
                 log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
-                if not video_url and not image_urls:
-                    status_link = entry.get('link', '')
-                    image_urls = [(u, None) for u in (scrape_images_from_page(status_link) if status_link else [])]
-                    log(f"TS APIメディアなし、ページフォールバック画像: {len(image_urls)}枚")
                 if rt_display_name:
                     log(f"RT投稿: {rt_display_name} (@{rt_acct})")
             except Exception as e:
                 log(f"Truth Social APIエラー（フォールバック）: {e}")
                 video_url = extract_video(content)
                 if not video_url:
-                    status_link = entry.get('link', '')
-                    image_urls = [(u, None) for u in (scrape_images_from_page(status_link) if status_link else [])]
-                    if not image_urls:
-                        image_urls = [(u, None) for u in extract_images(content)]
+                    image_urls = [(u, None) for u in extract_images(content)]
         else:
             video_url = extract_video(content)
             if not video_url:
-                status_link = entry.get('link', '')
-                image_urls = [(u, None) for u in (scrape_images_from_page(status_link) if status_link else [])]
-                if not image_urls:
-                    image_urls = [(u, None) for u in extract_images(content)]
+                image_urls = [(u, None) for u in extract_images(content)]
+
+        video_url, image_urls = prefer_archived_media(
+            status_link, video_url, image_urls
+        )
 
         # URL重複排除（同じ画像が複数回添付されるのを防ぐ）
         seen = set()
