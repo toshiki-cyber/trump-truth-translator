@@ -66,7 +66,7 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
             "truth_social_id": truth_id,
             "feed_post_id": f"truth:{truth_id}",
             "status_url": "https://www.trumpstruth.org/statuses/40757",
-            "source_text": "<p>Saved caption</p>",
+            "source_text": "",
             "translation": "保存済み訳",
             "first_seen": "2026-08-13T00:00:00Z",
             "no_media_confirmations": 0,

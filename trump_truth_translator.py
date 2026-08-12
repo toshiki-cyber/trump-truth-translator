@@ -1717,7 +1717,15 @@ def main():
             content = processed['posts'].get(post_id, {}).get('source_text', '')
         if not content:
             media = resolve_post_media(status_link, ts_post_id)
-            if media['state'] != MediaState.READY:
+            saved_translation = (
+                processed.get('posts', {}).get(post_id, {}).get('translation')
+                if isinstance(processed, dict) else None
+            )
+            use_saved_text = bool(
+                manual_post_url and saved_translation
+                and media['state'] == MediaState.NO_MEDIA
+            )
+            if media['state'] != MediaState.READY and not use_saved_text:
                 reason = media['reason'] or '本文も添付メディアも取得できない'
                 record_post_state(
                     processed, post_id, media['state'], reason, ts_post_id,
