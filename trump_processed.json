@@ -503,7 +503,9 @@
     "truth:117079571028588906",
     "https://www.trumpstruth.org/statuses/40752",
     "truth:117080183664102958",
-    "https://www.trumpstruth.org/statuses/40753"
+    "https://www.trumpstruth.org/statuses/40753",
+    "truth:117082486292079885",
+    "https://www.trumpstruth.org/statuses/40755"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -762,19 +764,18 @@
       "translation": ""
     },
     "truth:117082486292079885": {
-      "post_status": "RETRY",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40755",
       "source_text": "<p></p>",
       "published": "Wed, 12 Aug 2026 12:16:01 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-12T21:00:53.256230Z",
+      "updated_at": "2026-08-12T21:21:24.769826Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40755",
       "source_fingerprint": null,
       "media_identity": "attachment:117082486292079885:298636baadc16565.jpg",
-      "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-61da275e8682106fcdf7c961be0df5bc\\\") at $\"}",
+      "failure_reason": null,
       "truth_social_id": "117082486292079885",
-      "failure_stage": "POST",
       "translation": "",
       "rkey_policy_version": 1
     },
@@ -798,8 +799,8 @@
       "failure_stage": "POST",
       "rkey_policy_version": 1
     },
-    "url:https://www.trumpstruth.org/statuses/40759": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40759",
+    "truth:117084211457388624": {
+      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40759",
       "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40759",
