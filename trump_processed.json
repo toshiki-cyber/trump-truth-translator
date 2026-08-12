@@ -502,14 +502,21 @@
     "https://www.trumpstruth.org/statuses/40751"
   ],
   "posts": {
-    "https://www.trumpstruth.org/statuses/40727": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+    "truth:117074526504264990": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/40727",
       "source_text": "<p>Chandler Hall, representing, on Television, the foolish Center for American Lack of Progress, stated that adding the National Guard to Cities, including our now Great Again, Washington, D.C., had “NO impact on Crime.” How crazy is that. Hall was met with furious dissent. The report is just another Radical Left SCAM, as are the people who fund this gaggle of Lunatics, including George Soros, Bill and Melinda Gates, Google, Apple, Visa, Goldman Sachs, Citigroup, WellsFargo, Bank of America, Walmart, Toyota, T-Mobile, and NBC Universal. Foreign support includes the Embassy of Japan, the Korea Foundation, Taipei Economic and Cultural Representative Office (Taiwan), and the Embassy of the United Arab Emirates. The Dumocrats love it, and are against anything “TRUMP.” These people, and others like them, are so bad for our Country. Their stated course is anything to hate or demean “TRUMP.” This will be met with a lawsuit, which is being drawn now. I am also strongly considering adding some of the contributors to this Fake Organization. Crime is way down since I took Office, and they know it. Liars, at this level, must be held accountable! President DONALD J. TRUMP</p>",
       "published": "Tue, 11 Aug 2026 02:31:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-12T02:10:40.409945Z"
+      "retry_count": 1,
+      "updated_at": "2026-08-12T02:22:56.079736Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40727",
+      "source_fingerprint": "fp:Chandler Hall, representing, on Television, the foolish Center for American Lack of Progress, stated that adding the National Guard to Cities, includi",
+      "media_identity": "attachment:117074526504264990:d24bb851970c4cda.mp4",
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/074/532/783/484/749/original/d24bb851970c4cda.mp4",
+      "fingerprint": "fp:Chandler Hall, representing, on Television, the foolish Center for American Lack of Progress, stated that adding the National Guard to Cities, includi",
+      "truth_social_id": "117074526504264990",
+      "next_retry_at": "2026-08-12T02:27:56.079756Z"
     }
   }
 }
