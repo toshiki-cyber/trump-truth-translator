@@ -538,20 +538,20 @@
     },
     "truth:117080183664102958": {
       "post_status": "RETRY",
-      "media_state": "PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40753",
       "source_text": "<p></p>",
       "published": "Wed, 12 Aug 2026 02:30:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T05:01:05.393914Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-12T05:15:46.606215Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40753",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "next_retry_at": "2026-08-12T05:11:05.393930Z",
+      "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-d183195bf4f48a1e362dcde14e475c99\\\") at $\"}",
       "source_fingerprint": null,
       "media_identity": "attachment:117080183664102958:fb7740531eb4fecf.jpg",
       "truth_social_id": "117080183664102958",
       "failure_stage": "POST",
-      "translation": ""
+      "translation": "",
+      "next_retry_at": "2026-08-12T05:35:46.606233Z"
     }
   }
 }
