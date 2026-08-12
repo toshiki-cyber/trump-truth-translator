@@ -92,6 +92,23 @@ def has_feed_alias(history, feed_post_id):
     )
 
 
+def find_source_state(history, feed_post_id='', status_url='', truth_social_id=None):
+    """URL形式が変わっても同じTruth投稿の保存状態を見つける。"""
+    if not isinstance(history, dict):
+        return None, {}
+    posts = history.get('posts', {})
+    truth_id = truth_social_id or extract_ts_post_id_from_url(feed_post_id)
+    for key, state in posts.items():
+        if (
+            key == feed_post_id
+            or (status_url and state.get('status_url') == status_url)
+            or (feed_post_id and state.get('feed_post_id') == feed_post_id)
+            or (truth_id and str(state.get('truth_social_id') or '') == str(truth_id))
+        ):
+            return key, state
+    return None, {}
+
+
 class MediaState(str, Enum):
     """元投稿のメディア確認状態。失敗・不明をNO_MEDIAと区別する。"""
 
@@ -1656,14 +1673,24 @@ def main():
         ):
             continue
         status_link = entry.get('link', '')
-        ts_post_id = get_ts_post_id(status_link)
+        state_key, saved_state = find_source_state(
+            processed, feed_post_id, status_link
+        )
+        ts_post_id = saved_state.get('truth_social_id') or get_ts_post_id(status_link)
         post_id = canonical_source_key(status_link or feed_post_id, ts_post_id)
-        if isinstance(processed, dict) and feed_post_id != post_id:
-            old_state = processed['posts'].pop(feed_post_id, {})
+        if isinstance(processed, dict):
+            matched_key, matched_state = find_source_state(
+                processed, feed_post_id, status_link, ts_post_id
+            )
             current = processed['posts'].setdefault(post_id, {})
-            for key, value in old_state.items():
-                current.setdefault(key, value)
-            current['feed_post_id'] = feed_post_id
+            source_states = []
+            for key in (feed_post_id, state_key, matched_key):
+                if key and key != post_id and key in processed['posts']:
+                    source_states.append(processed['posts'].pop(key))
+            for source_state in source_states:
+                current.update(source_state)
+            if feed_post_id != post_id:
+                current['feed_post_id'] = feed_post_id
         if post_id in seen_source_keys:
             continue
         seen_source_keys.add(post_id)
@@ -1684,6 +1711,8 @@ def main():
             continue
 
         content = preliminary_content
+        if not content and isinstance(processed, dict):
+            content = processed['posts'].get(post_id, {}).get('source_text', '')
         if not content:
             media = resolve_post_media(status_link, ts_post_id)
             if media['state'] != MediaState.READY:

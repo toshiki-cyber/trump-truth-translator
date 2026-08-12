@@ -13,6 +13,75 @@ import trump_truth_translator as translator
 
 
 class NormalizeImageForBlueskyTests(unittest.TestCase):
+    def test_saved_truth_id_and_text_survive_mirror_to_canonical_merge(self):
+        mirror = "url:https://www.trumpstruth.org/statuses/40757"
+        feed_id = "truth:117082899005949110"
+        history = translator.new_processing_history([])
+        history["posts"][mirror] = {
+            "post_status": "RETRY",
+            "feed_post_id": feed_id,
+            "truth_social_id": "117082899005949110",
+            "source_text": "<p>Saved caption</p>",
+            "translation": "保存済み訳",
+        }
+
+        key, state = translator.find_source_state(
+            history, feed_id, "https://www.trumpstruth.org/statuses/40757"
+        )
+
+        self.assertEqual(key, mirror)
+        self.assertEqual(state["truth_social_id"], "117082899005949110")
+        self.assertEqual(state["source_text"], "<p>Saved caption</p>")
+
+    @patch("trump_truth_translator.verify_published_embed", return_value=(True, None))
+    @patch("trump_truth_translator.post_to_bluesky", return_value="at://posted")
+    @patch("trump_truth_translator.translate_with_claude")
+    @patch(
+        "trump_truth_translator.bsky_login",
+        return_value=("did:example", "token", "did:web:pds.example"),
+    )
+    @patch("trump_truth_translator.resolve_post_media")
+    @patch("trump_truth_translator.load_processed")
+    def test_manual_truth_url_reuses_saved_mirror_text(
+        self, mock_load, mock_media, mock_login, mock_translate, mock_post,
+        mock_verify,
+    ):
+        truth_id = "117082899005949110"
+        mirror = "url:https://www.trumpstruth.org/statuses/40757"
+        direct = f"https://truthsocial.com/@realDonaldTrump/posts/{truth_id}"
+        history = translator.new_processing_history([])
+        history["posts"][mirror] = {
+            "post_status": "RETRY",
+            "media_state": "NO_MEDIA",
+            "truth_social_id": truth_id,
+            "feed_post_id": f"truth:{truth_id}",
+            "status_url": "https://www.trumpstruth.org/statuses/40757",
+            "source_text": "<p>Saved caption</p>",
+            "translation": "保存済み訳",
+            "first_seen": "2026-08-12T00:00:00Z",
+            "no_media_confirmations": 5,
+        }
+        mock_load.return_value = history
+        mock_media.return_value = {
+            "state": translator.MediaState.NO_MEDIA,
+            "reason": None,
+            "video_url": None,
+            "image_urls": [],
+            "rt_display_name": None,
+            "rt_acct": None,
+        }
+
+        with (
+            patch.dict(os.environ, {"MANUAL_POST_URL": direct}),
+            patch("trump_truth_translator.save_processed"),
+        ):
+            translator.main()
+
+        mock_translate.assert_not_called()
+        mock_post.assert_called_once()
+        self.assertEqual(mock_post.call_args.args[0], ["保存済み訳"])
+        self.assertEqual(history["posts"][f"truth:{truth_id}"]["post_status"], "POSTED")
+
     def test_unsupported_nonempty_attachment_is_not_no_media(self):
         result = translator.classify_ts_media({"media_attachments": [{"type": "audio", "url": "https://x/a.mp3"}]})
         self.assertEqual(result["state"], translator.MediaState.INVALID)
@@ -468,7 +537,8 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
             canonical.pop("next_retry_at", None)
             translator.main()
 
-        self.assertEqual(ts_id.call_count, 2)
+        # 2回目は履歴に保存したTruth IDを再利用し、ミラーを再取得しない。
+        self.assertEqual(ts_id.call_count, 1)
         self.assertEqual(resolve.call_count, 2)
         self.assertEqual(history["posts"][f"truth:{truth_id}"]["post_status"], "BLOCKED")
         login.assert_not_called()
