@@ -550,7 +550,10 @@
     "https://www.trumpstruth.org/statuses/40777",
     "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District!\n \nIn Congress, Kat is wo",
     "truth:117084810795263041",
-    "https://www.trumpstruth.org/statuses/40774"
+    "https://www.trumpstruth.org/statuses/40774",
+    "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
+    "truth:117084811877415311",
+    "https://www.trumpstruth.org/statuses/40773"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1056,20 +1059,22 @@
       "translation": "ケット・キャマック下院議員はフロリダ州第3選挙区の素晴らしい人々を代表する素晴らしい仕事をしている！\n\n議会でケットは、我々の経済を成長させ、税金を削減し、米国製を推進し、素晴らしい農民と牧場主を支援し、アメリカンエネルギーの優位性を解放し、国境をしっかり守り、軍隊と退役軍人を支持し、常に攻撃にさらされている修正第2条を守るために、たゆまぬ努力をしている。\n\nケット・キャマックは、再選に向けて私の完全かつ全面的な支持を持っている！早期投票は今進行中であり、選挙日は8月18日だ。ケットに投票するために外に出よう――彼女は決してあなたを失望させることはない！\n\n投票場所をここで探そう：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084811877415311": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40773",
       "source_text": "<p>Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!<br /> <br />A Fourth Generation Floridian from the beautiful Panhandle, and owner of an iconic seafood restaurant, Jimmy served as the Chief Financial Officer for the Great State of Florida for seven years, prior to becoming a very distinguished Congressman. In the U.S. House of Representatives, Jimmy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jimmy Patronis has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR JIMMY  — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:07:26 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:25:47.108973Z",
+      "updated_at": "2026-08-12T23:25:48.778235Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40773",
       "first_seen": "2026-08-12T22:16:29.452334Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
-      "next_retry_at": "2026-08-12T22:35:47.108988Z",
-      "truth_social_id": "117084811877415311"
+      "truth_social_id": "117084811877415311",
+      "source_fingerprint": "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
+      "media_identity": "attachment:117084811877415311:",
+      "translation": "ジミー・パトロニス下院議員はMAGA戦士であり、フロリダ州第1地区を素晴らしく代表する仕事をしている！\n\n美しいパンハンドル地域出身の4代目フロリダ州民であり、象徴的なシーフードレストランのオーナーであるジミーは、下院議員になる前にフロリダ州の最高財務責任者として7年間職務を務めた。合衆国下院では、ジミーは経済成長、増税と規制削減、米国製品の推進、アメリカンエネルギーの支配力解放、国境の厳格な確保、移民犯罪の阻止、素晴らしい軍と退役軍人の強化、そして常に圧力にさらされている修正第2条の防衛のために不屈の努力で戦っている。\n\nジミー・パトロニスは再選について私の完全かつ全面的な支持を得ている！期日前投票は今実施中であり、選挙日は8月18日だ。ジミーに投票に行け——彼は君たちを決して失望させない！\n\n投票場所はここで確認できる：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084814123781429": {
       "post_status": "RETRY",
@@ -1139,7 +1144,7 @@
       "updated_at": "2026-08-12T23:05:42.236447Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40784"
     },
-    "url:https://www.trumpstruth.org/statuses/40783": {
+    "truth:117084962212047241": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40783",
