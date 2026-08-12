@@ -116,6 +116,39 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
 
         mock_save.assert_called_once_with([])
 
+    @patch("trump_truth_translator.post_to_bluesky", return_value="at://posted")
+    @patch(
+        "trump_truth_translator.bsky_login",
+        return_value=("did:example", "token", "did:web:pds.example"),
+    )
+    @patch("trump_truth_translator.translate_with_claude", return_value="日本語訳")
+    @patch("trump_truth_translator.save_processed")
+    @patch("trump_truth_translator.get_ts_post_id", return_value=None)
+    @patch("trump_truth_translator.load_processed", return_value=[])
+    @patch("trump_truth_translator.feedparser.parse")
+    @patch("trump_truth_translator.requests.get")
+    def test_text_post_with_unresolved_mirror_metadata_remains_pending(
+        self, mock_get, mock_parse, mock_load, mock_ts_id, mock_save,
+        mock_translate, mock_login, mock_post
+    ):
+        status_url = "https://www.trumpstruth.org/statuses/40727"
+        mock_get.return_value.raise_for_status.return_value = None
+        mock_get.return_value.content = b"<rss />"
+        mock_parse.return_value = SimpleNamespace(
+            entries=[{
+                "id": status_url,
+                "link": status_url,
+                "description": "<p>Chandler Hall appeared on television.</p>",
+            }]
+        )
+
+        translator.main()
+
+        mock_translate.assert_not_called()
+        mock_login.assert_not_called()
+        mock_post.assert_not_called()
+        mock_save.assert_called_once_with([])
+
     def test_extracts_truth_status_id_from_any_truth_social_status_link(self):
         html = (
             '<a href="https://truthsocial.com/@realDonaldTrump/'

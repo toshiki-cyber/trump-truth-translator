@@ -888,6 +888,15 @@ def main():
         rt_display_name, rt_acct = None, None
         status_link = entry.get('link', '')
         ts_post_id = get_ts_post_id(status_link)
+        status_host = (urlparse(status_link).hostname or '').lower()
+        if (
+            not ts_post_id
+            and status_host in ('trumpstruth.org', 'www.trumpstruth.org')
+        ):
+            # ミラーの取得失敗を「元メディアなし」と解釈すると、動画・画像付き投稿を
+            # 本文だけで確定してしまう。メタデータを確認できる次回まで保留する。
+            log(f"Truth Social ID未取得、メディア有無を確認できないため次回再試行: {post_id}")
+            continue
         if ts_post_id:
             try:
                 ts_data = get_ts_post_data(ts_post_id)
