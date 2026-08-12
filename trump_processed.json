@@ -532,7 +532,10 @@
     "https://www.trumpstruth.org/statuses/40767",
     "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
     "truth:117084801475307846",
-    "https://www.trumpstruth.org/statuses/40766"
+    "https://www.trumpstruth.org/statuses/40766",
+    "fp:Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District!\n \nLaurel served as Florida’s Secretary of State for",
+    "truth:117084802456544265",
+    "https://www.trumpstruth.org/statuses/40781"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -772,14 +775,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40764",
       "source_text": "<p>Congressman Carlos Gimenez is doing a fantastic job representing Florida’s 28th Congressional District!<br /> <br />A Highly Respected Firefighter, Civic Leader, and Mayor of Miami-Dade County, prior to becoming a distinguished Congressman, Carlos has dedicated his life to serving his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.<br /> <br />Carlos Gimenez has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR CARLOS — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:02:39 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-12T22:30:58.194497Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-12T22:55:44.872031Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40764",
       "first_seen": "2026-08-12T22:06:02.945250Z",
-      "no_media_confirmations": 1,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 2,
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Carlos Gimenez is doing a fantastic job representing Florida’s 28th Congressional District!\n \nA Highly Respected Firefighter, Civic Leader",
-      "next_retry_at": "2026-08-12T22:50:58.194522Z",
+      "next_retry_at": "2026-08-12T23:35:44.872045Z",
       "truth_social_id": "117084793036271251"
     },
     "truth:117084794047639979": {
@@ -898,20 +901,22 @@
       "updated_at": "2026-08-12T22:15:51.043580Z"
     },
     "truth:117084802456544265": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40781",
       "source_text": "<p>Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District!<br /> <br />Laurel served as Florida’s Secretary of State for three years, and delivered strong results for families, and businesses. In Congress, Laurel is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion Innovation, Strengthen our Great Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Laurel Lee has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR LAUREL — SHE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:05:03 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:25:44.413581Z",
+      "updated_at": "2026-08-12T22:55:49.758362Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40781",
       "first_seen": "2026-08-12T22:16:24.294471Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District!\n \nLaurel served as Florida’s Secretary of State for",
-      "next_retry_at": "2026-08-12T22:35:44.413597Z",
-      "truth_social_id": "117084802456544265"
+      "truth_social_id": "117084802456544265",
+      "source_fingerprint": "fp:Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District!\n \nLaurel served as Florida’s Secretary of State for",
+      "media_identity": "attachment:117084802456544265:",
+      "translation": "フロリダ州第15区の下院議員ローレル・リーは素晴らしい代表だ！\n\nローレルはフロリダ州務長官を3年間務め、家族と企業のために強い成果を上げた。議会では、経済成長、減税・規制緩和、米国製品の推進、米国のエネルギー支配力の解放、国境の厳格な警備、イノベーションの推進、米国の偉大な軍隊と退役軍人の強化、そして常に攻撃を受けている修正第2条の保護のために、たゆまぬ闘いを続けている。\n\nローレル・リーは私の完全かつ全面的な再選支持を得ている！期日前投票は今進行中であり、選挙日は8月18日だ。ローレルに投票しろ — 彼女はお前たちを絶対に失望させることはない！\n\n投票所を探す：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084803641067826": {
       "post_status": "RETRY",
