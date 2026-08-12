@@ -565,7 +565,10 @@
     "https://www.trumpstruth.org/statuses/40764",
     "fp:Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!\n \nAs the Chairman of my WINNING 2024 Campai",
     "truth:117084797802563089",
-    "https://www.trumpstruth.org/statuses/40761"
+    "https://www.trumpstruth.org/statuses/40761",
+    "fp:Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!\n \nAs the former Sheriff ",
+    "truth:117084808801556907",
+    "https://www.trumpstruth.org/statuses/40776"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1025,20 +1028,22 @@
       "translation": "下院議員ランディ・ファイン氏はMAGA戦士であり、フロリダ州第6議会区を素晴らしい仕事ぶりで代表している！\n\nハーバード大学卒業の実業家で成功を収めたランディ氏は、傑出した下院議員となる前、高く尊敬されていた州議会議員だった。彼はサンシャイン州の素晴らしい人々を愛しており、私は2016年、2020年、2024年の三度フロリダ州を勝ち取った！下院ではランディ氏は、我々の経済成長、減税と規制廃止、米国製造品推進、米国エネルギー支配力の解放、国境の厳格な安全保障維持、移民犯罪の阻止、軍隊・退役軍人の支援、常に攻撃にさらされている銃規制反対権の防衛、そして非常に重要な、アメリカ救済法案の成立に向けて、絶え間なく戦っている。\n\nランディ・ファイン氏は再選に向けて私の完全で全的な支持を得ている！早期投票は現在進行中であり、選挙日は8月18日だ。ランディに投票しよう — 彼は決して君たちを失望させることはない！\n\n投票所を探す：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084808801556907": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40776",
       "source_text": "<p>Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!<br /> <br />As the former Sheriff of Duval County, and now, as a Highly Respected U.S. Congressman, John strongly supports our incredible Law Enforcement, Military, and Veterans, and knows the Wisdom and Courage it takes to Ensure LAW AND ORDER. In Congress, he is fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />John Rutherford has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:06:39 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-12T23:21:05.279126Z",
+      "updated_at": "2026-08-12T23:50:47.497301Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40776",
       "first_seen": "2026-08-12T22:16:27.421743Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!\n \nAs the former Sheriff ",
-      "next_retry_at": "2026-08-12T23:41:05.279160Z",
-      "truth_social_id": "117084808801556907"
+      "truth_social_id": "117084808801556907",
+      "source_fingerprint": "fp:Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!\n \nAs the former Sheriff ",
+      "media_identity": "attachment:117084808801556907:",
+      "translation": "フロリダ州第5選挙区の素晴らしい国民のために、ジョン・ラザフォード下院議員は信じられないほど素晴らしい代表だ！\n\nデュバル郡の前保安官であり、現在は高く尊敬されるアメリカ下院議員として、ジョンは私たちの素晴らしい法執行機関、軍隊、退役軍人を強く支持しており、法と秩序を確保するのに必要な英知と勇気を知っている。議会ではジョンは、国境をしっかり守り、移民犯罪を止め、経済を成長させ、税金と規制をカットし、アメリカ製品を推進し、アメリカのエネルギー支配力を解放し、選挙の安全を守り、常に脅威にさらされている憲法修正第2条を保護するために、たゆまず戦っている。\n\nジョン・ラザフォードは、再選に向けて私の完全かつ全面的な支持を得ている！期日前投票は今すぐ実施中であり、選挙日は8月18日だ。ジョンに投票に行け――彼は君たちを決して失望させない！\n\n投票所を以下で探せ：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084809928280169": {
       "post_status": "RETRY",
