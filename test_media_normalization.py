@@ -228,9 +228,18 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         translator.update_source_identity(history, "truth:1", "new", "media:new")
         self.assertNotIn("translation", history["posts"]["truth:1"])
 
-    def test_stable_record_key_is_valid_hash_not_fake_tid(self):
+    def test_stable_record_key_is_valid_tid(self):
         rkey = translator.deterministic_post_rkey("truth:1171", 0)
-        self.assertRegex(rkey, r"^ttt-[a-z0-9_-]{20,}$")
+        self.assertRegex(rkey, r"^[234567abcdefghij][234567abcdefghijklmnopqrstuvwxyz]{12}$")
+
+    def test_truth_rkey_encodes_truth_post_timestamp(self):
+        truth_id = 117080183664102958
+        rkey = translator.deterministic_post_rkey(f"truth:{truth_id}", 0)
+
+        self.assertEqual(
+            translator.decode_tid(rkey) >> 10,
+            (truth_id >> 16) * 1000,
+        )
 
     def test_existing_record_must_match_expected_record(self):
         expected = {"$type": "app.bsky.feed.post", "text": "expected", "langs": ["ja"]}

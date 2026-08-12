@@ -302,9 +302,36 @@ def retry_due(history, post_id, now=None, media_identity=None, manual=False):
 
 
 def deterministic_post_rkey(source_id, chunk_index):
-    """公式record-key文字制約内の安定hash keyを返す。"""
-    digest = hashlib.sha256(f'{source_id}:{chunk_index}'.encode()).hexdigest()
-    return f'ttt-{digest[:32]}'
+    """app.bsky.feed.postが要求する13文字TIDを決定的に生成する。"""
+    digest = hashlib.sha256(f'{source_id}:{chunk_index}'.encode()).digest()
+    match = re.search(r'(\d{15,20})', str(source_id))
+    if match:
+        # Truth Social/Mastodonのsnowflake ID上位48bitはミリ秒時刻。
+        micros = (int(match.group(1)) >> 16) * 1000 + chunk_index
+    else:
+        # Truth IDを取得できないテスト・旧履歴向けの安定した過去時刻。
+        epoch_2020_us = 1_577_836_800_000_000
+        six_years_us = 6 * 365 * 24 * 60 * 60 * 1_000_000
+        micros = epoch_2020_us + int.from_bytes(digest[:8], 'big') % six_years_us
+    clock_id = int.from_bytes(digest[-2:], 'big') & 0x3ff
+    return encode_tid((micros << 10) | clock_id)
+
+
+TID_ALPHABET = '234567abcdefghijklmnopqrstuvwxyz'
+
+
+def encode_tid(value):
+    chars = []
+    for shift in range(60, -1, -5):
+        chars.append(TID_ALPHABET[(value >> shift) & 0x1f])
+    return ''.join(chars)
+
+
+def decode_tid(value):
+    decoded = 0
+    for char in value:
+        decoded = (decoded << 5) | TID_ALPHABET.index(char)
+    return decoded
 
 
 def canonical_source_key(status_url, truth_social_id=None):
