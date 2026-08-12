@@ -561,14 +561,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40758",
       "source_text": "<p>The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade is being called, by everyone, “A WALL OF STEEL,” and there is nothing Iran can do about it. They have no Navy, they have no Air Force, their remaining soldiers are unpaid, the IRGC is decimated and fleeing, and their “Leadership” is uncertain, at best! They have No Money - Their country is “shot.” All they have is FAKE NEWS and 300% INFLATION, and getting worse! Iran is all talk and no action, the Bully of the Middle East No Longer. Praise be to Allah! President DONALD J. TRUMP</p>",
       "published": "Wed, 12 Aug 2026 14:31:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T16:15:42.582782Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-12T16:45:55.474117Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40758",
       "first_seen": "2026-08-12T16:15:42.582745Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade is being called, by everyone, “A WALL OF STEEL,” a",
-      "next_retry_at": "2026-08-12T16:20:42.582792Z",
+      "next_retry_at": "2026-08-12T16:55:55.474134Z",
       "truth_social_id": "117083017680231697"
     },
     "truth:117079571028588906": {
@@ -630,18 +630,18 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/40754",
       "source_fingerprint": null,
       "media_identity": "attachment:117082486707856291:e1a459bf2134e6b3.jpg",
-      "media_state": "READY",
+      "media_state": "PENDING",
       "post_status": "RETRY",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/082/486/587/767/772/small/e1a459bf2134e6b3.jpg",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T16:31:04.668759Z",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "retry_count": 2,
+      "updated_at": "2026-08-12T16:45:54.690198Z",
       "status_url": "https://www.trumpstruth.org/statuses/40754",
       "source_text": "<p></p>",
       "published": "Wed, 12 Aug 2026 12:16:07 +0000",
       "truth_social_id": "117082486707856291",
       "failure_stage": "MEDIA_UPLOAD",
       "translation": "",
-      "next_retry_at": "2026-08-12T16:36:04.668775Z"
+      "next_retry_at": "2026-08-12T16:55:54.690217Z"
     }
   }
 }
