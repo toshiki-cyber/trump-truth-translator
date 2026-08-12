@@ -47,6 +47,7 @@ KNOWN_REEVALUATE_IDS = {
     '117074526504264990',
 }
 TEXT_FALLBACK_POLICY_VERSION = 1
+TID_RKEY_POLICY_VERSION = 1
 KNOWN_REEVALUATE_CANONICAL = {
     'https://www.trumpstruth.org/statuses/40727': 'truth:117074526504264990',
 }
@@ -142,11 +143,21 @@ def normalize_processing_history(data):
         return new_processing_history(data)
     if not isinstance(data, dict):
         return new_processing_history()
-    return {
+    history = {
         'version': 2,
         'processed': list(data.get('processed', [])),
         'posts': dict(data.get('posts', {})),
     }
+    for state in history['posts'].values():
+        if (
+            state.get('rkey_policy_version', 0) < TID_RKEY_POLICY_VERSION
+            and 'Invalid TID string' in str(state.get('failure_reason', ''))
+            and 'ttt-' in str(state.get('failure_reason', ''))
+        ):
+            state['rkey_policy_version'] = TID_RKEY_POLICY_VERSION
+            state['retry_count'] = 0
+            state.pop('next_retry_at', None)
+    return history
 
 
 def can_fallback_video_to_text(text):

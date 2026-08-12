@@ -241,6 +241,28 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
             (truth_id >> 16) * 1000,
         )
 
+    def test_migrates_old_invalid_rkey_failures_to_immediate_retry_once(self):
+        history = {
+            "version": 2,
+            "processed": [],
+            "posts": {"truth:1": {
+                "post_status": "RETRY",
+                "retry_count": 5,
+                "next_retry_at": "2099-01-01T00:00:00Z",
+                "failure_reason": (
+                    'Bluesky投稿失敗: Invalid TID string '
+                    '(got \\"ttt-deadbeef\\")'
+                ),
+            }},
+        }
+
+        migrated = translator.normalize_processing_history(history)
+        state = migrated["posts"]["truth:1"]
+
+        self.assertEqual(state["retry_count"], 0)
+        self.assertNotIn("next_retry_at", state)
+        self.assertEqual(state["rkey_policy_version"], 1)
+
     def test_existing_record_must_match_expected_record(self):
         expected = {"$type": "app.bsky.feed.post", "text": "expected", "langs": ["ja"]}
         existing = {"value": {"$type": "app.bsky.feed.post", "text": "other", "langs": ["ja"]}}
