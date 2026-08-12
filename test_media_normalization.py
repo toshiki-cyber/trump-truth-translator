@@ -155,7 +155,8 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         with open(translator.PROCESSED_FILE) as file:
             legacy = json.load(file)
         history = translator.normalize_processing_history(legacy)
-        sample = next(item for item in legacy if isinstance(item, str) and "trumpstruth.org/statuses/" in item and "40727" not in item)
+        legacy_items = legacy.get("processed", []) if isinstance(legacy, dict) else legacy
+        sample = next(item for item in legacy_items if isinstance(item, str) and "trumpstruth.org/statuses/" in item and "40727" not in item)
         self.assertIn(sample, history["processed"])
 
     def test_old_no_media_still_requires_three_observations_and_15_minutes(self):
@@ -314,7 +315,7 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         reloaded = translator.normalize_processing_history(history)
         self.assertIn("https://www.trumpstruth.org/statuses/40727", reloaded["processed"])
 
-    def test_known_40727_v2_discovered_ignores_legacy_fp_once_then_stays_blocked(self):
+    def test_known_40727_v2_discovered_falls_back_to_text_then_stays_posted(self):
         status_url = "https://www.trumpstruth.org/statuses/40727"
         truth_id = "117074526504264990"
         raw_text = (
@@ -352,17 +353,18 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
             patch("trump_truth_translator.resolve_post_media", return_value=media) as resolve,
             patch("trump_truth_translator.bsky_login", return_value=("did:x", "token", "did:web:pds")),
             patch("trump_truth_translator.prepare_video_for_bsky", side_effect=translator.InvalidMediaError("moov atomなし")),
-            patch("trump_truth_translator.translate_with_claude") as claude,
-            patch("trump_truth_translator.post_to_bluesky") as post,
+            patch("trump_truth_translator.translate_with_claude", return_value="日本語訳") as claude,
+            patch("trump_truth_translator.post_to_bluesky", return_value="at://posted") as post,
+            patch("trump_truth_translator.verify_published_embed", return_value=(True, None)),
         ):
             translator.main()
-            self.assertEqual(history["posts"][f"truth:{truth_id}"]["post_status"], "BLOCKED")
+            self.assertEqual(history["posts"][f"truth:{truth_id}"]["post_status"], "POSTED")
             translator.main()
 
         ts_id.assert_called_once_with(status_url)
         resolve.assert_called_once()
-        claude.assert_not_called()
-        post.assert_not_called()
+        claude.assert_called_once()
+        post.assert_called_once()
 
     def test_completed_known_40727_skips_before_network_on_next_tick(self):
         status_url = "https://www.trumpstruth.org/statuses/40727"
@@ -686,8 +688,9 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertEqual(result["state"], translator.MediaState.PENDING)
         self.assertIn("mirror timeout", result["reason"])
 
-    @patch("trump_truth_translator.post_to_bluesky")
-    @patch("trump_truth_translator.translate_with_claude")
+    @patch("trump_truth_translator.verify_published_embed", return_value=(True, None))
+    @patch("trump_truth_translator.post_to_bluesky", return_value="at://posted")
+    @patch("trump_truth_translator.translate_with_claude", return_value="日本語訳")
     @patch(
         "trump_truth_translator.bsky_login",
         return_value=("did:example", "token", "did:web:pds.example"),
@@ -699,9 +702,10 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
     @patch("trump_truth_translator.load_processed")
     @patch("trump_truth_translator.feedparser.parse")
     @patch("trump_truth_translator.requests.get")
-    def test_invalid_video_is_rejected_before_claude_and_text_post(
+    def test_invalid_video_falls_back_to_translated_text_post(
         self, mock_get, mock_parse, mock_load, mock_ts_id, mock_ts_data,
-        mock_prefer, mock_prepare, mock_login, mock_translate, mock_post
+        mock_prefer, mock_prepare, mock_login, mock_translate, mock_post,
+        mock_verify
     ):
         history = translator.new_processing_history([])
         mock_load.return_value = history
@@ -725,13 +729,62 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         with patch("trump_truth_translator.save_processed"):
             translator.main()
 
-        mock_translate.assert_not_called()
-        mock_post.assert_not_called()
+        mock_translate.assert_called_once()
+        mock_post.assert_called_once()
+        self.assertIsNone(mock_post.call_args.args[4])
+        mock_verify.assert_called_with("at://posted", "none", 0)
         video_state = next(iter(history["posts"].values()))
         self.assertEqual(video_state["media_state"], "INVALID")
-        self.assertIn(
-            "moov", video_state["failure_reason"]
-        )
+        self.assertEqual(video_state["post_status"], "POSTED")
+        self.assertIn("moov", video_state["media_fallback_reason"])
+
+    def test_invalid_video_without_meaningful_text_remains_blocked(self):
+        self.assertFalse(translator.can_fallback_video_to_text("https://example.com"))
+        self.assertFalse(translator.can_fallback_video_to_text("  RT:  \n"))
+        self.assertTrue(translator.can_fallback_video_to_text("Video caption"))
+
+    @patch("trump_truth_translator.verify_published_embed", return_value=(True, None))
+    @patch("trump_truth_translator.post_to_bluesky", return_value="at://posted")
+    @patch("trump_truth_translator.translate_with_claude", return_value="日本語訳")
+    @patch("trump_truth_translator.upload_video_to_bsky", side_effect=RuntimeError("upload failed"))
+    @patch("trump_truth_translator.prepare_video_for_bsky", return_value=(b"video", "video/mp4"))
+    @patch("trump_truth_translator.bsky_login", return_value=("did:x", "token", "did:web:pds"))
+    @patch("trump_truth_translator.resolve_post_media")
+    @patch("trump_truth_translator.get_ts_post_id", return_value="117000000000000009")
+    @patch("trump_truth_translator.load_processed")
+    @patch("trump_truth_translator.feedparser.parse")
+    @patch("trump_truth_translator.requests.get")
+    def test_video_upload_failure_falls_back_to_text_post(
+        self, mock_get, mock_parse, mock_load, mock_ts_id, mock_media,
+        mock_login, mock_prepare, mock_upload, mock_translate, mock_post,
+        mock_verify,
+    ):
+        history = translator.new_processing_history([])
+        mock_load.return_value = history
+        mock_get.return_value.raise_for_status.return_value = None
+        mock_get.return_value.content = b"<rss />"
+        mock_parse.return_value = SimpleNamespace(entries=[{
+            "id": "https://www.trumpstruth.org/statuses/50009",
+            "link": "https://www.trumpstruth.org/statuses/50009",
+            "description": "<p>Video caption</p>",
+        }])
+        mock_media.return_value = {
+            "state": translator.MediaState.READY,
+            "reason": None,
+            "video_url": "https://example.com/video.mp4",
+            "image_urls": [],
+            "rt_display_name": None,
+            "rt_acct": None,
+        }
+
+        with patch("trump_truth_translator.save_processed"):
+            translator.main()
+
+        mock_upload.assert_called_once()
+        mock_translate.assert_called_once()
+        mock_post.assert_called_once()
+        self.assertIsNone(mock_post.call_args.args[4])
+        mock_verify.assert_called_with("at://posted", "none", 0)
 
     @patch("trump_truth_translator.requests.get")
     def test_extracts_only_archived_attachments_from_mirror_page(self, mock_get):

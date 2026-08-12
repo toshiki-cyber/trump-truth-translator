@@ -46,6 +46,7 @@ KNOWN_REEVALUATE_IDS = {
     'https://www.trumpstruth.org/statuses/40727',
     '117074526504264990',
 }
+TEXT_FALLBACK_POLICY_VERSION = 1
 KNOWN_REEVALUATE_CANONICAL = {
     'https://www.trumpstruth.org/statuses/40727': 'truth:117074526504264990',
 }
@@ -148,6 +149,16 @@ def normalize_processing_history(data):
     }
 
 
+def can_fallback_video_to_text(text):
+    """動画なしでも投稿する価値がある本文が存在するか判定する。"""
+    source = text or ''
+    plain = (BeautifulSoup(source, 'html.parser').get_text(separator='\n')
+             if '<' in source else source)
+    plain = re.sub(r'https?://\S+', '', plain)
+    plain = re.sub(r'\bRT:\s*', '', plain)
+    return bool(re.sub(r'[\s\xa0]+', '', plain))
+
+
 def processed_entries(history):
     """テスト中の旧リスト入力にも対応して処理済み一覧を返す。"""
     if isinstance(history, dict):
@@ -162,12 +173,20 @@ def record_post_state(history, post_id, media_state, reason=None, truth_social_i
     posts = history.setdefault('posts', {})
     previous = posts.get(post_id, {})
     state_value = media_state.value if isinstance(media_state, MediaState) else str(media_state)
-    failed = state_value in (MediaState.PENDING.value, MediaState.INVALID.value)
+    allow_text_fallback = bool(
+        updates.get('allow_text_fallback') or previous.get('allow_text_fallback')
+    )
+    failed = (
+        state_value in (MediaState.PENDING.value, MediaState.INVALID.value)
+        and not (state_value == MediaState.INVALID.value and allow_text_fallback)
+    )
     retry_count = int(previous.get('retry_count', 0)) + (1 if failed else 0)
     state = dict(previous)
     state.update({
         'media_state': state_value,
-        'post_status': ('BLOCKED' if state_value == MediaState.INVALID.value
+        'post_status': ('TEXT_FALLBACK_READY'
+                        if state_value == MediaState.INVALID.value and allow_text_fallback
+                        else 'BLOCKED' if state_value == MediaState.INVALID.value
                         else 'RETRY' if failed else previous.get('post_status', 'READY')),
         'failure_reason': reason if failed else None,
         'retry_count': retry_count,
@@ -1822,6 +1841,7 @@ def main():
         image_blobs = []
         media_upload_error = None
         prepared_video = None
+        video_fallback_reason = None
         if checkpoint:
             log("投稿済みrootを再利用し、未投稿の返信から再開")
         elif post.get('video_url'):
@@ -1829,36 +1849,42 @@ def main():
                 prepared_video = prepare_video_for_bsky(post['video_url'])
                 log(f"動画基本構造確認成功: {str(post['video_url'])[:60]}")
             except InvalidMediaError as e:
-                record_post_state(
-                    processed,
-                    post['id'],
-                    MediaState.INVALID,
-                    str(e),
-                    post.get('truth_social_id'),
-                )
-                save_processed(processed)
-                log(f"動画が破損しているため翻訳・投稿を保留: {e}")
-                continue
+                if can_fallback_video_to_text(post.get('text', '')):
+                    video_fallback_reason = str(e)
+                    log(f"動画が破損しているため本文のみ投稿へ切替: {e}")
+                else:
+                    record_post_state(
+                        processed, post['id'], MediaState.INVALID, str(e),
+                        post.get('truth_social_id'),
+                    )
+                    save_processed(processed)
+                    log(f"動画が破損し本文もないため投稿を保留: {e}")
+                    continue
             except Exception as e:
-                record_post_state(
-                    processed,
-                    post['id'],
-                    MediaState.PENDING,
-                    f'動画取得・検証失敗: {e}',
-                    post.get('truth_social_id'),
-                )
-                save_processed(processed)
-                log(f"動画を確認できないため翻訳・投稿を保留: {e}")
-                continue
+                if can_fallback_video_to_text(post.get('text', '')):
+                    video_fallback_reason = f'動画取得・検証失敗: {e}'
+                    log(f"動画を確認できないため本文のみ投稿へ切替: {e}")
+                else:
+                    record_post_state(
+                        processed, post['id'], MediaState.PENDING,
+                        f'動画取得・検証失敗: {e}', post.get('truth_social_id'),
+                    )
+                    save_processed(processed)
+                    log(f"動画を確認できず本文もないため投稿を保留: {e}")
+                    continue
 
-            try:
-                video_blob = upload_video_to_bsky(
-                    post['video_url'], did, token, pds_audience,
-                    prepared_video=prepared_video,
-                )
-                log(f"動画アップロード成功: {str(post['video_url'])[:60]}")
-            except Exception as e:
-                media_upload_error = e
+            if not video_fallback_reason:
+                try:
+                    video_blob = upload_video_to_bsky(
+                        post['video_url'], did, token, pds_audience,
+                        prepared_video=prepared_video,
+                    )
+                    log(f"動画アップロード成功: {str(post['video_url'])[:60]}")
+                except Exception as e:
+                    media_upload_error = e
+                    if can_fallback_video_to_text(post.get('text', '')):
+                        video_fallback_reason = f'動画アップロード失敗: {e}'
+                        log(f"動画をアップロードできないため本文のみ投稿へ切替: {e}")
         elif not checkpoint:
             for url_pair in post.get('image_urls', []):
                 primary, fallback = url_pair if isinstance(url_pair, tuple) else (url_pair, None)
@@ -1872,8 +1898,9 @@ def main():
                     media_upload_error = e
 
         has_source_media = bool(post.get('video_url') or post.get('image_urls'))
+        effective_has_source_media = has_source_media and not video_fallback_reason
         if not checkpoint and should_retry_media_post(
-            has_source_media, video_blob, image_blobs,
+            effective_has_source_media, video_blob, image_blobs,
             expected_images=len(post.get('image_urls', [])),
         ):
             record_failure(
@@ -1884,6 +1911,16 @@ def main():
             save_processed(processed)
             log("元メディアを全件アップロードできず、翻訳・投稿を保留")
             continue
+
+        if video_fallback_reason:
+            record_post_state(
+                processed, post['id'], MediaState.INVALID,
+                truth_social_id=post.get('truth_social_id'),
+                allow_text_fallback=True,
+                fallback_policy_version=TEXT_FALLBACK_POLICY_VERSION,
+                media_fallback_reason=video_fallback_reason,
+            )
+            save_processed(processed)
 
         log(f"翻訳中: {post['text'][:80]}...")
 
@@ -1907,7 +1944,7 @@ def main():
             ))
             log("テキストなし（画像のみ/URLのみ/RTのみ）のため翻訳スキップ")
         else:
-            has_media = bool(post['video_url'] or post['image_urls'])
+            has_media = bool(video_blob or image_blobs)
             translation = translate_with_claude(post['text'], has_media=has_media)
             if translation and translation not in ("RATE_LIMITED",):
                 translation = restore_urls(translation, post_urls)
@@ -1963,7 +2000,10 @@ def main():
             continue
 
         record_post_state(
-            processed, post['id'], post.get('media_state', MediaState.NO_MEDIA),
+            processed, post['id'],
+            MediaState.INVALID if video_fallback_reason else post.get(
+                'media_state', MediaState.NO_MEDIA
+            ),
             truth_social_id=post.get('truth_social_id'), translation=translation
         )
         save_processed(processed)
@@ -2026,16 +2066,14 @@ def main():
         root_uri = (
             (latest_checkpoint or {}).get('root_ref', {}).get('uri') or post_uri
         )
-        expected_kind = (
-            'video' if post.get('video_url') else
-            'images' if post.get('image_urls') else 'none'
-        )
+        expected_kind = ('video' if video_blob else 'images' if image_blobs else 'none')
+        expected_image_count = len(image_blobs)
         verified = False
         verify_reason = None
         for attempt in range(4):
             try:
                 verified, verify_reason = verify_published_embed(
-                    root_uri, expected_kind, len(post.get('image_urls', []))
+                    root_uri, expected_kind, expected_image_count
                 )
             except Exception as error:
                 verify_reason = str(error)
@@ -2059,7 +2097,7 @@ def main():
                         root_uri = repaired['uri']
                     verified, verify_reason = verify_published_embed(
                         root_uri, expected_kind,
-                        len(post.get('image_urls', []))
+                        expected_image_count
                     )
                 except Exception as error:
                     verify_reason = str(error)
@@ -2070,7 +2108,7 @@ def main():
                 truth_social_id=post.get('truth_social_id'),
                 thread_checkpoint=latest_checkpoint,
                 root_uri=root_uri, expected_embed=expected_kind,
-                expected_images=len(post.get('image_urls', [])),
+                expected_images=expected_image_count,
                 root_rkey=(latest_checkpoint or {}).get('root_rkey'),
                 root_record=(latest_checkpoint or {}).get('root_record'),
                 created_records=(latest_checkpoint or {}).get('created_records', []),
