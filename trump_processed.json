@@ -517,7 +517,10 @@
     "truth:117084211457388624",
     "https://www.trumpstruth.org/statuses/40759",
     "truth:117082899005949110",
-    "https://truthsocial.com/@realDonaldTrump/posts/117082899005949110"
+    "https://truthsocial.com/@realDonaldTrump/posts/117082899005949110",
+    "fp:Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District!\n \nA form",
+    "truth:117084794047639979",
+    "https://www.trumpstruth.org/statuses/40763"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -757,31 +760,33 @@
       "status_url": "https://www.trumpstruth.org/statuses/40764",
       "source_text": "<p>Congressman Carlos Gimenez is doing a fantastic job representing Florida’s 28th Congressional District!<br /> <br />A Highly Respected Firefighter, Civic Leader, and Mayor of Miami-Dade County, prior to becoming a distinguished Congressman, Carlos has dedicated his life to serving his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.<br /> <br />Carlos Gimenez has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR CARLOS — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:02:39 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T22:16:06.327843Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-12T22:30:58.194497Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40764",
       "first_seen": "2026-08-12T22:06:02.945250Z",
       "no_media_confirmations": 1,
       "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Congressman Carlos Gimenez is doing a fantastic job representing Florida’s 28th Congressional District!\n \nA Highly Respected Firefighter, Civic Leader",
-      "next_retry_at": "2026-08-12T22:26:06.327872Z",
+      "next_retry_at": "2026-08-12T22:50:58.194522Z",
       "truth_social_id": "117084793036271251"
     },
     "truth:117084794047639979": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40763",
       "source_text": "<p>Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District!<br /> <br />A former News Anchor and Political Reporter, María knows the Wisdom and Courage required to confront the Corrupt Fake News, which seeks to divide and destroy our Great Country. In Congress, María is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />María Elvira Salazar has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR MARÍA — SHE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:02:54 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:16:06.814559Z",
+      "updated_at": "2026-08-12T22:31:02.837381Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40763",
       "first_seen": "2026-08-12T22:06:03.534251Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District!\n \nA form",
-      "next_retry_at": "2026-08-12T22:26:06.814576Z",
-      "truth_social_id": "117084794047639979"
+      "truth_social_id": "117084794047639979",
+      "source_fingerprint": "fp:Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District!\n \nA form",
+      "media_identity": "attachment:117084794047639979:",
+      "translation": "マリア・エルビラ・サラザル下院議員はフロリダ州27地区の素晴らしい国民を代表して、本当に素晴らしい仕事をしている！\n\n元ニュースキャスターで政治記者であるマリアは、わが偉大な国を分裂させ破壊しようとする腐敗した偽造メディアに対抗するために必要な知恵と勇気を知っている。下院ではマリアは、わが経済を成長させ、増税と規制を削減し、米国製を推進し、アメリカンエネルギーの支配力を解放し、わが国境を厳重に守り、移民犯罪を阻止し、勇敢な軍人・退役軍人を支援し、常に脅威にさらされている修正第2条を守るために懸命に働いている。\n\nマリア・エルビラ・サラザルは再選に向けて、わたしの完全かつ全面的な支持を得ている！期日前投票は今進行中であり、選挙日は8月18日である。マリアに投票しろ — 彼女は決してお前たちを失望させることはない！\n\n投票所を探す：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084796761499332": {
       "post_status": "RETRY",
