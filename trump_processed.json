@@ -607,14 +607,20 @@
       "next_retry_at": "2026-08-12T14:31:21.503402Z"
     },
     "truth:117082899005949110": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40757",
       "source_text": "<p>Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!), among many other things. GET HIS BOOK N0W, he never disappoints! President DJT</p>",
       "published": "Wed, 12 Aug 2026 14:00:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-12T14:10:40.528324Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40757"
+      "retry_count": 1,
+      "updated_at": "2026-08-12T14:20:39.717982Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40757",
+      "first_seen": "2026-08-12T14:20:39.717953Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!)",
+      "next_retry_at": "2026-08-12T14:25:39.717990Z",
+      "truth_social_id": "117082899005949110"
     }
   }
 }
