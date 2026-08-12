@@ -578,8 +578,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/40752",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span></p>",
       "published": "Wed, 12 Aug 2026 02:30:32 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T18:16:01.371604Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-12T18:26:19.019990Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40752",
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-449b365c50b086143be257e23e483e4f\\\") at $\"}",
       "fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
@@ -588,7 +588,7 @@
       "truth_social_id": "117079571028588906",
       "translation": "",
       "failure_stage": "POST",
-      "next_retry_at": "2026-08-12T18:21:01.371620Z"
+      "next_retry_at": "2026-08-12T18:36:19.020005Z"
     },
     "truth:117082486292079885": {
       "post_status": "RETRY",
@@ -598,7 +598,7 @@
       "published": "Wed, 12 Aug 2026 12:16:01 +0000",
       "retry_count": 1,
       "updated_at": "2026-08-12T18:21:51.773953Z",
-      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40755",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40755",
       "source_fingerprint": null,
       "media_identity": "attachment:117082486292079885:298636baadc16565.jpg",
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-61da275e8682106fcdf7c961be0df5bc\\\") at $\"}",
@@ -607,8 +607,28 @@
       "translation": "",
       "next_retry_at": "2026-08-12T18:26:51.773973Z"
     },
-    "url:https://www.trumpstruth.org/statuses/40757": {
-      "feed_post_id": "truth:117082899005949110",
+    "truth:117082485763139425": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40756",
+      "source_text": "<p>Obama’s Trump-Russia collusion report was corrupt from start: CIA review: <a href=\"https://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2025/07/02/us-news/</span><span class=\"invisible\">obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/</span></a></p>",
+      "published": "Wed, 12 Aug 2026 12:15:53 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-12T18:21:00.362639Z",
+      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40756",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "fingerprint": "fp:Obama’s Trump-Russia collusion report was corrupt from start: CIA review: \nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-",
+      "next_retry_at": "2026-08-12T18:26:00.362668Z",
+      "first_seen": "2026-08-12T17:25:46.527668Z",
+      "no_media_confirmations": 3,
+      "truth_social_id": "117082485763139425",
+      "source_fingerprint": "fp:Obama’s Trump-Russia collusion report was corrupt from start: CIA review: \nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-",
+      "media_identity": "attachment:117082485763139425:",
+      "translation": "オバマのトランプ・ロシア共謀報告書は当初から腐敗していた：CIA調査\nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/",
+      "failure_stage": "POST"
+    },
+    "truth:117082899005949110": {
+      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40757",
       "post_status": "RETRY",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40757",
@@ -626,26 +646,6 @@
       "translation": "トレイ・ガウディが素晴らしい新著『後悔の音』を執筆し、飛ぶように売れている。トレイは素晴らしい作家だ（ニューヨーク・タイムズ・ベストセラー・オーサー！）。他にも多くの才能がある。今すぐ彼の本を買え。彼は決して失望させない！ドナルド・J・トランプ大統領",
       "failure_stage": "POST",
       "next_retry_at": "2026-08-12T18:31:23.306422Z"
-    },
-    "url:https://www.trumpstruth.org/statuses/40756": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40756",
-      "source_text": "<p>Obama’s Trump-Russia collusion report was corrupt from start: CIA review: <a href=\"https://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2025/07/02/us-news/</span><span class=\"invisible\">obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/</span></a></p>",
-      "published": "Wed, 12 Aug 2026 12:15:53 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T18:21:00.362639Z",
-      "feed_post_id": "truth:117082485763139425",
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
-      "fingerprint": "fp:Obama’s Trump-Russia collusion report was corrupt from start: CIA review: \nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-",
-      "next_retry_at": "2026-08-12T18:26:00.362668Z",
-      "first_seen": "2026-08-12T17:25:46.527668Z",
-      "no_media_confirmations": 3,
-      "truth_social_id": "117082485763139425",
-      "source_fingerprint": "fp:Obama’s Trump-Russia collusion report was corrupt from start: CIA review: \nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-",
-      "media_identity": "attachment:117082485763139425:",
-      "translation": "オバマのトランプ・ロシア共謀報告書は当初から腐敗していた：CIA調査\nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/",
-      "failure_stage": "POST"
     }
   }
 }
