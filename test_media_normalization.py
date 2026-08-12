@@ -61,7 +61,10 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
     @patch("trump_truth_translator.load_processed", return_value=[])
     @patch("trump_truth_translator.post_to_bluesky", return_value="at://posted")
     @patch("trump_truth_translator.upload_image_to_bsky")
-    @patch("trump_truth_translator.bsky_login", return_value=("did:example", "token"))
+    @patch(
+        "trump_truth_translator.bsky_login",
+        return_value=("did:example", "token", "did:web:pds.example"),
+    )
     @patch("trump_truth_translator.get_ts_post_data")
     @patch("trump_truth_translator.feedparser.parse")
     @patch("trump_truth_translator.requests.get")
@@ -293,7 +296,10 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
 
         with self.assertRaisesRegex(RuntimeError, "service unavailable"):
             translator.upload_video_to_bsky(
-                "https://example.com/video.mp4", "did:example", "token"
+                "https://example.com/video.mp4",
+                "did:example",
+                "token",
+                "did:web:pds.example",
             )
 
     @patch("trump_truth_translator.requests.post")
@@ -309,7 +315,11 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         upload_response.json.return_value = {"blob": {"$type": "blob"}}
 
         result = translator.upload_video_via_bsky_service(
-            b"video", "video/mp4", "did:example", "access-token"
+            b"video",
+            "video/mp4",
+            "did:example",
+            "access-token",
+            "did:web:pds.example",
         )
 
         self.assertEqual(result, {"$type": "blob"})
@@ -317,9 +327,28 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertEqual(
             auth_call.args[0], f"{translator.BSKY_API}/com.atproto.server.getServiceAuth"
         )
-        self.assertEqual(auth_call.kwargs["params"]["aud"], "did:web:bsky.social")
+        self.assertEqual(auth_call.kwargs["params"]["aud"], "did:web:pds.example")
         self.assertEqual(
             auth_call.kwargs["params"]["lxm"], "com.atproto.repo.uploadBlob"
+        )
+
+    def test_extracts_pds_audience_from_login_did_document(self):
+        session = {
+            "did": "did:plc:user",
+            "didDoc": {
+                "service": [
+                    {
+                        "id": "#atproto_pds",
+                        "type": "AtprotoPersonalDataServer",
+                        "serviceEndpoint": "https://jellybaby.us-east.host.bsky.network",
+                    }
+                ]
+            },
+        }
+
+        self.assertEqual(
+            translator.get_pds_audience(session),
+            "did:web:jellybaby.us-east.host.bsky.network",
         )
 
 

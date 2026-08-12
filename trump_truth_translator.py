@@ -402,13 +402,12 @@ def extract_video(html_content):
     return None
 
 
-def upload_video_via_bsky_service(video_data, content_type, did, token):
+def upload_video_via_bsky_service(video_data, content_type, did, token, pds_audience):
     """Bluesky動画サービスで変換済みの動画blobを取得する"""
-    pds_host = urlparse(BSKY_API).hostname
     auth_resp = requests.get(
         f"{BSKY_API}/com.atproto.server.getServiceAuth",
         params={
-            'aud': f'did:web:{pds_host}',
+            'aud': pds_audience,
             'lxm': 'com.atproto.repo.uploadBlob',
             'exp': int(time.time()) + 30 * 60,
         },
@@ -459,7 +458,7 @@ def upload_video_via_bsky_service(video_data, content_type, did, token):
     raise TimeoutError("Bluesky動画処理が150秒以内に完了しませんでした")
 
 
-def upload_video_to_bsky(video_url, did, token):
+def upload_video_to_bsky(video_url, did, token, pds_audience):
     """動画をBluesky動画サービスで処理してからアップロードし、blobを返す"""
     MAX_SIZE = 50 * 1024 * 1024  # 50MB
     headers = {
@@ -495,7 +494,9 @@ def upload_video_to_bsky(video_url, did, token):
     content_type = resp.headers.get('content-type', 'video/mp4').split(';')[0]
     # Blueskyの推奨フローで変換完了済みblobだけを返す。失敗時に未変換blobを
     # embedすると「ビデオが見つかりません」になるため、呼び出し元で再試行する。
-    return upload_video_via_bsky_service(resp.content, content_type, did, token)
+    return upload_video_via_bsky_service(
+        resp.content, content_type, did, token, pds_audience
+    )
 
 
 def normalize_image_for_bsky(image_data):
@@ -683,6 +684,18 @@ def restore_urls(translated, urls):
     return result
 
 
+def get_pds_audience(session):
+    """createSessionのDID文書からユーザーのPDS DIDを取得する。"""
+    did_doc = session.get('didDoc') or {}
+    for service in did_doc.get('service', []):
+        if service.get('id', '').endswith('#atproto_pds'):
+            endpoint = service.get('serviceEndpoint', '')
+            hostname = urlparse(endpoint).hostname
+            if hostname:
+                return f'did:web:{hostname}'
+    raise ValueError("Blueskyログイン応答からPDSを取得できません")
+
+
 def bsky_login():
     """Blueskyにログインしてセッション情報を返す"""
     resp = requests.post(
@@ -692,7 +705,7 @@ def bsky_login():
     )
     resp.raise_for_status()
     session = resp.json()
-    return session['did'], session['accessJwt']
+    return session['did'], session['accessJwt'], get_pds_audience(session)
 
 
 def mark_post_processed(processed, post):
@@ -925,7 +938,7 @@ def main():
 
     # Blueskyログイン
     try:
-        did, token = bsky_login()
+        did, token, pds_audience = bsky_login()
         log(f"Blueskyログイン成功 (DID: {did})")
     except Exception as e:
         log(f"Blueskyログインエラー: {e}")
@@ -990,7 +1003,9 @@ def main():
         external_url = select_external_card_url(post['text'])
         if post.get('video_url'):
             try:
-                video_blob = upload_video_to_bsky(post['video_url'], did, token)
+                video_blob = upload_video_to_bsky(
+                    post['video_url'], did, token, pds_audience
+                )
                 log(f"動画アップロード成功: {post['video_url'][:60]}")
             except Exception as e:
                 log(f"動画アップロード失敗（スキップ）: {e}")
