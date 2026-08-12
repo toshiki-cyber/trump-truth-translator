@@ -518,31 +518,14 @@
       "truth_social_id": "117074526504264990",
       "next_retry_at": "2026-08-12T02:27:56.079756Z"
     },
-    "truth:117080183664102958": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40753",
-      "source_text": "<p></p>",
-      "published": "Wed, 12 Aug 2026 02:30:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T03:20:48.327815Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40753",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117080183664102958:fb7740531eb4fecf.jpg",
-      "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-d183195bf4f48a1e362dcde14e475c99\\\") at $\"}",
-      "truth_social_id": "117080183664102958",
-      "failure_stage": "POST",
-      "translation": "",
-      "next_retry_at": "2026-08-12T03:25:48.327831Z"
-    },
     "truth:117079571028588906": {
       "post_status": "RETRY",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40752",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span></p>",
       "published": "Wed, 12 Aug 2026 02:30:32 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-12T03:05:44.086223Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-12T03:26:16.224166Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40752",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
       "media_identity": "attachment:117079571028588906:fde40a41eef87dbd.jpg",
@@ -551,7 +534,24 @@
       "truth_social_id": "117079571028588906",
       "translation": "",
       "failure_stage": "POST",
-      "next_retry_at": "2026-08-12T03:25:44.086241Z"
+      "next_retry_at": "2026-08-12T04:06:16.224179Z"
+    },
+    "url:https://www.trumpstruth.org/statuses/40753": {
+      "feed_post_id": "truth:117080183664102958",
+      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "retry_count": 1,
+      "updated_at": "2026-08-12T03:25:56.147459Z",
+      "status_url": "https://www.trumpstruth.org/statuses/40753",
+      "source_text": "<p></p>",
+      "published": "Wed, 12 Aug 2026 02:30:25 +0000",
+      "next_retry_at": "2026-08-12T03:30:56.147475Z",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117080183664102958:fb7740531eb4fecf.jpg",
+      "truth_social_id": "117080183664102958",
+      "failure_stage": "POST",
+      "translation": ""
     }
   }
 }
