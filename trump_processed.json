@@ -541,11 +541,11 @@
       "status_url": "https://www.trumpstruth.org/statuses/40757",
       "source_text": "<p>Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!), among many other things. GET HIS BOOK N0W, he never disappoints! President DJT</p>",
       "published": "Wed, 12 Aug 2026 14:00:58 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T15:50:55.020714Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-12T16:05:51.301202Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40757",
       "first_seen": "2026-08-12T14:20:39.717953Z",
-      "no_media_confirmations": 3,
+      "no_media_confirmations": 4,
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-f5fe9b717a6d76d79ad0f684d232305b\\\") at $\"}",
       "fingerprint": "fp:Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!)",
       "truth_social_id": "117082899005949110",
@@ -553,7 +553,7 @@
       "media_identity": "attachment:117082899005949110:",
       "translation": "トレイ・ガウディが素晴らしい新著『後悔の音』を執筆し、飛ぶように売れている。トレイは素晴らしい作家だ（ニューヨーク・タイムズ・ベストセラー・オーサー！）。他にも多くの才能がある。今すぐ彼の本を買え。彼は決して失望させない！ドナルド・J・トランプ大統領",
       "failure_stage": "POST",
-      "next_retry_at": "2026-08-12T15:55:55.020729Z"
+      "next_retry_at": "2026-08-12T16:15:51.301221Z"
     },
     "truth:117083017680231697": {
       "post_status": "DISCOVERED",
