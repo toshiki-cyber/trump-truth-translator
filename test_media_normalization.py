@@ -277,27 +277,50 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertEqual(image["image"], blob)
         self.assertEqual(image["aspectRatio"], {"width": 1600, "height": 900})
 
-    @patch("trump_truth_translator.upload_video_blob_direct")
     @patch("trump_truth_translator.upload_video_via_bsky_service")
     @patch("trump_truth_translator.requests.get")
     @patch("trump_truth_translator.requests.head")
-    def test_video_service_failure_falls_back_to_native_blob_upload(
-        self, mock_head, mock_get, mock_service, mock_direct
+    def test_video_service_failure_does_not_create_unprocessed_video_embed(
+        self, mock_head, mock_get, mock_service
     ):
         mock_head.return_value.headers = {"content-length": "4"}
+        mock_head.return_value.raise_for_status.return_value = None
         mock_get.return_value = MagicMock(
             content=b"data", headers={"content-type": "video/mp4"}
         )
         mock_get.return_value.raise_for_status.return_value = None
         mock_service.side_effect = RuntimeError("service unavailable")
-        mock_direct.return_value = {"$type": "blob"}
 
-        result = translator.upload_video_to_bsky(
-            "https://example.com/video.mp4", "did:example", "token"
+        with self.assertRaisesRegex(RuntimeError, "service unavailable"):
+            translator.upload_video_to_bsky(
+                "https://example.com/video.mp4", "did:example", "token"
+            )
+
+    @patch("trump_truth_translator.requests.post")
+    @patch("trump_truth_translator.requests.get")
+    def test_video_service_auth_uses_get_with_query_parameters(
+        self, mock_get, mock_post
+    ):
+        auth_response = mock_get.return_value
+        auth_response.raise_for_status.return_value = None
+        auth_response.json.return_value = {"token": "service-token"}
+        upload_response = mock_post.return_value
+        upload_response.raise_for_status.return_value = None
+        upload_response.json.return_value = {"blob": {"$type": "blob"}}
+
+        result = translator.upload_video_via_bsky_service(
+            b"video", "video/mp4", "did:example", "access-token"
         )
 
         self.assertEqual(result, {"$type": "blob"})
-        mock_direct.assert_called_once_with(b"data", "video/mp4", "token")
+        auth_call = mock_get.call_args
+        self.assertEqual(
+            auth_call.args[0], f"{translator.BSKY_API}/com.atproto.server.getServiceAuth"
+        )
+        self.assertEqual(auth_call.kwargs["params"]["aud"], "did:web:bsky.social")
+        self.assertEqual(
+            auth_call.kwargs["params"]["lxm"], "com.atproto.repo.uploadBlob"
+        )
 
 
 if __name__ == "__main__":

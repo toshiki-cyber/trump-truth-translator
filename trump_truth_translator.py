@@ -404,10 +404,11 @@ def extract_video(html_content):
 
 def upload_video_via_bsky_service(video_data, content_type, did, token):
     """Bluesky動画サービスで変換済みの動画blobを取得する"""
-    auth_resp = requests.post(
+    pds_host = urlparse(BSKY_API).hostname
+    auth_resp = requests.get(
         f"{BSKY_API}/com.atproto.server.getServiceAuth",
-        json={
-            'aud': 'did:web:bsky.social',
+        params={
+            'aud': f'did:web:{pds_host}',
             'lxm': 'com.atproto.repo.uploadBlob',
             'exp': int(time.time()) + 30 * 60,
         },
@@ -415,7 +416,12 @@ def upload_video_via_bsky_service(video_data, content_type, did, token):
         proxies=NO_PROXY,
         timeout=30
     )
-    auth_resp.raise_for_status()
+    try:
+        auth_resp.raise_for_status()
+    except requests.HTTPError as error:
+        raise RuntimeError(
+            f"Bluesky動画認証失敗 (HTTP {auth_resp.status_code}): {auth_resp.text[:500]}"
+        ) from error
     service_token = auth_resp.json()['token']
     upload_resp = requests.post(
         f"https://video.bsky.app/xrpc/app.bsky.video.uploadVideo?did={did}&name=truth-social-video.mp4",
@@ -424,10 +430,15 @@ def upload_video_via_bsky_service(video_data, content_type, did, token):
         proxies=NO_PROXY,
         timeout=180
     )
+    try:
+        upload_resp.raise_for_status()
+    except requests.HTTPError as error:
+        raise RuntimeError(
+            f"Bluesky動画送信失敗 (HTTP {upload_resp.status_code}): {upload_resp.text[:500]}"
+        ) from error
     job = upload_resp.json()
     if job.get('blob'):
         return job['blob']
-    upload_resp.raise_for_status()
 
     job_id = job.get('jobId')
     if not job_id:
@@ -446,19 +457,6 @@ def upload_video_via_bsky_service(video_data, content_type, did, token):
         if status.get('state') == 'JOB_STATE_FAILED':
             raise ValueError(f"Bluesky動画処理失敗: {status}")
     raise TimeoutError("Bluesky動画処理が150秒以内に完了しませんでした")
-
-
-def upload_video_blob_direct(video_data, content_type, token):
-    """動画blobをPDSへ直接アップロードする互換フォールバック"""
-    upload_resp = requests.post(
-        f"{BSKY_API}/com.atproto.repo.uploadBlob",
-        data=video_data,
-        headers={'Authorization': f'Bearer {token}', 'Content-Type': content_type},
-        proxies=NO_PROXY,
-        timeout=180
-    )
-    upload_resp.raise_for_status()
-    return upload_resp.json()['blob']
 
 
 def upload_video_to_bsky(video_url, did, token):
@@ -495,14 +493,9 @@ def upload_video_to_bsky(video_url, did, token):
         raise ValueError(f"動画サイズ超過: {len(resp.content) / 1024 / 1024:.1f}MB > 50MB")
 
     content_type = resp.headers.get('content-type', 'video/mp4').split(';')[0]
-    # Blueskyの推奨フロー: 動画サービスへ先に送って変換完了を待つ。
-    try:
-        return upload_video_via_bsky_service(resp.content, content_type, did, token)
-    except Exception as e:
-        # 一部のPDSや動画サービスで事前処理が利用できない場合も、Blueskyが許容する
-        # 直接blobアップロードでネイティブ動画投稿を継続する。
-        log(f"動画サービス処理失敗、直接アップロードへフォールバック: {e}")
-        return upload_video_blob_direct(resp.content, content_type, token)
+    # Blueskyの推奨フローで変換完了済みblobだけを返す。失敗時に未変換blobを
+    # embedすると「ビデオが見つかりません」になるため、呼び出し元で再試行する。
+    return upload_video_via_bsky_service(resp.content, content_type, did, token)
 
 
 def normalize_image_for_bsky(image_data):
