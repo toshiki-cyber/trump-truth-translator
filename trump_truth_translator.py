@@ -320,8 +320,10 @@ def retry_due(history, post_id, now=None, media_identity=None, manual=False):
     if not isinstance(history, dict) or post_id not in history.get('posts', {}):
         return True
     state = history['posts'][post_id]
+    if manual:
+        return state.get('post_status') != 'POSTED'
     if state.get('post_status') == 'BLOCKED':
-        return bool(manual or (media_identity and media_identity != state.get('media_identity')))
+        return bool(media_identity and media_identity != state.get('media_identity'))
     next_retry = state.get('next_retry_at')
     if not next_retry:
         return True
@@ -1780,7 +1782,7 @@ def main():
             log(f"メディア確認を保留または停止: {media['reason']}")
             continue
         if media['state'] == MediaState.NO_MEDIA:
-            if not confirm_no_media(processed, post_id):
+            if not manual_post_url and not confirm_no_media(processed, post_id):
                 record_post_state(
                     processed, post_id, MediaState.PENDING,
                     'メディアなしの確認猶予中', ts_post_id,

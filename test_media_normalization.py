@@ -33,6 +33,16 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertEqual(state["truth_social_id"], "117082899005949110")
         self.assertEqual(state["source_text"], "<p>Saved caption</p>")
 
+    def test_manual_retry_bypasses_backoff_but_not_completed_post(self):
+        history = translator.new_processing_history([])
+        history["posts"]["truth:1"] = {
+            "post_status": "RETRY",
+            "next_retry_at": "2099-01-01T00:00:00Z",
+        }
+        self.assertTrue(translator.retry_due(history, "truth:1", manual=True))
+        history["posts"]["truth:1"]["post_status"] = "POSTED"
+        self.assertFalse(translator.retry_due(history, "truth:1", manual=True))
+
     @patch("trump_truth_translator.verify_published_embed", return_value=(True, None))
     @patch("trump_truth_translator.post_to_bluesky", return_value="at://posted")
     @patch("trump_truth_translator.translate_with_claude")
@@ -58,8 +68,8 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
             "status_url": "https://www.trumpstruth.org/statuses/40757",
             "source_text": "<p>Saved caption</p>",
             "translation": "保存済み訳",
-            "first_seen": "2026-08-12T00:00:00Z",
-            "no_media_confirmations": 5,
+            "first_seen": "2026-08-13T00:00:00Z",
+            "no_media_confirmations": 0,
         }
         mock_load.return_value = history
         mock_media.return_value = {
