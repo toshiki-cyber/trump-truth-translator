@@ -1,0 +1,23 @@
+name: Probe Truth Social video access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Probe original video
+        shell: bash
+        run: |
+          curl -L --silent --show-error --max-time 120 \
+            -A 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120 Safari/537.36' \
+            -H 'Referer: https://truthsocial.com/' \
+            -o media.bin \
+            -w 'HTTP=%{http_code} TYPE=%{content_type} BYTES=%{size_download}\n' \
+            'https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/074/532/783/484/749/original/d24bb851970c4cda.mp4'
+          wc -c media.bin
