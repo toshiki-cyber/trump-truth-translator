@@ -535,23 +535,23 @@
       "translation": "",
       "next_retry_at": "2026-08-12T07:10:42.019898Z"
     },
-    "url:https://www.trumpstruth.org/statuses/40752": {
+    "truth:117079571028588906": {
       "post_status": "RETRY",
-      "media_state": "PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40752",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span></p>",
       "published": "Wed, 12 Aug 2026 02:30:32 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-12T06:45:58.177010Z",
-      "feed_post_id": "truth:117079571028588906",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
-      "next_retry_at": "2026-08-12T06:50:58.177026Z",
-      "translation": "",
-      "truth_social_id": "117079571028588906",
-      "failure_stage": "POST",
+      "updated_at": "2026-08-12T06:50:46.130315Z",
+      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40752",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
-      "media_identity": "attachment:117079571028588906:fde40a41eef87dbd.jpg"
+      "media_identity": "attachment:117079571028588906:fde40a41eef87dbd.jpg",
+      "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-449b365c50b086143be257e23e483e4f\\\") at $\"}",
+      "fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
+      "truth_social_id": "117079571028588906",
+      "translation": "",
+      "failure_stage": "POST",
+      "next_retry_at": "2026-08-12T06:55:46.130337Z"
     }
   }
 }
