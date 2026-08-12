@@ -529,7 +529,10 @@
     "https://www.trumpstruth.org/statuses/40760",
     "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
     "truth:117084800480790674",
-    "https://www.trumpstruth.org/statuses/40767"
+    "https://www.trumpstruth.org/statuses/40767",
+    "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
+    "truth:117084801475307846",
+    "https://www.trumpstruth.org/statuses/40766"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -868,20 +871,22 @@
       "translation": "グレッグ・スティューブはフロリダ州第17下院地区の偉大な人民のための傑出した下院議員である！\n\n米陸軍法務部隊の元大尉であるグレッグは、我が国を守り、我々の素晴らしい軍と退役軍人を支援し、「力による平和」を掲げるために必要な知恵と勇気を持っている。議会ではグレッグは、我が国の国境を厳重に守り、移民犯罪を止め、法と秩序を確保し、経済を成長させ、税金と規制を削減し、メイド・イン・USA製品を推進し、小規模事業を擁護し、米国のエネルギー優位性を解放し、常に危機に直面している我々の第2修正条項を守るために懸命に働いている。\n\nグレッグ・スティューブは再選のために私の完全かつ全面的な支持を得ている！期日前投票は今開始されており、投票日は8月18日である。グレッグに投票するために投票所に行け――彼はお前たちを決して失望させることはないだろう！\n\n投票所を見つけるにはここをクリック：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084801475307846": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40766",
       "source_text": "<p>It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruters, who is running to represent the Wonderful People of Florida's 16th Congressional District!<br /> <br />A Highly Successful Civic Leader and Public Servant, Sydney has dedicated her life to serving her Community, and she and her family are fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congresswoman, Sydney will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, Champion School Choice, and Defend our always under siege Second Amendment.<br /> <br />Sydney Gruters has my Complete and Total Endorsement to be the next Representative from Florida’s 16th Congressional District! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR SYDNEY — SHE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:04:48 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:16:23.707839Z",
+      "updated_at": "2026-08-12T22:50:55.404657Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40766",
       "first_seen": "2026-08-12T22:06:21.958489Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
-      "next_retry_at": "2026-08-12T22:26:23.707856Z",
-      "truth_social_id": "117084801475307846"
+      "truth_social_id": "117084801475307846",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
+      "media_identity": "attachment:117084801475307846:",
+      "translation": "アメリカ・ファースト愛国者で、共和党全国委員会の偉大なる委員長ジョー・グルーターズの妻であるシドニー・グルーターズをフロリダ州第16下院選挙区の素晴らしい国民を代表して立候補している者として支持することは、私の大きな名誉である！\n\n極めて優秀な市民指導者であり公職奉仕者であるシドニーは、自分のコミュニティに奉仕する人生を捧げてきた。彼女と彼女の家族は、アメリカを再び偉大にする我々の運動の激しい提唱者である。次期下院議員として、シドニーは経済成長、減税と規制廃止、アメリカ製品の推進、アメリカン・エネルギーの支配力の解放、国境の厳格管理、移民犯罪の阻止、軍と退役軍人の支援、選挙の保護、学校選択の擁護、そして常に脅かされている憲法修正第2条を守るために、疲れ知らずで戦うだろう。\n\nシドニー・グルーターズはフロリダ州第16下院選挙区の次期下院議員として、私の完全で全面的な支持を有している！期日前投票は現在進行中であり、選挙日は8月18日である。シドニーに投票するために投票所に行け。彼女はお前たちを決して失望させることはない！\n\n投票所はここから探せ：\nhttps://swampthevoteusa.com/florida/"
     },
     "https://www.trumpstruth.org/statuses/40772": {
       "post_status": "DISCOVERED",
@@ -1093,6 +1098,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-12T22:45:43.569057Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40782"
+    },
+    "truth:117084962212047241": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40783",
+      "source_text": "<p>For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it properly done, until now. I am proud to announce that the House of Representatives has passed the Bill, and it has now gone to the Senate for final approval. People are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Be a Big Boost to Sports, Fitness, Tourism, Retail, and the Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change again. This is an issue that Republicans, Dumocrats, and Independents can unite behind. I am asking Republican Senators to PASS THE SUNSHINE PROTECTION ACT, ASAP. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Wed, 12 Aug 2026 22:45:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-12T22:50:49.492830Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40783"
     }
   }
 }
