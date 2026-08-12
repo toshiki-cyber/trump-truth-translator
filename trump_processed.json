@@ -537,7 +537,7 @@
       "next_retry_at": "2026-08-12T06:26:14.518174Z"
     },
     "truth:117080183664102958": {
-      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40753",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40753",
       "media_state": "PENDING",
       "post_status": "RETRY",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
