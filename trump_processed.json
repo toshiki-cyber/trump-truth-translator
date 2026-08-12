@@ -526,7 +526,10 @@
     "https://www.trumpstruth.org/statuses/40762",
     "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
     "truth:117084798936770955",
-    "https://www.trumpstruth.org/statuses/40760"
+    "https://www.trumpstruth.org/statuses/40760",
+    "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
+    "truth:117084800480790674",
+    "https://www.trumpstruth.org/statuses/40767"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -847,20 +850,22 @@
       "translation": "スコット・フランクリンはフロリダ州第18選挙区の素晴らしい下院議員だ！\n\n米国海軍兵学校の卒業生で海軍司令官（退役）のスコットは、我が国を防衛し、素晴らしい軍と退役軍人を支援し、強さを通じた平和を確保するために必要な知恵と勇気を備えている。議会では、スコットは国境をしっかり守り、移民犯罪を止め、法と秩序を確保し、経済を成長させ、税金と規制を削減し、米国製品を推進し、米国エネルギーの優位性を発揮させ、常に標的にされている第二修正条項を守るために懸命に働いている。\n\nスコット・フランクリンは再選に向けて、私の完全で全面的な支持を得ている！期日前投票は現在進行中であり、選挙日は8月18日だ。スコットに投票しよう——彼はお前たちを決して失望させない！\n\n投票所を検索する：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084800480790674": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40767",
       "source_text": "<p>Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!<br /> <br />A Former Captain of the U.S. Army JAG Corps, Greg knows the Wisdom and Courage that is required to Defend our Country, Support our Incredible Military/Veterans, and Champion PEACE THROUGH STRENGTH. In Congress, Greg is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Business, Unleash American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Greg Steube has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR GREG — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:04:32 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:16:23.335022Z",
+      "updated_at": "2026-08-12T22:45:48.851322Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40767",
       "first_seen": "2026-08-12T22:06:21.077270Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
-      "next_retry_at": "2026-08-12T22:26:23.335041Z",
-      "truth_social_id": "117084800480790674"
+      "truth_social_id": "117084800480790674",
+      "source_fingerprint": "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
+      "media_identity": "attachment:117084800480790674:",
+      "translation": "グレッグ・スティューブはフロリダ州第17下院地区の偉大な人民のための傑出した下院議員である！\n\n米陸軍法務部隊の元大尉であるグレッグは、我が国を守り、我々の素晴らしい軍と退役軍人を支援し、「力による平和」を掲げるために必要な知恵と勇気を持っている。議会ではグレッグは、我が国の国境を厳重に守り、移民犯罪を止め、法と秩序を確保し、経済を成長させ、税金と規制を削減し、メイド・イン・USA製品を推進し、小規模事業を擁護し、米国のエネルギー優位性を解放し、常に危機に直面している我々の第2修正条項を守るために懸命に働いている。\n\nグレッグ・スティューブは再選のために私の完全かつ全面的な支持を得ている！期日前投票は今開始されており、投票日は8月18日である。グレッグに投票するために投票所に行け――彼はお前たちを決して失望させることはないだろう！\n\n投票所を見つけるにはここをクリック：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084801475307846": {
       "post_status": "RETRY",
@@ -1078,6 +1083,16 @@
       "fingerprint": "fp:Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!\n \n",
       "next_retry_at": "2026-08-12T22:35:48.110787Z",
       "truth_social_id": "117084816241992634"
+    },
+    "truth:117084949169827129": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40782",
+      "source_text": "<p>MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections (Ronald Reagan was second!). Additionally, I won more votes than any Candidate in the State’s History! I LOVE Oklahoma, and Mike Mazzei has my COMPLETE and TOTAL Endorsement for Governor!</p><p>Meanwhile, his Runoff Election Opponent, Gentner Drummond, is a FAKE Republican, who donated to SLEEPY Joe Biden, and the totally corrupt and anti-American “Lincoln Project,” which is now in shambles because of their views on Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. In fact, the Lincoln Project’s top man and founder, John Weaver, sent unsolicited sexually provocative messages to 21 young men, and supposedly, a 14-year-old boy. Another one of their people, Steve Schmidt, a total loser who has gone down in flames, for lots of bad reasons, was one of the biggest proponents of the failed and highly disgraced Lincoln Project. This is what Drummond, and his equally Liberal wife, Wendy, supported at levels that are shameful and, frankly, that makes them both Radical Left Dumocrats. Additionally, he wants to dethrone a magnificent, Job producing, desperately needed, and brand new, Aluminum Plant that will be one of the best projects ever conceived or built, not only in the Great State of Oklahoma, but in the United States, itself. It will be one of the most successful Job creating Plants ever built in our Country. The group that’s doing it is extraordinarily wealthy and, if they don’t do it in Oklahoma, they have 20 other sites that would love to have them. Our Country needs Aluminum, and the beautiful Town of Inola, Oklahoma (which was very nice to me in all three Elections!), will be the primary beneficiary in terms of Jobs, Lower Taxes, and the funding of Schools. In addition, it helps our Country with regards to National Security — You can’t get Aluminum in the United States, and this Plant will go elsewhere if it’s not approved. Oklahoma can lead the way! Very simply, Mike Mazzei is for this desperately needed Job Producing Aluminum Plant. Drummond, for his own reasons, is not — He even SUED, unsuccessfully, to block it. It’s going to be the Biggest Aluminum Plant in the Country, and it’s all financed and done! It is a financial windfall for the State of Oklahoma, including what will be a major reduction in your Taxes!</p><p>Gentner Drummond has also stated publicly he had \"no opinion\" on the BOGUS IMPEACHMENT of a young and very handsome gentleman, named, President Donald J. Trump (ME!). All Republicans feel the opposite on the Dumocrat inspired Impeachment Hoax. Drummond even SUED to BLOCK a religious based charter school strongly supported by my Administration — Very troubling for Educational Freedom, and an outright attack on Christianity!</p><p>Drummond is not the right guy. He’s got a bad attitude, and he doesn’t stand for the Values of Oklahoma, which must VOTE FOR “MIKE MAZZEI FOR GOVERNOR,” on Tuesday, August 25th — MIKE WILL NEVER LET YOU DOWN! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Wed, 12 Aug 2026 22:42:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-12T22:45:43.569057Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40782"
     }
   }
 }
