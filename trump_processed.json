@@ -573,23 +573,6 @@
       "translation": "",
       "next_retry_at": "2026-08-12T15:20:52.445882Z"
     },
-    "truth:117082486707856291": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40754",
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40754",
-      "source_text": "<p></p>",
-      "published": "Wed, 12 Aug 2026 12:16:07 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-12T14:25:52.022079Z",
-      "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-b55ce8997fe7c24cb1ad835611c613f1\\\") at $\"}",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117082486707856291:e1a459bf2134e6b3.jpg",
-      "truth_social_id": "117082486707856291",
-      "failure_stage": "POST",
-      "translation": "",
-      "next_retry_at": "2026-08-12T14:45:52.022096Z"
-    },
     "truth:117082486292079885": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -612,15 +595,32 @@
       "status_url": "https://www.trumpstruth.org/statuses/40757",
       "source_text": "<p>Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!), among many other things. GET HIS BOOK N0W, he never disappoints! President DJT</p>",
       "published": "Wed, 12 Aug 2026 14:00:58 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T14:20:39.717982Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-12T14:30:58.637282Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40757",
       "first_seen": "2026-08-12T14:20:39.717953Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!)",
-      "next_retry_at": "2026-08-12T14:25:39.717990Z",
+      "next_retry_at": "2026-08-12T14:40:58.637299Z",
       "truth_social_id": "117082899005949110"
+    },
+    "url:https://www.trumpstruth.org/statuses/40754": {
+      "feed_post_id": "truth:117082486707856291",
+      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "retry_count": 1,
+      "updated_at": "2026-08-12T14:30:57.756761Z",
+      "status_url": "https://www.trumpstruth.org/statuses/40754",
+      "source_text": "<p></p>",
+      "published": "Wed, 12 Aug 2026 12:16:07 +0000",
+      "next_retry_at": "2026-08-12T14:35:57.756779Z",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117082486707856291:e1a459bf2134e6b3.jpg",
+      "truth_social_id": "117082486707856291",
+      "failure_stage": "POST",
+      "translation": ""
     }
   }
 }
