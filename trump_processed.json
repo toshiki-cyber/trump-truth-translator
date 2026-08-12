@@ -558,22 +558,6 @@
       "failure_stage": "POST",
       "next_retry_at": "2026-08-12T21:01:31.628711Z"
     },
-    "truth:117084211457388624": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40759",
-      "source_text": "<p>Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family, a decision I totally understand and respect! Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party, as we work to defy History, and conclusively win the Midterm Elections. Karoline has been a real leader in the White House, and has done a phenomenal job fighting for Justice, Liberty, and Freedom, since 2018, including our Historic Re-Election Campaign of 2024. Karoline has been one of the best White House Press Secretaries in the History of the Office. Thank you, Karoline, for a job well done! President DONALD J. TRUMP</p>",
-      "published": "Wed, 12 Aug 2026 19:34:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T19:46:14.971294Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40759",
-      "first_seen": "2026-08-12T19:46:14.971258Z",
-      "no_media_confirmations": 1,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so s",
-      "next_retry_at": "2026-08-12T19:51:14.971302Z",
-      "truth_social_id": "117084211457388624"
-    },
     "truth:117083017680231697": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40758",
       "media_state": "PENDING",
@@ -615,8 +599,8 @@
       "media_state": "READY",
       "post_status": "RETRY",
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-d183195bf4f48a1e362dcde14e475c99\\\") at $\"}",
-      "retry_count": 3,
-      "updated_at": "2026-08-12T20:41:44.099003Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-12T21:06:27.732683Z",
       "translation": "",
       "truth_social_id": "117080183664102958",
       "failure_stage": "POST",
@@ -626,7 +610,7 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/40753",
       "source_fingerprint": null,
       "media_identity": "attachment:117080183664102958:fb7740531eb4fecf.jpg",
-      "next_retry_at": "2026-08-12T21:01:44.099017Z"
+      "next_retry_at": "2026-08-12T21:46:27.732698Z"
     },
     "truth:117079571028588906": {
       "post_status": "RETRY",
@@ -662,6 +646,25 @@
       "failure_stage": "POST",
       "translation": "",
       "next_retry_at": "2026-08-12T21:10:53.256243Z"
+    },
+    "url:https://www.trumpstruth.org/statuses/40757": {
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40757"
+    },
+    "url:https://www.trumpstruth.org/statuses/40759": {
+      "feed_post_id": "truth:117084211457388624",
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40759",
+      "source_text": "<p>Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family, a decision I totally understand and respect! Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party, as we work to defy History, and conclusively win the Midterm Elections. Karoline has been a real leader in the White House, and has done a phenomenal job fighting for Justice, Liberty, and Freedom, since 2018, including our Historic Re-Election Campaign of 2024. Karoline has been one of the best White House Press Secretaries in the History of the Office. Thank you, Karoline, for a job well done! President DONALD J. TRUMP</p>",
+      "published": "Wed, 12 Aug 2026 19:34:45 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-12T19:46:14.971294Z",
+      "first_seen": "2026-08-12T19:46:14.971258Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so s",
+      "next_retry_at": "2026-08-12T19:51:14.971302Z",
+      "truth_social_id": "117084211457388624"
     }
   }
 }
