@@ -568,7 +568,10 @@
     "https://www.trumpstruth.org/statuses/40761",
     "fp:Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!\n \nAs the former Sheriff ",
     "truth:117084808801556907",
-    "https://www.trumpstruth.org/statuses/40776"
+    "https://www.trumpstruth.org/statuses/40776",
+    "fp:Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
+    "truth:117084809928280169",
+    "https://www.trumpstruth.org/statuses/40775"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1046,20 +1049,22 @@
       "translation": "フロリダ州第5選挙区の素晴らしい国民のために、ジョン・ラザフォード下院議員は信じられないほど素晴らしい代表だ！\n\nデュバル郡の前保安官であり、現在は高く尊敬されるアメリカ下院議員として、ジョンは私たちの素晴らしい法執行機関、軍隊、退役軍人を強く支持しており、法と秩序を確保するのに必要な英知と勇気を知っている。議会ではジョンは、国境をしっかり守り、移民犯罪を止め、経済を成長させ、税金と規制をカットし、アメリカ製品を推進し、アメリカのエネルギー支配力を解放し、選挙の安全を守り、常に脅威にさらされている憲法修正第2条を保護するために、たゆまず戦っている。\n\nジョン・ラザフォードは、再選に向けて私の完全かつ全面的な支持を得ている！期日前投票は今すぐ実施中であり、選挙日は8月18日だ。ジョンに投票に行け――彼は君たちを決して失望させない！\n\n投票所を以下で探せ：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084809928280169": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40775",
       "source_text": "<p>Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!<br /> <br />As a Member of the POWERFUL Ways &amp; Means Committee, Aaron knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age. He is also fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Aaron Bean has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR AARON — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:06:57 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-12T23:21:20.485765Z",
+      "updated_at": "2026-08-12T23:55:50.218649Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40775",
       "first_seen": "2026-08-12T22:16:28.013316Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
-      "next_retry_at": "2026-08-12T23:41:20.485800Z",
-      "truth_social_id": "117084809928280169"
+      "truth_social_id": "117084809928280169",
+      "source_fingerprint": "fp:Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
+      "media_identity": "attachment:117084809928280169:",
+      "translation": "アーロン・ビーン下院議員はフロリダ州第4選挙区のために素晴らしいチャンピオンだ！\n\nアーロンは強力な歳出委員会のメンバーとして、素晴らしい雇用を創出し、税金と規制をカットし、米国製を推し進め、米国のエネルギー支配力を解き放ち、我が国の黄金期を推し進めるために必要なアメリカ・ファースト政策を知っている。彼はまた、国境を確保し、移民犯罪を阻止し、法と秩序を確保し、勇敢な軍人・退役軍人を強化し、常に攻撃の下にある第2修正条項を擁護するために不懈の努力をしている。\n\nアーロン・ビーンは再選に向けて私の完全かつ全面的な支持を得ている！期日前投票は今始まっており、選挙日は8月18日だ。アーロンに投票しに行け—彼はお前たちを失望させることはない！\n\n投票場所を見つける：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084810795263041": {
       "post_status": "POSTED",
@@ -1178,6 +1183,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-12T22:50:49.492830Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40783"
+    },
+    "truth:117085222511570957": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40785",
+      "source_text": "<p></p>",
+      "published": "Wed, 12 Aug 2026 23:51:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-12T23:55:43.719415Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40785"
     }
   }
 }
