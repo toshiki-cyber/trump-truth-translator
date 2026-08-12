@@ -543,7 +543,7 @@
       "published": "Wed, 12 Aug 2026 02:30:32 +0000",
       "retry_count": 1,
       "updated_at": "2026-08-12T04:20:49.093181Z",
-      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40752",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40752",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
       "media_identity": "attachment:117079571028588906:fde40a41eef87dbd.jpg",
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-449b365c50b086143be257e23e483e4f\\\") at $\"}",
