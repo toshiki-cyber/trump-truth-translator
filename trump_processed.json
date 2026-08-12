@@ -718,6 +718,18 @@
       "translation": "トレイ・ガウディが素晴らしい新著『後悔の音』を執筆し、飛ぶように売れている。トレイは素晴らしい作家だ（ニューヨーク・タイムズ・ベストセラー・オーサー！）。他にも多くの才能がある。今すぐ彼の本を買え。彼は決して失望させない！ドナルド・J・トランプ大統領",
       "failure_stage": "POST",
       "rkey_policy_version": 1
+    },
+    "truth:117082899005949110": {
+      "post_status": "DISCOVERED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://truthsocial.com/@realDonaldTrump/posts/117082899005949110",
+      "source_text": "",
+      "published": "",
+      "retry_count": 0,
+      "updated_at": "2026-08-12T21:32:17.262876Z",
+      "feed_post_id": "https://truthsocial.com/@realDonaldTrump/posts/117082899005949110",
+      "failure_reason": null,
+      "truth_social_id": "117082899005949110"
     }
   }
 }
