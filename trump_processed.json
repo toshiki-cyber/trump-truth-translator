@@ -523,7 +523,10 @@
     "https://www.trumpstruth.org/statuses/40763",
     "fp:Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!\n \nA Proven Leader, Mario served his Commu",
     "truth:117084796761499332",
-    "https://www.trumpstruth.org/statuses/40762"
+    "https://www.trumpstruth.org/statuses/40762",
+    "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
+    "truth:117084798936770955",
+    "https://www.trumpstruth.org/statuses/40760"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -815,29 +818,33 @@
       "status_url": "https://www.trumpstruth.org/statuses/40761",
       "source_text": "<p>Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!<br /> <br />As the Chairman of my WINNING 2024 Campaign’s Veterans for Trump Coalition, Brian is a true American Hero and Patriot. He knows the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, he is fighting hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Ensure PEACE THROUGH STRENGTH, and Protect our always under siege Second Amendment.<br /> <br />Brian Mast has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR BRIAN — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:03:52 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T22:16:22.463332Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-12T22:40:44.794521Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40761",
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!\n \nAs the Chairman of my WINNING 2024 Campai",
-      "next_retry_at": "2026-08-12T22:26:22.463398Z",
-      "truth_social_id": "117084797802563089"
+      "next_retry_at": "2026-08-12T23:00:44.794529Z",
+      "truth_social_id": "117084797802563089",
+      "first_seen": "2026-08-12T22:40:44.794489Z",
+      "no_media_confirmations": 1
     },
     "truth:117084798936770955": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40760",
       "source_text": "<p>Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!<br /> <br />A U.S. Naval Academy Graduate and retired Navy Commander, Scott knows the Wisdom and Courage that is required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Scott is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Protect our always under siege Second Amendment.<br /> <br />Scott Franklin has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR SCOTT — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:04:09 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:16:22.841075Z",
+      "updated_at": "2026-08-12T22:40:49.093659Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40760",
       "first_seen": "2026-08-12T22:06:20.380479Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
-      "next_retry_at": "2026-08-12T22:26:22.841091Z",
-      "truth_social_id": "117084798936770955"
+      "truth_social_id": "117084798936770955",
+      "source_fingerprint": "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
+      "media_identity": "attachment:117084798936770955:",
+      "translation": "スコット・フランクリンはフロリダ州第18選挙区の素晴らしい下院議員だ！\n\n米国海軍兵学校の卒業生で海軍司令官（退役）のスコットは、我が国を防衛し、素晴らしい軍と退役軍人を支援し、強さを通じた平和を確保するために必要な知恵と勇気を備えている。議会では、スコットは国境をしっかり守り、移民犯罪を止め、法と秩序を確保し、経済を成長させ、税金と規制を削減し、米国製品を推進し、米国エネルギーの優位性を発揮させ、常に標的にされている第二修正条項を守るために懸命に働いている。\n\nスコット・フランクリンは再選に向けて、私の完全で全面的な支持を得ている！期日前投票は現在進行中であり、選挙日は8月18日だ。スコットに投票しよう——彼はお前たちを決して失望させない！\n\n投票所を検索する：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084800480790674": {
       "post_status": "RETRY",
