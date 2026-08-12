@@ -536,12 +536,12 @@
       "next_retry_at": "2026-08-12T08:30:57.024528Z"
     },
     "truth:117079571028588906": {
-      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40752",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40752",
       "media_state": "READY",
       "post_status": "RETRY",
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-449b365c50b086143be257e23e483e4f\\\") at $\"}",
-      "retry_count": 4,
-      "updated_at": "2026-08-12T07:45:57.698786Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-12T08:30:49.417331Z",
       "status_url": "https://www.trumpstruth.org/statuses/40752",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span></p>",
       "published": "Wed, 12 Aug 2026 02:30:32 +0000",
@@ -551,7 +551,7 @@
       "truth_social_id": "117079571028588906",
       "translation": "",
       "failure_stage": "POST",
-      "next_retry_at": "2026-08-12T08:25:57.698804Z"
+      "next_retry_at": "2026-08-12T09:50:49.417350Z"
     }
   }
 }
