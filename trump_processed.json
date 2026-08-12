@@ -542,15 +542,15 @@
       "media_state": "READY",
       "post_status": "RETRY",
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-b55ce8997fe7c24cb1ad835611c613f1\\\") at $\"}",
-      "retry_count": 4,
-      "updated_at": "2026-08-12T17:40:48.800226Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-12T18:36:24.011198Z",
       "status_url": "https://www.trumpstruth.org/statuses/40754",
       "source_text": "<p></p>",
       "published": "Wed, 12 Aug 2026 12:16:07 +0000",
       "truth_social_id": "117082486707856291",
       "failure_stage": "POST",
       "translation": "",
-      "next_retry_at": "2026-08-12T18:20:48.800247Z"
+      "next_retry_at": "2026-08-12T19:56:24.011218Z"
     },
     "truth:117083017680231697": {
       "post_status": "RETRY",
@@ -589,23 +589,6 @@
       "translation": "",
       "failure_stage": "POST",
       "next_retry_at": "2026-08-12T18:36:19.020005Z"
-    },
-    "truth:117082486292079885": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40755",
-      "source_text": "<p></p>",
-      "published": "Wed, 12 Aug 2026 12:16:01 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T18:21:51.773953Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40755",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117082486292079885:298636baadc16565.jpg",
-      "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-61da275e8682106fcdf7c961be0df5bc\\\") at $\"}",
-      "truth_social_id": "117082486292079885",
-      "failure_stage": "POST",
-      "translation": "",
-      "next_retry_at": "2026-08-12T18:26:51.773973Z"
     },
     "truth:117082485763139425": {
       "post_status": "RETRY",
@@ -646,6 +629,23 @@
       "translation": "トレイ・ガウディが素晴らしい新著『後悔の音』を執筆し、飛ぶように売れている。トレイは素晴らしい作家だ（ニューヨーク・タイムズ・ベストセラー・オーサー！）。他にも多くの才能がある。今すぐ彼の本を買え。彼は決して失望させない！ドナルド・J・トランプ大統領",
       "failure_stage": "POST",
       "next_retry_at": "2026-08-12T18:31:23.306422Z"
+    },
+    "url:https://www.trumpstruth.org/statuses/40755": {
+      "feed_post_id": "truth:117082486292079885",
+      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "retry_count": 1,
+      "updated_at": "2026-08-12T18:36:03.597124Z",
+      "status_url": "https://www.trumpstruth.org/statuses/40755",
+      "source_text": "<p></p>",
+      "published": "Wed, 12 Aug 2026 12:16:01 +0000",
+      "next_retry_at": "2026-08-12T18:41:03.597141Z",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117082486292079885:298636baadc16565.jpg",
+      "truth_social_id": "117082486292079885",
+      "failure_stage": "POST",
+      "translation": ""
     }
   }
 }
