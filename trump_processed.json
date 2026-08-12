@@ -599,8 +599,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/40755",
       "source_text": "<p></p>",
       "published": "Wed, 12 Aug 2026 12:16:01 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-12T16:26:17.345579Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-12T17:10:42.736880Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40755",
       "failure_reason": "Bluesky投稿失敗: Bluesky投稿失敗 (HTTP 400): {\"error\":\"InvalidRequest\",\"message\":\"Invalid record key for app.bsky.feed.post: Invalid TID string (got \\\"ttt-61da275e8682106fcdf7c961be0df5bc\\\") at $\"}",
       "source_fingerprint": null,
@@ -608,7 +608,7 @@
       "truth_social_id": "117082486292079885",
       "failure_stage": "POST",
       "translation": "",
-      "next_retry_at": "2026-08-12T17:06:17.345600Z"
+      "next_retry_at": "2026-08-12T18:30:42.736896Z"
     },
     "truth:117082486707856291": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40754",
@@ -627,20 +627,20 @@
       "translation": "",
       "next_retry_at": "2026-08-12T17:11:28.462445Z"
     },
-    "url:https://www.trumpstruth.org/statuses/40756": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40756",
+    "truth:117082485763139425": {
+      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40756",
+      "first_seen": "2026-08-12T17:10:39.711096Z",
+      "no_media_confirmations": 1,
       "media_state": "PENDING",
       "post_status": "RETRY",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "failure_reason": "メディアなしの確認猶予中",
       "retry_count": 1,
-      "updated_at": "2026-08-12T17:01:07.735315Z",
+      "updated_at": "2026-08-12T17:10:39.711132Z",
       "status_url": "https://www.trumpstruth.org/statuses/40756",
       "source_text": "<p>Obama’s Trump-Russia collusion report was corrupt from start: CIA review: <a href=\"https://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2025/07/02/us-news/</span><span class=\"invisible\">obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/</span></a></p>",
       "published": "Wed, 12 Aug 2026 12:15:53 +0000",
       "fingerprint": "fp:Obama’s Trump-Russia collusion report was corrupt from start: CIA review: \nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-",
-      "next_retry_at": "2026-08-12T17:06:07.735332Z",
-      "first_seen": "2026-08-12T12:35:57.357944Z",
-      "no_media_confirmations": 11,
+      "next_retry_at": "2026-08-12T17:15:39.711142Z",
       "truth_social_id": "117082485763139425",
       "source_fingerprint": "fp:Obama’s Trump-Russia collusion report was corrupt from start: CIA review: \nhttps://nypost.com/2025/07/02/us-news/obamas-trump-russia-collusion-report-",
       "media_identity": "attachment:117082485763139425:",
