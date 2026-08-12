@@ -544,7 +544,7 @@
       "published": "Wed, 12 Aug 2026 02:30:25 +0000",
       "retry_count": 2,
       "updated_at": "2026-08-12T05:01:05.393914Z",
-      "feed_post_id": "url:https://www.trumpstruth.org/statuses/40753",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40753",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "next_retry_at": "2026-08-12T05:11:05.393930Z",
       "source_fingerprint": null,
