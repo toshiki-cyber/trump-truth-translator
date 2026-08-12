@@ -314,6 +314,142 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         reloaded = translator.normalize_processing_history(history)
         self.assertIn("https://www.trumpstruth.org/statuses/40727", reloaded["processed"])
 
+    def test_known_40727_v2_discovered_ignores_legacy_fp_once_then_stays_blocked(self):
+        status_url = "https://www.trumpstruth.org/statuses/40727"
+        truth_id = "117074526504264990"
+        raw_text = (
+            "Chandler Hall, representing, on Television, the foolish Center "
+            "for American Lack of Progress, stated that adding the National Guard"
+        )
+        raw_fp = translator.text_fingerprint(raw_text)
+        history = {
+            "version": 2,
+            "processed": [raw_fp],
+            "posts": {
+                status_url: {
+                    "post_status": "DISCOVERED", "media_state": "PENDING",
+                    "status_url": status_url, "source_text": raw_text,
+                }
+            },
+        }
+        rss_response = MagicMock(content=b"<rss />")
+        rss_response.raise_for_status.return_value = None
+        feed = SimpleNamespace(entries=[{
+            "id": status_url, "link": status_url,
+            "description": f"<p>{raw_text}</p>",
+        }])
+        media = {
+            "state": translator.MediaState.READY, "reason": None,
+            "video_url": "https://cdn.example/broken.mp4", "image_urls": [],
+            "rt_display_name": None, "rt_acct": None,
+        }
+        with (
+            patch("trump_truth_translator.requests.get", return_value=rss_response),
+            patch("trump_truth_translator.feedparser.parse", return_value=feed),
+            patch("trump_truth_translator.load_processed", return_value=history),
+            patch("trump_truth_translator.save_processed"),
+            patch("trump_truth_translator.get_ts_post_id", return_value=truth_id) as ts_id,
+            patch("trump_truth_translator.resolve_post_media", return_value=media) as resolve,
+            patch("trump_truth_translator.bsky_login", return_value=("did:x", "token", "did:web:pds")),
+            patch("trump_truth_translator.prepare_video_for_bsky", side_effect=translator.InvalidMediaError("moov atomなし")),
+            patch("trump_truth_translator.translate_with_claude") as claude,
+            patch("trump_truth_translator.post_to_bluesky") as post,
+        ):
+            translator.main()
+            self.assertEqual(history["posts"][f"truth:{truth_id}"]["post_status"], "BLOCKED")
+            translator.main()
+
+        ts_id.assert_called_once_with(status_url)
+        resolve.assert_called_once()
+        claude.assert_not_called()
+        post.assert_not_called()
+
+    def test_completed_known_40727_skips_before_network_on_next_tick(self):
+        status_url = "https://www.trumpstruth.org/statuses/40727"
+        truth_key = "truth:117074526504264990"
+        history = translator.new_processing_history([])
+        history["posts"][truth_key] = {
+            "post_status": "POST_VERIFY_PENDING", "feed_post_id": status_url,
+        }
+        translator.complete_post(history, truth_key, "fp:known")
+        self.assertIn(status_url, history["processed"])
+
+        rss_response = MagicMock(content=b"<rss />")
+        rss_response.raise_for_status.return_value = None
+        feed = SimpleNamespace(entries=[{
+            "id": status_url, "link": status_url,
+            "description": "<p>same post</p>",
+        }])
+        with (
+            patch("trump_truth_translator.requests.get", return_value=rss_response),
+            patch("trump_truth_translator.feedparser.parse", return_value=feed),
+            patch("trump_truth_translator.load_processed", return_value=history),
+            patch("trump_truth_translator.save_processed"),
+            patch("trump_truth_translator.get_ts_post_id") as ts_id,
+        ):
+            translator.main()
+        ts_id.assert_not_called()
+
+    def test_known_40727_canonical_retry_ignores_legacy_fp_on_next_tick(self):
+        status_url = "https://www.trumpstruth.org/statuses/40727"
+        truth_id = "117074526504264990"
+        raw_text = "known Chandler Hall post"
+        history = {
+            "version": 2,
+            "processed": [translator.text_fingerprint(raw_text)],
+            "posts": {
+                status_url: {
+                    "post_status": "DISCOVERED", "media_state": "PENDING",
+                    "status_url": status_url, "source_text": raw_text,
+                }
+            },
+        }
+        rss_response = MagicMock(content=b"<rss />")
+        rss_response.raise_for_status.return_value = None
+        feed = SimpleNamespace(entries=[{
+            "id": status_url, "link": status_url,
+            "description": f"<p>{raw_text}</p>",
+        }])
+        pending_media = {
+            "state": translator.MediaState.PENDING, "reason": "API timeout",
+            "video_url": None, "image_urls": [], "rt_display_name": None,
+            "rt_acct": None,
+        }
+        invalid_media = {
+            "state": translator.MediaState.INVALID, "reason": "moov atomなし",
+            "video_url": None, "image_urls": [], "rt_display_name": None,
+            "rt_acct": None,
+        }
+        with (
+            patch("trump_truth_translator.requests.get", return_value=rss_response),
+            patch("trump_truth_translator.feedparser.parse", return_value=feed),
+            patch("trump_truth_translator.load_processed", return_value=history),
+            patch("trump_truth_translator.save_processed"),
+            patch("trump_truth_translator.get_ts_post_id", return_value=truth_id) as ts_id,
+            patch("trump_truth_translator.resolve_post_media", side_effect=[pending_media, invalid_media]) as resolve,
+            patch("trump_truth_translator.bsky_login") as login,
+        ):
+            translator.main()
+            canonical = history["posts"][f"truth:{truth_id}"]
+            self.assertEqual(canonical["post_status"], "RETRY")
+            canonical.pop("next_retry_at", None)
+            translator.main()
+
+        self.assertEqual(ts_id.call_count, 2)
+        self.assertEqual(resolve.call_count, 2)
+        self.assertEqual(history["posts"][f"truth:{truth_id}"]["post_status"], "BLOCKED")
+        login.assert_not_called()
+
+    def test_known_reevaluation_finds_retry_state_by_feed_alias(self):
+        status_url = "https://www.trumpstruth.org/statuses/40727"
+        history = translator.new_processing_history([])
+        history["posts"]["truth:117074526504264990"] = {
+            "post_status": "RETRY", "feed_post_id": status_url,
+        }
+        self.assertTrue(translator.should_force_known_reevaluation(history, status_url))
+        history["posts"]["truth:117074526504264990"]["post_status"] = "BLOCKED"
+        self.assertFalse(translator.should_force_known_reevaluation(history, status_url))
+
     def test_pending_history_rehydrates_entry_outside_rss_window(self):
         history = translator.new_processing_history([])
         history["posts"]["old-post"] = {

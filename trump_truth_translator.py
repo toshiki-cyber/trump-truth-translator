@@ -46,11 +46,48 @@ KNOWN_REEVALUATE_IDS = {
     'https://www.trumpstruth.org/statuses/40727',
     '117074526504264990',
 }
+KNOWN_REEVALUATE_CANONICAL = {
+    'https://www.trumpstruth.org/statuses/40727': 'truth:117074526504264990',
+}
 
 
 def is_known_reevaluate_id(value):
     text = str(value)
     return text in KNOWN_REEVALUATE_IDS or '117074526504264990' in text
+
+
+def should_force_known_reevaluation(history, feed_post_id):
+    """既知不良投稿を終端状態になるまで旧fingerprint判定から救済する。"""
+    if not is_known_reevaluate_id(feed_post_id) or not isinstance(history, dict):
+        return False
+    posts = history.get('posts', {})
+    states = []
+    direct = posts.get(feed_post_id)
+    if direct:
+        states.append(direct)
+    truth_id = extract_ts_post_id_from_url(feed_post_id)
+    canonical_key = (f'truth:{truth_id}' if truth_id else
+                     KNOWN_REEVALUATE_CANONICAL.get(str(feed_post_id)))
+    canonical = posts.get(canonical_key) if canonical_key else None
+    if canonical and canonical not in states:
+        states.append(canonical)
+    states.extend(
+        state for state in posts.values()
+        if state.get('feed_post_id') == feed_post_id and state not in states
+    )
+    return any(
+        state.get('post_status') not in ('POSTED', 'BLOCKED')
+        for state in states
+    )
+
+
+def has_feed_alias(history, feed_post_id):
+    if not isinstance(history, dict):
+        return False
+    return any(
+        state.get('feed_post_id') == feed_post_id
+        for state in history.get('posts', {}).values()
+    )
 
 
 class MediaState(str, Enum):
@@ -311,11 +348,12 @@ def media_only_text(kind):
 
 def complete_post(history, source_key, fingerprint=None):
     entries = processed_entries(history)
-    for value in (fingerprint, source_key):
+    state = (history.setdefault('posts', {}).setdefault(source_key, {})
+             if isinstance(history, dict) else {})
+    for value in (fingerprint, source_key, state.get('feed_post_id')):
         if value and value not in entries:
             entries.append(value)
     if isinstance(history, dict):
-        state = history.setdefault('posts', {}).setdefault(source_key, {})
         state['post_status'] = 'POSTED'
         state['failure_reason'] = None
         state.pop('failure_stage', None)
@@ -1534,7 +1572,7 @@ def main():
     if isinstance(processed, dict):
         for raw_entry in entries:
             raw_id = raw_entry.get('id') or raw_entry.get('link', '')
-            if raw_id in completed_entries:
+            if raw_id in completed_entries or has_feed_alias(processed, raw_id):
                 continue
             processed['posts'].setdefault(raw_id, {
                 'post_status': 'DISCOVERED', 'media_state': MediaState.PENDING.value,
@@ -1551,7 +1589,14 @@ def main():
         raw_content = entry.get('description') or entry.get('summary', '')
         raw_text = BeautifulSoup(raw_content, 'html.parser').get_text(separator='\n').strip()
         raw_fp = text_fingerprint(raw_text) if raw_text else None
-        if feed_post_id in completed_entries or (raw_fp and raw_fp in completed_entries):
+        force_known_reevaluation = should_force_known_reevaluation(
+            processed, feed_post_id
+        )
+        if feed_post_id in completed_entries or (
+            raw_fp and raw_fp in completed_entries
+            and not force_known_reevaluation
+            and not entry.get('_blocked_probe')
+        ):
             continue
         status_link = entry.get('link', '')
         ts_post_id = get_ts_post_id(status_link)
@@ -1561,6 +1606,7 @@ def main():
             current = processed['posts'].setdefault(post_id, {})
             for key, value in old_state.items():
                 current.setdefault(key, value)
+            current['feed_post_id'] = feed_post_id
         if post_id in seen_source_keys:
             continue
         seen_source_keys.add(post_id)
@@ -1664,7 +1710,7 @@ def main():
         update_source_identity(processed, post_id, fp, media_identity)
 
         # 同文でもTruth IDまたはメディアが異なる投稿は独立投稿として扱う。
-        force_reevaluate = is_known_reevaluate_id(feed_post_id)
+        force_reevaluate = force_known_reevaluation
         if not ts_post_id and not media_identity and not force_reevaluate and fp and (
             fp in completed_entries or is_similar_to_processed(fp, completed_entries)
         ):
