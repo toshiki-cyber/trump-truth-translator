@@ -547,7 +547,10 @@
     "https://www.trumpstruth.org/statuses/40778",
     "fp:Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida’s 6th Congressional District!\n \nA Harvard Educated and Succ",
     "truth:117084807594231596",
-    "https://www.trumpstruth.org/statuses/40777"
+    "https://www.trumpstruth.org/statuses/40777",
+    "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District!\n \nIn Congress, Kat is wo",
+    "truth:117084810795263041",
+    "https://www.trumpstruth.org/statuses/40774"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1008,14 +1011,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40776",
       "source_text": "<p>Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!<br /> <br />As the former Sheriff of Duval County, and now, as a Highly Respected U.S. Congressman, John strongly supports our incredible Law Enforcement, Military, and Veterans, and knows the Wisdom and Courage it takes to Ensure LAW AND ORDER. In Congress, he is fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />John Rutherford has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:06:39 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T22:25:46.168782Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-12T23:21:05.279126Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40776",
       "first_seen": "2026-08-12T22:16:27.421743Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!\n \nAs the former Sheriff ",
-      "next_retry_at": "2026-08-12T22:35:46.168802Z",
+      "next_retry_at": "2026-08-12T23:41:05.279160Z",
       "truth_social_id": "117084808801556907"
     },
     "truth:117084809928280169": {
@@ -1024,31 +1027,33 @@
       "status_url": "https://www.trumpstruth.org/statuses/40775",
       "source_text": "<p>Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!<br /> <br />As a Member of the POWERFUL Ways &amp; Means Committee, Aaron knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age. He is also fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Aaron Bean has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR AARON — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:06:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T22:25:46.477943Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-12T23:21:20.485765Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40775",
       "first_seen": "2026-08-12T22:16:28.013316Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
-      "next_retry_at": "2026-08-12T22:35:46.477958Z",
+      "next_retry_at": "2026-08-12T23:41:20.485800Z",
       "truth_social_id": "117084809928280169"
     },
     "truth:117084810795263041": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40774",
       "source_text": "<p>Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District!<br /> <br />In Congress, Kat is working tirelessly to Grow our Economy, Cut Taxes, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Ranchers, Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Kat Cammack has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR KAT — SHE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:07:10 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:25:46.796393Z",
+      "updated_at": "2026-08-12T23:21:39.828536Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40774",
       "first_seen": "2026-08-12T22:16:28.845846Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District!\n \nIn Congress, Kat is wo",
-      "next_retry_at": "2026-08-12T22:35:46.796408Z",
-      "truth_social_id": "117084810795263041"
+      "truth_social_id": "117084810795263041",
+      "source_fingerprint": "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District!\n \nIn Congress, Kat is wo",
+      "media_identity": "attachment:117084810795263041:",
+      "translation": "ケット・キャマック下院議員はフロリダ州第3選挙区の素晴らしい人々を代表する素晴らしい仕事をしている！\n\n議会でケットは、我々の経済を成長させ、税金を削減し、米国製を推進し、素晴らしい農民と牧場主を支援し、アメリカンエネルギーの優位性を解放し、国境をしっかり守り、軍隊と退役軍人を支持し、常に攻撃にさらされている修正第2条を守るために、たゆまぬ努力をしている。\n\nケット・キャマックは、再選に向けて私の完全かつ全面的な支持を持っている！早期投票は今進行中であり、選挙日は8月18日だ。ケットに投票するために外に出よう――彼女は決してあなたを失望させることはない！\n\n投票場所をここで探そう：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084811877415311": {
       "post_status": "RETRY",
@@ -1134,7 +1139,7 @@
       "updated_at": "2026-08-12T23:05:42.236447Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40784"
     },
-    "truth:117084962212047241": {
+    "url:https://www.trumpstruth.org/statuses/40783": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40783",
