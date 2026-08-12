@@ -592,14 +592,14 @@
       "media_state": "READY",
       "post_status": "RETRY",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/082/486/150/050/284/small/298636baadc16565.jpg",
-      "retry_count": 1,
-      "updated_at": "2026-08-12T12:55:52.188426Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-12T13:05:41.398407Z",
       "status_url": "https://www.trumpstruth.org/statuses/40755",
       "source_text": "<p></p>",
       "published": "Wed, 12 Aug 2026 12:16:01 +0000",
       "truth_social_id": "117082486292079885",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-12T13:00:52.188440Z"
+      "next_retry_at": "2026-08-12T13:15:41.398424Z"
     }
   }
 }
