@@ -14,11 +14,13 @@ import re
 import certifi
 import time
 import difflib
+import hashlib
 import anthropic
+from enum import Enum
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from PIL import Image, ImageOps
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 
 # --- API Keys ---
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -40,6 +42,36 @@ LOG_FILE = os.path.join(SCRIPT_DIR, "trump_translator.log")
 JST = timezone(timedelta(hours=9))
 BSKY_MAX_LENGTH = 300  # Blueskyの文字数上限（grapheme単位）
 BSKY_IMAGE_SAFE_SIZE = 950_000  # 公式上限の変動に備え、1MB未満に収める
+KNOWN_REEVALUATE_IDS = {
+    'https://www.trumpstruth.org/statuses/40727',
+    '117074526504264990',
+}
+
+
+def is_known_reevaluate_id(value):
+    text = str(value)
+    return text in KNOWN_REEVALUATE_IDS or '117074526504264990' in text
+
+
+class MediaState(str, Enum):
+    """元投稿のメディア確認状態。失敗・不明をNO_MEDIAと区別する。"""
+
+    NO_MEDIA = "NO_MEDIA"
+    READY = "READY"
+    PENDING = "PENDING"
+    INVALID = "INVALID"
+
+
+class InvalidMediaError(ValueError):
+    """取得できたメディア自体が破損している場合のエラー。"""
+
+
+class PartialThreadError(RuntimeError):
+    """スレッドの一部作成後に失敗し、再開情報を保持するエラー。"""
+
+    def __init__(self, message, checkpoint):
+        super().__init__(message)
+        self.checkpoint = checkpoint
 
 
 def log(msg):
@@ -48,16 +80,274 @@ def log(msg):
     print(line)
 
 
+def new_processing_history(processed=None):
+    """旧形式の処理済みリストを保持した構造化履歴を作る。"""
+    migrated = []
+    for item in (processed or []):
+        if is_known_reevaluate_id(item):
+            continue
+        migrated.append(item)
+        truth_id = extract_ts_post_id_from_url(item) if isinstance(item, str) else None
+        canonical = f'truth:{truth_id}' if truth_id else None
+        if canonical and canonical not in migrated:
+            migrated.append(canonical)
+    return {
+        'version': 2,
+        'processed': migrated,
+        'posts': {},
+    }
+
+
+def normalize_processing_history(data):
+    """旧リスト形式と現行の構造化形式を共通形式へ変換する。"""
+    if isinstance(data, list):
+        return new_processing_history(data)
+    if not isinstance(data, dict):
+        return new_processing_history()
+    return {
+        'version': 2,
+        'processed': list(data.get('processed', [])),
+        'posts': dict(data.get('posts', {})),
+    }
+
+
+def processed_entries(history):
+    """テスト中の旧リスト入力にも対応して処理済み一覧を返す。"""
+    if isinstance(history, dict):
+        return history.setdefault('processed', [])
+    return history
+
+
+def record_post_state(history, post_id, media_state, reason=None, truth_social_id=None, **updates):
+    """投稿ごとのメディア状態・失敗理由・再試行回数を記録する。"""
+    if not isinstance(history, dict):
+        return
+    posts = history.setdefault('posts', {})
+    previous = posts.get(post_id, {})
+    state_value = media_state.value if isinstance(media_state, MediaState) else str(media_state)
+    failed = state_value in (MediaState.PENDING.value, MediaState.INVALID.value)
+    retry_count = int(previous.get('retry_count', 0)) + (1 if failed else 0)
+    state = dict(previous)
+    state.update({
+        'media_state': state_value,
+        'post_status': ('BLOCKED' if state_value == MediaState.INVALID.value
+                        else 'RETRY' if failed else previous.get('post_status', 'READY')),
+        'failure_reason': reason if failed else None,
+        'retry_count': retry_count,
+        'updated_at': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
+    })
+    state.update({key: value for key, value in updates.items() if value is not None})
+    if failed:
+        delay_minutes = min(5 * (2 ** max(0, retry_count - 1)), 360)
+        state['next_retry_at'] = (
+            datetime.now(timezone.utc) + timedelta(minutes=delay_minutes)
+        ).isoformat().replace('+00:00', 'Z')
+    else:
+        state.pop('next_retry_at', None)
+    if truth_social_id or previous.get('truth_social_id'):
+        state['truth_social_id'] = truth_social_id or previous['truth_social_id']
+    posts[post_id] = state
+
+
+def record_failure(history, post_id, stage, reason, **updates):
+    """メディア状態を変えずに処理段階の失敗を記録する。"""
+    if not isinstance(history, dict):
+        return
+    posts = history.setdefault('posts', {})
+    state = dict(posts.get(post_id, {}))
+    retry_count = (int(state.get('retry_count', 0)) + 1
+                   if state.get('failure_stage') == stage else 1)
+    state.update({key: value for key, value in updates.items() if value is not None})
+    state['post_status'] = 'POST_VERIFY_PENDING' if stage == 'VERIFY' else 'RETRY'
+    state['failure_stage'] = stage
+    state['failure_reason'] = reason
+    state['retry_count'] = retry_count
+    state['updated_at'] = datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
+    delay_minutes = min(5 * (2 ** max(0, retry_count - 1)), 360)
+    state['next_retry_at'] = (
+        datetime.now(timezone.utc) + timedelta(minutes=delay_minutes)
+    ).isoformat().replace('+00:00', 'Z')
+    posts[post_id] = state
+
+
+def pending_entries_from_history(history, existing_ids):
+    """RSS圏外の未解決投稿を保存済みsource情報から再構成する。"""
+    if not isinstance(history, dict):
+        return []
+    entries = []
+    for post_id, state in history.get('posts', {}).items():
+        status = state.get('post_status')
+        if post_id in existing_ids or status in ('POSTED', 'POST_VERIFY_PENDING'):
+            continue
+        if status == 'BLOCKED':
+            updated = state.get('updated_at')
+            if not updated or datetime.now(timezone.utc) - datetime.fromisoformat(
+                updated.replace('Z', '+00:00')
+            ) < timedelta(hours=24):
+                continue
+        if not state.get('status_url'):
+            continue
+        entries.append({
+            'id': post_id,
+            'link': state['status_url'],
+            'description': state.get('source_text', ''),
+            'published': state.get('published', ''),
+            '_blocked_probe': status == 'BLOCKED',
+        })
+    return entries
+
+
 def load_processed():
     if os.path.exists(PROCESSED_FILE):
         with open(PROCESSED_FILE, 'r') as f:
-            return json.load(f)
-    return []
+            return normalize_processing_history(json.load(f))
+    return new_processing_history()
+
+
+def prepare_history_for_save(processed):
+    history = normalize_processing_history(processed)
+    # 重複防止履歴は現在のRSS窓を十分超える件数を保持する。
+    history['processed'] = history['processed'][-5000:]
+    # 未解決状態は捨てず、解決済みだけを最新500件に絞る。
+    if len(history['posts']) > 500:
+        unresolved = {
+            key: value for key, value in history['posts'].items()
+            if value.get('post_status') != 'POSTED'
+        }
+        resolved = sorted(
+            (
+                (key, value) for key, value in history['posts'].items()
+                if value.get('post_status') == 'POSTED'
+            ),
+            key=lambda item: item[1].get('updated_at', ''),
+        )[-500:]
+        history['posts'] = {**dict(resolved), **unresolved}
+    return history
 
 
 def save_processed(processed):
+    history = prepare_history_for_save(processed)
     with open(PROCESSED_FILE, 'w') as f:
-        json.dump(processed[-500:], f)
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+
+def retry_due(history, post_id, now=None, media_identity=None, manual=False):
+    """既存の失敗投稿にだけ指数バックオフを適用する。新規投稿は常に対象。"""
+    if not isinstance(history, dict) or post_id not in history.get('posts', {}):
+        return True
+    state = history['posts'][post_id]
+    if state.get('post_status') == 'BLOCKED':
+        return bool(manual or (media_identity and media_identity != state.get('media_identity')))
+    next_retry = state.get('next_retry_at')
+    if not next_retry:
+        return True
+    current = now or datetime.now(timezone.utc)
+    return current >= datetime.fromisoformat(next_retry.replace('Z', '+00:00'))
+
+
+def deterministic_post_rkey(source_id, chunk_index):
+    """公式record-key文字制約内の安定hash keyを返す。"""
+    digest = hashlib.sha256(f'{source_id}:{chunk_index}'.encode()).hexdigest()
+    return f'ttt-{digest[:32]}'
+
+
+def canonical_source_key(status_url, truth_social_id=None):
+    truth_id = truth_social_id or extract_ts_post_id_from_url(status_url)
+    return f'truth:{truth_id}' if truth_id else f'url:{status_url}'
+
+
+def confirm_no_media(history, source_key, now=None):
+    now = now or datetime.now(timezone.utc)
+    state = history.setdefault('posts', {}).setdefault(source_key, {})
+    first_seen = state.get('first_seen')
+    if not first_seen:
+        first_seen = now.isoformat().replace('+00:00', 'Z')
+        state['first_seen'] = first_seen
+    state['no_media_confirmations'] = int(state.get('no_media_confirmations', 0)) + 1
+    elapsed = now - datetime.fromisoformat(first_seen.replace('Z', '+00:00'))
+    return state['no_media_confirmations'] >= 3 and elapsed >= timedelta(minutes=15)
+
+
+def update_source_identity(history, source_key, fingerprint, media_identity):
+    state = history.setdefault('posts', {}).setdefault(source_key, {})
+    if (
+        state.get('source_fingerprint') not in (None, fingerprint)
+        or state.get('media_identity') not in (None, media_identity)
+    ):
+        for key in (
+            'translation', 'thread_checkpoint', 'root_uri', 'root_record',
+            'root_rkey', 'expected_embed', 'expected_images', 'failure_stage',
+            'failure_reason', 'next_retry_at', 'retry_count', 'repair_attempted',
+            'repair_attempts', 'created_records',
+        ):
+            state.pop(key, None)
+        state['post_status'] = 'READY'
+    state['source_fingerprint'] = fingerprint
+    state['media_identity'] = media_identity
+
+
+def pending_verifications(history):
+    if not isinstance(history, dict):
+        return []
+    return [
+        dict(state, source_key=key)
+        for key, state in history.get('posts', {}).items()
+        if state.get('post_status') == 'POST_VERIFY_PENDING' and state.get('root_uri')
+    ]
+
+
+def record_matches(existing, expected):
+    value = existing.get('value', existing)
+    for key in ('$type', 'text', 'langs', 'embed', 'reply'):
+        if value.get(key) != expected.get(key):
+            return False
+    return True
+
+
+def media_only_text(kind):
+    """app.bsky.feed.postのtextは空文字でも文字列として有効。"""
+    return ''
+
+
+def complete_post(history, source_key, fingerprint=None):
+    entries = processed_entries(history)
+    for value in (fingerprint, source_key):
+        if value and value not in entries:
+            entries.append(value)
+    if isinstance(history, dict):
+        state = history.setdefault('posts', {}).setdefault(source_key, {})
+        state['post_status'] = 'POSTED'
+        state['failure_reason'] = None
+        state.pop('failure_stage', None)
+        state.pop('next_retry_at', None)
+        state.pop('thread_checkpoint', None)
+
+
+def begin_repair_attempt(history, source_key, persist):
+    """修復通信より先に一度限りの試行チェックポイントを永続化する。"""
+    state = history.setdefault('posts', {}).setdefault(source_key, {})
+    if state.get('repair_attempted'):
+        return False
+    state['repair_attempted'] = True
+    state['repair_attempts'] = int(state.get('repair_attempts', 0)) + 1
+    persist(history)
+    return True
+
+
+def merge_archived_media(video_url, image_urls, archived_video, archived_images):
+    if video_url:
+        return video_url, image_urls
+    if archived_video:
+        return archived_video, image_urls
+    if archived_images:
+        merged = []
+        for index, pair in enumerate(image_urls):
+            primary, fallback = pair if isinstance(pair, tuple) else (pair, None)
+            merged.append((primary, archived_images[index] if index < len(archived_images) else fallback))
+        if len(archived_images) >= len(image_urls):
+            merged.extend((url, None) for url in archived_images[len(image_urls):])
+        return None, merged
+    return video_url, image_urls
 
 
 def grapheme_len(text):
@@ -250,6 +540,30 @@ def extract_media_from_ts_data(data):
     return video_url, image_urls
 
 
+def classify_ts_media(data):
+    source = data.get('reblog') or data
+    attachments = source.get('media_attachments', [])
+    if not attachments:
+        return {'state': MediaState.NO_MEDIA, 'reason': None}
+    for attachment in attachments:
+        if attachment.get('type') not in ('video', 'gifv', 'image'):
+            return {'state': MediaState.INVALID,
+                    'reason': f"未対応メディア: {attachment.get('type', 'unknown')}"}
+        if not attachment.get('url'):
+            return {'state': MediaState.PENDING, 'reason': 'メディアURL欠落'}
+    return {'state': MediaState.READY, 'reason': None}
+
+
+def canonical_media_identity(truth_id, media):
+    names = []
+    values = media if isinstance(media, list) else [media]
+    for value in values:
+        primary = value[0] if isinstance(value, tuple) else value
+        if primary:
+            names.append(os.path.basename(urlparse(primary).path))
+    return f"attachment:{truth_id or 'unknown'}:" + ','.join(sorted(names))
+
+
 def extract_rt_info_from_ts_data(data):
     """RT投稿の場合、(表示名, アカウント名) を返す。RTでなければ (None, None)"""
     reblog = data.get('reblog')
@@ -320,43 +634,48 @@ def scrape_images_from_page(status_url):
         return []
 
 
+def inspect_archived_media_from_page(status_url):
+    """ミラーを取得し、保存済み添付を返す。取得失敗は呼び出し元へ通知する。"""
+    resp = requests.get(
+        status_url,
+        headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
+        proxies=NO_PROXY,
+        verify=certifi.where(),
+        timeout=15
+    )
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.content, 'html.parser')
+    video_url = None
+    image_urls = []
+    seen_urls = set()
+    selectors = (
+        '.status-attachment__link[href], '
+        '.status-details-attachment__media a[href]'
+    )
+    for link in soup.select(selectors):
+        href = link.get('href', '')
+        parsed = urlparse(href)
+        if (
+            parsed.scheme != 'https'
+            or not parsed.hostname
+            or not parsed.hostname.endswith('.linodeobjects.com')
+            or '/attachments/' not in parsed.path
+            or href in seen_urls
+        ):
+            continue
+        seen_urls.add(href)
+        extension = os.path.splitext(parsed.path.lower())[1]
+        if extension in ('.mp4', '.mov', '.webm', '.m4v') and not video_url:
+            video_url = href
+        elif extension in ('.jpg', '.jpeg', '.png', '.webp', '.gif') and len(image_urls) < 4:
+            image_urls.append(href)
+    return video_url, image_urls
+
+
 def scrape_archived_media_from_page(status_url):
     """ミラーが保存した元添付だけを取得し、OGP・リンクカード画像は除外する。"""
     try:
-        resp = requests.get(
-            status_url,
-            headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'},
-            proxies=NO_PROXY,
-            verify=certifi.where(),
-            timeout=15
-        )
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.content, 'html.parser')
-        video_url = None
-        image_urls = []
-        seen_urls = set()
-        selectors = (
-            '.status-attachment__link[href], '
-            '.status-details-attachment__media a[href]'
-        )
-        for link in soup.select(selectors):
-            href = link.get('href', '')
-            parsed = urlparse(href)
-            if (
-                parsed.scheme != 'https'
-                or not parsed.hostname
-                or not parsed.hostname.endswith('.linodeobjects.com')
-                or '/attachments/' not in parsed.path
-                or href in seen_urls
-            ):
-                continue
-            seen_urls.add(href)
-            extension = os.path.splitext(parsed.path.lower())[1]
-            if extension in ('.mp4', '.mov', '.webm', '.m4v') and not video_url:
-                video_url = href
-            elif extension in ('.jpg', '.jpeg', '.png', '.webp', '.gif') and len(image_urls) < 4:
-                image_urls.append(href)
-        return video_url, image_urls
+        return inspect_archived_media_from_page(status_url)
     except Exception as e:
         log(f"保存済みメディア取得エラー: {e}")
         return None, []
@@ -369,8 +688,8 @@ def prefer_archived_media(status_url, video_url, image_urls):
         return video_url, image_urls
     archived_video, archived_images = scrape_archived_media_from_page(status_url)
     if archived_video:
-        log("ミラー保存済み動画を使用")
-        return archived_video, []
+        log("ミラー保存済み動画を使用（不良時はTruth候補へフォールバック）")
+        return (archived_video, video_url) if video_url else archived_video, []
     if archived_images:
         original_by_name = {}
         for url_pair in image_urls:
@@ -378,13 +697,124 @@ def prefer_archived_media(status_url, video_url, image_urls):
             for candidate in (primary, fallback):
                 if candidate:
                     original_by_name[os.path.basename(urlparse(candidate).path)] = candidate
-        archived_pairs = [
-            (url, original_by_name.get(os.path.basename(urlparse(url).path)))
-            for url in archived_images
-        ]
-        log(f"ミラー保存済み画像を使用: {len(archived_pairs)}枚")
-        return None, archived_pairs
+        # APIが示す期待枚数を保持し、ミラー同期途中の一部画像で置換しない。
+        merged_video, merged_images = merge_archived_media(
+            video_url, image_urls, archived_video, archived_images
+        )
+        log(f"ミラー保存済み画像候補を併用: {len(archived_images)}枚")
+        return merged_video, merged_images
     return video_url, image_urls
+
+
+def resolve_post_media(status_url, ts_post_id, html_content=''):
+    """API・RSS・ミラーを照合し、メディア有無を明示的な状態で返す。"""
+    status_host = (urlparse(status_url).hostname or '').lower()
+    is_mirror = status_host in ('trumpstruth.org', 'www.trumpstruth.org')
+    video_url = None
+    image_urls = []
+    rt_display_name, rt_acct = None, None
+    api_error = None
+
+    if not ts_post_id:
+        return {
+            'state': MediaState.PENDING,
+            'reason': 'Truth Social投稿IDを取得できず、メディア有無が不明',
+            'video_url': None,
+            'image_urls': [],
+            'rt_display_name': None,
+            'rt_acct': None,
+        }
+
+    try:
+        ts_data = get_ts_post_data(ts_post_id)
+        source_data = (ts_data.get('reblog') or ts_data) if isinstance(ts_data, dict) else None
+        if (
+            not isinstance(source_data, dict)
+            or not isinstance(source_data.get('media_attachments'), list)
+        ):
+            return {
+                'state': MediaState.PENDING,
+                'reason': 'Truth Social API schema不正: media_attachments欠落',
+                'video_url': None, 'image_urls': [],
+                'rt_display_name': None, 'rt_acct': None,
+            }
+        classification = classify_ts_media(ts_data)
+        if classification['state'] in (MediaState.PENDING, MediaState.INVALID):
+            return {
+                'state': classification['state'], 'reason': classification['reason'],
+                'video_url': None, 'image_urls': [],
+                'rt_display_name': None, 'rt_acct': None,
+            }
+        video_url, image_urls = extract_media_from_ts_data(ts_data)
+        rt_display_name, rt_acct = extract_rt_info_from_ts_data(ts_data)
+        log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
+        if rt_display_name:
+            log(f"RT投稿: {rt_display_name} (@{rt_acct})")
+    except Exception as error:
+        api_error = error
+        log(f"Truth Social APIエラー（フォールバック）: {error}")
+        video_url = extract_video(html_content)
+        if not video_url:
+            image_urls = [(url, None) for url in extract_images(html_content)]
+
+    if video_url or image_urls:
+        video_url, image_urls = prefer_archived_media(
+            status_url, video_url, image_urls
+        )
+        return {
+            'state': MediaState.READY,
+            'reason': None,
+            'video_url': video_url,
+            'image_urls': image_urls,
+            'rt_display_name': rt_display_name,
+            'rt_acct': rt_acct,
+        }
+
+    # APIが添付0件を返すケースでも、ミラー側に保存済み添付がある実例がある。
+    # ミラーページを確認できない限り、メディアなしとは確定しない。
+    if is_mirror:
+        try:
+            archived_video, archived_images = inspect_archived_media_from_page(
+                status_url
+            )
+        except Exception as error:
+            return {
+                'state': MediaState.PENDING,
+                'reason': f'ミラーのメディア確認失敗: {error}',
+                'video_url': None,
+                'image_urls': [],
+                'rt_display_name': rt_display_name,
+                'rt_acct': rt_acct,
+            }
+        if archived_video or archived_images:
+            image_pairs = [(url, None) for url in archived_images]
+            return {
+                'state': MediaState.READY,
+                'reason': None,
+                'video_url': archived_video,
+                'image_urls': image_pairs,
+                'rt_display_name': rt_display_name,
+                'rt_acct': rt_acct,
+            }
+
+    if api_error:
+        return {
+            'state': MediaState.PENDING,
+            'reason': f'Truth Social API取得失敗: {api_error}',
+            'video_url': None,
+            'image_urls': [],
+            'rt_display_name': rt_display_name,
+            'rt_acct': rt_acct,
+        }
+
+    return {
+        'state': MediaState.NO_MEDIA,
+        'reason': None,
+        'video_url': None,
+        'image_urls': [],
+        'rt_display_name': rt_display_name,
+        'rt_acct': rt_acct,
+    }
 
 
 def extract_video(html_content):
@@ -430,15 +860,19 @@ def upload_video_via_bsky_service(video_data, content_type, did, token, pds_audi
         timeout=180
     )
     try:
+        job = upload_resp.json()
+    except Exception:
+        job = {}
+    # 公式video serviceは再送時にalready_exists系HTTP応答でも既存blobを
+    # 返すことがある。blobがあれば冪等な成功として利用する。
+    if job.get('blob'):
+        return job['blob']
+    try:
         upload_resp.raise_for_status()
     except requests.HTTPError as error:
         raise RuntimeError(
             f"Bluesky動画送信失敗 (HTTP {upload_resp.status_code}): {upload_resp.text[:500]}"
         ) from error
-    job = upload_resp.json()
-    if job.get('blob'):
-        return job['blob']
-
     job_id = job.get('jobId')
     if not job_id:
         raise ValueError(f"動画処理ジョブIDを取得できません: {job}")
@@ -458,8 +892,75 @@ def upload_video_via_bsky_service(video_data, content_type, did, token, pds_audi
     raise TimeoutError("Bluesky動画処理が150秒以内に完了しませんでした")
 
 
-def upload_video_to_bsky(video_url, did, token, pds_audience):
-    """動画をBluesky動画サービスで処理してからアップロードし、blobを返す"""
+def validate_basic_mp4_structure(video_data, content_type, source_url=''):
+    """MP4の基本構造（box境界、moov、trak）を検査する。"""
+    extension = os.path.splitext(urlparse(source_url).path.lower())[1]
+    is_mp4 = content_type in ('video/mp4', 'video/quicktime') or extension in (
+        '.mp4', '.mov', '.m4v'
+    )
+    if not is_mp4:
+        if not video_data:
+            raise InvalidMediaError("動画データが空")
+        return
+
+    offset = 0
+    found_moov = False
+    found_trak = False
+    while offset + 8 <= len(video_data):
+        box_size = int.from_bytes(video_data[offset:offset + 4], 'big')
+        box_type = video_data[offset + 4:offset + 8]
+        header_size = 8
+        if box_size == 1:
+            if offset + 16 > len(video_data):
+                raise InvalidMediaError("MP4の拡張boxヘッダーが切断されている")
+            box_size = int.from_bytes(video_data[offset + 8:offset + 16], 'big')
+            header_size = 16
+        elif box_size == 0:
+            box_size = len(video_data) - offset
+        if box_size < header_size:
+            raise InvalidMediaError("MP4のboxサイズが不正")
+        if offset + box_size > len(video_data):
+            name = box_type.decode('ascii', errors='replace')
+            raise InvalidMediaError(f"MP4の{name} boxが途中で切断されている")
+        if box_type == b'moov':
+            found_moov = True
+            child_offset = offset + header_size
+            box_end = offset + box_size
+            while child_offset + 8 <= box_end:
+                child_size = int.from_bytes(video_data[child_offset:child_offset + 4], 'big')
+                child_type = video_data[child_offset + 4:child_offset + 8]
+                if child_size < 8 or child_offset + child_size > box_end:
+                    raise InvalidMediaError("MP4のmoov内box構造が不正")
+                if child_type == b'trak':
+                    found_trak = True
+                child_offset += child_size
+        offset += box_size
+
+    if offset != len(video_data):
+        raise InvalidMediaError("MP4末尾のboxデータが切断されている")
+    if not found_moov:
+        raise InvalidMediaError("MP4にmoov atomがないため再生できない")
+    if not found_trak:
+        raise InvalidMediaError("MP4のmoovにtrakがないため再生できない")
+
+
+def validate_video_data(video_data, content_type, source_url=''):
+    """後方互換用。MP4の基本構造検証を行う。"""
+    return validate_basic_mp4_structure(video_data, content_type, source_url)
+
+
+def prepare_video_for_bsky(video_url):
+    """動画を一度だけ取得し、基本MP4構造検証済みデータを返す。"""
+    if isinstance(video_url, tuple):
+        errors = []
+        for candidate in video_url:
+            if not candidate:
+                continue
+            try:
+                return prepare_video_for_bsky(candidate)
+            except Exception as error:
+                errors.append(str(error))
+        raise InvalidMediaError('動画候補がすべて不正: ' + ' / '.join(errors))
     MAX_SIZE = 50 * 1024 * 1024  # 50MB
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
@@ -492,10 +993,17 @@ def upload_video_to_bsky(video_url, did, token, pds_audience):
         raise ValueError(f"動画サイズ超過: {len(resp.content) / 1024 / 1024:.1f}MB > 50MB")
 
     content_type = resp.headers.get('content-type', 'video/mp4').split(';')[0]
+    validate_basic_mp4_structure(resp.content, content_type, video_url)
+    return resp.content, content_type
+
+
+def upload_video_to_bsky(video_url, did, token, pds_audience, prepared_video=None):
+    """基本MP4構造検証済み動画をBluesky動画サービスへ送り、blobを返す。"""
+    video_data, content_type = prepared_video or prepare_video_for_bsky(video_url)
     # Blueskyの推奨フローで変換完了済みblobだけを返す。失敗時に未変換blobを
     # embedすると「ビデオが見つかりません」になるため、呼び出し元で再試行する。
     return upload_video_via_bsky_service(
-        resp.content, content_type, did, token, pds_audience
+        video_data, content_type, did, token, pds_audience
     )
 
 
@@ -710,22 +1218,95 @@ def bsky_login():
 
 def mark_post_processed(processed, post):
     """Bluesky投稿に成功した投稿だけを重複判定済みにする。"""
-    if post.get('fp'):
-        processed.append(post['fp'])
-    processed.append(post['id'])
+    complete_post(processed, post['id'], post.get('fp'))
 
 
-def should_retry_media_post(has_source_media, video_blob, image_blobs):
+def should_retry_media_post(has_source_media, video_blob, image_blobs, expected_images=0):
     """元メディアがあるのにアップロードできなければ、本文だけで確定投稿しない。"""
-    return has_source_media and not video_blob and not image_blobs
+    if not has_source_media:
+        return False
+    if video_blob:
+        return False
+    if expected_images:
+        return len(image_blobs) != expected_images
+    return not image_blobs
 
 
-def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, external_embed=None):
+def get_record(did, token, rkey):
+    resp = requests.get(
+        f"{BSKY_API}/com.atproto.repo.getRecord",
+        params={'repo': did, 'collection': 'app.bsky.feed.post', 'rkey': rkey},
+        headers={'Authorization': f'Bearer {token}'}, proxies=NO_PROXY, timeout=30,
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def put_record(did, token, rkey, record, swap_record=None):
+    body = {'repo': did, 'collection': 'app.bsky.feed.post', 'rkey': rkey,
+            'record': record}
+    if swap_record:
+        body['swapRecord'] = swap_record
+    resp = requests.post(
+        f"{BSKY_API}/com.atproto.repo.putRecord",
+        json=body,
+        headers={'Authorization': f'Bearer {token}'}, proxies=NO_PROXY, timeout=30,
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def delete_created_records(did, token, records):
+    """この実行で作ったスレッドを返信から逆順に削除し、消失を確認する。"""
+    for item in reversed(records):
+        rkey = item['rkey']
+        resp = requests.post(
+            f"{BSKY_API}/com.atproto.repo.deleteRecord",
+            json={'repo': did, 'collection': 'app.bsky.feed.post', 'rkey': rkey},
+            headers={'Authorization': f'Bearer {token}'}, proxies=NO_PROXY,
+            timeout=30,
+        )
+        resp.raise_for_status()
+        try:
+            get_record(did, token, rkey)
+        except requests.HTTPError as error:
+            response = error.response
+            is_not_found = response is not None and response.status_code == 404
+            if is_not_found:
+                continue
+            return False
+        except Exception:
+            return False
+        return False
+    return True
+
+
+def delete_or_mark_alert(state, did, token, records, reason):
+    """削除確認失敗も履歴へ残し、verification処理全体は継続する。"""
+    try:
+        deleted = bool(records) and delete_created_records(did, token, records)
+    except Exception as error:
+        deleted = False
+        reason = f'{reason}; 削除失敗: {error}'
+    state['post_status'] = 'BLOCKED'
+    state['failure_stage'] = 'VERIFY_DELETE' if deleted else 'ALERT_DELETE_FAILED'
+    state['failure_reason'] = reason
+    return deleted
+
+
+def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None,
+                    external_embed=None, checkpoint=None, source_id='',
+                    checkpoint_callback=None):
     """Blueskyに投稿する。複数チャンクの場合はスレッドにする"""
-    root_ref = None
-    parent_ref = None
+    checkpoint = dict(checkpoint or {})
+    root_ref = checkpoint.get('root_ref')
+    parent_ref = checkpoint.get('parent_ref')
+    start_index = int(checkpoint.get('next_index', 0))
+    if start_index >= len(chunks):
+        return parent_ref['uri']
 
-    for i, chunk in enumerate(chunks):
+    for i in range(start_index, len(chunks)):
+        chunk = chunks[i]
         now = datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
         record = {
             '$type': 'app.bsky.feed.post',
@@ -764,34 +1345,146 @@ def post_to_bluesky(chunks, did, token, image_blobs=None, video_blob=None, exter
                 'parent': parent_ref
             }
 
-        resp = requests.post(
-            f"{BSKY_API}/com.atproto.repo.createRecord",
-            json={
-                'repo': did,
-                'collection': 'app.bsky.feed.post',
-                'record': record
-            },
-            headers={'Authorization': f'Bearer {token}'},
-            proxies=NO_PROXY, timeout=30
-        )
         try:
+            rkey = deterministic_post_rkey(source_id or chunks[0], i)
+            resp = requests.post(
+                f"{BSKY_API}/com.atproto.repo.createRecord",
+                json={
+                    'repo': did,
+                    'collection': 'app.bsky.feed.post',
+                    'rkey': rkey,
+                    'record': record
+                },
+                headers={'Authorization': f'Bearer {token}'},
+                proxies=NO_PROXY, timeout=30
+            )
             resp.raise_for_status()
-        except requests.HTTPError as error:
-            detail = resp.text[:500]
-            raise RuntimeError(
-                f"Bluesky投稿失敗 (HTTP {resp.status_code}): {detail}"
-            ) from error
-        result = resp.json()
+            result = resp.json()
+        except Exception as error:
+            # createRecord成功後のtimeout/409をgetRecordで照合し、同じrkeyを再利用する。
+            conflict_error = None
+            try:
+                existing = get_record(did, token, rkey)
+                if not isinstance(existing.get('uri'), str) or not isinstance(existing.get('cid'), str):
+                    raise ValueError('既存record照合結果が不正')
+                if not record_matches(existing, record):
+                    conflict_error = RuntimeError('決定的rkeyに異なる既存recordがあり競合')
+                    raise conflict_error
+                result = {'uri': existing['uri'], 'cid': existing['cid']}
+            except Exception:
+                result = None
+            if conflict_error:
+                raise conflict_error from error
+            if result:
+                pass
+            else:
+                if isinstance(error, requests.HTTPError):
+                    message = (
+                        f"Bluesky投稿失敗 (HTTP {resp.status_code}): "
+                        f"{resp.text[:500]}"
+                    )
+                else:
+                    message = f"Bluesky投稿失敗: {error}"
+                if root_ref:
+                    failure_checkpoint = dict(checkpoint)
+                    failure_checkpoint.update({
+                        'root_ref': root_ref, 'parent_ref': parent_ref,
+                        'next_index': i,
+                    })
+                    raise PartialThreadError(message, failure_checkpoint) from error
+                raise RuntimeError(message) from error
 
         ref = {'uri': result['uri'], 'cid': result['cid']}
         if i == 0:
             root_ref = ref
         parent_ref = ref
+        prior_checkpoint = checkpoint
+        created_records = list((prior_checkpoint or {}).get('created_records', []))
+        created_records.append({'uri': ref['uri'], 'rkey': rkey})
+        checkpoint = dict(prior_checkpoint or {})
+        checkpoint.update({
+            'root_ref': root_ref, 'parent_ref': parent_ref, 'next_index': i + 1,
+            'last_rkey': rkey, 'last_record': record,
+            'root_rkey': (prior_checkpoint or {}).get('root_rkey') or rkey,
+            'root_record': (prior_checkpoint or {}).get('root_record') or record,
+            'created_records': created_records,
+        })
+        if checkpoint_callback:
+            checkpoint_callback(checkpoint)
 
         if i < len(chunks) - 1:
             time.sleep(1)
 
     return result['uri']
+
+
+def verify_published_embed(post_uri, expected_kind, expected_images=0):
+    """公開viewのembedを確認し、動画はplaylist manifestまで取得する。"""
+    resp = requests.get(
+        "https://public.api.bsky.app/xrpc/app.bsky.feed.getPosts",
+        params={'uris': post_uri}, proxies=NO_PROXY, timeout=30,
+    )
+    resp.raise_for_status()
+    posts = resp.json().get('posts', [])
+    if not posts:
+        return False, '公開APIに投稿が未反映'
+    embed = posts[0].get('embed')
+    embed_type = (embed or {}).get('$type', '')
+    if expected_kind == 'none':
+        # 外部リンクカードは許容し、元メディアなしではembed確認を必須にしない。
+        return True, None
+    if expected_kind == 'images':
+        images = (embed or {}).get('images', [])
+        actual = len(images)
+        if 'images#view' not in embed_type or actual != expected_images:
+            return False, f'画像embedが期待{expected_images}枚に対し{actual}枚'
+        for image_view in images:
+            fullsize = image_view.get('fullsize')
+            if fullsize:
+                image_resp = requests.get(fullsize, proxies=NO_PROXY, timeout=30)
+                image_resp.raise_for_status()
+                if not image_resp.content:
+                    return False, '画像fullsize URLが空データ'
+                content_type = image_resp.headers.get('content-type', '')
+                if content_type and not content_type.startswith('image/'):
+                    return False, '画像fullsize URLが画像を返していない'
+        return True, None
+    if expected_kind == 'video':
+        playlist = (embed or {}).get('playlist')
+        if 'video#view' not in embed_type or not playlist:
+            return False, '動画embedまたはplaylistが未反映'
+        manifest = requests.get(playlist, proxies=NO_PROXY, timeout=30)
+        manifest.raise_for_status()
+        if '#EXTM3U' not in manifest.text:
+            return False, '動画playlist manifestが不正'
+        lines = [line.strip() for line in manifest.text.splitlines()
+                 if line.strip() and not line.startswith('#')]
+        if not lines:
+            return False, '動画master playlistにvariantがない'
+        variant_url = urljoin(playlist, lines[0])
+        variant = requests.get(variant_url, proxies=NO_PROXY, timeout=30)
+        variant.raise_for_status()
+        if '#EXTM3U' not in variant.text:
+            return False, '動画media playlistが不正'
+        segments = [line.strip() for line in variant.text.splitlines()
+                    if line.strip() and not line.startswith('#')]
+        if not segments:
+            return False, '動画variant playlistにsegmentがない'
+        segment = requests.get(urljoin(variant_url, segments[0]),
+                               proxies=NO_PROXY, timeout=30)
+        segment.raise_for_status()
+        segment_type = segment.headers.get('content-type', '').lower()
+        if not segment.content or 'text/html' in segment_type:
+            return False, '動画segmentが空またはHTML'
+        return True, None
+    return False, f'不明なembed種別: {expected_kind}'
+
+
+def verify_failure_is_terminal(reason):
+    return bool(reason and any(term in reason for term in (
+        'manifestが不正', 'playlistにvariantがない', 'playlistにsegmentがない',
+        'segmentが空', '画像fullsize URLが画像を返していない',
+    )))
 
 
 def main():
@@ -825,44 +1518,100 @@ def main():
         log(f"RSSフィード取得成功: {len(entries)}件")
 
     processed = load_processed()
+    completed_entries = processed_entries(processed)
+    verification_jobs = pending_verifications(processed)
+    if not manual_post_url:
+        rss_ids = {entry.get('id') or entry.get('link', '') for entry in entries}
+        restored = pending_entries_from_history(processed, rss_ids)
+        if restored:
+            # reversed処理で新規RSSを先にする。backlogは一実行10件まで。
+            entries = restored[:10] + list(entries)
+            log(f"履歴からRSS圏外の未解決投稿を復元: {len(restored)}件")
     new_posts = []
+    seen_source_keys = set()
+
+    # RSSに見えた全候補を先に履歴化し、1件処理上限でも次回以降に残す。
+    if isinstance(processed, dict):
+        for raw_entry in entries:
+            raw_id = raw_entry.get('id') or raw_entry.get('link', '')
+            if raw_id in completed_entries:
+                continue
+            processed['posts'].setdefault(raw_id, {
+                'post_status': 'DISCOVERED', 'media_state': MediaState.PENDING.value,
+                'status_url': raw_entry.get('link', ''),
+                'source_text': raw_entry.get('description') or raw_entry.get('summary', ''),
+                'published': raw_entry.get('published', ''), 'retry_count': 0,
+                'updated_at': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
+            })
+        save_processed(processed)
 
     for entry in reversed(entries):  # 古い順に処理
-        post_id = entry.get('id') or entry.get('link', '')
-        if post_id in processed:
+        feed_post_id = entry.get('id') or entry.get('link', '')
+        # 旧mirror URLやfingerprintが処理済みならネットワーク解決前に終了。
+        raw_content = entry.get('description') or entry.get('summary', '')
+        raw_text = BeautifulSoup(raw_content, 'html.parser').get_text(separator='\n').strip()
+        raw_fp = text_fingerprint(raw_text) if raw_text else None
+        if feed_post_id in completed_entries or (raw_fp and raw_fp in completed_entries):
+            continue
+        status_link = entry.get('link', '')
+        ts_post_id = get_ts_post_id(status_link)
+        post_id = canonical_source_key(status_link or feed_post_id, ts_post_id)
+        if isinstance(processed, dict) and feed_post_id != post_id:
+            old_state = processed['posts'].pop(feed_post_id, {})
+            current = processed['posts'].setdefault(post_id, {})
+            for key, value in old_state.items():
+                current.setdefault(key, value)
+        if post_id in seen_source_keys:
+            continue
+        seen_source_keys.add(post_id)
+        if new_posts:
+            continue  # 1実行につき新規投稿候補は1件に限定
+        if post_id in completed_entries or feed_post_id in completed_entries:
+            continue
+        preliminary_content = entry.get('description') or entry.get('summary', '')
+        preliminary_media = extract_video(preliminary_content)
+        if not preliminary_media:
+            preliminary_images = extract_images(preliminary_content)
+            preliminary_media = str(preliminary_images) if preliminary_images else None
+        if not retry_due(
+            processed, post_id, media_identity=preliminary_media,
+            manual=bool(manual_post_url or entry.get('_blocked_probe')),
+        ):
+            log(f"再試行バックオフ中: {post_id}")
             continue
 
-        content = entry.get('description') or entry.get('summary', '')
+        content = preliminary_content
         if not content:
-            status_link = entry.get('link', '')
-            ts_post_id = get_ts_post_id(status_link)
-            if not ts_post_id:
-                log(f"本文なし投稿のTruth Social ID未取得、次回再試行: {post_id}")
+            media = resolve_post_media(status_link, ts_post_id)
+            if media['state'] != MediaState.READY:
+                reason = media['reason'] or '本文も添付メディアも取得できない'
+                record_post_state(
+                    processed, post_id, media['state'], reason, ts_post_id,
+                    status_url=status_link, source_text='',
+                    published=entry.get('published', ''), fingerprint=None,
+                )
+                log(f"本文なし投稿を保留: {reason}")
                 continue
-            try:
-                ts_data = get_ts_post_data(ts_post_id)
-                video_url, image_urls = extract_media_from_ts_data(ts_data)
-                log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
-            except Exception as e:
-                log(f"Truth Social APIメディア取得エラー: {e}")
-                image_urls = []
-                video_url = None
-            video_url, image_urls = prefer_archived_media(
-                status_link, video_url, image_urls
+            record_post_state(
+                processed, post_id, media['state'], truth_social_id=ts_post_id,
+                status_url=status_link, source_text='',
+                published=entry.get('published', ''), fingerprint=None,
+                media_identity=canonical_media_identity(
+                    ts_post_id, media['video_url'] or media['image_urls']
+                ),
             )
-            if not video_url and not image_urls:
-                log("本文なし投稿のメディア未取得、次回再試行")
-                continue
             new_posts.append({
                 'id': post_id,
                 'fp': None,
                 'text': '',
                 'link': entry.get('link', ''),
                 'published': entry.get('published', ''),
-                'video_url': video_url,
-                'image_urls': image_urls,
-                'rt_display_name': None,
-                'rt_acct': None,
+                'video_url': media['video_url'],
+                'image_urls': media['image_urls'],
+                'media_state': media['state'],
+                'truth_social_id': ts_post_id,
+                'rt_display_name': media['rt_display_name'],
+                'rt_acct': media['rt_acct'],
             })
             continue
 
@@ -873,21 +1622,7 @@ def main():
                 a.replace_with(href)
         text = normalize_urls(soup.get_text(separator='\n').strip())
 
-        if not text:
-            processed.append(post_id)
-            continue
-
-        fp = text_fingerprint(text)
-        if fp in processed or is_similar_to_processed(fp, processed):
-            log(f"重複スキップ（内容重複）: {text[:60]}...")
-            processed.append(post_id)
-            continue
-        # Truth Social APIからメディア・RT情報取得、失敗時はRSS HTMLにフォールバック
-        video_url = None
-        image_urls = []
-        rt_display_name, rt_acct = None, None
-        status_link = entry.get('link', '')
-        ts_post_id = get_ts_post_id(status_link)
+        fp = text_fingerprint(text) if text else None
         status_host = (urlparse(status_link).hostname or '').lower()
         if (
             not ts_post_id
@@ -895,28 +1630,52 @@ def main():
         ):
             # ミラーの取得失敗を「元メディアなし」と解釈すると、動画・画像付き投稿を
             # 本文だけで確定してしまう。メタデータを確認できる次回まで保留する。
-            log(f"Truth Social ID未取得、メディア有無を確認できないため次回再試行: {post_id}")
+            reason = 'Truth Social投稿IDを取得できず、メディア有無が不明'
+            record_post_state(
+                processed, post_id, MediaState.PENDING, reason, ts_post_id,
+                status_url=status_link, source_text=content,
+                published=entry.get('published', ''), fingerprint=fp,
+            )
+            log(f"{reason}、次回再試行: {post_id}")
             continue
-        if ts_post_id:
-            try:
-                ts_data = get_ts_post_data(ts_post_id)
-                video_url, image_urls = extract_media_from_ts_data(ts_data)
-                rt_display_name, rt_acct = extract_rt_info_from_ts_data(ts_data)
-                log(f"TS APIメディア: 動画={'あり' if video_url else 'なし'}, 画像{len(image_urls)}枚")
-                if rt_display_name:
-                    log(f"RT投稿: {rt_display_name} (@{rt_acct})")
-            except Exception as e:
-                log(f"Truth Social APIエラー（フォールバック）: {e}")
-                video_url = extract_video(content)
-                if not video_url:
-                    image_urls = [(u, None) for u in extract_images(content)]
-        else:
-            video_url = extract_video(content)
-            if not video_url:
-                image_urls = [(u, None) for u in extract_images(content)]
+        media = resolve_post_media(status_link, ts_post_id, content)
+        if media['state'] in (MediaState.PENDING, MediaState.INVALID):
+            record_post_state(
+                processed, post_id, media['state'], media['reason'], ts_post_id,
+                status_url=status_link, source_text=content,
+                published=entry.get('published', ''), fingerprint=fp,
+            )
+            log(f"メディア確認を保留または停止: {media['reason']}")
+            continue
+        if media['state'] == MediaState.NO_MEDIA:
+            if not confirm_no_media(processed, post_id):
+                record_post_state(
+                    processed, post_id, MediaState.PENDING,
+                    'メディアなしの確認猶予中', ts_post_id,
+                    status_url=status_link, source_text=content,
+                    published=entry.get('published', ''), fingerprint=fp,
+                )
+                continue
+        video_url = media['video_url']
+        image_urls = media['image_urls']
+        media_identity = canonical_media_identity(
+            ts_post_id, video_url or image_urls
+        )
+        update_source_identity(processed, post_id, fp, media_identity)
 
-        video_url, image_urls = prefer_archived_media(
-            status_link, video_url, image_urls
+        # 同文でもTruth IDまたはメディアが異なる投稿は独立投稿として扱う。
+        force_reevaluate = is_known_reevaluate_id(feed_post_id)
+        if not ts_post_id and not media_identity and not force_reevaluate and fp and (
+            fp in completed_entries or is_similar_to_processed(fp, completed_entries)
+        ):
+            log(f"重複スキップ（IDなし内容重複）: {text[:60]}...")
+            completed_entries.append(post_id)
+            continue
+        record_post_state(
+            processed, post_id, media['state'], truth_social_id=ts_post_id,
+            status_url=status_link, source_text=content,
+            published=entry.get('published', ''), fingerprint=fp,
+            media_identity=media_identity,
         )
 
         # URL重複排除（同じ画像が複数回添付されるのを防ぐ）
@@ -934,16 +1693,18 @@ def main():
             'published': entry.get('published', ''),
             'video_url': video_url,
             'image_urls': image_urls,
-            'rt_display_name': rt_display_name,
-            'rt_acct': rt_acct,
+            'media_state': media['state'],
+            'truth_social_id': ts_post_id,
+            'rt_display_name': media['rt_display_name'],
+            'rt_acct': media['rt_acct'],
         })
 
-    if not new_posts:
+    if not new_posts and not verification_jobs:
         log("新規投稿なし")
         save_processed(processed)
         return
 
-    log(f"新規投稿: {len(new_posts)}件")
+    log(f"新規投稿: {len(new_posts)}件, 投稿後確認待ち: {len(verification_jobs)}件")
 
     # Blueskyログイン
     try:
@@ -951,9 +1712,133 @@ def main():
         log(f"Blueskyログイン成功 (DID: {did})")
     except Exception as e:
         log(f"Blueskyログインエラー: {e}")
+        for post in new_posts:
+            record_failure(
+                processed, post['id'], 'LOGIN',
+                f'Blueskyログイン失敗: {e}',
+                truth_social_id=post.get('truth_social_id')
+            )
+        save_processed(processed)
+        return
+
+    for job in verification_jobs:
+        source_key = job['source_key']
+        if not retry_due(processed, source_key):
+            continue
+        verification_state = processed['posts'][source_key]
+        try:
+            verified, reason = verify_published_embed(
+                job['root_uri'], job.get('expected_embed', 'none'),
+                int(job.get('expected_images', 0)),
+            )
+        except Exception as error:
+            verified, reason = False, str(error)
+        safe_repair = (
+            not verified and job.get('root_rkey') and job.get('root_record')
+            and not verification_state.get('repair_attempted')
+            and reason and ('画像embed' in reason or '動画embed' in reason)
+        )
+        if safe_repair and begin_repair_attempt(processed, source_key, save_processed):
+            try:
+                current = get_record(did, token, job['root_rkey'])
+                repaired = put_record(
+                    did, token, job['root_rkey'], job['root_record'],
+                    swap_record=current['cid'],
+                )
+                if repaired.get('uri'):
+                    job['root_uri'] = repaired['uri']
+                verified, reason = verify_published_embed(
+                    job['root_uri'], job.get('expected_embed', 'none'),
+                    int(job.get('expected_images', 0)),
+                )
+            except Exception as error:
+                reason = str(error)
+        if verified:
+            complete_post(processed, source_key, job.get('fingerprint'))
+        else:
+            record_failure(processed, source_key, 'VERIFY', reason)
+            state = processed['posts'][source_key]
+            if state.get('retry_count', 0) >= 6 or verify_failure_is_terminal(reason):
+                delete_or_mark_alert(
+                    state, did, token, state.get('created_records', []), reason
+                )
+    save_processed(processed)
+
+    if not new_posts:
+        log("投稿後確認待ちを処理して完了")
         return
 
     for post in new_posts:
+        checkpoint = processed.get('posts', {}).get(post['id'], {}).get(
+            'thread_checkpoint'
+        ) if isinstance(processed, dict) else None
+        video_blob = None
+        image_blobs = []
+        media_upload_error = None
+        prepared_video = None
+        if checkpoint:
+            log("投稿済みrootを再利用し、未投稿の返信から再開")
+        elif post.get('video_url'):
+            try:
+                prepared_video = prepare_video_for_bsky(post['video_url'])
+                log(f"動画基本構造確認成功: {str(post['video_url'])[:60]}")
+            except InvalidMediaError as e:
+                record_post_state(
+                    processed,
+                    post['id'],
+                    MediaState.INVALID,
+                    str(e),
+                    post.get('truth_social_id'),
+                )
+                save_processed(processed)
+                log(f"動画が破損しているため翻訳・投稿を保留: {e}")
+                continue
+            except Exception as e:
+                record_post_state(
+                    processed,
+                    post['id'],
+                    MediaState.PENDING,
+                    f'動画取得・検証失敗: {e}',
+                    post.get('truth_social_id'),
+                )
+                save_processed(processed)
+                log(f"動画を確認できないため翻訳・投稿を保留: {e}")
+                continue
+
+            try:
+                video_blob = upload_video_to_bsky(
+                    post['video_url'], did, token, pds_audience,
+                    prepared_video=prepared_video,
+                )
+                log(f"動画アップロード成功: {str(post['video_url'])[:60]}")
+            except Exception as e:
+                media_upload_error = e
+        elif not checkpoint:
+            for url_pair in post.get('image_urls', []):
+                primary, fallback = url_pair if isinstance(url_pair, tuple) else (url_pair, None)
+                try:
+                    blob, aspect_ratio = upload_image_to_bsky(
+                        primary, did, token, fallback_url=fallback
+                    )
+                    image_blobs.append((blob, aspect_ratio))
+                    log(f"画像アップロード成功: {primary[:60]}")
+                except Exception as e:
+                    media_upload_error = e
+
+        has_source_media = bool(post.get('video_url') or post.get('image_urls'))
+        if not checkpoint and should_retry_media_post(
+            has_source_media, video_blob, image_blobs,
+            expected_images=len(post.get('image_urls', [])),
+        ):
+            record_failure(
+                processed, post['id'], 'MEDIA_UPLOAD',
+                f'Blueskyメディアアップロード失敗: {media_upload_error}',
+                truth_social_id=post.get('truth_social_id'),
+            )
+            save_processed(processed)
+            log("元メディアを全件アップロードできず、翻訳・投稿を保留")
+            continue
+
         log(f"翻訳中: {post['text'][:80]}...")
 
         # URLとホワイトスペース（\xa0等Unicode空白含む）を除いた実質的なテキストがあるか確認
@@ -962,9 +1847,18 @@ def main():
         # "RT:" などの短いプレフィックスも除外
         meaningful_text = re.sub(r'\bRT:\s*', '', meaningful_text)
         meaningful_text = re.sub(r'[\s\xa0]+', '', meaningful_text)
-        if not meaningful_text:
+        cached_translation = (
+            processed.get('posts', {}).get(post['id'], {}).get('translation')
+            if isinstance(processed, dict) else None
+        )
+        if cached_translation:
+            translation = cached_translation
+            log("保存済み翻訳を再利用")
+        elif not meaningful_text:
             # テキストなし（画像のみ or URLのみ or RTのみ）→ 翻訳不要
-            translation = '\n'.join(post_urls) if post_urls else "【画像投稿】"
+            translation = ('\n'.join(post_urls) if post_urls else media_only_text(
+                'video' if post.get('video_url') else 'images'
+            ))
             log("テキストなし（画像のみ/URLのみ/RTのみ）のため翻訳スキップ")
         else:
             has_media = bool(post['video_url'] or post['image_urls'])
@@ -973,19 +1867,33 @@ def main():
                 translation = restore_urls(translation, post_urls)
                 if not has_japanese(translation):
                     log(f"翻訳結果に日本語なし（LLMエラー応答）、スキップ: {translation[:80]}")
-                    processed.append(post['id'])
+                    record_failure(
+                        processed, post['id'], 'TRANSLATION',
+                        '翻訳結果に日本語がない', truth_social_id=post.get('truth_social_id')
+                    )
                     save_processed(processed)
                     continue
         if translation == "RATE_LIMITED":
             log("Claude APIレート制限、残りの投稿は次回処理")
             # 未処理投稿のfpをprocessedから除去（次回リトライさせるため）
-            pending_fps = {p['fp'] for p in new_posts if p['id'] not in processed}
-            processed = [x for x in processed if x not in pending_fps]
+            pending_fps = {
+                p['fp'] for p in new_posts if p['id'] not in completed_entries
+            }
+            completed_entries[:] = [
+                entry for entry in completed_entries if entry not in pending_fps
+            ]
+            record_failure(
+                processed, post['id'], 'TRANSLATION',
+                'Claude APIレート制限', truth_social_id=post.get('truth_social_id')
+            )
             save_processed(processed)
             return
-        if not translation:
-            log("翻訳失敗、スキップ")
-            processed.append(post['id'])
+        if translation is None:
+            log("翻訳失敗、次回再試行")
+            record_failure(
+                processed, post['id'], 'TRANSLATION',
+                'Claude翻訳失敗', truth_social_id=post.get('truth_social_id')
+            )
             save_processed(processed)
             continue
         # Claude拒否メッセージ検出（「翻訳対象がない」系の応答を投稿しない）
@@ -1001,39 +1909,22 @@ def main():
         ]
         if any(phrase in translation for phrase in refusal_phrases):
             log(f"Claude拒否メッセージを検出、スキップ: {translation[:80]}")
-            processed.append(post['id'])
+            record_failure(
+                processed, post['id'], 'TRANSLATION',
+                f'Claude拒否: {translation[:120]}', truth_social_id=post.get('truth_social_id')
+            )
             save_processed(processed)
             continue
 
-        # 動画または画像をアップロード（動画優先）
-        video_blob = None
-        image_blobs = []
+        record_post_state(
+            processed, post['id'], post.get('media_state', MediaState.NO_MEDIA),
+            truth_social_id=post.get('truth_social_id'), translation=translation
+        )
+        save_processed(processed)
+
+        # メディアはClaude呼び出し前にアップロード済み。
         external_embed = None
         external_url = select_external_card_url(post['text'])
-        if post.get('video_url'):
-            try:
-                video_blob = upload_video_to_bsky(
-                    post['video_url'], did, token, pds_audience
-                )
-                log(f"動画アップロード成功: {post['video_url'][:60]}")
-            except Exception as e:
-                log(f"動画アップロード失敗（スキップ）: {e}")
-        else:
-            for url_pair in post.get('image_urls', []):
-                primary, fallback = url_pair if isinstance(url_pair, tuple) else (url_pair, None)
-                try:
-                    blob, aspect_ratio = upload_image_to_bsky(primary, did, token, fallback_url=fallback)
-                    image_blobs.append((blob, aspect_ratio))
-                    log(f"画像アップロード成功: {primary[:60]}")
-                except Exception as e:
-                    log(f"画像アップロード失敗（スキップ）: {e}")
-
-        # 元メディアが存在しない投稿だけリンクカードを使う。元メディアの取得・投稿に
-        # 失敗した投稿をカード画像へすり替えないことで、失敗を次回確認できるようにする。
-        has_source_media = bool(post.get('video_url') or post.get('image_urls'))
-        if should_retry_media_post(has_source_media, video_blob, image_blobs):
-            log("元メディアのアップロードに失敗、本文のみで投稿せず次回再試行")
-            continue
         if not video_blob and not image_blobs and external_url and not has_source_media:
             try:
                 external_embed = make_external_embed(external_url, did, token)
@@ -1053,10 +1944,100 @@ def main():
         log(f"Bluesky投稿中 ({len(chunks)}ポスト, {media_info}): {full_translation[:80]}...")
 
         try:
-            post_uri = post_to_bluesky(chunks, did, token, image_blobs, video_blob, external_embed)
+            latest_checkpoint = checkpoint
+            def persist_checkpoint(value):
+                nonlocal latest_checkpoint
+                latest_checkpoint = value
+                if isinstance(processed, dict):
+                    processed['posts'][post['id']]['thread_checkpoint'] = value
+                save_processed(processed)
+
+            post_uri = post_to_bluesky(
+                chunks, did, token, image_blobs, video_blob, external_embed,
+                checkpoint=checkpoint, source_id=post['id'],
+                checkpoint_callback=persist_checkpoint,
+            )
             log(f"投稿成功 (URI: {post_uri})")
+        except PartialThreadError as e:
+            record_failure(
+                processed, post['id'], 'POST',
+                f'Blueskyスレッド途中失敗: {e}',
+                truth_social_id=post.get('truth_social_id'),
+                thread_checkpoint=e.checkpoint,
+            )
+            save_processed(processed)
+            log(f"Blueskyスレッド途中失敗、次回途中から再開: {e}")
+            continue
         except Exception as e:
+            record_failure(
+                processed, post['id'], 'POST', f'Bluesky投稿失敗: {e}',
+                truth_social_id=post.get('truth_social_id')
+            )
+            save_processed(processed)
             log(f"Bluesky投稿エラー: {e}")
+            continue
+
+        root_uri = (
+            (latest_checkpoint or {}).get('root_ref', {}).get('uri') or post_uri
+        )
+        expected_kind = (
+            'video' if post.get('video_url') else
+            'images' if post.get('image_urls') else 'none'
+        )
+        verified = False
+        verify_reason = None
+        for attempt in range(4):
+            try:
+                verified, verify_reason = verify_published_embed(
+                    root_uri, expected_kind, len(post.get('image_urls', []))
+                )
+            except Exception as error:
+                verify_reason = str(error)
+            if verified:
+                break
+            if attempt < 3:
+                time.sleep(2)
+        if not verified:
+            root_rkey = (latest_checkpoint or {}).get('root_rkey')
+            root_record = (latest_checkpoint or {}).get('root_record')
+            if (root_rkey and root_record and verify_reason
+                    and ('画像embed' in verify_reason or '動画embed' in verify_reason)
+                    and begin_repair_attempt(processed, post['id'], save_processed)):
+                try:
+                    current = get_record(did, token, root_rkey)
+                    repaired = put_record(
+                        did, token, root_rkey, root_record,
+                        swap_record=current['cid'],
+                    )
+                    if repaired.get('uri'):
+                        root_uri = repaired['uri']
+                    verified, verify_reason = verify_published_embed(
+                        root_uri, expected_kind,
+                        len(post.get('image_urls', []))
+                    )
+                except Exception as error:
+                    verify_reason = str(error)
+        if not verified:
+            record_failure(
+                processed, post['id'], 'VERIFY',
+                f'投稿後embed確認待ち: {verify_reason}',
+                truth_social_id=post.get('truth_social_id'),
+                thread_checkpoint=latest_checkpoint,
+                root_uri=root_uri, expected_embed=expected_kind,
+                expected_images=len(post.get('image_urls', [])),
+                root_rkey=(latest_checkpoint or {}).get('root_rkey'),
+                root_record=(latest_checkpoint or {}).get('root_record'),
+                created_records=(latest_checkpoint or {}).get('created_records', []),
+            )
+            if verify_failure_is_terminal(verify_reason):
+                state = processed['posts'][post['id']]
+                delete_or_mark_alert(
+                    state, did, token,
+                    (latest_checkpoint or {}).get('created_records', []),
+                    verify_reason,
+                )
+            save_processed(processed)
+            log(f"投稿後embedを確認できず、完了扱いにしない: {verify_reason}")
             continue
 
         mark_post_processed(processed, post)
