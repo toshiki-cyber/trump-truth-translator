@@ -1887,14 +1887,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40800",
       "source_text": "<p>Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!</p><p>As the Chairwoman of the House Election Integrity Caucus, Claudia is an America First Fighter for Safeguarding our Cherished Right to Free and Fair Elections. She is working tirelessly to Grow the Economy, Cut Taxes and Regulations, Keep our Border SECURE, Strengthen our Military/Veterans, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, and Protect our always under siege Second Amendment.</p><p>Claudia Tenney has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 21:38:56 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-13T21:55:41.093137Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-13T22:51:02.193596Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40800",
       "first_seen": "2026-08-13T21:45:57.154040Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!\nAs the Chairwoman of the Hous",
-      "next_retry_at": "2026-08-13T22:05:41.093148Z",
+      "next_retry_at": "2026-08-13T23:11:02.193624Z",
       "truth_social_id": "117090362095600213"
     },
     "https://www.trumpstruth.org/statuses/40796": {
@@ -1907,14 +1907,20 @@
       "updated_at": "2026-08-13T22:05:43.772525Z"
     },
     "truth:117090430137678795": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40808",
       "source_text": "<p>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!</p><p>Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.</p><p>“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 21:56:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-13T22:05:43.772404Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40808"
+      "retry_count": 1,
+      "updated_at": "2026-08-13T22:51:02.850278Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40808",
+      "first_seen": "2026-08-13T22:51:02.850254Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
+      "next_retry_at": "2026-08-13T22:56:02.850287Z",
+      "truth_social_id": "117090430137678795"
     },
     "https://www.trumpstruth.org/statuses/40797": {
       "post_status": "DISCOVERED",
@@ -1926,24 +1932,36 @@
       "updated_at": "2026-08-13T22:15:46.097591Z"
     },
     "truth:117090504981894603": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40809",
       "source_text": "<p>It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressional District!<br /> <br />As a former Presidential Appointee at the U.S. Department of Commerce in my First Administration, Catalina has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation — She has truly been with us from the beginning! As your next Congresswoman, Catalina will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Catalina Lauf has my Complete and Total Endorsement to be the next Congresswoman from Florida’s 19th Congressional District — SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 22:15:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-13T22:20:39.686174Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40809"
+      "retry_count": 1,
+      "updated_at": "2026-08-13T22:51:03.629773Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40809",
+      "first_seen": "2026-08-13T22:51:03.629752Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressiona",
+      "next_retry_at": "2026-08-13T22:56:03.629781Z",
+      "truth_social_id": "117090504981894603"
     },
     "truth:117090549605403030": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40810",
       "source_text": "<p>It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New York’s 4th Congressional District!<br /> <br />As the Receiver of Taxes in America’s largest town, Jeanine knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Her opponent, Laura Gillen, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Jeanine Driscoll will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jeanine Driscoll has my Complete and Total Endorsement to be the next Representative from New York’s 4th Congressional District – SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 22:26:37 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-13T22:30:42.138650Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40810"
+      "retry_count": 1,
+      "updated_at": "2026-08-13T22:51:04.205411Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40810",
+      "first_seen": "2026-08-13T22:51:04.205390Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New Y",
+      "next_retry_at": "2026-08-13T22:56:04.205419Z",
+      "truth_social_id": "117090549605403030"
     }
   }
 }
