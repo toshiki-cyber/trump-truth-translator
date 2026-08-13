@@ -602,7 +602,10 @@
     "https://www.trumpstruth.org/statuses/40789",
     "fp:Sen. Sheldon Whitehouse backed laws to benefit wife’s company and their ‘financial interests’: ethics complaint: \nhttps://nypost.com/2024/03/06/us-new",
     "truth:117089256112970562",
-    "https://www.trumpstruth.org/statuses/40788"
+    "https://www.trumpstruth.org/statuses/40788",
+    "fp:BIG WIN today at the U.S. Court of International Trade on one of the most DESPICABLE loopholes in American Trade Policy — The so-called “de minimis” e",
+    "truth:117089653850664292",
+    "https://www.trumpstruth.org/statuses/40794"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1633,20 +1636,22 @@
       "next_retry_at": "2026-08-13T19:00:48.349343Z"
     },
     "truth:117089653850664292": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40794",
       "source_text": "<p>BIG WIN today at the U.S. Court of International Trade on one of the most DESPICABLE loopholes in American Trade Policy — The so-called “de minimis” exemption.<br /> <br />For years, Foreign Shippers could send packages worth up to $800 into our Country, DUTY FREE, NO TARIFF, far less scrutiny. It became a giant loophole for TARIFF Cheats — and a Pipeline exploited by Fentanyl Traffickers, Counterfeiters, and other Criminals shipping dangerous and illegal products into America. The numbers were staggering. In 2024 alone, de minimis cost America an estimated 10.8 BILLION DOLLRS in foregone TARIFF Revenue, and an astonishing share of narcotics and counterfeit seizures came through the de minimis channel. So, we CLOSED IT. With the stroke of my mighty pen — NO AUTOPEN!!! — we ended this ridiculous giveaway, and made Foreign Goods play by the rules. The Importers sued. Today, THEY LOST. The Court ruled that the President had the Legal Authority to rescind this so-called “privilege.”<br /> <br />America is now SAFER, our Workers are better protected, and BILLIONS in TARIFF Revenue that used to slip through this loophole can instead help pay for our Great Military, Tax Relief, NO TAX ON TIPS, and NO TAX ON SOCIAL SECURITY. AMERICA FIRST TRADE — AND AMERICA FIRST LAW ENFORCEMENT! President DONALD J. TRUMP</p>",
       "published": "Thu, 13 Aug 2026 18:38:49 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-13T18:50:42.129447Z",
+      "updated_at": "2026-08-13T19:00:50.358060Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40794",
       "first_seen": "2026-08-13T18:45:40.679894Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:BIG WIN today at the U.S. Court of International Trade on one of the most DESPICABLE loopholes in American Trade Policy — The so-called “de minimis” e",
-      "next_retry_at": "2026-08-13T19:00:42.129463Z",
-      "truth_social_id": "117089653850664292"
+      "truth_social_id": "117089653850664292",
+      "source_fingerprint": "fp:BIG WIN today at the U.S. Court of International Trade on one of the most DESPICABLE loopholes in American Trade Policy — The so-called “de minimis” e",
+      "media_identity": "attachment:117089653850664292:",
+      "translation": "【訳文】\n\n本日、米国国際貿易裁判所において、アメリカ通商政策における最も許しがたい抜け穴の一つ——いわゆる「少額免税」exemptionについて、大勝利を収めた。\n\n長年にわたり、外国の荷送人は最大800ドルの価値を持つ荷物を、関税免除、無関税で、より少ない検査でアメリカに送ることができた。それは関税詐欺師の巨大な抜け穴となり、フェンタニル密売人、偽造品製造人、その他の犯罪者が危険で違法な製品をアメリカに送り込むために悪用されたパイプラインとなった。その数字は驚異的だった。2024年だけでも、少額免税によってアメリカは推定108億ドルの関税収入を失い、麻薬押収と偽造品押収の驚異的なシェアが少額免税チャネルを通じてもたらされた。だから我々はそれを閉鎖した。私の強大なペンの一振りで——オートペンなしだ!!!——我々はこの馬鹿げた譲歩を終わらせ、外国製品にルールを守らせた。輸入業者は訴訟を起こした。本日、奴らは敗けた。裁判所は、大統領がこのいわゆる「特権」を廃止する法的権限を有していると判断した。\n\nアメリカはより安全になり、我々の労働者はより良い保護を受け、この抜け穴からかつてすり抜けていた数十億ドルの関税収入は、我々の偉大な軍隊、減税、チップへの課税なし、社会保障への課税なしのために支払うのを助けることができるようになった。アメリカ第一通商——そしてアメリカ第一法執行！ドナルド・J・トランプ大統領"
     }
   }
 }
