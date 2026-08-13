@@ -1616,6 +1616,21 @@
           "rkey": "3msy4h35ic2nu"
         }
       ]
+    },
+    "truth:117089599858913463": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40793",
+      "source_text": "<p></p>",
+      "published": "Thu, 13 Aug 2026 18:25:05 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-13T18:25:41.510859Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40793",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117089599858913463:2f647d000cf229e1.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/089/597/446/625/615/original/2f647d000cf229e1.mp4",
+      "truth_social_id": "117089599858913463",
+      "next_retry_at": "2026-08-13T18:30:41.510880Z"
     }
   }
 }
