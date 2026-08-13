@@ -1165,14 +1165,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40782",
       "source_text": "<p>MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections (Ronald Reagan was second!). Additionally, I won more votes than any Candidate in the State’s History! I LOVE Oklahoma, and Mike Mazzei has my COMPLETE and TOTAL Endorsement for Governor!</p><p>Meanwhile, his Runoff Election Opponent, Gentner Drummond, is a FAKE Republican, who donated to SLEEPY Joe Biden, and the totally corrupt and anti-American “Lincoln Project,” which is now in shambles because of their views on Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. In fact, the Lincoln Project’s top man and founder, John Weaver, sent unsolicited sexually provocative messages to 21 young men, and supposedly, a 14-year-old boy. Another one of their people, Steve Schmidt, a total loser who has gone down in flames, for lots of bad reasons, was one of the biggest proponents of the failed and highly disgraced Lincoln Project. This is what Drummond, and his equally Liberal wife, Wendy, supported at levels that are shameful and, frankly, that makes them both Radical Left Dumocrats. Additionally, he wants to dethrone a magnificent, Job producing, desperately needed, and brand new, Aluminum Plant that will be one of the best projects ever conceived or built, not only in the Great State of Oklahoma, but in the United States, itself. It will be one of the most successful Job creating Plants ever built in our Country. The group that’s doing it is extraordinarily wealthy and, if they don’t do it in Oklahoma, they have 20 other sites that would love to have them. Our Country needs Aluminum, and the beautiful Town of Inola, Oklahoma (which was very nice to me in all three Elections!), will be the primary beneficiary in terms of Jobs, Lower Taxes, and the funding of Schools. In addition, it helps our Country with regards to National Security — You can’t get Aluminum in the United States, and this Plant will go elsewhere if it’s not approved. Oklahoma can lead the way! Very simply, Mike Mazzei is for this desperately needed Job Producing Aluminum Plant. Drummond, for his own reasons, is not — He even SUED, unsuccessfully, to block it. It’s going to be the Biggest Aluminum Plant in the Country, and it’s all financed and done! It is a financial windfall for the State of Oklahoma, including what will be a major reduction in your Taxes!</p><p>Gentner Drummond has also stated publicly he had \"no opinion\" on the BOGUS IMPEACHMENT of a young and very handsome gentleman, named, President Donald J. Trump (ME!). All Republicans feel the opposite on the Dumocrat inspired Impeachment Hoax. Drummond even SUED to BLOCK a religious based charter school strongly supported by my Administration — Very troubling for Educational Freedom, and an outright attack on Christianity!</p><p>Drummond is not the right guy. He’s got a bad attitude, and he doesn’t stand for the Values of Oklahoma, which must VOTE FOR “MIKE MAZZEI FOR GOVERNOR,” on Tuesday, August 25th — MIKE WILL NEVER LET YOU DOWN! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 12 Aug 2026 22:42:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-13T00:05:41.749549Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-13T00:10:42.569155Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40782",
       "first_seen": "2026-08-13T00:05:41.749510Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections (Ronal",
-      "next_retry_at": "2026-08-13T00:10:41.749557Z",
+      "next_retry_at": "2026-08-13T00:20:42.569170Z",
       "truth_social_id": "117084949169827129"
     },
     "truth:117085013643913800": {
@@ -1218,6 +1218,21 @@
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it proper",
       "next_retry_at": "2026-08-13T00:10:56.794500Z"
+    },
+    "truth:117085266086570209": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/40786",
+      "source_text": "<p></p>",
+      "published": "Thu, 13 Aug 2026 00:02:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-13T00:10:44.314995Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40786",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117085266086570209:a128d8b02674c75f.mp4",
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/085/258/167/996/179/original/a128d8b02674c75f.mp4",
+      "truth_social_id": "117085266086570209",
+      "next_retry_at": "2026-08-13T00:15:44.315015Z"
     }
   }
 }
