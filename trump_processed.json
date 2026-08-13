@@ -580,7 +580,10 @@
     "https://www.trumpstruth.org/statuses/40782",
     "fp:I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for the Eighth Circuit! Lee is currently a distinguished",
     "truth:117085013643913800",
-    "https://www.trumpstruth.org/statuses/40784"
+    "https://www.trumpstruth.org/statuses/40784",
+    "fp:For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it proper",
+    "truth:117084962212047241",
+    "https://www.trumpstruth.org/statuses/40783"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1217,20 +1220,22 @@
       "next_retry_at": "2026-08-13T00:55:44.014365Z"
     },
     "truth:117084962212047241": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40783",
       "source_text": "<p>For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it properly done, until now. I am proud to announce that the House of Representatives has passed the Bill, and it has now gone to the Senate for final approval. People are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Be a Big Boost to Sports, Fitness, Tourism, Retail, and the Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change again. This is an issue that Republicans, Dumocrats, and Independents can unite behind. I am asking Republican Senators to PASS THE SUNSHINE PROTECTION ACT, ASAP. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Wed, 12 Aug 2026 22:45:40 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-13T00:30:45.947205Z",
+      "updated_at": "2026-08-13T00:50:56.278545Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40783",
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": null,
       "fingerprint": "fp:For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it proper",
-      "next_retry_at": "2026-08-13T00:50:45.947221Z",
       "first_seen": "2026-08-13T00:15:41.467928Z",
-      "no_media_confirmations": 2,
-      "truth_social_id": "117084962212047241"
+      "no_media_confirmations": 3,
+      "truth_social_id": "117084962212047241",
+      "source_fingerprint": "fp:For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it proper",
+      "media_identity": "attachment:117084962212047241:",
+      "translation": "長年にわたり、圧倒的多数のアメリカ国民が夏時間を恒久的にすることを求めてきたが、これまでどの政権もそれを適切に実現することができなかった。しかし今は違う。众議院がこの法案を可決し、上院の最終承認を待つ段階に至ったことを誇りを持って発表する。国民は年2回時計を変更することにうんざりしている。それは愚かで、不便であり、場合によっては非常に費用がかかる。時計塔を持つ都市や州、そして到達困難な場所では、数百万ドルの費用がかかる。最近の研究は、それが作り出す不安のために健康にも悪いことを示している。主要な医学、犯罪、経済研究により、半年ごとの時間変更をやめ、夜間に1時間多く自然採光を得ることで、強盗と殺人事件の減少、自動車事故の削減（特に歩行者が関わる事故！）、心臓疾患のリスク低下、脳卒中と季節性うつ病の減少、子どもが学校から家に帰る際の安全性向上、家族との時間増加、課外活動の強力な促進、スポーツ、フィットネス、観光、小売業、飲食業界への大きな後押し（などなど）、そして電気代の節約につながることが明らかになっている。なぜなら、誰もが追加の1時間の日光を享受することになるからだ。つまり、今のままにして、二度と変更しないということだ。これは共和党員、民主党員、無党派層が一致して支持できる問題だ。共和党上院議員に対し、日光保護法案を直ちに可決することを求める。本件へのご注視をありがとう！ドナルド・J・トランプ大統領"
     },
     "truth:117085266086570209": {
       "post_status": "BLOCKED",
