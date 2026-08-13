@@ -644,7 +644,10 @@
     "https://www.trumpstruth.org/statuses/40800",
     "fp:It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressiona",
     "truth:117090504981894603",
-    "https://www.trumpstruth.org/statuses/40814"
+    "https://www.trumpstruth.org/statuses/40814",
+    "fp:It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New Y",
+    "truth:117090549605403030",
+    "https://www.trumpstruth.org/statuses/40810"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1981,20 +1984,22 @@
       "translation": "フロリダ州第19下院選挙区の素晴らしい人々を代表して立候補している、アメリカ・ファースト愛国者のカタリナ・ラウフを支持することは、私にとって大変な栄誉である！\n\n私の第1期政権時にカタリナが商務省の大統領任命者として務めたことにより、彼女は州と国の素晴らしい人々のために強い成果をもたらす勇気と叡智を持つことを証明している。彼女は本当に最初から我々と一緒にいた！次期下院議員として、カタリナは経済を成長させ、税と規制を削減し、米国製品を推進し、米国のエネルギー支配を解放し、国境を守り、移民による犯罪を止め、我々の軍隊と退役軍人を支持し、選挙の完全性を推進し、常に攻撃を受けている我々の第2修正条項を守るために、ひたすら戦い続けるだろう。\n\nカタリナ・ラウフはフロリダ州第19下院選挙区の次期下院議員となるために、私の完全かつ全面的な支持を有している。彼女は絶対にあなたを裏切らない！"
     },
     "truth:117090549605403030": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40810",
       "source_text": "<p>It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New York’s 4th Congressional District!<br /> <br />As the Receiver of Taxes in America’s largest town, Jeanine knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Her opponent, Laura Gillen, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Jeanine Driscoll will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jeanine Driscoll has my Complete and Total Endorsement to be the next Representative from New York’s 4th Congressional District – SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 22:26:37 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-13T23:00:43.726877Z",
+      "updated_at": "2026-08-13T23:35:48.646642Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40810",
       "first_seen": "2026-08-13T22:51:04.205390Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New Y",
-      "next_retry_at": "2026-08-13T23:10:43.726893Z",
-      "truth_social_id": "117090549605403030"
+      "truth_social_id": "117090549605403030",
+      "source_fingerprint": "fp:It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New Y",
+      "media_identity": "attachment:117090549605403030:",
+      "translation": "私は大いなる栄誉を感じながら、ニューヨーク州第4下院選挙区の素晴らしい人々を代表するために立候補している、高く尊敬されるヘンプステッドタウン税務徴収官ジェニーン・ドリスコルの推薦をする。\n\nアメリカ最大の町の税務徴収官として、ジェニーンは経済を成長させ、素晴らしい雇用を創出し、税金と規制を削減し、アメリカ製を推進し、アメリカのエネルギー支配力を解き放つために必要なアメリカ第一政策を知っている。彼女の対抗馬ローラ・ギレンは、チップに対する非課税、残業に対する非課税、社会保障に対する非課税に反対票を投じた。そして、彼女とダモクラート（民主主義者）が権力を得るようなことがあれば、これらすべてのものは廃止されるだろう。彼女は大幅な増税、国境開放、男性が女性スポーツに参加すること、そして万人向けのトランスジェンダーを望んでいる。一方、ジェニーン・ドリスコルは、われわれの選挙を守り、国境を厳重に保護し、移民犯罪を止め、法と秩序を確保し、われわれの信じられないほど強力な軍隊と退役軍人を強化し、常に標的にされている修正第2条を守るために不屈の努力をするだろう。\n\nジェニーン・ドリスコルはニューヨーク州第4下院選挙区の次期代表に選ばれるために、私の完全かつ総合的な推薦を得ている。彼女はあなたを決して失望させることはない！"
     },
     "https://www.trumpstruth.org/statuses/40808": {
       "post_status": "DISCOVERED",
@@ -2004,6 +2009,15 @@
       "published": "Thu, 13 Aug 2026 21:56:14 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-13T23:25:41.806883Z"
+    },
+    "https://www.trumpstruth.org/statuses/40809": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40809",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressional District!<br /> <br />As a former Presidential Appointee at the U.S. Department of Commerce in my First Administration, Catalina has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation — She has truly been with us from the beginning! As your next Congresswoman, Catalina will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Catalina Lauf has my Complete and Total Endorsement to be the next Congresswoman from Florida’s 19th Congressional District — SHE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Thu, 13 Aug 2026 22:15:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-13T23:35:40.768239Z"
     }
   }
 }
