@@ -626,7 +626,10 @@
     "https://www.trumpstruth.org/statuses/40806",
     "fp:Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Commi",
     "truth:117090358709824586",
-    "https://www.trumpstruth.org/statuses/40804"
+    "https://www.trumpstruth.org/statuses/40804",
+    "fp:Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District!\n \nA",
+    "truth:117090359334104573",
+    "https://www.trumpstruth.org/statuses/40803"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1819,20 +1822,22 @@
       "translation": "ニコール・マリオタキス下院議員はニューヨーク州第11選挙区の素晴らしいチャンピオンだ!\n\n権力のある歳出委員会のメンバーとして、ニコールは素晴らしい雇用を生み出し、税金と規制を削減し、わが国の黄金期を推し進めるために必要なアメリカ第一政策を理解している。彼女はアメリカンエネルギーの支配的地位を確立すること、米国製を推進すること、国境をしっかり守ること、勇敢な軍人と退役軍人を強化すること、素晴らしいNYPDとNYFDを支持すること、そして常に標的にされている修正第2条を守ることに一生懸命取り組んでいる。\n\nニコール・マリオタキスは再選に向けて私の完全で全面的な支持を受けている - 彼女は絶対にあなたを失望させない!"
     },
     "truth:117090359334104573": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40803",
       "source_text": "<p>Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District!<br /> <br />A true America First Patriot, Mike is fighting hard to Grow our Economy, Create Jobs, Lower Taxes, Promote American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans and Law Enforcement, Defend our always under siege Second Amendment. Additionally, he worked tirelessly to successfully increase the SALT deduction for the Working Men and Women of the Great State of New York!<br /> <br />Mike is doing an outstanding job representing the Hudson Valley, and all of New York. Because of the excellent job he is doing, Mike has my Complete and Total Endorsement for Re-Election to New York’s 17th Congressional District – HE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 21:38:14 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-13T21:55:40.432536Z",
+      "updated_at": "2026-08-13T22:35:47.652403Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40803",
       "first_seen": "2026-08-13T21:45:55.129113Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District!\n \nA",
-      "next_retry_at": "2026-08-13T22:05:40.432546Z",
-      "truth_social_id": "117090359334104573"
+      "truth_social_id": "117090359334104573",
+      "source_fingerprint": "fp:Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District!\n \nA",
+      "media_identity": "attachment:117090359334104573:",
+      "translation": "マイク・ローラー下院議員はニューヨーク州第17議会地区の偉大な人々のための強力な擁護者であり、非常に有能な代表である！\n\n真のアメリカ・ファースト愛国者であるマイクは、経済成長、雇用創出、減税、アメリカンエネルギーの支配的地位の確立、国境の厳格な管理、勇敢な軍人・退役軍人および法執行機関への支援、常に脅威にさらされている修正第2条の擁護のために全力で戦っている。さらに、彼は偉大なニューヨーク州の労働者男女のためにSALT控除の引き上げに成功させるために尽力した！\n\nマイクはハドソン谷およびニューヨーク全域を代表する素晴らしい仕事をしている。彼が行っている優秀な仕事のおかげで、マイクはニューヨーク州第17議会地区への再選に向けて私の完全かつ全面的な支持を受けている――彼は決してあなたたちを失望させることはない！"
     },
     "truth:117090359948395719": {
       "post_status": "RETRY",
