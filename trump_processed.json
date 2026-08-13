@@ -632,7 +632,10 @@
     "https://www.trumpstruth.org/statuses/40803",
     "fp:It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressi",
     "truth:117090359948395719",
-    "https://www.trumpstruth.org/statuses/40802"
+    "https://www.trumpstruth.org/statuses/40802",
+    "fp:Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!\n \nNick serv",
+    "truth:117090360635773767",
+    "https://www.trumpstruth.org/statuses/40801"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1861,20 +1864,22 @@
       "translation": "ニューヨーク州第19地区の素晴らしい人々を代表するために立候補している信じられないほど優秀な候補者ピーター・オベラッカーを支持することは、私の大きな栄誉である。彼はジョシュ・ライリーと戦っているが、ライリーは真の急進左翼過激派であり、セントラルニューヨークの価値観を代表していない。ジョシュ・ライリーは開かれた国境を望み、男性が女性スポーツに参加することを望み、全員にトランスジェンダーを望み、警察の予算削減を望み、お前たちの第二修正条項、つまり銃を奪い去りたいのだ。残念なことに、彼は歴史上最大の減税に反対票を投じ、農村地域の医療制度を破壊しようと激しく戦った。農村地域の医療は、ニューヨーク州第19地区の大きな要因である。彼はホワイトハウスでスリーピー・ジョー・バイデンの顧問弁護士を務めた。それはうまくいったか？彼は急進左翼に完全にコントロールされており、彼らは心に留めているのは一つの目標だけである。我が国を破壊することだ！\n\n一方、ピーター・オベラッカーは非常に成功した「食肉市場」ビジネスマンであり、献身的な公務員であり、現在は州上院議員として、キャリアが「栄誉と勝利で満ちあふれている」コミュニティ貢献をしてきた。次期下院議員として、彼は経済を成長させ、税金と規制を削減し、アメリカのエネルギー支配力を解放し、国境を安全に保ち、移民犯罪を阻止し、法と秩序を確保し、我々の勇敢な軍隊と退役軍人を強化し、選挙の完全性を推進し、常に危機にさらされている第二修正条項を守るために不屈の努力をするだろう。\n\nピーター・オベラッカーは、ニューヨーク州第19地区の次の下院議員となるための、私の完全で全面的な支持を有している。彼はお前たちを決して失望させない！"
     },
     "truth:117090360635773767": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40801",
       "source_text": "<p>Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!<br /> <br />Nick served as the powerful Chairman of the New York Republican State Committee, prior to becoming a very distinguished and respected U.S. Congressman. A MAGA Warrior, who has been with us from the very beginning, Nick is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Nick Langworthy has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 21:38:34 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-13T21:55:40.815884Z",
+      "updated_at": "2026-08-13T22:45:48.998889Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40801",
       "first_seen": "2026-08-13T21:45:56.468035Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!\n \nNick serv",
-      "next_retry_at": "2026-08-13T22:05:40.815895Z",
-      "truth_social_id": "117090360635773767"
+      "truth_social_id": "117090360635773767",
+      "source_fingerprint": "fp:Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!\n \nNick serv",
+      "media_identity": "attachment:117090360635773767:",
+      "translation": "ニック・ラングワーシー下院議員は、アメリカ・ファースト愛国者であり、ニューヨーク州第23区民を素晴らしい形で代表するために懸命に働いている。\n\nニックは米国下院議員になる前に、ニューヨーク共和党州委員会の強力な委員長を務めていた。最初からわれわれと共にいたMAGA戦士であるニックは、われわれの経済を成長させ、税制と規制を削減し、米国製を推し進め、米国のエネルギー支配力を前進させ、われわれの国境をしっかりと守り、勇敢な軍人・退役軍人を支援し、常に脅威にさらされているわれわれの修正第2条を守るために懸命に取り組んでいる。\n\nニック・ラングワーシーは再選に向けて、私の完全で絶対的な支持を得ている — 彼は絶対にあなたたちを失望させることはない！"
     },
     "truth:117090362095600213": {
       "post_status": "RETRY",
