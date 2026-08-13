@@ -623,7 +623,10 @@
     "https://www.trumpstruth.org/statuses/40805",
     "fp:Congressman Andrew Garbarino is a Fierce Advocate for Long Island, and the Great People of New York’s 2nd Congressional District!\n \nAndrew has an incr",
     "truth:117090355067646771",
-    "https://www.trumpstruth.org/statuses/40806"
+    "https://www.trumpstruth.org/statuses/40806",
+    "fp:Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Commi",
+    "truth:117090358709824586",
+    "https://www.trumpstruth.org/statuses/40804"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1798,20 +1801,22 @@
       "translation": "ニューヨーク州第3地区の素晴らしい人々を代表するために立候補しているMAGA戦士マイク・リペトリを推薦できることは、私の大きな栄光である。彼が対峙するのは、開放国境を望み、女性スポーツに男性が参加することを認め、万人へのトランスジェンダー化を支持し、警察予算削減を求め、銃、つまり銃の没収を望む急進左翼の狂人であることが証明されている下院議員である。彼は合衆国憲法修正第2条に反対している。その名はトム・スオッツィであり、彼は我が国の歴史上最大の減税案に投票せず、SALTも含めて反対した。さらに、下院議員のみが持つインサイダー情報を使用して、彼はスキャンダラスに株式投資で莫大な資金を稼いだ。「ロングアイランド下院議員トム・スオッツィ、ペロシの株式ポートフォリオを35%のリターンで上回る」――ニューヨーク・ポスト紙。これはニューヨーク州第3地区が望むものではない。率直に言って、彼は下院に立候補するべきではなく、下院から除外されるべきである。\n\n一方、マイク・リペトリは非常に成功した弁護士であり、前ニューヨーク州議会議員であり、その人生をコミュニティへの奉仕に捧げてきた。次期下院議員として、マイクは経済成長のために不屈に戦い、米国のエネルギー支配を進め、税金と規制をカットし、米国製を推進し、国境をしっかり守り、移民犯罪を止め、法と秩序を確保し、軍隊、退役軍人、警察を支援し、常に包囲されている合衆国憲法修正第2条を守り、力による平和を確保する。\n\nマイク・リペトリはニューヨーク州第3地区の次期下院議員として、私の完全かつ全面的な支持を得ている。彼はあなたを決して失望させない！"
     },
     "truth:117090358709824586": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40804",
       "source_text": "<p>Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!<br /> <br />As a Member of the POWERFUL Ways &amp; Means Committee, Nicole knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age. She is working hard to Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Strengthen our Brave Military/Veterans, Champion the Incredible NYPD and NYFD, and Protect our always under siege Second Amendment.<br /> <br />Nicole Malliotakis has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 21:38:04 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-13T21:55:40.245523Z",
+      "updated_at": "2026-08-13T22:30:47.187975Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40804",
       "first_seen": "2026-08-13T21:45:54.450505Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Commi",
-      "next_retry_at": "2026-08-13T22:05:40.245533Z",
-      "truth_social_id": "117090358709824586"
+      "truth_social_id": "117090358709824586",
+      "source_fingerprint": "fp:Congresswoman Nicole Malliotakis is a Tremendous Champion for New York’s 11th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Commi",
+      "media_identity": "attachment:117090358709824586:",
+      "translation": "ニコール・マリオタキス下院議員はニューヨーク州第11選挙区の素晴らしいチャンピオンだ!\n\n権力のある歳出委員会のメンバーとして、ニコールは素晴らしい雇用を生み出し、税金と規制を削減し、わが国の黄金期を推し進めるために必要なアメリカ第一政策を理解している。彼女はアメリカンエネルギーの支配的地位を確立すること、米国製を推進すること、国境をしっかり守ること、勇敢な軍人と退役軍人を強化すること、素晴らしいNYPDとNYFDを支持すること、そして常に標的にされている修正第2条を守ることに一生懸命取り組んでいる。\n\nニコール・マリオタキスは再選に向けて私の完全で全面的な支持を受けている - 彼女は絶対にあなたを失望させない!"
     },
     "truth:117090359334104573": {
       "post_status": "RETRY",
@@ -1914,6 +1919,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-13T22:20:39.686174Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40809"
+    },
+    "truth:117090549605403030": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40810",
+      "source_text": "<p>It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New York’s 4th Congressional District!<br /> <br />As the Receiver of Taxes in America’s largest town, Jeanine knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Her opponent, Laura Gillen, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Jeanine Driscoll will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jeanine Driscoll has my Complete and Total Endorsement to be the next Representative from New York’s 4th Congressional District – SHE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Thu, 13 Aug 2026 22:26:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-13T22:30:42.138650Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40810"
     }
   }
 }
