@@ -571,7 +571,10 @@
     "https://www.trumpstruth.org/statuses/40776",
     "fp:Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
     "truth:117084809928280169",
-    "https://www.trumpstruth.org/statuses/40775"
+    "https://www.trumpstruth.org/statuses/40775",
+    "fp:Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!\n \n",
+    "truth:117084816241992634",
+    "https://www.trumpstruth.org/statuses/40769"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1139,20 +1142,22 @@
       "translation": "尊敬されるバイロン・ドナルズ下院議員がフロリダ州知事選に立候補している。フロリダ州は私が愛する州であり、2016年、2020年、2024年に大勝利を収めた州だ。\n\nバイロンのことは よく知っており、最高レベルの最も困難な場面で彼が試されるのを見てきた。彼は真の勝者だ！バイロンは素晴らしい妻エリカと3人の美しい息子がいる。彼らは彼を非常に誇りに思っている！知事として、バイロンは大きな声を持ち、私と密接に協力してアメリカ第一主義の議題を推し進める。彼は国境を安全に保つ、移民犯罪を止める、軍隊を強化する、退役軍人を守る、米国のエネルギー支配を進める、税金と規制を削減する、米国製を推進する、常に脅威にさらされている修正第2条を守るために、たゆまず戦うだろう。\n\nバイロン・ドナルズはフロリダ州の真に偉大で力強い知事となるであろう。彼は私の完全かつ全面的な支持を得ている！期日前投票は今進行中であり、選挙日は8月18日だ。バイロンに投票しろ — 彼は決して君たちを裏切らない！\n\n投票場所を探す：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084816241992634": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40769",
       "source_text": "<p>Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!<br /> <br />A fifth generation Floridian, Ashley served as State Attorney General for six years prior to becoming a very distinguished and well respected U.S. Senator. Ashley is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Ashley Moody has my Complete and Total Endorsement! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR ASHLEY — SHE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 12 Aug 2026 22:08:33 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-12T22:25:48.110770Z",
+      "updated_at": "2026-08-13T00:00:50.115493Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40769",
       "first_seen": "2026-08-12T22:16:31.331143Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!\n \n",
-      "next_retry_at": "2026-08-12T22:35:48.110787Z",
-      "truth_social_id": "117084816241992634"
+      "truth_social_id": "117084816241992634",
+      "source_fingerprint": "fp:Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!\n \n",
+      "media_identity": "attachment:117084816241992634:",
+      "translation": "アシュリー・ムーディ上院議員はフロリダ州の素晴らしい人々を代表するために素晴らしい仕事をしている。フロリダ州は私が愛する州であり、2016年、2020年、そして2024年に大勝利を収めた州だ！\n\n5代目のフロリダ州出身者であるアシュリーは、米国上院議員になる前に6年間州司法長官を務めた。非常に優れた、そして尊敬される上院議員だ。アシュリーは経済成長、減税と規制緩和、米国製品推進、米国エネルギーの優位性確立、国境の安全確保、移民犯罪や殺人犯、その他の犯罪人の違法入国阻止、軍隊と退役軍人の強化、そして常に攻撃を受けている修正第2条の防衛のために、絶え間なく働いている。\n\nアシュリー・ムーディは私の完全かつ全面的な支持を受けている！期日前投票は現在進行中であり、選挙日は8月18日だ。アシュリーに投票するために出かけろ — 彼女は決してお前たちを失望させない！\n\n投票所を探す：\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117084949169827129": {
       "post_status": "DISCOVERED",
