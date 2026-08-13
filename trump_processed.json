@@ -611,7 +611,10 @@
     "https://www.trumpstruth.org/statuses/40795",
     "fp:I am looking forward to being back in the Great State of New York tomorrow, where Highly Respected and very popular Nassau County Executive, Bruce Bla",
     "truth:117090336099006688",
-    "https://www.trumpstruth.org/statuses/40798"
+    "https://www.trumpstruth.org/statuses/40798",
+    "fp:Congressman Nick LaLota is doing a truly fantastic job representing the incredible people of New York’s 1st Congressional District!\n \nA Brave U.S. Nav",
+    "truth:117090354245525088",
+    "https://www.trumpstruth.org/statuses/40807"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1696,13 +1699,13 @@
       "translation": "明日、偉大なニューヨーク州に戻ることを楽しみにしている。そこでは高く尊敬され、非常に人気の高いナッサウ郡行政官ブルース・ブレイクマンが次期州知事を目指して立候補している！\n\nブルースはMAGA（アメリカを再び偉大に）の精神を貫いており、最初からずっと俺と共にいる。ナッサウ郡行政官として、彼はICE、国境警備隊、法執行機関の勇敢なヒーローたちと不屈の努力で協力し、われわれの国境をセキュアに保ち、移民犯罪を阻止し、コミュニティを守り、法と秩序を確保している。次期州知事として、ブルースは経済成長のために、増税とと規制を削減し、アメリカ製造を推進し、アメリカン・エネルギーの支配を掲げ、軍隊と退役軍人を強化し、選挙の完全性を進め、常に脅威にさらされている憲法修正第2条を守るために、全力で戦い続けるだろう。\n\nブルース・ブレイクマンは素晴らしい男であり、11月の大選挙に勝利し、躊躇なく、俺は彼のニューヨーク州知事候補に対して完全かつ全面的な支持を与える。ブルースはそれを再び偉大にし、決してお前たちを失望させない！ドナルド・J・トランプ大統領"
     },
     "truth:117090332873496775": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40797",
       "source_text": "<p>It is my Great Honor to endorse America First Patriot, Kailee Buller, who is running to represent the Fantastic People of New York’s 22nd Congressional District!<br /> <br />As the former Chief of Staff at the U.S. Department of Agriculture in my Administration, Kailee has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State, and our Nation. She has truly been with us from the beginning! Her opponent, John Mannion, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. No more Thanksgiving if John Mannion and the Dumocrats get in!<br /> <br />On the other hand, as your next Congresswoman, Kailee will work hard to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment.<br /> <br />Kailee Buller has my Complete and Total Endorsement to be the next Congresswoman from New York’s 22nd Congressional District — SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 21:31:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-13T22:00:46.269762Z",
+      "retry_count": 0,
+      "updated_at": "2026-08-13T22:05:43.772541Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40799",
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Kailee Buller, who is running to represent the Fantastic People of New York’s 22nd Congressiona",
@@ -1712,20 +1715,22 @@
       "truth_social_id": "117090332873496775"
     },
     "truth:117090354245525088": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40807",
       "source_text": "<p>Congressman Nick LaLota is doing a truly fantastic job representing the incredible people of New York’s 1st Congressional District!<br /> <br />A Brave U.S. Navy Veteran, Nick knows the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, he is fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Protect our always under siege Second Amendment. Additionally, he worked hard to successfully increase the SALT deduction for the Working Men and Women of the Great State of New York!<br /> <br />Nick LaLota has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 13 Aug 2026 21:36:56 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-13T21:55:39.647557Z",
+      "updated_at": "2026-08-13T22:05:50.857887Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40807",
       "first_seen": "2026-08-13T21:45:51.695260Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congressman Nick LaLota is doing a truly fantastic job representing the incredible people of New York’s 1st Congressional District!\n \nA Brave U.S. Nav",
-      "next_retry_at": "2026-08-13T22:05:39.647568Z",
-      "truth_social_id": "117090354245525088"
+      "truth_social_id": "117090354245525088",
+      "source_fingerprint": "fp:Congressman Nick LaLota is doing a truly fantastic job representing the incredible people of New York’s 1st Congressional District!\n \nA Brave U.S. Nav",
+      "media_identity": "attachment:117090354245525088:",
+      "translation": "ニック・ラロタ下院議員はニューヨーク州第1選挙区の素晴らしい国民を代表する本当に素晴らしい仕事をしている！\n\n海軍の勇敢な退役軍人であるニックは、我が国を防衛し、勇敢な軍人と退役軍人を支援し、強さによる平和を確保するために必要な知恵と勇気を知っている。議会では、彼は国境を厳重に守り、移民犯罪を停止し、法と秩序を確保し、経済を成長させ、税金と規制を削減し、米国のエネルギー支配を解放し、メイド・イン・ザ・USA を促進し、常に攻撃を受けている第2修正条項を保護するために、休みなく戦っている。さらに、彼は素晴らしいニューヨーク州の労働男性と女性のためにSALT控除を正常に増加させるために懸命に取り組んだ！\n\nニック・ラロタは再選に向けて私の完全かつ全面的な支持を得ている。彼はあなたを決して失望させない！"
     },
     "truth:117090355067646771": {
       "post_status": "RETRY",
@@ -1838,6 +1843,25 @@
       "fingerprint": "fp:Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!\nAs the Chairwoman of the Hous",
       "next_retry_at": "2026-08-13T22:05:41.093148Z",
       "truth_social_id": "117090362095600213"
+    },
+    "https://www.trumpstruth.org/statuses/40796": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40796",
+      "source_text": "<p>I am looking forward to being back in the Great State of New York tomorrow, where Highly Respected and very popular Nassau County Executive, Bruce Blakeman, is running to be the next Governor!<br /> <br />Bruce is MAGA all the way, and has been with me from the very beginning. As Nassau County Executive, he is working tirelessly with the Brave Heroes of ICE, Border Patrol, and Law Enforcement to Keep Our Border SECURE, Stop Migrant Crime, Safeguard our Community, and Ensure LAW AND ORDER. As your next Governor, Bruce will continue to fight hard to Grow the Economy, Cut Taxes, and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment!<br /> <br />Bruce Blakeman is a FANTASTIC guy, will win the big November Election and, without hesitation, has my Complete and Total Endorsement for Governor of the ONCE GREAT STATE OF NEW YORK. BRUCE WILL MAKE IT GREAT AGAIN, AND WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Thu, 13 Aug 2026 21:32:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-13T22:05:43.772525Z"
+    },
+    "truth:117090430137678795": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40808",
+      "source_text": "<p>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!</p><p>Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.</p><p>“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Thu, 13 Aug 2026 21:56:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-13T22:05:43.772404Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40808"
     }
   }
 }
