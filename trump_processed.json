@@ -641,7 +641,10 @@
     "https://www.trumpstruth.org/statuses/40811",
     "fp:Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!\nAs the Chairwoman of the Hous",
     "truth:117090362095600213",
-    "https://www.trumpstruth.org/statuses/40800"
+    "https://www.trumpstruth.org/statuses/40800",
+    "fp:It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressiona",
+    "truth:117090504981894603",
+    "https://www.trumpstruth.org/statuses/40814"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1960,20 +1963,22 @@
       "updated_at": "2026-08-13T22:15:46.097591Z"
     },
     "truth:117090504981894603": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40814",
-      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressional District!<br /> <br />As a former Presidential Appointee at the U.S. Department of Commerce in my First Administration, Catalina has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation — She has truly been with us from the beginning! As your next Congresswoman, Catalina will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Catalina Lauf has my Complete and Total Endorsement to be the next Congresswoman from Florida’s 19th Congressional District — SHE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Thu, 13 Aug 2026 23:14:40 +0000",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/40809",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressional District!<br /> <br />As a former Presidential Appointee at the U.S. Department of Commerce in my First Administration, Catalina has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation — She has truly been with us from the beginning! As your next Congresswoman, Catalina will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Catalina Lauf has my Complete and Total Endorsement to be the next Congresswoman from Florida’s 19th Congressional District — SHE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Thu, 13 Aug 2026 22:15:16 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-13T23:25:41.806808Z",
+      "updated_at": "2026-08-13T23:30:48.563267Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40814",
       "first_seen": "2026-08-13T22:51:03.629752Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressiona",
-      "next_retry_at": "2026-08-13T23:10:43.474973Z",
-      "truth_social_id": "117090504981894603"
+      "truth_social_id": "117090504981894603",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressiona",
+      "media_identity": "attachment:117090504981894603:",
+      "translation": "フロリダ州第19下院選挙区の素晴らしい人々を代表して立候補している、アメリカ・ファースト愛国者のカタリナ・ラウフを支持することは、私にとって大変な栄誉である！\n\n私の第1期政権時にカタリナが商務省の大統領任命者として務めたことにより、彼女は州と国の素晴らしい人々のために強い成果をもたらす勇気と叡智を持つことを証明している。彼女は本当に最初から我々と一緒にいた！次期下院議員として、カタリナは経済を成長させ、税と規制を削減し、米国製品を推進し、米国のエネルギー支配を解放し、国境を守り、移民による犯罪を止め、我々の軍隊と退役軍人を支持し、選挙の完全性を推進し、常に攻撃を受けている我々の第2修正条項を守るために、ひたすら戦い続けるだろう。\n\nカタリナ・ラウフはフロリダ州第19下院選挙区の次期下院議員となるために、私の完全かつ全面的な支持を有している。彼女は絶対にあなたを裏切らない！"
     },
     "truth:117090549605403030": {
       "post_status": "RETRY",
