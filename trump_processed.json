@@ -635,7 +635,10 @@
     "https://www.trumpstruth.org/statuses/40802",
     "fp:Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!\n \nNick serv",
     "truth:117090360635773767",
-    "https://www.trumpstruth.org/statuses/40801"
+    "https://www.trumpstruth.org/statuses/40801",
+    "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
+    "truth:117090430137678795",
+    "https://www.trumpstruth.org/statuses/40811"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -1964,20 +1967,22 @@
       "updated_at": "2026-08-13T22:05:43.772525Z"
     },
     "truth:117090430137678795": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40811",
-      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!</p><p>Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.</p><p>“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Thu, 13 Aug 2026 23:14:37 +0000",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/40808",
+      "source_text": "<p>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!</p><p>Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.</p><p>“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Thu, 13 Aug 2026 21:56:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-13T23:15:44.666960Z",
+      "updated_at": "2026-08-13T23:20:46.286688Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40811",
       "first_seen": "2026-08-13T22:51:02.850254Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
-      "next_retry_at": "2026-08-13T23:10:43.240740Z",
-      "truth_social_id": "117090430137678795"
+      "truth_social_id": "117090430137678795",
+      "source_fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
+      "media_identity": "attachment:117090430137678795:",
+      "translation": "州下院議員「MAGA」メグ・ワインバーガーはアメリカファースト愛国者であり、フロリダ州第94下院地区を素晴らしく代表している！\n\nメグはMAGA一筋で、最初からずっと我々と共にあり、アメリカファースト・アジェンダの推進を支援してくれている。州下院では、経済成長、増税・規制削減、アメリカン・エネルギー優位性の強化、アメリカ製品振興、国境厳格化、移民犯罪停止、軍隊・退役軍人強化、選挙保全、常に攻撃にさらされている修正第2条の防衛に懸命に取り組んでいる。\n\n「MAGA」メグ・ワインバーガーは再選に向けて私の完全かつ全面的支持を得ている――彼女は絶対にお前たちを失望させない！"
     },
     "https://www.trumpstruth.org/statuses/40797": {
       "post_status": "DISCOVERED",
