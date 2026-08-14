@@ -653,7 +653,10 @@
     "https://www.trumpstruth.org/statuses/40815",
     "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
     "truth:117091934703272898",
-    "https://www.trumpstruth.org/statuses/40816"
+    "https://www.trumpstruth.org/statuses/40816",
+    "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
+    "truth:117093801058115505",
+    "https://www.trumpstruth.org/statuses/40817"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2148,105 +2151,22 @@
       ]
     },
     "truth:117093801058115505": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40817",
       "source_text": "<p>Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: <a href=\"https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsmax-tv/scott-b</span><span class=\"invisible\">essent-iran-economic/2026/08/13/id/1266059/</span></a></p>",
       "published": "Fri, 14 Aug 2026 12:13:30 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-14T12:41:10.178628Z",
+      "updated_at": "2026-08-14T12:50:42.849612Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40817",
       "first_seen": "2026-08-14T12:20:52.503855Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
       "truth_social_id": "117093801058115505",
       "source_fingerprint": "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
       "media_identity": "attachment:117093801058115505:",
       "translation": "ベッセント財務長官がニューズマックスで語る：米国がイランに前代未聞の経済的孤立を科す：\nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt24zusja2yr",
-          "cid": "bafyreie66pjbyj74t6mev6b2e4pjendywsjx6xdkls2gzhpn63fu5g2bbm"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt24zusja2yr",
-          "cid": "bafyreie66pjbyj74t6mev6b2e4pjendywsjx6xdkls2gzhpn63fu5g2bbm"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt24zusja2yr",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ベッセント財務長官がニューズマックスで語る：米国がイランに前代未聞の経済的孤立を科す：\nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-          "createdAt": "2026-08-14T12:41:02.230339Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 130,
-                "byteEnd": 215
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-              "title": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-              "description": ""
-            }
-          }
-        },
-        "root_rkey": "3mt24zusja2yr",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ベッセント財務長官がニューズマックスで語る：米国がイランに前代未聞の経済的孤立を科す：\nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-          "createdAt": "2026-08-14T12:41:02.230339Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 130,
-                "byteEnd": 215
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-              "title": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-              "description": ""
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt24zusja2yr",
-            "rkey": "3mt24zusja2yr"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt24zusja2yr",
       "expected_embed": "none",
       "expected_images": 0,
@@ -2288,9 +2208,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt24zusja2yr",
           "rkey": "3mt24zusja2yr"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-14T12:46:10.178644Z"
+      ]
     }
   }
 }
