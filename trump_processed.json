@@ -659,7 +659,10 @@
     "https://www.trumpstruth.org/statuses/40817",
     "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
     "truth:117093953604941841",
-    "https://www.trumpstruth.org/statuses/40818"
+    "https://www.trumpstruth.org/statuses/40818",
+    "fp:I am pleased to announce the nomination of Samuel D. Adkisson to serve as a Judge on the U.S. District Court for the Eastern District of Tennessee. Sa",
+    "truth:117094657744873324",
+    "https://www.trumpstruth.org/statuses/40819"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2250,20 +2253,22 @@
       ]
     },
     "truth:117094657744873324": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40819",
       "source_text": "<p>I am pleased to announce the nomination of Samuel D. Adkisson to serve as a Judge on the U.S. District Court for the Eastern District of Tennessee. Sam is currently a Special Assistant in my White House Counsel’s Office, where he has done an incredible job, and worked on numerous important cases, including our Historic Win in the Slaughter case. Sam previously worked as an attorney in private practice, and for the Senate Judiciary Committee during Justice Kavanaugh’s successful confirmation. Sam was a top student at Vanderbilt University and Yale Law School, and clerked for the Chief Justice of the United States Supreme Court, John G. Roberts, Jr., and Federal Appeals Court Judges, Gregory Katsas and Amul Thapar. Sam has exemplified Wisdom and Courage, loves the Constitution, and will always defend the wonderful people of Tennessee. Congratulations Sam! President DONALD J. TRUMP</p>",
       "published": "Fri, 14 Aug 2026 15:51:22 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-14T16:00:48.214260Z",
+      "updated_at": "2026-08-14T16:15:48.120141Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40819",
       "first_seen": "2026-08-14T15:55:43.164282Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am pleased to announce the nomination of Samuel D. Adkisson to serve as a Judge on the U.S. District Court for the Eastern District of Tennessee. Sa",
-      "next_retry_at": "2026-08-14T16:10:48.214275Z",
-      "truth_social_id": "117094657744873324"
+      "truth_social_id": "117094657744873324",
+      "source_fingerprint": "fp:I am pleased to announce the nomination of Samuel D. Adkisson to serve as a Judge on the U.S. District Court for the Eastern District of Tennessee. Sa",
+      "media_identity": "attachment:117094657744873324:",
+      "translation": "私は、サミュエル・D・アディソンを合衆国テネシー州東部地区地方裁判所の判事として指名することを発表できて嬉しい。サムは現在、私のホワイトハウス顧問室の特別補佐官を務めており、そこで素晴らしい仕事をしてきた。また、私たちの歴史的な勝利である「Slaughter判決」を含む多くの重要な案件に携わってきた。サムは以前、民間弁護士事務所で働いており、また、カバナー判事の確認公聴会が成功した際には上院司法委員会でも勤務していた。サムはバンダービルト大学とイェール・ロー・スクールの優秀な学生であり、アメリカ合衆国最高裁判所のジョン・G・ロバーツ・ジュニア首席判事および連邦控訴裁判所のグレゴリー・カッツァス判事とアムル・タパル判事の法廷書記官を務めた。サムは知恵と勇気を示してきた。彼は合衆国憲法を愛し、テネシー州の素晴らしい国民をいつも擁護するだろう。おめでとう、サム！ ドナルド・J・トランプ大統領"
     },
     "truth:117094666045900162": {
       "post_status": "RETRY",
