@@ -682,7 +682,10 @@
     "https://www.trumpstruth.org/statuses/40827",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
     "truth:117095859868018432",
-    "https://www.trumpstruth.org/statuses/40826"
+    "https://www.trumpstruth.org/statuses/40826",
+    "fp:Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Sena",
+    "truth:117096016166324267",
+    "https://www.trumpstruth.org/statuses/40830"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2536,6 +2539,48 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
       "truth_social_id": "117095859868018432",
       "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank ラッセル、君へ。君の前には大きな未来が待っている！"
+    },
+    "truth:117096010342291503": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40828",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State of New York. Between Kathy Hochul and the Most Corrupt Attorney General in the Country, Letitia James, it has gone to HELL! Saritha is strongly supported by the Greatest MAGA Warriors in New York, including my friend, and Republican Nominee for Governor, Bruce Blakeman!<br /> <br />As a former Federal Prosecutor, Chief of Staff of the Drug Enforcement Administration, Law Clerk for then-Judge Brett Kavanaugh, and a distinguished Harvard Law School graduate, with Honors, Saritha has proven she has the Courage and Wisdom to deliver strong results for the incredible people of New York City and State. Her opponent, the totally corrupt, unlawful, and incompetent, Letitia “Peekaboo” James, is considered by many to be the WORST Attorney General in our Country. She is a Complete and Total Disaster, who tried running against Kathy Hochul for Governor, and got less than 1% of the Vote in the Polls, and QUIT, taking many innocent suckers down with her. She then went back to her WITCH HUNT against your favorite President, (ME!), and others, yet Murder and other Violent Crime is RAGING OUT OF CONTROL in New York, as People and Businesses flee, in Record Numbers, to other States!<br /> <br />On the other hand, as your next Attorney General, Saritha Komatireddy will fight tirelessly to Ensure LAW AND ORDER, Grow our Economy, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Defend our always under siege Second Amendment.<br /> <br />Vote against the Most Corrupt Attorney General in the Country, Peekaboo James — Vote for Saritha Komatireddy, who has my Complete and Total Endorsement to be the next Attorney General of New York. SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 14 Aug 2026 21:35:21 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-14T21:40:41.927670Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40828",
+      "first_seen": "2026-08-14T21:40:41.927637Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
+      "next_retry_at": "2026-08-14T21:45:41.927677Z",
+      "truth_social_id": "117096010342291503"
+    },
+    "truth:117096016166324267": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/40830",
+      "source_text": "<p>Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources.<br /> <br />Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than “TRUMP,” including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment.<br /> <br />Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named “Dan Sullivan,” and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to “trick” Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don’t be fooled. The Senator you want to vote for is:<br /> <br />“SULLIVAN, DAN S. — REGISTERED REPUBLICAN/INCUMBENT”<br /> <br />“SULLIVAN, DAN S” has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 14 Aug 2026 21:36:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-14T21:40:51.012756Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40830",
+      "source_fingerprint": "fp:Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Sena",
+      "media_identity": "attachment:117096016166324267:043abbaf6860f37e.png",
+      "failure_reason": null,
+      "fingerprint": "fp:Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Sena",
+      "truth_social_id": "117096016166324267",
+      "translation": "ダン・サリバン上院議員はアラスカ州を代表するために素晴らしい仕事をしている！州司法長官およびアラスカ州天然資源局長として極めて著名で高く尊敬される上院議員となる前に、ダンは務めてきた。\n\nダンは素晴らしい男であり、アラスカのために常に実績を出してきた（私は2016年、2020年、2024年に大きな差で3度アラスカを制覇した！）。そして米国上院でも引き続き実績を出し続けるだろう。11隻の新しい北極圏セキュリティカッター砕氷船を確保したばかりで、それは40年以上ぶりにそうした船を購入したことであり、アラスカのためにトランプ以上のことをした者はいない。ダン・サリバンはずっと私たちと一緒にいた。彼は経済成長、減税、規制撤廃のために全力で戦っており、非常に安全な（記録的に安全な！）国境の確保を支援し、信じられないほどの軍隊と退役軍人を支持し、ガソリン、石油、およびあらゆる形のエネルギーの価格を非常に低く保つことで米国のエネルギー支配の発展を進め、常に包囲された修正第2条を擁護している。\n\n投票のトリックのために、不正で急進左翼の民主党員は「ダン・サリバン」という別の男を立てた。彼らはこれを同じ名前の素晴らしい上院議員から票を奪うためにやった。民主党員たちはアラスカ州民を「だまそう」とし、アラスカ州の有権者を侮辱している。8月18日の火曜日に、アラスカ州民よ、だまされるな。あなたが投票したい上院議員は以下の通りだ：\n\n「サリバン、ダン・エス — 登録共和党員/現職」\n\n「サリバン、ダン・エス」は再選について私の完全で全面的な支持を持っている — 彼はあなたを失望させない！ドナルド・J・トランプ大統領"
+    },
+    "truth:117096018469681239": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40829",
+      "source_text": "<p>Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interesting is happening in New York State! He is a great person, a great politician and, if elected, will be the best Governor in the History of New York! President DONALD J. TRUMP</p>",
+      "published": "Fri, 14 Aug 2026 21:37:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-14T21:40:40.662013Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40829"
     }
   }
 }
