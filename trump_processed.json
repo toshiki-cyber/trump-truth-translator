@@ -2209,6 +2209,22 @@
           "rkey": "3mt24zusja2yr"
         }
       ]
+    },
+    "truth:117093953604941841": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40818",
+      "source_text": "<p>Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II. First the Reflecting Pool, now this. We are on their trail! Where do these animals come from??? President DJT</p>",
+      "published": "Fri, 14 Aug 2026 12:52:18 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-14T12:55:45.020037Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40818",
+      "first_seen": "2026-08-14T12:55:45.020002Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
+      "next_retry_at": "2026-08-14T13:00:45.020046Z",
+      "truth_social_id": "117093953604941841"
     }
   }
 }
