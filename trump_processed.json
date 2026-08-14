@@ -2319,7 +2319,7 @@
       "published": "Fri, 14 Aug 2026 17:08:58 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-14T18:26:00.138880Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40823",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40822",
       "first_seen": "2026-08-14T17:40:41.290604Z",
       "no_media_confirmations": 4,
       "failure_reason": null,
@@ -2676,9 +2676,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-14T18:36:26.796944Z"
-    },
-    "url:https://www.trumpstruth.org/statuses/40822": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40822"
     }
   }
 }
