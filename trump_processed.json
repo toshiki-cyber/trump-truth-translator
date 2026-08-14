@@ -679,7 +679,10 @@
     "https://www.trumpstruth.org/statuses/40825",
     "fp:SOUTH CAROLINA: GET OUT AND VOTE FOR DARLINE GRAHAM ON TUESDAY, AUGUST 25TH. DARLINE HAS MY COMPLETE AND TOTAL ENDORSEMENT — SHE WILL NEVER LET YOU DO",
     "truth:117095859215373810",
-    "https://www.trumpstruth.org/statuses/40827"
+    "https://www.trumpstruth.org/statuses/40827",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
+    "truth:117095859868018432",
+    "https://www.trumpstruth.org/statuses/40826"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2519,14 +2522,20 @@
       "translation": "サウスカロライナ州：8月25日火曜日にダーリン・グラハムに投票しよう。ダーリン・グラハムは私の完全かつ全面的な支持を得ている――彼女は決して君たちを失望させることはない！ドナルド・J・トランプ大統領"
     },
     "truth:117095859868018432": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40826",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810</span>Thank you Russell — You have a big future ahead of you!</p>",
       "published": "Fri, 14 Aug 2026 20:57:05 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-14T21:00:42.580744Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40826"
+      "updated_at": "2026-08-14T21:05:46.310634Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40826",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
+      "media_identity": "attachment:117095859868018432:7252f28cd769bcab.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
+      "truth_social_id": "117095859868018432",
+      "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank ラッセル、君へ。君の前には大きな未来が待っている！"
     }
   }
 }
