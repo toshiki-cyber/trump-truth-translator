@@ -2309,13 +2309,13 @@
       "translation": ""
     },
     "truth:117094962881202991": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40823",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117094657744873324</span>Sam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation.</p><p>He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist.</p><p>President Trump hit a grand-slam by picking Sam for a lifetime appointment to the federal bench in Tennessee.</p>",
       "published": "Fri, 14 Aug 2026 17:08:58 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-14T17:51:02.898184Z",
+      "retry_count": 0,
+      "updated_at": "2026-08-14T17:55:41.354195Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40822",
       "first_seen": "2026-08-14T17:40:41.290604Z",
       "no_media_confirmations": 2,
