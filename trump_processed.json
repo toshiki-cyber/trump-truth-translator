@@ -2248,6 +2248,22 @@
           "rkey": "3mt277annas36"
         }
       ]
+    },
+    "truth:117094657744873324": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40819",
+      "source_text": "<p>I am pleased to announce the nomination of Samuel D. Adkisson to serve as a Judge on the U.S. District Court for the Eastern District of Tennessee. Sam is currently a Special Assistant in my White House Counsel’s Office, where he has done an incredible job, and worked on numerous important cases, including our Historic Win in the Slaughter case. Sam previously worked as an attorney in private practice, and for the Senate Judiciary Committee during Justice Kavanaugh’s successful confirmation. Sam was a top student at Vanderbilt University and Yale Law School, and clerked for the Chief Justice of the United States Supreme Court, John G. Roberts, Jr., and Federal Appeals Court Judges, Gregory Katsas and Amul Thapar. Sam has exemplified Wisdom and Courage, loves the Constitution, and will always defend the wonderful people of Tennessee. Congratulations Sam! President DONALD J. TRUMP</p>",
+      "published": "Fri, 14 Aug 2026 15:51:22 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-14T15:55:43.164314Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40819",
+      "first_seen": "2026-08-14T15:55:43.164282Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I am pleased to announce the nomination of Samuel D. Adkisson to serve as a Judge on the U.S. District Court for the Eastern District of Tennessee. Sa",
+      "next_retry_at": "2026-08-14T16:00:43.164323Z",
+      "truth_social_id": "117094657744873324"
     }
   }
 }
