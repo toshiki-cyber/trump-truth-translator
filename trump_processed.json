@@ -2573,14 +2573,20 @@
       "translation": "ダン・サリバン上院議員はアラスカ州を代表するために素晴らしい仕事をしている！州司法長官およびアラスカ州天然資源局長として極めて著名で高く尊敬される上院議員となる前に、ダンは務めてきた。\n\nダンは素晴らしい男であり、アラスカのために常に実績を出してきた（私は2016年、2020年、2024年に大きな差で3度アラスカを制覇した！）。そして米国上院でも引き続き実績を出し続けるだろう。11隻の新しい北極圏セキュリティカッター砕氷船を確保したばかりで、それは40年以上ぶりにそうした船を購入したことであり、アラスカのためにトランプ以上のことをした者はいない。ダン・サリバンはずっと私たちと一緒にいた。彼は経済成長、減税、規制撤廃のために全力で戦っており、非常に安全な（記録的に安全な！）国境の確保を支援し、信じられないほどの軍隊と退役軍人を支持し、ガソリン、石油、およびあらゆる形のエネルギーの価格を非常に低く保つことで米国のエネルギー支配の発展を進め、常に包囲された修正第2条を擁護している。\n\n投票のトリックのために、不正で急進左翼の民主党員は「ダン・サリバン」という別の男を立てた。彼らはこれを同じ名前の素晴らしい上院議員から票を奪うためにやった。民主党員たちはアラスカ州民を「だまそう」とし、アラスカ州の有権者を侮辱している。8月18日の火曜日に、アラスカ州民よ、だまされるな。あなたが投票したい上院議員は以下の通りだ：\n\n「サリバン、ダン・エス — 登録共和党員/現職」\n\n「サリバン、ダン・エス」は再選について私の完全で全面的な支持を持っている — 彼はあなたを失望させない！ドナルド・J・トランプ大統領"
     },
     "truth:117096018469681239": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40829",
       "source_text": "<p>Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interesting is happening in New York State! He is a great person, a great politician and, if elected, will be the best Governor in the History of New York! President DONALD J. TRUMP</p>",
       "published": "Fri, 14 Aug 2026 21:37:25 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-14T21:40:40.662013Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40829"
+      "retry_count": 1,
+      "updated_at": "2026-08-14T21:45:40.561301Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40829",
+      "first_seen": "2026-08-14T21:45:40.561265Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interestin",
+      "next_retry_at": "2026-08-14T21:50:40.561311Z",
+      "truth_social_id": "117096018469681239"
     }
   }
 }
