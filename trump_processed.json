@@ -2146,6 +2146,22 @@
           "rkey": "3mszcj5rcqcz5"
         }
       ]
+    },
+    "truth:117093801058115505": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40817",
+      "source_text": "<p>Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: <a href=\"https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsmax-tv/scott-b</span><span class=\"invisible\">essent-iran-economic/2026/08/13/id/1266059/</span></a></p>",
+      "published": "Fri, 14 Aug 2026 12:13:30 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-14T12:20:52.503887Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40817",
+      "first_seen": "2026-08-14T12:20:52.503855Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
+      "next_retry_at": "2026-08-14T12:25:52.503896Z",
+      "truth_social_id": "117093801058115505"
     }
   }
 }
