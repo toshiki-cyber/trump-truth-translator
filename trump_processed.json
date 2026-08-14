@@ -656,7 +656,10 @@
     "https://www.trumpstruth.org/statuses/40816",
     "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
     "truth:117093801058115505",
-    "https://www.trumpstruth.org/statuses/40817"
+    "https://www.trumpstruth.org/statuses/40817",
+    "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
+    "truth:117093953604941841",
+    "https://www.trumpstruth.org/statuses/40818"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2211,57 +2214,22 @@
       ]
     },
     "truth:117093953604941841": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40818",
       "source_text": "<p>Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II. First the Reflecting Pool, now this. We are on their trail! Where do these animals come from??? President DJT</p>",
       "published": "Fri, 14 Aug 2026 12:52:18 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-14T13:15:52.846670Z",
+      "updated_at": "2026-08-14T13:25:41.686561Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40818",
       "first_seen": "2026-08-14T12:55:45.020002Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
       "truth_social_id": "117093953604941841",
       "source_fingerprint": "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
       "media_identity": "attachment:117093953604941841:",
       "translation": "我々の美しい第二次世界大戦メモリアルが、スプレーペイント破壊者によって襲われたばかりだ。第二次世界大戦で亡くなったアメリカの英雄たちへの侮辱として、これ以上のものはない。まずリフレクティングプール、今度はこれだ。我々は奴らの行跡を追っている！こんな野蛮人どもはどこから来るんだ？？？ トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt277annas36",
-          "cid": "bafyreig3m23x7xzmznaifwmrpj2b2tyd2lwwasg257fzmiy5b7fzacsrsm"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt277annas36",
-          "cid": "bafyreig3m23x7xzmznaifwmrpj2b2tyd2lwwasg257fzmiy5b7fzacsrsm"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt277annas36",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "我々の美しい第二次世界大戦メモリアルが、スプレーペイント破壊者によって襲われたばかりだ。第二次世界大戦で亡くなったアメリカの英雄たちへの侮辱として、これ以上のものはない。まずリフレクティングプール、今度はこれだ。我々は奴らの行跡を追っている！こんな野蛮人どもはどこから来るんだ？？？ トランプ大統領",
-          "createdAt": "2026-08-14T13:15:46.439678Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mt277annas36",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "我々の美しい第二次世界大戦メモリアルが、スプレーペイント破壊者によって襲われたばかりだ。第二次世界大戦で亡くなったアメリカの英雄たちへの侮辱として、これ以上のものはない。まずリフレクティングプール、今度はこれだ。我々は奴らの行跡を追っている！こんな野蛮人どもはどこから来るんだ？？？ トランプ大統領",
-          "createdAt": "2026-08-14T13:15:46.439678Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt277annas36",
-            "rkey": "3mt277annas36"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt277annas36",
       "expected_embed": "none",
       "expected_images": 0,
@@ -2279,9 +2247,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt277annas36",
           "rkey": "3mt277annas36"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-14T13:20:52.846682Z"
+      ]
     }
   }
 }
