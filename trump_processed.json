@@ -662,7 +662,10 @@
     "https://www.trumpstruth.org/statuses/40818",
     "fp:I am pleased to announce the nomination of Samuel D. Adkisson to serve as a Judge on the U.S. District Court for the Eastern District of Tennessee. Sa",
     "truth:117094657744873324",
-    "https://www.trumpstruth.org/statuses/40819"
+    "https://www.trumpstruth.org/statuses/40819",
+    "fp:I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody. Kevin was kidnapped by Jihadi terrorist",
+    "truth:117094666045900162",
+    "https://www.trumpstruth.org/statuses/40820"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2271,20 +2274,22 @@
       "translation": "私は、サミュエル・D・アディソンを合衆国テネシー州東部地区地方裁判所の判事として指名することを発表できて嬉しい。サムは現在、私のホワイトハウス顧問室の特別補佐官を務めており、そこで素晴らしい仕事をしてきた。また、私たちの歴史的な勝利である「Slaughter判決」を含む多くの重要な案件に携わってきた。サムは以前、民間弁護士事務所で働いており、また、カバナー判事の確認公聴会が成功した際には上院司法委員会でも勤務していた。サムはバンダービルト大学とイェール・ロー・スクールの優秀な学生であり、アメリカ合衆国最高裁判所のジョン・G・ロバーツ・ジュニア首席判事および連邦控訴裁判所のグレゴリー・カッツァス判事とアムル・タパル判事の法廷書記官を務めた。サムは知恵と勇気を示してきた。彼は合衆国憲法を愛し、テネシー州の素晴らしい国民をいつも擁護するだろう。おめでとう、サム！ ドナルド・J・トランプ大統領"
     },
     "truth:117094666045900162": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40820",
       "source_text": "<p>I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody. Kevin was kidnapped by Jihadi terrorists in West Africa — The epicenter of Islamist terrorism, where there have been more deadly attacks in the past year than anywhere else on Earth. Kevin, the United States of America looks forward to welcoming you HOME. Glad to have helped! President DONALD J. TRUMP</p>",
       "published": "Fri, 14 Aug 2026 15:53:29 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-14T16:25:45.212205Z",
+      "updated_at": "2026-08-14T16:45:53.802196Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40820",
       "first_seen": "2026-08-14T16:00:48.738369Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody. Kevin was kidnapped by Jihadi terrorist",
-      "next_retry_at": "2026-08-14T16:45:45.212219Z",
-      "truth_social_id": "117094666045900162"
+      "truth_social_id": "117094666045900162",
+      "source_fingerprint": "fp:I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody. Kevin was kidnapped by Jihadi terrorist",
+      "media_identity": "attachment:117094666045900162:",
+      "translation": "素晴らしいキリスト教宣教師ケビン・ライドアウトがアメリカの管理下に戻ったことを誇りを持って発表する。ケビンはイスラム主義テロの中心地である西アフリカでジハード系テロリストに誘拐されていた。西アフリアでは地球上のどこよりも過去1年間に致命的な攻撃が多く発生している。ケビン、アメリカはあなたが家に帰ることを待ちわびている。手助けできて良かった！大統領ドナルド・J・トランプ"
     },
     "truth:117094712892535488": {
       "post_status": "RETRY",
