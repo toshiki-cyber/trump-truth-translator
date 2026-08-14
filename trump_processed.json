@@ -665,7 +665,9 @@
     "https://www.trumpstruth.org/statuses/40819",
     "fp:I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody. Kevin was kidnapped by Jihadi terrorist",
     "truth:117094666045900162",
-    "https://www.trumpstruth.org/statuses/40820"
+    "https://www.trumpstruth.org/statuses/40820",
+    "truth:117094712892535488",
+    "https://www.trumpstruth.org/statuses/40821"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2292,19 +2294,49 @@
       "translation": "素晴らしいキリスト教宣教師ケビン・ライドアウトがアメリカの管理下に戻ったことを誇りを持って発表する。ケビンはイスラム主義テロの中心地である西アフリカでジハード系テロリストに誘拐されていた。西アフリアでは地球上のどこよりも過去1年間に致命的な攻撃が多く発生している。ケビン、アメリカはあなたが家に帰ることを待ちわびている。手助けできて良かった！大統領ドナルド・J・トランプ"
     },
     "truth:117094712892535488": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40821",
       "source_text": "<p></p>",
       "published": "Fri, 14 Aug 2026 16:05:24 +0000",
       "retry_count": 4,
-      "updated_at": "2026-08-14T16:50:45.718602Z",
+      "updated_at": "2026-08-14T17:36:05.284151Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40821",
       "source_fingerprint": null,
       "media_identity": "attachment:117094712892535488:3ff20bb605f39a03.mp4",
-      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/094/712/346/096/193/original/3ff20bb605f39a03.mp4",
+      "failure_reason": null,
       "truth_social_id": "117094712892535488",
-      "next_retry_at": "2026-08-14T17:30:45.718619Z"
+      "translation": ""
+    },
+    "truth:117094962881202991": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40822",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@mrddmia\">@<span>mrddmia</span></a></span>Sam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation.</p><p>He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist.</p><p>President Trump hit a grand-slam by picking Sam for a lifetime appointment to the federal bench in Tennessee.</p>",
+      "published": "Fri, 14 Aug 2026 17:27:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-14T17:35:40.974395Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40822"
+    },
+    "truth:117095032485507147": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40825",
+      "source_text": "<p>Prescription drug prices record sharpest drop in more than 60 years: <a href=\"https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/business/20</span><span class=\"invisible\">26/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/</span></a></p>",
+      "published": "Fri, 14 Aug 2026 17:26:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-14T17:35:40.974434Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40825"
+    },
+    "truth:117095033823167533": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40824",
+      "source_text": "<p>Trump admin marks 15 straight months with zero border releases as apprehensions plunge 94%: <a href=\"https://www.foxnews.com/politics/trump-admin-marks-15-straight-months-zero-border-releases-apprehensions-plunge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-adm</span><span class=\"invisible\">in-marks-15-straight-months-zero-border-releases-apprehensions-plunge</span></a></p>",
+      "published": "Fri, 14 Aug 2026 17:27:01 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-14T17:35:40.974415Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40824"
     }
   }
 }
