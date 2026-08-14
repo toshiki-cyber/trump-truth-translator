@@ -650,7 +650,10 @@
     "https://www.trumpstruth.org/statuses/40810",
     "fp:Tonight at 9 PM ET, on ABC News, I will be hosting “The Patriot Games,” an Athletic Competition featuring many great young people from across the Coun",
     "truth:117090920749960452",
-    "https://www.trumpstruth.org/statuses/40815"
+    "https://www.trumpstruth.org/statuses/40815",
+    "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
+    "truth:117091934703272898",
+    "https://www.trumpstruth.org/statuses/40816"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2077,121 +2080,22 @@
       ]
     },
     "truth:117091934703272898": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40816",
       "source_text": "<p>White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: <a href=\"https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/white-house-report-details-great-transshipment-scam-costing-tens-billions</span></a></p>",
       "published": "Fri, 14 Aug 2026 04:18:52 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-14T05:10:55.470143Z",
+      "updated_at": "2026-08-14T05:25:40.775844Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40816",
       "first_seen": "2026-08-14T04:25:39.253475Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
       "truth_social_id": "117091934703272898",
       "source_fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
       "media_identity": "attachment:117091934703272898:",
       "translation": "ホワイトハウスのリポートが「大規模積み替え詐欺」の詳細を明かす。関税回避で数百億ドルの損失が出ている：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mszcj5rcqcz5",
-          "cid": "bafyreihtrulxgb6ql4td2ocoib46m4ocsmtbqv4sucwqstxd67x43wh32a"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mszcj5rcqcz5",
-          "cid": "bafyreihtrulxgb6ql4td2ocoib46m4ocsmtbqv4sucwqstxd67x43wh32a"
-        },
-        "next_index": 1,
-        "last_rkey": "3mszcj5rcqcz5",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ホワイトハウスのリポートが「大規模積み替え詐欺」の詳細を明かす。関税回避で数百億ドルの損失が出ている：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-          "createdAt": "2026-08-14T05:10:48.594097Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 154,
-                "byteEnd": 274
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-              "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion",
-              "description": "The report concludes that the scale of potential evasion is economically significant and establishes a framework for ongoing assessment of the integrity of the U.S. tariff system.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ More than 40 lower-tariff jurisdictions are being used as pass-throughs to avoid lawful tarriffs.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid25qg2kwsfc2ltrhb67647bmqetm26njhmilxiyq3zabozpmbaga"
-                },
-                "mimeType": "image/jpeg",
-                "size": 73862
-              }
-            }
-          }
-        },
-        "root_rkey": "3mszcj5rcqcz5",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ホワイトハウスのリポートが「大規模積み替え詐欺」の詳細を明かす。関税回避で数百億ドルの損失が出ている：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-          "createdAt": "2026-08-14T05:10:48.594097Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 154,
-                "byteEnd": 274
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-              "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion",
-              "description": "The report concludes that the scale of potential evasion is economically significant and establishes a framework for ongoing assessment of the integrity of the U.S. tariff system.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ More than 40 lower-tariff jurisdictions are being used as pass-throughs to avoid lawful tarriffs.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid25qg2kwsfc2ltrhb67647bmqetm26njhmilxiyq3zabozpmbaga"
-                },
-                "mimeType": "image/jpeg",
-                "size": 73862
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mszcj5rcqcz5",
-            "rkey": "3mszcj5rcqcz5"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mszcj5rcqcz5",
       "expected_embed": "none",
       "expected_images": 0,
@@ -2241,9 +2145,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mszcj5rcqcz5",
           "rkey": "3mszcj5rcqcz5"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-14T05:15:55.470155Z"
+      ]
     }
   }
 }
