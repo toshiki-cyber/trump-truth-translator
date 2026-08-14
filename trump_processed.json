@@ -685,7 +685,10 @@
     "https://www.trumpstruth.org/statuses/40826",
     "fp:Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Sena",
     "truth:117096016166324267",
-    "https://www.trumpstruth.org/statuses/40830"
+    "https://www.trumpstruth.org/statuses/40830",
+    "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
+    "truth:117096010342291503",
+    "https://www.trumpstruth.org/statuses/40828"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2541,20 +2544,22 @@
       "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank ラッセル、君へ。君の前には大きな未来が待っている！"
     },
     "truth:117096010342291503": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40828",
       "source_text": "<p>It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State of New York. Between Kathy Hochul and the Most Corrupt Attorney General in the Country, Letitia James, it has gone to HELL! Saritha is strongly supported by the Greatest MAGA Warriors in New York, including my friend, and Republican Nominee for Governor, Bruce Blakeman!<br /> <br />As a former Federal Prosecutor, Chief of Staff of the Drug Enforcement Administration, Law Clerk for then-Judge Brett Kavanaugh, and a distinguished Harvard Law School graduate, with Honors, Saritha has proven she has the Courage and Wisdom to deliver strong results for the incredible people of New York City and State. Her opponent, the totally corrupt, unlawful, and incompetent, Letitia “Peekaboo” James, is considered by many to be the WORST Attorney General in our Country. She is a Complete and Total Disaster, who tried running against Kathy Hochul for Governor, and got less than 1% of the Vote in the Polls, and QUIT, taking many innocent suckers down with her. She then went back to her WITCH HUNT against your favorite President, (ME!), and others, yet Murder and other Violent Crime is RAGING OUT OF CONTROL in New York, as People and Businesses flee, in Record Numbers, to other States!<br /> <br />On the other hand, as your next Attorney General, Saritha Komatireddy will fight tirelessly to Ensure LAW AND ORDER, Grow our Economy, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Defend our always under siege Second Amendment.<br /> <br />Vote against the Most Corrupt Attorney General in the Country, Peekaboo James — Vote for Saritha Komatireddy, who has my Complete and Total Endorsement to be the next Attorney General of New York. SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
       "published": "Fri, 14 Aug 2026 21:35:21 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-14T21:50:50.071263Z",
+      "updated_at": "2026-08-14T22:05:58.837512Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40828",
       "first_seen": "2026-08-14T21:40:41.927637Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
-      "next_retry_at": "2026-08-14T22:00:50.071277Z",
-      "truth_social_id": "117096010342291503"
+      "truth_social_id": "117096010342291503",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
+      "media_identity": "attachment:117096010342291503:",
+      "translation": "私がアメリカ・ファースト・パトリオットのサリタ・コマティレディを推薦することは大きな栄誉である。彼女はかつて素晴らしかったニューヨーク州の次期司法長官選に出馬している。キャシー・ホークルと全国で最も腐敗した司法長官レティシア・ジェームスの統治により、この州は地獄と化してしまった！サリタは、私の友人で共和党知事候補のブルース・ブレイクマンを含め、ニューヨークの最強のMAGA戦士たちから強く支持されている。\n\n元連邦検事、麻薬取締局長官補佐官、当時のブレット・カバノー判事の法務補佐官を務め、ハーバード・ロー・スクールを優秀な成績で卒業したサリタは、ニューヨーク市と州の素晴らしき人々のために強い成果をもたらす勇気と知恵を持っていることを証明してきた。彼女の対立候補であるレティシア「ピークアブー」ジェームスは、完全に腐敗し、違法で無能であり、多くの人々から我が国で最悪の司法長官と見なされている。彼女は完全なる大失敗者であり、キャシー・ホークルに対して州知事選に出馬しようとしたが、世論調査で1%未満の支持率しか得られず、辞退してしまった。その過程で多くの無実のお人よしを巻き込んでしまった。その後、彼女は君たちの大好きな大統領（私だ！）と他の者たちに対する魔女狩りに戻った。一方、ニューヨークでは殺人と他の暴力犯罪が制御不能に猛威を振るっており、人々と企業は記録的な数で他州へと逃げ出している。\n\n一方、次期司法長官として、サリタ・コマティレディは法と秩序を確保し、経済を成長させ、法執行機関と第一対応者を支援し、軍と退役軍人を支援し、選挙の完全性を推し進め、我が国の国境をしっかり保護し、移民犯罪を止め、憲法を守り、常に攻撃にさらされている我々の修正第2条を擁護するために、たゆまず戦い続けるだろう。\n\n全国で最も腐敗した司法長官ピークアブー・ジェームスに投票するな。サリタ・コマティレディに投票しよう。彼女はニューヨーク州の次期司법長官として私の完全かつ全面的な推薦を得ている。彼女は決して諸君を失望させることはない！ドナルド・J・トランプ大統領"
     },
     "truth:117096016166324267": {
       "post_status": "POSTED",
