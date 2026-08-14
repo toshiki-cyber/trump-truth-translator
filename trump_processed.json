@@ -673,7 +673,10 @@
     "https://www.trumpstruth.org/statuses/40823",
     "fp:Trump admin marks 15 straight months with zero border releases as apprehensions plunge 94%: \nhttps://www.foxnews.com/politics/trump-admin-marks-15-str",
     "truth:117095033823167533",
-    "https://www.trumpstruth.org/statuses/40824"
+    "https://www.trumpstruth.org/statuses/40824",
+    "fp:Prescription drug prices record sharpest drop in more than 60 years: \nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-reco",
+    "truth:117095032485507147",
+    "https://www.trumpstruth.org/statuses/40825"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2367,105 +2370,22 @@
       ]
     },
     "truth:117095032485507147": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40825",
       "source_text": "<p>Prescription drug prices record sharpest drop in more than 60 years: <a href=\"https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/business/20</span><span class=\"invisible\">26/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/</span></a></p>",
       "published": "Fri, 14 Aug 2026 17:26:40 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-14T18:30:59.858927Z",
+      "updated_at": "2026-08-14T18:55:40.887288Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40825",
       "first_seen": "2026-08-14T17:40:41.695120Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:Prescription drug prices record sharpest drop in more than 60 years: \nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-reco",
       "truth_social_id": "117095032485507147",
       "source_fingerprint": "fp:Prescription drug prices record sharpest drop in more than 60 years: \nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-reco",
       "media_identity": "attachment:117095032485507147:",
       "translation": "処方箋医薬品の価格が60年以上前ぶりの最大降下幅を記録：\nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt2ojugkikj6",
-          "cid": "bafyreifc47dfhgfi5bmymvvkpgddc6nfct5bcku2s35qcdoihw2i6ch6wa"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt2ojugkikj6",
-          "cid": "bafyreifc47dfhgfi5bmymvvkpgddc6nfct5bcku2s35qcdoihw2i6ch6wa"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt2ojugkikj6",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "処方箋医薬品の価格が60年以上前ぶりの最大降下幅を記録：\nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-          "createdAt": "2026-08-14T18:01:17.612215Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 81,
-                "byteEnd": 197
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-              "title": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-              "description": ""
-            }
-          }
-        },
-        "root_rkey": "3mt2ojugkikj6",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "処方箋医薬品の価格が60年以上前ぶりの最大降下幅を記録：\nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-          "createdAt": "2026-08-14T18:01:17.612215Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 81,
-                "byteEnd": 197
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-              "title": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-              "description": ""
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt2ojugkikj6",
-            "rkey": "3mt2ojugkikj6"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt2ojugkikj6",
       "expected_embed": "none",
       "expected_images": 0,
@@ -2507,9 +2427,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt2ojugkikj6",
           "rkey": "3mt2ojugkikj6"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-14T18:50:59.858956Z"
+      ]
     },
     "truth:117095033823167533": {
       "post_status": "RETRY",
