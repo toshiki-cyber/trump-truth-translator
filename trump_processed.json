@@ -2309,34 +2309,52 @@
       "translation": ""
     },
     "truth:117094962881202991": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40822",
-      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@mrddmia\">@<span>mrddmia</span></a></span>Sam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation.</p><p>He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist.</p><p>President Trump hit a grand-slam by picking Sam for a lifetime appointment to the federal bench in Tennessee.</p>",
-      "published": "Fri, 14 Aug 2026 17:27:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-14T17:35:40.974395Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40822"
+      "status_url": "https://www.trumpstruth.org/statuses/40823",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117094657744873324</span>Sam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation.</p><p>He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist.</p><p>President Trump hit a grand-slam by picking Sam for a lifetime appointment to the federal bench in Tennessee.</p>",
+      "published": "Fri, 14 Aug 2026 17:08:58 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-14T17:40:41.290630Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40822",
+      "first_seen": "2026-08-14T17:40:41.290604Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117094657744873324Sam Adkisson worked with me on the Senate Judiciary Committee for Justice",
+      "next_retry_at": "2026-08-14T17:45:41.290639Z",
+      "truth_social_id": "117094962881202991"
     },
     "truth:117095032485507147": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40825",
       "source_text": "<p>Prescription drug prices record sharpest drop in more than 60 years: <a href=\"https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/business/20</span><span class=\"invisible\">26/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/</span></a></p>",
       "published": "Fri, 14 Aug 2026 17:26:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-14T17:35:40.974434Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40825"
+      "retry_count": 1,
+      "updated_at": "2026-08-14T17:40:41.695146Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40825",
+      "first_seen": "2026-08-14T17:40:41.695120Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Prescription drug prices record sharpest drop in more than 60 years: \nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-reco",
+      "next_retry_at": "2026-08-14T17:45:41.695154Z",
+      "truth_social_id": "117095032485507147"
     },
     "truth:117095033823167533": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40824",
       "source_text": "<p>Trump admin marks 15 straight months with zero border releases as apprehensions plunge 94%: <a href=\"https://www.foxnews.com/politics/trump-admin-marks-15-straight-months-zero-border-releases-apprehensions-plunge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-adm</span><span class=\"invisible\">in-marks-15-straight-months-zero-border-releases-apprehensions-plunge</span></a></p>",
       "published": "Fri, 14 Aug 2026 17:27:01 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-14T17:35:40.974415Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40824"
+      "retry_count": 1,
+      "updated_at": "2026-08-14T17:40:42.056306Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40824",
+      "first_seen": "2026-08-14T17:40:42.056241Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Trump admin marks 15 straight months with zero border releases as apprehensions plunge 94%: \nhttps://www.foxnews.com/politics/trump-admin-marks-15-str",
+      "next_retry_at": "2026-08-14T17:45:42.056321Z",
+      "truth_social_id": "117095033823167533"
     }
   }
 }
