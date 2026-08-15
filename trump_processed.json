@@ -790,7 +790,10 @@
     "https://www.trumpstruth.org/statuses/40882",
     "fp:State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!\n \nA Fifth Genera",
     "truth:117101649709052792",
-    "https://www.trumpstruth.org/statuses/40888"
+    "https://www.trumpstruth.org/statuses/40888",
+    "fp:State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District!\n \nFrom bravely fig",
+    "truth:117101658723920664",
+    "https://www.trumpstruth.org/statuses/40887"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4607,20 +4610,22 @@
       "translation": "州下院議員ビル・コナーリーは素晴らしい仕事をしているアメリカ・ファースト愛国者であり、フロリダ州第72区を代表している！\n\n5代目のフロリダ州民であり、勇敢なアメリカ海軍退役軍人であるビルは、わが国を防衛し、軍隊と退役軍人を支援し、力による平和を確保するために必要な知恵と勇気を持っている。州下院では、フロリダの価値観を守り、移民犯罪を阻止し、経済を成長させ、税とрегулаций削減し、メイド・イン・ザ・USA を推進し、中小企業とアメリカンイノベーションを支援し、アメリカのエネルギー支配を確保し、選挙を保護し、常に脅威にさらされている修正第2条を守るために懸命に取り組んでいる。\n\nビル・コナーリーは、再選に向けて私の完全かつ総合的な支持を得ている。彼はあなたを決して失望させない！"
     },
     "truth:117101658723920664": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40887",
       "source_text": "<p>State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District!<br /> <br />From bravely fighting for the U.S. Marine Corps, to strongly representing his Community as Mayor of Frostproof, and now, as a Highly Respected State Representative, Jon has served his State, and our Nation, with distinction. In the State House, he is working tirelessly to Protect Florida Values, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A. and American Energy DOMINANCE, Safeguard our Elections, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jon Albert has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
       "published": "Sat, 15 Aug 2026 21:31:49 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-15T21:40:44.285782Z",
+      "updated_at": "2026-08-15T22:05:49.847904Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40887",
       "first_seen": "2026-08-15T21:35:42.571709Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District!\n \nFrom bravely fig",
-      "next_retry_at": "2026-08-15T21:50:44.285801Z",
-      "truth_social_id": "117101658723920664"
+      "truth_social_id": "117101658723920664",
+      "source_fingerprint": "fp:State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District!\n \nFrom bravely fig",
+      "media_identity": "attachment:117101658723920664:",
+      "translation": "フロリダ州第48選挙区の州下院議員ジョン・アルバート氏は、素晴らしいフロリダの人々を代表して素晴らしい仕事をしている！\n\n米海兵隊のために勇敢に戦うことから、フロストプルーフ市長としてコミュニティを強く代表すること、そして今、高く尊敬される州下院議員として、ジョンは自分の州と私たちの国に貢献してきた。州議会において、彼はフロリダの価値観を守り、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、アメリカンエネルギーの支配力を確立し、選挙を守り、移民犯罪を阻止し、軍隊と退役軍人を強化し、常に圧力を受けている憲法修正第2条を守るために、精力的に取り組んでいる。\n\nジョン・アルバート氏は再選に向けて私の完全で総合的な支持を得ている。彼は決してあなたを失望させることはない！"
     },
     "truth:117101660036144509": {
       "post_status": "RETRY",
