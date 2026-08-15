@@ -764,7 +764,10 @@
     "truth:117097009327153583",
     "https://www.trumpstruth.org/statuses/40834",
     "truth:117096983461735453",
-    "https://www.trumpstruth.org/statuses/40849"
+    "https://www.trumpstruth.org/statuses/40849",
+    "fp:President Trump stops New York speech to comfort parents of 12-year-old killed by stray bullet: \nhttps://justthenews.com/politics-policy/all-things-tr",
+    "truth:117099531388015618",
+    "https://www.trumpstruth.org/statuses/40872"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4049,20 +4052,22 @@
       "updated_at": "2026-08-15T07:50:41.839965Z"
     },
     "truth:117099531388015618": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40872",
       "source_text": "<p>President Trump stops New York speech to comfort parents of 12-year-old killed by stray bullet: <a href=\"https://justthenews.com/politics-policy/all-things-trump/president-trump-stops-new-york-speech-comfort-parents-12-year-old\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/president-trump-stops-new-york-speech-comfort-parents-12-year-old</span></a></p>",
       "published": "Sat, 15 Aug 2026 12:30:48 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-15T12:45:42.061863Z",
+      "updated_at": "2026-08-15T12:55:47.539086Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40872",
       "first_seen": "2026-08-15T12:40:39.293928Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:President Trump stops New York speech to comfort parents of 12-year-old killed by stray bullet: \nhttps://justthenews.com/politics-policy/all-things-tr",
-      "next_retry_at": "2026-08-15T12:55:42.061882Z",
-      "truth_social_id": "117099531388015618"
+      "truth_social_id": "117099531388015618",
+      "source_fingerprint": "fp:President Trump stops New York speech to comfort parents of 12-year-old killed by stray bullet: \nhttps://justthenews.com/politics-policy/all-things-tr",
+      "media_identity": "attachment:117099531388015618:",
+      "translation": "トランプ前大統領、流れ弾で殺害された12歳児の両親を慰めるため、ニューヨークでのスピーチを中断：\nhttps://justthenews.com/politics-policy/all-things-trump/president-trump-stops-new-york-speech-comfort-parents-12-year-old"
     },
     "truth:117099532910302870": {
       "post_status": "RETRY",
