@@ -793,7 +793,10 @@
     "https://www.trumpstruth.org/statuses/40888",
     "fp:State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District!\n \nFrom bravely fig",
     "truth:117101658723920664",
-    "https://www.trumpstruth.org/statuses/40887"
+    "https://www.trumpstruth.org/statuses/40887",
+    "fp:State Representative Kim Kendall is a Strong Champion for the Great People of Florida’s 18th State House District!\n \nA Highly Respected Air Traffic Co",
+    "truth:117101661290326953",
+    "https://www.trumpstruth.org/statuses/40885"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4438,20 +4441,134 @@
       "next_retry_at": "2026-08-16T00:30:41.804696Z"
     },
     "truth:117101143768217641": {
-      "post_status": "RETRY",
+      "post_status": "POST_VERIFY_PENDING",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40880",
       "source_text": "<p></p>",
       "published": "Sat, 15 Aug 2026 19:20:51 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-15T21:00:40.405124Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-15T22:20:50.823869Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40880",
       "source_fingerprint": null,
       "media_identity": "attachment:117101143768217641:ad68c1dca0c5f986.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/101/143/676/620/908/small/ad68c1dca0c5f986.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "truth_social_id": "117101143768217641",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-15T22:20:40.405139Z"
+      "failure_stage": "VERIFY",
+      "translation": "",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5fexcdi22k",
+          "cid": "bafyreibdmxuikjvo5xhxhel3q7zeoowsijwj4swx4urovdy6j5dxiugcwu"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5fexcdi22k",
+          "cid": "bafyreibdmxuikjvo5xhxhel3q7zeoowsijwj4swx4urovdy6j5dxiugcwu"
+        },
+        "next_index": 1,
+        "last_rkey": "3mt5fexcdi22k",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "",
+          "createdAt": "2026-08-15T22:20:43.797718Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreigqxqccomwtakxwrbtnhs4omp3avkra4ont4jz7wuiw5523z7rku4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 57251
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 800,
+                  "height": 517
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3mt5fexcdi22k",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "",
+          "createdAt": "2026-08-15T22:20:43.797718Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreigqxqccomwtakxwrbtnhs4omp3avkra4ont4jz7wuiw5523z7rku4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 57251
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 800,
+                  "height": 517
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5fexcdi22k",
+            "rkey": "3mt5fexcdi22k"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5fexcdi22k",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mt5fexcdi22k",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-08-15T22:20:43.797718Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigqxqccomwtakxwrbtnhs4omp3avkra4ont4jz7wuiw5523z7rku4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 57251
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 800,
+                "height": 517
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5fexcdi22k",
+          "rkey": "3mt5fexcdi22k"
+        }
+      ],
+      "next_retry_at": "2026-08-15T22:25:50.823890Z"
     },
     "truth:117101384725517282": {
       "post_status": "POSTED",
@@ -4644,7 +4761,7 @@
       "truth_social_id": "117101660036144509"
     },
     "truth:117101661290326953": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40885",
       "source_text": "<p>State Representative Kim Kendall is a Strong Champion for the Great People of Florida’s 18th State House District!<br /> <br />A Highly Respected Air Traffic Controller and Small Business Owner, prior to becoming a distinguished State Representative, Kim has dedicated her life to serving her Community. In the State House, she is working hard to Protect Florida Values, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Stop Migrant Crime, Strengthen our Military, Veterans, and Law Enforcement, Champion Parental Rights, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Kim Kendall has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!</p>",
@@ -4654,47 +4771,12 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/40885",
       "first_seen": "2026-08-15T21:35:43.761177Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:State Representative Kim Kendall is a Strong Champion for the Great People of Florida’s 18th State House District!\n \nA Highly Respected Air Traffic Co",
       "truth_social_id": "117101661290326953",
       "source_fingerprint": "fp:State Representative Kim Kendall is a Strong Champion for the Great People of Florida’s 18th State House District!\n \nA Highly Respected Air Traffic Co",
       "media_identity": "attachment:117101661290326953:",
       "translation": "フロリダ州第18地区州下院議員キム・ケンダルは、フロリダ州の偉大なる人民のための強力な闘士だ！\n\n州下院議員になる前に、高く尊敬される航空交通管制官であり小企業オーナーであるキムは、コミュニティへの奉仕に人生を捧げてきた。州下院では、フロリダの価値観を守り、経済を成長させ、税金と規制を削減し、「アメリカ製」を推進し、移民犯罪を阻止し、軍隊、退役軍人、法執行機関を強化し、親の権利を擁護し、選挙の完全性を推し進め、常に攻撃にさらされている第二修正条項を守るために懸命に働いている。\n\nキム・ケンダルは再選に関して私の完全かつ全面的な支持を得ている――彼女は決してあなたたちを失望させることはない！",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5mqcae5cfh",
-          "cid": "bafyreibhju7rl7y6rc3v6iwwvp3w76uoxlor4fkoijrfljlcepwmta4i6m"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5mqcae5cfh",
-          "cid": "bafyreibhju7rl7y6rc3v6iwwvp3w76uoxlor4fkoijrfljlcepwmta4i6m"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt5mqcae5cfh",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "フロリダ州第18地区州下院議員キム・ケンダルは、フロリダ州の偉大なる人民のための強力な闘士だ！\n\n州下院議員になる前に、高く尊敬される航空交通管制官であり小企業オーナーであるキムは、コミュニティへの奉仕に人生を捧げてきた。州下院では、フロリダの価値観を守り、経済を成長させ、税金と規制を削減し、「アメリカ製」を推進し、移民犯罪を阻止し、軍隊、退役軍人、法執行機関を強化し、親の権利を擁護し、選挙の完全性を推し進め、常に攻撃にさらされている第二修正条項を守るために懸命に働いている。\n\nキム・ケンダルは再選に関して私の完全かつ全面的な支持を得ている――彼女は決してあなたたちを失望させることはない！",
-          "createdAt": "2026-08-15T22:10:43.569476Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mt5mqcae5cfh",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "フロリダ州第18地区州下院議員キム・ケンダルは、フロリダ州の偉大なる人民のための強力な闘士だ！\n\n州下院議員になる前に、高く尊敬される航空交通管制官であり小企業オーナーであるキムは、コミュニティへの奉仕に人生を捧げてきた。州下院では、フロリダの価値観を守り、経済を成長させ、税金と規制を削減し、「アメリカ製」を推進し、移民犯罪を阻止し、軍隊、退役軍人、法執行機関を強化し、親の権利を擁護し、選挙の完全性を推し進め、常に攻撃にさらされている第二修正条項を守るために懸命に働いている。\n\nキム・ケンダルは再選に関して私の完全かつ全面的な支持を得ている――彼女は決してあなたたちを失望させることはない！",
-          "createdAt": "2026-08-15T22:10:43.569476Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5mqcae5cfh",
-            "rkey": "3mt5mqcae5cfh"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5mqcae5cfh",
       "expected_embed": "none",
       "expected_images": 0,
@@ -4712,9 +4794,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5mqcae5cfh",
           "rkey": "3mt5mqcae5cfh"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-15T22:15:49.866900Z"
+      ]
     }
   }
 }
