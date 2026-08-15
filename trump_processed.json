@@ -4091,20 +4091,173 @@
       "translation": "ジム・ジョーダンがFBIのラウンド・リバー作戦を『ジョー・バイデンを保護し議会を妨害するための作戦』として猛批判：\nhttps://justthenews.com/accountability/political-ethics/satjim-jordan-blasts-fbi-round-river-operation-protect-joe-biden"
     },
     "truth:117099535440653927": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40869",
       "source_text": "<p>White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: <a href=\"https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/white-house-report-details-great-transshipment-scam-costing-tens-billions</span></a></p>",
       "published": "Sat, 15 Aug 2026 12:31:50 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-15T12:50:44.678800Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-15T13:05:52.486194Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40869",
       "first_seen": "2026-08-15T12:40:56.250451Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
-      "next_retry_at": "2026-08-15T13:00:44.678815Z",
-      "truth_social_id": "117099535440653927"
+      "truth_social_id": "117099535440653927",
+      "source_fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
+      "media_identity": "attachment:117099535440653927:",
+      "translation": "ホワイトハウスの報告書が「大規模積み替え詐欺」を詳述、関税回避で数百億ドルの損失：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4ojl2hac25",
+          "cid": "bafyreiaujkrphz4avyttrqwqtibfnrdilhr3t47szzrp2eexl2f7srg4am"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4ojl2hac25",
+          "cid": "bafyreiaujkrphz4avyttrqwqtibfnrdilhr3t47szzrp2eexl2f7srg4am"
+        },
+        "next_index": 1,
+        "last_rkey": "3mt4ojl2hac25",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ホワイトハウスの報告書が「大規模積み替え詐欺」を詳述、関税回避で数百億ドルの損失：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+          "createdAt": "2026-08-15T13:05:45.969676Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 124,
+                "byteEnd": 244
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+              "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion",
+              "description": "The report concludes that the scale of potential evasion is economically significant and establishes a framework for ongoing assessment of the integrity of the U.S. tariff system.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ More than 40 lower-tariff jurisdictions are being used as pass-throughs to avoid lawful tarriffs.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreid25qg2kwsfc2ltrhb67647bmqetm26njhmilxiyq3zabozpmbaga"
+                },
+                "mimeType": "image/jpeg",
+                "size": 73862
+              }
+            }
+          }
+        },
+        "root_rkey": "3mt4ojl2hac25",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ホワイトハウスの報告書が「大規模積み替え詐欺」を詳述、関税回避で数百億ドルの損失：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+          "createdAt": "2026-08-15T13:05:45.969676Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 124,
+                "byteEnd": 244
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+              "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion",
+              "description": "The report concludes that the scale of potential evasion is economically significant and establishes a framework for ongoing assessment of the integrity of the U.S. tariff system.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ More than 40 lower-tariff jurisdictions are being used as pass-throughs to avoid lawful tarriffs.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreid25qg2kwsfc2ltrhb67647bmqetm26njhmilxiyq3zabozpmbaga"
+                },
+                "mimeType": "image/jpeg",
+                "size": 73862
+              }
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4ojl2hac25",
+            "rkey": "3mt4ojl2hac25"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4ojl2hac25",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mt4ojl2hac25",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ホワイトハウスの報告書が「大規模積み替え詐欺」を詳述、関税回避で数百億ドルの損失：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+        "createdAt": "2026-08-15T13:05:45.969676Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 124,
+              "byteEnd": 244
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+            "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion",
+            "description": "The report concludes that the scale of potential evasion is economically significant and establishes a framework for ongoing assessment of the integrity of the U.S. tariff system.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ More than 40 lower-tariff jurisdictions are being used as pass-throughs to avoid lawful tarriffs.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid25qg2kwsfc2ltrhb67647bmqetm26njhmilxiyq3zabozpmbaga"
+              },
+              "mimeType": "image/jpeg",
+              "size": 73862
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4ojl2hac25",
+          "rkey": "3mt4ojl2hac25"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-15T13:10:52.486213Z"
     },
     "truth:117099534125642899": {
       "post_status": "RETRY",
@@ -4112,14 +4265,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40870",
       "source_text": "<p>Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and</span></a></p>",
       "published": "Sat, 15 Aug 2026 12:31:30 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-15T12:50:44.344293Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-15T13:05:42.951801Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40870",
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
-      "next_retry_at": "2026-08-15T13:00:44.344301Z",
+      "next_retry_at": "2026-08-15T13:25:42.951818Z",
       "first_seen": "2026-08-15T12:50:44.344256Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "truth_social_id": "117099534125642899"
     }
   }
