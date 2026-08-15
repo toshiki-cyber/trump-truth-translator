@@ -755,7 +755,10 @@
     "truth:117097066845411134",
     "https://www.trumpstruth.org/statuses/40865",
     "truth:117096976002927303",
-    "https://www.trumpstruth.org/statuses/40855"
+    "https://www.trumpstruth.org/statuses/40855",
+    "fp:DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim: \nhttps://www.foxnews.com/politics/dfw-airport-scraps",
+    "truth:117097119879641656",
+    "https://www.trumpstruth.org/statuses/40868"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -3804,20 +3807,22 @@
       ]
     },
     "truth:117097119879641656": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40868",
       "source_text": "<p>DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim: <a href=\"https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/dfw-airpo</span><span class=\"invisible\">rt-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim</span></a></p>",
       "published": "Sat, 15 Aug 2026 02:17:32 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-15T07:30:43.233843Z",
+      "updated_at": "2026-08-15T07:55:43.320159Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40868",
       "first_seen": "2026-08-15T06:45:41.986917Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim: \nhttps://www.foxnews.com/politics/dfw-airport-scraps",
-      "next_retry_at": "2026-08-15T07:50:43.233858Z",
-      "truth_social_id": "117097119879641656"
+      "truth_social_id": "117097119879641656",
+      "source_fingerprint": "fp:DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim: \nhttps://www.foxnews.com/politics/dfw-airport-scraps",
+      "media_identity": "attachment:117097119879641656:",
+      "translation": "ダラス・フォートワース空港がテキサス州アボット知事の標的となる中、物議を醸すイスラム教礼拝前の足洗い施設計画を中止：\nhttps://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim"
     },
     "truth:117097018672574299": {
       "post_status": "POSTED",
