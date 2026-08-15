@@ -772,7 +772,10 @@
     "truth:117099532910302870",
     "https://www.trumpstruth.org/statuses/40871",
     "truth:117099535440653927",
-    "https://www.trumpstruth.org/statuses/40869"
+    "https://www.trumpstruth.org/statuses/40869",
+    "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
+    "truth:117099534125642899",
+    "https://www.trumpstruth.org/statuses/40870"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4161,20 +4164,22 @@
       ]
     },
     "truth:117099534125642899": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40870",
       "source_text": "<p>Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and</span></a></p>",
       "published": "Sat, 15 Aug 2026 12:31:30 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-15T13:05:42.951801Z",
+      "updated_at": "2026-08-15T13:30:49.043809Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40870",
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": null,
       "fingerprint": "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
-      "next_retry_at": "2026-08-15T13:25:42.951818Z",
       "first_seen": "2026-08-15T12:50:44.344256Z",
-      "no_media_confirmations": 2,
-      "truth_social_id": "117099534125642899"
+      "no_media_confirmations": 3,
+      "truth_social_id": "117099534125642899",
+      "source_fingerprint": "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
+      "media_identity": "attachment:117099534125642899:",
+      "translation": "二重基準の司法制度を暴く - ピーター・ナヴァロが中国の侵略と政府の兵器化について語る：\nhttps://justthenews.com/podcasts/john-solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and"
     }
   }
 }
