@@ -4054,14 +4054,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40872",
       "source_text": "<p>President Trump stops New York speech to comfort parents of 12-year-old killed by stray bullet: <a href=\"https://justthenews.com/politics-policy/all-things-trump/president-trump-stops-new-york-speech-comfort-parents-12-year-old\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/president-trump-stops-new-york-speech-comfort-parents-12-year-old</span></a></p>",
       "published": "Sat, 15 Aug 2026 12:30:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T12:40:39.293961Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-15T12:45:42.061863Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40872",
       "first_seen": "2026-08-15T12:40:39.293928Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:President Trump stops New York speech to comfort parents of 12-year-old killed by stray bullet: \nhttps://justthenews.com/politics-policy/all-things-tr",
-      "next_retry_at": "2026-08-15T12:45:39.293970Z",
+      "next_retry_at": "2026-08-15T12:55:42.061882Z",
       "truth_social_id": "117099531388015618"
     },
     "truth:117099532910302870": {
@@ -4070,28 +4070,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/40871",
       "source_text": "<p>Jim Jordan blasts FBI Round River as 'operation to protect Joe Biden', obstruct Congress: <a href=\"https://justthenews.com/accountability/political-ethics/satjim-jordan-blasts-fbi-round-river-operation-protect-joe-biden\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/satjim-jordan-blasts-fbi-round-river-operation-protect-joe-biden</span></a></p>",
       "published": "Sat, 15 Aug 2026 12:31:11 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T12:40:39.600391Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-15T12:45:42.376781Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40871",
       "first_seen": "2026-08-15T12:40:39.600334Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Jim Jordan blasts FBI Round River as 'operation to protect Joe Biden', obstruct Congress: \nhttps://justthenews.com/accountability/political-ethics/sat",
-      "next_retry_at": "2026-08-15T12:45:39.600401Z",
+      "next_retry_at": "2026-08-15T12:55:42.376796Z",
       "truth_social_id": "117099532910302870"
-    },
-    "url:https://www.trumpstruth.org/statuses/40870": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40870",
-      "source_text": "<p>Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and</span></a></p>",
-      "published": "Sat, 15 Aug 2026 12:31:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T12:40:54.644450Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40870",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "fingerprint": "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
-      "next_retry_at": "2026-08-15T12:45:54.644467Z"
     },
     "truth:117099535440653927": {
       "post_status": "RETRY",
@@ -4108,6 +4095,19 @@
       "fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
       "next_retry_at": "2026-08-15T12:45:56.250495Z",
       "truth_social_id": "117099535440653927"
+    },
+    "truth:117099534125642899": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40870",
+      "source_text": "<p>Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and</span></a></p>",
+      "published": "Sat, 15 Aug 2026 12:31:30 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-15T12:40:54.644450Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40870",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "fingerprint": "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
+      "next_retry_at": "2026-08-15T12:45:54.644467Z"
     }
   }
 }
