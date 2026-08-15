@@ -4237,21 +4237,135 @@
       ]
     },
     "truth:117100150900258418": {
-      "post_status": "RETRY",
+      "post_status": "POST_VERIFY_PENDING",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40874",
       "source_text": "<p>Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP</p>",
       "published": "Sat, 15 Aug 2026 15:08:21 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-15T15:40:43.912885Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-15T16:05:51.699518Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40874",
       "source_fingerprint": "fp:Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRU",
       "media_identity": "attachment:117100150900258418:82059b47c6c2aa87.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/100/149/791/278/735/small/82059b47c6c2aa87.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRU",
       "truth_social_id": "117100150900258418",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-15T16:00:43.912903Z"
+      "failure_stage": "VERIFY",
+      "translation": "この写真では不愛想に見えるが、俺たちが笑顔の写真はたくさんある。金正恩と俺は非常にうまくやっている！大統領 ドナルド・J・トランプ",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4xbh65qc45",
+          "cid": "bafyreie6nlkbkalxcgikaxcdswu2d2efnv3k6urpijorekga7yllnsikd4"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4xbh65qc45",
+          "cid": "bafyreie6nlkbkalxcgikaxcdswu2d2efnv3k6urpijorekga7yllnsikd4"
+        },
+        "next_index": 1,
+        "last_rkey": "3mt4xbh65qc45",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "この写真では不愛想に見えるが、俺たちが笑顔の写真はたくさんある。金正恩と俺は非常にうまくやっている！大統領 ドナルド・J・トランプ",
+          "createdAt": "2026-08-15T16:05:44.475816Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiegfamfm4zgtwdyb2tftj6l2kpf2iyuz4j6h77rvf5ats2a6aemxe"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 61658
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 521,
+                  "height": 800
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3mt4xbh65qc45",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "この写真では不愛想に見えるが、俺たちが笑顔の写真はたくさんある。金正恩と俺は非常にうまくやっている！大統領 ドナルド・J・トランプ",
+          "createdAt": "2026-08-15T16:05:44.475816Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiegfamfm4zgtwdyb2tftj6l2kpf2iyuz4j6h77rvf5ats2a6aemxe"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 61658
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 521,
+                  "height": 800
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4xbh65qc45",
+            "rkey": "3mt4xbh65qc45"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4xbh65qc45",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mt4xbh65qc45",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "この写真では不愛想に見えるが、俺たちが笑顔の写真はたくさんある。金正恩と俺は非常にうまくやっている！大統領 ドナルド・J・トランプ",
+        "createdAt": "2026-08-15T16:05:44.475816Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiegfamfm4zgtwdyb2tftj6l2kpf2iyuz4j6h77rvf5ats2a6aemxe"
+                },
+                "mimeType": "image/jpeg",
+                "size": 61658
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 521,
+                "height": 800
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4xbh65qc45",
+          "rkey": "3mt4xbh65qc45"
+        }
+      ],
+      "next_retry_at": "2026-08-15T16:10:51.699537Z"
     },
     "truth:117100227998649926": {
       "post_status": "RETRY",
