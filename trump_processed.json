@@ -750,7 +750,10 @@
     "https://www.trumpstruth.org/statuses/40866",
     "fp:These are the TREASONISTS that brought the suit against the Military. They revealed Top Military Secrets!\n \n“The National Trust for Historic Preservat",
     "truth:117097114321052680",
-    "https://www.trumpstruth.org/statuses/40864"
+    "https://www.trumpstruth.org/statuses/40864",
+    "fp:Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering",
+    "truth:117097066845411134",
+    "https://www.trumpstruth.org/statuses/40865"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -3659,56 +3662,21 @@
     },
     "truth:117097066845411134": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40865",
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40860",
       "source_text": "<p>Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.”</p>",
       "published": "Sat, 15 Aug 2026 02:04:02 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-15T07:40:42.819856Z",
+      "updated_at": "2026-08-15T07:45:41.390759Z",
       "first_seen": "2026-08-15T06:45:40.841043Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering",
       "truth_social_id": "117097066845411134",
       "source_fingerprint": "fp:Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering",
       "media_identity": "attachment:117097066845411134:",
       "translation": "ジェイ・クレイトン国家情報長官：「このプロジェクトは、ホワイトハウスが大統領の集結、シニア政府高官の集結、および米国の利益を推し進める集会を開催するための安全な場所として機能することを確保するために不可欠である。複合施設に関するプロジェクトは、大統領およびシニア政府高官への脅威から保護し、脅威を管理・軽減する能力を向上させ、また複合施設への情報機関の指揮下にある支援の実施を含む、情報機関情報の処理、管理、および利用を強化する。」",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3lgyb7osfl",
-          "cid": "bafyreihvyk64hlvflmx6kk6gozu3be2w46s45ksnoaxbl5djfaemqzexoa"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3lgyb7osfl",
-          "cid": "bafyreihvyk64hlvflmx6kk6gozu3be2w46s45ksnoaxbl5djfaemqzexoa"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt3lgyb7osfl",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ジェイ・クレイトン国家情報長官：「このプロジェクトは、ホワイトハウスが大統領の集結、シニア政府高官の集結、および米国の利益を推し進める集会を開催するための安全な場所として機能することを確保するために不可欠である。複合施設に関するプロジェクトは、大統領およびシニア政府高官への脅威から保護し、脅威を管理・軽減する能力を向上させ、また複合施設への情報機関の指揮下にある支援の実施を含む、情報機関情報の処理、管理、および利用を強化する。」",
-          "createdAt": "2026-08-15T07:35:50.773111Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mt3lgyb7osfl",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ジェイ・クレイトン国家情報長官：「このプロジェクトは、ホワイトハウスが大統領の集結、シニア政府高官の集結、および米国の利益を推し進める集会を開催するための安全な場所として機能することを確保するために不可欠である。複合施設に関するプロジェクトは、大統領およびシニア政府高官への脅威から保護し、脅威を管理・軽減する能力を向上させ、また複合施設への情報機関の指揮下にある支援の実施を含む、情報機関情報の処理、管理、および利用を強化する。」",
-          "createdAt": "2026-08-15T07:35:50.773111Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3lgyb7osfl",
-            "rkey": "3mt3lgyb7osfl"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3lgyb7osfl",
       "expected_embed": "none",
       "expected_images": 0,
@@ -3726,9 +3694,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3lgyb7osfl",
           "rkey": "3mt3lgyb7osfl"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-15T07:40:57.237056Z"
+      ]
     },
     "truth:117097006635517618": {
       "post_status": "POSTED",
