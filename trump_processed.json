@@ -4388,8 +4388,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/40875",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926</span></p>",
       "published": "Sat, 15 Aug 2026 15:28:53 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T15:50:44.621154Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-15T16:10:40.951991Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40875",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
       "media_identity": "attachment:117100231642216448:b99d9309c182a717.jpg",
@@ -4397,7 +4397,7 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
       "truth_social_id": "117100231642216448",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-15T15:55:44.621172Z"
+      "next_retry_at": "2026-08-15T16:20:40.952008Z"
     }
   }
 }
