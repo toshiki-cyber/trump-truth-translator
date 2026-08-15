@@ -713,7 +713,9 @@
     "truth:117096990964510306",
     "https://www.trumpstruth.org/statuses/40846",
     "truth:117096994314593250",
-    "https://www.trumpstruth.org/statuses/40844"
+    "https://www.trumpstruth.org/statuses/40844",
+    "truth:117096991542596033",
+    "https://www.trumpstruth.org/statuses/40845"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -2997,16 +2999,6 @@
       "updated_at": "2026-08-15T01:55:42.792434Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40859"
     },
-    "truth:117097018672574299": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40856",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:51:47 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T01:55:42.792377Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40856"
-    },
     "truth:117097009327153583": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -3156,7 +3148,7 @@
       "source_text": "<p>Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visually impressive and reflective of the wealth and beauty of the nations I am visiting. In the United States, by contrast, we currently lack the ability to hold large events of a similar magnitude on White House grounds for those same heads of state and foreign dignitaries. Instead, we must currently host such visits in plastic or canvas tents on the South Lawn with unsafe and unsanitary portable bathrooms and accommodations unbecoming of our national stature…Our foreign counterparts offer premier security arrangements for United States officials. It is imperative that we not only offer the same level of elite security services, but offer the world’s leading capabilities in an efficient manner on grounds over which we exert permanent control…We must obviously seek every reasonable means to mitigate both the more predictable risks, including weather and physical incursions, but also emerging threats…The East Wing Project is essential to that defensive security posture. The Project is absolutely critical not only for the physical safety of guests, but also for advancing our diplomatic relations and the interests and standing of the United States in the world.”</p>",
       "published": "Sat, 15 Aug 2026 02:02:00 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-15T04:25:39.843015Z"
+      "updated_at": "2026-08-15T04:30:42.606472Z"
     },
     "truth:117097064279149887": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40866",
@@ -3166,7 +3158,7 @@
       "source_text": "<p>Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywhere across the globe at any time.”</p>",
       "published": "Sat, 15 Aug 2026 02:03:23 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-15T04:25:39.842999Z"
+      "updated_at": "2026-08-15T04:30:42.606451Z"
     },
     "truth:117096979324606266": {
       "post_status": "POSTED",
@@ -3224,94 +3216,19 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/40868"
     },
     "truth:117096991542596033": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40845",
       "source_text": "<p></p>",
       "published": "Sat, 15 Aug 2026 01:44:53 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-15T04:22:10.998141Z",
+      "updated_at": "2026-08-15T04:32:05.425229Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40845",
       "source_fingerprint": null,
       "media_identity": "attachment:117096991542596033:cd6ef6ded2c75a1c.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "truth_social_id": "117096991542596033",
       "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3keqhm3cci",
-          "cid": "bafyreiafdn55fnuuf55vopbpgrgh7y5ijzla4cdjv572r7suczmjv4lljq"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3keqhm3cci",
-          "cid": "bafyreiafdn55fnuuf55vopbpgrgh7y5ijzla4cdjv572r7suczmjv4lljq"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt3keqhm3cci",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-15T04:22:04.346830Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihtynzprktskdpajovos3bshlzbhwlze3z32t3fpy47fu7inf5uzm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 97153
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1270,
-                  "height": 808
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mt3keqhm3cci",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-15T04:22:04.346830Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihtynzprktskdpajovos3bshlzbhwlze3z32t3fpy47fu7inf5uzm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 97153
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1270,
-                  "height": 808
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3keqhm3cci",
-            "rkey": "3mt3keqhm3cci"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3keqhm3cci",
       "expected_embed": "images",
       "expected_images": 1,
@@ -3349,9 +3266,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3keqhm3cci",
           "rkey": "3mt3keqhm3cci"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-15T04:27:10.998155Z"
+      ]
     },
     "truth:117097006266575402": {
       "post_status": "DISCOVERED",
@@ -3373,17 +3288,7 @@
       "updated_at": "2026-08-15T01:55:42.792554Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40842"
     },
-    "truth:117097066845411134": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40865",
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/40860",
-      "source_text": "<p>Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.”</p>",
-      "published": "Sat, 15 Aug 2026 02:04:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T04:15:39.638164Z"
-    },
-    "truth:117096999388471692": {
+    "url:https://www.trumpstruth.org/statuses/40841": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40841",
@@ -3393,7 +3298,7 @@
       "updated_at": "2026-08-15T01:55:42.792541Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40841"
     },
-    "truth:117097017980375998": {
+    "url:https://www.trumpstruth.org/statuses/40857": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40857",
@@ -3403,7 +3308,27 @@
       "updated_at": "2026-08-15T01:55:42.792391Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40857"
     },
-    "truth:117097114321052680": {
+    "url:https://www.trumpstruth.org/statuses/40856": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40856",
+      "source_text": "<p></p>",
+      "published": "Sat, 15 Aug 2026 01:51:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-15T01:55:42.792377Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40856"
+    },
+    "url:https://www.trumpstruth.org/statuses/40860": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40860",
+      "source_text": "<p>Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.”</p>",
+      "published": "Sat, 15 Aug 2026 02:04:02 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-15T04:15:39.638164Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40860"
+    },
+    "url:https://www.trumpstruth.org/statuses/40863": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40863",
@@ -3411,6 +3336,12 @@
       "published": "Sat, 15 Aug 2026 02:16:07 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-15T04:10:41.441713Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40863"
+    },
+    "truth:117097066845411134": {
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40865"
+    },
+    "truth:117097114321052680": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40864"
     }
   }
