@@ -800,7 +800,10 @@
     "truth:117101143768217641",
     "https://www.trumpstruth.org/statuses/40880",
     "truth:117101396479718815",
-    "https://www.trumpstruth.org/statuses/40881"
+    "https://www.trumpstruth.org/statuses/40881",
+    "fp:State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!\n \nA Successful Entre",
+    "truth:117101660036144509",
+    "https://www.trumpstruth.org/statuses/40886"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4671,20 +4674,22 @@
       "translation": "フロリダ州第48選挙区の州下院議員ジョン・アルバート氏は、素晴らしいフロリダの人々を代表して素晴らしい仕事をしている！\n\n米海兵隊のために勇敢に戦うことから、フロストプルーフ市長としてコミュニティを強く代表すること、そして今、高く尊敬される州下院議員として、ジョンは自分の州と私たちの国に貢献してきた。州議会において、彼はフロリダの価値観を守り、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、アメリカンエネルギーの支配力を確立し、選挙を守り、移民犯罪を阻止し、軍隊と退役軍人を強化し、常に圧力を受けている憲法修正第2条を守るために、精力的に取り組んでいる。\n\nジョン・アルバート氏は再選に向けて私の完全で総合的な支持を得ている。彼は決してあなたを失望させることはない！"
     },
     "truth:117101660036144509": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40886",
       "source_text": "<p>State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!<br /> <br />A Successful Entrepreneur and Civic Leader, before his service in the State House, J.J. is a Proven Leader who has dedicated his life to serving his Community. In the State House, he is working hard to Protect Florida Values, Champion our Amazing Farmers and Ranchers, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />J.J. Grow has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
       "published": "Sat, 15 Aug 2026 21:32:09 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-15T22:10:39.824811Z",
+      "updated_at": "2026-08-15T22:45:45.566687Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40886",
       "first_seen": "2026-08-15T21:35:43.226104Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!\n \nA Successful Entre",
-      "next_retry_at": "2026-08-15T22:30:39.824826Z",
-      "truth_social_id": "117101660036144509"
+      "truth_social_id": "117101660036144509",
+      "source_fingerprint": "fp:State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!\n \nA Successful Entre",
+      "media_identity": "attachment:117101660036144509:",
+      "translation": "フロリダ州下院第23地区の州下院議員J.J.グローは、この素晴らしい地区の信じられないほどの人々を代表して、素晴らしい仕事をしている！\n\n成功した起業家で市民指導者であるJ.J.は、州下院での奉職以前から、自分の人生をコミュニティへの奉仕に捧げてきた実績のあるリーダーだ。州下院では、フロリダの価値観を守り、素晴らしい農家と牧場主を支持し、経済を成長させ、税金と規制を削減し、米国製を推進し、移民犯罪を阻止し、我々の軍隊と退役軍人を強化し、選挙の完全性を促進し、常に包囲されている我々の第二修正条項を守るために懸命に取り組んでいる。\n\nJ.J.グローは再選に向けて、私の完全で全面的な支持を持っている。彼は決してあなたたちを失望させることはない！"
     },
     "truth:117101661290326953": {
       "post_status": "POSTED",
