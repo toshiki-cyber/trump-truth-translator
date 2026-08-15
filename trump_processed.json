@@ -787,7 +787,10 @@
     "truth:117101384725517282",
     "https://www.trumpstruth.org/statuses/40883",
     "truth:117101395583923690",
-    "https://www.trumpstruth.org/statuses/40882"
+    "https://www.trumpstruth.org/statuses/40882",
+    "fp:State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!\n \nA Fifth Genera",
+    "truth:117101649709052792",
+    "https://www.trumpstruth.org/statuses/40888"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4586,20 +4589,22 @@
       "next_retry_at": "2026-08-15T22:35:42.758984Z"
     },
     "truth:117101649709052792": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40888",
       "source_text": "<p>State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!<br /> <br />A Fifth Generation Floridian, and a Brave U.S. Navy Veteran, Bill knows the Wisdom and Courage that is required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In the State House, he is working hard to Protect Florida Values, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Businesses and American Ingenuity, Ensure U.S. Energy DOMINANCE, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />Bill Conerly has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
       "published": "Sat, 15 Aug 2026 21:29:31 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-15T21:40:43.988197Z",
+      "updated_at": "2026-08-15T22:00:47.160228Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40888",
       "first_seen": "2026-08-15T21:35:41.873274Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!\n \nA Fifth Genera",
-      "next_retry_at": "2026-08-15T21:50:43.988213Z",
-      "truth_social_id": "117101649709052792"
+      "truth_social_id": "117101649709052792",
+      "source_fingerprint": "fp:State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!\n \nA Fifth Genera",
+      "media_identity": "attachment:117101649709052792:",
+      "translation": "州下院議員ビル・コナーリーは素晴らしい仕事をしているアメリカ・ファースト愛国者であり、フロリダ州第72区を代表している！\n\n5代目のフロリダ州民であり、勇敢なアメリカ海軍退役軍人であるビルは、わが国を防衛し、軍隊と退役軍人を支援し、力による平和を確保するために必要な知恵と勇気を持っている。州下院では、フロリダの価値観を守り、移民犯罪を阻止し、経済を成長させ、税とрегулаций削減し、メイド・イン・ザ・USA を推進し、中小企業とアメリカンイノベーションを支援し、アメリカのエネルギー支配を確保し、選挙を保護し、常に脅威にさらされている修正第2条を守るために懸命に取り組んでいる。\n\nビル・コナーリーは、再選に向けて私の完全かつ総合的な支持を得ている。彼はあなたを決して失望させない！"
     },
     "truth:117101658723920664": {
       "post_status": "RETRY",
