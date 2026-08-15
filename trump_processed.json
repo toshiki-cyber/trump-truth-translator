@@ -2597,6 +2597,22 @@
       "source_fingerprint": "fp:Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interestin",
       "media_identity": "attachment:117096018469681239:",
       "translation": "ナッサウ郡でのラリーを終えたばかりだ。ニューヨーク州知事選に出馬しているブルース・ブレイクマンを支持するためのラリーだ。群衆は大興奮だった。ニューヨーク州で非常に興味深いことが起きている！彼は素晴らしい人物であり、素晴らしい政治家であり、当選すればニューヨーク州の歴史上最高の知事になるだろう！大統領ドナルド・J・トランプ"
+    },
+    "truth:117096968191231622": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/40831",
+      "source_text": "<p></p>",
+      "published": "Sat, 15 Aug 2026 01:38:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-15T01:40:41.663229Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40831",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117096968191231622:eb27d5f526301c62.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/096/967/932/039/022/small/eb27d5f526301c62.jpg",
+      "truth_social_id": "117096968191231622",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-15T01:45:41.663247Z"
     }
   }
 }
