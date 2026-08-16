@@ -810,7 +810,10 @@
     "truth:117102785991799720",
     "https://www.trumpstruth.org/statuses/40889",
     "truth:117101426594349685",
-    "https://www.trumpstruth.org/statuses/40884"
+    "https://www.trumpstruth.org/statuses/40884",
+    "fp:Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
+    "truth:117104914617209484",
+    "https://www.trumpstruth.org/statuses/40890"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4767,6 +4770,25 @@
           "rkey": "3mt64pqsbksi2"
         }
       ]
+    },
+    "truth:117104914617209484": {
+      "post_status": "POSTED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/40890",
+      "source_text": "<p>Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT</p>",
+      "published": "Sun, 16 Aug 2026 11:19:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-16T11:25:41.660169Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40890",
+      "source_fingerprint": "fp:Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
+      "media_identity": "attachment:117104914617209484:b067a959faff6a30.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
+      "truth_social_id": "117104914617209484",
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/104/913/508/448/565/original/b067a959faff6a30.mp4",
+      "translation": "ジョージ、この素晴らしい軍事複合施設/バルルームに関するいくつかの素晴らしいアイデアをありがとう！大統領DJT"
     }
   }
 }
