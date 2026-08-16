@@ -837,7 +837,10 @@
     "https://www.trumpstruth.org/statuses/40902",
     "fp:Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals: \nhttps://nypost.com/2026/08/12/us-news/fed",
     "truth:117105416814805578",
-    "https://www.trumpstruth.org/statuses/40897"
+    "https://www.trumpstruth.org/statuses/40897",
+    "fp:FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown: \nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homic",
+    "truth:117105414445736560",
+    "https://www.trumpstruth.org/statuses/40899"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -5184,121 +5187,22 @@
       ]
     },
     "truth:117105414445736560": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40899",
       "source_text": "<p>FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown: <a href=\"https://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/fbi-touts</span><span class=\"invisible\">-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:26:57 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-16T14:40:54.567987Z",
+      "updated_at": "2026-08-16T14:55:45.772736Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40899",
       "first_seen": "2026-08-16T13:35:41.658846Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown: \nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homic",
       "truth_social_id": "117105414445736560",
       "source_fingerprint": "fp:FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown: \nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homic",
       "media_identity": "attachment:117105414445736560:",
       "translation": "FBI、トランプの首都犯罪撲滅から1年で逮捕6000件、殺人44%減を発表：\nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c2ztk62dn",
-          "cid": "bafyreihio5ebs3y52yv4dqbnctf2b7duqv3mepi3vom7exifpjlybwidk4"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c2ztk62dn",
-          "cid": "bafyreihio5ebs3y52yv4dqbnctf2b7duqv3mepi3vom7exifpjlybwidk4"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt7c2ztk62dn",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "FBI、トランプの首都犯罪撲滅から1年で逮捕6000件、殺人44%減を発表：\nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
-          "createdAt": "2026-08-16T14:30:42.206000Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 93,
-                "byteEnd": 200
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
-              "title": "FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown",
-              "description": "FBI Director Kash Patel says the Washington, D.C., crime crackdown yielded over 6,000 arrests and 1,300 illegal firearm seizures in one year.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreidjx7uc4bgmi5bi7tnrqdlycnvlh3os6aees3wrjhvrgbe6okihuq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 133963
-              }
-            }
-          }
-        },
-        "root_rkey": "3mt7c2ztk62dn",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "FBI、トランプの首都犯罪撲滅から1年で逮捕6000件、殺人44%減を発表：\nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
-          "createdAt": "2026-08-16T14:30:42.206000Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 93,
-                "byteEnd": 200
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
-              "title": "FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown",
-              "description": "FBI Director Kash Patel says the Washington, D.C., crime crackdown yielded over 6,000 arrests and 1,300 illegal firearm seizures in one year.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreidjx7uc4bgmi5bi7tnrqdlycnvlh3os6aees3wrjhvrgbe6okihuq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 133963
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c2ztk62dn",
-            "rkey": "3mt7c2ztk62dn"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c2ztk62dn",
       "expected_embed": "none",
       "expected_images": 0,
@@ -5348,9 +5252,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c2ztk62dn",
           "rkey": "3mt7c2ztk62dn"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-16T14:50:54.568016Z"
+      ]
     },
     "truth:117105415592724111": {
       "post_status": "RETRY",
