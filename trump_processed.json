@@ -803,7 +803,9 @@
     "https://www.trumpstruth.org/statuses/40881",
     "fp:State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!\n \nA Successful Entre",
     "truth:117101660036144509",
-    "https://www.trumpstruth.org/statuses/40886"
+    "https://www.trumpstruth.org/statuses/40886",
+    "truth:117101020530216761",
+    "https://www.trumpstruth.org/statuses/40879"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4432,20 +4434,19 @@
       "next_retry_at": "2026-08-15T19:55:47.353109Z"
     },
     "truth:117101020530216761": {
-      "post_status": "RETRY",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40879",
       "source_text": "<p></p>",
       "published": "Sat, 15 Aug 2026 18:49:31 +0000",
       "retry_count": 6,
-      "updated_at": "2026-08-15T21:50:41.804680Z",
+      "updated_at": "2026-08-16T00:30:49.214518Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40879",
       "source_fingerprint": null,
       "media_identity": "attachment:117101020530216761:d34fa0085356f942.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/101/020/332/279/658/small/d34fa0085356f942.jpg",
+      "failure_reason": null,
       "truth_social_id": "117101020530216761",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-16T00:30:41.804696Z"
+      "translation": ""
     },
     "truth:117101143768217641": {
       "post_status": "POSTED",
