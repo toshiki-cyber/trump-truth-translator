@@ -843,7 +843,10 @@
     "https://www.trumpstruth.org/statuses/40899",
     "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/economy/2026/08/12/trump-effect-prescription-drug-pric",
     "truth:117105418279971874",
-    "https://www.trumpstruth.org/statuses/40896"
+    "https://www.trumpstruth.org/statuses/40896",
+    "fp:Todd Blanche sworn in as AG; White House celebrates ‘huge win’: \nhttps://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-w",
+    "truth:117105419212048502",
+    "https://www.trumpstruth.org/statuses/40895"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -4941,121 +4944,22 @@
       ]
     },
     "truth:117105419212048502": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40895",
       "source_text": "<p>Todd Blanche sworn in as AG; White House celebrates ‘huge win’: <a href=\"https://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heartlandernews.com/todd-blanc</span><span class=\"invisible\">he-sworn-in-as-ag-white-house-celebrates-huge-win/</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:28:09 +0000",
       "retry_count": 5,
-      "updated_at": "2026-08-16T15:53:19.832172Z",
+      "updated_at": "2026-08-16T17:15:58.572974Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40895",
       "first_seen": "2026-08-16T13:30:44.309041Z",
-      "no_media_confirmations": 5,
-      "failure_reason": "投稿後embed確認待ち: 502 Server Error: Bad Gateway for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getPosts?uris=at%3A%2F%2Fdid%3Aplc%3Apei54lmz7zh5mz2tvsua7pqz%2Fapp.bsky.feed.post%2F3mt7c576zm2rm",
+      "no_media_confirmations": 6,
+      "failure_reason": null,
       "fingerprint": "fp:Todd Blanche sworn in as AG; White House celebrates ‘huge win’: \nhttps://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-w",
       "truth_social_id": "117105419212048502",
       "source_fingerprint": "fp:Todd Blanche sworn in as AG; White House celebrates ‘huge win’: \nhttps://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-w",
       "media_identity": "attachment:117105419212048502:",
       "translation": "トッド・ブランシュが司法長官に就任、ホワイトハウスは「大きな勝利」と祝う：\nhttps://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c576zm2rm",
-          "cid": "bafyreid6vqu5tqcpptjv577pkvfpkf3rlfnhl5r3v6i46zrgmf6aae5opi"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c576zm2rm",
-          "cid": "bafyreid6vqu5tqcpptjv577pkvfpkf3rlfnhl5r3v6i46zrgmf6aae5opi"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt7c576zm2rm",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トッド・ブランシュが司法長官に就任、ホワイトハウスは「大きな勝利」と祝う：\nhttps://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/",
-          "createdAt": "2026-08-16T15:15:41.856017Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 112,
-                "byteEnd": 200
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/",
-              "title": "Todd Blanche sworn in as AG; White House celebrates ‘huge win’ - Heartlander News",
-              "description": "President Donald Trump’s pick for U.S. attorney general, Todd Blanche, was sworn in Monday, following a contentious battle in the Senate. The Senate confirmed Blanche, Trump’s former personal lawyer, on Saturday in a 50-49 vote, with Republican Sens. Susan Collins from Maine and Lisa Murkowski of Alaska voting no with Democrats.  “Todd Blanche’s confirmation is a huge win for President […]",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiaqsaagtdfl2cjfrgeq477ruzynhrmdfkxmuu4j7673l7bdrfgcp4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 539294
-              }
-            }
-          }
-        },
-        "root_rkey": "3mt7c576zm2rm",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トッド・ブランシュが司法長官に就任、ホワイトハウスは「大きな勝利」と祝う：\nhttps://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/",
-          "createdAt": "2026-08-16T15:15:41.856017Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 112,
-                "byteEnd": 200
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-win/",
-              "title": "Todd Blanche sworn in as AG; White House celebrates ‘huge win’ - Heartlander News",
-              "description": "President Donald Trump’s pick for U.S. attorney general, Todd Blanche, was sworn in Monday, following a contentious battle in the Senate. The Senate confirmed Blanche, Trump’s former personal lawyer, on Saturday in a 50-49 vote, with Republican Sens. Susan Collins from Maine and Lisa Murkowski of Alaska voting no with Democrats.  “Todd Blanche’s confirmation is a huge win for President […]",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiaqsaagtdfl2cjfrgeq477ruzynhrmdfkxmuu4j7673l7bdrfgcp4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 539294
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c576zm2rm",
-            "rkey": "3mt7c576zm2rm"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c576zm2rm",
       "expected_embed": "none",
       "expected_images": 0,
@@ -5105,9 +5009,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c576zm2rm",
           "rkey": "3mt7c576zm2rm"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-16T17:13:19.832190Z"
+      ]
     },
     "truth:116947242320441506": {
       "post_status": "POSTED",
