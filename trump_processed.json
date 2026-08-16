@@ -4794,20 +4794,149 @@
       "translation": "ジョージ、この素晴らしい軍事複合施設/バルルームに関するいくつかの素晴らしいアイデアをありがとう！大統領DJT"
     },
     "truth:117105403616486905": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40892",
       "source_text": "<p>Trump wins legal battle to keep cheap imports subject to tariffs: <a href=\"https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/13/trump-de-</span><span class=\"invisible\">minimis-tariff-court</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:24:11 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-16T13:35:38.756057Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-16T13:45:52.617688Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40892",
       "first_seen": "2026-08-16T13:25:43.860501Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Trump wins legal battle to keep cheap imports subject to tariffs: \nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-      "next_retry_at": "2026-08-16T13:45:38.756072Z",
-      "truth_social_id": "117105403616486905"
+      "truth_social_id": "117105403616486905",
+      "source_fingerprint": "fp:Trump wins legal battle to keep cheap imports subject to tariffs: \nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+      "media_identity": "attachment:117105403616486905:",
+      "translation": "トランプ、安価な輸入品への関税適用を維持する法廷戦で勝利：\nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bw4aqzkef",
+          "cid": "bafyreigukjwgqbzf4qqwczv3yvwjw6wq6ttrctv2faxpxhqazgklu6rxty"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bw4aqzkef",
+          "cid": "bafyreigukjwgqbzf4qqwczv3yvwjw6wq6ttrctv2faxpxhqazgklu6rxty"
+        },
+        "next_index": 1,
+        "last_rkey": "3mt7bw4aqzkef",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "トランプ、安価な輸入品への関税適用を維持する法廷戦で勝利：\nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+          "createdAt": "2026-08-16T13:45:46.208054Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 88,
+                "byteEnd": 150
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+              "title": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+              "description": ""
+            }
+          }
+        },
+        "root_rkey": "3mt7bw4aqzkef",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "トランプ、安価な輸入品への関税適用を維持する法廷戦で勝利：\nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+          "createdAt": "2026-08-16T13:45:46.208054Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 88,
+                "byteEnd": 150
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+              "title": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+              "description": ""
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bw4aqzkef",
+            "rkey": "3mt7bw4aqzkef"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bw4aqzkef",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mt7bw4aqzkef",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "トランプ、安価な輸入品への関税適用を維持する法廷戦で勝利：\nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+        "createdAt": "2026-08-16T13:45:46.208054Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 88,
+              "byteEnd": 150
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+            "title": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+            "description": ""
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bw4aqzkef",
+          "rkey": "3mt7bw4aqzkef"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-16T13:50:52.617705Z"
     },
     "truth:117105405312110908": {
       "post_status": "RETRY",
