@@ -846,7 +846,10 @@
     "https://www.trumpstruth.org/statuses/40896",
     "fp:Todd Blanche sworn in as AG; White House celebrates ‘huge win’: \nhttps://heartlandernews.com/todd-blanche-sworn-in-as-ag-white-house-celebrates-huge-w",
     "truth:117105419212048502",
-    "https://www.trumpstruth.org/statuses/40895"
+    "https://www.trumpstruth.org/statuses/40895",
+    "fp:Democrats try to dodge ‘Woke 1’: \nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailin",
+    "truth:117105415592724111",
+    "https://www.trumpstruth.org/statuses/40898"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -5313,121 +5316,22 @@
       ]
     },
     "truth:117105415592724111": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40898",
       "source_text": "<p>Democrats try to dodge ‘Woke 1’: <a href=\"https://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:27:14 +0000",
       "retry_count": 6,
-      "updated_at": "2026-08-16T16:55:53.904035Z",
+      "updated_at": "2026-08-16T19:40:39.732368Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40898",
       "first_seen": "2026-08-16T13:35:42.028711Z",
-      "no_media_confirmations": 5,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 6,
+      "failure_reason": null,
       "fingerprint": "fp:Democrats try to dodge ‘Woke 1’: \nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailin",
       "truth_social_id": "117105415592724111",
       "source_fingerprint": "fp:Democrats try to dodge ‘Woke 1’: \nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailin",
       "media_identity": "attachment:117105415592724111:",
       "translation": "民主党員は「ウォーク1」から逃げ回ろうとしている：\nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c3kjmyccb",
-          "cid": "bafyreianmy62glzocfkhucy4rwlaus7emggnmclmscofibf7lpp2v6rdpa"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c3kjmyccb",
-          "cid": "bafyreianmy62glzocfkhucy4rwlaus7emggnmclmscofibf7lpp2v6rdpa"
-        },
-        "next_index": 1,
-        "last_rkey": "3mt7c3kjmyccb",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "民主党員は「ウォーク1」から逃げ回ろうとしている：\nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/",
-          "createdAt": "2026-08-16T14:40:57.700229Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 74,
-                "byteEnd": 203
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/",
-              "title": "Democrats try to dodge 'Woke 1'",
-              "description": "“Woke 1 was crazy” is a way to dismiss yesterday’s rhetorical extremism lightly while not actually abandoning the policies it expressed.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihdfkbuzmtuwodinltmv4dcuwla2vxzt2qgnqsdfvwpxodtv47e2u"
-                },
-                "mimeType": "image/jpeg",
-                "size": 150716
-              }
-            }
-          }
-        },
-        "root_rkey": "3mt7c3kjmyccb",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "民主党員は「ウォーク1」から逃げ回ろうとしている：\nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/",
-          "createdAt": "2026-08-16T14:40:57.700229Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 74,
-                "byteEnd": 203
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/",
-              "title": "Democrats try to dodge 'Woke 1'",
-              "description": "“Woke 1 was crazy” is a way to dismiss yesterday’s rhetorical extremism lightly while not actually abandoning the policies it expressed.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihdfkbuzmtuwodinltmv4dcuwla2vxzt2qgnqsdfvwpxodtv47e2u"
-                },
-                "mimeType": "image/jpeg",
-                "size": 150716
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c3kjmyccb",
-            "rkey": "3mt7c3kjmyccb"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c3kjmyccb",
       "expected_embed": "none",
       "expected_images": 0,
@@ -5477,9 +5381,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c3kjmyccb",
           "rkey": "3mt7c3kjmyccb"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-16T19:35:53.904071Z"
+      ]
     },
     "truth:117105416814805578": {
       "post_status": "POSTED",
