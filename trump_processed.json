@@ -825,7 +825,10 @@
     "https://www.trumpstruth.org/statuses/40903",
     "fp:Trump wins legal battle to keep cheap imports subject to tariffs: \nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
     "truth:117105403616486905",
-    "https://www.trumpstruth.org/statuses/40892"
+    "https://www.trumpstruth.org/statuses/40892",
+    "fp:Biden-era directive for diplomats to peddle DEI on foreign governments scrapped by State Department: \nhttps://www.foxnews.com/politics/biden-era-direc",
+    "truth:117105409609794697",
+    "https://www.trumpstruth.org/statuses/40901"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -5026,17 +5029,17 @@
       ]
     },
     "truth:117105407858063694": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
+      "post_status": "RETRY",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40902",
       "source_text": "<p>Peter Navarro: It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:25:16 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-16T14:05:53.810474Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-16T14:20:56.917591Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40902",
       "first_seen": "2026-08-16T13:35:40.468562Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Peter Navarro: It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "truth_social_id": "117105407858063694",
       "source_fingerprint": "fp:Peter Navarro: It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
@@ -5168,23 +5171,25 @@
         }
       ],
       "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-16T14:10:53.810489Z"
+      "next_retry_at": "2026-08-16T14:30:56.917621Z"
     },
     "truth:117105409609794697": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40901",
       "source_text": "<p>Biden-era directive for diplomats to peddle DEI on foreign governments scrapped by State Department: <a href=\"https://www.foxnews.com/politics/biden-era-directive-diplomats-peddle-dei-foreign-governments-scrapped-state-department\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/biden-era</span><span class=\"invisible\">-directive-diplomats-peddle-dei-foreign-governments-scrapped-state-department</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:25:43 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-16T13:40:42.977608Z",
+      "updated_at": "2026-08-16T14:20:59.271057Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40901",
       "first_seen": "2026-08-16T13:35:40.826843Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Biden-era directive for diplomats to peddle DEI on foreign governments scrapped by State Department: \nhttps://www.foxnews.com/politics/biden-era-direc",
-      "next_retry_at": "2026-08-16T13:50:42.977627Z",
-      "truth_social_id": "117105409609794697"
+      "truth_social_id": "117105409609794697",
+      "source_fingerprint": "fp:Biden-era directive for diplomats to peddle DEI on foreign governments scrapped by State Department: \nhttps://www.foxnews.com/politics/biden-era-direc",
+      "media_identity": "attachment:117105409609794697:",
+      "translation": "バイデン時代の外交官にDEIを外国政府に売り込むよう指示した指令が国務省により廃止される：\nhttps://www.foxnews.com/politics/biden-era-directive-diplomats-peddle-dei-foreign-governments-scrapped-state-department"
     },
     "truth:117105412156776252": {
       "post_status": "RETRY",
