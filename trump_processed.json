@@ -5192,20 +5192,173 @@
       "translation": "バイデン時代の外交官にDEIを外国政府に売り込むよう指示した指令が国務省により廃止される：\nhttps://www.foxnews.com/politics/biden-era-directive-diplomats-peddle-dei-foreign-governments-scrapped-state-department"
     },
     "truth:117105412156776252": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40900",
       "source_text": "<p>FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:26:22 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-16T13:40:43.406732Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-16T14:26:03.750646Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40900",
       "first_seen": "2026-08-16T13:35:41.238979Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 502 Server Error: Bad Gateway for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getPosts?uris=at%3A%2F%2Fdid%3Aplc%3Apei54lmz7zh5mz2tvsua7pqz%2Fapp.bsky.feed.post%2F3mt7bzyjnrc6l",
       "fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
-      "next_retry_at": "2026-08-16T13:50:43.406749Z",
-      "truth_social_id": "117105412156776252"
+      "truth_social_id": "117105412156776252",
+      "source_fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
+      "media_identity": "attachment:117105412156776252:",
+      "translation": "FBIはバイデン汚職に関する14人の情報提供者を抱えていたが、証拠を偽情報として却下する秘密作戦を実行していた：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bzyjnrc6l",
+          "cid": "bafyreid35hqzfqhtv44mgmjqtpii7ajuyllwjubp7xemwpao26o4fzi4zm"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bzyjnrc6l",
+          "cid": "bafyreid35hqzfqhtv44mgmjqtpii7ajuyllwjubp7xemwpao26o4fzi4zm"
+        },
+        "next_index": 1,
+        "last_rkey": "3mt7bzyjnrc6l",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "FBIはバイデン汚職に関する14人の情報提供者を抱えていたが、証拠を偽情報として却下する秘密作戦を実行していた：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants",
+          "createdAt": "2026-08-16T14:25:48.808846Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 159,
+                "byteEnd": 276
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants",
+              "title": "FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation",
+              "description": "Bureau secretly flagged Cabinet officials like Bill Barr and Mike Pompeo, lawmakers and journalists as ‘conduits’ for Russia propaganda.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigo2tzd4app6vqrs74s73fvfz6ff36t2o2q2va3pwsozn4kls63kq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 96323
+              }
+            }
+          }
+        },
+        "root_rkey": "3mt7bzyjnrc6l",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "FBIはバイデン汚職に関する14人の情報提供者を抱えていたが、証拠を偽情報として却下する秘密作戦を実行していた：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants",
+          "createdAt": "2026-08-16T14:25:48.808846Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 159,
+                "byteEnd": 276
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants",
+              "title": "FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation",
+              "description": "Bureau secretly flagged Cabinet officials like Bill Barr and Mike Pompeo, lawmakers and journalists as ‘conduits’ for Russia propaganda.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigo2tzd4app6vqrs74s73fvfz6ff36t2o2q2va3pwsozn4kls63kq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 96323
+              }
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bzyjnrc6l",
+            "rkey": "3mt7bzyjnrc6l"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bzyjnrc6l",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mt7bzyjnrc6l",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "FBIはバイデン汚職に関する14人の情報提供者を抱えていたが、証拠を偽情報として却下する秘密作戦を実行していた：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants",
+        "createdAt": "2026-08-16T14:25:48.808846Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 159,
+              "byteEnd": 276
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants",
+            "title": "FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation",
+            "description": "Bureau secretly flagged Cabinet officials like Bill Barr and Mike Pompeo, lawmakers and journalists as ‘conduits’ for Russia propaganda.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigo2tzd4app6vqrs74s73fvfz6ff36t2o2q2va3pwsozn4kls63kq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 96323
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bzyjnrc6l",
+          "rkey": "3mt7bzyjnrc6l"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-16T14:31:03.750665Z"
     },
     "truth:117105414445736560": {
       "post_status": "RETRY",
