@@ -5408,17 +5408,17 @@
       ]
     },
     "truth:117105415592724111": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
+      "post_status": "RETRY",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40898",
       "source_text": "<p>Democrats try to dodge ‘Woke 1’: <a href=\"https://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/</span></a></p>",
       "published": "Sun, 16 Aug 2026 13:27:14 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-16T15:32:35.709543Z",
+      "retry_count": 6,
+      "updated_at": "2026-08-16T16:55:53.904035Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40898",
       "first_seen": "2026-08-16T13:35:42.028711Z",
       "no_media_confirmations": 5,
-      "failure_reason": "投稿後embed確認待ち: 504 Server Error: Gateway Timeout for url: https://public.api.bsky.app/xrpc/app.bsky.feed.getPosts?uris=at%3A%2F%2Fdid%3Aplc%3Apei54lmz7zh5mz2tvsua7pqz%2Fapp.bsky.feed.post%2F3mt7c3kjmyccb",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Democrats try to dodge ‘Woke 1’: \nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailin",
       "truth_social_id": "117105415592724111",
       "source_fingerprint": "fp:Democrats try to dodge ‘Woke 1’: \nhttps://www.washingtonexaminer.com/opinion/editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailin",
@@ -5574,7 +5574,7 @@
         }
       ],
       "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-16T16:52:35.709572Z"
+      "next_retry_at": "2026-08-16T19:35:53.904071Z"
     },
     "truth:117105416814805578": {
       "post_status": "POSTED",
