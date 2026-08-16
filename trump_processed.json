@@ -852,7 +852,10 @@
     "https://www.trumpstruth.org/statuses/40898",
     "fp:Watching FoxNews with Shannon Bream is always like watching the Worst of Fake News CNN. I don’t know Shannon, but she always seems to pick guests, cha",
     "truth:117107001767972921",
-    "https://www.trumpstruth.org/statuses/40904"
+    "https://www.trumpstruth.org/statuses/40904",
+    "fp:Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to part",
+    "truth:117107215379637520",
+    "https://www.trumpstruth.org/statuses/40905"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -5546,31 +5549,33 @@
       "status_url": "https://www.trumpstruth.org/statuses/40906",
       "source_text": "<p>Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middle East is coming together, and how Countries will finally be able to defend themselves in a more meaningful way. Congratulations to the Great Leadership of the three Nations mentioned. THIS IS A BIG, BOLD, AND IMPORTANT FIRST STEP — WOW! President DONALD J. TRUMP</p>",
       "published": "Sun, 16 Aug 2026 21:04:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-16T21:10:43.748049Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-16T21:25:55.430382Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40906",
       "first_seen": "2026-08-16T21:05:40.480261Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middl",
-      "next_retry_at": "2026-08-16T21:20:43.748063Z",
+      "next_retry_at": "2026-08-16T21:45:55.430411Z",
       "truth_social_id": "117107211893196124"
     },
     "truth:117107215379637520": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40905",
       "source_text": "<p>Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea. These exercises are not only costly, with much of these costs paid for by the United States of America (as usual!), but send a signal that is totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful. Therefore, and based on the fact that it is too late to cancel, I have instructed Secretary of War, Pete Hegseth, to substantially reduce the Joint Military Exercises! While somewhat unrelated (?), I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran, and they said, “No thanks!” Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Sun, 16 Aug 2026 21:04:57 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-16T21:10:44.060973Z",
+      "updated_at": "2026-08-16T21:25:59.520783Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40905",
       "first_seen": "2026-08-16T21:05:41.125596Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to part",
-      "next_retry_at": "2026-08-16T21:20:44.060987Z",
-      "truth_social_id": "117107215379637520"
+      "truth_social_id": "117107215379637520",
+      "source_fingerprint": "fp:Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to part",
+      "media_identity": "attachment:117107215379637520:",
+      "translation": "北朝鮮の金正恩との非常に良好な関係に基づいて、米国が長年前に韓国との共同軍事演習に参加することに同意したという事実に満足していない。これらの演習は費用がかかるだけでなく、その多くは米国が負担しており（いつものことだ！）、ドナルド・J・トランプが大統領である限り脅威にならず敬意を示してきた国に対して、全く不適切で敵対的なシグナルを発している。したがって、キャンセルするには手遅れであるという事実に基づいて、戦争長官ピート・ヘッグスに共同軍事演習を大幅に削減するよう指示した。やや関係ないことだが（？）、最近韓国の大統領にイスラム共和国イランの非核化に我々と一緒に参加したいかどうか尋ねたところ、彼らは「結構です」と言った。この件への注意をありがとう。大統領ドナルド・J・トランプ"
     }
   }
 }
