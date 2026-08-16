@@ -4727,6 +4727,22 @@
           "rkey": "3mt5mqcae5cfh"
         }
       ]
+    },
+    "truth:117102785991799720": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40889",
+      "source_text": "<p>The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible. More sun later in the day is better (including for fighting crime!), but, even more importantly, NO MORE RIDICULOUSLY CHANGING CLOCKS AND WATCHES TWICE YEARLY, with all of the disruption and chaos it causes. FINALLY, GET IT DONE!!! President DJT</p>",
+      "published": "Sun, 16 Aug 2026 02:18:30 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-16T02:25:43.472951Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40889",
+      "first_seen": "2026-08-16T02:25:43.472923Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible. More sun later in the day is better (including for fighting crime!), ",
+      "next_retry_at": "2026-08-16T02:30:43.472960Z",
+      "truth_social_id": "117102785991799720"
     }
   }
 }
