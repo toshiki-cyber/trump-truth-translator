@@ -843,6 +843,13 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         mock_translate.assert_called_once()
         mock_post.assert_called_once()
         self.assertIsNone(mock_post.call_args.args[4])
+        self.assertEqual(
+            mock_post.call_args.args[0],
+            [
+                "日本語訳\n\n動画はこちら："
+                "https://truthsocial.com/@realDonaldTrump/posts/117000000000000000"
+            ],
+        )
         mock_verify.assert_called_with("at://posted", "none", 0)
         video_state = next(iter(history["posts"].values()))
         self.assertEqual(video_state["media_state"], "INVALID")
@@ -895,6 +902,13 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         mock_translate.assert_called_once()
         mock_post.assert_called_once()
         self.assertIsNone(mock_post.call_args.args[4])
+        self.assertEqual(
+            mock_post.call_args.args[0],
+            [
+                "日本語訳\n\n動画はこちら："
+                "https://truthsocial.com/@realDonaldTrump/posts/117000000000000009"
+            ],
+        )
         mock_verify.assert_called_with("at://posted", "none", 0)
 
     @patch("trump_truth_translator.requests.get")

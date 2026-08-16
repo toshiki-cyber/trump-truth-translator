@@ -187,6 +187,17 @@ def can_fallback_video_to_text(text):
     return bool(re.sub(r'[\s\xa0]+', '', plain))
 
 
+def append_video_fallback_url(text, truth_social_id):
+    """動画を添付できない場合だけ、公式元投稿への導線を本文末尾へ付ける。"""
+    truth_id = str(truth_social_id or '').strip()
+    if not truth_id.isdigit():
+        return text
+    url = f'https://truthsocial.com/@realDonaldTrump/posts/{truth_id}'
+    if url in text:
+        return text
+    return f'{text.rstrip()}\n\n動画はこちら：{url}'
+
+
 def processed_entries(history):
     """テスト中の旧リスト入力にも対応して処理済み一覧を返す。"""
     if isinstance(history, dict):
@@ -2101,6 +2112,10 @@ def main():
             full_translation = rt_header + translation
         else:
             full_translation = translation
+        if video_fallback_reason:
+            full_translation = append_video_fallback_url(
+                full_translation, post.get('truth_social_id')
+            )
 
         media_info = "動画あり" if video_blob else f"画像{len(image_blobs)}枚"
         chunks = split_for_posts(full_translation)
