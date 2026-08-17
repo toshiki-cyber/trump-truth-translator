@@ -5610,8 +5610,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/40909",
       "source_text": "<p>I am happy to reveal that former hostage Kevin Rideout is getting ready to fly home to the United States after having been reunited with his beautiful wife, Krista. This return marks the 110th captive American liberated since I was sworn in as President for a second time. I look forward to seeing Kevin and Krista at the White House soon! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Mon, 17 Aug 2026 00:56:58 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-17T01:30:58.081762Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-17T01:55:41.317917Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40909",
       "source_fingerprint": "fp:I am happy to reveal that former hostage Kevin Rideout is getting ready to fly home to the United States after having been reunited with his beautiful",
       "media_identity": "attachment:117108127758253239:174a11a4430cedf4.jpg,3f7e2bdab5c9476b.jpg",
@@ -5619,7 +5619,7 @@
       "fingerprint": "fp:I am happy to reveal that former hostage Kevin Rideout is getting ready to fly home to the United States after having been reunited with his beautiful",
       "truth_social_id": "117108127758253239",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-17T01:50:58.081777Z"
+      "next_retry_at": "2026-08-17T02:35:41.317938Z"
     },
     "truth:117108132750817532": {
       "post_status": "RETRY",
