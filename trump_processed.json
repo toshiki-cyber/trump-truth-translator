@@ -858,7 +858,10 @@
     "https://www.trumpstruth.org/statuses/40905",
     "fp:Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middl",
     "truth:117107211893196124",
-    "https://www.trumpstruth.org/statuses/40906"
+    "https://www.trumpstruth.org/statuses/40906",
+    "fp:https://x.com/hughhewitt/status/2088956209831227412?s=12",
+    "truth:117107922369654535",
+    "https://www.trumpstruth.org/statuses/40907"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -5581,6 +5584,22 @@
       "source_fingerprint": "fp:Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to part",
       "media_identity": "attachment:117107215379637520:",
       "translation": "北朝鮮の金正恩との非常に良好な関係に基づいて、米国が長年前に韓国との共同軍事演習に参加することに同意したという事実に満足していない。これらの演習は費用がかかるだけでなく、その多くは米国が負担しており（いつものことだ！）、ドナルド・J・トランプが大統領である限り脅威にならず敬意を示してきた国に対して、全く不適切で敵対的なシグナルを発している。したがって、キャンセルするには手遅れであるという事実に基づいて、戦争長官ピート・ヘッグスに共同軍事演習を大幅に削減するよう指示した。やや関係ないことだが（？）、最近韓国の大統領にイスラム共和国イランの非核化に我々と一緒に参加したいかどうか尋ねたところ、彼らは「結構です」と言った。この件への注意をありがとう。大統領ドナルド・J・トランプ"
+    },
+    "truth:117107922369654535": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/40907",
+      "source_text": "<p><a href=\"https://x.com/hughhewitt/status/2088956209831227412?s=12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/hughhewitt/status/208895</span><span class=\"invisible\">6209831227412?s=12</span></a></p>",
+      "published": "Mon, 17 Aug 2026 00:04:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-17T00:10:45.871524Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40907",
+      "source_fingerprint": "fp:https://x.com/hughhewitt/status/2088956209831227412?s=12",
+      "media_identity": "attachment:117107922369654535:29f57c63e9f746a9.png",
+      "failure_reason": null,
+      "fingerprint": "fp:https://x.com/hughhewitt/status/2088956209831227412?s=12",
+      "truth_social_id": "117107922369654535",
+      "translation": "https://x.com/hughhewitt/status/2088956209831227412?s=12"
     }
   }
 }
