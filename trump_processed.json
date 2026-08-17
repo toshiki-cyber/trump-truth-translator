@@ -882,7 +882,10 @@
     "https://www.trumpstruth.org/statuses/40915",
     "fp:.\nhttps://truthsocial.com/@realDonaldTrump: \"You're very disrespectful in front of this young man... You're a loud, boisterous person. You're Fake New",
     "truth:117112208022087712",
-    "https://www.trumpstruth.org/statuses/40916"
+    "https://www.trumpstruth.org/statuses/40916",
+    "fp:Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, an",
+    "truth:117113263662596354",
+    "https://www.trumpstruth.org/statuses/40920"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6014,20 +6017,22 @@
       "updated_at": "2026-08-17T22:50:48.403342Z"
     },
     "truth:117113263662596354": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40920",
       "source_text": "<p>Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, and 2024!<br /> <br />A very successful Businessman, Nick knows the America First Policies required to Create Great Jobs, Cut Taxes, Strengthen our Economy, and Eliminate Government Waste. He will never stop fighting to Secure our Border, Stop Migrant Crime, Halt the Flow of Illegal Drugs, Strengthen our Military/Vets, Champion American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Nick Begich has my Complete and Total Endorsement for Re-Election! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR NICK — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/alaska/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/alaska/</span><span class=\"invisible\"></span></a></p>",
       "published": "Mon, 17 Aug 2026 22:43:06 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-17T23:00:40.829809Z",
+      "updated_at": "2026-08-17T23:10:47.501687Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40920",
       "first_seen": "2026-08-17T22:50:48.930044Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, an",
-      "next_retry_at": "2026-08-17T23:10:40.829824Z",
-      "truth_social_id": "117113263662596354"
+      "truth_social_id": "117113263662596354",
+      "source_fingerprint": "fp:Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, an",
+      "media_identity": "attachment:117113263662596354:",
+      "translation": "アラスカの偉大な国民を代表するニック・ベギッチ下院議員は素晴らしい仕事をしている。私が愛する州であり、2016年、2020年、2024年の3度の大勝利を収めた州だ！\n\nベギッチは非常に成功したビジネスマンであり、素晴らしい雇用を創出し、税金を削減し、経済を強化し、政府の無駄を排除するのに必要なアメリカ第一主義の政策を理解している。彼は国境を確保し、移民犯罪を阻止し、違法薬物の流入を止め、軍隊と退役軍人を強化し、アメリカのエネルギー支配を擁護し、常に脅威にさらされている第二修正条項を守るために決して戦うことをやめない。\n\nニック・ベギッチは再選に向けて私の完全かつ総合的な支持を得ている！投票日は8月18日（火）だ。ニックに投票に行こう——彼は君たちを絶対に失望させない！\n\n投票所の場所はここで確認できる：\nhttps://swampthevoteusa.com/alaska/"
     },
     "https://www.trumpstruth.org/statuses/40922": {
       "post_status": "DISCOVERED",
@@ -6037,6 +6042,16 @@
       "published": "Mon, 17 Aug 2026 22:50:40 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-17T22:55:38.804927Z"
+    },
+    "truth:117113347902795107": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40923",
+      "source_text": "<p>Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a valid Photo ID? India’s last Election had 646,000,000 Voters! Less than 1% voted by mail, and every single Voter had to have a VALID Photo Identity Document. We need to pass THE SAVE AMERICA ACT, now! President DONALD J. TRUMP</p>",
+      "published": "Mon, 17 Aug 2026 23:04:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-17T23:10:41.607593Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40923"
     }
   }
 }
