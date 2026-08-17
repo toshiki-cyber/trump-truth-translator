@@ -5828,14 +5828,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40914",
       "source_text": "<p>The number one Goal is, and always will be, that Iran cannot have, in any way, shape, or form, a Nuclear Weapon. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Mon, 17 Aug 2026 10:18:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-17T10:20:43.069716Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-17T10:30:41.618862Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40914",
       "first_seen": "2026-08-17T10:20:43.069682Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The number one Goal is, and always will be, that Iran cannot have, in any way, shape, or form, a Nuclear Weapon. Thank you for your attention to this ",
-      "next_retry_at": "2026-08-17T10:25:43.069724Z",
+      "next_retry_at": "2026-08-17T10:40:41.618881Z",
       "truth_social_id": "117110334410901963"
     }
   }
