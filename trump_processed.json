@@ -5994,6 +5994,40 @@
       "truth_social_id": "117112658969251157",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-08-17T23:00:46.934174Z"
+    },
+    "https://www.trumpstruth.org/statuses/40919": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40919",
+      "source_text": "<p>“MAGA” Megan Degenfelder is running to be the next Governor of the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024. Megan is fantastic, and strongly supported by many of our Greatest Warriors, including future Senator Harriet Hageman!<br /> <br />A Sixth Generation Wyomingite, and Wyoming’s very popular Superintendent of Public Instruction, Megan has dedicated her life to serving her Community. As your next Governor, Megan will work tirelessly to Champion Wyoming Values, Promote our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Megan Degenfelder has my Complete and Total Endorsement! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR “MAGA” MEGAN — SHE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/wyoming/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/wyoming/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 17 Aug 2026 22:50:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-17T22:50:48.403310Z"
+    },
+    "https://www.trumpstruth.org/statuses/40921": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40921",
+      "source_text": "<p>Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources.<br /> <br />Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than “TRUMP,” including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment.<br /> <br />Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named “Dan Sullivan,” and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to “trick” Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don’t be fooled. The Senator you want to vote for is:<br /> <br />“SULLIVAN, DAN S. — REGISTERED REPUBLICAN/INCUMBENT”<br /> <br />“SULLIVAN, DAN S” has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/alaska/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/alaska/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 17 Aug 2026 22:42:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-17T22:50:48.403342Z"
+    },
+    "truth:117113263662596354": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40920",
+      "source_text": "<p>Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, and 2024!<br /> <br />A very successful Businessman, Nick knows the America First Policies required to Create Great Jobs, Cut Taxes, Strengthen our Economy, and Eliminate Government Waste. He will never stop fighting to Secure our Border, Stop Migrant Crime, Halt the Flow of Illegal Drugs, Strengthen our Military/Vets, Champion American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Nick Begich has my Complete and Total Endorsement for Re-Election! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR NICK — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/alaska/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/alaska/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 17 Aug 2026 22:43:06 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-17T22:50:48.930084Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40920",
+      "first_seen": "2026-08-17T22:50:48.930044Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, an",
+      "next_retry_at": "2026-08-17T22:55:48.930093Z",
+      "truth_social_id": "117113263662596354"
     }
   }
 }
