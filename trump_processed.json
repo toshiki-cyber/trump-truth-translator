@@ -885,7 +885,10 @@
     "https://www.trumpstruth.org/statuses/40916",
     "fp:Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, an",
     "truth:117113263662596354",
-    "https://www.trumpstruth.org/statuses/40920"
+    "https://www.trumpstruth.org/statuses/40920",
+    "fp:Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a va",
+    "truth:117113347902795107",
+    "https://www.trumpstruth.org/statuses/40923"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6044,20 +6047,22 @@
       "updated_at": "2026-08-17T22:55:38.804927Z"
     },
     "truth:117113347902795107": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40923",
       "source_text": "<p>Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a valid Photo ID? India’s last Election had 646,000,000 Voters! Less than 1% voted by mail, and every single Voter had to have a VALID Photo Identity Document. We need to pass THE SAVE AMERICA ACT, now! President DONALD J. TRUMP</p>",
       "published": "Mon, 17 Aug 2026 23:04:32 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-17T23:25:42.109868Z",
+      "updated_at": "2026-08-17T23:40:45.857952Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40923",
       "first_seen": "2026-08-17T23:15:50.963424Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a va",
-      "next_retry_at": "2026-08-17T23:35:42.109884Z",
-      "truth_social_id": "117113347902795107"
+      "truth_social_id": "117113347902795107",
+      "source_fingerprint": "fp:Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a va",
+      "media_identity": "attachment:117113347902795107:",
+      "translation": "先月、インドの選挙委員会委員長ギャネッシュ・クマルが我々の政権に質問した。米国はどうして有効な身分証明書なしに選挙ができるのか、と。インドの前回の選挙には6億4600万人の投票者がいた！メール投票は1%未満で、投票者全員が有効な身分証明書を提示する必要があったのだ。今こそ「SAVE AMERICA ACT」を可決する必要がある！大統領ドナルド・J・トランプ"
     }
   }
 }
