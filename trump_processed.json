@@ -5636,24 +5636,36 @@
       "next_retry_at": "2026-08-17T01:30:59.144995Z"
     },
     "truth:117108144716925846": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40913",
       "source_text": "<p>During Shannon Bream’s show, they showed pictures of the Military Complex/Ballroom site at the White House. Unfortunately, the pictures were months old, before much work had been started. Now the hardest work is substantially complete with work on the roof/DronePort to begin very shortly. Why didn’t Shannon Bream, “Milktoast” to her friends, show the updated pictures instead of ones that were so old and irrelevant? Her show, Fox News Sunday, is so biased against MAGA, “TRUMP,” and Republicans, that it is ridiculous! Even Chris Wallace was better, and he was really bad (WHERE IS CHRIS WALLACE?). Also, she, Brett B, and others, should stop showing Fake Polls — They’re just embarrassing themselves. It reminds me of the November 5, 2024 Presidential Election, just prior to winning IN A LANDSLIDE, including 7 out of 7 Swing States, the Popular Vote, 86% of the Counties, and the Electoral College, 312 to 226! President DONALD J. TRUMP</p>",
       "published": "Mon, 17 Aug 2026 01:01:17 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-17T01:10:39.095429Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40913"
+      "retry_count": 1,
+      "updated_at": "2026-08-17T01:25:44.728948Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40913",
+      "first_seen": "2026-08-17T01:25:44.728915Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:During Shannon Bream’s show, they showed pictures of the Military Complex/Ballroom site at the White House. Unfortunately, the pictures were months ol",
+      "next_retry_at": "2026-08-17T01:30:44.728957Z",
+      "truth_social_id": "117108144716925846"
     },
-    "url:https://www.trumpstruth.org/statuses/40912": {
-      "post_status": "DISCOVERED",
+    "truth:117108149059035107": {
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40912",
       "source_text": "<p>Thank you!</p><p>Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: <a href=\"https://www.foxnews.com/video/6403476736112\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640347673611</span><span class=\"invisible\">2</span></a></p>",
       "published": "Mon, 17 Aug 2026 01:02:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-17T01:05:43.854461Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40912"
+      "retry_count": 1,
+      "updated_at": "2026-08-17T01:25:45.726430Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40912",
+      "first_seen": "2026-08-17T01:25:45.726400Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Thank you!\nTrump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: \nhttps://www.foxnews.com/video/6403476736112",
+      "next_retry_at": "2026-08-17T01:30:45.726439Z",
+      "truth_social_id": "117108149059035107"
     }
   }
 }
