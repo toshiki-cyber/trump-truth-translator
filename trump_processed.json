@@ -5849,14 +5849,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40915",
       "source_text": "<p>Trump Bump: Tax refunds jumped 17% after president’s signature law, GAO reports: <a href=\"https://justthenews.com/government/federal-agencies/total-tax-refunds-issued-2025-jumped-17-compared-2024-paper-check\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/total-tax-refunds-issued-2025-jumped-17-compared-2024-paper-check</span></a></p>",
       "published": "Mon, 17 Aug 2026 10:55:03 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-17T11:00:41.087071Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-17T11:05:42.150336Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40915",
       "first_seen": "2026-08-17T11:00:41.087031Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trump Bump: Tax refunds jumped 17% after president’s signature law, GAO reports: \nhttps://justthenews.com/government/federal-agencies/total-tax-refund",
-      "next_retry_at": "2026-08-17T11:05:41.087080Z",
+      "next_retry_at": "2026-08-17T11:15:42.150355Z",
       "truth_social_id": "117110479507145029"
     }
   }
