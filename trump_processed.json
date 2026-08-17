@@ -5627,8 +5627,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/40908",
       "source_text": "<p>Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and better than ever, shortly. Anybody who thinks the Reflecting Pool wasn’t vandalized should go back to Law School! President DONALD J. TRUMP</p>",
       "published": "Mon, 17 Aug 2026 00:58:15 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-17T01:35:39.542385Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-17T02:00:44.710942Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40908",
       "source_fingerprint": "fp:Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and",
       "media_identity": "attachment:117108132750817532:74030ea9a61b988c.jpg",
@@ -5636,7 +5636,7 @@
       "fingerprint": "fp:Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and",
       "truth_social_id": "117108132750817532",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-17T01:55:39.542397Z"
+      "next_retry_at": "2026-08-17T02:40:44.710956Z"
     },
     "truth:117108144716925846": {
       "post_status": "POSTED",
