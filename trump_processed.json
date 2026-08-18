@@ -6842,6 +6842,22 @@
       "fingerprint": "fp:I am pleased to nominate Zach West to serve as Judge on the United States District Court for the Northern District of Oklahoma, a place I love! Zach h",
       "next_retry_at": "2026-08-18T21:35:45.374727Z",
       "truth_social_id": "117118626722039422"
+    },
+    "truth:117118656507718365": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40971",
+      "source_text": "<p>I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for the District of Alaska. Kyle is currently a Magistrate Judge on the Federal Court in Alaska, and previously worked for many years as a Federal Prosecutor in Alaska and California, and as a Judge Advocate in the U.S. Army JAG Corps. He is a Graduate of the University of Virginia School of Law and Centre College. The people of Alaska are lucky to have a Public Servant and Patriot like Kyle on the Bench. Congratulations Kyle! President DONALD J. TRUMP</p>",
+      "published": "Tue, 18 Aug 2026 21:34:34 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-18T21:35:38.993937Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40971",
+      "first_seen": "2026-08-18T21:35:38.993902Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for ",
+      "next_retry_at": "2026-08-18T21:40:38.993946Z",
+      "truth_social_id": "117118656507718365"
     }
   }
 }
