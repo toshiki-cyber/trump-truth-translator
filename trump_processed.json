@@ -945,7 +945,10 @@
     "https://www.trumpstruth.org/statuses/40973",
     "fp:I am pleased to nominate Trevor Pemberton to serve as Judge on the United States District Court for the Eastern District of Oklahoma. I won Oklahoma a",
     "truth:117118611688599747",
-    "https://www.trumpstruth.org/statuses/40969"
+    "https://www.trumpstruth.org/statuses/40969",
+    "fp:I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for ",
+    "truth:117118656507718365",
+    "https://www.trumpstruth.org/statuses/40971"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6899,20 +6902,22 @@
       "translation": "オクラホマ州北部地区連邦地方裁判所の判事に就任するザック・ウェストを指名することを喜んでお知らせする。私が愛する場所だ！ザックはオクラホマ州司法長官室として、そしてオクラホマ州司法長官室特別訴訟部長として、憲法、宗教の自由、そして法の支配のために熱心に尽力してきた。アーカンソー州東部地区のJ・レオン・ホルムス判事と、第10巡回区米国控訴裁判所のボビー・バルドック判事の下で書記官を務めた。ザックはオクラホマ大学とオクラホマ大学法学部を卒業した二重のスーナーである。オクラホマ州の偉大な国民のための真の闘士であるザックは、決して諸君を失望させることはない。おめでとうザック！ドナルド・J・トランプ大統領"
     },
     "truth:117118656507718365": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40971",
       "source_text": "<p>I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for the District of Alaska. Kyle is currently a Magistrate Judge on the Federal Court in Alaska, and previously worked for many years as a Federal Prosecutor in Alaska and California, and as a Judge Advocate in the U.S. Army JAG Corps. He is a Graduate of the University of Virginia School of Law and Centre College. The people of Alaska are lucky to have a Public Servant and Patriot like Kyle on the Bench. Congratulations Kyle! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 21:34:34 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-18T22:00:39.012400Z",
+      "updated_at": "2026-08-18T22:25:53.737540Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40971",
       "first_seen": "2026-08-18T21:35:38.993902Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for ",
-      "next_retry_at": "2026-08-18T22:20:39.012414Z",
-      "truth_social_id": "117118656507718365"
+      "truth_social_id": "117118656507718365",
+      "source_fingerprint": "fp:I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for ",
+      "media_identity": "attachment:117118656507718365:",
+      "translation": "アラスカ州の皆さんに素晴らしいニュースがある。私はカイル・リアドンをアラスカ地区連邦地裁の判事に指名する栄誉に浴している。カイルは現在、アラスカの連邦地裁の判事補を務めており、以前はアラスカとカリフォルニアで長年連邦検察官として働き、米陸軍法務部隊で法務官として勤務していた。バージニア大学ロースクールとセントレ・カレッジの卒業生である。アラスカの人々はカイルのような公務員で愛国者がベンチにいることは幸運だ。おめでとう、カイル！ドナルド・J・トランプ大統領"
     },
     "truth:117118679309261908": {
       "post_status": "POSTED",
