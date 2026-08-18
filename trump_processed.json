@@ -942,7 +942,10 @@
     "https://www.trumpstruth.org/statuses/40972",
     "fp:I am proud to nominate Richard Bennett to serve as Judge on the United States District Court for the Southern District of Texas. Richard has dedicated",
     "truth:117118691151954389",
-    "https://www.trumpstruth.org/statuses/40973"
+    "https://www.trumpstruth.org/statuses/40973",
+    "fp:I am pleased to nominate Trevor Pemberton to serve as Judge on the United States District Court for the Eastern District of Oklahoma. I won Oklahoma a",
+    "truth:117118611688599747",
+    "https://www.trumpstruth.org/statuses/40969"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6860,20 +6863,22 @@
       ]
     },
     "truth:117118611688599747": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40969",
       "source_text": "<p>I am pleased to nominate Trevor Pemberton to serve as Judge on the United States District Court for the Eastern District of Oklahoma. I won Oklahoma all three times, with the Highest Vote Total ever recorded in the State’s History, and all 77 out of 77 Counties — SO OBVIOUSLY, I LOVE OKLAHOMA! Trevor is a longtime public servant with a strong record as a District Judge for Oklahoma County, an Appellate Judge on the Oklahoma Court of Civil Appeals, and General Counsel to the Governor. Trevor received his J.D. from Oklahoma City University, and B.A. from the University of Oklahoma. Trevor will be a Strong Defender of the Constitutional Rights of all Oklahomans. Congratulations Trevor! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 21:23:11 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-18T21:55:59.302066Z",
+      "updated_at": "2026-08-18T22:20:48.653901Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40969",
       "first_seen": "2026-08-18T21:30:44.002878Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am pleased to nominate Trevor Pemberton to serve as Judge on the United States District Court for the Eastern District of Oklahoma. I won Oklahoma a",
-      "next_retry_at": "2026-08-18T22:15:59.302096Z",
-      "truth_social_id": "117118611688599747"
+      "truth_social_id": "117118611688599747",
+      "source_fingerprint": "fp:I am pleased to nominate Trevor Pemberton to serve as Judge on the United States District Court for the Eastern District of Oklahoma. I won Oklahoma a",
+      "media_identity": "attachment:117118611688599747:",
+      "translation": "オクラホマ州東部地区米国地方裁判所の判事として職務を遂行するトレバー・ペンバートンを指名できることを喜ばしく思う。私はオクラホマ州で3度すべて勝利し、同州の歴史上最高の投票総数を記録し、77県すべて77県を制した――つまり明らかに、私はオクラホマを愛している！トレバーは長年の公務経歴を持つ人物であり、オクラホマ郡の地方裁判所判事、オクラホマ民事控訴裁判所の控訴裁判官、および州知事の法務顧問として強い実績を有している。トレバーはオクラホマシティ大学からJ.D.を、オクラホマ大学からB.A.を取得している。トレバーはすべてのオクラホマ州民の憲法的権利の強力な擁護者となるであろう。おめでとうトレバー！ドナルド・J・トランプ大統領"
     },
     "truth:117118626722039422": {
       "post_status": "POSTED",
