@@ -888,7 +888,10 @@
     "https://www.trumpstruth.org/statuses/40920",
     "fp:Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a va",
     "truth:117113347902795107",
-    "https://www.trumpstruth.org/statuses/40923"
+    "https://www.trumpstruth.org/statuses/40923",
+    "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
+    "truth:117113535082793528",
+    "https://www.trumpstruth.org/statuses/40951"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6308,20 +6311,22 @@
       "updated_at": "2026-08-17T23:55:45.121855Z"
     },
     "truth:117113535082793528": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40951",
       "source_text": "<p>It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Congressional District!<br /> <br />A Highly Respected State Representative, Small Business Owner, and Civic Leader, prior to running for Congress, Jennifer has dedicated her life to serving her Community. Her opponent, Jamie Agar, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Jamie Agar is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congresswoman, Jennifer will fight tirelessly to Grow our Economy, Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Strengthen our Brave Military/Veterans, Keep our Border SECURE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jennifer Balkcom has my Complete and Total Endorsement to be the next Representative from North Carolina’s 11th Congressional District — SHE WILL NEVER LET YOU DOWN!</p>",
       "published": "Mon, 17 Aug 2026 23:52:08 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-18T00:05:45.509257Z",
+      "updated_at": "2026-08-18T00:20:50.211662Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40951",
       "first_seen": "2026-08-17T23:55:45.873730Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
-      "next_retry_at": "2026-08-18T00:15:45.509272Z",
-      "truth_social_id": "117113535082793528"
+      "truth_social_id": "117113535082793528",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
+      "media_identity": "attachment:117113535082793528:",
+      "translation": "私の大きな誇りとして、素晴らしいノースカロライナ州第11下院議事区の人々を代表して立候補している、アメリカ・ファースト愛国者ジェニファー・バルクコムを支持する。\n\nジェニファーは、高く尊敬されている州下院議員、小企業オーナー、市民指導者であり、議会選出馬前はコミュニティへの奉仕に人生を捧げてきた。彼女の対立候補ジェイミー・アガーは、チップへの課税廃止、残業手当への課税廃止、社会保障への課税廃止に反対する左翼急進民主党員であり、もし彼と民主党員たちが権力を握ったら、これら全てのことが廃止される。彼は大幅な増税、国境開放、女性スポーツに出場する男性、そしてお前たちの子どもたちへのトランスジェンダー変性を望んでいる。ジェイミー・アガーは無責任で、急進的で、危険だ！\n\n一方、次期下院議員として、ジェニファーは経済成長のために不屈の努力をし、素晴らしい農民と牧場主を支持し、税金と規制を削減し、アメリカン・エネルギーの優位性を解放し、メイド・イン・ザ・U.S.A.を推進し、勇敢な軍隊と退役軍人を強化し、国境をしっかり守り、選挙を安全に保ち、常に攻撃下にある憲法第2条を守る。\n\nジェニファー・バルクコムはノースカロライナ州第11下院議事区の次期代表に選ばれるため、私の完全で全面的な支持を有する——彼女は絶対にお前たちを失望させない！"
     }
   }
 }
