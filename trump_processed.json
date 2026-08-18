@@ -911,7 +911,10 @@
     "https://www.trumpstruth.org/statuses/40960",
     "fp:There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. Th",
     "truth:117116752164653735",
-    "https://www.trumpstruth.org/statuses/40962"
+    "https://www.trumpstruth.org/statuses/40962",
+    "fp:MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: \nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-u",
+    "truth:117116872320047163",
+    "https://www.trumpstruth.org/statuses/40963"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6548,20 +6551,22 @@
       "translation": "イランのイスラム共和国との話し合いや会談は進行中でもなく、予定されてもいない。海上封鎖は完全に有効のままである。ホルムズ海峡は開放され、運用されている。水中機雷はすべて撤去されるか爆破されている。この件についてのご関心をありがとう！大統領ドナルド・J・トランプ"
     },
     "truth:117116872320047163": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40963",
       "source_text": "<p>MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: <a href=\"https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/morning-gl</span><span class=\"invisible\">ory-scotus-should-urgently-allow-construction-white-house-proceed</span></a></p>",
       "published": "Tue, 18 Aug 2026 14:00:50 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-18T14:20:44.239421Z",
+      "updated_at": "2026-08-18T14:35:46.424513Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40963",
       "first_seen": "2026-08-18T14:10:43.227750Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: \nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-u",
-      "next_retry_at": "2026-08-18T14:30:44.239433Z",
-      "truth_social_id": "117116872320047163"
+      "truth_social_id": "117116872320047163",
+      "source_fingerprint": "fp:MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: \nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-u",
+      "media_identity": "attachment:117116872320047163:",
+      "translation": "朝の栄光：最高裁は緊急に、ホワイトハウスでの建設工事の進行を認めるべきだ。\nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed"
     }
   }
 }
