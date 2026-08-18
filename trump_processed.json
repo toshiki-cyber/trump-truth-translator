@@ -6494,14 +6494,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40960",
       "source_text": "<p>Intel Politics: NSA sat on election threat reporting over Trump ‘deep state’ label, memo shows: <a href=\"https://justthenews.com/government/security/nsa-analyst-agency-sat-2016-election-interference-intel-avoid-trump-era\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/sec</span><span class=\"invisible\">urity/nsa-analyst-agency-sat-2016-election-interference-intel-avoid-trump-era</span></a></p>",
       "published": "Tue, 18 Aug 2026 11:16:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-18T11:20:41.646369Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-18T11:30:45.563967Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40960",
       "first_seen": "2026-08-18T11:20:41.646338Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Intel Politics: NSA sat on election threat reporting over Trump ‘deep state’ label, memo shows: \nhttps://justthenews.com/government/security/nsa-analy",
-      "next_retry_at": "2026-08-18T11:25:41.646377Z",
+      "next_retry_at": "2026-08-18T11:40:45.563984Z",
       "truth_social_id": "117116227337554222"
     }
   }
