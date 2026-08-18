@@ -6998,20 +6998,77 @@
       "translation": "ルイジアナ州東部地区の米国地方裁判所判事として奉職するブラッド・ケリーの指名を発表することは喜びである。ブラッドは「ダブル・タイガー」であり、ルイジアナ州立大学から学部号と法学位の両方を取得している。彼はルイジアナ州西部地区のドナルド・ウォルター判事の法務官として働き、当時のEEOC委員で現在は我々の労働長官代理であるキース・ソンダーリングの元主席法務官であり、現在は大手国際法律事務所のパートナーである。ブラッドはまた米軍の退役軍人であることに誇りを持っており、この新職にはルイジアナ州の両上院議員から強い支持を受けている。ルイジアナ州民はブラッドが常に彼らの憲法上の権利と法の支配を保護することを確信できる。おめでとう、ブラッド！ドナルド・J・トランプ大統領"
     },
     "truth:117118742340410434": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40976",
       "source_text": "<p>I am pleased to nominate Peter Mansfield, who has the strong support of Senator John Kennedy and Senator Bill Cassidy, to serve as Judge on the U.S. District Court for the Eastern District of Louisiana. Peter has been an Assistant U.S. Attorney in New Orleans for more than twenty years, currently working as Chief of the Civil Division and, previously, as First Assistant. He received his Law Degree from Ave Maria School of Law, and his Undergraduate Degree from Franciscan University of Steubenville. The people of Louisiana are lucky to have a dedicated Public Servant like Peter join the Federal Bench. Congratulations Peter! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 21:56:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-18T22:05:42.852217Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-18T22:41:07.505502Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40976",
       "first_seen": "2026-08-18T22:00:41.686515Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:I am pleased to nominate Peter Mansfield, who has the strong support of Senator John Kennedy and Senator Bill Cassidy, to serve as Judge on the U.S. D",
-      "next_retry_at": "2026-08-18T22:15:42.852233Z",
-      "truth_social_id": "117118742340410434"
+      "truth_social_id": "117118742340410434",
+      "source_fingerprint": "fp:I am pleased to nominate Peter Mansfield, who has the strong support of Senator John Kennedy and Senator Bill Cassidy, to serve as Judge on the U.S. D",
+      "media_identity": "attachment:117118742340410434:",
+      "translation": "ルイジアナ州東部地区連邦地方裁判所の判事として職務を行うペーター・マンスフィールドの指名を発表できることを嬉しく思う。ペーターはジョン・ケネディ上院議員とビル・カシディ上院議員の強い支持を得ている。ペーターはニューオーリンズのアメリカ合衆国地方検事補として20年以上職務にあたっており、現在は民事部門の部長を、以前は第一補佐官を務めている。法学位はアヴェ・マリア・ロー・スクール、学部の学位はステューベンビル・フランシスカン大学から取得している。ルイジアナ州の人々は、ペーターのような献身的な公務員が連邦裁判所に加わることで恵まれている。ペーターへの祝辞を送る！大統領ドナルド・J・トランプ",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtf7hua4mccu",
+          "cid": "bafyreibedqaow5n22i2kv5pc244tm2esogdelad4k33qqgenus3nbbfeva"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtf7hua4mccu",
+          "cid": "bafyreibedqaow5n22i2kv5pc244tm2esogdelad4k33qqgenus3nbbfeva"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtf7hua4mccu",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ルイジアナ州東部地区連邦地方裁判所の判事として職務を行うペーター・マンスフィールドの指名を発表できることを嬉しく思う。ペーターはジョン・ケネディ上院議員とビル・カシディ上院議員の強い支持を得ている。ペーターはニューオーリンズのアメリカ合衆国地方検事補として20年以上職務にあたっており、現在は民事部門の部長を、以前は第一補佐官を務めている。法学位はアヴェ・マリア・ロー・スクール、学部の学位はステューベンビル・フランシスカン大学から取得している。ルイジアナ州の人々は、ペーターのような献身的な公務員が連邦裁判所に加わることで恵まれている。ペーターへの祝辞を送る！大統領ドナルド・J・トランプ",
+          "createdAt": "2026-08-18T22:41:01.050067Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "root_rkey": "3mtf7hua4mccu",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ルイジアナ州東部地区連邦地方裁判所の判事として職務を行うペーター・マンスフィールドの指名を発表できることを嬉しく思う。ペーターはジョン・ケネディ上院議員とビル・カシディ上院議員の強い支持を得ている。ペーターはニューオーリンズのアメリカ合衆国地方検事補として20年以上職務にあたっており、現在は民事部門の部長を、以前は第一補佐官を務めている。法学位はアヴェ・マリア・ロー・スクール、学部の学位はステューベンビル・フランシスカン大学から取得している。ルイジアナ州の人々は、ペーターのような献身的な公務員が連邦裁判所に加わることで恵まれている。ペーターへの祝辞を送る！大統領ドナルド・J・トランプ",
+          "createdAt": "2026-08-18T22:41:01.050067Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtf7hua4mccu",
+            "rkey": "3mtf7hua4mccu"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtf7hua4mccu",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mtf7hua4mccu",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ルイジアナ州東部地区連邦地方裁判所の判事として職務を行うペーター・マンスフィールドの指名を発表できることを嬉しく思う。ペーターはジョン・ケネディ上院議員とビル・カシディ上院議員の強い支持を得ている。ペーターはニューオーリンズのアメリカ合衆国地方検事補として20年以上職務にあたっており、現在は民事部門の部長を、以前は第一補佐官を務めている。法学位はアヴェ・マリア・ロー・スクール、学部の学位はステューベンビル・フランシスカン大学から取得している。ルイジアナ州の人々は、ペーターのような献身的な公務員が連邦裁判所に加わることで恵まれている。ペーターへの祝辞を送る！大統領ドナルド・J・トランプ",
+        "createdAt": "2026-08-18T22:41:01.050067Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtf7hua4mccu",
+          "rkey": "3mtf7hua4mccu"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-18T22:46:07.505516Z"
     },
     "url:https://www.trumpstruth.org/statuses/40977": {
       "post_status": "DISCOVERED",
