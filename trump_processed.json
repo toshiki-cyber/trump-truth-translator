@@ -936,7 +936,10 @@
     "https://www.trumpstruth.org/statuses/40967",
     "fp:I am pleased to nominate Zach West to serve as Judge on the United States District Court for the Northern District of Oklahoma, a place I love! Zach h",
     "truth:117118626722039422",
-    "https://www.trumpstruth.org/statuses/40970"
+    "https://www.trumpstruth.org/statuses/40970",
+    "fp:I am pleased to nominate Courtney Coker to serve as Judge on the United States District Court for the Northern District of Texas. Courtney has been a ",
+    "truth:117118679309261908",
+    "https://www.trumpstruth.org/statuses/40972"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6904,20 +6907,22 @@
       "truth_social_id": "117118656507718365"
     },
     "truth:117118679309261908": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40972",
       "source_text": "<p>I am pleased to nominate Courtney Coker to serve as Judge on the United States District Court for the Northern District of Texas. Courtney has been a Federal Prosecutor for nearly 20 years, and is currently the First Assistant U.S. Attorney for the Northern District of Texas. He has prosecuted some of the toughest criminal cases in the Country, including against cartels, foreign gangs, and drug and human traffickers. Courtney is a Graduate of Centre College (where he was captain of the football team!), and Mississippi College School of Law. The people of Texas (I LOVE TEXAS!) are lucky to have such a strong defender of Law and Order on the Bench. Congratulations Courtney! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 21:40:22 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-18T22:00:39.256512Z",
+      "updated_at": "2026-08-18T22:10:45.435620Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40972",
       "first_seen": "2026-08-18T21:45:45.418085Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am pleased to nominate Courtney Coker to serve as Judge on the United States District Court for the Northern District of Texas. Courtney has been a ",
-      "next_retry_at": "2026-08-18T22:10:39.256527Z",
-      "truth_social_id": "117118679309261908"
+      "truth_social_id": "117118679309261908",
+      "source_fingerprint": "fp:I am pleased to nominate Courtney Coker to serve as Judge on the United States District Court for the Northern District of Texas. Courtney has been a ",
+      "media_identity": "attachment:117118679309261908:",
+      "translation": "テキサス州北部地区連邦地裁の判事を務めるコートニー・コーカーを指名することを喜びをもって発表する。コートニーは約20年間にわたり連邦検察官を務めており、現在テキサス州北部地区の筆頭米国弁護士である。彼は、カルテル、外国人ギャング、麻薬及び人身売買犯などを対象とする国内でも最も難しい刑事事件を多数起訴してきた。コートニーはセンター・カレッジの卒業生であり（ここではフットボールチームのキャプテンだった！）、ミシシッピ・カレッジ・ロー・スクールを卒業している。テキサス州民（テキサスを愛している！）は、法と秩序の強力な擁護者がベンチに座ることは幸運である。おめでとう、コートニー！ ドナルド・J・トランプ大統領"
     },
     "truth:117118691151954389": {
       "post_status": "RETRY",
@@ -6982,6 +6987,16 @@
       "fingerprint": "fp:I am pleased to nominate Peter Mansfield, who has the strong support of Senator John Kennedy and Senator Bill Cassidy, to serve as Judge on the U.S. D",
       "next_retry_at": "2026-08-18T22:15:42.852233Z",
       "truth_social_id": "117118742340410434"
+    },
+    "truth:117118759965215830": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40977",
+      "source_text": "<p>I am pleased to nominate Robert (Bobby) Long to serve as Judge on the U.S. District Court for the Middle District of Florida. Bobby is currently a Judge on Florida’s First District Court of Appeal. A longtime member of the Navy JAG Corps, Bobby was previously a Trial Judge on Florida’s Second Judicial Circuit Court and, prior to that, General Counsel of the Leon County Sheriff’s Office, where he was a Police Officer before becoming a lawyer. Bobby received his Law Degree from the University of Florida College of Law, and his Undergraduate Degree from Florida State University. Robert Long can always be counted on to protect the Public Safety and Constitutional Rights of Floridians. Congratulations Bobby! President DONALD J. TRUMP</p>",
+      "published": "Tue, 18 Aug 2026 22:00:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-18T22:10:40.583871Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40977"
     }
   }
 }
