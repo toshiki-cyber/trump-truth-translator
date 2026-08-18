@@ -7056,6 +7056,42 @@
       "source_fingerprint": "fp:I am pleased to nominate Robert (Bobby) Long to serve as Judge on the U.S. District Court for the Middle District of Florida. Bobby is currently a Jud",
       "media_identity": "attachment:117118759965215830:",
       "translation": "私は、ロバート（ボビー）・ロング氏を米国フロリダ州中部地区地方裁判所の判事に指名することができて喜んでいる。ボビーは現在、フロリダ州第1控訴区裁判所の判事を務めている。海軍法務官団の長年の一員であるボビーは、これまでフロリダ州第2司法巡回区裁判所の判事を務め、その前はレオン郡保安官事務所の一般顧問を務めていた。その前には、弁護士となる前に警察官として勤務していた。ボビーはフロリダ大学ロースクールから法学位を、フロリダ州立大学から学部学位を取得している。ロバート・ロング氏は、フロリダ州民の公共の安全と憲法上の権利を保護することにいつも頼りになる人物だ。おめでとう、ボビー！大統領 ドナルド・J・トランプ"
+    },
+    "truth:117119028477327636": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/40980",
+      "source_text": "<p></p>",
+      "published": "Tue, 18 Aug 2026 23:09:10 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-18T23:10:45.694287Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40980",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117119028477327636:095cc2ac12008689.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/119/028/302/480/956/small/095cc2ac12008689.jpg",
+      "truth_social_id": "117119028477327636",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-18T23:15:45.694300Z"
+    },
+    "truth:117119029036069385": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40979",
+      "source_text": "<p></p>",
+      "published": "Tue, 18 Aug 2026 23:09:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-18T23:10:44.167391Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40979"
+    },
+    "truth:117119029592152542": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40978",
+      "source_text": "<p></p>",
+      "published": "Tue, 18 Aug 2026 23:09:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-18T23:10:44.167357Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40978"
     }
   }
 }
