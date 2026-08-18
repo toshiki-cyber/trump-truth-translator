@@ -939,7 +939,10 @@
     "https://www.trumpstruth.org/statuses/40970",
     "fp:I am pleased to nominate Courtney Coker to serve as Judge on the United States District Court for the Northern District of Texas. Courtney has been a ",
     "truth:117118679309261908",
-    "https://www.trumpstruth.org/statuses/40972"
+    "https://www.trumpstruth.org/statuses/40972",
+    "fp:I am proud to nominate Richard Bennett to serve as Judge on the United States District Court for the Southern District of Texas. Richard has dedicated",
+    "truth:117118691151954389",
+    "https://www.trumpstruth.org/statuses/40973"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6925,20 +6928,22 @@
       "translation": "テキサス州北部地区連邦地裁の判事を務めるコートニー・コーカーを指名することを喜びをもって発表する。コートニーは約20年間にわたり連邦検察官を務めており、現在テキサス州北部地区の筆頭米国弁護士である。彼は、カルテル、外国人ギャング、麻薬及び人身売買犯などを対象とする国内でも最も難しい刑事事件を多数起訴してきた。コートニーはセンター・カレッジの卒業生であり（ここではフットボールチームのキャプテンだった！）、ミシシッピ・カレッジ・ロー・スクールを卒業している。テキサス州民（テキサスを愛している！）は、法と秩序の強力な擁護者がベンチに座ることは幸運である。おめでとう、コートニー！ ドナルド・J・トランプ大統領"
     },
     "truth:117118691151954389": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40973",
       "source_text": "<p>I am proud to nominate Richard Bennett to serve as Judge on the United States District Court for the Southern District of Texas. Richard has dedicated his career to protecting the Great People of Texas (A State I love, and won by the Biggest Vote Total in the History of the State, all three times!) working as a County Prosecutor, Assistant United States Attorney, Assistant Chief Counsel of ICE, and currently, as a Magistrate Judge on the Southern District of Texas. Richard is a Graduate of Texas Christian University and Southern Methodist University School of Law, and clerked for Judge Marcia Crone. A true warrior for Public Safety, Border Security, and our Constitution, Richard will deliver strong results in his new role. Congratulations Richard! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 21:43:23 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-18T22:00:39.773965Z",
+      "updated_at": "2026-08-18T22:15:48.251117Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40973",
       "first_seen": "2026-08-18T21:45:45.962159Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am proud to nominate Richard Bennett to serve as Judge on the United States District Court for the Southern District of Texas. Richard has dedicated",
-      "next_retry_at": "2026-08-18T22:10:39.773978Z",
-      "truth_social_id": "117118691151954389"
+      "truth_social_id": "117118691151954389",
+      "source_fingerprint": "fp:I am proud to nominate Richard Bennett to serve as Judge on the United States District Court for the Southern District of Texas. Richard has dedicated",
+      "media_identity": "attachment:117118691151954389:",
+      "translation": "リチャード・ベネットを米国テキサス南部地区裁判所の判事として任命することを誇りをもって発表する。リチャードはテキサスの偉大な人民を守ることに人生を捧げてきた（私が愛する州であり、3度すべてで州史上最大の投票数で勝利した州だ！）。郡検事、米国司法省次席弁護士、移民税関捜査局（ICE）次席法律顧問を務め、現在はテキサス南部地区の判事補を務めている。リチャードはテキサス・クリスチャン大学とサザンメソジスト大学ロースクールの卒業生であり、マルシア・クローン判事の法廷書記官を務めた。公共安全、国境警備、そして憲法の真の戦士であるリチャードは、新しい職務において力強い成果をもたらすだろう。おめでとう、リチャード！大統領 ドナルド・J・トランプ"
     },
     "truth:117118710370504523": {
       "post_status": "RETRY",
