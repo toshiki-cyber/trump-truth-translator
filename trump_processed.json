@@ -6518,8 +6518,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/40961",
       "source_text": "<p>Lindsey having fun just a few weeks ago! Check out the hat! President DJT</p>",
       "published": "Tue, 18 Aug 2026 13:16:48 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-18T13:40:44.814547Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-18T14:05:43.872382Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40961",
       "source_fingerprint": "fp:Lindsey having fun just a few weeks ago! Check out the hat! President DJT",
       "media_identity": "attachment:117116699169209088:fc86ae115b051643.jpg",
@@ -6527,7 +6527,7 @@
       "fingerprint": "fp:Lindsey having fun just a few weeks ago! Check out the hat! President DJT",
       "truth_social_id": "117116699169209088",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-18T14:00:44.814563Z"
+      "next_retry_at": "2026-08-18T14:45:43.872400Z"
     },
     "truth:117116752164653735": {
       "post_status": "POSTED",
@@ -6546,6 +6546,16 @@
       "source_fingerprint": "fp:There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. Th",
       "media_identity": "attachment:117116752164653735:",
       "translation": "イランのイスラム共和国との話し合いや会談は進行中でもなく、予定されてもいない。海上封鎖は完全に有効のままである。ホルムズ海峡は開放され、運用されている。水中機雷はすべて撤去されるか爆破されている。この件についてのご関心をありがとう！大統領ドナルド・J・トランプ"
+    },
+    "truth:117116872320047163": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40963",
+      "source_text": "<p>MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: <a href=\"https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/morning-gl</span><span class=\"invisible\">ory-scotus-should-urgently-allow-construction-white-house-proceed</span></a></p>",
+      "published": "Tue, 18 Aug 2026 14:00:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-18T14:05:42.579049Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40963"
     }
   }
 }
