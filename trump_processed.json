@@ -6347,6 +6347,38 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107",
       "truth_social_id": "117113780858157626",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107"
+    },
+    "truth:117115756665493321": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40954",
+      "source_text": "<p>ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats know how good he is and have put up an imposter of the same name. Vote for the  “INCUMBENT SENATOR.” Don’t let these Fraudsters get away with this HOAX. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Tue, 18 Aug 2026 09:17:06 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-18T09:25:42.772112Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40954",
+      "first_seen": "2026-08-18T09:25:42.772077Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats k",
+      "next_retry_at": "2026-08-18T09:30:42.772121Z",
+      "truth_social_id": "117115756665493321"
+    },
+    "truth:117115788618837208": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40955",
+      "source_text": "<p><a href=\"https://truthsocial.com/users/realDonaldTrump/statuses/117085266086570209\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/users/realDona</span><span class=\"invisible\">ldTrump/statuses/117085266086570209</span></a></p>",
+      "published": "Tue, 18 Aug 2026 09:25:14 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-18T09:25:43.229433Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40955",
+      "first_seen": "2026-08-18T09:25:43.229399Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://truthsocial.com/users/realDonaldTrump/statuses/117085266086570209",
+      "next_retry_at": "2026-08-18T09:30:43.229442Z",
+      "truth_social_id": "117115788618837208"
     }
   }
 }
