@@ -891,7 +891,10 @@
     "https://www.trumpstruth.org/statuses/40923",
     "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
     "truth:117113535082793528",
-    "https://www.trumpstruth.org/statuses/40951"
+    "https://www.trumpstruth.org/statuses/40951",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107",
+    "truth:117113780858157626",
+    "https://www.trumpstruth.org/statuses/40953"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6327,6 +6330,22 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
       "media_identity": "attachment:117113535082793528:",
       "translation": "私の大きな誇りとして、素晴らしいノースカロライナ州第11下院議事区の人々を代表して立候補している、アメリカ・ファースト愛国者ジェニファー・バルクコムを支持する。\n\nジェニファーは、高く尊敬されている州下院議員、小企業オーナー、市民指導者であり、議会選出馬前はコミュニティへの奉仕に人生を捧げてきた。彼女の対立候補ジェイミー・アガーは、チップへの課税廃止、残業手当への課税廃止、社会保障への課税廃止に反対する左翼急進民主党員であり、もし彼と民主党員たちが権力を握ったら、これら全てのことが廃止される。彼は大幅な増税、国境開放、女性スポーツに出場する男性、そしてお前たちの子どもたちへのトランスジェンダー変性を望んでいる。ジェイミー・アガーは無責任で、急進的で、危険だ！\n\n一方、次期下院議員として、ジェニファーは経済成長のために不屈の努力をし、素晴らしい農民と牧場主を支持し、税金と規制を削減し、アメリカン・エネルギーの優位性を解放し、メイド・イン・ザ・U.S.A.を推進し、勇敢な軍隊と退役軍人を強化し、国境をしっかり守り、選挙を安全に保ち、常に攻撃下にある憲法第2条を守る。\n\nジェニファー・バルクコムはノースカロライナ州第11下院議事区の次期代表に選ばれるため、私の完全で全面的な支持を有する——彼女は絶対にお前たちを失望させない！"
+    },
+    "truth:117113780858157626": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/40953",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107</span></p>",
+      "published": "Tue, 18 Aug 2026 00:54:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-18T00:55:42.980129Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40953",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107",
+      "media_identity": "attachment:117113780858157626:c75c93ceceae84af.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107",
+      "truth_social_id": "117113780858157626",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107"
     }
   }
 }
