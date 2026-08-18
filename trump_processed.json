@@ -919,7 +919,10 @@
     "truth:117116699169209088",
     "https://www.trumpstruth.org/statuses/40961",
     "truth:117116198386080523",
-    "https://www.trumpstruth.org/statuses/40957"
+    "https://www.trumpstruth.org/statuses/40957",
+    "fp:In April, I signed a very important Executive Order to accelerate medical treatments for serious mental illness — Specifically, psychedelic drugs, inc",
+    "truth:117117567655907376",
+    "https://www.trumpstruth.org/statuses/40964"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6648,20 +6651,22 @@
       "translation": "朝の栄光：最高裁は緊急に、ホワイトハウスでの建設工事の進行を認めるべきだ。\nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed"
     },
     "truth:117117567655907376": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40964",
       "source_text": "<p>In April, I signed a very important Executive Order to accelerate medical treatments for serious mental illness — Specifically, psychedelic drugs, including IBOGAINE. This is something that has helped so many of our amazing VETERANS and true American Heroes who were here in the Oval Office with me, and Joe Rogan. Today I am announcing that Secretary Kennedy has received a Historic Gift from the University of Miami, who has given the Federal Government its original 1994 Ibogaine Investigational New Drug application. This will give everyone direct access to the foundational FDA authorization to accelerate its development as a medical treatment in the U.S. This is HUGE! Special THANK YOU to the University of Miami, who has done this to ensure that Americans are helped as quickly as possible. This adds to the INCREDIBLE PROGRESS since April, including huge amounts of HHS research funding, collaboration between HHS and VA, FDA guidance, and more. We are moving FAST, so that our Veterans with serious mental illness have a RIGHT TO TRY here in the U.S. We hope to see more companies and institutions join us in this very important work. Our Veterans DESERVE it! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 16:57:40 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-18T17:20:59.630223Z",
+      "updated_at": "2026-08-18T17:45:50.496787Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40964",
       "first_seen": "2026-08-18T17:00:40.580808Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:In April, I signed a very important Executive Order to accelerate medical treatments for serious mental illness — Specifically, psychedelic drugs, inc",
-      "next_retry_at": "2026-08-18T17:40:59.630248Z",
-      "truth_social_id": "117117567655907376"
+      "truth_social_id": "117117567655907376",
+      "source_fingerprint": "fp:In April, I signed a very important Executive Order to accelerate medical treatments for serious mental illness — Specifically, psychedelic drugs, inc",
+      "media_identity": "attachment:117117567655907376:",
+      "translation": "4月、私は深刻な精神疾患の医療治療を加速させるための非常に重要な大統領令に署名した。具体的には、アイボガインを含むサイケデリック薬だ。これは多くの素晴らしい退役軍人および真のアメリカンヒーローたちを支援してきたものであり、彼らはオーバルオフィスで私とジョー・ローガンと一緒にいた。本日、ケネディ国務長官がマイアミ大学からの歴史的なギフトを受け取ったことを発表する。マイアミ大学は、連邦政府にアイボガイン医薬品臨床試験申請書の元々の1994年版を提供した。これにより、すべての人が米国での医療治療としての開発を加速させるための基本的なFDA認可への直接アクセスを得られるようになる。これは巨大だ！マイアミ大学への特別な感謝。彼らはアメリカ人が可能な限り迅速に支援されるようにこれを行った。これは4月以来の信じられない進展に追加されるものであり、HHS研究資金の巨額、HHSとVAの協力、FDA指針など多くを含む。われわれは速く動いており、深刻な精神疾患を抱える退役軍人たちが米国で試行する権利を持つようにしている。より多くの企業と機関がこの非常に重要な取り組みに参加することを希望する。われわれの退役軍人たちはそれに値する！この事項への注目に感謝する。ドナルド・J・トランプ大統領"
     }
   }
 }
