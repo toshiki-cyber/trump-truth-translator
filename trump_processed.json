@@ -951,7 +951,10 @@
     "https://www.trumpstruth.org/statuses/40971",
     "fp:I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky. Dan is a longtime C",
     "truth:117118710370504523",
-    "https://www.trumpstruth.org/statuses/40974"
+    "https://www.trumpstruth.org/statuses/40974",
+    "fp:I am pleased to nominate Brad Kelley to serve as Judge on the U.S. District Court for the Eastern District of Louisiana. Brad is a “Double-Tiger,” rec",
+    "truth:117118726898376521",
+    "https://www.trumpstruth.org/statuses/40975"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6977,20 +6980,22 @@
       "translation": "ケンタッキー州東部地区連邦地方裁判所の判事職にダニエル・バロウを指名することを喜んでお知らせする。ダンはケンタッキー州第34司法区の長年の巡回裁判官である。ケンタッキー大学で学士号を、ミシシッピ大学ロースクールで法務博士号を取得し、以前は第6巡回区米国控訴裁判所のユージーン・サイラー判事の書記官を務めていた。ダンは海兵隊退役軍人でもあり、真の愛国者だ。ダニエル・バロウは素晴らしいケンタッキー州の連邦裁判所において、法の支配の強力な守護者となることに疑いの余地はない。おめでとう、ダン。大統領ドナルド・J・トランプ"
     },
     "truth:117118726898376521": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40975",
       "source_text": "<p>I am pleased to nominate Brad Kelley to serve as Judge on the U.S. District Court for the Eastern District of Louisiana. Brad is a “Double-Tiger,” receiving both his Undergraduate and Law Degrees from LSU. He clerked for Judge Donald Walter of the Western District of Louisiana, was the former Chief Counsel to then EEOC Commissioner, now our Acting Secretary of Labor, Keith Sonderling, and now is a Partner at a major International Law Firm. Brad is also a proud U.S. Army Veteran, and has the strong support of both Louisiana’s Senators for this new position. The people of Louisiana can count on Brad to always protect their Constitutional Rights, and the Rule of Law. Congratulations Brad! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 21:52:29 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-18T22:05:42.529580Z",
+      "updated_at": "2026-08-18T22:35:59.701319Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40975",
       "first_seen": "2026-08-18T22:00:41.019795Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am pleased to nominate Brad Kelley to serve as Judge on the U.S. District Court for the Eastern District of Louisiana. Brad is a “Double-Tiger,” rec",
-      "next_retry_at": "2026-08-18T22:15:42.529607Z",
-      "truth_social_id": "117118726898376521"
+      "truth_social_id": "117118726898376521",
+      "source_fingerprint": "fp:I am pleased to nominate Brad Kelley to serve as Judge on the U.S. District Court for the Eastern District of Louisiana. Brad is a “Double-Tiger,” rec",
+      "media_identity": "attachment:117118726898376521:",
+      "translation": "ルイジアナ州東部地区の米国地方裁判所判事として奉職するブラッド・ケリーの指名を発表することは喜びである。ブラッドは「ダブル・タイガー」であり、ルイジアナ州立大学から学部号と法学位の両方を取得している。彼はルイジアナ州西部地区のドナルド・ウォルター判事の法務官として働き、当時のEEOC委員で現在は我々の労働長官代理であるキース・ソンダーリングの元主席法務官であり、現在は大手国際法律事務所のパートナーである。ブラッドはまた米軍の退役軍人であることに誇りを持っており、この新職にはルイジアナ州の両上院議員から強い支持を受けている。ルイジアナ州民はブラッドが常に彼らの憲法上の権利と法の支配を保護することを確信できる。おめでとう、ブラッド！ドナルド・J・トランプ大統領"
     },
     "truth:117118742340410434": {
       "post_status": "RETRY",
@@ -7008,7 +7013,7 @@
       "next_retry_at": "2026-08-18T22:15:42.852233Z",
       "truth_social_id": "117118742340410434"
     },
-    "truth:117118759965215830": {
+    "url:https://www.trumpstruth.org/statuses/40977": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40977",
