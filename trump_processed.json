@@ -948,7 +948,10 @@
     "https://www.trumpstruth.org/statuses/40969",
     "fp:I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for ",
     "truth:117118656507718365",
-    "https://www.trumpstruth.org/statuses/40971"
+    "https://www.trumpstruth.org/statuses/40971",
+    "fp:I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky. Dan is a longtime C",
+    "truth:117118710370504523",
+    "https://www.trumpstruth.org/statuses/40974"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6956,20 +6959,22 @@
       "translation": "リチャード・ベネットを米国テキサス南部地区裁判所の判事として任命することを誇りをもって発表する。リチャードはテキサスの偉大な人民を守ることに人生を捧げてきた（私が愛する州であり、3度すべてで州史上最大の投票数で勝利した州だ！）。郡検事、米国司法省次席弁護士、移民税関捜査局（ICE）次席法律顧問を務め、現在はテキサス南部地区の判事補を務めている。リチャードはテキサス・クリスチャン大学とサザンメソジスト大学ロースクールの卒業生であり、マルシア・クローン判事の法廷書記官を務めた。公共安全、国境警備、そして憲法の真の戦士であるリチャードは、新しい職務において力強い成果をもたらすだろう。おめでとう、リチャード！大統領 ドナルド・J・トランプ"
     },
     "truth:117118710370504523": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40974",
       "source_text": "<p>I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky. Dan is a longtime Circuit Judge for Kentucky’s 34th Judicial Circuit. He received his B.A. from the University of Kentucky, and his J.D. from the University of Mississippi School of Law, and previously clerked for Judge Eugene Siler of the U.S. Court of Appeals for the Sixth Circuit. Dan is also a Marine Corps Veteran — A True Patriot! I have no doubt that Daniel Ballou will be a powerful defender of the Rule of Law on the Federal Bench in the GREAT Commonwealth of Kentucky. Congratulations Dan! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 21:48:16 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-18T22:05:42.098931Z",
+      "updated_at": "2026-08-18T22:30:43.379742Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40974",
       "first_seen": "2026-08-18T22:00:40.410087Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky. Dan is a longtime C",
-      "next_retry_at": "2026-08-18T22:15:42.098947Z",
-      "truth_social_id": "117118710370504523"
+      "truth_social_id": "117118710370504523",
+      "source_fingerprint": "fp:I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky. Dan is a longtime C",
+      "media_identity": "attachment:117118710370504523:",
+      "translation": "ケンタッキー州東部地区連邦地方裁判所の判事職にダニエル・バロウを指名することを喜んでお知らせする。ダンはケンタッキー州第34司法区の長年の巡回裁判官である。ケンタッキー大学で学士号を、ミシシッピ大学ロースクールで法務博士号を取得し、以前は第6巡回区米国控訴裁判所のユージーン・サイラー判事の書記官を務めていた。ダンは海兵隊退役軍人でもあり、真の愛国者だ。ダニエル・バロウは素晴らしいケンタッキー州の連邦裁判所において、法の支配の強力な守護者となることに疑いの余地はない。おめでとう、ダン。大統領ドナルド・J・トランプ"
     },
     "truth:117118726898376521": {
       "post_status": "RETRY",
