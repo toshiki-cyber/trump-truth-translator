@@ -6354,14 +6354,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40954",
       "source_text": "<p>ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats know how good he is and have put up an imposter of the same name. Vote for the  “INCUMBENT SENATOR.” Don’t let these Fraudsters get away with this HOAX. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 09:17:06 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-18T09:25:42.772112Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-18T09:30:45.029012Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40954",
       "first_seen": "2026-08-18T09:25:42.772077Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats k",
-      "next_retry_at": "2026-08-18T09:30:42.772121Z",
+      "next_retry_at": "2026-08-18T09:40:45.029028Z",
       "truth_social_id": "117115756665493321"
     },
     "truth:117115788618837208": {
@@ -6370,15 +6370,29 @@
       "status_url": "https://www.trumpstruth.org/statuses/40955",
       "source_text": "<p><a href=\"https://truthsocial.com/users/realDonaldTrump/statuses/117085266086570209\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/users/realDona</span><span class=\"invisible\">ldTrump/statuses/117085266086570209</span></a></p>",
       "published": "Tue, 18 Aug 2026 09:25:14 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-18T09:25:43.229433Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-18T09:31:00.895461Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40955",
       "first_seen": "2026-08-18T09:25:43.229399Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:https://truthsocial.com/users/realDonaldTrump/statuses/117085266086570209",
-      "next_retry_at": "2026-08-18T09:30:43.229442Z",
+      "next_retry_at": "2026-08-18T09:41:00.895478Z",
       "truth_social_id": "117115788618837208"
+    },
+    "truth:117115777270677160": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/40956",
+      "source_text": "<p>Florida, Vote for Byron Donalds for Governor. He has my Complete and total Endorsement. He will never let you down! President DJT</p>",
+      "published": "Tue, 18 Aug 2026 09:22:21 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-18T09:31:00.483894Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/40956",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "fingerprint": "fp:Florida, Vote for Byron Donalds for Governor. He has my Complete and total Endorsement. He will never let you down! President DJT",
+      "next_retry_at": "2026-08-18T09:36:00.483922Z",
+      "truth_social_id": "117115777270677160"
     }
   }
 }
