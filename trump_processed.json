@@ -6515,8 +6515,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/40961",
       "source_text": "<p>Lindsey having fun just a few weeks ago! Check out the hat! President DJT</p>",
       "published": "Tue, 18 Aug 2026 13:16:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-18T13:20:42.125734Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-18T13:25:46.269768Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40961",
       "source_fingerprint": "fp:Lindsey having fun just a few weeks ago! Check out the hat! President DJT",
       "media_identity": "attachment:117116699169209088:fc86ae115b051643.jpg",
@@ -6524,7 +6524,7 @@
       "fingerprint": "fp:Lindsey having fun just a few weeks ago! Check out the hat! President DJT",
       "truth_social_id": "117116699169209088",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-18T13:25:42.125754Z"
+      "next_retry_at": "2026-08-18T13:35:46.269781Z"
     }
   }
 }
