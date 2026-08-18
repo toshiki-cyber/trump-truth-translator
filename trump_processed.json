@@ -896,7 +896,10 @@
     "truth:117113780858157626",
     "https://www.trumpstruth.org/statuses/40953",
     "truth:117112658969251157",
-    "https://www.trumpstruth.org/statuses/40918"
+    "https://www.trumpstruth.org/statuses/40918",
+    "fp:ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats k",
+    "truth:117115756665493321",
+    "https://www.trumpstruth.org/statuses/40954"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -6349,20 +6352,22 @@
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117113347902795107"
     },
     "truth:117115756665493321": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/40954",
       "source_text": "<p>ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats know how good he is and have put up an imposter of the same name. Vote for the  “INCUMBENT SENATOR.” Don’t let these Fraudsters get away with this HOAX. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
       "published": "Tue, 18 Aug 2026 09:17:06 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-18T09:30:45.029012Z",
+      "updated_at": "2026-08-18T09:45:45.230683Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40954",
       "first_seen": "2026-08-18T09:25:42.772077Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats k",
-      "next_retry_at": "2026-08-18T09:40:45.029028Z",
-      "truth_social_id": "117115756665493321"
+      "truth_social_id": "117115756665493321",
+      "source_fingerprint": "fp:ALASKA: Be careful, VOTE FOR THE REAL DAN SULLIVAN TODAY. Through me, he’s brought HUNDREDS OF BILLIONS OF DOLLARS BACK TO YOUR STATE. The Dumocrats k",
+      "media_identity": "attachment:117115756665493321:",
+      "translation": "アラスカ州：気をつけろ。本物のダン・サリバンに今日投票してくれ。彼は俺を通じて、お前たちの州に数千億ドル以上をもたらした。民主党左翼どもは彼がどれほど優秀か知っているから、同じ名前の偽物候補を立ててきた。「現職上院議員」に投票しろ。この詐欺師どもにこのペテンを成功させるな。アメリカを再び偉大に！ドナルド・J・トランプ大統領"
     },
     "truth:117115788618837208": {
       "post_status": "RETRY",
