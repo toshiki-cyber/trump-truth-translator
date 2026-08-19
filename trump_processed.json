@@ -7398,15 +7398,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/40984",
       "source_text": "<p></p>",
       "published": "Tue, 18 Aug 2026 23:08:32 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-19T01:31:45.678609Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-19T02:20:55.813502Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40984",
       "source_fingerprint": null,
       "media_identity": "attachment:117119025950123947:081fb4a625f23caa.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/119/025/720/474/564/small/081fb4a625f23caa.jpg",
       "truth_social_id": "117119025950123947",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-19T02:11:45.678623Z"
+      "next_retry_at": "2026-08-19T03:40:55.813526Z"
     },
     "truth:117119274059105642": {
       "post_status": "DISCOVERED",
@@ -7570,6 +7570,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-18T23:10:44.167357Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40978"
+    },
+    "truth:117119761850520698": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41006",
+      "source_text": "<p>I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Wed, 19 Aug 2026 02:15:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-19T02:20:43.107959Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41006"
     }
   }
 }
