@@ -1018,7 +1018,10 @@
     "https://www.trumpstruth.org/statuses/41004",
     "fp:I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada an",
     "truth:117119761850520698",
-    "https://www.trumpstruth.org/statuses/41006"
+    "https://www.trumpstruth.org/statuses/41006",
+    "fp:SleazeBag Vindman loses tonight to a Radical Left Lunatic. How cool is that??? President DJT",
+    "truth:117119603749653762",
+    "https://www.trumpstruth.org/statuses/41005"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -7820,20 +7823,22 @@
       "translation": ""
     },
     "truth:117119603749653762": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41005",
       "source_text": "<p>SleazeBag Vindman loses tonight to a Radical Left Lunatic. How cool is that??? President DJT</p>",
       "published": "Wed, 19 Aug 2026 01:35:28 +0000",
       "retry_count": 4,
-      "updated_at": "2026-08-19T05:10:57.061528Z",
+      "updated_at": "2026-08-19T05:55:43.829883Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41005",
       "first_seen": "2026-08-19T04:20:39.290822Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:SleazeBag Vindman loses tonight to a Radical Left Lunatic. How cool is that??? President DJT",
-      "next_retry_at": "2026-08-19T05:50:57.061557Z",
-      "truth_social_id": "117119603749653762"
+      "truth_social_id": "117119603749653762",
+      "source_fingerprint": "fp:SleazeBag Vindman loses tonight to a Radical Left Lunatic. How cool is that??? President DJT",
+      "media_identity": "attachment:117119603749653762:",
+      "translation": "不正直な奴ラディカル左翼のキチガイに負けた。すごいだろ？？？大統領DJT"
     },
     "truth:117119206919334140": {
       "post_status": "POSTED",
