@@ -964,7 +964,9 @@
     "truth:117119024814753227",
     "https://www.trumpstruth.org/statuses/40986",
     "truth:117119023541992974",
-    "https://www.trumpstruth.org/statuses/40988"
+    "https://www.trumpstruth.org/statuses/40988",
+    "truth:117119024196042249",
+    "https://www.trumpstruth.org/statuses/40987"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -7250,16 +7252,19 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/40991"
     },
     "truth:117119024196042249": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/40987",
       "source_text": "<p></p>",
       "published": "Tue, 18 Aug 2026 23:08:05 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-18T23:55:55.906163Z",
+      "updated_at": "2026-08-19T00:16:07.385356Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40987",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "next_retry_at": "2026-08-19T00:00:55.906182Z"
+      "failure_reason": null,
+      "source_fingerprint": null,
+      "media_identity": "attachment:117119024196042249:1949e8bf6d49f9aa.jpg",
+      "truth_social_id": "117119024196042249",
+      "translation": ""
     },
     "truth:117119025950123947": {
       "post_status": "DISCOVERED",
@@ -7281,7 +7286,7 @@
       "updated_at": "2026-08-18T23:10:44.167357Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40978"
     },
-    "truth:117119203873925166": {
+    "url:https://www.trumpstruth.org/statuses/40995": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/40995",
