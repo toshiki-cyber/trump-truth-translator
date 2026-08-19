@@ -1015,7 +1015,10 @@
     "https://www.trumpstruth.org/statuses/41007",
     "fp:A lot of great WINS tonight!!! President DJT",
     "truth:117119613077575764",
-    "https://www.trumpstruth.org/statuses/41004"
+    "https://www.trumpstruth.org/statuses/41004",
+    "fp:I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada an",
+    "truth:117119761850520698",
+    "https://www.trumpstruth.org/statuses/41006"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -7886,20 +7889,22 @@
       ]
     },
     "truth:117119761850520698": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41006",
       "source_text": "<p>I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 19 Aug 2026 02:15:41 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-19T04:25:43.548620Z",
+      "updated_at": "2026-08-19T04:50:47.806153Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41006",
       "first_seen": "2026-08-19T04:20:40.342214Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada an",
-      "next_retry_at": "2026-08-19T04:35:43.548633Z",
-      "truth_social_id": "117119761850520698"
+      "truth_social_id": "117119761850520698",
+      "source_fingerprint": "fp:I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada an",
+      "media_identity": "attachment:117119761850520698:",
+      "translation": "カナダに対する50%の関税は、明日の朝から始まる予定だったが、カナダとアメリカが合意に達したという事実に基づき、3日間の期間、一時停止した。ただし文書の最終化が条件である。偉大なキーストーン・パイプラインは、かつて眠たいジョー・バイデンによって廃止されたが、墓の中から目覚めるかもしれない。この問題への注意をありがとう。ドナルド・J・トランプ大統領"
     },
     "truth:117119807819944656": {
       "post_status": "POSTED",
