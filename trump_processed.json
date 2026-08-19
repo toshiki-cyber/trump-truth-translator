@@ -1008,7 +1008,9 @@
     "truth:117119274682441393",
     "https://www.trumpstruth.org/statuses/40999",
     "truth:117119275212651288",
-    "https://www.trumpstruth.org/statuses/40998"
+    "https://www.trumpstruth.org/statuses/40998",
+    "truth:117120004758545122",
+    "https://www.trumpstruth.org/statuses/41008"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -7815,14 +7817,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41005",
       "source_text": "<p>SleazeBag Vindman loses tonight to a Radical Left Lunatic. How cool is that??? President DJT</p>",
       "published": "Wed, 19 Aug 2026 01:35:28 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-19T04:20:39.290859Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-19T04:25:43.103241Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41005",
       "first_seen": "2026-08-19T04:20:39.290822Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:SleazeBag Vindman loses tonight to a Radical Left Lunatic. How cool is that??? President DJT",
-      "next_retry_at": "2026-08-19T04:25:39.290868Z",
+      "next_retry_at": "2026-08-19T04:35:43.103254Z",
       "truth_social_id": "117119603749653762"
     },
     "truth:117119206919334140": {
@@ -7884,14 +7886,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41006",
       "source_text": "<p>I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 19 Aug 2026 02:15:41 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-19T04:20:40.342250Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-19T04:25:43.548620Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41006",
       "first_seen": "2026-08-19T04:20:40.342214Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada an",
-      "next_retry_at": "2026-08-19T04:25:40.342259Z",
+      "next_retry_at": "2026-08-19T04:35:43.548633Z",
       "truth_social_id": "117119761850520698"
     },
     "truth:117119807819944656": {
@@ -8045,25 +8047,30 @@
       "status_url": "https://www.trumpstruth.org/statuses/41004",
       "source_text": "<p>A lot of great WINS tonight!!! President DJT</p>",
       "published": "Wed, 19 Aug 2026 01:37:51 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-19T04:20:39.682522Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-19T04:25:43.298600Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41004",
       "first_seen": "2026-08-19T04:20:39.682485Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:A lot of great WINS tonight!!! President DJT",
-      "next_retry_at": "2026-08-19T04:25:39.682532Z",
+      "next_retry_at": "2026-08-19T04:35:43.298614Z",
       "truth_social_id": "117119613077575764"
     },
-    "url:https://www.trumpstruth.org/statuses/41008": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+    "truth:117120004758545122": {
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41008",
       "source_text": "<p></p>",
       "published": "Wed, 19 Aug 2026 03:17:27 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-19T03:20:38.883523Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41008"
+      "updated_at": "2026-08-19T04:25:45.005529Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41008",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117120004758545122:146292bce41406e9.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117120004758545122",
+      "translation": ""
     }
   }
 }
