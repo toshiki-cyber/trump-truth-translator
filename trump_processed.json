@@ -1702,14 +1702,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40786",
       "source_text": "<p></p>",
       "published": "Thu, 13 Aug 2026 00:02:57 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-18T22:00:43.160711Z",
+      "retry_count": 6,
+      "updated_at": "2026-08-19T22:10:47.036023Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40786",
       "source_fingerprint": null,
       "media_identity": "attachment:117085266086570209:a128d8b02674c75f.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/085/258/167/996/179/original/a128d8b02674c75f.mp4",
       "truth_social_id": "117085266086570209",
-      "next_retry_at": "2026-08-18T23:20:43.160729Z"
+      "next_retry_at": "2026-08-20T00:50:47.036038Z"
     },
     "truth:117088236128593825": {
       "post_status": "POSTED",
@@ -8317,14 +8317,20 @@
       "translation": ""
     },
     "truth:117124388139342612": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41014",
       "source_text": "<p>THE GREATEST RALLY OF THEM ALL<br /> <br />THE MIDTERM CONVENTION is coming to Dallas, Texas, September 9th and 10th. It will be a Rally like never before — Incredible!<br /> <br />For the first time EVER, Republicans from all across our Great Country will come together for a Midterm Convention to celebrate our Tremendous Victories and Success, showcase our incredible Candidates, and prepare for the most important Midterm Election in History. Our Movement is bigger, better, and stronger than ever before. We have MADE AMERICA GREAT AGAIN, AND WE ARE GOING TO CELEBRATE THIS TREMENDOUS AND TOTALLY UNPRECEDENTED SUCCESS! The Radical Left Lunatics are trying to destroy our Country, but they have failed, and will never be successful, unless we allow that to happen — AND WE WON’T!<br /> <br />We are going to WIN the Midterms, protect and cherish our Country, and make it GREATER THAN EVER BEFORE. Be there, September 9th and 10th — It will be like nothing else. The Music, Excitement, and Importance of this Evening will be at levels never seen at a Convention or Political Event. I will be with you both nights, and rarin’ to go. See you in Dallas! President DONALD J. TRUMP<br /><a href=\"https://gopconvention.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gopconvention.com</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 19 Aug 2026 21:52:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-19T21:55:46.219941Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41014"
+      "retry_count": 1,
+      "updated_at": "2026-08-19T22:10:44.609115Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41014",
+      "first_seen": "2026-08-19T22:10:44.609080Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:THE GREATEST RALLY OF THEM ALL\n \nTHE MIDTERM CONVENTION is coming to Dallas, Texas, September 9th and 10th. It will be a Rally like never before — Inc",
+      "next_retry_at": "2026-08-19T22:15:44.609124Z",
+      "truth_social_id": "117124388139342612"
     }
   }
 }
