@@ -7479,15 +7479,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/40993",
       "source_text": "<p></p>",
       "published": "Tue, 18 Aug 2026 23:54:07 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-19T04:40:43.608901Z",
+      "retry_count": 6,
+      "updated_at": "2026-08-19T06:05:39.439073Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40993",
       "source_fingerprint": null,
       "media_identity": "attachment:117119205242482325:ea14bdec23c0d284.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/119/205/084/613/650/small/ea14bdec23c0d284.jpg",
       "truth_social_id": "117119205242482325",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-19T06:00:43.608928Z"
+      "next_retry_at": "2026-08-19T08:45:39.439085Z"
     },
     "truth:117119206141856177": {
       "post_status": "POSTED",
