@@ -1028,7 +1028,10 @@
     "https://www.trumpstruth.org/statuses/40993",
     "fp:I told Congressman Cory Mills of Florida, a friend of mine, to get out of the Race, but he wouldn’t listen. He thought he could win, so who can blame ",
     "truth:117122454656898588",
-    "https://www.trumpstruth.org/statuses/41009"
+    "https://www.trumpstruth.org/statuses/41009",
+    "fp:The most gratifying loss last night was that of a real treasonous creep, Alexander Vindman, to a Radical Left Lunatic, who can’t speak or think proper",
+    "truth:117122655030789696",
+    "https://www.trumpstruth.org/statuses/41010"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -8092,20 +8095,22 @@
       ]
     },
     "truth:117122655030789696": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41010",
       "source_text": "<p>The most gratifying loss last night was that of a real treasonous creep, Alexander Vindman, to a Radical Left Lunatic, who can’t speak or think properly, and who will go down to certain defeat at the hands of Ashley Moody, a truly Fantastic Senator, from the Great State Florida. Vindman, if you remember, was the one who lied about my “Perfect Call” with President Zelenskyy of Ukraine, only to find out that the conversation was routinely recorded and proved that I was 100% in the right (Completely Innocent!). It was, indeed, a Perfect Call, and the Dumocrats Fake Impeachment effort massively failed. Vindman should be prosecuted for what he did! President Donald J. TRUMP</p>",
       "published": "Wed, 19 Aug 2026 14:31:27 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-19T14:45:45.814771Z",
+      "updated_at": "2026-08-19T15:00:46.607238Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41010",
       "first_seen": "2026-08-19T14:40:40.223501Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:The most gratifying loss last night was that of a real treasonous creep, Alexander Vindman, to a Radical Left Lunatic, who can’t speak or think proper",
-      "next_retry_at": "2026-08-19T14:55:45.814786Z",
-      "truth_social_id": "117122655030789696"
+      "truth_social_id": "117122655030789696",
+      "source_fingerprint": "fp:The most gratifying loss last night was that of a real treasonous creep, Alexander Vindman, to a Radical Left Lunatic, who can’t speak or think proper",
+      "media_identity": "attachment:117122655030789696:",
+      "translation": "昨夜の最も喜ばしい敗北は、本当の反逆者の小悪党、アレクサンダー・ビンドマンが、ろくに話すこともまともに考えることもできない過激左翼のキチガイに敗れたことだ。そいつは、真に素晴らしい上院議員で、偉大なフロリダ州出身のアシュレー・ムーディーの手によって確実な敗北を喫することになる。覚えているかもしれないが、ビンドマンは、ウクライナのゼレンスキー大統領との私の「完璧な電話会談」について嘘をついた奴だ。ところが、その会話は日常的に録音されており、私が100％正しかったことが証明された（完全に無実！）。確かに完璧な電話会談だったのだ。民主党員どもの不正な弾劾工作は完全に失敗した。ビンドマンは自分がしたことで起訴されるべきだ！ドナルド・J・トランプ大統領"
     }
   }
 }
