@@ -1034,7 +1034,10 @@
     "https://www.trumpstruth.org/statuses/41010",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117122893417828005He Bet Big on Trump. The Prize Could Be the Florida Governor’s Mansion: \n",
     "truth:117122897019429188",
-    "https://www.trumpstruth.org/statuses/41011"
+    "https://www.trumpstruth.org/statuses/41011",
+    "fp:Today I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administrat",
+    "truth:117123052590365117",
+    "https://www.trumpstruth.org/statuses/41013"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -8263,20 +8266,22 @@
       "next_retry_at": "2026-08-19T16:25:55.840261Z"
     },
     "truth:117123052590365117": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41013",
       "source_text": "<p>Today I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country. Heidi is “ALWAYS RIGHT,” Secretary Kennedy recently said in the Oval Office! We need her leadership at the FDA now to ensure that the U.S. remains the WORLD LEADER for Scientific Discovery and CURES.</p><p>Dr. Overton was a prestigious White House Fellow in my First Term, is a Board-Certified Physician in Public Health and General Preventive Medicine, and holds a Ph.D. in Clinical Investigations from the Johns Hopkins University. She is SMART and RESPECTED by all! Dr. Heidi will work with Secretary Kennedy and Dr. Oz to RAPIDLY deliver on my priorities of FASTER Cures, INCREASED American Innovation, MAJOR Clinical Trial Reforms, LOWER Drug Prices, and even more MAHA WINS!</p><p>Dr. Overton will continue putting AMERICA FIRST, and creating a HEALTHY AMERICA. Congratulations to Dr. Heidi Overton! President DONALD J. TRUMP</p>",
       "published": "Wed, 19 Aug 2026 16:12:33 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-19T16:30:56.510325Z",
+      "updated_at": "2026-08-19T16:45:49.875226Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41013",
       "first_seen": "2026-08-19T16:15:45.872753Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Today I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administrat",
-      "next_retry_at": "2026-08-19T16:40:56.510338Z",
-      "truth_social_id": "117123052590365117"
+      "truth_social_id": "117123052590365117",
+      "source_fingerprint": "fp:Today I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administrat",
+      "media_identity": "attachment:117123052590365117:",
+      "translation": "本日、私は素晴らしいハイジ・オーバートン博士（医学博士・哲学博士）を次期FDA長官として指名することを光栄に思う。ハイジ博士は私の政権でロックスターであり、ケネディ長官、オズ博士、およびチームと直接協力して、歴史上最も変革的な保健医療アジェンダを実現してきた。彼女は最も困難な問題に取り組むことで知られており、国に最適なソリューションを私にもたらす。「ハイジはいつも正しい」とケネディ長官は最近オーバルオフィスで述べた！科学的発見とキュアにおいて米国が世界的リーダーであることを確実にするため、今こそFDAでの彼女のリーダーシップが必要なのだ。\n\nオーバートン博士は私の最初の任期でホワイトハウス・フェローを務めた著名人であり、公衆衛生および一般予防医学の認定医であり、ジョンズ・ホプキンス大学から臨床調査の博士号を取得している。彼女は頭が良く、万人から尊敬されている！ハイジ博士はケネディ長官およびオズ博士と協力して、迅速なキュア、米国のイノベーション拡大、臨床試験の大幅改革、医薬品価格の低下、そしてさらなるMAHA勝利という私の優先事項を迅速に実現するために働くだろう！\n\nオーバートン博士はアメリカ第一を貫き、健康なアメリカを創造し続けるだろう。ハイジ・オーバートン博士、おめでとう！ドナルド・J・トランプ大統領"
     }
   }
 }
