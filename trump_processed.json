@@ -1039,7 +1039,10 @@
     "truth:117123052590365117",
     "https://www.trumpstruth.org/statuses/41013",
     "truth:117124383223887727",
-    "https://www.trumpstruth.org/statuses/41015"
+    "https://www.trumpstruth.org/statuses/41015",
+    "fp:THE GREATEST RALLY OF THEM ALL\n \nTHE MIDTERM CONVENTION is coming to Dallas, Texas, September 9th and 10th. It will be a Rally like never before — Inc",
+    "truth:117124388139342612",
+    "https://www.trumpstruth.org/statuses/41014"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -8317,20 +8320,22 @@
       "translation": ""
     },
     "truth:117124388139342612": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41014",
       "source_text": "<p>THE GREATEST RALLY OF THEM ALL<br /> <br />THE MIDTERM CONVENTION is coming to Dallas, Texas, September 9th and 10th. It will be a Rally like never before — Incredible!<br /> <br />For the first time EVER, Republicans from all across our Great Country will come together for a Midterm Convention to celebrate our Tremendous Victories and Success, showcase our incredible Candidates, and prepare for the most important Midterm Election in History. Our Movement is bigger, better, and stronger than ever before. We have MADE AMERICA GREAT AGAIN, AND WE ARE GOING TO CELEBRATE THIS TREMENDOUS AND TOTALLY UNPRECEDENTED SUCCESS! The Radical Left Lunatics are trying to destroy our Country, but they have failed, and will never be successful, unless we allow that to happen — AND WE WON’T!<br /> <br />We are going to WIN the Midterms, protect and cherish our Country, and make it GREATER THAN EVER BEFORE. Be there, September 9th and 10th — It will be like nothing else. The Music, Excitement, and Importance of this Evening will be at levels never seen at a Convention or Political Event. I will be with you both nights, and rarin’ to go. See you in Dallas! President DONALD J. TRUMP<br /><a href=\"https://gopconvention.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gopconvention.com</span><span class=\"invisible\"></span></a></p>",
       "published": "Wed, 19 Aug 2026 21:52:12 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-19T22:25:43.023380Z",
+      "updated_at": "2026-08-19T22:45:45.074902Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41014",
       "first_seen": "2026-08-19T22:10:44.609080Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:THE GREATEST RALLY OF THEM ALL\n \nTHE MIDTERM CONVENTION is coming to Dallas, Texas, September 9th and 10th. It will be a Rally like never before — Inc",
-      "next_retry_at": "2026-08-19T22:35:43.023396Z",
-      "truth_social_id": "117124388139342612"
+      "truth_social_id": "117124388139342612",
+      "source_fingerprint": "fp:THE GREATEST RALLY OF THEM ALL\n \nTHE MIDTERM CONVENTION is coming to Dallas, Texas, September 9th and 10th. It will be a Rally like never before — Inc",
+      "media_identity": "attachment:117124388139342612:",
+      "translation": "史上最高のラリーだ\n\n中間選挙コンベンションがテキサス州ダラスに9月9日と10日にやってくる。これまでにないようなラリーになるだろう。素晴らしい!\n\n史上初めて、我が偉大なる国中から共和党員が集結して中間選挙コンベンションを開き、我々の素晴らしい勝利と成功を祝い、信じられない候補者たちを披露し、歴史上最も重要な中間選挙に向けて準備する。我々のムーブメントはかつてないほど大きく、優れ、強力だ。我々はアメリカを再び偉大にした、そして我々はこの素晴らしく全く前例のない成功を祝うのだ。左翼の狂信者たちは我が国を破壊しようとしているが、彼らは失敗し、我々がそれを許さない限り決して成功することはない──そして我々は許さないのだ!\n\n我々は中間選挙に勝利し、我が国を守り大切にし、これまで以上に偉大なものにするのだ。9月9日と10日、ダラスに来てくれ。これはほかに類のないものになる。この夜の音楽、興奮、そして重要性はコンベンションや政治イベントでこれまで見たことがないレベルになるだろう。私は両日あなたたちと一緒にいて、やる気に満ちている。ダラスで会おう! ドナルド・J・トランプ大統領\n\nhttps://gopconvention.com"
     }
   }
 }
