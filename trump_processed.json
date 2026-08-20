@@ -8536,6 +8536,31 @@
       "fingerprint": "fp:Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: \nhttps://www.foxnews.com/video/6403476736112",
       "next_retry_at": "2026-08-20T04:35:44.930290Z",
       "truth_social_id": "117125911763587334"
+    },
+    "truth:117125949632758649": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41026",
+      "source_text": "<p></p>",
+      "published": "Thu, 20 Aug 2026 04:29:19 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-20T04:30:47.919261Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41026",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117125949632758649:0a6b763ac436fbac.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/125/949/336/686/984/original/0a6b763ac436fbac.mp4",
+      "truth_social_id": "117125949632758649",
+      "next_retry_at": "2026-08-20T04:35:47.919278Z"
+    },
+    "truth:117125950821111248": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41025",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125949632758649</span></p>",
+      "published": "Thu, 20 Aug 2026 04:29:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-20T04:30:46.613101Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41025"
     }
   }
 }
