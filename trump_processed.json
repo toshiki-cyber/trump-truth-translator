@@ -8417,11 +8417,11 @@
       "status_url": "https://www.trumpstruth.org/statuses/41021",
       "source_text": "<p></p>",
       "published": "Thu, 20 Aug 2026 01:54:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-20T02:10:57.277401Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-20T02:21:01.281106Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41021",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "next_retry_at": "2026-08-20T02:15:57.277420Z"
+      "next_retry_at": "2026-08-20T02:31:01.281121Z"
     }
   }
 }
