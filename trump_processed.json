@@ -8502,14 +8502,20 @@
       ]
     },
     "truth:117125718254050188": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41023",
       "source_text": "<p>MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: <a href=\"https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/morning-gl</span><span class=\"invisible\">ory-scotus-should-urgently-allow-construction-white-house-proceed</span></a></p>",
       "published": "Thu, 20 Aug 2026 03:30:28 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-20T03:35:41.281027Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41023"
+      "retry_count": 1,
+      "updated_at": "2026-08-20T03:40:41.263484Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41023",
+      "first_seen": "2026-08-20T03:40:41.263450Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: \nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-u",
+      "next_retry_at": "2026-08-20T03:45:41.263493Z",
+      "truth_social_id": "117125718254050188"
     }
   }
 }
