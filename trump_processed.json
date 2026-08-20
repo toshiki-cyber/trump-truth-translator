@@ -8357,6 +8357,51 @@
       "source_fingerprint": "fp:No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefo",
       "media_identity": "attachment:117124650907675461:",
       "translation": "イランのイスラム共和国に取引を成立させる機会をこれほど与えた者はいない。TRAGICALLY、彼らはそれを活かすことに失敗した。したがって、本日、私はいかなる国に対しても取られたことのない最も破壊的な経済作戦を発表する。これは前例のない規模の経済戦争と孤立化である。彼らの海軍は消滅し、空軍は破壊され、軍事工場は瓦礫と化し、通貨は無価値であり、国は一本の糸でかろうじて繋がっている。本日、私はまた、金融機関、企業、空港、または政府機関がイランに対していかなる種類の生命線も提供することを許可するいかなる国も、それ自体が莫大な経済的結果に直面することになると発表する。石油密輸、スワップライン、現金移送、両替所、船舶登録、ダミー企業―それすべてが今すぐ停止する必要がある。誰であるか知っている者たちへ言う。これは経済的D-DAYとなり、イラン脅威を孤立させ、打倒するために我々のすべての同盟国が米国と共に立つ必要がある。これらの狂信者たちは窮地に立っており、これらの歴史的措置は彼らとテロを世界中に投影する能力を麻痺させるだろう。イランは決して核兵器を保有しない。本件に対する貴殿の注意をいただきありがとうございます。ドナルド・J・トランプ大統領"
+    },
+    "truth:117125319695089292": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41019",
+      "source_text": "<p></p>",
+      "published": "Thu, 20 Aug 2026 01:49:07 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-20T01:55:45.627792Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41019",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117125319695089292:fc27695f5f7b64c6.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/125/318/983/523/205/original/fc27695f5f7b64c6.mp4",
+      "truth_social_id": "117125319695089292",
+      "next_retry_at": "2026-08-20T02:00:45.627810Z"
+    },
+    "truth:117125320372310851": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41018",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125319695089292</span></p>",
+      "published": "Thu, 20 Aug 2026 01:49:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-20T01:55:43.660427Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41018"
+    },
+    "truth:117125340444071624": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41021",
+      "source_text": "<p></p>",
+      "published": "Thu, 20 Aug 2026 01:54:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-20T01:55:43.660390Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41021"
+    },
+    "truth:117125341278153871": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41020",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117125340444071624</span></p>",
+      "published": "Thu, 20 Aug 2026 01:54:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-20T01:55:43.660350Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41020"
     }
   }
 }
