@@ -1058,7 +1058,9 @@
     "truth:117125632032911785",
     "https://www.trumpstruth.org/statuses/41022",
     "truth:117124382820949631",
-    "https://www.trumpstruth.org/statuses/41016"
+    "https://www.trumpstruth.org/statuses/41016",
+    "truth:117125718254050188",
+    "https://www.trumpstruth.org/statuses/41023"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -8502,20 +8504,22 @@
       ]
     },
     "truth:117125718254050188": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41023",
       "source_text": "<p>MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: <a href=\"https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/morning-gl</span><span class=\"invisible\">ory-scotus-should-urgently-allow-construction-white-house-proceed</span></a></p>",
       "published": "Thu, 20 Aug 2026 03:30:28 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-20T03:50:51.199743Z",
+      "updated_at": "2026-08-20T04:05:45.015642Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41023",
       "first_seen": "2026-08-20T03:40:41.263450Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: \nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-u",
-      "next_retry_at": "2026-08-20T04:00:51.199758Z",
-      "truth_social_id": "117125718254050188"
+      "truth_social_id": "117125718254050188",
+      "source_fingerprint": "fp:MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: \nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-u",
+      "media_identity": "attachment:117125718254050188:",
+      "translation": "朝日が輝く：最高裁は大急ぎでホワイトハウスの建設工事を認可すべきだ：\nhttps://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed"
     }
   }
 }
