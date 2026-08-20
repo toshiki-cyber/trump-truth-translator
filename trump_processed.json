@@ -1066,7 +1066,10 @@
     "https://www.trumpstruth.org/statuses/41025",
     "fp:Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: \nhttps://www.foxnews.com/video/6403476736112",
     "truth:117125911763587334",
-    "https://www.trumpstruth.org/statuses/41024"
+    "https://www.trumpstruth.org/statuses/41024",
+    "fp:James Braid, our Director of Legislative Affairs, will be leaving the White House in September. James has played a critical role in our many accomplis",
+    "truth:117128115633309906",
+    "https://www.trumpstruth.org/statuses/41027"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -8627,20 +8630,22 @@
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117125949632758649"
     },
     "truth:117128115633309906": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41027",
       "source_text": "<p>James Braid, our Director of Legislative Affairs, will be leaving the White House in September. James has played a critical role in our many accomplishments with Congress, including THE ONE BIG BEAUTIFUL BILL, beating the Democrats in two shutdown showdowns, passing the GENIUS Act, defeating a record number of War Powers resolutions, and the confirmation of my Cabinet at the fastest rate in decades. This has been, and will continue to be, the most successful Republican Congress in History. Thank you, James, for your service to our Nation! President DONALD J. TRUMP</p>",
       "published": "Thu, 20 Aug 2026 13:40:09 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-20T13:55:42.719326Z",
+      "updated_at": "2026-08-20T14:05:46.997742Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41027",
       "first_seen": "2026-08-20T13:45:44.890342Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:James Braid, our Director of Legislative Affairs, will be leaving the White House in September. James has played a critical role in our many accomplis",
-      "next_retry_at": "2026-08-20T14:05:42.719342Z",
-      "truth_social_id": "117128115633309906"
+      "truth_social_id": "117128115633309906",
+      "source_fingerprint": "fp:James Braid, our Director of Legislative Affairs, will be leaving the White House in September. James has played a critical role in our many accomplis",
+      "media_identity": "attachment:117128115633309906:",
+      "translation": "ジェームス・ブレイドは我々の立法問題担当局長だが、9月にホワイトハウスを離職する。ジェームスは議会との多くの成果において重要な役割を果たしてきた。その成果とは、あの素晴らしき大型法案、民主党との2度のシャットダウン対決での勝利、天才法案の可決、過去最多の戦争権限決議案の撃破、そして数十年ぶりの最速ペースでの閣僚の承認である。これまでも、そしてこれからも、共和党議会史上最も成功した議会であり続けるだろう。ジェームス、我が国への奉仕に感謝する！ドナルド・J・トランプ大統領"
     }
   }
 }
