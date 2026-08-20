@@ -1069,7 +1069,10 @@
     "https://www.trumpstruth.org/statuses/41024",
     "fp:James Braid, our Director of Legislative Affairs, will be leaving the White House in September. James has played a critical role in our many accomplis",
     "truth:117128115633309906",
-    "https://www.trumpstruth.org/statuses/41027"
+    "https://www.trumpstruth.org/statuses/41027",
+    "fp:I am pleased to nominate Jesus Osete to serve as Judge on the U.S. District Court for the Western District of Missouri. Jesus is the Principal Deputy ",
+    "truth:117128906084783390",
+    "https://www.trumpstruth.org/statuses/41028"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -8648,20 +8651,22 @@
       "translation": "ジェームス・ブレイドは我々の立法問題担当局長だが、9月にホワイトハウスを離職する。ジェームスは議会との多くの成果において重要な役割を果たしてきた。その成果とは、あの素晴らしき大型法案、民主党との2度のシャットダウン対決での勝利、天才法案の可決、過去最多の戦争権限決議案の撃破、そして数十年ぶりの最速ペースでの閣僚の承認である。これまでも、そしてこれからも、共和党議会史上最も成功した議会であり続けるだろう。ジェームス、我が国への奉仕に感謝する！ドナルド・J・トランプ大統領"
     },
     "truth:117128906084783390": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41028",
       "source_text": "<p>I am pleased to nominate Jesus Osete to serve as Judge on the U.S. District Court for the Western District of Missouri. Jesus is the Principal Deputy Assistant Attorney General for the Department of Justice’s Civil Rights Division, where he has done tremendous work for our Administration. Previously, Jesus served as General Counsel to the Missouri Secretary of State, and both Deputy Attorney General and Deputy Solicitor General in the Office of the Missouri Attorney General. He clerked for Judge Bobby Shepherd of the U.S. Court of Appeals for the Eighth Circuit, and Chief Justice Zel Fischer of the Supreme Court of Missouri. Jesus received his Law Degree from Washington University — St. Louis, and his Undergraduate Degree from the University of Arizona. Jesus has the strong recommendation and support of Senator Eric Schmitt and Senator Josh Hawley. He will always be a strong Defender of the Constitution. Congratulations Jesus! President DONALD J. TRUMP</p>",
       "published": "Thu, 20 Aug 2026 17:01:11 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-20T17:10:45.396960Z",
+      "updated_at": "2026-08-20T17:20:52.920554Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41028",
       "first_seen": "2026-08-20T17:05:41.986987Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I am pleased to nominate Jesus Osete to serve as Judge on the U.S. District Court for the Western District of Missouri. Jesus is the Principal Deputy ",
-      "next_retry_at": "2026-08-20T17:20:45.396979Z",
-      "truth_social_id": "117128906084783390"
+      "truth_social_id": "117128906084783390",
+      "source_fingerprint": "fp:I am pleased to nominate Jesus Osete to serve as Judge on the U.S. District Court for the Western District of Missouri. Jesus is the Principal Deputy ",
+      "media_identity": "attachment:117128906084783390:",
+      "translation": "ミズーリ州西部地区連邦地方裁判所の判事として職務を遂行するジーザス・オセテを指名することを嬉しく思う。ジーザスは司法省公民権局の筆頭次席補佐官であり、我が政権のため素晴らしい仕事をしてきた。以前は、ミズーリ州務長官の法務顧問、およびミズーリ州司法長官室の次席司法長官と次席弁護士総長を務めていた。彼は第8巡回区米国控訴裁判所のボビー・シェパード判事およびミズーリ州最高裁判所のゼル・フィッシャー最高裁判事の法廷書記官を務めた。ジーザスはワシントン大学セントルイス校から法学位を、アリゾナ大学から学部位を取得している。ジーザスはエリック・シュミット上院議員とジョシュ・ホーリー上院議員から強い推薦と支持を受けている。彼は常に合衆国憲法の強力な擁護者であろう。おめでとう、ジーザス！ドナルド・J・トランプ大統領"
     }
   }
 }
