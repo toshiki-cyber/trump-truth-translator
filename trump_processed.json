@@ -8422,14 +8422,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41021",
       "source_text": "<p></p>",
       "published": "Thu, 20 Aug 2026 01:54:23 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-20T03:00:41.120212Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-20T03:45:39.149974Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41021",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/125/339/948/795/370/original/b56769192521eef8.mp4",
       "source_fingerprint": null,
       "media_identity": "attachment:117125340444071624:b56769192521eef8.mp4",
       "truth_social_id": "117125340444071624",
-      "next_retry_at": "2026-08-20T03:40:41.120230Z"
+      "next_retry_at": "2026-08-20T05:05:39.149988Z"
     },
     "truth:117125632032911785": {
       "post_status": "POSTED",
