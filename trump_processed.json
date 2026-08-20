@@ -8527,14 +8527,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41024",
       "source_text": "<p>Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: <a href=\"https://www.foxnews.com/video/6403476736112\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640347673611</span><span class=\"invisible\">2</span></a></p>",
       "published": "Thu, 20 Aug 2026 04:19:41 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-20T04:20:40.089760Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-20T04:25:44.930262Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41024",
       "first_seen": "2026-08-20T04:20:40.089724Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: \nhttps://www.foxnews.com/video/6403476736112",
-      "next_retry_at": "2026-08-20T04:25:40.089770Z",
+      "next_retry_at": "2026-08-20T04:35:44.930290Z",
       "truth_social_id": "117125911763587334"
     }
   }
