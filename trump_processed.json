@@ -9611,8 +9611,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41069",
       "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:07:39 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-21T19:47:19.208840Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-21T20:11:20.100638Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41069",
       "source_fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "media_identity": "attachment:117134593867089115:4883bc802d1967ce.jpg,5ab2d3517af4747f.jpg,8842feecf03f48ec.jpg,e3f2f59b0d45ad87.jpg",
@@ -9620,7 +9620,7 @@
       "fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "truth_social_id": "117134593867089115",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T20:07:19.208856Z"
+      "next_retry_at": "2026-08-21T20:51:20.100651Z"
     },
     "truth:117134595100624861": {
       "post_status": "RETRY",
@@ -10340,19 +10340,6 @@
       "next_retry_at": "2026-08-21T20:01:37.481903Z",
       "truth_social_id": "117134650068984827"
     },
-    "url:https://www.trumpstruth.org/statuses/41096": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41096",
-      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:22:41 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T19:56:53.908957Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41096",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "fingerprint": "fp:Trump Effect: Bessent Ends Tax Breaks for Illegals: \nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/",
-      "next_retry_at": "2026-08-21T20:01:53.908976Z"
-    },
     "url:https://www.trumpstruth.org/statuses/41104": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10389,7 +10376,17 @@
       "fingerprint": "fp:Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’\nhttps://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
       "next_retry_at": "2026-08-21T20:00:56.605679Z"
     },
-    "truth:117134645458445535": {
+    "truth:117134908401668938": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
+    },
+    "url:https://www.trumpstruth.org/statuses/41072": {
       "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41072",
@@ -10402,15 +10399,18 @@
       "fingerprint": "fp:Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: \nhttps://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-t",
       "next_retry_at": "2026-08-21T20:01:20.462253Z"
     },
-    "truth:117134908401668938": {
-      "post_status": "DISCOVERED",
+    "truth:117134652986157363": {
+      "post_status": "RETRY",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41106",
-      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:30:43.127310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
+      "status_url": "https://www.trumpstruth.org/statuses/41096",
+      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:41 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-21T19:56:53.908957Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41096",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "fingerprint": "fp:Trump Effect: Bessent Ends Tax Breaks for Illegals: \nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/",
+      "next_retry_at": "2026-08-21T20:01:53.908976Z"
     }
   }
 }
