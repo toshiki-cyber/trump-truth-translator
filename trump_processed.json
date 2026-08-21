@@ -9003,6 +9003,22 @@
       "failure_reason": null,
       "truth_social_id": "117131396419596554",
       "translation": ""
+    },
+    "truth:117133120342300539": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41042",
+      "source_text": "<p>Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 10:52:55 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-21T10:55:42.442114Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41042",
+      "first_seen": "2026-08-21T10:55:42.442078Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, bee",
+      "next_retry_at": "2026-08-21T11:00:42.442122Z",
+      "truth_social_id": "117133120342300539"
     }
   }
 }
