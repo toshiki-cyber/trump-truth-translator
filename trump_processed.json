@@ -9579,14 +9579,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41055",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:30:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T18:45:47.292824Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-21T18:56:08.562087Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41055",
       "source_fingerprint": null,
       "media_identity": "attachment:117134447318347925:857ba430d265ffa3.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/447/119/898/559/original/857ba430d265ffa3.mp4",
       "truth_social_id": "117134447318347925",
-      "next_retry_at": "2026-08-21T18:50:47.292843Z"
+      "next_retry_at": "2026-08-21T19:06:08.562105Z"
     },
     "truth:117134450446438705": {
       "post_status": "DISCOVERED",
@@ -10148,7 +10148,7 @@
       "updated_at": "2026-08-21T17:35:40.879917Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
     },
-    "url:https://www.trumpstruth.org/statuses/41095": {
+    "truth:117134653874219621": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41095",
@@ -10157,6 +10157,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:35:40.879834Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41095"
+    },
+    "truth:117135011934383556": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41107",
+      "source_text": "<p>Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: <a href=\"https://nypost.com/2026/08/21/us-news/work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/us-news/</span><span class=\"invisible\">work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 18:53:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:55:43.233355Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
     }
   }
 }
