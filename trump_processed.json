@@ -9692,8 +9692,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41070",
       "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
       "published": "Fri, 21 Aug 2026 17:06:02 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-21T19:41:47.644124Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-21T20:06:21.009584Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41070",
       "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "media_identity": "attachment:117134587500534715:86bdc5e51c2eade4.jpg,8de4e43afdea780f.jpg,8e36b7a97d4814f3.jpg",
@@ -9701,7 +9701,7 @@
       "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "truth_social_id": "117134587500534715",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T20:01:47.644140Z"
+      "next_retry_at": "2026-08-21T20:46:21.009600Z"
     },
     "truth:117134434446472238": {
       "post_status": "POSTED",
@@ -10292,19 +10292,6 @@
       "next_retry_at": "2026-08-21T20:01:55.566535Z",
       "truth_social_id": "117134656767200357"
     },
-    "url:https://www.trumpstruth.org/statuses/41065": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41065",
-      "source_text": "<p>Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’<br /><a href=\"https://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-touts-stranglehold-iran-praise-be-allah/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:08:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T19:55:56.605655Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41065",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "fingerprint": "fp:Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’\nhttps://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
-      "next_retry_at": "2026-08-21T20:00:56.605679Z"
-    },
     "truth:117134657793309927": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -10353,29 +10340,6 @@
       "next_retry_at": "2026-08-21T20:01:37.481903Z",
       "truth_social_id": "117134650068984827"
     },
-    "url:https://www.trumpstruth.org/statuses/41106": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41106",
-      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:30:43.127310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
-    },
-    "url:https://www.trumpstruth.org/statuses/41072": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41072",
-      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T19:56:20.462236Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41072",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "fingerprint": "fp:Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: \nhttps://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-t",
-      "next_retry_at": "2026-08-21T20:01:20.462253Z"
-    },
     "url:https://www.trumpstruth.org/statuses/41096": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -10411,6 +10375,42 @@
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
       "next_retry_at": "2026-08-21T20:01:36.367091Z"
+    },
+    "truth:117134598983433487": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41065",
+      "source_text": "<p>Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’<br /><a href=\"https://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-touts-stranglehold-iran-praise-be-allah/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:08:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-21T19:55:56.605655Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41065",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "fingerprint": "fp:Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’\nhttps://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
+      "next_retry_at": "2026-08-21T20:00:56.605679Z"
+    },
+    "truth:117134645458445535": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41072",
+      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-21T19:56:20.462236Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41072",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "fingerprint": "fp:Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: \nhttps://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-t",
+      "next_retry_at": "2026-08-21T20:01:20.462253Z"
+    },
+    "truth:117134908401668938": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     }
   }
 }
