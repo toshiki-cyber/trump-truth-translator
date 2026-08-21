@@ -8761,24 +8761,19 @@
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117129931396749934"
     },
     "truth:117129934429426476": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41030",
       "source_text": "<p></p>",
       "published": "Thu, 20 Aug 2026 21:22:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T08:25:41.584316Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41030"
-    },
-    "truth:117131396419596554": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41039",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 03:34:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T08:25:41.584137Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41039"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T08:46:36.234893Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41030",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117129934429426476:9eed379eb5a7a437.mp4",
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/129/933/899/903/609/original/9eed379eb5a7a437.mp4",
+      "truth_social_id": "117129934429426476",
+      "next_retry_at": "2026-08-21T08:51:36.234910Z"
     },
     "truth:117131396522866670": {
       "post_status": "DISCOVERED",
@@ -8835,7 +8830,7 @@
       "updated_at": "2026-08-21T08:25:41.584245Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41036"
     },
-    "truth:117130287849451563": {
+    "url:https://www.trumpstruth.org/statuses/41037": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41037",
@@ -8845,7 +8840,7 @@
       "updated_at": "2026-08-21T08:25:41.584210Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41037"
     },
-    "truth:117131390037719482": {
+    "url:https://www.trumpstruth.org/statuses/41040": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41040",
@@ -8854,6 +8849,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T08:25:41.584173Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41040"
+    },
+    "url:https://www.trumpstruth.org/statuses/41039": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41039",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 03:34:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T08:25:41.584137Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41039"
     }
   }
 }
