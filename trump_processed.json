@@ -1218,7 +1218,10 @@
     "https://www.trumpstruth.org/statuses/41100",
     "fp:Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': \nhttps://justthenews.com/politics-policy/all-things-trump/trump",
     "truth:117134650068984827",
-    "https://www.trumpstruth.org/statuses/41099"
+    "https://www.trumpstruth.org/statuses/41099",
+    "fp:This Is the Best 'Hard Goods' Boom in Decades: \nhttps://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_1544",
+    "truth:117134650935728888",
+    "https://www.trumpstruth.org/statuses/41098"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10356,20 +10359,22 @@
       "truth_social_id": "117134647345137602"
     },
     "truth:117134650935728888": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41098",
       "source_text": "<p>This Is the Best 'Hard Goods' Boom in Decades: <a href=\"https://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">realclearpolitics.com/articles</span><span class=\"invisible\">/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:22:10 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:20.605220Z",
+      "updated_at": "2026-08-21T23:30:48.646531Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41098",
       "first_seen": "2026-08-21T19:56:38.011227Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:This Is the Best 'Hard Goods' Boom in Decades: \nhttps://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_1544",
-      "next_retry_at": "2026-08-21T20:26:20.605239Z",
-      "truth_social_id": "117134650935728888"
+      "truth_social_id": "117134650935728888",
+      "source_fingerprint": "fp:This Is the Best 'Hard Goods' Boom in Decades: \nhttps://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_1544",
+      "media_identity": "attachment:117134650935728888:",
+      "translation": "これは数十年で最高の「耐久消費財」ブームだ：\nhttps://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html"
     },
     "truth:117134439935650398": {
       "post_status": "POSTED",
@@ -11141,9 +11146,9 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T23:25:42.378198Z"
+      "updated_at": "2026-08-21T23:30:44.038096Z"
     },
-    "url:https://www.trumpstruth.org/statuses/41111": {
+    "truth:117135555611644462": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41111",
@@ -11153,7 +11158,7 @@
       "updated_at": "2026-08-21T21:20:43.850828Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41111"
     },
-    "url:https://www.trumpstruth.org/statuses/41109": {
+    "truth:117135561220383573": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41109",
@@ -11163,7 +11168,7 @@
       "updated_at": "2026-08-21T21:15:42.265930Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
     },
-    "url:https://www.trumpstruth.org/statuses/41114": {
+    "truth:117135790192886203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41114",
