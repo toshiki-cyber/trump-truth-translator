@@ -230,6 +230,15 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertNotIn("schedule:", workflow)
         self.assertIn("workflow_dispatch:", workflow)
 
+    def test_direct_httpx_import_is_declared_in_requirements(self):
+        with open("requirements.txt") as file:
+            packages = {
+                line.split("==", 1)[0].split(">=", 1)[0].strip().lower()
+                for line in file
+                if line.strip() and not line.lstrip().startswith("#")
+            }
+        self.assertIn("httpx", packages)
+
     def test_production_legacy_fixture_keeps_existing_mirror_ids(self):
         with open(translator.PROCESSED_FILE) as file:
             legacy = json.load(file)
