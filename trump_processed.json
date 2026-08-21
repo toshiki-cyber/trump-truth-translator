@@ -1175,7 +1175,10 @@
     "https://www.trumpstruth.org/statuses/41083",
     "fp:Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’\nhttps://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
     "truth:117134598983433487",
-    "https://www.trumpstruth.org/statuses/41065"
+    "https://www.trumpstruth.org/statuses/41065",
+    "fp:Trump touts largest one-year drop in violent crime in U.S. history: \nhttps://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-dro",
+    "truth:117134631536748114",
+    "https://www.trumpstruth.org/statuses/41071"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10183,20 +10186,22 @@
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/"
     },
     "truth:117134631536748114": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41071",
       "source_text": "<p>Trump touts largest one-year drop in violent crime in U.S. history: <a href=\"https://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:17:14 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-21T21:25:57.628802Z",
+      "updated_at": "2026-08-21T21:56:14.430500Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41071",
       "first_seen": "2026-08-21T19:55:58.612030Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump touts largest one-year drop in violent crime in U.S. history: \nhttps://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-dro",
-      "next_retry_at": "2026-08-21T21:45:57.628829Z",
-      "truth_social_id": "117134631536748114"
+      "truth_social_id": "117134631536748114",
+      "source_fingerprint": "fp:Trump touts largest one-year drop in violent crime in U.S. history: \nhttps://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-dro",
+      "media_identity": "attachment:117134631536748114:",
+      "translation": "トランプ、米国史上最大の1年間の凶悪犯罪減少を誇る：\nhttps://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/"
     },
     "truth:117134638780061079": {
       "post_status": "RETRY",
