@@ -9396,15 +9396,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41051",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:26:40 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-21T17:26:16.950724Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-21T17:52:19.140634Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41051",
       "source_fingerprint": null,
       "media_identity": "attachment:117134432679930032:03eed214764c3ebb.jpg,362575b516823f9c.jpg,ce8e62021d4d491a.jpg,db1b825935105444.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/432/373/553/044/small/db1b825935105444.jpg",
       "truth_social_id": "117134432679930032",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T17:46:16.950743Z"
+      "next_retry_at": "2026-08-21T18:32:19.140649Z"
     },
     "truth:117134433446256360": {
       "post_status": "POSTED",
@@ -9704,26 +9704,6 @@
       "updated_at": "2026-08-21T17:25:50.946843Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41081"
     },
-    "truth:117134637894565376": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41080",
-      "source_text": "<p>Judge allows Trump administration to end deportation protections for thousands of Ethiopians: <a href=\"https://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2026/08/18/politics/ju</span><span class=\"invisible\">dge-allows-trump-administration-to-end-tps-ethiopians</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:18:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946817Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41080"
-    },
-    "truth:117134638780061079": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41079",
-      "source_text": "<p>Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: <a href=\"https://www.dailysignal.com/2026/08/18/department-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/08/18/dep</span><span class=\"invisible\">artment-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:19:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946790Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41079"
-    },
     "truth:117134639829580841": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -9743,16 +9723,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:25:50.946738Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41077"
-    },
-    "truth:117134641491790365": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41076",
-      "source_text": "<p>FBI: 2025 had biggest violent-crime drop in 90 years: <a href=\"https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/18/fbi-viole</span><span class=\"invisible\">nt-crime-drop-2025</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:19:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946712Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
     },
     "truth:117134642322045474": {
       "post_status": "DISCOVERED",
@@ -9823,16 +9793,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:30:42.550834Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41087"
-    },
-    "truth:117134633473478901": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41085",
-      "source_text": "<p>Trump claims ‘total control’ of Strait of Hormuz as war drags on: <a href=\"https://www.washingtonexaminer.com/policy/defense/4684362/trump-total-control-strait-of-hormuz-war-iran/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/policy/</span><span class=\"invisible\">defense/4684362/trump-total-control-strait-of-hormuz-war-iran/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:17:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:30:42.550756Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41085"
     },
     "truth:117134655888333194": {
       "post_status": "DISCOVERED",
@@ -10004,16 +9964,6 @@
       "updated_at": "2026-08-21T17:15:41.152083Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
     },
-    "truth:117134631536748114": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41071",
-      "source_text": "<p>Trump touts largest one-year drop in violent crime in U.S. history: <a href=\"https://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:17:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:20:42.497124Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41071"
-    },
     "truth:117134439935650398": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10024,7 +9974,7 @@
       "updated_at": "2026-08-21T16:35:41.430074Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41059"
     },
-    "url:https://www.trumpstruth.org/statuses/41057": {
+    "truth:117134444832067768": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41057",
@@ -10033,6 +9983,56 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T16:35:41.430018Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41057"
+    },
+    "url:https://www.trumpstruth.org/statuses/41071": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41071",
+      "source_text": "<p>Trump touts largest one-year drop in violent crime in U.S. history: <a href=\"https://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:17:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:20:42.497124Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41071"
+    },
+    "url:https://www.trumpstruth.org/statuses/41085": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41085",
+      "source_text": "<p>Trump claims ‘total control’ of Strait of Hormuz as war drags on: <a href=\"https://www.washingtonexaminer.com/policy/defense/4684362/trump-total-control-strait-of-hormuz-war-iran/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/policy/</span><span class=\"invisible\">defense/4684362/trump-total-control-strait-of-hormuz-war-iran/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:17:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:30:42.550756Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41085"
+    },
+    "url:https://www.trumpstruth.org/statuses/41080": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41080",
+      "source_text": "<p>Judge allows Trump administration to end deportation protections for thousands of Ethiopians: <a href=\"https://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2026/08/18/politics/ju</span><span class=\"invisible\">dge-allows-trump-administration-to-end-tps-ethiopians</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:18:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946817Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41080"
+    },
+    "url:https://www.trumpstruth.org/statuses/41079": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41079",
+      "source_text": "<p>Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: <a href=\"https://www.dailysignal.com/2026/08/18/department-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/08/18/dep</span><span class=\"invisible\">artment-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946790Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41079"
+    },
+    "url:https://www.trumpstruth.org/statuses/41076": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41076",
+      "source_text": "<p>FBI: 2025 had biggest violent-crime drop in 90 years: <a href=\"https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/18/fbi-viole</span><span class=\"invisible\">nt-crime-drop-2025</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946712Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
     }
   }
 }
