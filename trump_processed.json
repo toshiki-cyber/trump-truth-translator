@@ -9571,14 +9571,19 @@
       "translation": ""
     },
     "truth:117134447318347925": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41055",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:30:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.429962Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41055"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T18:45:47.292824Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41055",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117134447318347925:857ba430d265ffa3.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/447/119/898/559/original/857ba430d265ffa3.mp4",
+      "truth_social_id": "117134447318347925",
+      "next_retry_at": "2026-08-21T18:50:47.292843Z"
     },
     "truth:117134450446438705": {
       "post_status": "DISCOVERED",
