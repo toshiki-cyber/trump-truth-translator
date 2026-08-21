@@ -1203,7 +1203,10 @@
     "https://www.trumpstruth.org/statuses/41051",
     "fp:Boy who passed out in deadly ocean waves celebrates miracle birthday inside Trump Oval Office: \nhttps://www.foxnews.com/media/boy-passed-out-deadly-oc",
     "truth:117134642322045474",
-    "https://www.trumpstruth.org/statuses/41075"
+    "https://www.trumpstruth.org/statuses/41075",
+    "fp:‘Woke One’ Wasn’t Just Crazy — It Was Destructive: \nhttps://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/",
+    "truth:117134643261686455",
+    "https://www.trumpstruth.org/statuses/41074"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10116,20 +10119,22 @@
       "translation": "致命的な海の波で気を失った少年がトランプ大統領執務室での奇跡的な誕生日を祝う:\nhttps://www.foxnews.com/media/boy-passed-out-deadly-ocean-waves-celebrates-miracle-birthday-trump-oval-office"
     },
     "truth:117134643261686455": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41074",
       "source_text": "<p>‘Woke One’ Wasn’t Just Crazy — It Was Destructive: <a href=\"https://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nationalreview.com/2026/08/wok</span><span class=\"invisible\">e-one-wasnt-just-crazy-it-was-destructive/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:20:13 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:17.815778Z",
+      "updated_at": "2026-08-21T22:55:42.328969Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41074",
       "first_seen": "2026-08-21T19:56:05.119045Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:‘Woke One’ Wasn’t Just Crazy — It Was Destructive: \nhttps://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/",
-      "next_retry_at": "2026-08-21T20:26:17.815798Z",
-      "truth_social_id": "117134643261686455"
+      "truth_social_id": "117134643261686455",
+      "source_fingerprint": "fp:‘Woke One’ Wasn’t Just Crazy — It Was Destructive: \nhttps://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/",
+      "media_identity": "attachment:117134643261686455:",
+      "translation": "「ウォーク・ワン」は単なる狂気ではなかった—それは破壊的だった：\nhttps://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/"
     },
     "truth:117134644597189989": {
       "post_status": "RETRY",
@@ -10933,7 +10938,17 @@
       "updated_at": "2026-08-21T21:15:42.265930Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
     },
-    "url:https://www.trumpstruth.org/statuses/41107": {
+    "truth:117135773042405247": {
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41112",
+      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T22:45:39.526810Z"
+    },
+    "truth:117135011934383556": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
@@ -10942,19 +10957,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:55:43.233355Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
-    },
-    "url:https://www.trumpstruth.org/statuses/41112": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41112",
-      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T22:45:39.526810Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41112"
-    },
-    "truth:117135773042405247": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
     }
   }
 }
