@@ -9581,14 +9581,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41055",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:30:23 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T18:56:08.562087Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-21T19:11:42.105559Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41055",
       "source_fingerprint": null,
       "media_identity": "attachment:117134447318347925:857ba430d265ffa3.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/447/119/898/559/original/857ba430d265ffa3.mp4",
       "truth_social_id": "117134447318347925",
-      "next_retry_at": "2026-08-21T19:06:08.562105Z"
+      "next_retry_at": "2026-08-21T19:31:42.105573Z"
     },
     "truth:117134450446438705": {
       "post_status": "POSTED",
@@ -9842,16 +9842,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:30:42.550875Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41088"
-    },
-    "truth:117134657793309927": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41089",
-      "source_text": "<p>Exclusive: EPA to Enact Emergency Fuel Waiver to Increase Domestic Gas Supply, Lower Prices: <a href=\"https://www.breitbart.com/environment/2026/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/environment/2026</span><span class=\"invisible\">/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:23:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:30:42.550178Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41089"
     },
     "truth:117134659039628490": {
       "post_status": "DISCOVERED",
@@ -10145,16 +10135,6 @@
       "updated_at": "2026-08-21T18:15:39.344619Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
     },
-    "url:https://www.trumpstruth.org/statuses/41106": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41106",
-      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:30:43.127310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
-    },
     "truth:117134637894565376": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10174,6 +10154,26 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:30:42.550225Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41090"
+    },
+    "url:https://www.trumpstruth.org/statuses/41089": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41089",
+      "source_text": "<p>Exclusive: EPA to Enact Emergency Fuel Waiver to Increase Domestic Gas Supply, Lower Prices: <a href=\"https://www.breitbart.com/environment/2026/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/environment/2026</span><span class=\"invisible\">/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:23:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:30:42.550178Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41089"
+    },
+    "truth:117134908401668938": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     }
   }
 }
