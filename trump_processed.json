@@ -1151,7 +1151,10 @@
     "https://www.trumpstruth.org/statuses/41067",
     "fp:Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: \nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increa",
     "truth:117134597641992037",
-    "https://www.trumpstruth.org/statuses/41066"
+    "https://www.trumpstruth.org/statuses/41066",
+    "fp:Trump: US Has Total Control of Hormuz: \nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/",
+    "truth:117134600045602327",
+    "https://www.trumpstruth.org/statuses/41064"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9688,20 +9691,22 @@
       "translation": "勝利：今年、米国民の税還付金が430億ドル増加した：\nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increased-by-43-billion-this-year/"
     },
     "truth:117134600045602327": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41064",
       "source_text": "<p>Trump: US Has Total Control of Hormuz: <a href=\"https://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/world/globaltalk/t</span><span class=\"invisible\">rump-hormuz-iran/2026/08/12/id/1265856/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:09:14 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:15:58.478248Z",
+      "updated_at": "2026-08-21T20:45:52.886166Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41064",
       "first_seen": "2026-08-21T19:55:56.987908Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump: US Has Total Control of Hormuz: \nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/",
-      "next_retry_at": "2026-08-21T20:25:58.478267Z",
-      "truth_social_id": "117134600045602327"
+      "truth_social_id": "117134600045602327",
+      "source_fingerprint": "fp:Trump: US Has Total Control of Hormuz: \nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/",
+      "media_identity": "attachment:117134600045602327:",
+      "translation": "トランプ：米国はホルムズ海峡を完全に支配している：\nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/"
     },
     "truth:117134587500534715": {
       "post_status": "RETRY",
@@ -10421,12 +10426,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41065",
       "source_text": "<p>Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’<br /><a href=\"https://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-touts-stranglehold-iran-praise-be-allah/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:08:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T20:15:58.221175Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-21T20:45:49.364233Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41065",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’\nhttps://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
-      "next_retry_at": "2026-08-21T20:25:58.221193Z"
+      "next_retry_at": "2026-08-21T21:05:49.364239Z",
+      "first_seen": "2026-08-21T20:45:49.364201Z",
+      "no_media_confirmations": 1,
+      "truth_social_id": "117134598983433487"
     },
     "truth:117134849304439845": {
       "post_status": "POSTED",
