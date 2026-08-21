@@ -9407,15 +9407,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41051",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:26:40 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-21T17:52:19.140634Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-21T18:37:17.735597Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41051",
       "source_fingerprint": null,
       "media_identity": "attachment:117134432679930032:03eed214764c3ebb.jpg,362575b516823f9c.jpg,ce8e62021d4d491a.jpg,db1b825935105444.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/432/373/553/044/small/db1b825935105444.jpg",
       "truth_social_id": "117134432679930032",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T18:32:19.140649Z"
+      "next_retry_at": "2026-08-21T19:57:17.735614Z"
     },
     "truth:117134433446256360": {
       "post_status": "POSTED",
@@ -9933,26 +9933,6 @@
       "updated_at": "2026-08-21T17:35:40.879958Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41098"
     },
-    "truth:117134652986157363": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41096",
-      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:22:41 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879876Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41096"
-    },
-    "truth:117134653874219621": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41095",
-      "source_text": "<p>Americans Stop Paying the World’s Pharmacy Tab as Prices Fall Hardest Since 1963: <a href=\"https://amac.us/newsline/americans-stop-paying-the-worlds-pharmacy-tab-as-prices-fall-hardest-since-1963\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/americans-sto</span><span class=\"invisible\">p-paying-the-worlds-pharmacy-tab-as-prices-fall-hardest-since-1963</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:22:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879834Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41095"
-    },
     "truth:117134439935650398": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -10014,16 +9994,6 @@
       "updated_at": "2026-08-21T17:25:50.946790Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41079"
     },
-    "truth:117134651908743307": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41097",
-      "source_text": "<p>‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy: <a href=\"https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/economic-d-</span><span class=\"invisible\">day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:22:25 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879917Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
-    },
     "truth:117134654816697655": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10064,16 +10034,6 @@
       "updated_at": "2026-08-21T17:30:42.550267Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41093"
     },
-    "truth:117134845877719345": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41105",
-      "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
-      "published": "Fri, 21 Aug 2026 18:11:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:15:39.344619Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
-    },
     "truth:117134849304439845": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10083,16 +10043,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:15:39.344572Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41104"
-    },
-    "truth:117134448075588837": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41054",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925</span></p>",
-      "published": "Fri, 21 Aug 2026 16:30:35 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.429932Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41054"
     },
     "truth:117134600943313462": {
       "post_status": "DISCOVERED",
@@ -10124,16 +10074,6 @@
       "updated_at": "2026-08-21T17:25:50.946712Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
     },
-    "url:https://www.trumpstruth.org/statuses/41100": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41100",
-      "source_text": "<p>Chinese national arrested for voter fraud after casting ballot in 2024 election: <a href=\"https://www.washingtonexaminer.com/news/4694130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/46</span><span class=\"invisible\">94130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.880043Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41100"
-    },
     "truth:117134908401668938": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10143,6 +10083,66 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:30:43.127310Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
+    },
+    "url:https://www.trumpstruth.org/statuses/41054": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41054",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925</span></p>",
+      "published": "Fri, 21 Aug 2026 16:30:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.429932Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41054"
+    },
+    "truth:117134649080283243": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41100",
+      "source_text": "<p>Chinese national arrested for voter fraud after casting ballot in 2024 election: <a href=\"https://www.washingtonexaminer.com/news/4694130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/46</span><span class=\"invisible\">94130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880043Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41100"
+    },
+    "url:https://www.trumpstruth.org/statuses/41097": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41097",
+      "source_text": "<p>‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy: <a href=\"https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/economic-d-</span><span class=\"invisible\">day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879917Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
+    },
+    "url:https://www.trumpstruth.org/statuses/41096": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41096",
+      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879876Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41096"
+    },
+    "url:https://www.trumpstruth.org/statuses/41095": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41095",
+      "source_text": "<p>Americans Stop Paying the World’s Pharmacy Tab as Prices Fall Hardest Since 1963: <a href=\"https://amac.us/newsline/americans-stop-paying-the-worlds-pharmacy-tab-as-prices-fall-hardest-since-1963\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/americans-sto</span><span class=\"invisible\">p-paying-the-worlds-pharmacy-tab-as-prices-fall-hardest-since-1963</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879834Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41095"
+    },
+    "url:https://www.trumpstruth.org/statuses/41105": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41105",
+      "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
+      "published": "Fri, 21 Aug 2026 18:11:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:15:39.344619Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
     }
   }
 }
