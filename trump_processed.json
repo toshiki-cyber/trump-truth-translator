@@ -9611,8 +9611,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41069",
       "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:07:39 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T19:31:35.636330Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-21T19:47:19.208840Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41069",
       "source_fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "media_identity": "attachment:117134593867089115:4883bc802d1967ce.jpg,5ab2d3517af4747f.jpg,8842feecf03f48ec.jpg,e3f2f59b0d45ad87.jpg",
@@ -9620,7 +9620,7 @@
       "fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "truth_social_id": "117134593867089115",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T19:41:35.636343Z"
+      "next_retry_at": "2026-08-21T20:07:19.208856Z"
     },
     "truth:117134595100624861": {
       "post_status": "DISCOVERED",
@@ -9882,16 +9882,6 @@
       "truth_social_id": "117134443801937584",
       "next_retry_at": "2026-08-21T19:46:31.090890Z"
     },
-    "truth:117134646355692943": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41103",
-      "source_text": "<p>Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office: <a href=\"https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-mee</span><span class=\"invisible\">ts-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:00 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.880191Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41103"
-    },
     "truth:117134647345137602": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -9972,16 +9962,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:35:40.879790Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41094"
-    },
-    "truth:117134645458445535": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41072",
-      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946603Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
     },
     "truth:117134633473478901": {
       "post_status": "DISCOVERED",
@@ -10188,6 +10168,26 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:30:42.550178Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41089"
+    },
+    "url:https://www.trumpstruth.org/statuses/41072": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41072",
+      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946603Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
+    },
+    "url:https://www.trumpstruth.org/statuses/41103": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41103",
+      "source_text": "<p>Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office: <a href=\"https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-mee</span><span class=\"invisible\">ts-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880191Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41103"
     }
   }
 }
