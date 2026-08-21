@@ -9666,14 +9666,21 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41064"
     },
     "truth:117134587500534715": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41070",
       "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
       "published": "Fri, 21 Aug 2026 17:06:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:20:42.497439Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41070"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T19:16:45.453104Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41070",
+      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
+      "media_identity": "attachment:117134587500534715:86bdc5e51c2eade4.jpg,8de4e43afdea780f.jpg,8e36b7a97d4814f3.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/587/071/582/391/small/8de4e43afdea780f.jpg",
+      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
+      "truth_social_id": "117134587500534715",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-21T19:21:45.453120Z"
     },
     "truth:117134434446472238": {
       "post_status": "POSTED",
