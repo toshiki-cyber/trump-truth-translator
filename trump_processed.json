@@ -1178,7 +1178,10 @@
     "https://www.trumpstruth.org/statuses/41065",
     "fp:Trump touts largest one-year drop in violent crime in U.S. history: \nhttps://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-dro",
     "truth:117134631536748114",
-    "https://www.trumpstruth.org/statuses/41071"
+    "https://www.trumpstruth.org/statuses/41071",
+    "fp:Judge allows Trump administration to end deportation protections for thousands of Ethiopians: \nhttps://www.cnn.com/2026/08/18/politics/judge-allows-tr",
+    "truth:117134637894565376",
+    "https://www.trumpstruth.org/statuses/41080"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10625,20 +10628,22 @@
       "truth_social_id": "117134651908743307"
     },
     "truth:117134637894565376": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41080",
       "source_text": "<p>Judge allows Trump administration to end deportation protections for thousands of Ethiopians: <a href=\"https://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2026/08/18/politics/ju</span><span class=\"invisible\">dge-allows-trump-administration-to-end-tps-ethiopians</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:18:51 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:16.073306Z",
+      "updated_at": "2026-08-21T22:06:18.625657Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41080",
       "first_seen": "2026-08-21T19:56:01.074728Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Judge allows Trump administration to end deportation protections for thousands of Ethiopians: \nhttps://www.cnn.com/2026/08/18/politics/judge-allows-tr",
-      "next_retry_at": "2026-08-21T20:26:16.073326Z",
-      "truth_social_id": "117134637894565376"
+      "truth_social_id": "117134637894565376",
+      "source_fingerprint": "fp:Judge allows Trump administration to end deportation protections for thousands of Ethiopians: \nhttps://www.cnn.com/2026/08/18/politics/judge-allows-tr",
+      "media_identity": "attachment:117134637894565376:",
+      "translation": "判事がトランプ政権によるエチオピア人数千人の強制送還保護終了を認める：\nhttps://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians"
     },
     "truth:117134845877719345": {
       "post_status": "RETRY",
