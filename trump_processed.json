@@ -9467,15 +9467,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41051",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:26:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T17:15:46.390050Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-21T17:26:16.950724Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41051",
       "source_fingerprint": null,
       "media_identity": "attachment:117134432679930032:03eed214764c3ebb.jpg,362575b516823f9c.jpg,ce8e62021d4d491a.jpg,db1b825935105444.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/432/373/553/044/small/db1b825935105444.jpg",
       "truth_social_id": "117134432679930032",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T17:25:46.390063Z"
+      "next_retry_at": "2026-08-21T17:46:16.950743Z"
     },
     "truth:117134433446256360": {
       "post_status": "POSTED",
@@ -9677,36 +9677,6 @@
       "updated_at": "2026-08-21T17:15:41.152125Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41064"
     },
-    "url:https://www.trumpstruth.org/statuses/41049": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41049",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:27:07 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430185Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41049"
-    },
-    "url:https://www.trumpstruth.org/statuses/41060": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41060",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:27:54 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430102Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41060"
-    },
-    "url:https://www.trumpstruth.org/statuses/41059": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41059",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:28:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430074Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41059"
-    },
     "url:https://www.trumpstruth.org/statuses/41057": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -9727,16 +9697,6 @@
       "updated_at": "2026-08-21T17:20:42.497439Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41070"
     },
-    "url:https://www.trumpstruth.org/statuses/41063": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41063",
-      "source_text": "<p>Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx: <a href=\"https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-lea</span><span class=\"invisible\">ves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:15:41.152083Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
-    },
     "truth:117134631536748114": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -9746,6 +9706,176 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:20:42.497124Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41071"
+    },
+    "truth:117134434446472238": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41049",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 16:27:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.430185Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41049"
+    },
+    "truth:117134437554179764": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41060",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 16:27:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.430102Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41060"
+    },
+    "truth:117134439935650398": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41059",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 16:28:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.430074Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41059"
+    },
+    "truth:117134600943313462": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41063",
+      "source_text": "<p>Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx: <a href=\"https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-lea</span><span class=\"invisible\">ves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152083Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
+    },
+    "truth:117134634331609267": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41084",
+      "source_text": "<p>Scott Bessent: Trump Fixed Biden's 'Mess' — Economy Is Rising: <a href=\"https://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/2026/08/14/id/1266109/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsmax-tv/scott-b</span><span class=\"invisible\">essent-donald-trump-biden-administration/2026/08/14/id/1266109/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:17:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946895Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41084"
+    },
+    "truth:117134635572174687": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41083",
+      "source_text": "<p>Key House caucus leaders target Supreme Court, Senate filibuster: <a href=\"https://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotus-00973895\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">politico.com/live-updates/2026</span><span class=\"invisible\">/06/24/congress/dem-caucuses-target-scotus-00973895</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:18:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946869Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41083"
+    },
+    "truth:117134636703184466": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41081",
+      "source_text": "<p>Hamilton, Jefferson and Trump: Historians see a founding-era playbook still at work: <a href=\"https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:18:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946843Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41081"
+    },
+    "truth:117134637894565376": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41080",
+      "source_text": "<p>Judge allows Trump administration to end deportation protections for thousands of Ethiopians: <a href=\"https://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2026/08/18/politics/ju</span><span class=\"invisible\">dge-allows-trump-administration-to-end-tps-ethiopians</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:18:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946817Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41080"
+    },
+    "truth:117134638780061079": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41079",
+      "source_text": "<p>Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: <a href=\"https://www.dailysignal.com/2026/08/18/department-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/08/18/dep</span><span class=\"invisible\">artment-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946790Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41079"
+    },
+    "truth:117134639829580841": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41078",
+      "source_text": "<p>White House Touts Historic Crime Shift As DNC Votes To Abolish ICE: <a href=\"https://www.dailywire.com/news/white-house-touts-historic-crime-shift-as-dnc-votes-to-abolish-ice\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/white-house</span><span class=\"invisible\">-touts-historic-crime-shift-as-dnc-votes-to-abolish-ice</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946764Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41078"
+    },
+    "truth:117134640697916931": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41077",
+      "source_text": "<p>Intel Politics: NSA sat on election threat reporting over Trump ‘deep state’ label, memo shows: <a href=\"https://justthenews.com/government/security/nsa-analyst-agency-sat-2016-election-interference-intel-avoid-trump-era\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/sec</span><span class=\"invisible\">urity/nsa-analyst-agency-sat-2016-election-interference-intel-avoid-trump-era</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946738Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41077"
+    },
+    "truth:117134641491790365": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41076",
+      "source_text": "<p>FBI: 2025 had biggest violent-crime drop in 90 years: <a href=\"https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/18/fbi-viole</span><span class=\"invisible\">nt-crime-drop-2025</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946712Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
+    },
+    "truth:117134642322045474": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41075",
+      "source_text": "<p>Boy who passed out in deadly ocean waves celebrates miracle birthday inside Trump Oval Office: <a href=\"https://www.foxnews.com/media/boy-passed-out-deadly-ocean-waves-celebrates-miracle-birthday-trump-oval-office\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/media/boy-passed-o</span><span class=\"invisible\">ut-deadly-ocean-waves-celebrates-miracle-birthday-trump-oval-office</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946686Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41075"
+    },
+    "truth:117134643261686455": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41074",
+      "source_text": "<p>‘Woke One’ Wasn’t Just Crazy — It Was Destructive: <a href=\"https://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nationalreview.com/2026/08/wok</span><span class=\"invisible\">e-one-wasnt-just-crazy-it-was-destructive/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:20:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946660Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41074"
+    },
+    "truth:117134644597189989": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41073",
+      "source_text": "<p>Radical Democrats gearing up for woke 2.0: <a href=\"https://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/16/radical-democrats-gearing-woke-20/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:20:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946630Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41073"
+    },
+    "truth:117134645458445535": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41072",
+      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946603Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
+    },
+    "truth:117134660180705641": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41082",
+      "source_text": "<p>Drone companies, admin leaders meet for first White House ‘Drone Dominance’ meeting: <a href=\"https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">breakingdefense.com/2026/08/dr</span><span class=\"invisible\">one-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:24:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946571Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41082"
     }
   }
 }
