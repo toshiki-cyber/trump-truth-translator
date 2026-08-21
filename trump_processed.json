@@ -10351,14 +10351,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41102",
       "source_text": "<p>Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: <a href=\"https://www.foxbusiness.com/economy/treasury-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/economy/treasu</span><span class=\"invisible\">ry-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:15 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-21T23:15:55.582952Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-21T23:40:56.799137Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41102",
       "first_seen": "2026-08-21T19:56:21.332378Z",
       "no_media_confirmations": 2,
       "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: \nhttps://www.foxbusiness.com/economy/treasury-department",
-      "next_retry_at": "2026-08-21T23:35:55.582978Z",
+      "next_retry_at": "2026-08-22T00:20:56.799169Z",
       "truth_social_id": "117134647345137602"
     },
     "truth:117134650935728888": {
@@ -10820,20 +10820,173 @@
       "translation": "トランプ大統領が議会の任期制限に「賛成」と述べる：「国民に非常に人気がある」\nhttps://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public"
     },
     "truth:117134648247611471": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41101",
       "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:29 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-21T23:15:55.992393Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-21T23:41:24.065367Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41101",
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
-      "next_retry_at": "2026-08-21T23:35:55.992410Z",
       "first_seen": "2026-08-21T20:16:19.850956Z",
-      "no_media_confirmations": 2,
-      "truth_social_id": "117134648247611471"
+      "no_media_confirmations": 3,
+      "truth_social_id": "117134648247611471",
+      "source_fingerprint": "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
+      "media_identity": "attachment:117134648247611471:",
+      "translation": "メラニア・トランプがインディカーと提携し、里子向けの奨学金とスタイリッシュな新しいルックを実現 \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbizndw2c7",
+          "cid": "bafyreieclviybynkpbvbws5ijilowcqbkkomhedgigiux55gnwgdwamjaa"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbizndw2c7",
+          "cid": "bafyreieclviybynkpbvbws5ijilowcqbkkomhedgigiux55gnwgdwamjaa"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtmbizndw2c7",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "メラニア・トランプがインディカーと提携し、里子向けの奨学金とスタイリッシュな新しいルックを実現 \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
+          "createdAt": "2026-08-21T23:41:17.154397Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 143,
+                "byteEnd": 245
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
+              "title": "Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look",
+              "description": "The sanctioning body for US auto racing will team up with the Trump administration and Indiana and Purdue universities to fund the investments, joining 24 other schools around the country. ",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreialx72hcjycervqxtzb3scjq4iw5kqve2fffqf6vuolr3y6ijtroe"
+                },
+                "mimeType": "image/jpeg",
+                "size": 212015
+              }
+            }
+          }
+        },
+        "root_rkey": "3mtmbizndw2c7",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "メラニア・トランプがインディカーと提携し、里子向けの奨学金とスタイリッシュな新しいルックを実現 \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
+          "createdAt": "2026-08-21T23:41:17.154397Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 143,
+                "byteEnd": 245
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
+              "title": "Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look",
+              "description": "The sanctioning body for US auto racing will team up with the Trump administration and Indiana and Purdue universities to fund the investments, joining 24 other schools around the country. ",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreialx72hcjycervqxtzb3scjq4iw5kqve2fffqf6vuolr3y6ijtroe"
+                },
+                "mimeType": "image/jpeg",
+                "size": 212015
+              }
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbizndw2c7",
+            "rkey": "3mtmbizndw2c7"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbizndw2c7",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mtmbizndw2c7",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "メラニア・トランプがインディカーと提携し、里子向けの奨学金とスタイリッシュな新しいルックを実現 \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
+        "createdAt": "2026-08-21T23:41:17.154397Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 143,
+              "byteEnd": 245
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
+            "title": "Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look",
+            "description": "The sanctioning body for US auto racing will team up with the Trump administration and Indiana and Purdue universities to fund the investments, joining 24 other schools around the country. ",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreialx72hcjycervqxtzb3scjq4iw5kqve2fffqf6vuolr3y6ijtroe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 212015
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbizndw2c7",
+          "rkey": "3mtmbizndw2c7"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-21T23:46:24.065383Z"
     },
     "truth:117134652986157363": {
       "post_status": "RETRY",
@@ -11041,7 +11194,7 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
     },
     "truth:117135773042405247": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41112",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41112",
@@ -11070,7 +11223,7 @@
       "updated_at": "2026-08-21T21:15:42.265930Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
     },
-    "url:https://www.trumpstruth.org/statuses/41114": {
+    "truth:117135790192886203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41114",
@@ -11079,9 +11232,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T22:20:38.525397Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
-    },
-    "url:https://www.trumpstruth.org/statuses/41113": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
     }
   }
 }
