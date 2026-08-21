@@ -1187,7 +1187,10 @@
     "https://www.trumpstruth.org/statuses/41081",
     "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
     "truth:117134593867089115",
-    "https://www.trumpstruth.org/statuses/41069"
+    "https://www.trumpstruth.org/statuses/41069",
+    "fp:Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: \nhttps://www.dailysignal.com/2026/08/1",
+    "truth:117134638780061079",
+    "https://www.trumpstruth.org/statuses/41079"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10256,20 +10259,22 @@
       "translation": "トランプ、米国史上最大の1年間の凶悪犯罪減少を誇る：\nhttps://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/"
     },
     "truth:117134638780061079": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41079",
       "source_text": "<p>Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: <a href=\"https://www.dailysignal.com/2026/08/18/department-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/08/18/dep</span><span class=\"invisible\">artment-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:19:05 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:16.389002Z",
+      "updated_at": "2026-08-21T22:25:49.616373Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41079",
       "first_seen": "2026-08-21T19:56:02.155324Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: \nhttps://www.dailysignal.com/2026/08/1",
-      "next_retry_at": "2026-08-21T20:26:16.389022Z",
-      "truth_social_id": "117134638780061079"
+      "truth_social_id": "117134638780061079",
+      "source_fingerprint": "fp:Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: \nhttps://www.dailysignal.com/2026/08/1",
+      "media_identity": "attachment:117134638780061079:",
+      "translation": "教育省が人種に基づいて差別する学校の懲罰方針の要求を廃止する：\nhttps://www.dailysignal.com/2026/08/18/department-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/"
     },
     "truth:117134654816697655": {
       "post_status": "RETRY",
@@ -10818,11 +10823,11 @@
     "truth:117135773042405247": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41113",
-      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 22:12:18 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/41112",
+      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T22:20:38.525354Z",
+      "updated_at": "2026-08-21T22:25:45.750025Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
     },
     "truth:117135789576192806": {
