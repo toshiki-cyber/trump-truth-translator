@@ -1195,7 +1195,10 @@
     "truth:117134639829580841",
     "https://www.trumpstruth.org/statuses/41078",
     "truth:117134640697916931",
-    "https://www.trumpstruth.org/statuses/41077"
+    "https://www.trumpstruth.org/statuses/41077",
+    "fp:FBI: 2025 had biggest violent-crime drop in 90 years: \nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
+    "truth:117134641491790365",
+    "https://www.trumpstruth.org/statuses/41076"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10472,20 +10475,22 @@
       "translation": "トランプ大統領がロングアイランドの集会でイランを打倒した後、ホルムズ海峡を米国領土と宣言すると述べた：\nhttps://nypost.com/2026/08/14/us-news/trump-says-hell-declare-strait-of-hormuz-a-us-territory-after-defeating-iran/"
     },
     "truth:117134641491790365": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41076",
       "source_text": "<p>FBI: 2025 had biggest violent-crime drop in 90 years: <a href=\"https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/18/fbi-viole</span><span class=\"invisible\">nt-crime-drop-2025</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:19:46 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:17.198537Z",
+      "updated_at": "2026-08-21T22:40:58.292195Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41076",
       "first_seen": "2026-08-21T19:56:04.112621Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:FBI: 2025 had biggest violent-crime drop in 90 years: \nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
-      "next_retry_at": "2026-08-21T20:26:17.198555Z",
-      "truth_social_id": "117134641491790365"
+      "truth_social_id": "117134641491790365",
+      "source_fingerprint": "fp:FBI: 2025 had biggest violent-crime drop in 90 years: \nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
+      "media_identity": "attachment:117134641491790365:",
+      "translation": "FBI：2025年は90年で最大の暴力犯罪減少を記録：\nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025"
     },
     "truth:117134649080283243": {
       "post_status": "RETRY",
@@ -10816,7 +10821,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T22:35:39.221855Z",
+      "updated_at": "2026-08-21T22:40:53.482822Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
     },
     "truth:117135789576192806": {
@@ -10839,17 +10844,7 @@
       "updated_at": "2026-08-21T22:20:38.525397Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
     },
-    "url:https://www.trumpstruth.org/statuses/41109": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41109",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 21:13:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T21:15:42.265930Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
-    },
-    "url:https://www.trumpstruth.org/statuses/41111": {
+    "truth:117135555611644462": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41111",
@@ -10858,6 +10853,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T21:20:43.850828Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41111"
+    },
+    "truth:117135561220383573": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41109",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 21:13:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T21:15:42.265930Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
     }
   }
 }
