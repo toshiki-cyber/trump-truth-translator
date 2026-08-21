@@ -1097,7 +1097,10 @@
     "truth:117131409354478560",
     "https://www.trumpstruth.org/statuses/41041",
     "truth:117131390037719482",
-    "https://www.trumpstruth.org/statuses/41040"
+    "https://www.trumpstruth.org/statuses/41040",
+    "fp:Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, bee",
+    "truth:117133120342300539",
+    "https://www.trumpstruth.org/statuses/41042"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9006,20 +9009,22 @@
       "translation": ""
     },
     "truth:117133120342300539": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41042",
       "source_text": "<p>Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size in modern history.  As we work to rebuild this herd and help our ranchers, for the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff.  We have a commitment that this beef will be sold at 25 percent below current market prices. This deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 10:52:55 +0000",
       "retry_count": 4,
-      "updated_at": "2026-08-21T12:15:58.948927Z",
+      "updated_at": "2026-08-21T13:00:48.233125Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41042",
       "first_seen": "2026-08-21T10:55:42.442078Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, bee",
-      "next_retry_at": "2026-08-21T12:55:58.948959Z",
-      "truth_social_id": "117133120342300539"
+      "truth_social_id": "117133120342300539",
+      "source_fingerprint": "fp:Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, bee",
+      "media_identity": "attachment:117133120342300539:",
+      "translation": "本日、米国の勤労家族向けにひき肉の価格を大幅に引き下げる契約を締結した。周知の通り、バイデン大統領下では牛肉価格が最速のペースで急騰し、米国の牛の飼育頭数は現代史において最小規模まで減少した。この牛群の再構築と牧場主の支援に取り組む中、今後90日間、米国はひき肉製品の輸入を最大30万トンまで認め、枠外関税は課さない。この牛肉が現在の市場価格より25パーセント低い価格で販売されることが確約されている。この契約は米国人の価格を引き下げながら、偉大な米国牛産業の再成長の余地を与えるものである。本件へのご注目をいただき感謝する！ドナルド・J・トランプ大統領"
     }
   }
 }
