@@ -9350,15 +9350,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41051",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:26:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T17:05:46.713477Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-21T17:15:46.390050Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41051",
       "source_fingerprint": null,
       "media_identity": "attachment:117134432679930032:03eed214764c3ebb.jpg,362575b516823f9c.jpg,ce8e62021d4d491a.jpg,db1b825935105444.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/432/373/553/044/small/db1b825935105444.jpg",
       "truth_social_id": "117134432679930032",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T17:10:46.713490Z"
+      "next_retry_at": "2026-08-21T17:25:46.390063Z"
     },
     "truth:117134433446256360": {
       "post_status": "POST_VERIFY_PENDING",
@@ -9619,7 +9619,7 @@
       "updated_at": "2026-08-21T16:40:38.307924Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41062"
     },
-    "url:https://www.trumpstruth.org/statuses/41049": {
+    "truth:117134434446472238": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41049",
@@ -9629,7 +9629,7 @@
       "updated_at": "2026-08-21T16:35:41.430185Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41049"
     },
-    "url:https://www.trumpstruth.org/statuses/41059": {
+    "truth:117134439935650398": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41059",
@@ -9639,7 +9639,7 @@
       "updated_at": "2026-08-21T16:35:41.430074Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41059"
     },
-    "url:https://www.trumpstruth.org/statuses/41057": {
+    "truth:117134444832067768": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41057",
@@ -9648,6 +9648,76 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T16:35:41.430018Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41057"
+    },
+    "truth:117134593867089115": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41069",
+      "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:07:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152339Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41069"
+    },
+    "truth:117134595100624861": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41068",
+      "source_text": "<p>WAYNE ROOT: The Biggest Development of My 17th Interview with President Donald J. Trump is Obvious- Liberal Heads are Exploding and the Liberal Media is Freaking Out: <a href=\"https://www.thegatewaypundit.com/2026/08/wayne-root-biggest-development-my-17th-interview-president/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegatewaypundit.com/2026/08/w</span><span class=\"invisible\">ayne-root-biggest-development-my-17th-interview-president/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:07:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152301Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41068"
+    },
+    "truth:117134595889412013": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41067",
+      "source_text": "<p>Bessent says US to apply measures never seen on Iran: <a href=\"https://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-08-13\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/world/middle-east/</span><span class=\"invisible\">bessent-says-us-apply-measures-never-seen-iran-2026-08-13</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:08:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152260Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41067"
+    },
+    "truth:117134597641992037": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41066",
+      "source_text": "<p>Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: <a href=\"https://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increased-by-43-billion-this-year/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/economy/2026/08/</span><span class=\"invisible\">16/winning-americans-tax-refunds-increased-by-43-billion-this-year/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:08:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152204Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41066"
+    },
+    "truth:117134598983433487": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41065",
+      "source_text": "<p>Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’<br /><a href=\"https://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-touts-stranglehold-iran-praise-be-allah/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:08:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152165Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41065"
+    },
+    "truth:117134600045602327": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41064",
+      "source_text": "<p>Trump: US Has Total Control of Hormuz: <a href=\"https://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/world/globaltalk/t</span><span class=\"invisible\">rump-hormuz-iran/2026/08/12/id/1265856/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:09:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152125Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41064"
+    },
+    "truth:117134600943313462": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41063",
+      "source_text": "<p>Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx: <a href=\"https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-lea</span><span class=\"invisible\">ves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152083Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
     }
   }
 }
