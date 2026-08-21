@@ -1206,7 +1206,10 @@
     "https://www.trumpstruth.org/statuses/41075",
     "fp:‘Woke One’ Wasn’t Just Crazy — It Was Destructive: \nhttps://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/",
     "truth:117134643261686455",
-    "https://www.trumpstruth.org/statuses/41074"
+    "https://www.trumpstruth.org/statuses/41074",
+    "fp:Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office: \nhttps://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-",
+    "truth:117134646355692943",
+    "https://www.trumpstruth.org/statuses/41103"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10847,20 +10850,22 @@
       "truth_social_id": "117134657793309927"
     },
     "truth:117134646355692943": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41103",
       "source_text": "<p>Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office: <a href=\"https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-mee</span><span class=\"invisible\">ts-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:00 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:18.986970Z",
+      "updated_at": "2026-08-21T23:06:24.696403Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41103",
       "first_seen": "2026-08-21T19:56:20.939057Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office: \nhttps://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-",
-      "next_retry_at": "2026-08-21T20:26:18.986988Z",
-      "truth_social_id": "117134646355692943"
+      "truth_social_id": "117134646355692943",
+      "source_fingerprint": "fp:Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office: \nhttps://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-",
+      "media_identity": "attachment:117134646355692943:",
+      "translation": "トランプ大統領、ウイルス動画で話題となった海での救助活動で少年を救ったティーンエイジャーの救助員とオーバルオフィスで面会：\nhttps://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office"
     },
     "truth:117134650068984827": {
       "post_status": "RETRY",
@@ -10916,14 +10921,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41072",
       "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:20:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:18.748189Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-21T23:05:42.155145Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41072",
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: \nhttps://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-t",
-      "next_retry_at": "2026-08-21T20:26:18.748198Z",
+      "next_retry_at": "2026-08-21T23:25:42.155162Z",
       "first_seen": "2026-08-21T20:16:18.748147Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "truth_social_id": "117134645458445535"
     },
     "truth:117134598983433487": {
