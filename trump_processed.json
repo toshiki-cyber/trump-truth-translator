@@ -1109,7 +1109,13 @@
     "truth:117134359860253059",
     "https://www.trumpstruth.org/statuses/41047",
     "truth:117134429829202518",
-    "https://www.trumpstruth.org/statuses/41053"
+    "https://www.trumpstruth.org/statuses/41053",
+    "fp:I served as Trump’s NSA. SCOTUS need to stop courts putting the president's security at risk: \nhttps://www.foxnews.com/opinion/served-trumps-nsa-scotu",
+    "truth:117134308987004111",
+    "https://www.trumpstruth.org/statuses/41045",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
+    "truth:117134430528835875",
+    "https://www.trumpstruth.org/statuses/41052"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9070,121 +9076,22 @@
       "translation": "トランプが正しい：裁判官は現場監督になることはできない：\nhttps://www.wsj.com/opinion/trump-is-right-judges-cant-be-construction-foremen-5e264681"
     },
     "truth:117134308987004111": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41045",
       "source_text": "<p>I served as Trump’s NSA. SCOTUS need to stop courts putting the president's security at risk: <a href=\"https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/served-tru</span><span class=\"invisible\">mps-nsa-scotus-need-stop-courts-putting-presidents-security-risk</span></a></p>",
       "published": "Fri, 21 Aug 2026 15:55:12 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-21T16:50:56.384268Z",
+      "updated_at": "2026-08-21T17:01:02.764923Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41045",
       "first_seen": "2026-08-21T16:05:43.982377Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:I served as Trump’s NSA. SCOTUS need to stop courts putting the president's security at risk: \nhttps://www.foxnews.com/opinion/served-trumps-nsa-scotu",
       "truth_social_id": "117134308987004111",
       "source_fingerprint": "fp:I served as Trump’s NSA. SCOTUS need to stop courts putting the president's security at risk: \nhttps://www.foxnews.com/opinion/served-trumps-nsa-scotu",
       "media_identity": "attachment:117134308987004111:",
       "translation": "トランプ大統領の国家安全保障補佐官を務めた者として言う。最高裁は、大統領の安全保障をリスクにさらす裁判所の行為を止める必要がある。https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm4oqqsxkdx",
-          "cid": "bafyreiferf6etlkpbqjehg2vsuemsu2soyndwfhk5nhhlq3d3mzcouyzxe"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm4oqqsxkdx",
-          "cid": "bafyreiferf6etlkpbqjehg2vsuemsu2soyndwfhk5nhhlq3d3mzcouyzxe"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtm4oqqsxkdx",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプ大統領の国家安全保障補佐官を務めた者として言う。最高裁は、大統領の安全保障をリスクにさらす裁判所の行為を止める必要がある。https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk",
-          "createdAt": "2026-08-21T16:50:49.734891Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 195,
-                "byteEnd": 301
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk",
-              "title": "I served as Trump’s NSA. SCOTUS need to stop courts putting the president's security at risk",
-              "description": "Trump's former national security advisor reveals why the White House ballroom project is an urgent matter of national security and presidential safety.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreih3jxt4l66x3gevppfbtq6mnqhr5lrxaub7e67e3kaoe3l3jhjlby"
-                },
-                "mimeType": "image/jpeg",
-                "size": 441044
-              }
-            }
-          }
-        },
-        "root_rkey": "3mtm4oqqsxkdx",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプ大統領の国家安全保障補佐官を務めた者として言う。最高裁は、大統領の安全保障をリスクにさらす裁判所の行為を止める必要がある。https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk",
-          "createdAt": "2026-08-21T16:50:49.734891Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 195,
-                "byteEnd": 301
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk",
-              "title": "I served as Trump’s NSA. SCOTUS need to stop courts putting the president's security at risk",
-              "description": "Trump's former national security advisor reveals why the White House ballroom project is an urgent matter of national security and presidential safety.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreih3jxt4l66x3gevppfbtq6mnqhr5lrxaub7e67e3kaoe3l3jhjlby"
-                },
-                "mimeType": "image/jpeg",
-                "size": 441044
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm4oqqsxkdx",
-            "rkey": "3mtm4oqqsxkdx"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm4oqqsxkdx",
       "expected_embed": "none",
       "expected_images": 0,
@@ -9234,9 +9141,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm4oqqsxkdx",
           "rkey": "3mtm4oqqsxkdx"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-21T16:55:56.384281Z"
+      ]
     },
     "truth:117134321216949559": {
       "post_status": "POSTED",
@@ -9340,7 +9245,7 @@
       ]
     },
     "truth:117134430528835875": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41052",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518</span></p>",
@@ -9350,177 +9255,10 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41052",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
       "media_identity": "attachment:117134430528835875:8af974cc84808c78.png,a7d10996790ee4ba.png,ac742de47c13a045.png",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
       "truth_social_id": "117134430528835875",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fzg57ss4",
-          "cid": "bafyreicg4hjbxaldmrbmx4fllc55pgcxpui7navyshxz2eemncnnntqwru"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fzg57ss4",
-          "cid": "bafyreicg4hjbxaldmrbmx4fllc55pgcxpui7navyshxz2eemncnnntqwru"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtm6fzg57ss4",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
-          "createdAt": "2026-08-21T16:55:49.395917Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 73
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreiekz6ohditzqqfbquourx3b7dyg6d3ze7jjwjns2zaajdvkhnugsq"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 113560
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 886,
-                  "height": 538
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibiknxs2bgz5vl6ceto34khb55be6kdfudampcz662y4gownewp4i"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 157250
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 666,
-                  "height": 859
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie2bsdz5hbedanxa7dg24xt3vqgvybs6vczehcfozz2kf2znxpmui"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 172932
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 658,
-                  "height": 860
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mtm6fzg57ss4",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
-          "createdAt": "2026-08-21T16:55:49.395917Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 73
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreiekz6ohditzqqfbquourx3b7dyg6d3ze7jjwjns2zaajdvkhnugsq"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 113560
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 886,
-                  "height": 538
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibiknxs2bgz5vl6ceto34khb55be6kdfudampcz662y4gownewp4i"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 157250
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 666,
-                  "height": 859
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie2bsdz5hbedanxa7dg24xt3vqgvybs6vczehcfozz2kf2znxpmui"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 172932
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 658,
-                  "height": 860
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fzg57ss4",
-            "rkey": "3mtm6fzg57ss4"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fzg57ss4",
       "expected_embed": "images",
       "expected_images": 3,
@@ -9604,9 +9342,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fzg57ss4",
           "rkey": "3mtm6fzg57ss4"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-21T17:00:56.692360Z"
+      ]
     },
     "truth:117134432679930032": {
       "post_status": "DISCOVERED",
@@ -9627,16 +9363,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T16:35:41.430224Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41050"
-    },
-    "truth:117134434446472238": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41049",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:27:07 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430185Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41049"
     },
     "truth:117134435070312739": {
       "post_status": "DISCOVERED",
@@ -9737,6 +9463,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T16:40:38.307924Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41062"
+    },
+    "url:https://www.trumpstruth.org/statuses/41049": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41049",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 16:27:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.430185Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41049"
     }
   }
 }
