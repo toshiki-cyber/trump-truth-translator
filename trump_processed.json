@@ -9606,14 +9606,21 @@
       "translation": ""
     },
     "truth:117134593867089115": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41069",
       "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:07:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:15:41.152339Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41069"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T19:21:32.705882Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41069",
+      "source_fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
+      "media_identity": "attachment:117134593867089115:4883bc802d1967ce.jpg,5ab2d3517af4747f.jpg,8842feecf03f48ec.jpg,e3f2f59b0d45ad87.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/593/479/741/118/small/8842feecf03f48ec.jpg",
+      "fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
+      "truth_social_id": "117134593867089115",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-21T19:26:32.705894Z"
     },
     "truth:117134595100624861": {
       "post_status": "DISCOVERED",
@@ -9915,16 +9922,6 @@
       "updated_at": "2026-08-21T17:35:40.880103Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41101"
     },
-    "truth:117134650068984827": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41099",
-      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879999Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
-    },
     "truth:117134650935728888": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10132,16 +10129,6 @@
       "updated_at": "2026-08-21T17:35:40.879917Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
     },
-    "url:https://www.trumpstruth.org/statuses/41105": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41105",
-      "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
-      "published": "Fri, 21 Aug 2026 18:11:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:15:39.344619Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
-    },
     "truth:117134637894565376": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10181,6 +10168,26 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:30:43.127310Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
+    },
+    "url:https://www.trumpstruth.org/statuses/41099": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41099",
+      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879999Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
+    },
+    "truth:117134845877719345": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41105",
+      "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
+      "published": "Fri, 21 Aug 2026 18:11:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:15:39.344619Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
     }
   }
 }
