@@ -1148,7 +1148,10 @@
     "https://www.trumpstruth.org/statuses/41104",
     "fp:Bessent says US to apply measures never seen on Iran: \nhttps://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-0",
     "truth:117134595889412013",
-    "https://www.trumpstruth.org/statuses/41067"
+    "https://www.trumpstruth.org/statuses/41067",
+    "fp:Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: \nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increa",
+    "truth:117134597641992037",
+    "https://www.trumpstruth.org/statuses/41066"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9667,20 +9670,22 @@
       "translation": "ベッセント氏、米国がイランに対して前例のない措置を適用すると発言：\nhttps://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-08-13"
     },
     "truth:117134597641992037": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41066",
       "source_text": "<p>Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: <a href=\"https://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increased-by-43-billion-this-year/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/economy/2026/08/</span><span class=\"invisible\">16/winning-americans-tax-refunds-increased-by-43-billion-this-year/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:08:37 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:15:43.142704Z",
+      "updated_at": "2026-08-21T20:40:45.651006Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41066",
       "first_seen": "2026-08-21T19:55:41.564697Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: \nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increa",
-      "next_retry_at": "2026-08-21T20:25:43.142722Z",
-      "truth_social_id": "117134597641992037"
+      "truth_social_id": "117134597641992037",
+      "source_fingerprint": "fp:Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: \nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increa",
+      "media_identity": "attachment:117134597641992037:",
+      "translation": "勝利：今年、米国民の税還付金が430億ドル増加した：\nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increased-by-43-billion-this-year/"
     },
     "truth:117134600045602327": {
       "post_status": "RETRY",
