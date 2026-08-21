@@ -1133,7 +1133,9 @@
     "https://www.trumpstruth.org/statuses/41059",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
     "truth:117134444832067768",
-    "https://www.trumpstruth.org/statuses/41057"
+    "https://www.trumpstruth.org/statuses/41057",
+    "truth:117134446457656698",
+    "https://www.trumpstruth.org/statuses/41056"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9554,14 +9556,19 @@
       ]
     },
     "truth:117134446457656698": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41056",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:30:10 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.429990Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41056"
+      "updated_at": "2026-08-21T18:31:11.828333Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41056",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117134446457656698:a82cbcbf68167637.png",
+      "failure_reason": null,
+      "truth_social_id": "117134446457656698",
+      "translation": ""
     },
     "truth:117134447318347925": {
       "post_status": "DISCOVERED",
@@ -9906,16 +9913,6 @@
       "updated_at": "2026-08-21T17:35:40.880103Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41101"
     },
-    "truth:117134649080283243": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41100",
-      "source_text": "<p>Chinese national arrested for voter fraud after casting ballot in 2024 election: <a href=\"https://www.washingtonexaminer.com/news/4694130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/46</span><span class=\"invisible\">94130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.880043Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41100"
-    },
     "truth:117134650068984827": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10126,6 +10123,26 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:25:50.946712Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
+    },
+    "url:https://www.trumpstruth.org/statuses/41100": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41100",
+      "source_text": "<p>Chinese national arrested for voter fraud after casting ballot in 2024 election: <a href=\"https://www.washingtonexaminer.com/news/4694130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/46</span><span class=\"invisible\">94130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880043Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41100"
+    },
+    "truth:117134908401668938": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     }
   }
 }
