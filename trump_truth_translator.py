@@ -6,7 +6,6 @@ trumpstruth.org のRSSフィードを監視し、新規投稿を翻訳してBlue
 
 import feedparser
 import requests
-import httpx
 import json
 import io
 import os
@@ -1262,10 +1261,10 @@ def translate_with_claude(text, has_media=False):
     for i, url in enumerate(urls):
         text_for_translation = text_for_translation.replace(url, f'[URL_{i}]', 1)
 
-    # プロキシなしのhttpxクライアントを明示（環境変数プロキシの影響を排除）
+    # SDK同梱の互換クライアントを使い、httpx/httpx2の世代差を吸収する
     client = anthropic.Anthropic(
         api_key=ANTHROPIC_API_KEY,
-        http_client=httpx.Client(proxy=None)
+        http_client=anthropic.DefaultHttpxClient(proxy=None)
     )
     media_context = ""
     if has_media:

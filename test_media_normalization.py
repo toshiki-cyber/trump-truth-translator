@@ -230,14 +230,23 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertNotIn("schedule:", workflow)
         self.assertIn("workflow_dispatch:", workflow)
 
-    def test_direct_httpx_import_is_declared_in_requirements(self):
-        with open("requirements.txt") as file:
-            packages = {
-                line.split("==", 1)[0].split(">=", 1)[0].strip().lower()
-                for line in file
-                if line.strip() and not line.lstrip().startswith("#")
-            }
-        self.assertIn("httpx", packages)
+    @patch("trump_truth_translator.anthropic.DefaultHttpxClient")
+    @patch("trump_truth_translator.anthropic.Anthropic")
+    def test_translation_uses_sdk_compatible_http_client(
+        self, mock_anthropic, mock_default_http_client
+    ):
+        sdk_http_client = mock_default_http_client.return_value
+        mock_anthropic.return_value.messages.create.return_value = MagicMock(
+            content=[MagicMock(text="テスト訳")]
+        )
+
+        translator.translate_with_claude("Test")
+
+        mock_default_http_client.assert_called_once_with(proxy=None)
+        mock_anthropic.assert_called_once_with(
+            api_key=translator.ANTHROPIC_API_KEY,
+            http_client=sdk_http_client,
+        )
 
     def test_production_legacy_fixture_keeps_existing_mirror_ids(self):
         with open(translator.PROCESSED_FILE) as file:

@@ -2,6 +2,5 @@ feedparser
 requests
 beautifulsoup4
 anthropic
-httpx
 certifi
 Pillow
