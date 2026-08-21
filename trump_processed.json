@@ -9678,8 +9678,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41070",
       "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
       "published": "Fri, 21 Aug 2026 17:06:02 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T19:16:45.453104Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-21T19:25:53.442665Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41070",
       "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "media_identity": "attachment:117134587500534715:86bdc5e51c2eade4.jpg,8de4e43afdea780f.jpg,8e36b7a97d4814f3.jpg",
@@ -9687,7 +9687,7 @@
       "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "truth_social_id": "117134587500534715",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T19:21:45.453120Z"
+      "next_retry_at": "2026-08-21T19:35:53.442683Z"
     },
     "truth:117134434446472238": {
       "post_status": "POSTED",
@@ -10139,26 +10139,6 @@
       "updated_at": "2026-08-21T17:25:50.946817Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41080"
     },
-    "url:https://www.trumpstruth.org/statuses/41090": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41090",
-      "source_text": "<p>Illegal immigrant released under Biden accused of stabbing Virginia mother, dousing her in gasoline: <a href=\"https://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/biden-adm</span><span class=\"invisible\">in-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:23:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:30:42.550225Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41090"
-    },
-    "url:https://www.trumpstruth.org/statuses/41089": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41089",
-      "source_text": "<p>Exclusive: EPA to Enact Emergency Fuel Waiver to Increase Domestic Gas Supply, Lower Prices: <a href=\"https://www.breitbart.com/environment/2026/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/environment/2026</span><span class=\"invisible\">/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:23:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:30:42.550178Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41089"
-    },
     "truth:117134908401668938": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10169,16 +10149,6 @@
       "updated_at": "2026-08-21T18:30:43.127310Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     },
-    "url:https://www.trumpstruth.org/statuses/41099": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41099",
-      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879999Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
-    },
     "truth:117134845877719345": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10188,6 +10158,36 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:15:39.344619Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
+    },
+    "truth:117134650068984827": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41099",
+      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879999Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
+    },
+    "truth:117134656767200357": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41090",
+      "source_text": "<p>Illegal immigrant released under Biden accused of stabbing Virginia mother, dousing her in gasoline: <a href=\"https://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/biden-adm</span><span class=\"invisible\">in-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:23:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:30:42.550225Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41090"
+    },
+    "truth:117134657793309927": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41089",
+      "source_text": "<p>Exclusive: EPA to Enact Emergency Fuel Waiver to Increase Domestic Gas Supply, Lower Prices: <a href=\"https://www.breitbart.com/environment/2026/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/environment/2026</span><span class=\"invisible\">/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:23:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:30:42.550178Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41089"
     }
   }
 }
