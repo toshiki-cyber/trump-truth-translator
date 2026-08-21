@@ -1212,7 +1212,10 @@
     "https://www.trumpstruth.org/statuses/41103",
     "fp:Radical Democrats gearing up for woke 2.0: \nhttps://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/",
     "truth:117134644597189989",
-    "https://www.trumpstruth.org/statuses/41073"
+    "https://www.trumpstruth.org/statuses/41073",
+    "fp:Chinese national arrested for voter fraud after casting ballot in 2024 election: \nhttps://www.washingtonexaminer.com/news/4694130/chinese-national-arr",
+    "truth:117134649080283243",
+    "https://www.trumpstruth.org/statuses/41100"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10339,14 +10342,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41102",
       "source_text": "<p>Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: <a href=\"https://www.foxbusiness.com/economy/treasury-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/economy/treasu</span><span class=\"invisible\">ry-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:15 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:19.403874Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-21T23:15:55.582952Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41102",
       "first_seen": "2026-08-21T19:56:21.332378Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: \nhttps://www.foxbusiness.com/economy/treasury-department",
-      "next_retry_at": "2026-08-21T20:26:19.403893Z",
+      "next_retry_at": "2026-08-21T23:35:55.582978Z",
       "truth_social_id": "117134647345137602"
     },
     "truth:117134650935728888": {
@@ -10637,20 +10640,22 @@
       "translation": "FBI：2025年は90年で最大の暴力犯罪減少を記録：\nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025"
     },
     "truth:117134649080283243": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41100",
       "source_text": "<p>Chinese national arrested for voter fraud after casting ballot in 2024 election: <a href=\"https://www.washingtonexaminer.com/news/4694130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/46</span><span class=\"invisible\">94130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:42 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:20.076748Z",
+      "updated_at": "2026-08-21T23:16:29.585789Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41100",
       "first_seen": "2026-08-21T19:56:36.931154Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Chinese national arrested for voter fraud after casting ballot in 2024 election: \nhttps://www.washingtonexaminer.com/news/4694130/chinese-national-arr",
-      "next_retry_at": "2026-08-21T20:26:20.076766Z",
-      "truth_social_id": "117134649080283243"
+      "truth_social_id": "117134649080283243",
+      "source_fingerprint": "fp:Chinese national arrested for voter fraud after casting ballot in 2024 election: \nhttps://www.washingtonexaminer.com/news/4694130/chinese-national-arr",
+      "media_identity": "attachment:117134649080283243:",
+      "translation": "中国籍の人物が2024年選挙で投票を行った後、投票詐欺で逮捕される：\nhttps://www.washingtonexaminer.com/news/4694130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/"
     },
     "truth:117134448075588837": {
       "post_status": "POSTED",
@@ -10807,14 +10812,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41101",
       "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:19.850998Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-21T23:15:55.992393Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41101",
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
-      "next_retry_at": "2026-08-21T20:26:19.851007Z",
+      "next_retry_at": "2026-08-21T23:35:55.992410Z",
       "first_seen": "2026-08-21T20:16:19.850956Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "truth_social_id": "117134648247611471"
     },
     "truth:117134652986157363": {
@@ -10980,26 +10985,6 @@
       "updated_at": "2026-08-21T21:20:43.850828Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41111"
     },
-    "truth:117135561220383573": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41109",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 21:13:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T21:15:42.265930Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
-    },
-    "truth:117135773042405247": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41112",
-      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T22:45:39.526810Z"
-    },
     "truth:117135011934383556": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -11009,6 +10994,29 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:55:43.233355Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
+    },
+    "url:https://www.trumpstruth.org/statuses/41109": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41109",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 21:13:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T21:15:42.265930Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
+    },
+    "url:https://www.trumpstruth.org/statuses/41112": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41112",
+      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T22:45:39.526810Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41112"
+    },
+    "truth:117135773042405247": {
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
     }
   }
 }
