@@ -9602,25 +9602,135 @@
       "updated_at": "2026-08-21T17:20:42.497439Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41070"
     },
-    "truth:117134631536748114": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41071",
-      "source_text": "<p>Trump touts largest one-year drop in violent crime in U.S. history: <a href=\"https://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:17:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:20:42.497124Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41071"
-    },
     "truth:117134434446472238": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41049",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:27:07 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430185Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41049"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T17:37:23.350754Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41049",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117134434446472238:14e7305362f4f2bc.png",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "truth_social_id": "117134434446472238",
+      "translation": "",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6hsgg6cv4",
+          "cid": "bafyreif5lyehhzrt7pg6sii5sj3eo3pwysnny7yrcmctykttmtd5v4xj2i"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6hsgg6cv4",
+          "cid": "bafyreif5lyehhzrt7pg6sii5sj3eo3pwysnny7yrcmctykttmtd5v4xj2i"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtm6hsgg6cv4",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "",
+          "createdAt": "2026-08-21T17:37:16.525107Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibjjna52fds4v72ftyla67rqovawwe3ey4uwlwoee6azadeg6rmt4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 133869
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 598,
+                  "height": 1024
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3mtm6hsgg6cv4",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "",
+          "createdAt": "2026-08-21T17:37:16.525107Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibjjna52fds4v72ftyla67rqovawwe3ey4uwlwoee6azadeg6rmt4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 133869
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 598,
+                  "height": 1024
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6hsgg6cv4",
+            "rkey": "3mtm6hsgg6cv4"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6hsgg6cv4",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mtm6hsgg6cv4",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-08-21T17:37:16.525107Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibjjna52fds4v72ftyla67rqovawwe3ey4uwlwoee6azadeg6rmt4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 133869
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 598,
+                "height": 1024
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6hsgg6cv4",
+          "rkey": "3mtm6hsgg6cv4"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-21T17:42:23.350768Z"
     },
     "truth:117134437554179764": {
       "post_status": "DISCOVERED",
@@ -9631,26 +9741,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T16:35:41.430102Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41060"
-    },
-    "truth:117134439935650398": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41059",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:28:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430074Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41059"
-    },
-    "truth:117134600943313462": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41063",
-      "source_text": "<p>Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx: <a href=\"https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-lea</span><span class=\"invisible\">ves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:15:41.152083Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
     },
     "truth:117134634331609267": {
       "post_status": "DISCOVERED",
@@ -9782,16 +9872,6 @@
       "updated_at": "2026-08-21T17:25:50.946571Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41082"
     },
-    "url:https://www.trumpstruth.org/statuses/41058": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41058",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:29:29 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430046Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41058"
-    },
     "truth:117134444832067768": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -9881,6 +9961,146 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:30:42.550054Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41091"
+    },
+    "url:https://www.trumpstruth.org/statuses/41059": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41059",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 16:28:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.430074Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41059"
+    },
+    "truth:117134443801937584": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41058",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 16:29:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.430046Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41058"
+    },
+    "url:https://www.trumpstruth.org/statuses/41063": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41063",
+      "source_text": "<p>Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx: <a href=\"https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-lea</span><span class=\"invisible\">ves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152083Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
+    },
+    "url:https://www.trumpstruth.org/statuses/41071": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41071",
+      "source_text": "<p>Trump touts largest one-year drop in violent crime in U.S. history: <a href=\"https://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/14/trump-touts-largest-one-year-drop-violent-crime-us-history/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:17:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:20:42.497124Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41071"
+    },
+    "truth:117134646355692943": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41103",
+      "source_text": "<p>Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office: <a href=\"https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-mee</span><span class=\"invisible\">ts-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880191Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41103"
+    },
+    "truth:117134647345137602": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41102",
+      "source_text": "<p>Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: <a href=\"https://www.foxbusiness.com/economy/treasury-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/economy/treasu</span><span class=\"invisible\">ry-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880148Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41102"
+    },
+    "truth:117134648247611471": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41101",
+      "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41101"
+    },
+    "truth:117134649080283243": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41100",
+      "source_text": "<p>Chinese national arrested for voter fraud after casting ballot in 2024 election: <a href=\"https://www.washingtonexaminer.com/news/4694130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/46</span><span class=\"invisible\">94130/chinese-national-arrested-voter-fraud-casting-ballot-in-2024-election/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880043Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41100"
+    },
+    "truth:117134650068984827": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41099",
+      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879999Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
+    },
+    "truth:117134650935728888": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41098",
+      "source_text": "<p>This Is the Best 'Hard Goods' Boom in Decades: <a href=\"https://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">realclearpolitics.com/articles</span><span class=\"invisible\">/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879958Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41098"
+    },
+    "truth:117134651908743307": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41097",
+      "source_text": "<p>‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy: <a href=\"https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/economic-d-</span><span class=\"invisible\">day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879917Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
+    },
+    "truth:117134652986157363": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41096",
+      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879876Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41096"
+    },
+    "truth:117134653874219621": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41095",
+      "source_text": "<p>Americans Stop Paying the World’s Pharmacy Tab as Prices Fall Hardest Since 1963: <a href=\"https://amac.us/newsline/americans-stop-paying-the-worlds-pharmacy-tab-as-prices-fall-hardest-since-1963\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/americans-sto</span><span class=\"invisible\">p-paying-the-worlds-pharmacy-tab-as-prices-fall-hardest-since-1963</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879834Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41095"
+    },
+    "truth:117134654816697655": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41094",
+      "source_text": "<p>Trump’s Golden Dome Moves from Vision to Reality: <a href=\"https://amac.us/newsline/trump-s-golden-dome-moves-from-vision-to-reality\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/trump-s-golde</span><span class=\"invisible\">n-dome-moves-from-vision-to-reality</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:23:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879790Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41094"
     }
   }
 }
