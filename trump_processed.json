@@ -9625,8 +9625,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41069",
       "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:07:39 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-21T20:11:20.100638Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-21T20:55:46.022717Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41069",
       "source_fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "media_identity": "attachment:117134593867089115:4883bc802d1967ce.jpg,5ab2d3517af4747f.jpg,8842feecf03f48ec.jpg,e3f2f59b0d45ad87.jpg",
@@ -9634,7 +9634,7 @@
       "fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "truth_social_id": "117134593867089115",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T20:51:20.100651Z"
+      "next_retry_at": "2026-08-21T22:15:46.022730Z"
     },
     "truth:117134595100624861": {
       "post_status": "POSTED",
