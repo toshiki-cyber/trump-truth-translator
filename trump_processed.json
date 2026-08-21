@@ -1184,7 +1184,10 @@
     "https://www.trumpstruth.org/statuses/41080",
     "fp:Hamilton, Jefferson and Trump: Historians see a founding-era playbook still at work: \nhttps://www.washingtontimes.com/news/2026/jul/1/hamilton-jeffers",
     "truth:117134636703184466",
-    "https://www.trumpstruth.org/statuses/41081"
+    "https://www.trumpstruth.org/statuses/41081",
+    "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
+    "truth:117134593867089115",
+    "https://www.trumpstruth.org/statuses/41069"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9650,21 +9653,20 @@
       "translation": ""
     },
     "truth:117134593867089115": {
-      "post_status": "RETRY",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41069",
       "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:07:39 +0000",
       "retry_count": 5,
-      "updated_at": "2026-08-21T20:55:46.022717Z",
+      "updated_at": "2026-08-21T22:20:43.728256Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41069",
       "source_fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "media_identity": "attachment:117134593867089115:4883bc802d1967ce.jpg,5ab2d3517af4747f.jpg,8842feecf03f48ec.jpg,e3f2f59b0d45ad87.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/593/479/741/118/small/8842feecf03f48ec.jpg",
+      "failure_reason": null,
       "fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "truth_social_id": "117134593867089115",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T22:15:46.022730Z"
+      "translation": "良い詐欺商法もいつかは終わる：\nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html"
     },
     "truth:117134595100624861": {
       "post_status": "POSTED",
@@ -10816,12 +10818,32 @@
     "truth:117135773042405247": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41112",
-      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/41113",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 22:12:18 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T22:15:41.740709Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41112"
+      "updated_at": "2026-08-21T22:20:38.525354Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
+    },
+    "truth:117135789576192806": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41115",
+      "source_text": "<p></p>",
+      "published": "Fri, 21 Aug 2026 22:11:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T22:20:38.525439Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41115"
+    },
+    "truth:117135790192886203": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41114",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806</span></p>",
+      "published": "Fri, 21 Aug 2026 22:11:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T22:20:38.525397Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
     }
   }
 }
