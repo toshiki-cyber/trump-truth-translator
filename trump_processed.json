@@ -9611,8 +9611,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41069",
       "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:07:39 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T19:21:32.705882Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-21T19:31:35.636330Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41069",
       "source_fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "media_identity": "attachment:117134593867089115:4883bc802d1967ce.jpg,5ab2d3517af4747f.jpg,8842feecf03f48ec.jpg,e3f2f59b0d45ad87.jpg",
@@ -9620,7 +9620,7 @@
       "fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
       "truth_social_id": "117134593867089115",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T19:26:32.705894Z"
+      "next_retry_at": "2026-08-21T19:41:35.636343Z"
     },
     "truth:117134595100624861": {
       "post_status": "DISCOVERED",
@@ -9912,16 +9912,6 @@
       "updated_at": "2026-08-21T17:35:40.880148Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41102"
     },
-    "truth:117134648247611471": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41101",
-      "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:29 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.880103Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41101"
-    },
     "truth:117134650935728888": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10159,16 +10149,6 @@
       "updated_at": "2026-08-21T18:15:39.344619Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
     },
-    "truth:117134650068984827": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41099",
-      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879999Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
-    },
     "truth:117134656767200357": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10188,6 +10168,26 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:30:42.550178Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41089"
+    },
+    "url:https://www.trumpstruth.org/statuses/41101": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41101",
+      "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41101"
+    },
+    "url:https://www.trumpstruth.org/statuses/41099": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41099",
+      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879999Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
     }
   }
 }
