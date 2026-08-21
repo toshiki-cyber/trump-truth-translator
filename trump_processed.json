@@ -1181,7 +1181,10 @@
     "https://www.trumpstruth.org/statuses/41071",
     "fp:Judge allows Trump administration to end deportation protections for thousands of Ethiopians: \nhttps://www.cnn.com/2026/08/18/politics/judge-allows-tr",
     "truth:117134637894565376",
-    "https://www.trumpstruth.org/statuses/41080"
+    "https://www.trumpstruth.org/statuses/41080",
+    "fp:Hamilton, Jefferson and Trump: Historians see a founding-era playbook still at work: \nhttps://www.washingtontimes.com/news/2026/jul/1/hamilton-jeffers",
+    "truth:117134636703184466",
+    "https://www.trumpstruth.org/statuses/41081"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9741,8 +9744,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41070",
       "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
       "published": "Fri, 21 Aug 2026 17:06:02 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-21T20:50:41.586864Z",
+      "retry_count": 6,
+      "updated_at": "2026-08-21T22:15:50.182934Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41070",
       "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "media_identity": "attachment:117134587500534715:86bdc5e51c2eade4.jpg,8de4e43afdea780f.jpg,8e36b7a97d4814f3.jpg",
@@ -9750,7 +9753,7 @@
       "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "truth_social_id": "117134587500534715",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T22:10:41.586878Z"
+      "next_retry_at": "2026-08-22T00:55:50.182948Z"
     },
     "truth:117134434446472238": {
       "post_status": "POSTED",
@@ -9899,7 +9902,7 @@
       "translation": "主要な下院院内総務指導者が最高裁判所と上院フィリバスター制度を標的にしている：\nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotus-00973895"
     },
     "truth:117134636703184466": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41081",
       "source_text": "<p>Hamilton, Jefferson and Trump: Historians see a founding-era playbook still at work: <a href=\"https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/</span></a></p>",
@@ -9909,95 +9912,12 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41081",
       "first_seen": "2026-08-21T19:56:00.236801Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:Hamilton, Jefferson and Trump: Historians see a founding-era playbook still at work: \nhttps://www.washingtontimes.com/news/2026/jul/1/hamilton-jeffers",
       "truth_social_id": "117134636703184466",
       "source_fingerprint": "fp:Hamilton, Jefferson and Trump: Historians see a founding-era playbook still at work: \nhttps://www.washingtontimes.com/news/2026/jul/1/hamilton-jeffers",
       "media_identity": "attachment:117134636703184466:",
       "translation": "ハミルトン、ジェファーソン、トランプ：歴史家たちは建国期のプレイブックが今も機能していると指摘している：\nhttps://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbdrnkjknn",
-          "cid": "bafyreicu46uvsm3ru4k2ejgjwwkqtvowdrbbhlx7vo3a5gaoctekg4g6am"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbdrnkjknn",
-          "cid": "bafyreicu46uvsm3ru4k2ejgjwwkqtvowdrbbhlx7vo3a5gaoctekg4g6am"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtmbdrnkjknn",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ハミルトン、ジェファーソン、トランプ：歴史家たちは建国期のプレイブックが今も機能していると指摘している：\nhttps://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/",
-          "createdAt": "2026-08-21T22:01:15.721789Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 157,
-                "byteEnd": 273
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/",
-              "title": "https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/",
-              "description": ""
-            }
-          }
-        },
-        "root_rkey": "3mtmbdrnkjknn",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ハミルトン、ジェファーソン、トランプ：歴史家たちは建国期のプレイブックが今も機能していると指摘している：\nhttps://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/",
-          "createdAt": "2026-08-21T22:01:15.721789Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 157,
-                "byteEnd": 273
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/",
-              "title": "https://www.washingtontimes.com/news/2026/jul/1/hamilton-jefferson-trump-historians-see-founding-era-playbook-still/",
-              "description": ""
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbdrnkjknn",
-            "rkey": "3mtmbdrnkjknn"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbdrnkjknn",
       "expected_embed": "none",
       "expected_images": 0,
@@ -10039,9 +9959,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbdrnkjknn",
           "rkey": "3mtmbdrnkjknn"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-21T22:06:22.325458Z"
+      ]
     },
     "truth:117134639829580841": {
       "post_status": "RETRY",
@@ -10875,7 +10793,7 @@
       "updated_at": "2026-08-21T21:20:43.850770Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41110"
     },
-    "url:https://www.trumpstruth.org/statuses/41106": {
+    "truth:117134908401668938": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41106",
@@ -10885,7 +10803,7 @@
       "updated_at": "2026-08-21T18:30:43.127310Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     },
-    "url:https://www.trumpstruth.org/statuses/41111": {
+    "truth:117135555611644462": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41111",
@@ -10894,6 +10812,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T21:20:43.850828Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41111"
+    },
+    "truth:117135773042405247": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41112",
+      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T22:15:41.740709Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41112"
     }
   }
 }
