@@ -9806,16 +9806,6 @@
       "updated_at": "2026-08-21T17:25:50.946630Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41073"
     },
-    "truth:117134645458445535": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41072",
-      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946603Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
-    },
     "truth:117134660180705641": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -9987,14 +9977,20 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
     },
     "truth:117134439935650398": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41059",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:28:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430074Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41059"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T18:06:08.695485Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41059",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117134439935650398:61257045a8f2a6ed.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/439/729/702/119/small/61257045a8f2a6ed.jpg",
+      "truth_social_id": "117134439935650398",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-21T18:11:08.695503Z"
     },
     "truth:117134444832067768": {
       "post_status": "DISCOVERED",
@@ -10036,7 +10032,7 @@
       "updated_at": "2026-08-21T17:25:50.946790Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41079"
     },
-    "url:https://www.trumpstruth.org/statuses/41085": {
+    "truth:117134633473478901": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41085",
@@ -10046,7 +10042,7 @@
       "updated_at": "2026-08-21T17:30:42.550756Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41085"
     },
-    "url:https://www.trumpstruth.org/statuses/41076": {
+    "truth:117134641491790365": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41076",
@@ -10056,7 +10052,17 @@
       "updated_at": "2026-08-21T17:25:50.946712Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
     },
-    "url:https://www.trumpstruth.org/statuses/41097": {
+    "url:https://www.trumpstruth.org/statuses/41072": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41072",
+      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946603Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
+    },
+    "truth:117134651908743307": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41097",
@@ -10066,7 +10072,7 @@
       "updated_at": "2026-08-21T17:35:40.879917Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
     },
-    "url:https://www.trumpstruth.org/statuses/41094": {
+    "truth:117134654816697655": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41094",
@@ -10076,7 +10082,7 @@
       "updated_at": "2026-08-21T17:35:40.879790Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41094"
     },
-    "url:https://www.trumpstruth.org/statuses/41093": {
+    "truth:117134655888333194": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41093",
