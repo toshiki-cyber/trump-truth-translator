@@ -1215,7 +1215,10 @@
     "https://www.trumpstruth.org/statuses/41073",
     "fp:Chinese national arrested for voter fraud after casting ballot in 2024 election: \nhttps://www.washingtonexaminer.com/news/4694130/chinese-national-arr",
     "truth:117134649080283243",
-    "https://www.trumpstruth.org/statuses/41100"
+    "https://www.trumpstruth.org/statuses/41100",
+    "fp:Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': \nhttps://justthenews.com/politics-policy/all-things-trump/trump",
+    "truth:117134650068984827",
+    "https://www.trumpstruth.org/statuses/41099"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10791,20 +10794,22 @@
       "translation": "トランプ大統領、ウイルス動画で話題となった海での救助活動で少年を救ったティーンエイジャーの救助員とオーバルオフィスで面会：\nhttps://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office"
     },
     "truth:117134650068984827": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41099",
       "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:57 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:20.335811Z",
+      "updated_at": "2026-08-21T23:20:47.089968Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41099",
       "first_seen": "2026-08-21T19:56:37.481858Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': \nhttps://justthenews.com/politics-policy/all-things-trump/trump",
-      "next_retry_at": "2026-08-21T20:26:20.335832Z",
-      "truth_social_id": "117134650068984827"
+      "truth_social_id": "117134650068984827",
+      "source_fingerprint": "fp:Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': \nhttps://justthenews.com/politics-policy/all-things-trump/trump",
+      "media_identity": "attachment:117134650068984827:",
+      "translation": "トランプ大統領が議会の任期制限に「賛成」と述べる：「国民に非常に人気がある」\nhttps://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public"
     },
     "truth:117134648247611471": {
       "post_status": "RETRY",
@@ -10995,7 +11000,17 @@
       "updated_at": "2026-08-21T18:55:43.233355Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
     },
-    "url:https://www.trumpstruth.org/statuses/41109": {
+    "truth:117135773042405247": {
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41112",
+      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T22:45:39.526810Z"
+    },
+    "truth:117135561220383573": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41109",
@@ -11004,19 +11019,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T21:15:42.265930Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
-    },
-    "url:https://www.trumpstruth.org/statuses/41112": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41112",
-      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T22:45:39.526810Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41112"
-    },
-    "truth:117135773042405247": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
     }
   }
 }
