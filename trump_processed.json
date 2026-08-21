@@ -9568,16 +9568,6 @@
       "updated_at": "2026-08-21T16:35:41.429962Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41055"
     },
-    "truth:117134448075588837": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41054",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925</span></p>",
-      "published": "Fri, 21 Aug 2026 16:30:35 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.429932Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41054"
-    },
     "truth:117134450446438705": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -9877,14 +9867,19 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41091"
     },
     "truth:117134443801937584": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41058",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:29:29 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430046Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41058"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T18:11:58.827588Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41058",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117134443801937584:b30cc3598f626ad0.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/443/570/563/785/original/b30cc3598f626ad0.mp4",
+      "truth_social_id": "117134443801937584",
+      "next_retry_at": "2026-08-21T18:16:58.827614Z"
     },
     "truth:117134646355692943": {
       "post_status": "DISCOVERED",
@@ -9966,16 +9961,6 @@
       "updated_at": "2026-08-21T17:35:40.879834Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41095"
     },
-    "truth:117134600943313462": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41063",
-      "source_text": "<p>Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx: <a href=\"https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-lea</span><span class=\"invisible\">ves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:15:41.152083Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
-    },
     "truth:117134439935650398": {
       "post_status": "RETRY",
       "media_state": "READY",
@@ -10032,36 +10017,6 @@
       "updated_at": "2026-08-21T17:25:50.946790Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41079"
     },
-    "truth:117134633473478901": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41085",
-      "source_text": "<p>Trump claims ‘total control’ of Strait of Hormuz as war drags on: <a href=\"https://www.washingtonexaminer.com/policy/defense/4684362/trump-total-control-strait-of-hormuz-war-iran/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/policy/</span><span class=\"invisible\">defense/4684362/trump-total-control-strait-of-hormuz-war-iran/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:17:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:30:42.550756Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41085"
-    },
-    "truth:117134641491790365": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41076",
-      "source_text": "<p>FBI: 2025 had biggest violent-crime drop in 90 years: <a href=\"https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/18/fbi-viole</span><span class=\"invisible\">nt-crime-drop-2025</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:19:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946712Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
-    },
-    "url:https://www.trumpstruth.org/statuses/41072": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41072",
-      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946603Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
-    },
     "truth:117134651908743307": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10082,7 +10037,57 @@
       "updated_at": "2026-08-21T17:35:40.879790Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41094"
     },
-    "truth:117134655888333194": {
+    "url:https://www.trumpstruth.org/statuses/41054": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41054",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925</span></p>",
+      "published": "Fri, 21 Aug 2026 16:30:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T16:35:41.429932Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41054"
+    },
+    "url:https://www.trumpstruth.org/statuses/41063": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41063",
+      "source_text": "<p>Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx: <a href=\"https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-lea</span><span class=\"invisible\">ves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:15:41.152083Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
+    },
+    "url:https://www.trumpstruth.org/statuses/41085": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41085",
+      "source_text": "<p>Trump claims ‘total control’ of Strait of Hormuz as war drags on: <a href=\"https://www.washingtonexaminer.com/policy/defense/4684362/trump-total-control-strait-of-hormuz-war-iran/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/policy/</span><span class=\"invisible\">defense/4684362/trump-total-control-strait-of-hormuz-war-iran/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:17:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:30:42.550756Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41085"
+    },
+    "url:https://www.trumpstruth.org/statuses/41076": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41076",
+      "source_text": "<p>FBI: 2025 had biggest violent-crime drop in 90 years: <a href=\"https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/18/fbi-viole</span><span class=\"invisible\">nt-crime-drop-2025</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:19:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946712Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
+    },
+    "truth:117134645458445535": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41072",
+      "source_text": "<p>Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: <a href=\"https://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-to-abolish-ice/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thefederalist.com/2026/08/17/y</span><span class=\"invisible\">es-democrats-just-passed-a-resolution-seeking-to-abolish-ice/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:20:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946603Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
+    },
+    "url:https://www.trumpstruth.org/statuses/41093": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41093",
