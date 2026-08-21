@@ -9345,14 +9345,20 @@
       ]
     },
     "truth:117134432679930032": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41051",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:26:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430252Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41051"
+      "retry_count": 1,
+      "updated_at": "2026-08-21T17:05:46.713477Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41051",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117134432679930032:03eed214764c3ebb.jpg,362575b516823f9c.jpg,ce8e62021d4d491a.jpg,db1b825935105444.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/432/373/553/044/small/db1b825935105444.jpg",
+      "truth_social_id": "117134432679930032",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-21T17:10:46.713490Z"
     },
     "truth:117134433446256360": {
       "post_status": "DISCOVERED",
@@ -9464,7 +9470,7 @@
       "updated_at": "2026-08-21T16:40:38.307924Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41062"
     },
-    "url:https://www.trumpstruth.org/statuses/41049": {
+    "truth:117134434446472238": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41049",
