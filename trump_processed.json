@@ -1140,7 +1140,10 @@
     "truth:117134448075588837",
     "https://www.trumpstruth.org/statuses/41054",
     "truth:117134450446438705",
-    "https://www.trumpstruth.org/statuses/41062"
+    "https://www.trumpstruth.org/statuses/41062",
+    "fp:WAYNE ROOT: The Biggest Development of My 17th Interview with President Donald J. Trump is Obvious- Liberal Heads are Exploding and the Liberal Media ",
+    "truth:117134595100624861",
+    "https://www.trumpstruth.org/statuses/41068"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9623,20 +9626,22 @@
       "next_retry_at": "2026-08-21T20:51:20.100651Z"
     },
     "truth:117134595100624861": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41068",
       "source_text": "<p>WAYNE ROOT: The Biggest Development of My 17th Interview with President Donald J. Trump is Obvious- Liberal Heads are Exploding and the Liberal Media is Freaking Out: <a href=\"https://www.thegatewaypundit.com/2026/08/wayne-root-biggest-development-my-17th-interview-president/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegatewaypundit.com/2026/08/w</span><span class=\"invisible\">ayne-root-biggest-development-my-17th-interview-president/</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:07:58 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:15:41.987789Z",
+      "updated_at": "2026-08-21T20:30:47.443794Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41068",
       "first_seen": "2026-08-21T19:55:40.813195Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:WAYNE ROOT: The Biggest Development of My 17th Interview with President Donald J. Trump is Obvious- Liberal Heads are Exploding and the Liberal Media ",
-      "next_retry_at": "2026-08-21T20:25:41.987808Z",
-      "truth_social_id": "117134595100624861"
+      "truth_social_id": "117134595100624861",
+      "source_fingerprint": "fp:WAYNE ROOT: The Biggest Development of My 17th Interview with President Donald J. Trump is Obvious- Liberal Heads are Exploding and the Liberal Media ",
+      "media_identity": "attachment:117134595100624861:",
+      "translation": "ウェイン・ルート：ドナルド・J・トランプ大統領との17回目のインタビューにおける最大の展開は明白だ。リベラル派の連中が大騒ぎし、リベラル系メディアがパニック状態になっている：\nhttps://www.thegatewaypundit.com/2026/08/wayne-root-biggest-development-my-17th-interview-president/"
     },
     "truth:117134595889412013": {
       "post_status": "RETRY",
