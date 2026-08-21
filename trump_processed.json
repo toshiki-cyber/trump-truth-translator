@@ -1169,7 +1169,10 @@
     "https://www.trumpstruth.org/statuses/41084",
     "fp:Trump claims ‘total control’ of Strait of Hormuz as war drags on: \nhttps://www.washingtonexaminer.com/policy/defense/4684362/trump-total-control-strai",
     "truth:117134633473478901",
-    "https://www.trumpstruth.org/statuses/41085"
+    "https://www.trumpstruth.org/statuses/41085",
+    "fp:Key House caucus leaders target Supreme Court, Senate filibuster: \nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotu",
+    "truth:117134635572174687",
+    "https://www.trumpstruth.org/statuses/41083"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9869,20 +9872,22 @@
       ]
     },
     "truth:117134635572174687": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41083",
       "source_text": "<p>Key House caucus leaders target Supreme Court, Senate filibuster: <a href=\"https://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotus-00973895\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">politico.com/live-updates/2026</span><span class=\"invisible\">/06/24/congress/dem-caucuses-target-scotus-00973895</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:18:16 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:15.381954Z",
+      "updated_at": "2026-08-21T21:41:12.065628Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41083",
       "first_seen": "2026-08-21T19:55:59.828418Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Key House caucus leaders target Supreme Court, Senate filibuster: \nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotu",
-      "next_retry_at": "2026-08-21T20:26:15.381973Z",
-      "truth_social_id": "117134635572174687"
+      "truth_social_id": "117134635572174687",
+      "source_fingerprint": "fp:Key House caucus leaders target Supreme Court, Senate filibuster: \nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotu",
+      "media_identity": "attachment:117134635572174687:",
+      "translation": "主要な下院院内総務指導者が最高裁判所と上院フィリバスター制度を標的にしている：\nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotus-00973895"
     },
     "truth:117134636703184466": {
       "post_status": "RETRY",
@@ -10595,16 +10600,6 @@
       "no_media_confirmations": 1,
       "truth_social_id": "117134648247611471"
     },
-    "truth:117134908401668938": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41106",
-      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:30:43.127310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
-    },
     "truth:117134652986157363": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -10716,16 +10711,6 @@
       "updated_at": "2026-08-21T21:15:42.265930Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
     },
-    "url:https://www.trumpstruth.org/statuses/41108": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41108",
-      "source_text": "<p>We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 20:23:00 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T20:25:40.596990Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41108"
-    },
     "url:https://www.trumpstruth.org/statuses/41111": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10736,7 +10721,27 @@
       "updated_at": "2026-08-21T21:20:43.850828Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41111"
     },
-    "url:https://www.trumpstruth.org/statuses/41110": {
+    "url:https://www.trumpstruth.org/statuses/41106": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
+    },
+    "truth:117135361970854867": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41108",
+      "source_text": "<p>We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 20:23:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T20:25:40.596990Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41108"
+    },
+    "truth:117135559489217035": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41110",
