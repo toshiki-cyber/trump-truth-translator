@@ -1130,7 +1130,10 @@
     "truth:117134437554179764",
     "https://www.trumpstruth.org/statuses/41060",
     "truth:117134439935650398",
-    "https://www.trumpstruth.org/statuses/41059"
+    "https://www.trumpstruth.org/statuses/41059",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
+    "truth:117134444832067768",
+    "https://www.trumpstruth.org/statuses/41057"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9969,14 +9972,20 @@
       "translation": ""
     },
     "truth:117134444832067768": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41057",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584</span><a href=\"https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/</span></a></p>",
       "published": "Fri, 21 Aug 2026 16:29:45 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T16:35:41.430018Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41057"
+      "updated_at": "2026-08-21T18:26:13.551057Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41057",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
+      "media_identity": "attachment:117134444832067768:950904280ae35d88.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
+      "truth_social_id": "117134444832067768",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/"
     },
     "truth:117134631536748114": {
       "post_status": "DISCOVERED",
@@ -10078,7 +10087,7 @@
       "updated_at": "2026-08-21T18:15:39.344572Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41104"
     },
-    "url:https://www.trumpstruth.org/statuses/41054": {
+    "truth:117134448075588837": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41054",
@@ -10088,7 +10097,7 @@
       "updated_at": "2026-08-21T16:35:41.429932Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41054"
     },
-    "url:https://www.trumpstruth.org/statuses/41063": {
+    "truth:117134600943313462": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41063",
@@ -10098,7 +10107,7 @@
       "updated_at": "2026-08-21T17:15:41.152083Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41063"
     },
-    "url:https://www.trumpstruth.org/statuses/41087": {
+    "truth:117134622109680955": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41087",
@@ -10108,7 +10117,7 @@
       "updated_at": "2026-08-21T17:30:42.550834Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41087"
     },
-    "url:https://www.trumpstruth.org/statuses/41076": {
+    "truth:117134641491790365": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41076",
