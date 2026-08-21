@@ -1138,7 +1138,9 @@
     "https://www.trumpstruth.org/statuses/41056",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134447318347925",
     "truth:117134448075588837",
-    "https://www.trumpstruth.org/statuses/41054"
+    "https://www.trumpstruth.org/statuses/41054",
+    "truth:117134450446438705",
+    "https://www.trumpstruth.org/statuses/41062"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9589,14 +9591,19 @@
       "next_retry_at": "2026-08-21T19:06:08.562105Z"
     },
     "truth:117134450446438705": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41062",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:31:11 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T16:40:38.307924Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41062"
+      "updated_at": "2026-08-21T19:01:33.213250Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41062",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117134450446438705:81b5319874b13524.png,cb96ee6e786e999b.png",
+      "failure_reason": null,
+      "truth_social_id": "117134450446438705",
+      "translation": ""
     },
     "truth:117134593867089115": {
       "post_status": "DISCOVERED",
@@ -9982,16 +9989,6 @@
       "updated_at": "2026-08-21T17:20:42.497124Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41071"
     },
-    "truth:117134637894565376": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41080",
-      "source_text": "<p>Judge allows Trump administration to end deportation protections for thousands of Ethiopians: <a href=\"https://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2026/08/18/politics/ju</span><span class=\"invisible\">dge-allows-trump-administration-to-end-tps-ethiopians</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:18:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:25:50.946817Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41080"
-    },
     "truth:117134638780061079": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10082,16 +10079,6 @@
       "updated_at": "2026-08-21T17:25:50.946712Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41076"
     },
-    "truth:117134908401668938": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41106",
-      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:30:43.127310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
-    },
     "truth:117134649080283243": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10128,26 +10115,6 @@
       "updated_at": "2026-08-21T17:35:40.879876Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41096"
     },
-    "truth:117134845877719345": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41105",
-      "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
-      "published": "Fri, 21 Aug 2026 18:11:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:15:39.344619Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
-    },
-    "url:https://www.trumpstruth.org/statuses/41097": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41097",
-      "source_text": "<p>‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy: <a href=\"https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/economic-d-</span><span class=\"invisible\">day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:22:25 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879917Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
-    },
     "truth:117134653874219621": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10167,6 +10134,46 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:55:43.233355Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
+    },
+    "url:https://www.trumpstruth.org/statuses/41080": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41080",
+      "source_text": "<p>Judge allows Trump administration to end deportation protections for thousands of Ethiopians: <a href=\"https://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2026/08/18/politics/ju</span><span class=\"invisible\">dge-allows-trump-administration-to-end-tps-ethiopians</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:18:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:25:50.946817Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41080"
+    },
+    "truth:117134651908743307": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41097",
+      "source_text": "<p>‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy: <a href=\"https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/economic-d-</span><span class=\"invisible\">day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:22:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879917Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41097"
+    },
+    "url:https://www.trumpstruth.org/statuses/41105": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41105",
+      "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
+      "published": "Fri, 21 Aug 2026 18:11:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:15:39.344619Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41105"
+    },
+    "url:https://www.trumpstruth.org/statuses/41106": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     }
   }
 }
