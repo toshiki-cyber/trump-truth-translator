@@ -9873,14 +9873,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41058",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:29:29 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-21T19:06:31.090873Z",
+      "retry_count": 5,
+      "updated_at": "2026-08-21T19:51:29.523496Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41058",
       "source_fingerprint": null,
       "media_identity": "attachment:117134443801937584:b30cc3598f626ad0.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/443/570/563/785/original/b30cc3598f626ad0.mp4",
       "truth_social_id": "117134443801937584",
-      "next_retry_at": "2026-08-21T19:46:31.090890Z"
+      "next_retry_at": "2026-08-21T21:11:29.523516Z"
     },
     "truth:117134647345137602": {
       "post_status": "DISCOVERED",
@@ -10089,16 +10089,6 @@
       "updated_at": "2026-08-21T17:25:50.946817Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41080"
     },
-    "truth:117134908401668938": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41106",
-      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:30:43.127310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
-    },
     "truth:117134845877719345": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -10118,26 +10108,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:30:42.550225Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41090"
-    },
-    "url:https://www.trumpstruth.org/statuses/41101": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41101",
-      "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:29 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.880103Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41101"
-    },
-    "url:https://www.trumpstruth.org/statuses/41099": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41099",
-      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:35:40.879999Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
     },
     "url:https://www.trumpstruth.org/statuses/41065": {
       "post_status": "DISCOVERED",
@@ -10169,7 +10139,7 @@
       "updated_at": "2026-08-21T17:30:42.550178Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41089"
     },
-    "url:https://www.trumpstruth.org/statuses/41072": {
+    "truth:117134645458445535": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41072",
@@ -10179,7 +10149,7 @@
       "updated_at": "2026-08-21T17:25:50.946603Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41072"
     },
-    "url:https://www.trumpstruth.org/statuses/41103": {
+    "truth:117134646355692943": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41103",
@@ -10188,6 +10158,36 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T17:35:40.880191Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41103"
+    },
+    "truth:117134648247611471": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41101",
+      "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.880103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41101"
+    },
+    "truth:117134650068984827": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41099",
+      "source_text": "<p>Trump says he is 'okay' with term limits for Congress: 'Very popular with the public': <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-says-he-okay-term-limits-congress-very-popular-public</span></a></p>",
+      "published": "Fri, 21 Aug 2026 17:21:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T17:35:40.879999Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41099"
+    },
+    "url:https://www.trumpstruth.org/statuses/41106": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     }
   }
 }
