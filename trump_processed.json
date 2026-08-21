@@ -1095,7 +1095,9 @@
     "truth:117131396522866670",
     "https://www.trumpstruth.org/statuses/41038",
     "truth:117131409354478560",
-    "https://www.trumpstruth.org/statuses/41041"
+    "https://www.trumpstruth.org/statuses/41041",
+    "truth:117131390037719482",
+    "https://www.trumpstruth.org/statuses/41040"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -8959,20 +8961,19 @@
       ]
     },
     "truth:117131390037719482": {
-      "post_status": "RETRY",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41040",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 03:32:53 +0000",
       "retry_count": 5,
-      "updated_at": "2026-08-21T10:40:42.948822Z",
+      "updated_at": "2026-08-21T12:05:48.820186Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41040",
       "source_fingerprint": null,
       "media_identity": "attachment:117131390037719482:b2aede9d649d9ec7.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/131/389/547/052/376/small/b2aede9d649d9ec7.jpg",
+      "failure_reason": null,
       "truth_social_id": "117131390037719482",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-21T12:00:42.948834Z"
+      "translation": ""
     },
     "truth:117131409354478560": {
       "post_status": "POSTED",
