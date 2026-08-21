@@ -1143,7 +1143,12 @@
     "https://www.trumpstruth.org/statuses/41062",
     "fp:WAYNE ROOT: The Biggest Development of My 17th Interview with President Donald J. Trump is Obvious- Liberal Heads are Exploding and the Liberal Media ",
     "truth:117134595100624861",
-    "https://www.trumpstruth.org/statuses/41068"
+    "https://www.trumpstruth.org/statuses/41068",
+    "truth:117134849304439845",
+    "https://www.trumpstruth.org/statuses/41104",
+    "fp:Bessent says US to apply measures never seen on Iran: \nhttps://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-0",
+    "truth:117134595889412013",
+    "https://www.trumpstruth.org/statuses/41067"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9644,20 +9649,22 @@
       "translation": "ウェイン・ルート：ドナルド・J・トランプ大統領との17回目のインタビューにおける最大の展開は明白だ。リベラル派の連中が大騒ぎし、リベラル系メディアがパニック状態になっている：\nhttps://www.thegatewaypundit.com/2026/08/wayne-root-biggest-development-my-17th-interview-president/"
     },
     "truth:117134595889412013": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41067",
       "source_text": "<p>Bessent says US to apply measures never seen on Iran: <a href=\"https://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-08-13\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/world/middle-east/</span><span class=\"invisible\">bessent-says-us-apply-measures-never-seen-iran-2026-08-13</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:08:10 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-21T20:15:42.568511Z",
+      "updated_at": "2026-08-21T20:35:46.271177Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41067",
       "first_seen": "2026-08-21T19:55:41.186171Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Bessent says US to apply measures never seen on Iran: \nhttps://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-0",
-      "next_retry_at": "2026-08-21T20:25:42.568537Z",
-      "truth_social_id": "117134595889412013"
+      "truth_social_id": "117134595889412013",
+      "source_fingerprint": "fp:Bessent says US to apply measures never seen on Iran: \nhttps://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-0",
+      "media_identity": "attachment:117134595889412013:",
+      "translation": "ベッセント氏、米国がイランに対して前例のない措置を適用すると発言：\nhttps://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-08-13"
     },
     "truth:117134597641992037": {
       "post_status": "RETRY",
@@ -10417,7 +10424,7 @@
       "next_retry_at": "2026-08-21T20:25:58.221193Z"
     },
     "truth:117134849304439845": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41104",
       "source_text": "<p></p>",
@@ -10427,84 +10434,9 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41104",
       "source_fingerprint": null,
       "media_identity": "attachment:117134849304439845:ef964fa9adbb93f8.png",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "truth_social_id": "117134849304439845",
       "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmeehfqf2xw",
-          "cid": "bafyreich2qj22gp7f3p5vraaej5v4dptss4jmimyop6g5zklnrzrhden6q"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmeehfqf2xw",
-          "cid": "bafyreich2qj22gp7f3p5vraaej5v4dptss4jmimyop6g5zklnrzrhden6q"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtmeehfqf2xw",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-21T20:25:46.540498Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicbp5idwo5o44vle3mletnfwn34o6g6m5jk7n6xrblhflcmyb5req"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 91614
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 892,
-                  "height": 530
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mtmeehfqf2xw",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-21T20:25:46.540498Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicbp5idwo5o44vle3mletnfwn34o6g6m5jk7n6xrblhflcmyb5req"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 91614
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 892,
-                  "height": 530
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmeehfqf2xw",
-            "rkey": "3mtmeehfqf2xw"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmeehfqf2xw",
       "expected_embed": "images",
       "expected_images": 1,
@@ -10542,9 +10474,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmeehfqf2xw",
           "rkey": "3mtmeehfqf2xw"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-21T20:30:53.320116Z"
+      ]
     },
     "truth:117135361970854867": {
       "post_status": "DISCOVERED",
