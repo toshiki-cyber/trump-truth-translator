@@ -12170,15 +12170,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41124",
       "source_text": "<p></p>",
       "published": "Sat, 22 Aug 2026 21:01:54 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T21:10:44.078468Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-22T21:25:43.270872Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41124",
       "source_fingerprint": null,
       "media_identity": "attachment:117141177283721411:668e3b11f933d421.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/141/177/156/957/458/small/668e3b11f933d421.jpg",
       "truth_social_id": "117141177283721411",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-22T21:15:44.078483Z"
+      "next_retry_at": "2026-08-22T21:35:43.270887Z"
     }
   }
 }
