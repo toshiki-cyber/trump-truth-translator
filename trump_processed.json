@@ -1284,7 +1284,9 @@
     "https://www.trumpstruth.org/statuses/41114",
     "fp:EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: \nhttps://www.foxnews.com/politics/exclusive-fentanyl",
     "truth:117135559489217035",
-    "https://www.trumpstruth.org/statuses/41110"
+    "https://www.trumpstruth.org/statuses/41110",
+    "truth:117136610993218864",
+    "https://www.trumpstruth.org/statuses/41116"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -11577,18 +11579,18 @@
     },
     "truth:117135773042405247": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41112",
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-22T02:20:40.347105Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-22T02:25:39.800948Z",
       "first_seen": "2026-08-22T02:01:00.442473Z",
-      "no_media_confirmations": 1,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 2,
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
-      "next_retry_at": "2026-08-22T02:16:13.755046Z",
+      "next_retry_at": "2026-08-22T02:30:39.800966Z",
       "truth_social_id": "117135773042405247"
     },
     "truth:117135561220383573": {
@@ -11762,14 +11764,19 @@
       ]
     },
     "truth:117136610993218864": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41116",
       "source_text": "<p></p>",
       "published": "Sat, 22 Aug 2026 01:40:38 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T01:45:43.695845Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41116"
+      "updated_at": "2026-08-22T02:25:41.455602Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41116",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117136610993218864:9bfc2af05a344d16.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117136610993218864",
+      "translation": ""
     },
     "truth:117136747897665850": {
       "post_status": "DISCOVERED",
@@ -11781,18 +11788,21 @@
       "updated_at": "2026-08-22T02:15:42.156359Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41117"
     },
-    "url:https://www.trumpstruth.org/statuses/41107": {
+    "truth:117135011934383556": {
       "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
       "source_text": "<p>Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: <a href=\"https://nypost.com/2026/08/21/us-news/work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/us-news/</span><span class=\"invisible\">work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/</span></a></p>",
       "published": "Fri, 21 Aug 2026 18:53:58 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-22T02:00:59.173251Z",
+      "retry_count": 4,
+      "updated_at": "2026-08-22T02:25:39.506204Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41107",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: \nhttps://nypost.com/2026/08/21/us-news/work-on-trump-",
-      "next_retry_at": "2026-08-22T02:20:59.173267Z"
+      "next_retry_at": "2026-08-22T03:05:39.506212Z",
+      "first_seen": "2026-08-22T02:25:39.506169Z",
+      "no_media_confirmations": 1,
+      "truth_social_id": "117135011934383556"
     }
   }
 }
