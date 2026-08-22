@@ -9926,8 +9926,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41070",
       "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
       "published": "Fri, 21 Aug 2026 17:06:02 +0000",
-      "retry_count": 6,
-      "updated_at": "2026-08-21T22:15:50.182934Z",
+      "retry_count": 7,
+      "updated_at": "2026-08-22T01:01:00.068912Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41070",
       "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "media_identity": "attachment:117134587500534715:86bdc5e51c2eade4.jpg,8de4e43afdea780f.jpg,8e36b7a97d4814f3.jpg",
@@ -9935,7 +9935,7 @@
       "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "truth_social_id": "117134587500534715",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-22T00:55:50.182948Z"
+      "next_retry_at": "2026-08-22T06:21:00.068928Z"
     },
     "truth:117134434446472238": {
       "post_status": "POSTED",
@@ -11339,16 +11339,6 @@
       "updated_at": "2026-08-21T22:20:38.525439Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41115"
     },
-    "truth:117135011934383556": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41107",
-      "source_text": "<p>Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: <a href=\"https://nypost.com/2026/08/21/us-news/work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/us-news/</span><span class=\"invisible\">work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 18:53:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:55:43.233355Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
-    },
     "truth:117135773042405247": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
       "post_status": "DISCOVERED",
@@ -11357,7 +11347,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T00:55:40.059464Z"
+      "updated_at": "2026-08-22T01:00:39.462078Z"
     },
     "truth:117135561220383573": {
       "post_status": "DISCOVERED",
@@ -11408,6 +11398,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T18:30:43.127310Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
+    },
+    "url:https://www.trumpstruth.org/statuses/41107": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41107",
+      "source_text": "<p>Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: <a href=\"https://nypost.com/2026/08/21/us-news/work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/us-news/</span><span class=\"invisible\">work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/</span></a></p>",
+      "published": "Fri, 21 Aug 2026 18:53:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:55:43.233355Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41107"
     }
   }
 }
