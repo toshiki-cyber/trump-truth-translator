@@ -1265,7 +1265,9 @@
     "https://www.trumpstruth.org/statuses/41086",
     "fp:Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good",
     "truth:117134845877719345",
-    "https://www.trumpstruth.org/statuses/41105"
+    "https://www.trumpstruth.org/statuses/41105",
+    "truth:117135561220383573",
+    "https://www.trumpstruth.org/statuses/41109"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -11474,14 +11476,20 @@
       ]
     },
     "truth:117135559489217035": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41110",
       "source_text": "<p>EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: <a href=\"https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/exclusive</span><span class=\"invisible\">-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis</span></a></p>",
       "published": "Fri, 21 Aug 2026 21:13:13 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T21:20:43.850770Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41110"
+      "retry_count": 1,
+      "updated_at": "2026-08-22T01:45:45.092680Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41110",
+      "first_seen": "2026-08-22T01:45:45.092646Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: \nhttps://www.foxnews.com/politics/exclusive-fentanyl",
+      "next_retry_at": "2026-08-22T01:50:45.092690Z",
+      "truth_social_id": "117135559489217035"
     },
     "truth:117135789576192806": {
       "post_status": "DISCOVERED",
@@ -11501,17 +11509,22 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T01:40:42.205558Z"
+      "updated_at": "2026-08-22T01:45:43.696033Z"
     },
     "truth:117135561220383573": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41109",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 21:13:40 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T21:15:42.265930Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41109"
+      "updated_at": "2026-08-22T01:45:48.751140Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41109",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117135561220383573:a7dec737147bbcac.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117135561220383573",
+      "translation": ""
     },
     "truth:117135790192886203": {
       "post_status": "DISCOVERED",
@@ -11769,17 +11782,17 @@
       "status_url": "https://www.trumpstruth.org/statuses/41106",
       "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T01:40:43.299117Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-22T01:45:44.194457Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106",
       "first_seen": "2026-08-22T01:40:43.299082Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the Un",
-      "next_retry_at": "2026-08-22T01:45:43.299127Z",
+      "next_retry_at": "2026-08-22T01:55:44.194472Z",
       "truth_social_id": "117134908401668938"
     },
-    "url:https://www.trumpstruth.org/statuses/41107": {
+    "truth:117135011934383556": {
       "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
@@ -11791,6 +11804,16 @@
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: \nhttps://nypost.com/2026/08/21/us-news/work-on-trump-",
       "next_retry_at": "2026-08-22T01:45:58.345926Z"
+    },
+    "truth:117136610993218864": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41116",
+      "source_text": "<p></p>",
+      "published": "Sat, 22 Aug 2026 01:40:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-22T01:45:43.695845Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41116"
     }
   }
 }
