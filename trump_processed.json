@@ -1286,7 +1286,10 @@
     "truth:117135559489217035",
     "https://www.trumpstruth.org/statuses/41110",
     "truth:117136610993218864",
-    "https://www.trumpstruth.org/statuses/41116"
+    "https://www.trumpstruth.org/statuses/41116",
+    "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
+    "truth:117135773042405247",
+    "https://www.trumpstruth.org/statuses/41112"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -11578,20 +11581,22 @@
       "translation": ""
     },
     "truth:117135773042405247": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41112",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41112",
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T02:25:39.800948Z",
+      "retry_count": 0,
+      "updated_at": "2026-08-22T02:31:03.076203Z",
       "first_seen": "2026-08-22T02:01:00.442473Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
-      "next_retry_at": "2026-08-22T02:30:39.800966Z",
-      "truth_social_id": "117135773042405247"
+      "truth_social_id": "117135773042405247",
+      "source_fingerprint": "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
+      "media_identity": "attachment:117135773042405247:",
+      "translation": "私は素晴らしいサウスカロライナ州に着陸する準備をしている。そこでリンジー・グラハムを称えるラリーを開催するが、彼の素晴らしい妹ダーリーンのためだ。長年彼女を知った後、私は彼女に合衆国上院に立候補し、リンジーの後任となるよう求めた。間もなく会おう！大統領 ドナルド・J・トランプ"
     },
     "truth:117135561220383573": {
       "post_status": "POSTED",
@@ -11803,6 +11808,9 @@
       "first_seen": "2026-08-22T02:25:39.506169Z",
       "no_media_confirmations": 1,
       "truth_social_id": "117135011934383556"
+    },
+    "url:https://www.trumpstruth.org/statuses/41113": {
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41113"
     }
   }
 }
