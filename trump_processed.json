@@ -1259,7 +1259,10 @@
     "https://www.trumpstruth.org/statuses/41082",
     "fp:RT \nhttps://truthsocial.com/@SchoenlawOur President gave Iran every possible chance to finally reform its conduct, give up its role as the no. 1 spons",
     "truth:116946842010916767",
-    "https://www.trumpstruth.org/statuses/41091"
+    "https://www.trumpstruth.org/statuses/41091",
+    "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
+    "truth:117134659039628490",
+    "https://www.trumpstruth.org/statuses/41086"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10418,20 +10421,22 @@
       ]
     },
     "truth:117134659039628490": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41086",
       "source_text": "<p>‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: <a href=\"https://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/policy/</span><span class=\"invisible\">defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:24:14 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-22T01:06:03.484027Z",
+      "updated_at": "2026-08-22T01:30:48.777266Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41086",
       "first_seen": "2026-08-21T19:56:56.429205Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
-      "next_retry_at": "2026-08-22T01:26:03.484055Z",
-      "truth_social_id": "117134659039628490"
+      "truth_social_id": "117134659039628490",
+      "source_fingerprint": "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
+      "media_identity": "attachment:117134659039628490:",
+      "translation": "「ジェットソンズが現実になってきている」：トランプ政権幹部がマルチフロント無人機イニシアティブをアピール：\nhttps://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette"
     },
     "truth:116946842010916767": {
       "post_status": "POSTED",
@@ -11600,7 +11605,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T01:25:42.595295Z"
+      "updated_at": "2026-08-22T01:30:43.802433Z"
     },
     "truth:117135561220383573": {
       "post_status": "DISCOVERED",
@@ -11652,7 +11657,7 @@
       "updated_at": "2026-08-21T18:30:43.127310Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     },
-    "url:https://www.trumpstruth.org/statuses/41107": {
+    "truth:117135011934383556": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
