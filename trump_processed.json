@@ -1301,7 +1301,9 @@
     "https://www.trumpstruth.org/statuses/41070",
     "fp:Today we brought another American home! Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave",
     "truth:117136747897665850",
-    "https://www.trumpstruth.org/statuses/41117"
+    "https://www.trumpstruth.org/statuses/41117",
+    "truth:117134443801937584",
+    "https://www.trumpstruth.org/statuses/41058"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10597,19 +10599,19 @@
       ]
     },
     "truth:117134443801937584": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41058",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:29:29 +0000",
       "retry_count": 8,
-      "updated_at": "2026-08-22T05:25:43.330628Z",
+      "updated_at": "2026-08-22T11:30:52.781012Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41058",
       "source_fingerprint": null,
       "media_identity": "attachment:117134443801937584:b30cc3598f626ad0.mp4",
-      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/443/570/563/785/original/b30cc3598f626ad0.mp4",
+      "failure_reason": null,
       "truth_social_id": "117134443801937584",
-      "next_retry_at": "2026-08-22T11:25:43.330645Z"
+      "translation": ""
     },
     "truth:117134647345137602": {
       "post_status": "POSTED",
