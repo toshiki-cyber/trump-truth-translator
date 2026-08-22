@@ -1306,7 +1306,9 @@
     "https://www.trumpstruth.org/statuses/41058",
     "fp:Tremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House! Presidents have wanted this ",
     "truth:117139411859970862",
-    "https://www.trumpstruth.org/statuses/41119"
+    "https://www.trumpstruth.org/statuses/41119",
+    "truth:117141030718774729",
+    "https://www.trumpstruth.org/statuses/41123"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12019,6 +12021,21 @@
       "retry_count": 0,
       "updated_at": "2026-08-22T20:25:40.813148Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41121"
+    },
+    "truth:117141030718774729": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41123",
+      "source_text": "<p></p>",
+      "published": "Sat, 22 Aug 2026 20:24:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-22T20:30:41.053134Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41123",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117141030718774729:111588634faa4447.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117141030718774729",
+      "translation": ""
     }
   }
 }
