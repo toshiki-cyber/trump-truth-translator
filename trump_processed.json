@@ -1236,7 +1236,13 @@
     "https://www.trumpstruth.org/statuses/41094",
     "fp:Americans Stop Paying the World’s Pharmacy Tab as Prices Fall Hardest Since 1963: \nhttps://amac.us/newsline/americans-stop-paying-the-worlds-pharmacy-",
     "truth:117134653874219621",
-    "https://www.trumpstruth.org/statuses/41095"
+    "https://www.trumpstruth.org/statuses/41095",
+    "fp:Trump to nominate Dr Heidi Overton as next FDA commissioner: \nhttps://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
+    "truth:117134655888333194",
+    "https://www.trumpstruth.org/statuses/41093",
+    "fp:Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: \nhttps://www.foxbusiness.com/economy/treasury-department",
+    "truth:117134647345137602",
+    "https://www.trumpstruth.org/statuses/41102"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -10358,20 +10364,22 @@
       "next_retry_at": "2026-08-22T05:20:56.936986Z"
     },
     "truth:117134647345137602": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41102",
       "source_text": "<p>Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: <a href=\"https://www.foxbusiness.com/economy/treasury-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/economy/treasu</span><span class=\"invisible\">ry-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns</span></a></p>",
       "published": "Fri, 21 Aug 2026 17:21:15 +0000",
       "retry_count": 4,
-      "updated_at": "2026-08-21T23:40:56.799137Z",
+      "updated_at": "2026-08-22T00:26:02.822890Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41102",
       "first_seen": "2026-08-21T19:56:21.332378Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: \nhttps://www.foxbusiness.com/economy/treasury-department",
-      "next_retry_at": "2026-08-22T00:20:56.799169Z",
-      "truth_social_id": "117134647345137602"
+      "truth_social_id": "117134647345137602",
+      "source_fingerprint": "fp:Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: \nhttps://www.foxbusiness.com/economy/treasury-department",
+      "media_identity": "attachment:117134647345137602:",
+      "translation": "財務省がトランプ口座からESG投信を排除、「政治活動」への懸念を理由に挙げる：\nhttps://www.foxbusiness.com/economy/treasury-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns"
     },
     "truth:117134650935728888": {
       "post_status": "POSTED",
@@ -10545,7 +10553,7 @@
       ]
     },
     "truth:117134655888333194": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41093",
       "source_text": "<p>Trump to nominate Dr Heidi Overton as next FDA commissioner: <a href=\"https://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-nom</span><span class=\"invisible\">inate-dr-heidi-overton-next-fda-commissioner</span></a></p>",
@@ -10555,111 +10563,12 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41093",
       "first_seen": "2026-08-21T19:56:55.248438Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:Trump to nominate Dr Heidi Overton as next FDA commissioner: \nhttps://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
       "truth_social_id": "117134655888333194",
       "source_fingerprint": "fp:Trump to nominate Dr Heidi Overton as next FDA commissioner: \nhttps://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
       "media_identity": "attachment:117134655888333194:",
       "translation": "トランプ大統領、ハイディ・オーバートン医学博士をFDA長官候補として指名へ：\nhttps://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbmitdf22h",
-          "cid": "bafyreib4qq6dfa5vy4vtjbx432yuhnpzvasuzqvuw67rjbnjoj22gi7u4u"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbmitdf22h",
-          "cid": "bafyreib4qq6dfa5vy4vtjbx432yuhnpzvasuzqvuw67rjbnjoj22gi7u4u"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtmbmitdf22h",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプ大統領、ハイディ・オーバートン医学博士をFDA長官候補として指名へ：\nhttps://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
-          "createdAt": "2026-08-22T00:20:47.589127Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 109,
-                "byteEnd": 195
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
-              "title": "Trump to nominate Dr Heidi Overton as next FDA commissioner",
-              "description": "Dr. Heidi Overton is President Donald Trump's pick to lead the Food and Drug Administration after Marty Makary resigned from the role in May following criticism from various White House officials.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibhe5d6jwr4cpm7oi3mtpbowkthtnrkdza7rhyuyqgoloydyiuu7m"
-                },
-                "mimeType": "image/jpeg",
-                "size": 202099
-              }
-            }
-          }
-        },
-        "root_rkey": "3mtmbmitdf22h",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプ大統領、ハイディ・オーバートン医学博士をFDA長官候補として指名へ：\nhttps://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
-          "createdAt": "2026-08-22T00:20:47.589127Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 109,
-                "byteEnd": 195
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
-              "title": "Trump to nominate Dr Heidi Overton as next FDA commissioner",
-              "description": "Dr. Heidi Overton is President Donald Trump's pick to lead the Food and Drug Administration after Marty Makary resigned from the role in May following criticism from various White House officials.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibhe5d6jwr4cpm7oi3mtpbowkthtnrkdza7rhyuyqgoloydyiuu7m"
-                },
-                "mimeType": "image/jpeg",
-                "size": 202099
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbmitdf22h",
-            "rkey": "3mtmbmitdf22h"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbmitdf22h",
       "expected_embed": "none",
       "expected_images": 0,
@@ -10709,9 +10618,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbmitdf22h",
           "rkey": "3mtmbmitdf22h"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-22T00:25:54.395276Z"
+      ]
     },
     "truth:117134600943313462": {
       "post_status": "POSTED",
@@ -11361,7 +11268,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T00:20:41.491103Z"
+      "updated_at": "2026-08-22T00:25:43.424131Z"
     },
     "truth:117135555611644462": {
       "post_status": "DISCOVERED",
@@ -11393,7 +11300,7 @@
       "updated_at": "2026-08-21T22:20:38.525397Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
     },
-    "truth:117135361970854867": {
+    "url:https://www.trumpstruth.org/statuses/41108": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41108",
