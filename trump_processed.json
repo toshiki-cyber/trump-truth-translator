@@ -1270,7 +1270,12 @@
     "https://www.trumpstruth.org/statuses/41109",
     "fp:https://www.bloomberg.com/news/articles/2026-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022",
     "truth:117135555611644462",
-    "https://www.trumpstruth.org/statuses/41111"
+    "https://www.trumpstruth.org/statuses/41111",
+    "fp:Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the Un",
+    "truth:117134908401668938",
+    "https://www.trumpstruth.org/statuses/41106",
+    "truth:117135789576192806",
+    "https://www.trumpstruth.org/statuses/41115"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -11484,35 +11489,46 @@
       "status_url": "https://www.trumpstruth.org/statuses/41110",
       "source_text": "<p>EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: <a href=\"https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/exclusive</span><span class=\"invisible\">-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis</span></a></p>",
       "published": "Fri, 21 Aug 2026 21:13:13 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T01:45:45.092680Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-22T02:00:59.635261Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41110",
       "first_seen": "2026-08-22T01:45:45.092646Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: \nhttps://www.foxnews.com/politics/exclusive-fentanyl",
-      "next_retry_at": "2026-08-22T01:50:45.092690Z",
+      "next_retry_at": "2026-08-22T02:10:59.635277Z",
       "truth_social_id": "117135559489217035"
     },
     "truth:117135789576192806": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41115",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 22:11:44 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T22:20:38.525439Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41115"
+      "updated_at": "2026-08-22T02:01:31.642660Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41115",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117135789576192806:503b424c3dc686b9.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117135789576192806",
+      "translation": ""
     },
     "truth:117135773042405247": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41112",
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-22T01:55:44.825083Z"
+      "retry_count": 1,
+      "updated_at": "2026-08-22T02:01:00.442508Z",
+      "first_seen": "2026-08-22T02:01:00.442473Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
+      "next_retry_at": "2026-08-22T02:06:00.442517Z",
+      "truth_social_id": "117135773042405247"
     },
     "truth:117135561220383573": {
       "post_status": "POSTED",
@@ -11641,7 +11657,7 @@
       ]
     },
     "truth:117134908401668938": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41106",
       "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
@@ -11651,47 +11667,12 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106",
       "first_seen": "2026-08-22T01:40:43.299082Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the Un",
       "truth_social_id": "117134908401668938",
       "source_fingerprint": "fp:Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the Un",
       "media_identity": "attachment:117134908401668938:",
       "translation": "エド・マーティンは最初からずっと私と一緒にいて、弁護士として、武器化作業部会の責任者として、そしてコロンビア特別区の合衆国弁護官として素晴らしい仕事をしてきた。エドは今、今後の中間選挙と2028年の大統領選挙のための法廷闘争に外部から取り組むために去る。彼は傑出した仕事をし、自由で公正で誠実な選挙を保証し、我々の憲法上の権利を力強く推し進めるだろうと確信している。頑張ってエド！ドナルド・J・トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmf7dezl2sm",
-          "cid": "bafyreie35b3gfigahwuc5sbb4e3updjf4uajb46yr26a4bvezy6jxghpwe"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmf7dezl2sm",
-          "cid": "bafyreie35b3gfigahwuc5sbb4e3updjf4uajb46yr26a4bvezy6jxghpwe"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtmf7dezl2sm",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "エド・マーティンは最初からずっと私と一緒にいて、弁護士として、武器化作業部会の責任者として、そしてコロンビア特別区の合衆国弁護官として素晴らしい仕事をしてきた。エドは今、今後の中間選挙と2028年の大統領選挙のための法廷闘争に外部から取り組むために去る。彼は傑出した仕事をし、自由で公正で誠実な選挙を保証し、我々の憲法上の権利を力強く推し進めるだろうと確信している。頑張ってエド！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-08-22T01:55:51.786204Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mtmf7dezl2sm",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "エド・マーティンは最初からずっと私と一緒にいて、弁護士として、武器化作業部会の責任者として、そしてコロンビア特別区の合衆国弁護官として素晴らしい仕事をしてきた。エドは今、今後の中間選挙と2028年の大統領選挙のための法廷闘争に外部から取り組むために去る。彼は傑出した仕事をし、自由で公正で誠実な選挙を保証し、我々の憲法上の権利を力強く推し進めるだろうと確信している。頑張ってエド！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-08-22T01:55:51.786204Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmf7dezl2sm",
-            "rkey": "3mtmf7dezl2sm"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmf7dezl2sm",
       "expected_embed": "none",
       "expected_images": 0,
@@ -11709,9 +11690,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmf7dezl2sm",
           "rkey": "3mtmf7dezl2sm"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-22T02:00:58.327330Z"
+      ]
     },
     "truth:117136610993218864": {
       "post_status": "DISCOVERED",
@@ -11723,18 +11702,18 @@
       "updated_at": "2026-08-22T01:45:43.695845Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41116"
     },
-    "truth:117135011934383556": {
+    "url:https://www.trumpstruth.org/statuses/41107": {
       "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
       "source_text": "<p>Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: <a href=\"https://nypost.com/2026/08/21/us-news/work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/us-news/</span><span class=\"invisible\">work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/</span></a></p>",
       "published": "Fri, 21 Aug 2026 18:53:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-22T01:50:57.807624Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-22T02:00:59.173251Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41107",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: \nhttps://nypost.com/2026/08/21/us-news/work-on-trump-",
-      "next_retry_at": "2026-08-22T02:00:57.807640Z"
+      "next_retry_at": "2026-08-22T02:20:59.173267Z"
     }
   }
 }
