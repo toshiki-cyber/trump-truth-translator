@@ -1262,7 +1262,10 @@
     "https://www.trumpstruth.org/statuses/41091",
     "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
     "truth:117134659039628490",
-    "https://www.trumpstruth.org/statuses/41086"
+    "https://www.trumpstruth.org/statuses/41086",
+    "fp:Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good",
+    "truth:117134845877719345",
+    "https://www.trumpstruth.org/statuses/41105"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -11055,126 +11058,20 @@
       "translation": "判事がトランプ政権によるエチオピア人数千人の強制送還保護終了を認める：\nhttps://www.cnn.com/2026/08/18/politics/judge-allows-trump-administration-to-end-tps-ethiopians"
     },
     "truth:117134845877719345": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41105",
       "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
       "published": "Fri, 21 Aug 2026 18:11:45 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-22T01:26:15.749265Z",
+      "updated_at": "2026-08-22T01:35:49.514020Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41105",
       "source_fingerprint": "fp:Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good",
       "media_identity": "attachment:117134845877719345:69233eeb055baa10.jpg,9878c08e19871c79.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good",
       "truth_social_id": "117134845877719345",
-      "failure_stage": "VERIFY",
       "translation": "セバスチャン・ゴルカ博士：「ISISに拘束されたキリスト教宣教師のケビン・ライドアウトが妻と再会した。下記の写真を参照。彼は非常に元気そうで、トランプ大統領にどれほど感謝しているかを言い続けている。（彼は帰宅することが分かった時、頭の中で『アメリカ人であることを誇りに思う』という歌を歌い続けていたと話していた。」",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmecvjzv2vo",
-          "cid": "bafyreig2fohr724r2zgdov7j74leml3ukzmpbbyhf64mitka2y5h7cb7aq"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmecvjzv2vo",
-          "cid": "bafyreig2fohr724r2zgdov7j74leml3ukzmpbbyhf64mitka2y5h7cb7aq"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtmecvjzv2vo",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "セバスチャン・ゴルカ博士：「ISISに拘束されたキリスト教宣教師のケビン・ライドアウトが妻と再会した。下記の写真を参照。彼は非常に元気そうで、トランプ大統領にどれほど感謝しているかを言い続けている。（彼は帰宅することが分かった時、頭の中で『アメリカ人であることを誇りに思う』という歌を歌い続けていたと話していた。」",
-          "createdAt": "2026-08-22T01:26:08.760479Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreiggdcvgv54lswc5ufapdbzqopzgazzxfl4vfj6v6kavvi4k4l7awu"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 161715
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 980,
-                  "height": 653
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie42mtsp3sibrxd247r5nyzw3ys2o6l554v4hwdyj6hxm7zl7vpcy"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 181459
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 877,
-                  "height": 1170
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mtmecvjzv2vo",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "セバスチャン・ゴルカ博士：「ISISに拘束されたキリスト教宣教師のケビン・ライドアウトが妻と再会した。下記の写真を参照。彼は非常に元気そうで、トランプ大統領にどれほど感謝しているかを言い続けている。（彼は帰宅することが分かった時、頭の中で『アメリカ人であることを誇りに思う』という歌を歌い続けていたと話していた。」",
-          "createdAt": "2026-08-22T01:26:08.760479Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreiggdcvgv54lswc5ufapdbzqopzgazzxfl4vfj6v6kavvi4k4l7awu"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 161715
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 980,
-                  "height": 653
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie42mtsp3sibrxd247r5nyzw3ys2o6l554v4hwdyj6hxm7zl7vpcy"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 181459
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 877,
-                  "height": 1170
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmecvjzv2vo",
-            "rkey": "3mtmecvjzv2vo"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmecvjzv2vo",
       "expected_embed": "images",
       "expected_images": 2,
@@ -11227,8 +11124,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmecvjzv2vo",
           "rkey": "3mtmecvjzv2vo"
         }
-      ],
-      "next_retry_at": "2026-08-22T01:31:15.749278Z"
+      ]
     },
     "truth:117134656767200357": {
       "post_status": "POSTED",
@@ -11605,7 +11501,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T01:30:43.802433Z"
+      "updated_at": "2026-08-22T01:35:40.782879Z"
     },
     "truth:117135561220383573": {
       "post_status": "DISCOVERED",
