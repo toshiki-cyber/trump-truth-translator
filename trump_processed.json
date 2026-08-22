@@ -10342,14 +10342,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41058",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:29:29 +0000",
-      "retry_count": 6,
-      "updated_at": "2026-08-21T21:15:45.284503Z",
+      "retry_count": 7,
+      "updated_at": "2026-08-22T00:00:56.936972Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41058",
       "source_fingerprint": null,
       "media_identity": "attachment:117134443801937584:b30cc3598f626ad0.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/443/570/563/785/original/b30cc3598f626ad0.mp4",
       "truth_social_id": "117134443801937584",
-      "next_retry_at": "2026-08-21T23:55:45.284518Z"
+      "next_retry_at": "2026-08-22T05:20:56.936986Z"
     },
     "truth:117134647345137602": {
       "post_status": "RETRY",
@@ -11100,16 +11100,6 @@
         }
       ]
     },
-    "truth:117135361970854867": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41108",
-      "source_text": "<p>We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 20:23:00 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T20:25:40.596990Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41108"
-    },
     "truth:117135559489217035": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -11158,7 +11148,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T23:55:38.392949Z"
+      "updated_at": "2026-08-22T00:00:39.349154Z"
     },
     "truth:117135555611644462": {
       "post_status": "DISCOVERED",
@@ -11189,6 +11179,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T22:20:38.525397Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
+    },
+    "url:https://www.trumpstruth.org/statuses/41108": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41108",
+      "source_text": "<p>We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 20:23:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T20:25:40.596990Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41108"
     }
   }
 }
