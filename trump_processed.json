@@ -1275,7 +1275,10 @@
     "truth:117134908401668938",
     "https://www.trumpstruth.org/statuses/41106",
     "truth:117135789576192806",
-    "https://www.trumpstruth.org/statuses/41115"
+    "https://www.trumpstruth.org/statuses/41115",
+    "fp:We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White Ho",
+    "truth:117135361970854867",
+    "https://www.trumpstruth.org/statuses/41108"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -11516,13 +11519,13 @@
     },
     "truth:117135773042405247": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41112",
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T02:01:00.442508Z",
+      "retry_count": 0,
+      "updated_at": "2026-08-22T02:05:42.712262Z",
       "first_seen": "2026-08-22T02:01:00.442473Z",
       "no_media_confirmations": 1,
       "failure_reason": "メディアなしの確認猶予中",
@@ -11556,20 +11559,22 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
     },
     "truth:117135361970854867": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41108",
       "source_text": "<p>We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 20:23:00 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-22T01:50:59.556698Z",
+      "updated_at": "2026-08-22T02:05:50.604531Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41108",
       "first_seen": "2026-08-22T01:41:02.751309Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White Ho",
-      "next_retry_at": "2026-08-22T02:00:59.556714Z",
-      "truth_social_id": "117135361970854867"
+      "truth_social_id": "117135361970854867",
+      "source_fingerprint": "fp:We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White Ho",
+      "media_identity": "attachment:117135361970854867:",
+      "translation": "米国最高裁判所の決定に感謝する。国家安全保障にとって極めて重要な、ホワイトハウスの神聖な敷地に建設中の軍事・舞踏会施設は、その種のものとしては最高のものになるだろう！これは150年間、大統領たちが望んできたものであり、過去100年間、軍部が求めてきたものである。彼らの願いはまもなく叶えられる！建設は予算内で、予定より前倒しで進行している。この件への注目に感謝する！大統領ドナルド・J・トランプ"
     },
     "truth:117135555611644462": {
       "post_status": "POSTED",
@@ -11702,7 +11707,7 @@
       "updated_at": "2026-08-22T01:45:43.695845Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41116"
     },
-    "url:https://www.trumpstruth.org/statuses/41107": {
+    "truth:117135011934383556": {
       "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
