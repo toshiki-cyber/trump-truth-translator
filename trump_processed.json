@@ -11997,19 +11997,19 @@
       "translation": "ホワイトハウスの敷地内に建設されている壮大なバルルーム/ミリタリー・コンプレックスについて素晴らしい進展があった！150年間、歴代大統領が望んでいたことであり、誰もが望んでいたことだ。これはホワイトハウスと首都ワシントン全体に大きな国家安全保障をもたらすことになる。本プロジェクトは予算内に収まっており、スケジュールより前倒しで進んでいる！バルルームは納税者の金を1ドルもかけずに建設される。素晴らしいアメリカの愛国者と企業が全額負担している。ドナルド・J・トランプ大統領"
     },
     "truth:117140908995401671": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41120",
       "source_text": "<p></p>",
       "published": "Sat, 22 Aug 2026 19:53:40 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-22T21:35:58.970654Z",
+      "retry_count": 6,
+      "updated_at": "2026-08-22T23:00:44.019494Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41120",
       "source_fingerprint": null,
       "media_identity": "attachment:117140908995401671:c75d5d99a3b76703.mp4",
-      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/140/907/930/296/893/original/c75d5d99a3b76703.mp4",
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/140/907/930/296/893/original/c75d5d99a3b76703.mp4",
       "truth_social_id": "117140908995401671",
-      "next_retry_at": "2026-08-22T22:55:58.970671Z"
+      "next_retry_at": "2026-08-23T01:40:44.019508Z"
     },
     "truth:117141031402175912": {
       "post_status": "POSTED",
