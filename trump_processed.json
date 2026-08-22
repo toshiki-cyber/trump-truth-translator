@@ -10529,20 +10529,125 @@
       "truth_social_id": "117134659039628490"
     },
     "truth:116946842010916767": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41091",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@Schoenlaw\">@<span>Schoenlaw</span></a></span>Our President gave Iran every possible chance to finally reform its conduct, give up its role as the no. 1 sponsor of global terrorism and join with productive nations.  He warned them of the consequences of continuing on their lawless barbaric path.  But their “leaders” know only lawless terrorist behavior and now our President is delivering on his warnings.  That is how true Statesmanship operates!!! <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span></p>",
       "published": "Fri, 21 Aug 2026 17:28:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T20:16:23.246250Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-22T01:11:00.653144Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41091",
       "first_seen": "2026-08-21T19:56:57.170687Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:RT \nhttps://truthsocial.com/@SchoenlawOur President gave Iran every possible chance to finally reform its conduct, give up its role as the no. 1 spons",
-      "next_retry_at": "2026-08-21T20:26:23.246270Z",
-      "truth_social_id": "116946842010916767"
+      "truth_social_id": "116946842010916767",
+      "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@SchoenlawOur President gave Iran every possible chance to finally reform its conduct, give up its role as the no. 1 spons",
+      "media_identity": "attachment:116946842010916767:",
+      "translation": "大統領はイランに改心し、世界テロの最大スポンサーとしての役割を放棄し、生産的な国々に加わるあらゆる可能性を与えた。違法で野蛮な道を進み続けることの結果について警告を発した。しかし彼らの「指導者」は違法なテロ行為しか知らず、今や我々の大統領は彼の警告を実行に移している。これが真の政治家的手腕というものだ！！！\nhttps://truthsocial.com/@realDonaldTrump",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mqyumn7g2kgr",
+          "cid": "bafyreic4hlq3yky6pd5ltmngwvvei6edxwg365vgsfisg343ejcyp4nuwa"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mqyumn7g2kgr",
+          "cid": "bafyreic4hlq3yky6pd5ltmngwvvei6edxwg365vgsfisg343ejcyp4nuwa"
+        },
+        "next_index": 1,
+        "last_rkey": "3mqyumn7g2kgr",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "大統領はイランに改心し、世界テロの最大スポンサーとしての役割を放棄し、生産的な国々に加わるあらゆる可能性を与えた。違法で野蛮な道を進み続けることの結果について警告を発した。しかし彼らの「指導者」は違法なテロ行為しか知らず、今や我々の大統領は彼の警告を実行に移している。これが真の政治家的手腕というものだ！！！\nhttps://truthsocial.com/@realDonaldTrump",
+          "createdAt": "2026-08-22T01:10:54.209217Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 463,
+                "byteEnd": 503
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truthsocial.com/@realDonaldTrump"
+                }
+              ]
+            }
+          ]
+        },
+        "root_rkey": "3mqyumn7g2kgr",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "大統領はイランに改心し、世界テロの最大スポンサーとしての役割を放棄し、生産的な国々に加わるあらゆる可能性を与えた。違法で野蛮な道を進み続けることの結果について警告を発した。しかし彼らの「指導者」は違法なテロ行為しか知らず、今や我々の大統領は彼の警告を実行に移している。これが真の政治家的手腕というものだ！！！\nhttps://truthsocial.com/@realDonaldTrump",
+          "createdAt": "2026-08-22T01:10:54.209217Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 463,
+                "byteEnd": 503
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truthsocial.com/@realDonaldTrump"
+                }
+              ]
+            }
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mqyumn7g2kgr",
+            "rkey": "3mqyumn7g2kgr"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mqyumn7g2kgr",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mqyumn7g2kgr",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "大統領はイランに改心し、世界テロの最大スポンサーとしての役割を放棄し、生産的な国々に加わるあらゆる可能性を与えた。違法で野蛮な道を進み続けることの結果について警告を発した。しかし彼らの「指導者」は違法なテロ行為しか知らず、今や我々の大統領は彼の警告を実行に移している。これが真の政治家的手腕というものだ！！！\nhttps://truthsocial.com/@realDonaldTrump",
+        "createdAt": "2026-08-22T01:10:54.209217Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 463,
+              "byteEnd": 503
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truthsocial.com/@realDonaldTrump"
+              }
+            ]
+          }
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mqyumn7g2kgr",
+          "rkey": "3mqyumn7g2kgr"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-22T01:16:00.653159Z"
     },
     "truth:117134443801937584": {
       "post_status": "RETRY",
@@ -11500,7 +11605,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T01:05:48.091569Z"
+      "updated_at": "2026-08-22T01:10:44.835590Z"
     },
     "truth:117135561220383573": {
       "post_status": "DISCOVERED",
@@ -11552,7 +11657,7 @@
       "updated_at": "2026-08-21T18:30:43.127310Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     },
-    "url:https://www.trumpstruth.org/statuses/41107": {
+    "truth:117135011934383556": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
