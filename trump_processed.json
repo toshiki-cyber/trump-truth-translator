@@ -9963,21 +9963,225 @@
       "translation": "トランプ：米国はホルムズ海峡を完全に支配している：\nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/"
     },
     "truth:117134587500534715": {
-      "post_status": "RETRY",
+      "post_status": "POST_VERIFY_PENDING",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41070",
       "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
       "published": "Fri, 21 Aug 2026 17:06:02 +0000",
-      "retry_count": 7,
-      "updated_at": "2026-08-22T01:01:00.068912Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-22T06:25:55.563729Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41070",
       "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "media_identity": "attachment:117134587500534715:86bdc5e51c2eade4.jpg,8de4e43afdea780f.jpg,8e36b7a97d4814f3.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/134/587/071/582/391/small/8de4e43afdea780f.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
       "truth_social_id": "117134587500534715",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-22T06:21:00.068928Z"
+      "failure_stage": "VERIFY",
+      "translation": "内務省のグレッグ・ウィッシャーから：「また別の噴水が修理されました！国立公園局がベンジャミン・バナカー公園の噴水を修復しました。この公園は18世紀の天文学者、数学者、測量士であるバナカーの名にちなんでいます。自由身分のアフリカ系アメリカ人だったバナカーは、新しい連邦首都ワシントンD.C.の境界線の測量を支援しました。この公園はDC南西部のザ・ワーフを見下ろしています。」",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmanfnrrcjb",
+          "cid": "bafyreih7uvinj2afwq24knht4lew34g2yuqhwsn5rqscfmjzlbuyhbuzg4"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmanfnrrcjb",
+          "cid": "bafyreih7uvinj2afwq24knht4lew34g2yuqhwsn5rqscfmjzlbuyhbuzg4"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtmanfnrrcjb",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "内務省のグレッグ・ウィッシャーから：「また別の噴水が修理されました！国立公園局がベンジャミン・バナカー公園の噴水を修復しました。この公園は18世紀の天文学者、数学者、測量士であるバナカーの名にちなんでいます。自由身分のアフリカ系アメリカ人だったバナカーは、新しい連邦首都ワシントンD.C.の境界線の測量を支援しました。この公園はDC南西部のザ・ワーフを見下ろしています。」",
+          "createdAt": "2026-08-22T06:25:48.756072Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreieyr5rcuzl6i45obihq7vrjmg4dbior4tzaaf32yvr4iwbk3plsl4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 289060
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1241,
+                  "height": 827
+                }
+              },
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibgn76qzlc3swzjmq7cs7pjh47cgv27se3ct7nrvpiza7jnpxafvi"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 193643
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1241,
+                  "height": 828
+                }
+              },
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreietuscmxaia424msmhhpykwkch6dn3pn7f6wgsk7blyxyjw66bwga"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 287341
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1241,
+                  "height": 827
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3mtmanfnrrcjb",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "内務省のグレッグ・ウィッシャーから：「また別の噴水が修理されました！国立公園局がベンジャミン・バナカー公園の噴水を修復しました。この公園は18世紀の天文学者、数学者、測量士であるバナカーの名にちなんでいます。自由身分のアフリカ系アメリカ人だったバナカーは、新しい連邦首都ワシントンD.C.の境界線の測量を支援しました。この公園はDC南西部のザ・ワーフを見下ろしています。」",
+          "createdAt": "2026-08-22T06:25:48.756072Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreieyr5rcuzl6i45obihq7vrjmg4dbior4tzaaf32yvr4iwbk3plsl4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 289060
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1241,
+                  "height": 827
+                }
+              },
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibgn76qzlc3swzjmq7cs7pjh47cgv27se3ct7nrvpiza7jnpxafvi"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 193643
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1241,
+                  "height": 828
+                }
+              },
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreietuscmxaia424msmhhpykwkch6dn3pn7f6wgsk7blyxyjw66bwga"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 287341
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1241,
+                  "height": 827
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmanfnrrcjb",
+            "rkey": "3mtmanfnrrcjb"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmanfnrrcjb",
+      "expected_embed": "images",
+      "expected_images": 3,
+      "root_rkey": "3mtmanfnrrcjb",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "内務省のグレッグ・ウィッシャーから：「また別の噴水が修理されました！国立公園局がベンジャミン・バナカー公園の噴水を修復しました。この公園は18世紀の天文学者、数学者、測量士であるバナカーの名にちなんでいます。自由身分のアフリカ系アメリカ人だったバナカーは、新しい連邦首都ワシントンD.C.の境界線の測量を支援しました。この公園はDC南西部のザ・ワーフを見下ろしています。」",
+        "createdAt": "2026-08-22T06:25:48.756072Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreieyr5rcuzl6i45obihq7vrjmg4dbior4tzaaf32yvr4iwbk3plsl4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 289060
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 827
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibgn76qzlc3swzjmq7cs7pjh47cgv27se3ct7nrvpiza7jnpxafvi"
+                },
+                "mimeType": "image/jpeg",
+                "size": 193643
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 828
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreietuscmxaia424msmhhpykwkch6dn3pn7f6wgsk7blyxyjw66bwga"
+                },
+                "mimeType": "image/jpeg",
+                "size": 287341
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 827
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmanfnrrcjb",
+          "rkey": "3mtmanfnrrcjb"
+        }
+      ],
+      "next_retry_at": "2026-08-22T06:30:55.563747Z"
     },
     "truth:117134434446472238": {
       "post_status": "POSTED",
