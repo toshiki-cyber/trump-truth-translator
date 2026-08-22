@@ -1278,7 +1278,10 @@
     "https://www.trumpstruth.org/statuses/41115",
     "fp:We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White Ho",
     "truth:117135361970854867",
-    "https://www.trumpstruth.org/statuses/41108"
+    "https://www.trumpstruth.org/statuses/41108",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806",
+    "truth:117135790192886203",
+    "https://www.trumpstruth.org/statuses/41114"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -11519,18 +11522,18 @@
     },
     "truth:117135773042405247": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41112",
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-22T02:05:42.712262Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-22T02:11:13.755017Z",
       "first_seen": "2026-08-22T02:01:00.442473Z",
       "no_media_confirmations": 1,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
-      "next_retry_at": "2026-08-22T02:06:00.442517Z",
+      "next_retry_at": "2026-08-22T02:16:13.755046Z",
       "truth_social_id": "117135773042405247"
     },
     "truth:117135561220383573": {
@@ -11549,14 +11552,20 @@
       "translation": ""
     },
     "truth:117135790192886203": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41114",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806</span></p>",
       "published": "Fri, 21 Aug 2026 22:11:54 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-21T22:20:38.525397Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
+      "updated_at": "2026-08-22T02:11:16.200022Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41114",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806",
+      "media_identity": "attachment:117135790192886203:5ba3f960bf3f3bef.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806",
+      "truth_social_id": "117135790192886203",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117135789576192806"
     },
     "truth:117135361970854867": {
       "post_status": "POSTED",
@@ -11707,7 +11716,7 @@
       "updated_at": "2026-08-22T01:45:43.695845Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41116"
     },
-    "truth:117135011934383556": {
+    "url:https://www.trumpstruth.org/statuses/41107": {
       "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41107",
