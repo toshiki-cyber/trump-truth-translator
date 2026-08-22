@@ -1245,7 +1245,9 @@
     "https://www.trumpstruth.org/statuses/41102",
     "fp:Trump Effect: Bessent Ends Tax Breaks for Illegals: \nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/",
     "truth:117134652986157363",
-    "https://www.trumpstruth.org/statuses/41096"
+    "https://www.trumpstruth.org/statuses/41096",
+    "truth:117134447318347925",
+    "https://www.trumpstruth.org/statuses/41055"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -9763,78 +9765,19 @@
       "translation": ""
     },
     "truth:117134447318347925": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "RETRY",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41055",
       "source_text": "<p></p>",
       "published": "Fri, 21 Aug 2026 16:30:23 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-22T00:31:38.023957Z",
+      "updated_at": "2026-08-22T00:40:46.149771Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41055",
       "source_fingerprint": null,
       "media_identity": "attachment:117134447318347925:857ba430d265ffa3.mp4",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"da4erlbhds4s73dn5t6g\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "truth_social_id": "117134447318347925",
       "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6nnqesszl",
-          "cid": "bafyreiduwstgo3s36yvzpltmrp4aelfsc62xeh2c5evoi6ynvtz4kwnwgy"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6nnqesszl",
-          "cid": "bafyreiduwstgo3s36yvzpltmrp4aelfsc62xeh2c5evoi6ynvtz4kwnwgy"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtm6nnqesszl",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-22T00:31:30.029408Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigo6euoycfacbut4c55dxlafirrtldyojw4xfkciof7tsp7pjoaby"
-              },
-              "mimeType": "video/mp4",
-              "size": 19754257
-            },
-            "alt": ""
-          }
-        },
-        "root_rkey": "3mtm6nnqesszl",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-22T00:31:30.029408Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigo6euoycfacbut4c55dxlafirrtldyojw4xfkciof7tsp7pjoaby"
-              },
-              "mimeType": "video/mp4",
-              "size": 19754257
-            },
-            "alt": ""
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6nnqesszl",
-            "rkey": "3mtm6nnqesszl"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6nnqesszl",
       "expected_embed": "video",
       "expected_images": 0,
@@ -9865,8 +9808,8 @@
           "rkey": "3mtm6nnqesszl"
         }
       ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-22T00:36:38.023972Z"
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-22T00:45:46.149790Z"
     },
     "truth:117134450446438705": {
       "post_status": "POSTED",
@@ -11354,7 +11297,7 @@
       "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
       "published": "Fri, 21 Aug 2026 22:07:32 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T00:35:38.775973Z"
+      "updated_at": "2026-08-22T00:40:38.585563Z"
     },
     "truth:117135561220383573": {
       "post_status": "DISCOVERED",
@@ -11376,16 +11319,6 @@
       "updated_at": "2026-08-21T22:20:38.525397Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41114"
     },
-    "url:https://www.trumpstruth.org/statuses/41106": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41106",
-      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:30:43.127310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
-    },
     "truth:117135361970854867": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -11405,6 +11338,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-21T21:20:43.850828Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41111"
+    },
+    "truth:117134908401668938": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41106",
+      "source_text": "<p>Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP</p>",
+      "published": "Fri, 21 Aug 2026 18:27:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-21T18:30:43.127310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41106"
     }
   }
 }
