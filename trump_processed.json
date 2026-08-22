@@ -11789,8 +11789,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41117",
       "source_text": "<p>Today we brought another American home! Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave Americans behind, unlike Sleepy Joe and Obama, because we are America First. Today I invited Kevin, his lovely wife, father and beautiful children, to the White House to see the Oval Office, and meet our dedicated hostage recovery team. Welcome back home Kevin — It was an Honor to help you! President DONALD J. TRUMP</p>",
       "published": "Sat, 22 Aug 2026 02:15:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T02:35:46.566710Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-22T02:45:59.163274Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41117",
       "source_fingerprint": "fp:Today we brought another American home! Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave",
       "media_identity": "attachment:117136747897665850:7577478a144b278e.jpg,b8f56df9600da5a5.jpg",
@@ -11798,7 +11798,7 @@
       "fingerprint": "fp:Today we brought another American home! Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave",
       "truth_social_id": "117136747897665850",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-22T02:40:46.566726Z"
+      "next_retry_at": "2026-08-22T02:55:59.163291Z"
     },
     "truth:117135011934383556": {
       "post_status": "RETRY",
