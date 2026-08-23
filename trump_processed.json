@@ -12206,14 +12206,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41131",
       "source_text": "<p></p>",
       "published": "Sun, 23 Aug 2026 13:10:47 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-23T14:50:37.662107Z",
+      "retry_count": 6,
+      "updated_at": "2026-08-23T16:15:34.199447Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41131",
       "source_fingerprint": null,
       "media_identity": "attachment:117144987049568805:15fdb7897866a317.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/144/880/845/180/566/original/15fdb7897866a317.mp4",
       "truth_social_id": "117144987049568805",
-      "next_retry_at": "2026-08-23T16:10:37.662121Z"
+      "next_retry_at": "2026-08-23T18:55:34.199463Z"
     }
   }
 }
