@@ -12167,8 +12167,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41128",
       "source_text": "<p>Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT</p>",
       "published": "Sun, 23 Aug 2026 05:06:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-23T05:40:54.713536Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-23T05:55:54.569474Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41128",
       "first_seen": "2026-08-23T05:10:44.713480Z",
       "no_media_confirmations": 3,
@@ -12232,7 +12232,7 @@
         }
       ],
       "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-23T05:50:54.713565Z"
+      "next_retry_at": "2026-08-23T06:15:54.569498Z"
     }
   }
 }
