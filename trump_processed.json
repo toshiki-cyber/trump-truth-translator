@@ -1320,7 +1320,10 @@
     "https://www.trumpstruth.org/statuses/41125",
     "fp:Mark Levin: These blue states are sabotaging you: \nhttps://www.foxnews.com/video/6403896376112",
     "truth:117142893735691144",
-    "https://www.trumpstruth.org/statuses/41127"
+    "https://www.trumpstruth.org/statuses/41127",
+    "fp:Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs.",
+    "truth:117143083340259038",
+    "https://www.trumpstruth.org/statuses/41128"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12162,57 +12165,22 @@
       "translation": "マーク・レヴィン：これらのブルーステートがお前さんを妨害している：\nhttps://www.foxnews.com/video/6403896376112"
     },
     "truth:117143083340259038": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41128",
       "source_text": "<p>Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT</p>",
       "published": "Sun, 23 Aug 2026 05:06:38 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-23T05:55:54.569474Z",
+      "updated_at": "2026-08-23T06:20:41.881025Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41128",
       "first_seen": "2026-08-23T05:10:44.713480Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
       "fingerprint": "fp:Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs.",
       "truth_social_id": "117143083340259038",
       "source_fingerprint": "fp:Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs.",
       "media_identity": "attachment:117143083340259038:",
       "translation": "カナダは州の利益を享受したいが、州になることは望まないという状況だ！！！彼らは長年にわたって我々の優秀な農民に対して莫大な関税を課してきた。もうそれで終わりだ！！！大統領DJT",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtpzeufgpsbv",
-          "cid": "bafyreiahd4fj5vtu5lu54kxrabq6w465cd6rolzl4f4rneajba6ccfe77u"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtpzeufgpsbv",
-          "cid": "bafyreiahd4fj5vtu5lu54kxrabq6w465cd6rolzl4f4rneajba6ccfe77u"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtpzeufgpsbv",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "カナダは州の利益を享受したいが、州になることは望まないという状況だ！！！彼らは長年にわたって我々の優秀な農民に対して莫大な関税を課してきた。もうそれで終わりだ！！！大統領DJT",
-          "createdAt": "2026-08-23T05:30:41.697885Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mtpzeufgpsbv",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "カナダは州の利益を享受したいが、州になることは望まないという状況だ！！！彼らは長年にわたって我々の優秀な農民に対して莫大な関税を課してきた。もうそれで終わりだ！！！大統領DJT",
-          "createdAt": "2026-08-23T05:30:41.697885Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtpzeufgpsbv",
-            "rkey": "3mtpzeufgpsbv"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtpzeufgpsbv",
       "expected_embed": "none",
       "expected_images": 0,
@@ -12230,9 +12198,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtpzeufgpsbv",
           "rkey": "3mtpzeufgpsbv"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-23T06:15:54.569498Z"
+      ]
     }
   }
 }
