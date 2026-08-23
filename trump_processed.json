@@ -12131,14 +12131,14 @@
       "next_retry_at": "2026-08-22T22:20:45.911729Z"
     },
     "truth:117141444922153076": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41125",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117141444139360871</span></p>",
-      "published": "Sat, 22 Aug 2026 22:09:58 +0000",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41130",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span></p>",
+      "published": "Sun, 23 Aug 2026 13:11:03 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-22T22:20:42.982114Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41125",
+      "updated_at": "2026-08-23T13:20:36.848546Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41130",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117141444139360871",
       "media_identity": "attachment:117141444922153076:311de213ed577dba.png",
       "failure_reason": null,
@@ -12199,6 +12199,31 @@
           "rkey": "3mtpzeufgpsbv"
         }
       ]
+    },
+    "truth:117144987049568805": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41131",
+      "source_text": "<p></p>",
+      "published": "Sun, 23 Aug 2026 13:10:47 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-23T13:20:52.872069Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41131",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117144987049568805:15fdb7897866a317.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/144/880/845/180/566/original/15fdb7897866a317.mp4",
+      "truth_social_id": "117144987049568805",
+      "next_retry_at": "2026-08-23T13:25:52.872088Z"
+    },
+    "url:https://www.trumpstruth.org/statuses/41129": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41129",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT</p>",
+      "published": "Sun, 23 Aug 2026 13:11:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-23T13:20:36.848501Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41129"
     }
   }
 }
