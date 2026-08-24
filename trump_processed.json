@@ -1357,7 +1357,10 @@
     "https://www.trumpstruth.org/statuses/41142",
     "fp:Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive': \nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/126706",
     "truth:117148614817419837",
-    "https://www.trumpstruth.org/statuses/41143"
+    "https://www.trumpstruth.org/statuses/41143",
+    "fp:Mark Levin just laid it out clearly.\nTrump is cutting and reviewing regulations to restore American energy independence, put more money in people’s pa",
+    "truth:117144256940071915",
+    "https://www.trumpstruth.org/statuses/41148"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12656,20 +12659,22 @@
       "translation": "中間選挙での民主党の大失態：\nhttps://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true"
     },
     "truth:117144256940071915": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41149",
       "source_text": "<p>Mark Levin just laid it out clearly.<br />Trump is cutting and reviewing regulations to restore American energy independence, put more money in people’s paychecks, and make homeownership attainable again — while still looking out for the environment and American workers.<br />Blue-state governors are sabotaging that progress every chance they get.<br />Democrats claim “he’s not focused on affordability.” He’s all about affordability. They’re just furious he’s delivering it.<br />Stop listening to the liberal media and your blue-state governors. Do your own research. The Democrats have been the reason we can’t have nice things.</p>",
       "published": "Sun, 23 Aug 2026 10:05:06 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-24T05:40:36.743129Z",
+      "updated_at": "2026-08-24T05:45:44.995106Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41148",
       "first_seen": "2026-08-24T05:30:37.730584Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Mark Levin just laid it out clearly.\nTrump is cutting and reviewing regulations to restore American energy independence, put more money in people’s pa",
-      "next_retry_at": "2026-08-24T05:40:39.979472Z",
-      "truth_social_id": "117144256940071915"
+      "truth_social_id": "117144256940071915",
+      "source_fingerprint": "fp:Mark Levin just laid it out clearly.\nTrump is cutting and reviewing regulations to restore American energy independence, put more money in people’s pa",
+      "media_identity": "attachment:117144256940071915:",
+      "translation": "マーク・レヴィンが明確に説明した。\nトランプは規制を削減・見直して、アメリカのエネルギー独立を回復し、国民の給与を増やし、住宅購入を再び手の届くものにしている。同時に環境とアメリカの労働者にも目を配っている。\n青州の知事たちはあらゆる機会を使ってその進展を妨害している。\n民主党は「彼は物価対策に重点を置いていない」と主張している。彼は物価対策に全力を注いでいる。奴らが怒っているのは、彼がそれを実現しているからだ。\nリベラルメディアと青州の知事たちの話を聞くのをやめろ。自分で調べろ。民主党は我々が良いものを手にできない理由なのだ。"
     },
     "truth:117148818788198933": {
       "post_status": "RETRY",
