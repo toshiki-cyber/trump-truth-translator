@@ -1411,7 +1411,10 @@
     "https://www.trumpstruth.org/statuses/41173",
     "fp:Dick Morris: Trump Wins Big Majorities on All Key Issues: \nhttps://www.newsmax.com/morris/dick-morris-donald-trump-key/2026/06/13/id/1259550/",
     "truth:117151537334045486",
-    "https://www.trumpstruth.org/statuses/41171"
+    "https://www.trumpstruth.org/statuses/41171",
+    "fp:What our spies cut out of the China file: \nhttps://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/",
+    "truth:117151540731400189",
+    "https://www.trumpstruth.org/statuses/41168"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -13551,31 +13554,33 @@
       "status_url": "https://www.trumpstruth.org/statuses/41169",
       "source_text": "<p>Trump’s Patience With the Iranian Regime Runs Out: <a href=\"https://amgreatness.com/2026/07/10/trumps-patience-with-the-iranian-regime-runs-out/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amgreatness.com/2026/07/10/tru</span><span class=\"invisible\">mps-patience-with-the-iranian-regime-runs-out/</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:57:13 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-24T17:20:37.442949Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-24T18:05:38.197089Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41169",
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trump’s Patience With the Iranian Regime Runs Out: \nhttps://amgreatness.com/2026/07/10/trumps-patience-with-the-iranian-regime-runs-out/",
-      "next_retry_at": "2026-08-24T17:30:37.442959Z",
+      "next_retry_at": "2026-08-24T18:25:38.197106Z",
       "truth_social_id": "117151539756508748",
       "first_seen": "2026-08-24T17:20:37.442909Z",
-      "no_media_confirmations": 1
+      "no_media_confirmations": 2
     },
     "truth:117151540731400189": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41168",
       "source_text": "<p>What our spies cut out of the China file: <a href=\"https://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/magazin</span><span class=\"invisible\">e-features/4685521/what-us-spies-cut-china-file-2020/</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:57:28 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-24T17:20:38.043195Z",
+      "updated_at": "2026-08-24T18:05:41.322448Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41168",
       "first_seen": "2026-08-24T17:10:53.974746Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:What our spies cut out of the China file: \nhttps://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/",
-      "next_retry_at": "2026-08-24T17:30:38.043211Z",
-      "truth_social_id": "117151540731400189"
+      "truth_social_id": "117151540731400189",
+      "source_fingerprint": "fp:What our spies cut out of the China file: \nhttps://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/",
+      "media_identity": "attachment:117151540731400189:",
+      "translation": "我々のスパイが中国ファイルから削除したもの：\nhttps://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/"
     },
     "truth:117151541955428414": {
       "post_status": "RETRY",
