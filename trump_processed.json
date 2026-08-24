@@ -13100,14 +13100,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41166",
       "source_text": "<p></p>",
       "published": "Mon, 24 Aug 2026 16:59:11 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:56.783601Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:20:41.505686Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41166",
       "source_fingerprint": null,
       "media_identity": "attachment:117151547486235112:13cf196c4badaea4.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/151/543/570/149/255/original/13cf196c4badaea4.mp4",
       "truth_social_id": "117151547486235112",
-      "next_retry_at": "2026-08-24T17:15:56.783619Z"
+      "next_retry_at": "2026-08-24T17:30:41.505707Z"
     },
     "truth:117151548188083547": {
       "post_status": "POSTED",
@@ -13251,13 +13251,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41169",
       "source_text": "<p>Trump’s Patience With the Iranian Regime Runs Out: <a href=\"https://amgreatness.com/2026/07/10/trumps-patience-with-the-iranian-regime-runs-out/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amgreatness.com/2026/07/10/tru</span><span class=\"invisible\">mps-patience-with-the-iranian-regime-runs-out/</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:57:13 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:53.414354Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:20:37.442949Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41169",
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trump’s Patience With the Iranian Regime Runs Out: \nhttps://amgreatness.com/2026/07/10/trumps-patience-with-the-iranian-regime-runs-out/",
-      "next_retry_at": "2026-08-24T17:15:53.414381Z",
-      "truth_social_id": "117151539756508748"
+      "next_retry_at": "2026-08-24T17:30:37.442959Z",
+      "truth_social_id": "117151539756508748",
+      "first_seen": "2026-08-24T17:20:37.442909Z",
+      "no_media_confirmations": 1
     },
     "truth:117151540731400189": {
       "post_status": "RETRY",
@@ -13265,14 +13267,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41168",
       "source_text": "<p>What our spies cut out of the China file: <a href=\"https://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/magazin</span><span class=\"invisible\">e-features/4685521/what-us-spies-cut-china-file-2020/</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:57:28 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:53.974783Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:20:38.043195Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41168",
       "first_seen": "2026-08-24T17:10:53.974746Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:What our spies cut out of the China file: \nhttps://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/",
-      "next_retry_at": "2026-08-24T17:15:53.974791Z",
+      "next_retry_at": "2026-08-24T17:30:38.043211Z",
       "truth_social_id": "117151540731400189"
     },
     "truth:117151541955428414": {
@@ -13281,14 +13283,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41167",
       "source_text": "<p>Inside the Democrat Civil War: Progressives’ Problem With Black Voters: <a href=\"https://www.newsweek.com/inside-democrat-civil-war-progressives-problem-black-voters-12320731\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsweek.com/inside-democrat-c</span><span class=\"invisible\">ivil-war-progressives-problem-black-voters-12320731</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:57:47 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:54.314176Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:20:38.485765Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41167",
       "first_seen": "2026-08-24T17:10:54.314135Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Inside the Democrat Civil War: Progressives’ Problem With Black Voters: \nhttps://www.newsweek.com/inside-democrat-civil-war-progressives-problem-black",
-      "next_retry_at": "2026-08-24T17:15:54.314185Z",
+      "next_retry_at": "2026-08-24T17:30:38.485787Z",
       "truth_social_id": "117151541955428414"
     }
   }
