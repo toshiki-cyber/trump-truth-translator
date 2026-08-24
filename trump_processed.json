@@ -1366,7 +1366,10 @@
     "https://www.trumpstruth.org/statuses/41147",
     "fp:https://truthsocial.com/@Imaluckyangel/117144139439955914",
     "truth:117148823903421618",
-    "https://www.trumpstruth.org/statuses/41144"
+    "https://www.trumpstruth.org/statuses/41144",
+    "fp:https://truthsocial.com/@Imaluckyangel/117144135008099133",
+    "truth:117148820570832936",
+    "https://www.trumpstruth.org/statuses/41146"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12735,20 +12738,22 @@
       ]
     },
     "truth:117148820570832936": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41146",
       "source_text": "<p><a href=\"https://truthsocial.com/@Imaluckyangel/117144135008099133\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@Imaluckyangel</span><span class=\"invisible\">/117144135008099133</span></a></p>",
       "published": "Mon, 24 Aug 2026 05:25:42 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-24T05:55:55.131444Z",
+      "updated_at": "2026-08-24T06:20:39.806303Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41146",
       "first_seen": "2026-08-24T05:30:39.144988Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:https://truthsocial.com/@Imaluckyangel/117144135008099133",
-      "next_retry_at": "2026-08-24T06:15:55.131472Z",
-      "truth_social_id": "117148820570832936"
+      "truth_social_id": "117148820570832936",
+      "source_fingerprint": "fp:https://truthsocial.com/@Imaluckyangel/117144135008099133",
+      "media_identity": "attachment:117148820570832936:",
+      "translation": "https://truthsocial.com/@Imaluckyangel/117144135008099133"
     },
     "truth:117148822269956937": {
       "post_status": "RETRY",
