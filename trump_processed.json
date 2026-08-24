@@ -1360,7 +1360,10 @@
     "https://www.trumpstruth.org/statuses/41143",
     "fp:Mark Levin just laid it out clearly.\nTrump is cutting and reviewing regulations to restore American energy independence, put more money in people’s pa",
     "truth:117144256940071915",
-    "https://www.trumpstruth.org/statuses/41148"
+    "https://www.trumpstruth.org/statuses/41148",
+    "fp:https://truthsocial.com/@talkthestreet/117143159621440227",
+    "truth:117148818788198933",
+    "https://www.trumpstruth.org/statuses/41147"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12677,7 +12680,7 @@
       "translation": "マーク・レヴィンが明確に説明した。\nトランプは規制を削減・見直して、アメリカのエネルギー独立を回復し、国民の給与を増やし、住宅購入を再び手の届くものにしている。同時に環境とアメリカの労働者にも目を配っている。\n青州の知事たちはあらゆる機会を使ってその進展を妨害している。\n民主党は「彼は物価対策に重点を置いていない」と主張している。彼は物価対策に全力を注いでいる。奴らが怒っているのは、彼がそれを実現しているからだ。\nリベラルメディアと青州の知事たちの話を聞くのをやめろ。自分で調べろ。民主党は我々が良いものを手にできない理由なのだ。"
     },
     "truth:117148818788198933": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41147",
       "source_text": "<p><a href=\"https://truthsocial.com/@talkthestreet/117143159621440227\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@talkthestreet</span><span class=\"invisible\">/117143159621440227</span></a></p>",
@@ -12687,79 +12690,12 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41147",
       "first_seen": "2026-08-24T05:30:38.574484Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:https://truthsocial.com/@talkthestreet/117143159621440227",
       "truth_social_id": "117148818788198933",
       "source_fingerprint": "fp:https://truthsocial.com/@talkthestreet/117143159621440227",
       "media_identity": "attachment:117148818788198933:",
       "translation": "https://truthsocial.com/@talkthestreet/117143159621440227",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskv25jokpj",
-          "cid": "bafyreifsstc7g5tggzrhoo6ff54n73w5nft2jpxvs4rhsp7e4ku7gx53da"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskv25jokpj",
-          "cid": "bafyreifsstc7g5tggzrhoo6ff54n73w5nft2jpxvs4rhsp7e4ku7gx53da"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtskv25jokpj",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/@talkthestreet/117143159621440227",
-          "createdAt": "2026-08-24T05:50:37.740338Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 57
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/@talkthestreet/117143159621440227"
-                }
-              ]
-            }
-          ]
-        },
-        "root_rkey": "3mtskv25jokpj",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/@talkthestreet/117143159621440227",
-          "createdAt": "2026-08-24T05:50:37.740338Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 57
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/@talkthestreet/117143159621440227"
-                }
-              ]
-            }
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskv25jokpj",
-            "rkey": "3mtskv25jokpj"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskv25jokpj",
       "expected_embed": "none",
       "expected_images": 0,
@@ -12793,9 +12729,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskv25jokpj",
           "rkey": "3mtskv25jokpj"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-24T05:55:44.262766Z"
+      ]
     },
     "truth:117148820570832936": {
       "post_status": "RETRY",
@@ -12803,14 +12737,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41146",
       "source_text": "<p><a href=\"https://truthsocial.com/@Imaluckyangel/117144135008099133\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@Imaluckyangel</span><span class=\"invisible\">/117144135008099133</span></a></p>",
       "published": "Mon, 24 Aug 2026 05:25:42 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-24T05:35:40.928030Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-24T05:55:55.131444Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41146",
       "first_seen": "2026-08-24T05:30:39.144988Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:https://truthsocial.com/@Imaluckyangel/117144135008099133",
-      "next_retry_at": "2026-08-24T05:45:40.928044Z",
+      "next_retry_at": "2026-08-24T06:15:55.131472Z",
       "truth_social_id": "117148820570832936"
     },
     "truth:117148822269956937": {
@@ -12819,31 +12753,136 @@
       "status_url": "https://www.trumpstruth.org/statuses/41145",
       "source_text": "<p><a href=\"https://truthsocial.com/@HBTX8/117143029405001507\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@HBTX8/1171430</span><span class=\"invisible\">29405001507</span></a></p>",
       "published": "Mon, 24 Aug 2026 05:26:07 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-24T05:35:41.346688Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-24T05:56:10.302913Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41145",
       "first_seen": "2026-08-24T05:30:39.646669Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:https://truthsocial.com/@HBTX8/117143029405001507",
-      "next_retry_at": "2026-08-24T05:45:41.346704Z",
+      "next_retry_at": "2026-08-24T06:16:10.302978Z",
       "truth_social_id": "117148822269956937"
     },
     "truth:117148823903421618": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41144",
       "source_text": "<p><a href=\"https://truthsocial.com/@Imaluckyangel/117144139439955914\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@Imaluckyangel</span><span class=\"invisible\">/117144139439955914</span></a></p>",
       "published": "Mon, 24 Aug 2026 05:26:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-24T05:35:41.736319Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T05:56:17.751258Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41144",
       "first_seen": "2026-08-24T05:30:40.250402Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:https://truthsocial.com/@Imaluckyangel/117144139439955914",
-      "next_retry_at": "2026-08-24T05:45:41.736334Z",
-      "truth_social_id": "117148823903421618"
+      "truth_social_id": "117148823903421618",
+      "source_fingerprint": "fp:https://truthsocial.com/@Imaluckyangel/117144139439955914",
+      "media_identity": "attachment:117148823903421618:",
+      "translation": "https://truthsocial.com/@Imaluckyangel/117144139439955914",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskxelidkmx",
+          "cid": "bafyreido45srrqyggdueqb7srdiompqwuzptzvs24lqrlznswrta3nyxsq"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskxelidkmx",
+          "cid": "bafyreido45srrqyggdueqb7srdiompqwuzptzvs24lqrlznswrta3nyxsq"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtskxelidkmx",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truthsocial.com/@Imaluckyangel/117144139439955914",
+          "createdAt": "2026-08-24T05:56:11.303582Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 57
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truthsocial.com/@Imaluckyangel/117144139439955914"
+                }
+              ]
+            }
+          ]
+        },
+        "root_rkey": "3mtskxelidkmx",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truthsocial.com/@Imaluckyangel/117144139439955914",
+          "createdAt": "2026-08-24T05:56:11.303582Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 57
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truthsocial.com/@Imaluckyangel/117144139439955914"
+                }
+              ]
+            }
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskxelidkmx",
+            "rkey": "3mtskxelidkmx"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskxelidkmx",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mtskxelidkmx",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truthsocial.com/@Imaluckyangel/117144139439955914",
+        "createdAt": "2026-08-24T05:56:11.303582Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 57
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truthsocial.com/@Imaluckyangel/117144139439955914"
+              }
+            ]
+          }
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtskxelidkmx",
+          "rkey": "3mtskxelidkmx"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-24T06:01:17.751278Z"
     },
     "truth:117148833275862351": {
       "post_status": "RETRY",
