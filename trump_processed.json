@@ -1351,7 +1351,10 @@
     "https://www.trumpstruth.org/statuses/41137",
     "fp:My Endorsements are stronger than ever — Not to mention the fact that good people are getting elected that never had the chance! Here is an accurate l",
     "truth:117147806182467462",
-    "https://www.trumpstruth.org/statuses/41133"
+    "https://www.trumpstruth.org/statuses/41133",
+    "fp:The Midterm Meltdown: \nhttps://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true",
+    "truth:117148617954763691",
+    "https://www.trumpstruth.org/statuses/41142"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12717,20 +12720,22 @@
       "next_retry_at": "2026-08-24T05:01:06.282720Z"
     },
     "truth:117148617954763691": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41142",
       "source_text": "<p>The Midterm Meltdown: <a href=\"https://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pro.paradigmnewsletters.org/p/</span><span class=\"invisible\">awn_midtermmeltdown_0626/LAWN6816/?h=true</span></a></p>",
       "published": "Mon, 24 Aug 2026 04:34:10 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-24T04:40:40.755159Z",
+      "updated_at": "2026-08-24T05:00:50.172487Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41142",
       "first_seen": "2026-08-24T04:35:37.217651Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:The Midterm Meltdown: \nhttps://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true",
-      "next_retry_at": "2026-08-24T04:50:40.755176Z",
-      "truth_social_id": "117148617954763691"
+      "truth_social_id": "117148617954763691",
+      "source_fingerprint": "fp:The Midterm Meltdown: \nhttps://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true",
+      "media_identity": "attachment:117148617954763691:",
+      "translation": "中間選挙での民主党の大失態：\nhttps://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true"
     }
   }
 }
