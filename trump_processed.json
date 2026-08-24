@@ -1394,7 +1394,10 @@
     "truth:117151462697237422",
     "https://www.trumpstruth.org/statuses/41157",
     "truth:117151459351935981",
-    "https://www.trumpstruth.org/statuses/41158"
+    "https://www.trumpstruth.org/statuses/41158",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117151547486235112",
+    "truth:117151548188083547",
+    "https://www.trumpstruth.org/statuses/41165"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -13107,14 +13110,20 @@
       "next_retry_at": "2026-08-24T17:15:56.783619Z"
     },
     "truth:117151548188083547": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41165",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117151547486235112</span></p>",
       "published": "Mon, 24 Aug 2026 16:59:22 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-24T17:05:34.961918Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41165"
+      "updated_at": "2026-08-24T17:15:44.918717Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41165",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117151547486235112",
+      "media_identity": "attachment:117151548188083547:eb5064b3727720bb.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117151547486235112",
+      "truth_social_id": "117151548188083547",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117151547486235112"
     },
     "truth:117151548758545533": {
       "post_status": "DISCOVERED",
@@ -13162,14 +13171,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41174",
       "source_text": "<p>How Donald Trump helped save New York City: <a href=\"https://nypost.com/2016/02/07/how-donald-trump-helped-save-new-york-city/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2016/02/07/how-dona</span><span class=\"invisible\">ld-trump-helped-save-new-york-city/</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:55:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:36.430572Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:15:39.282566Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41174",
       "first_seen": "2026-08-24T17:10:36.430534Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:How Donald Trump helped save New York City: \nhttps://nypost.com/2016/02/07/how-donald-trump-helped-save-new-york-city/",
-      "next_retry_at": "2026-08-24T17:15:36.430580Z",
+      "next_retry_at": "2026-08-24T17:25:39.282580Z",
       "truth_social_id": "117151534307707658"
     },
     "truth:117151535369616658": {
@@ -13178,14 +13187,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41173",
       "source_text": "<p>Saving Wollman Rink made Trump a New York City hero: <a href=\"https://nypost.com/2017/01/22/saving-wollman-rink-made-trump-a-new-york-city-hero/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2017/01/22/saving-w</span><span class=\"invisible\">ollman-rink-made-trump-a-new-york-city-hero/</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:56:06 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:36.824521Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:15:39.974478Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41173",
       "first_seen": "2026-08-24T17:10:36.824483Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Saving Wollman Rink made Trump a New York City hero: \nhttps://nypost.com/2017/01/22/saving-wollman-rink-made-trump-a-new-york-city-hero/",
-      "next_retry_at": "2026-08-24T17:15:36.824530Z",
+      "next_retry_at": "2026-08-24T17:25:39.974493Z",
       "truth_social_id": "117151535369616658"
     },
     "truth:117151536426663116": {
@@ -13194,14 +13203,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41172",
       "source_text": "<p>Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: <a href=\"https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/12/world/c</span><span class=\"invisible\">anada/canada-tariffs-manufacturing-trade-trump.html</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:56:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:37.248645Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:15:40.581533Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41172",
       "first_seen": "2026-08-24T17:10:37.248609Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: \nhttps://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-",
-      "next_retry_at": "2026-08-24T17:15:37.248653Z",
+      "next_retry_at": "2026-08-24T17:25:40.581549Z",
       "truth_social_id": "117151536426663116"
     },
     "truth:117151537334045486": {
@@ -13210,14 +13219,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41171",
       "source_text": "<p>Dick Morris: Trump Wins Big Majorities on All Key Issues: <a href=\"https://www.newsmax.com/morris/dick-morris-donald-trump-key/2026/06/13/id/1259550/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/morris/dick-morris</span><span class=\"invisible\">-donald-trump-key/2026/06/13/id/1259550/</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:56:36 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:37.684577Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:15:41.047388Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41171",
       "first_seen": "2026-08-24T17:10:37.684540Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Dick Morris: Trump Wins Big Majorities on All Key Issues: \nhttps://www.newsmax.com/morris/dick-morris-donald-trump-key/2026/06/13/id/1259550/",
-      "next_retry_at": "2026-08-24T17:15:37.684586Z",
+      "next_retry_at": "2026-08-24T17:25:41.047400Z",
       "truth_social_id": "117151537334045486"
     },
     "truth:117151538437231560": {
@@ -13226,14 +13235,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41170",
       "source_text": "<p>Unearthed DOJ emails expose turmoil over Biden-era memo urging crackdown on parents: <a href=\"https://www.foxnews.com/politics/unearthed-doj-emails-expose-turmoil-over-biden-era-memo-urging-crackdown-parents\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/unearthed</span><span class=\"invisible\">-doj-emails-expose-turmoil-over-biden-era-memo-urging-crackdown-parents</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:56:53 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T17:10:38.050919Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T17:15:41.437952Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41170",
       "first_seen": "2026-08-24T17:10:38.050882Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Unearthed DOJ emails expose turmoil over Biden-era memo urging crackdown on parents: \nhttps://www.foxnews.com/politics/unearthed-doj-emails-expose-tur",
-      "next_retry_at": "2026-08-24T17:15:38.050927Z",
+      "next_retry_at": "2026-08-24T17:25:41.437967Z",
       "truth_social_id": "117151538437231560"
     },
     "truth:117151539756508748": {
