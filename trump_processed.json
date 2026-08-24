@@ -12572,20 +12572,149 @@
       "translation": "インテル政治：NSAがトランプ「ディープステート」レッテルを理由に選挙脅威報告を据え置き、メモが示す：\nhttps://justthenews.com/government/security/nsa-analyst-agency-sat-2016-election-interference-intel-avoid-trump-era"
     },
     "truth:117148614817419837": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41143",
       "source_text": "<p>Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive': <a href=\"https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/world/globaltalk/i</span><span class=\"invisible\">ran-bagher-qalibaf-hungry/2026/08/23/id/1267062/</span></a></p>",
       "published": "Mon, 24 Aug 2026 04:33:22 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-24T04:40:40.435324Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T04:56:06.282708Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41143",
       "first_seen": "2026-08-24T04:35:36.177750Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive': \nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/126706",
-      "next_retry_at": "2026-08-24T04:50:40.435341Z",
-      "truth_social_id": "117148614817419837"
+      "truth_social_id": "117148614817419837",
+      "source_fingerprint": "fp:Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive': \nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/126706",
+      "media_identity": "attachment:117148614817419837:",
+      "translation": "イラン国会議長：「我々は飢えている、生き残ることはできない」：\nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtshybyacsr5",
+          "cid": "bafyreidir5fwfs6oexwgl7r4ckxmyqy37oaqr47oambj4tezh47xpr7lni"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtshybyacsr5",
+          "cid": "bafyreidir5fwfs6oexwgl7r4ckxmyqy37oaqr47oambj4tezh47xpr7lni"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtshybyacsr5",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "イラン国会議長：「我々は飢えている、生き残ることはできない」：\nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+          "createdAt": "2026-08-24T04:55:59.838402Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 94,
+                "byteEnd": 184
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+              "title": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+              "description": ""
+            }
+          }
+        },
+        "root_rkey": "3mtshybyacsr5",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "イラン国会議長：「我々は飢えている、生き残ることはできない」：\nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+          "createdAt": "2026-08-24T04:55:59.838402Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 94,
+                "byteEnd": 184
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+              "title": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+              "description": ""
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtshybyacsr5",
+            "rkey": "3mtshybyacsr5"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtshybyacsr5",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mtshybyacsr5",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "イラン国会議長：「我々は飢えている、生き残ることはできない」：\nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+        "createdAt": "2026-08-24T04:55:59.838402Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 94,
+              "byteEnd": 184
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+            "title": "https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+            "description": ""
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtshybyacsr5",
+          "rkey": "3mtshybyacsr5"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-24T05:01:06.282720Z"
     },
     "truth:117148617954763691": {
       "post_status": "RETRY",
