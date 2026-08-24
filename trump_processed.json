@@ -1326,7 +1326,10 @@
     "https://www.trumpstruth.org/statuses/41128",
     "fp:ICE refuses to disclose records on Ilhan Omar fraud probe, cites ongoing ‘enforcement proceedings’: \nhttps://justthenews.com/government/federal-agenci",
     "truth:117147749847925768",
-    "https://www.trumpstruth.org/statuses/41132"
+    "https://www.trumpstruth.org/statuses/41132",
+    "fp:Trump EPA ends summer-gas rules early to lower U.S. pump prices: \nhttps://justthenews.com/nation/states/center-square/epa-ends-summer-gas-rules-early-",
+    "truth:117148203995010811",
+    "https://www.trumpstruth.org/statuses/41134"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12254,20 +12257,22 @@
       "next_retry_at": "2026-08-24T04:05:38.546374Z"
     },
     "truth:117148203995010811": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41134",
       "source_text": "<p>Trump EPA ends summer-gas rules early to lower U.S. pump prices: <a href=\"https://justthenews.com/nation/states/center-square/epa-ends-summer-gas-rules-early-lower-us-pump-prices\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/states/</span><span class=\"invisible\">center-square/epa-ends-summer-gas-rules-early-lower-us-pump-prices</span></a></p>",
       "published": "Mon, 24 Aug 2026 02:48:53 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-24T03:00:36.987158Z",
+      "updated_at": "2026-08-24T03:10:40.322104Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41134",
       "first_seen": "2026-08-24T02:50:36.327172Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump EPA ends summer-gas rules early to lower U.S. pump prices: \nhttps://justthenews.com/nation/states/center-square/epa-ends-summer-gas-rules-early-",
-      "next_retry_at": "2026-08-24T03:10:36.987176Z",
-      "truth_social_id": "117148203995010811"
+      "truth_social_id": "117148203995010811",
+      "source_fingerprint": "fp:Trump EPA ends summer-gas rules early to lower U.S. pump prices: \nhttps://justthenews.com/nation/states/center-square/epa-ends-summer-gas-rules-early-",
+      "media_identity": "attachment:117148203995010811:",
+      "translation": "トランプEPA、夏季ガソリン規制を早期に廃止、米国のガソリン価格低下へ：\nhttps://justthenews.com/nation/states/center-square/epa-ends-summer-gas-rules-early-lower-us-pump-prices"
     },
     "truth:117148206284732927": {
       "post_status": "RETRY",
