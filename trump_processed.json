@@ -1392,7 +1392,9 @@
     "truth:117151357800143501",
     "https://www.trumpstruth.org/statuses/41156",
     "truth:117151462697237422",
-    "https://www.trumpstruth.org/statuses/41157"
+    "https://www.trumpstruth.org/statuses/41157",
+    "truth:117151459351935981",
+    "https://www.trumpstruth.org/statuses/41158"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -13037,7 +13039,7 @@
       ]
     },
     "truth:117151459351935981": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41158",
       "source_text": "<p></p>",
@@ -13045,86 +13047,11 @@
       "retry_count": 1,
       "updated_at": "2026-08-24T17:05:46.324630Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41158",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "source_fingerprint": null,
       "media_identity": "attachment:117151459351935981:9c2952760511ff20.png",
       "truth_social_id": "117151459351935981",
       "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mttqftftisln",
-          "cid": "bafyreifcb6rhqg365aittos4hkmpictey3dxn3jzyplvkfovngfj4mvtse"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mttqftftisln",
-          "cid": "bafyreifcb6rhqg365aittos4hkmpictey3dxn3jzyplvkfovngfj4mvtse"
-        },
-        "next_index": 1,
-        "last_rkey": "3mttqftftisln",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-24T17:05:39.031304Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreifo4drd3ub3ryf2jjd3c7lgso62z2byb75hi2jzlv3fe5bsttcmpm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 157833
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 896,
-                  "height": 882
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mttqftftisln",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-24T17:05:39.031304Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreifo4drd3ub3ryf2jjd3c7lgso62z2byb75hi2jzlv3fe5bsttcmpm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 157833
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 896,
-                  "height": 882
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mttqftftisln",
-            "rkey": "3mttqftftisln"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mttqftftisln",
       "expected_embed": "images",
       "expected_images": 1,
@@ -13162,19 +13089,22 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mttqftftisln",
           "rkey": "3mttqftftisln"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-24T17:10:46.324649Z"
+      ]
     },
     "truth:117151547486235112": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41166",
       "source_text": "<p></p>",
       "published": "Mon, 24 Aug 2026 16:59:11 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-24T17:05:34.961958Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41166"
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:56.783601Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41166",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117151547486235112:13cf196c4badaea4.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/151/543/570/149/255/original/13cf196c4badaea4.mp4",
+      "truth_social_id": "117151547486235112",
+      "next_retry_at": "2026-08-24T17:15:56.783619Z"
     },
     "truth:117151548188083547": {
       "post_status": "DISCOVERED",
@@ -13225,6 +13155,132 @@
       "retry_count": 0,
       "updated_at": "2026-08-24T17:05:34.961754Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41161"
+    },
+    "truth:117151534307707658": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41174",
+      "source_text": "<p>How Donald Trump helped save New York City: <a href=\"https://nypost.com/2016/02/07/how-donald-trump-helped-save-new-york-city/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2016/02/07/how-dona</span><span class=\"invisible\">ld-trump-helped-save-new-york-city/</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:55:50 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:36.430572Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41174",
+      "first_seen": "2026-08-24T17:10:36.430534Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:How Donald Trump helped save New York City: \nhttps://nypost.com/2016/02/07/how-donald-trump-helped-save-new-york-city/",
+      "next_retry_at": "2026-08-24T17:15:36.430580Z",
+      "truth_social_id": "117151534307707658"
+    },
+    "truth:117151535369616658": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41173",
+      "source_text": "<p>Saving Wollman Rink made Trump a New York City hero: <a href=\"https://nypost.com/2017/01/22/saving-wollman-rink-made-trump-a-new-york-city-hero/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2017/01/22/saving-w</span><span class=\"invisible\">ollman-rink-made-trump-a-new-york-city-hero/</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:56:06 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:36.824521Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41173",
+      "first_seen": "2026-08-24T17:10:36.824483Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Saving Wollman Rink made Trump a New York City hero: \nhttps://nypost.com/2017/01/22/saving-wollman-rink-made-trump-a-new-york-city-hero/",
+      "next_retry_at": "2026-08-24T17:15:36.824530Z",
+      "truth_social_id": "117151535369616658"
+    },
+    "truth:117151536426663116": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41172",
+      "source_text": "<p>Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: <a href=\"https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/12/world/c</span><span class=\"invisible\">anada/canada-tariffs-manufacturing-trade-trump.html</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:56:22 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:37.248645Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41172",
+      "first_seen": "2026-08-24T17:10:37.248609Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: \nhttps://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-",
+      "next_retry_at": "2026-08-24T17:15:37.248653Z",
+      "truth_social_id": "117151536426663116"
+    },
+    "truth:117151537334045486": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41171",
+      "source_text": "<p>Dick Morris: Trump Wins Big Majorities on All Key Issues: <a href=\"https://www.newsmax.com/morris/dick-morris-donald-trump-key/2026/06/13/id/1259550/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/morris/dick-morris</span><span class=\"invisible\">-donald-trump-key/2026/06/13/id/1259550/</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:56:36 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:37.684577Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41171",
+      "first_seen": "2026-08-24T17:10:37.684540Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Dick Morris: Trump Wins Big Majorities on All Key Issues: \nhttps://www.newsmax.com/morris/dick-morris-donald-trump-key/2026/06/13/id/1259550/",
+      "next_retry_at": "2026-08-24T17:15:37.684586Z",
+      "truth_social_id": "117151537334045486"
+    },
+    "truth:117151538437231560": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41170",
+      "source_text": "<p>Unearthed DOJ emails expose turmoil over Biden-era memo urging crackdown on parents: <a href=\"https://www.foxnews.com/politics/unearthed-doj-emails-expose-turmoil-over-biden-era-memo-urging-crackdown-parents\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/unearthed</span><span class=\"invisible\">-doj-emails-expose-turmoil-over-biden-era-memo-urging-crackdown-parents</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:56:53 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:38.050919Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41170",
+      "first_seen": "2026-08-24T17:10:38.050882Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Unearthed DOJ emails expose turmoil over Biden-era memo urging crackdown on parents: \nhttps://www.foxnews.com/politics/unearthed-doj-emails-expose-tur",
+      "next_retry_at": "2026-08-24T17:15:38.050927Z",
+      "truth_social_id": "117151538437231560"
+    },
+    "truth:117151539756508748": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41169",
+      "source_text": "<p>Trump’s Patience With the Iranian Regime Runs Out: <a href=\"https://amgreatness.com/2026/07/10/trumps-patience-with-the-iranian-regime-runs-out/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amgreatness.com/2026/07/10/tru</span><span class=\"invisible\">mps-patience-with-the-iranian-regime-runs-out/</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:57:13 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:53.414354Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41169",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "fingerprint": "fp:Trump’s Patience With the Iranian Regime Runs Out: \nhttps://amgreatness.com/2026/07/10/trumps-patience-with-the-iranian-regime-runs-out/",
+      "next_retry_at": "2026-08-24T17:15:53.414381Z",
+      "truth_social_id": "117151539756508748"
+    },
+    "truth:117151540731400189": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41168",
+      "source_text": "<p>What our spies cut out of the China file: <a href=\"https://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/magazin</span><span class=\"invisible\">e-features/4685521/what-us-spies-cut-china-file-2020/</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:57:28 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:53.974783Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41168",
+      "first_seen": "2026-08-24T17:10:53.974746Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:What our spies cut out of the China file: \nhttps://www.washingtonexaminer.com/magazine-features/4685521/what-us-spies-cut-china-file-2020/",
+      "next_retry_at": "2026-08-24T17:15:53.974791Z",
+      "truth_social_id": "117151540731400189"
+    },
+    "truth:117151541955428414": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41167",
+      "source_text": "<p>Inside the Democrat Civil War: Progressives’ Problem With Black Voters: <a href=\"https://www.newsweek.com/inside-democrat-civil-war-progressives-problem-black-voters-12320731\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsweek.com/inside-democrat-c</span><span class=\"invisible\">ivil-war-progressives-problem-black-voters-12320731</span></a></p>",
+      "published": "Mon, 24 Aug 2026 16:57:47 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T17:10:54.314176Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41167",
+      "first_seen": "2026-08-24T17:10:54.314135Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Inside the Democrat Civil War: Progressives’ Problem With Black Voters: \nhttps://www.newsweek.com/inside-democrat-civil-war-progressives-problem-black",
+      "next_retry_at": "2026-08-24T17:15:54.314185Z",
+      "truth_social_id": "117151541955428414"
     }
   }
 }
