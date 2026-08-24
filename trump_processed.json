@@ -12857,6 +12857,22 @@
       "published": "Sun, 23 Aug 2026 10:05:06 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-24T05:50:36.878538Z"
+    },
+    "truth:117150535825256760": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41151",
+      "source_text": "<p>IRAN IS COMPLETELY COLLAPSING!!! President DJT</p>",
+      "published": "Mon, 24 Aug 2026 12:41:54 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T12:45:39.849011Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41151",
+      "first_seen": "2026-08-24T12:45:39.848980Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:IRAN IS COMPLETELY COLLAPSING!!! President DJT",
+      "next_retry_at": "2026-08-24T12:50:39.849019Z",
+      "truth_social_id": "117150535825256760"
     }
   }
 }
