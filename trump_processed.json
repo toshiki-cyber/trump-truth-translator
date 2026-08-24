@@ -12577,14 +12577,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41143",
       "source_text": "<p>Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive': <a href=\"https://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/1267062/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/world/globaltalk/i</span><span class=\"invisible\">ran-bagher-qalibaf-hungry/2026/08/23/id/1267062/</span></a></p>",
       "published": "Mon, 24 Aug 2026 04:33:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T04:35:36.177783Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T04:40:40.435324Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41143",
       "first_seen": "2026-08-24T04:35:36.177750Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive': \nhttps://www.newsmax.com/world/globaltalk/iran-bagher-qalibaf-hungry/2026/08/23/id/126706",
-      "next_retry_at": "2026-08-24T04:40:36.177792Z",
+      "next_retry_at": "2026-08-24T04:50:40.435341Z",
       "truth_social_id": "117148614817419837"
     },
     "truth:117148617954763691": {
@@ -12593,14 +12593,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41142",
       "source_text": "<p>The Midterm Meltdown: <a href=\"https://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pro.paradigmnewsletters.org/p/</span><span class=\"invisible\">awn_midtermmeltdown_0626/LAWN6816/?h=true</span></a></p>",
       "published": "Mon, 24 Aug 2026 04:34:10 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T04:35:37.217684Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T04:40:40.755159Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41142",
       "first_seen": "2026-08-24T04:35:37.217651Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The Midterm Meltdown: \nhttps://pro.paradigmnewsletters.org/p/awn_midtermmeltdown_0626/LAWN6816/?h=true",
-      "next_retry_at": "2026-08-24T04:40:37.217694Z",
+      "next_retry_at": "2026-08-24T04:50:40.755176Z",
       "truth_social_id": "117148617954763691"
     }
   }
