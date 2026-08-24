@@ -1384,7 +1384,10 @@
     "https://www.trumpstruth.org/statuses/41152",
     "fp:Canada has been ripping off the United States of America for years. Their ridiculously high tariffs on our Farmers and farm products has made life imp",
     "truth:117150758113256193",
-    "https://www.trumpstruth.org/statuses/41154"
+    "https://www.trumpstruth.org/statuses/41154",
+    "fp:Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: \nhttps://www.breitbart.com/politics/2026/08/21/exclusive",
+    "truth:117151065984633970",
+    "https://www.trumpstruth.org/statuses/41155"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12940,20 +12943,22 @@
       "translation": "カナダは長年アメリカを搾取し続けてきた。彼らが農民と農産物に課す馬鹿げた高い関税は、これらの偉大なアメリカ国民の生活を不可能にしてきており、両国間に600億ドルの赤字を長く生み出してきた。持続不可能であり、もうこれ以上ではない。2027年1月1日、すべての乗用車、トラック、大型・小型の両方、自動車部品、鋼鉄に対する関税は50%に引き上げられる。米国内で製造すればゼロ関税だ。カナダはもはや州のように扱われることはない。貿易その他の面でも、彼らは世界で最も付き合いにくい国の一つである。彼らは権利があると感じているが、アメリカはカナダを必要としていない。カナダがアメリカを必要としているのだ。彼らはビジネスの95%をアメリカで行っており、我々は全く逆だ。この件への注意をいただきありがとうございます。ドナルド・J・トランプ大統領"
     },
     "truth:117151065984633970": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41155",
       "source_text": "<p>Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: <a href=\"https://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/</span></a></p>",
       "published": "Mon, 24 Aug 2026 14:56:44 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-24T15:10:38.940149Z",
+      "updated_at": "2026-08-24T15:20:44.758442Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41155",
       "first_seen": "2026-08-24T15:00:43.913591Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: \nhttps://www.breitbart.com/politics/2026/08/21/exclusive",
-      "next_retry_at": "2026-08-24T15:20:38.940166Z",
-      "truth_social_id": "117151065984633970"
+      "truth_social_id": "117151065984633970",
+      "source_fingerprint": "fp:Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: \nhttps://www.breitbart.com/politics/2026/08/21/exclusive",
+      "media_identity": "attachment:117151065984633970:",
+      "translation": "【翻訳】\n速報：閣僚らがダン・スカビーノ下での大統領人事局の業務を称賛：\nhttps://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/"
     }
   }
 }
