@@ -13117,11 +13117,11 @@
       "status_url": "https://www.trumpstruth.org/statuses/41158",
       "source_text": "<p></p>",
       "published": "Mon, 24 Aug 2026 16:36:46 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T16:45:52.536681Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-24T16:50:53.265086Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41158",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
-      "next_retry_at": "2026-08-24T16:50:52.536699Z"
+      "next_retry_at": "2026-08-24T17:00:53.265104Z"
     }
   }
 }
