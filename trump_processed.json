@@ -1387,7 +1387,10 @@
     "https://www.trumpstruth.org/statuses/41154",
     "fp:Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: \nhttps://www.breitbart.com/politics/2026/08/21/exclusive",
     "truth:117151065984633970",
-    "https://www.trumpstruth.org/statuses/41155"
+    "https://www.trumpstruth.org/statuses/41155",
+    "fp:The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Oper",
+    "truth:117151357800143501",
+    "https://www.trumpstruth.org/statuses/41156"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -12961,20 +12964,42 @@
       "translation": "【翻訳】\n速報：閣僚らがダン・スカビーノ下での大統領人事局の業務を称賛：\nhttps://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/"
     },
     "truth:117151357800143501": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41156",
       "source_text": "<p>The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Operations,” where they try to demoralize Republicans so that they don’t go out and vote — But the actual Polls are tremendous, and the Spirit in our Country has never been higher. We’re winning against EVERYONE, including Iran, whose Country is in Economic and Military Death Spiral. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Mon, 24 Aug 2026 16:10:57 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-24T16:30:35.830156Z",
+      "updated_at": "2026-08-24T16:40:42.155281Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41156",
       "first_seen": "2026-08-24T16:20:38.919227Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Oper",
-      "next_retry_at": "2026-08-24T16:40:35.830172Z",
-      "truth_social_id": "117151357800143501"
+      "truth_social_id": "117151357800143501",
+      "source_fingerprint": "fp:The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Oper",
+      "media_identity": "attachment:117151357800143501:",
+      "translation": "急進左派民主党は偽りの世論調査でクレイジーになっている。かつてない水準で世論調査を発表している。これは「士気喪失作戦」と呼ばれるもので、共和党員の士気を奪い投票に行かないようにしようとするものだ。しかし実際の世論調査は素晴らしく、わが国の気運はかつてないほど高まっている。われわれはイランを含むあらゆる相手に勝利している。イランは経済と軍事の死のスパイラルに陥っている。この問題への注視をありがとう。ドナルド・J・トランプ大統領"
+    },
+    "truth:117151459351935981": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41158",
+      "source_text": "<p></p>",
+      "published": "Mon, 24 Aug 2026 16:36:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-24T16:40:38.010963Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41158"
+    },
+    "truth:117151462697237422": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41157",
+      "source_text": "<p></p>",
+      "published": "Mon, 24 Aug 2026 16:37:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-24T16:40:38.010920Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41157"
     }
   }
 }
