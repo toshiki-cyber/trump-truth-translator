@@ -12959,6 +12959,22 @@
       "source_fingerprint": "fp:Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: \nhttps://www.breitbart.com/politics/2026/08/21/exclusive",
       "media_identity": "attachment:117151065984633970:",
       "translation": "【翻訳】\n速報：閣僚らがダン・スカビーノ下での大統領人事局の業務を称賛：\nhttps://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/"
+    },
+    "truth:117151357800143501": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41156",
+      "source_text": "<p>The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Operations,” where they try to demoralize Republicans so that they don’t go out and vote — But the actual Polls are tremendous, and the Spirit in our Country has never been higher. We’re winning against EVERYONE, including Iran, whose Country is in Economic and Military Death Spiral. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Mon, 24 Aug 2026 16:10:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-24T16:20:38.919263Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41156",
+      "first_seen": "2026-08-24T16:20:38.919227Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Oper",
+      "next_retry_at": "2026-08-24T16:25:38.919270Z",
+      "truth_social_id": "117151357800143501"
     }
   }
 }
