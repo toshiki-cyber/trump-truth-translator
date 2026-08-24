@@ -12898,14 +12898,20 @@
       ]
     },
     "truth:117150648954405886": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41152",
       "source_text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117143083340259038\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117143083340259038</span></a></p>",
       "published": "Mon, 24 Aug 2026 13:10:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-24T13:15:35.407795Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41152"
+      "retry_count": 1,
+      "updated_at": "2026-08-24T13:20:37.370473Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41152",
+      "first_seen": "2026-08-24T13:20:37.370437Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117143083340259038",
+      "next_retry_at": "2026-08-24T13:25:37.370481Z",
+      "truth_social_id": "117150648954405886"
     }
   }
 }
