@@ -1402,7 +1402,10 @@
     "https://www.trumpstruth.org/statuses/41164",
     "fp:How Donald Trump helped save New York City: \nhttps://nypost.com/2016/02/07/how-donald-trump-helped-save-new-york-city/",
     "truth:117151534307707658",
-    "https://www.trumpstruth.org/statuses/41174"
+    "https://www.trumpstruth.org/statuses/41174",
+    "fp:Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: \nhttps://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-",
+    "truth:117151536426663116",
+    "https://www.trumpstruth.org/statuses/41172"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -13431,20 +13434,22 @@
       "next_retry_at": "2026-08-24T17:41:18.615105Z"
     },
     "truth:117151536426663116": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41172",
       "source_text": "<p>Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: <a href=\"https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/12/world/c</span><span class=\"invisible\">anada/canada-tariffs-manufacturing-trade-trump.html</span></a></p>",
       "published": "Mon, 24 Aug 2026 16:56:22 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-24T17:15:40.581533Z",
+      "updated_at": "2026-08-24T17:40:38.501134Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41172",
       "first_seen": "2026-08-24T17:10:37.248609Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: \nhttps://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-",
-      "next_retry_at": "2026-08-24T17:25:40.581549Z",
-      "truth_social_id": "117151536426663116"
+      "truth_social_id": "117151536426663116",
+      "source_fingerprint": "fp:Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: \nhttps://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-",
+      "media_identity": "attachment:117151536426663116:",
+      "translation": "トランプの関税がカナダの一部企業に南への移転を検討させている：\nhttps://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html"
     },
     "truth:117151537334045486": {
       "post_status": "RETRY",
@@ -13526,7 +13531,7 @@
       "next_retry_at": "2026-08-24T17:30:38.485787Z",
       "truth_social_id": "117151541955428414"
     },
-    "url:https://www.trumpstruth.org/statuses/41163": {
+    "truth:117151549221525995": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41163",
@@ -13536,7 +13541,7 @@
       "updated_at": "2026-08-24T17:05:34.961836Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41163"
     },
-    "url:https://www.trumpstruth.org/statuses/41162": {
+    "truth:117151549778023900": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41162",
