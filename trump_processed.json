@@ -13791,19 +13791,19 @@
       "translation": "オンタリオ州のプレミアであるダグ・フォードからの「見せかけの脅し」がたくさんある。彼は故ロブ・フォード—偉大な人物だったが—のカリスマ性、知性、そして総合的な印象力が劣る兄弟としてよく知られている。米国は数十年間カナダを支え続けてきたが、もはやそうではない。米国は常にカナダより圧倒的に大きく、豊かで、強い。米国がなければカナダは生き残ることができない。彼らが金銭を得ているのはすべて米国からであり、現在の悪い指導部—特にカーニー知事と彼の子分フォード—のせいで、彼らは米国を利用し続けることは許されない。米国は彼らの生き残りの鍵なのだ。カナダが得る電気、石油、ガスの多くが米国を通じて運ばれていることを忘れるな。誰かがこのピエロたちに「一列に並べ」或いは、カナダは遥かに悪い結果に直面することになるだろう。カナダの失業率は現在10%であり、急速に上昇している。彼らの企業は米国に逃げており、それはすべて彼らの失敗した政策と無能な指導部のせいだ。わが国の農家や他の事業者から搾取する日々は終わった。この問題への注目をありがとう。ドナルド・J・トランプ大統領"
     },
     "truth:117152868451684038": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41176",
       "source_text": "<p></p>",
       "published": "Mon, 24 Aug 2026 22:35:07 +0000",
-      "retry_count": 7,
-      "updated_at": "2026-08-25T04:45:37.867539Z",
+      "retry_count": 8,
+      "updated_at": "2026-08-25T10:10:37.179998Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41176",
       "source_fingerprint": null,
       "media_identity": "attachment:117152868451684038:8b66759ffa2302b0.mp4",
-      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/152/867/809/876/573/original/8b66759ffa2302b0.mp4",
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/152/867/809/876/573/original/8b66759ffa2302b0.mp4",
       "truth_social_id": "117152868451684038",
-      "next_retry_at": "2026-08-25T10:05:37.867555Z"
+      "next_retry_at": "2026-08-25T16:10:37.180017Z"
     },
     "truth:117152865536069947": {
       "post_status": "POSTED",
