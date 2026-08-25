@@ -14010,15 +14010,18 @@
       "media_identity": "attachment:117155789874645152:",
       "translation": "米国はオンタリオ州との商取引をもはや期待していないため、オンタリオ湖の名称をアメリカ湖に変更することを真摯に検討している。本件へのご関心をありがとう！ドナルド・J・トランプ大統領"
     },
-    "truth:117155835599867728": {
-      "post_status": "DISCOVERED",
+    "url:https://www.trumpstruth.org/statuses/41184": {
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41184",
       "source_text": "<p>The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian  crisis of epic proportions, and must be stopped, NOW. President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 11:09:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-25T11:15:44.243377Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41184"
+      "retry_count": 1,
+      "updated_at": "2026-08-25T11:20:53.088277Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41184",
+      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "fingerprint": "fp:The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not",
+      "next_retry_at": "2026-08-25T11:25:53.088293Z"
     }
   }
 }
