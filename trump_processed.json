@@ -14138,14 +14138,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41188",
       "source_text": "<p>Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT</p>",
       "published": "Tue, 25 Aug 2026 14:00:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-25T14:25:36.598262Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-25T14:35:53.008411Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41188",
       "first_seen": "2026-08-25T14:10:39.480698Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT",
-      "next_retry_at": "2026-08-25T14:35:36.598277Z",
+      "next_retry_at": "2026-08-25T14:55:53.008441Z",
       "truth_social_id": "117156507875234061"
     },
     "truth:117156524147615725": {
@@ -14162,6 +14162,22 @@
       "failure_reason": null,
       "truth_social_id": "117156524147615725",
       "translation": ""
+    },
+    "truth:117156624974445904": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41190",
+      "source_text": "<p>I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Strait of Hormuz. Iran has been notified that any ship or boat placing new mines will be immediately and systematically destroyed. Through Space Force, we are watching every square inch of the Strait, as we are, also, with Pickaxe Mountain and the already destroyed three other Nuclear sites. There is a Zero Tolerance policy on mine placement in full force and effect. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Tue, 25 Aug 2026 14:30:27 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-25T14:35:53.566158Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41190",
+      "first_seen": "2026-08-25T14:35:53.566125Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Stra",
+      "next_retry_at": "2026-08-25T14:40:53.566167Z",
+      "truth_social_id": "117156624974445904"
     }
   }
 }
