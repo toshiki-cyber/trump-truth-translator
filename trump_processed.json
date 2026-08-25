@@ -1519,7 +1519,10 @@
     "truth:117156926105160416",
     "https://www.trumpstruth.org/statuses/41209",
     "truth:117156925333799291",
-    "https://www.trumpstruth.org/statuses/41210"
+    "https://www.trumpstruth.org/statuses/41210",
+    "fp:Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for million",
+    "truth:117157578446470768",
+    "https://www.trumpstruth.org/statuses/41213"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -15018,20 +15021,22 @@
       "next_retry_at": "2026-08-25T19:35:38.213561Z"
     },
     "truth:117157578446470768": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41213",
       "source_text": "<p>Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 18:32:56 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T19:00:40.093312Z",
+      "updated_at": "2026-08-25T19:20:41.573718Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41213",
       "first_seen": "2026-08-25T18:45:34.710822Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for million",
-      "next_retry_at": "2026-08-25T19:10:40.093328Z",
-      "truth_social_id": "117157578446470768"
+      "truth_social_id": "117157578446470768",
+      "source_fingerprint": "fp:Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for million",
+      "media_identity": "attachment:117157578446470768:",
+      "translation": "偉大なカントリー歌手であり、それ以上の存在である、歴史上最高級のドリー・パートンが亡くなったとの報告をすることは非常に悲しいことだ。これは数百万の人々にとって真の喪失である。彼女のような人物は過去にもいなかったし、今後も現れることはないだろう。彼女を偲んで、本夜18時より1週間にわたり、アメリカ全土の旗を半旗にする。安らかに眠ってください、ドリー。世界があなたを愛しています。ドナルド・J・トランプ大統領"
     }
   }
 }
