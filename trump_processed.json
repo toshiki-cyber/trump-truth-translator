@@ -14032,13 +14032,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41185",
       "source_text": "<p>I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a weak and ineffective Prime Minister in an attempt to gain political support, which he has totally lost, from the people of Quebec. I love French Canadians! President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 11:36:33 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-25T11:40:54.198845Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-25T11:50:35.955688Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41185",
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a wea",
-      "next_retry_at": "2026-08-25T11:45:54.198873Z",
-      "truth_social_id": "117155941181023687"
+      "next_retry_at": "2026-08-25T12:00:35.955697Z",
+      "truth_social_id": "117155941181023687",
+      "first_seen": "2026-08-25T11:50:35.955643Z",
+      "no_media_confirmations": 1
     }
   }
 }
