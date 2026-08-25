@@ -1459,7 +1459,10 @@
     "https://www.trumpstruth.org/statuses/41189",
     "fp:Based on my very good relationship with Kim Jong Un, of North Korea, I was not happy with the fact that the United States had, long ago, agreed to par",
     "truth:117156395248393739",
-    "https://www.trumpstruth.org/statuses/41186"
+    "https://www.trumpstruth.org/statuses/41186",
+    "fp:I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Stra",
+    "truth:117156624974445904",
+    "https://www.trumpstruth.org/statuses/41190"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14164,20 +14167,22 @@
       "translation": ""
     },
     "truth:117156624974445904": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41190",
       "source_text": "<p>I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Strait of Hormuz. Iran has been notified that any ship or boat placing new mines will be immediately and systematically destroyed. Through Space Force, we are watching every square inch of the Strait, as we are, also, with Pickaxe Mountain and the already destroyed three other Nuclear sites. There is a Zero Tolerance policy on mine placement in full force and effect. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 14:30:27 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T14:45:38.333033Z",
+      "updated_at": "2026-08-25T14:55:50.874889Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41190",
       "first_seen": "2026-08-25T14:35:53.566125Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Stra",
-      "next_retry_at": "2026-08-25T14:55:38.333051Z",
-      "truth_social_id": "117156624974445904"
+      "truth_social_id": "117156624974445904",
+      "source_fingerprint": "fp:I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Stra",
+      "media_identity": "attachment:117156624974445904:",
+      "translation": "米海軍から報告を受けたが、ホルムズ海峡の公海からすべての機雷が除去および/または爆破された。イランには、新たに機雷を設置する船舶またはボートはすべて直ちに且つ組織的に破壊されることが通告されている。宇宙軍を通じて、ホルムズ海峡のあらゆる地点を監視しており、ピッケ山およびすでに破壊された他の3つの核施設についても同様に監視している。機雷設置に対するゼロ・トレランス方針が完全に発動している。本件へのご関心をいただきありがとうございます！大統領ドナルド・J・トランプ"
     }
   }
 }
