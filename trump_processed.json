@@ -1471,7 +1471,13 @@
     "https://www.trumpstruth.org/statuses/41192",
     "fp:Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard: \nhttps://www.foxnews.com/opinion/sec-sean-duffy-job-get-daughter-heaven-n",
     "truth:117156895959885058",
-    "https://www.trumpstruth.org/statuses/41191"
+    "https://www.trumpstruth.org/statuses/41191",
+    "fp:MIKE DAVIS: Dissecting the Supreme Court's 'birthright' betrayal: \nhttps://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-bet",
+    "truth:117156886818136655",
+    "https://www.trumpstruth.org/statuses/41198",
+    "fp:Reigniting the American dream: Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania: \nhttps://www.washing",
+    "truth:117156888033437337",
+    "https://www.trumpstruth.org/statuses/41197"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14342,7 +14348,7 @@
       ]
     },
     "truth:117156886818136655": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41198",
       "source_text": "<p>MIKE DAVIS: Dissecting the Supreme Court's 'birthright' betrayal: <a href=\"https://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/mike-davis</span><span class=\"invisible\">-dissecting-supreme-courts-birthright-betrayal</span></a></p>",
@@ -14352,111 +14358,12 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41198",
       "first_seen": "2026-08-25T15:45:37.246589Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:MIKE DAVIS: Dissecting the Supreme Court's 'birthright' betrayal: \nhttps://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-bet",
       "truth_social_id": "117156886818136655",
       "source_fingerprint": "fp:MIKE DAVIS: Dissecting the Supreme Court's 'birthright' betrayal: \nhttps://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-bet",
       "media_identity": "attachment:117156886818136655:",
       "translation": "マイク・デイビス：最高裁の「生まれながらの市民権」に関する背信行為を分析する：\nhttps://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5jxgqdcnn",
-          "cid": "bafyreidkk37wjlqy72rbdwq3zxcliwjvttp3ahb3l73qpvfxgwh3unhkam"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5jxgqdcnn",
-          "cid": "bafyreidkk37wjlqy72rbdwq3zxcliwjvttp3ahb3l73qpvfxgwh3unhkam"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtw5jxgqdcnn",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "マイク・デイビス：最高裁の「生まれながらの市民権」に関する背信行為を分析する：\nhttps://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal",
-          "createdAt": "2026-08-25T16:05:58.015255Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 118,
-                "byteEnd": 206
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal",
-              "title": "MIKE DAVIS: Dissecting the Supreme Court's 'birthright' betrayal",
-              "description": "Justice Samuel Alito warned the birthright citizenship ruling is \"one of the most important decisions in the history of the Court\" and a serious mistake.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihyslla4viwulv45grafei75qb42chcweamedbxlyavdsbxoqksnm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 131714
-              }
-            }
-          }
-        },
-        "root_rkey": "3mtw5jxgqdcnn",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "マイク・デイビス：最高裁の「生まれながらの市民権」に関する背信行為を分析する：\nhttps://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal",
-          "createdAt": "2026-08-25T16:05:58.015255Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 118,
-                "byteEnd": 206
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/opinion/mike-davis-dissecting-supreme-courts-birthright-betrayal",
-              "title": "MIKE DAVIS: Dissecting the Supreme Court's 'birthright' betrayal",
-              "description": "Justice Samuel Alito warned the birthright citizenship ruling is \"one of the most important decisions in the history of the Court\" and a serious mistake.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihyslla4viwulv45grafei75qb42chcweamedbxlyavdsbxoqksnm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 131714
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5jxgqdcnn",
-            "rkey": "3mtw5jxgqdcnn"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5jxgqdcnn",
       "expected_embed": "none",
       "expected_images": 0,
@@ -14506,25 +14413,25 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5jxgqdcnn",
           "rkey": "3mtw5jxgqdcnn"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-25T16:11:04.882145Z"
+      ]
     },
     "truth:117156888033437337": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41197",
       "source_text": "<p>Reigniting the American dream: Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania: <a href=\"https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:37:21 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T15:50:43.230032Z",
+      "updated_at": "2026-08-25T16:11:16.756983Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41197",
       "first_seen": "2026-08-25T15:45:37.707515Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Reigniting the American dream: Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania: \nhttps://www.washing",
-      "next_retry_at": "2026-08-25T16:00:43.230051Z",
-      "truth_social_id": "117156888033437337"
+      "truth_social_id": "117156888033437337",
+      "source_fingerprint": "fp:Reigniting the American dream: Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania: \nhttps://www.washing",
+      "media_identity": "attachment:117156888033437337:",
+      "translation": "アメリカンドリームの再燃：ドナルド・トランプ、デイブ・マコーミック、ジェイミー・ダイモンがペンシルベニア州での大規模製造業推進を発表\nhttps://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/"
     },
     "truth:117156889170604673": {
       "post_status": "RETRY",
@@ -14695,16 +14602,6 @@
       "updated_at": "2026-08-25T15:50:42.440573Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41202"
     },
-    "truth:117156909312044740": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41199",
-      "source_text": "<p></p>",
-      "published": "Tue, 25 Aug 2026 15:42:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-25T15:50:42.440494Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41199"
-    },
     "truth:117156925333799291": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14734,6 +14631,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-25T15:50:42.440534Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41200"
+    },
+    "url:https://www.trumpstruth.org/statuses/41199": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41199",
+      "source_text": "<p></p>",
+      "published": "Tue, 25 Aug 2026 15:42:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-25T15:50:42.440494Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41199"
     }
   }
 }
