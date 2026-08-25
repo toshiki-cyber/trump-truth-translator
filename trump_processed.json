@@ -1502,7 +1502,13 @@
     "https://www.trumpstruth.org/statuses/41204",
     "fp:America must put AI to work defending our critical infrastructure: \nhttps://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4",
     "truth:117156899033164170",
-    "https://www.trumpstruth.org/statuses/41207"
+    "https://www.trumpstruth.org/statuses/41207",
+    "fp:S&P Global: ‘US Business Is Booming’: \nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
+    "truth:117156902282061140",
+    "https://www.trumpstruth.org/statuses/41203",
+    "fp:Trump to the rescue for California drivers — despite Gavin Newsom: \nhttps://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-new",
+    "truth:117156897871753782",
+    "https://www.trumpstruth.org/statuses/41208"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14531,20 +14537,22 @@
       "translation": "トランプ、サウスカロライナ州決選投票を前にダーリーン・グラハムを応援：\nhttps://www.washingtontimes.com/news/2026/aug/21/trump-stumps-darline-graham-ahead-south-carolina-runoff/?srsltid=AfmBOop-rzsASfysNGXS509NP96RoIXvhRBtoKova99-CaOz-OPmbd9g"
     },
     "truth:117156897871753782": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41208",
       "source_text": "<p>Trump to the rescue for California drivers — despite Gavin Newsom: <a href=\"https://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-newsom-hardest-hit/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/opinion/</span><span class=\"invisible\">trump-to-rescue-california-drivers-gavin-newsom-hardest-hit/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:39:51 +0000",
       "retry_count": 3,
-      "updated_at": "2026-08-25T16:50:53.247942Z",
+      "updated_at": "2026-08-25T17:15:39.739491Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41208",
       "first_seen": "2026-08-25T15:50:45.282179Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump to the rescue for California drivers — despite Gavin Newsom: \nhttps://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-new",
-      "next_retry_at": "2026-08-25T17:10:53.247967Z",
-      "truth_social_id": "117156897871753782"
+      "truth_social_id": "117156897871753782",
+      "source_fingerprint": "fp:Trump to the rescue for California drivers — despite Gavin Newsom: \nhttps://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-new",
+      "media_identity": "attachment:117156897871753782:",
+      "translation": "トランプ、カリフォルニアドライバーの救世主へ――ギャビン・ニューサムに反して：\nhttps://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-newsom-hardest-hit/"
     },
     "truth:117156899033164170": {
       "post_status": "POSTED",
@@ -14649,7 +14657,7 @@
       "translation": "「ビジネスが好調だ。」私の素晴らしい友人で金融顧問のキップ・ヘリッジがVRAインサイダーでこれを最初に指摘した。私がボールを受け取ってそれを走らせた。トランプ経済は好調だ。だがだれも知らない。共産主義者メディアがアメリカをガスライティングしているからだ。そう、物価はまだ高い。だがそれは100%バイデンのインフレだ。トランプ下でのインフレ成長は最近の大統領の中で最も低い。大型株は史上最高値まで好調だ。利益は史上最高、収益は史上最高だ。トランプ経済はレーガン時代のレベルまで急成長している。一方フェイクニュースメディアはお前たちをだまして経済が悪いと思わせている。これは歴史上最大の詐欺だ（オバマケア、コロナワクチン、盗まれた2020年選挙以外には）。ファンタジーメディア全体が経済が悪いと宣伝している。史上最高の利益と収益が悪いのか？\nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/"
     },
     "truth:117156902282061140": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41203",
       "source_text": "<p>S&amp;P Global: ‘US Business Is Booming’: <a href=\"https://www.breitbart.com/economy/2026/08/21/biz-is-booming/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/economy/2026/08/</span><span class=\"invisible\">21/biz-is-booming/</span></a></p>",
@@ -14659,111 +14667,12 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41203",
       "first_seen": "2026-08-25T15:50:47.999695Z",
       "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:S&P Global: ‘US Business Is Booming’: \nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
       "truth_social_id": "117156902282061140",
       "source_fingerprint": "fp:S&P Global: ‘US Business Is Booming’: \nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
       "media_identity": "attachment:117156902282061140:",
       "translation": "S&P Global：「米国のビジネスが好況だ」\nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5qyhnzckm",
-          "cid": "bafyreihycxtubgxsiavpwc4dd5mx4coa45rj32zisgsth4bkwfsuyeomby"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5qyhnzckm",
-          "cid": "bafyreihycxtubgxsiavpwc4dd5mx4coa45rj32zisgsth4bkwfsuyeomby"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtw5qyhnzckm",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "S&P Global：「米国のビジネスが好況だ」\nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-          "createdAt": "2026-08-25T17:05:40.299972Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 53,
-                "byteEnd": 113
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.breitbart.com/economy/2026/08/21/biz-is-booming/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-              "title": "S&P Global: ‘US Business Is Booming’",
-              "description": "S&P said the survey data currently point to economic growth approaching a three percent annual rate in the third quarter. | Economy",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiglcnd4z2moxldkv6fggqlb7efnf66wwhhdqr2sz3h3sofd64cqmq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 29652
-              }
-            }
-          }
-        },
-        "root_rkey": "3mtw5qyhnzckm",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "S&P Global：「米国のビジネスが好況だ」\nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-          "createdAt": "2026-08-25T17:05:40.299972Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 53,
-                "byteEnd": 113
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.breitbart.com/economy/2026/08/21/biz-is-booming/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.breitbart.com/economy/2026/08/21/biz-is-booming/",
-              "title": "S&P Global: ‘US Business Is Booming’",
-              "description": "S&P said the survey data currently point to economic growth approaching a three percent annual rate in the third quarter. | Economy",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiglcnd4z2moxldkv6fggqlb7efnf66wwhhdqr2sz3h3sofd64cqmq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 29652
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5qyhnzckm",
-            "rkey": "3mtw5qyhnzckm"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5qyhnzckm",
       "expected_embed": "none",
       "expected_images": 0,
@@ -14813,9 +14722,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5qyhnzckm",
           "rkey": "3mtw5qyhnzckm"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-25T17:10:46.889996Z"
+      ]
     },
     "truth:117156903407897572": {
       "post_status": "POSTED",
