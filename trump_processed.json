@@ -1491,7 +1491,10 @@
     "truth:117156893839755661",
     "https://www.trumpstruth.org/statuses/41193",
     "truth:117156903407897572",
-    "https://www.trumpstruth.org/statuses/41201"
+    "https://www.trumpstruth.org/statuses/41201",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572",
+    "truth:117156907064842543",
+    "https://www.trumpstruth.org/statuses/41200"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14615,14 +14618,20 @@
       "translation": ""
     },
     "truth:117156905235945389": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41202",
       "source_text": "<p>EXCLUSIVE: America Is About to Make a Fortune in the Middle East and Gulf: <a href=\"https://x.com/MarioNawfal/article/2086538297384550491\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/MarioNawfal/article/2086</span><span class=\"invisible\">538297384550491</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:41:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-25T15:50:42.440573Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41202"
+      "retry_count": 1,
+      "updated_at": "2026-08-25T16:40:35.826503Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41202",
+      "first_seen": "2026-08-25T16:40:35.826470Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:EXCLUSIVE: America Is About to Make a Fortune in the Middle East and Gulf: \nhttps://x.com/MarioNawfal/article/2086538297384550491",
+      "next_retry_at": "2026-08-25T16:45:35.826512Z",
+      "truth_social_id": "117156905235945389"
     },
     "truth:117156925333799291": {
       "post_status": "DISCOVERED",
@@ -14645,14 +14654,20 @@
       "feed_post_id": "https://www.trumpstruth.org/statuses/41209"
     },
     "truth:117156907064842543": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41200",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572</span></p>",
       "published": "Tue, 25 Aug 2026 15:42:12 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-25T15:50:42.440534Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41200"
+      "updated_at": "2026-08-25T16:40:38.692714Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41200",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572",
+      "media_identity": "attachment:117156907064842543:195dacd77e8587b2.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572",
+      "truth_social_id": "117156907064842543",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572"
     },
     "truth:117156909312044740": {
       "post_status": "DISCOVERED",
