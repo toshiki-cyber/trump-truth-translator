@@ -14964,14 +14964,20 @@
       ]
     },
     "truth:117156925333799291": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41210",
       "source_text": "<p></p>",
       "published": "Tue, 25 Aug 2026 15:46:50 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-25T15:55:42.712394Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41210"
+      "retry_count": 1,
+      "updated_at": "2026-08-25T17:27:08.011707Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41210",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117156925333799291:7bb99cd6a368ee08.jpg,9d5689c9c903ca1e.jpg",
+      "failure_reason": "Blueskyログイン失敗: HTTPSConnectionPool(host='bsky.social', port=443): Max retries exceeded with url: /xrpc/com.atproto.server.createSession (Caused by ConnectTimeoutError(<HTTPSConnection(host='bsky.social', port=443) at 0x7f66940dfa10>, 'Connection to bsky.social timed out. (connect timeout=30)'))",
+      "truth_social_id": "117156925333799291",
+      "failure_stage": "LOGIN",
+      "next_retry_at": "2026-08-25T17:32:08.011721Z"
     },
     "truth:117156926105160416": {
       "post_status": "DISCOVERED",
