@@ -1451,7 +1451,10 @@
     "https://www.trumpstruth.org/statuses/41184",
     "fp:I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a wea",
     "truth:117155941181023687",
-    "https://www.trumpstruth.org/statuses/41185"
+    "https://www.trumpstruth.org/statuses/41185",
+    "fp:Canada has been “Ripping Off” the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S.",
+    "truth:117156429202842827",
+    "https://www.trumpstruth.org/statuses/41187"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14105,20 +14108,32 @@
       "truth_social_id": "117156395248393739"
     },
     "truth:117156429202842827": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41187",
       "source_text": "<p>Canada has been “Ripping Off” the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn’t certify Gulfstream Jets, until I got involved. They wanted 100% of the market for Gulfstream’s Canadian competitor. I deal with many countries, and Canada is easily the most difficult and unreasonable. They feel entitled, but they are not a State, and will be entitled no longer! President DJT</p>",
       "published": "Tue, 25 Aug 2026 13:40:40 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T13:50:41.895042Z",
+      "updated_at": "2026-08-25T14:05:44.076203Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41187",
       "first_seen": "2026-08-25T13:45:38.105086Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Canada has been “Ripping Off” the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S.",
-      "next_retry_at": "2026-08-25T14:00:41.895058Z",
-      "truth_social_id": "117156429202842827"
+      "truth_social_id": "117156429202842827",
+      "source_fingerprint": "fp:Canada has been “Ripping Off” the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S.",
+      "media_identity": "attachment:117156429202842827:",
+      "translation": "カナダは数十年間、米国を「ぼったくり」続けてきた。彼らは我々の農民に400%以上の関税を課してきた。多くの素晴らしい米国企業を倒産に追い込んできたのだ。10年間、彼らはガルフストリーム・ジェットを認証しようとしなかった。私が介入するまでは。彼らはガルフストリームのカナダ競合企業の市場を100%独占したかったのだ。私は多くの国と取引しているが、カナダは圧倒的に最も困難で非合理的だ。彼らは権利があると感じているが、彼らは州ではなく、もはや権利を持つことはないだろう！トランプ大統領"
+    },
+    "truth:117156507875234061": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41188",
+      "source_text": "<p>Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT</p>",
+      "published": "Tue, 25 Aug 2026 14:00:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-25T14:05:40.299469Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41188"
     }
   }
 }
