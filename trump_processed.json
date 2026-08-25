@@ -1477,7 +1477,10 @@
     "https://www.trumpstruth.org/statuses/41198",
     "fp:Reigniting the American dream: Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania: \nhttps://www.washing",
     "truth:117156888033437337",
-    "https://www.trumpstruth.org/statuses/41197"
+    "https://www.trumpstruth.org/statuses/41197",
+    "fp:Trump warns SC voters they’ll ‘lose everything’ if Darline Graham doesn’t win Senate race: ‘Pretend I’m on the ballot’: \nhttps://nypost.com/2026/08/21",
+    "truth:117156889170604673",
+    "https://www.trumpstruth.org/statuses/41196"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14434,20 +14437,22 @@
       "translation": "アメリカンドリームの再燃：ドナルド・トランプ、デイブ・マコーミック、ジェイミー・ダイモンがペンシルベニア州での大規模製造業推進を発表\nhttps://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/"
     },
     "truth:117156889170604673": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41196",
       "source_text": "<p>Trump warns SC voters they’ll ‘lose everything’ if Darline Graham doesn’t win Senate race: ‘Pretend I’m on the ballot’: <a href=\"https://nypost.com/2026/08/21/us-news/trump-warns-south-carolina-voters-theyll-lose-everything-if-darline-graham-doesnt-win-senate-race-pretend-im-on-the-ballot/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/us-news/</span><span class=\"invisible\">trump-warns-south-carolina-voters-theyll-lose-everything-if-darline-graham-doesnt-win-senate-race-pretend-im-on-the-ballot/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:37:39 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T15:50:43.584486Z",
+      "updated_at": "2026-08-25T16:15:43.022631Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41196",
       "first_seen": "2026-08-25T15:45:38.450898Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump warns SC voters they’ll ‘lose everything’ if Darline Graham doesn’t win Senate race: ‘Pretend I’m on the ballot’: \nhttps://nypost.com/2026/08/21",
-      "next_retry_at": "2026-08-25T16:00:43.584503Z",
-      "truth_social_id": "117156889170604673"
+      "truth_social_id": "117156889170604673",
+      "source_fingerprint": "fp:Trump warns SC voters they’ll ‘lose everything’ if Darline Graham doesn’t win Senate race: ‘Pretend I’m on the ballot’: \nhttps://nypost.com/2026/08/21",
+      "media_identity": "attachment:117156889170604673:",
+      "translation": "トランプがサウスカロライナ州の有権者に警告、ダーリン・グラハムが上院選に勝たなければ「すべてを失う」だろうと：「私が投票用紙に載っていると思ってくれ」：\nhttps://nypost.com/2026/08/21/us-news/trump-warns-south-carolina-voters-theyll-lose-everything-if-darline-graham-doesnt-win-senate-race-pretend-im-on-the-ballot/"
     },
     "truth:117156890198063330": {
       "post_status": "RETRY",
@@ -14622,7 +14627,7 @@
       "updated_at": "2026-08-25T15:55:42.712317Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41209"
     },
-    "url:https://www.trumpstruth.org/statuses/41200": {
+    "truth:117156907064842543": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41200",
@@ -14632,7 +14637,7 @@
       "updated_at": "2026-08-25T15:50:42.440534Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41200"
     },
-    "url:https://www.trumpstruth.org/statuses/41199": {
+    "truth:117156909312044740": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41199",
