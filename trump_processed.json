@@ -14530,31 +14530,184 @@
       "status_url": "https://www.trumpstruth.org/statuses/41208",
       "source_text": "<p>Trump to the rescue for California drivers — despite Gavin Newsom: <a href=\"https://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-newsom-hardest-hit/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/opinion/</span><span class=\"invisible\">trump-to-rescue-california-drivers-gavin-newsom-hardest-hit/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:39:51 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-25T16:35:39.720435Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-25T16:50:53.247942Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41208",
       "first_seen": "2026-08-25T15:50:45.282179Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Trump to the rescue for California drivers — despite Gavin Newsom: \nhttps://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-new",
-      "next_retry_at": "2026-08-25T16:45:39.720451Z",
+      "next_retry_at": "2026-08-25T17:10:53.247967Z",
       "truth_social_id": "117156897871753782"
     },
     "truth:117156899033164170": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41207",
       "source_text": "<p>America must put AI to work defending our critical infrastructure: <a href=\"https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/restori</span><span class=\"invisible\">ng-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:40:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-25T16:35:39.965453Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-25T16:51:04.004730Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41207",
       "first_seen": "2026-08-25T15:50:45.898079Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:America must put AI to work defending our critical infrastructure: \nhttps://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4",
-      "next_retry_at": "2026-08-25T16:45:39.965471Z",
-      "truth_social_id": "117156899033164170"
+      "truth_social_id": "117156899033164170",
+      "source_fingerprint": "fp:America must put AI to work defending our critical infrastructure: \nhttps://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4",
+      "media_identity": "attachment:117156899033164170:",
+      "translation": "アメリカは重要インフラの防御にAIを活用しなければならない：\nhttps://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5pj6rvsyu",
+          "cid": "bafyreicssgsjhlcheylfimvxb6zu3kykx4zyfhlui7ozzyzb4pvtz4q6jq"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5pj6rvsyu",
+          "cid": "bafyreicssgsjhlcheylfimvxb6zu3kykx4zyfhlui7ozzyzb4pvtz4q6jq"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtw5pj6rvsyu",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "アメリカは重要インフラの防御にAIを活用しなければならない：\nhttps://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/",
+          "createdAt": "2026-08-25T16:50:57.138176Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 87,
+                "byteEnd": 217
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/",
+              "title": "America must put AI to work defending our critical infrastructure ",
+              "description": "Artificial intelligence can help the U.S. meet its national security goals, even as our enemies seek to use it to get through.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibx6h7pqbfk2xigleem2wii5zinsa7yzglhi6o2w64vt4u3wlbl3y"
+                },
+                "mimeType": "image/jpeg",
+                "size": 101274
+              }
+            }
+          }
+        },
+        "root_rkey": "3mtw5pj6rvsyu",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "アメリカは重要インフラの防御にAIを活用しなければならない：\nhttps://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/",
+          "createdAt": "2026-08-25T16:50:57.138176Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 87,
+                "byteEnd": 217
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/",
+              "title": "America must put AI to work defending our critical infrastructure ",
+              "description": "Artificial intelligence can help the U.S. meet its national security goals, even as our enemies seek to use it to get through.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibx6h7pqbfk2xigleem2wii5zinsa7yzglhi6o2w64vt4u3wlbl3y"
+                },
+                "mimeType": "image/jpeg",
+                "size": 101274
+              }
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5pj6rvsyu",
+            "rkey": "3mtw5pj6rvsyu"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5pj6rvsyu",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mtw5pj6rvsyu",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "アメリカは重要インフラの防御にAIを活用しなければならない：\nhttps://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/",
+        "createdAt": "2026-08-25T16:50:57.138176Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 87,
+              "byteEnd": 217
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4671085/america-ai-work-defending-infrastructure/",
+            "title": "America must put AI to work defending our critical infrastructure ",
+            "description": "Artificial intelligence can help the U.S. meet its national security goals, even as our enemies seek to use it to get through.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibx6h7pqbfk2xigleem2wii5zinsa7yzglhi6o2w64vt4u3wlbl3y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 101274
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtw5pj6rvsyu",
+          "rkey": "3mtw5pj6rvsyu"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-25T16:56:04.004780Z"
     },
     "truth:117156900424278005": {
       "post_status": "RETRY",
