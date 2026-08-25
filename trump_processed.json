@@ -13988,6 +13988,22 @@
       "published": "Tue, 25 Aug 2026 01:14:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-25T01:20:33.184073Z"
+    },
+    "truth:117155789874645152": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41183",
+      "source_text": "<p>The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business with Ontario any longer. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Tue, 25 Aug 2026 10:58:05 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-25T11:00:38.213980Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41183",
+      "first_seen": "2026-08-25T11:00:38.213941Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
+      "next_retry_at": "2026-08-25T11:05:38.213989Z",
+      "truth_social_id": "117155789874645152"
     }
   }
 }
