@@ -14937,15 +14937,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41212",
       "source_text": "<p></p>",
       "published": "Tue, 25 Aug 2026 18:19:39 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-25T18:30:37.093925Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-25T18:35:40.499178Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41212",
       "source_fingerprint": null,
       "media_identity": "attachment:117157526221675770:47b24fb29d9842a7.jpg",
       "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/157/526/027/144/478/small/47b24fb29d9842a7.jpg",
       "truth_social_id": "117157526221675770",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-25T18:35:37.093940Z"
+      "next_retry_at": "2026-08-25T18:45:40.499197Z"
     },
     "truth:117157526888786119": {
       "post_status": "DISCOVERED",
@@ -14956,6 +14956,16 @@
       "retry_count": 0,
       "updated_at": "2026-08-25T18:25:35.953698Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41211"
+    },
+    "truth:117157578446470768": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41213",
+      "source_text": "<p>Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONALD J. TRUMP</p>",
+      "published": "Tue, 25 Aug 2026 18:32:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-25T18:35:38.431881Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41213"
     }
   }
 }
