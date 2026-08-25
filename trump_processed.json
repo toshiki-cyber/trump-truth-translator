@@ -1442,7 +1442,10 @@
     "truth:117151549778023900",
     "https://www.trumpstruth.org/statuses/41162",
     "truth:117152866332433061",
-    "https://www.trumpstruth.org/statuses/41178"
+    "https://www.trumpstruth.org/statuses/41178",
+    "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
+    "truth:117155789874645152",
+    "https://www.trumpstruth.org/statuses/41183"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -13990,20 +13993,32 @@
       "updated_at": "2026-08-25T01:20:33.184073Z"
     },
     "truth:117155789874645152": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41183",
       "source_text": "<p>The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business with Ontario any longer. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 10:58:05 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T11:05:41.384867Z",
+      "updated_at": "2026-08-25T11:15:56.792683Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41183",
       "first_seen": "2026-08-25T11:00:38.213941Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
-      "next_retry_at": "2026-08-25T11:15:41.384882Z",
-      "truth_social_id": "117155789874645152"
+      "truth_social_id": "117155789874645152",
+      "source_fingerprint": "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
+      "media_identity": "attachment:117155789874645152:",
+      "translation": "米国はオンタリオ州との商取引をもはや期待していないため、オンタリオ湖の名称をアメリカ湖に変更することを真摯に検討している。本件へのご関心をありがとう！ドナルド・J・トランプ大統領"
+    },
+    "truth:117155835599867728": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41184",
+      "source_text": "<p>The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian  crisis of epic proportions, and must be stopped, NOW. President DONALD J. TRUMP</p>",
+      "published": "Tue, 25 Aug 2026 11:09:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-25T11:15:44.243377Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41184"
     }
   }
 }
