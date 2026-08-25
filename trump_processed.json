@@ -1496,7 +1496,10 @@
     "truth:117156907064842543",
     "https://www.trumpstruth.org/statuses/41200",
     "truth:117156909312044740",
-    "https://www.trumpstruth.org/statuses/41199"
+    "https://www.trumpstruth.org/statuses/41199",
+    "fp:RT \nhttps://truthsocial.com/@realwayneroot\"US BUSINESS IS BOOMING.\" My great friend & financial advisor Kip Herriage of VRAinsider called this first. ",
+    "truth:117134545677078148",
+    "https://www.trumpstruth.org/statuses/41204"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14715,31 +14718,33 @@
       "status_url": "https://www.trumpstruth.org/statuses/41206",
       "source_text": "<p>Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest: <a href=\"https://nypost.com/2026/08/21/us-news/gavin-newsom-calls-trump-accounts-the-best-thing-hes-ever-done/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/21/us-news/</span><span class=\"invisible\">gavin-newsom-calls-trump-accounts-the-best-thing-hes-ever-done/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:40:30 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-25T16:35:40.454546Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-25T16:55:52.441656Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41206",
       "first_seen": "2026-08-25T15:50:46.697624Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest: \nhttps://nypost.com/2026/08/21/us-news/gavin-newsom-calls-t",
-      "next_retry_at": "2026-08-25T16:45:40.454563Z",
+      "next_retry_at": "2026-08-25T17:15:52.441682Z",
       "truth_social_id": "117156900424278005"
     },
     "truth:117134545677078148": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41204",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realwayneroot\">@<span>realwayneroot</span></a></span>\"US BUSINESS IS BOOMING.\" My great friend &amp; financial advisor Kip Herriage of VRAinsider called this first. I took ball &amp; ran with it. Trump economy is BOOMING. Yet no one knows it because commie media is gaslighting America. Yes prices still high, but that's 100% Biden's inflation. Inflation growth under Trump is lowest among recent presidents. Big stocks are booming to all time highs, profits all time highs, earnings all time highs- Trump economy is exploding to Reagan levels- while fake news media scams you into thinking it's bad. This is biggest scam in history (other than Obamacare, Covid vaccine &amp; stolen 2020 election)- total fantasy media is promoting that economy is bad. All time record profits &amp; earnings are bad?<br /><a href=\"https://www.breitbart.com/economy/2026/08/21/biz-is-booming/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/economy/2026/08/</span><span class=\"invisible\">21/biz-is-booming/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:40:43 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T16:35:41.068753Z",
+      "updated_at": "2026-08-25T16:55:58.493266Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41204",
       "first_seen": "2026-08-25T15:50:47.366548Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:RT \nhttps://truthsocial.com/@realwayneroot\"US BUSINESS IS BOOMING.\" My great friend & financial advisor Kip Herriage of VRAinsider called this first. ",
-      "next_retry_at": "2026-08-25T16:45:41.068772Z",
-      "truth_social_id": "117134545677078148"
+      "truth_social_id": "117134545677078148",
+      "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realwayneroot\"US BUSINESS IS BOOMING.\" My great friend & financial advisor Kip Herriage of VRAinsider called this first. ",
+      "media_identity": "attachment:117134545677078148:",
+      "translation": "「ビジネスが好調だ。」私の素晴らしい友人で金融顧問のキップ・ヘリッジがVRAインサイダーでこれを最初に指摘した。私がボールを受け取ってそれを走らせた。トランプ経済は好調だ。だがだれも知らない。共産主義者メディアがアメリカをガスライティングしているからだ。そう、物価はまだ高い。だがそれは100%バイデンのインフレだ。トランプ下でのインフレ成長は最近の大統領の中で最も低い。大型株は史上最高値まで好調だ。利益は史上最高、収益は史上最高だ。トランプ経済はレーガン時代のレベルまで急成長している。一方フェイクニュースメディアはお前たちをだまして経済が悪いと思わせている。これは歴史上最大の詐欺だ（オバマケア、コロナワクチン、盗まれた2020年選挙以外には）。ファンタジーメディア全体が経済が悪いと宣伝している。史上最高の利益と収益が悪いのか？\nhttps://www.breitbart.com/economy/2026/08/21/biz-is-booming/"
     },
     "truth:117156902282061140": {
       "post_status": "RETRY",
