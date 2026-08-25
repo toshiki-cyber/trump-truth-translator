@@ -2480,14 +2480,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/40793",
       "source_text": "<p></p>",
       "published": "Thu, 13 Aug 2026 18:25:05 +0000",
-      "retry_count": 16,
-      "updated_at": "2026-08-24T14:10:50.737355Z",
+      "retry_count": 17,
+      "updated_at": "2026-08-25T14:25:37.485946Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/40793",
       "source_fingerprint": null,
       "media_identity": "attachment:117089599858913463:2f647d000cf229e1.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/089/597/446/625/615/original/2f647d000cf229e1.mp4",
       "truth_social_id": "117089599858913463",
-      "next_retry_at": "2026-08-24T20:10:50.737369Z"
+      "next_retry_at": "2026-08-25T20:25:37.485965Z"
     },
     "truth:117089653850664292": {
       "post_status": "POSTED",
@@ -14138,14 +14138,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41188",
       "source_text": "<p>Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT</p>",
       "published": "Tue, 25 Aug 2026 14:00:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-25T14:10:39.480734Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-25T14:25:36.598262Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41188",
       "first_seen": "2026-08-25T14:10:39.480698Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT",
-      "next_retry_at": "2026-08-25T14:15:39.480742Z",
+      "next_retry_at": "2026-08-25T14:35:36.598277Z",
       "truth_social_id": "117156507875234061"
     },
     "truth:117156524147615725": {
