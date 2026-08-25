@@ -1448,7 +1448,10 @@
     "https://www.trumpstruth.org/statuses/41183",
     "fp:The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not",
     "truth:117155835599867728",
-    "https://www.trumpstruth.org/statuses/41184"
+    "https://www.trumpstruth.org/statuses/41184",
+    "fp:I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a wea",
+    "truth:117155941181023687",
+    "https://www.trumpstruth.org/statuses/41185"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14050,57 +14053,22 @@
       ]
     },
     "truth:117155941181023687": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41185",
       "source_text": "<p>I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a weak and ineffective Prime Minister in an attempt to gain political support, which he has totally lost, from the people of Quebec. I love French Canadians! President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 11:36:33 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-25T12:20:46.962929Z",
+      "updated_at": "2026-08-25T12:30:40.375743Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41185",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a wea",
       "truth_social_id": "117155941181023687",
       "first_seen": "2026-08-25T11:50:35.955643Z",
-      "no_media_confirmations": 3,
+      "no_media_confirmations": 4,
       "source_fingerprint": "fp:I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a wea",
       "media_identity": "attachment:117155941181023687:",
       "translation": "カナダ人がフランス語を話すことに干渉することなど絶対にない！実際のところ、そんな馬鹿なことをしようなんて考えたこともない。この嘘は、ケベック州の国民からの支持を完全に失った弱く無能な首相が、政治的支持を得るために作り上げたものだ。私はフランス系カナダ人を愛している！大統領 ドナルド・J・トランプ",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvq3wm4jshf",
-          "cid": "bafyreieglreycpyhbcryuplpqj2bchy7u2rfe23jjwqgzo3xduehzamer4"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvq3wm4jshf",
-          "cid": "bafyreieglreycpyhbcryuplpqj2bchy7u2rfe23jjwqgzo3xduehzamer4"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtvq3wm4jshf",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "カナダ人がフランス語を話すことに干渉することなど絶対にない！実際のところ、そんな馬鹿なことをしようなんて考えたこともない。この嘘は、ケベック州の国民からの支持を完全に失った弱く無能な首相が、政治的支持を得るために作り上げたものだ。私はフランス系カナダ人を愛している！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-08-25T12:20:40.622736Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mtvq3wm4jshf",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "カナダ人がフランス語を話すことに干渉することなど絶対にない！実際のところ、そんな馬鹿なことをしようなんて考えたこともない。この嘘は、ケベック州の国民からの支持を完全に失った弱く無能な首相が、政治的支持を得るために作り上げたものだ。私はフランス系カナダ人を愛している！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-08-25T12:20:40.622736Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvq3wm4jshf",
-            "rkey": "3mtvq3wm4jshf"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvq3wm4jshf",
       "expected_embed": "none",
       "expected_images": 0,
@@ -14118,9 +14086,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvq3wm4jshf",
           "rkey": "3mtvq3wm4jshf"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-25T12:25:46.962943Z"
+      ]
     }
   }
 }
