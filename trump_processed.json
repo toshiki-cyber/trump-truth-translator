@@ -1483,7 +1483,10 @@
     "https://www.trumpstruth.org/statuses/41196",
     "fp:Trump tells his supporters to pretend he's on the ballot in November and vote in the midterms: \nhttps://justthenews.com/politics-policy/elections/trum",
     "truth:117156890198063330",
-    "https://www.trumpstruth.org/statuses/41195"
+    "https://www.trumpstruth.org/statuses/41195",
+    "fp:Trump Rallies S.C. Voters for Darline Graham in GOP Runoff: \nhttps://www.newsmax.com/politics/trump-south-carolina-campaign-darline-graham-senate/2026",
+    "truth:117156892763263512",
+    "https://www.trumpstruth.org/statuses/41194"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14476,20 +14479,22 @@
       "translation": "トランプ大統領が支持者に対して、11月の投票で彼が投票用紙に載っていると思い込んで中間選挙投票するよう指示している：\nhttps://justthenews.com/politics-policy/elections/trump-tells-his-supporters-pretend-hes-ballot-november-and-vote-midterms"
     },
     "truth:117156892763263512": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41194",
       "source_text": "<p>Trump Rallies S.C. Voters for Darline Graham in GOP Runoff: <a href=\"https://www.newsmax.com/politics/trump-south-carolina-campaign-darline-graham-senate/2026/08/21/id/1266961/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/politics/trump-sou</span><span class=\"invisible\">th-carolina-campaign-darline-graham-senate/2026/08/21/id/1266961/</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:38:33 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T15:50:44.358826Z",
+      "updated_at": "2026-08-25T16:25:53.652909Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41194",
       "first_seen": "2026-08-25T15:45:40.225248Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump Rallies S.C. Voters for Darline Graham in GOP Runoff: \nhttps://www.newsmax.com/politics/trump-south-carolina-campaign-darline-graham-senate/2026",
-      "next_retry_at": "2026-08-25T16:00:44.358847Z",
-      "truth_social_id": "117156892763263512"
+      "truth_social_id": "117156892763263512",
+      "source_fingerprint": "fp:Trump Rallies S.C. Voters for Darline Graham in GOP Runoff: \nhttps://www.newsmax.com/politics/trump-south-carolina-campaign-darline-graham-senate/2026",
+      "media_identity": "attachment:117156892763263512:",
+      "translation": "トランプ、共和党決選投票でダーレン・グラハムを支持し、南カロライナ州有権者に呼びかけ：\nhttps://www.newsmax.com/politics/trump-south-carolina-campaign-darline-graham-senate/2026/08/21/id/1266961/"
     },
     "truth:117156893839755661": {
       "post_status": "RETRY",
@@ -14642,7 +14647,7 @@
       "updated_at": "2026-08-25T15:50:42.440534Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41200"
     },
-    "truth:117156909312044740": {
+    "url:https://www.trumpstruth.org/statuses/41199": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41199",
