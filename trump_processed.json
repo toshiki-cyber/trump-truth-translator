@@ -14206,6 +14206,38 @@
       "source_fingerprint": "fp:I have just been informed by the United States Navy that all mines have been removed and/or detonated from within the International Waters of the Stra",
       "media_identity": "attachment:117156624974445904:",
       "translation": "米海軍から報告を受けたが、ホルムズ海峡の公海からすべての機雷が除去および/または爆破された。イランには、新たに機雷を設置する船舶またはボートはすべて直ちに且つ組織的に破壊されることが通告されている。宇宙軍を通じて、ホルムズ海峡のあらゆる地点を監視しており、ピッケ山およびすでに破壊された他の3つの核施設についても同様に監視している。機雷設置に対するゼロ・トレランス方針が完全に発動している。本件へのご関心をいただきありがとうございます！大統領ドナルド・J・トランプ"
+    },
+    "truth:117156895044774814": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41192",
+      "source_text": "<p>PRESIDENT TRUMP RALLIES SOUTH CAROLINA VOTERS BEHIND DARLINE GRAHAM AHEAD OF GOP SENATE RUNOFF: <a href=\"https://www.rsbnetwork.com/news/president-trump-rallies-south-carolina-voters-behind-darline-graham-ahead-of-gop-senate-runoff/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">rsbnetwork.com/news/president-</span><span class=\"invisible\">trump-rallies-south-carolina-voters-behind-darline-graham-ahead-of-gop-senate-runoff/</span></a></p>",
+      "published": "Tue, 25 Aug 2026 15:39:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-25T15:40:38.743345Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41192",
+      "first_seen": "2026-08-25T15:40:38.743311Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:PRESIDENT TRUMP RALLIES SOUTH CAROLINA VOTERS BEHIND DARLINE GRAHAM AHEAD OF GOP SENATE RUNOFF: \nhttps://www.rsbnetwork.com/news/president-trump-ralli",
+      "next_retry_at": "2026-08-25T15:45:38.743354Z",
+      "truth_social_id": "117156895044774814"
+    },
+    "truth:117156895959885058": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41191",
+      "source_text": "<p>Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard: <a href=\"https://www.foxnews.com/opinion/sec-sean-duffy-job-get-daughter-heaven-not-harvard\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/sec-sean-d</span><span class=\"invisible\">uffy-job-get-daughter-heaven-not-harvard</span></a></p>",
+      "published": "Tue, 25 Aug 2026 15:39:22 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-25T15:40:39.156343Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41191",
+      "first_seen": "2026-08-25T15:40:39.156306Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard: \nhttps://www.foxnews.com/opinion/sec-sean-duffy-job-get-daughter-heaven-n",
+      "next_retry_at": "2026-08-25T15:45:39.156352Z",
+      "truth_social_id": "117156895959885058"
     }
   }
 }
