@@ -14964,14 +14964,20 @@
       "next_retry_at": "2026-08-25T18:45:39.752292Z"
     },
     "truth:117157578446470768": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41213",
       "source_text": "<p>Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 18:32:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-25T18:35:38.431881Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41213"
+      "retry_count": 1,
+      "updated_at": "2026-08-25T18:45:34.710859Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41213",
+      "first_seen": "2026-08-25T18:45:34.710822Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for million",
+      "next_retry_at": "2026-08-25T18:50:34.710868Z",
+      "truth_social_id": "117157578446470768"
     }
   }
 }
