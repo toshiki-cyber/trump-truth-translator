@@ -14016,12 +14016,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41184",
       "source_text": "<p>The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian  crisis of epic proportions, and must be stopped, NOW. President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 11:09:42 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-25T11:20:53.088277Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-25T11:30:36.806638Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41184",
-      "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
+      "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not",
-      "next_retry_at": "2026-08-25T11:25:53.088293Z"
+      "next_retry_at": "2026-08-25T11:40:36.806646Z",
+      "first_seen": "2026-08-25T11:30:36.806598Z",
+      "no_media_confirmations": 1,
+      "truth_social_id": "117155835599867728"
     }
   }
 }
