@@ -1445,7 +1445,10 @@
     "https://www.trumpstruth.org/statuses/41178",
     "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
     "truth:117155789874645152",
-    "https://www.trumpstruth.org/statuses/41183"
+    "https://www.trumpstruth.org/statuses/41183",
+    "fp:The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not",
+    "truth:117155835599867728",
+    "https://www.trumpstruth.org/statuses/41184"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14011,57 +14014,22 @@
       "translation": "米国はオンタリオ州との商取引をもはや期待していないため、オンタリオ湖の名称をアメリカ湖に変更することを真摯に検討している。本件へのご関心をありがとう！ドナルド・J・トランプ大統領"
     },
     "truth:117155835599867728": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "POSTED",
       "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41184",
       "source_text": "<p>The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian  crisis of epic proportions, and must be stopped, NOW. President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 11:09:42 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-25T12:05:49.565195Z",
+      "updated_at": "2026-08-25T12:15:40.657519Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41184",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": null,
       "fingerprint": "fp:The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not",
       "first_seen": "2026-08-25T11:30:36.806598Z",
-      "no_media_confirmations": 3,
+      "no_media_confirmations": 4,
       "truth_social_id": "117155835599867728",
       "source_fingerprint": "fp:The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not",
       "media_identity": "attachment:117155835599867728:",
       "translation": "衰退するイラン・イスラム共和国は軍の大部分に給与を支払っておらず、同時にデモ隊を、デモをしていない者までも含めて、かつてない規模で殺害している。これは史上最大級の人道危機であり、今すぐ止めなければならない。ドナルド・J・トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvolw73bsu4",
-          "cid": "bafyreif6b5djatkxxatnkexfaxvizxnmliizqebmpn5mp5amkkyr4otndi"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvolw73bsu4",
-          "cid": "bafyreif6b5djatkxxatnkexfaxvizxnmliizqebmpn5mp5amkkyr4otndi"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtvolw73bsu4",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "衰退するイラン・イスラム共和国は軍の大部分に給与を支払っておらず、同時にデモ隊を、デモをしていない者までも含めて、かつてない規模で殺害している。これは史上最大級の人道危機であり、今すぐ止めなければならない。ドナルド・J・トランプ大統領",
-          "createdAt": "2026-08-25T12:05:43.114462Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mtvolw73bsu4",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "衰退するイラン・イスラム共和国は軍の大部分に給与を支払っておらず、同時にデモ隊を、デモをしていない者までも含めて、かつてない規模で殺害している。これは史上最大級の人道危機であり、今すぐ止めなければならない。ドナルド・J・トランプ大統領",
-          "createdAt": "2026-08-25T12:05:43.114462Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvolw73bsu4",
-            "rkey": "3mtvolw73bsu4"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvolw73bsu4",
       "expected_embed": "none",
       "expected_images": 0,
@@ -14079,9 +14047,7 @@
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtvolw73bsu4",
           "rkey": "3mtvolw73bsu4"
         }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-25T12:10:49.565210Z"
+      ]
     },
     "truth:117155941181023687": {
       "post_status": "RETRY",
