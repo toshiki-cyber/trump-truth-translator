@@ -1514,7 +1514,10 @@
     "https://www.trumpstruth.org/statuses/41202",
     "fp:Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest: \nhttps://nypost.com/2026/08/21/us-news/gavin-newsom-calls-t",
     "truth:117156900424278005",
-    "https://www.trumpstruth.org/statuses/41206"
+    "https://www.trumpstruth.org/statuses/41206",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
+    "truth:117156926105160416",
+    "https://www.trumpstruth.org/statuses/41209"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14882,14 +14885,20 @@
       "next_retry_at": "2026-08-25T17:40:38.886260Z"
     },
     "truth:117156926105160416": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41209",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291</span></p>",
       "published": "Tue, 25 Aug 2026 15:47:02 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-25T15:55:42.712317Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41209"
+      "updated_at": "2026-08-25T17:40:39.029159Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41209",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
+      "media_identity": "attachment:117156926105160416:7bb99cd6a368ee08.jpg,8b429cf93eaa56fb.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
+      "truth_social_id": "117156926105160416",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291"
     },
     "truth:117156907064842543": {
       "post_status": "POSTED",
