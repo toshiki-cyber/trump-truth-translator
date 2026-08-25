@@ -1486,7 +1486,10 @@
     "https://www.trumpstruth.org/statuses/41195",
     "fp:Trump Rallies S.C. Voters for Darline Graham in GOP Runoff: \nhttps://www.newsmax.com/politics/trump-south-carolina-campaign-darline-graham-senate/2026",
     "truth:117156892763263512",
-    "https://www.trumpstruth.org/statuses/41194"
+    "https://www.trumpstruth.org/statuses/41194",
+    "fp:Trump stumps for Darline Graham ahead of South Carolina runoff: \nhttps://www.washingtontimes.com/news/2026/aug/21/trump-stumps-darline-graham-ahead-so",
+    "truth:117156893839755661",
+    "https://www.trumpstruth.org/statuses/41193"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -14497,20 +14500,22 @@
       "translation": "トランプ、共和党決選投票でダーレン・グラハムを支持し、南カロライナ州有権者に呼びかけ：\nhttps://www.newsmax.com/politics/trump-south-carolina-campaign-darline-graham-senate/2026/08/21/id/1266961/"
     },
     "truth:117156893839755661": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/41193",
       "source_text": "<p>Trump stumps for Darline Graham ahead of South Carolina runoff: <a href=\"https://www.washingtontimes.com/news/2026/aug/21/trump-stumps-darline-graham-ahead-south-carolina-runoff/?srsltid=AfmBOop-rzsASfysNGXS509NP96RoIXvhRBtoKova99-CaOz-OPmbd9g\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/21/trump-stumps-darline-graham-ahead-south-carolina-runoff/?srsltid=AfmBOop-rzsASfysNGXS509NP96RoIXvhRBtoKova99-CaOz-OPmbd9g</span></a></p>",
       "published": "Tue, 25 Aug 2026 15:38:50 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-25T15:50:44.702554Z",
+      "updated_at": "2026-08-25T16:30:56.878655Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41193",
       "first_seen": "2026-08-25T15:45:40.916456Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Trump stumps for Darline Graham ahead of South Carolina runoff: \nhttps://www.washingtontimes.com/news/2026/aug/21/trump-stumps-darline-graham-ahead-so",
-      "next_retry_at": "2026-08-25T16:00:44.702573Z",
-      "truth_social_id": "117156893839755661"
+      "truth_social_id": "117156893839755661",
+      "source_fingerprint": "fp:Trump stumps for Darline Graham ahead of South Carolina runoff: \nhttps://www.washingtontimes.com/news/2026/aug/21/trump-stumps-darline-graham-ahead-so",
+      "media_identity": "attachment:117156893839755661:",
+      "translation": "トランプ、サウスカロライナ州決選投票を前にダーリーン・グラハムを応援：\nhttps://www.washingtontimes.com/news/2026/aug/21/trump-stumps-darline-graham-ahead-south-carolina-runoff/?srsltid=AfmBOop-rzsASfysNGXS509NP96RoIXvhRBtoKova99-CaOz-OPmbd9g"
     },
     "truth:117156897871753782": {
       "post_status": "RETRY",
