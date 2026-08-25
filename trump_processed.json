@@ -14094,14 +14094,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41186",
       "source_text": "<p>Based on my very good relationship with Kim Jong Un, of North Korea, I was not happy with the fact that the United States had, long ago, agreed to participate in Joint Military Exercises with South Korea. These exercises are not only costly, with much of these costs paid for by the United States of America (as usual!), but send a signal that is totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful. Therefore, and based on the fact that it was too late to cancel, I instructed Secretary of War, Pete Hegseth, to substantially reduce the Joint Military Exercises! While somewhat unrelated (?), I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran, and they said, “No thanks!” Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Tue, 25 Aug 2026 13:32:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-25T13:45:37.468782Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-25T13:55:54.286577Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41186",
       "first_seen": "2026-08-25T13:40:36.161076Z",
       "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "failure_reason": "ミラーのメディア確認失敗: HTTPSConnectionPool(host='www.trumpstruth.org', port=443): Read timed out. (read timeout=15)",
       "fingerprint": "fp:Based on my very good relationship with Kim Jong Un, of North Korea, I was not happy with the fact that the United States had, long ago, agreed to par",
-      "next_retry_at": "2026-08-25T13:55:37.468798Z",
+      "next_retry_at": "2026-08-25T14:15:54.286606Z",
       "truth_social_id": "117156395248393739"
     },
     "truth:117156429202842827": {
