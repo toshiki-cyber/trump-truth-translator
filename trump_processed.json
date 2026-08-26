@@ -1597,7 +1597,10 @@
     "https://www.trumpstruth.org/statuses/41247",
     "fp:Apple to invest $30 billion in US chip manufacturing: \nhttps://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
     "truth:117162723145155748",
-    "https://www.trumpstruth.org/statuses/41246"
+    "https://www.trumpstruth.org/statuses/41246",
+    "fp:The Empire of Liberty vs the Dictatorship of Hate: \nhttps://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/",
+    "truth:117162724073350953",
+    "https://www.trumpstruth.org/statuses/41245"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11697,6 +11700,24 @@
       "media_identity": "attachment:117162723145155748:",
       "translation": "アップルが米国チップ製造に300億ドルを投資へ：\nhttps://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing"
     },
+    "truth:117162724073350953": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41245",
+      "source_text": "<p>The Empire of Liberty vs the Dictatorship of Hate: <a href=\"https://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gingrich360.com/2026/07/07/the</span><span class=\"invisible\">-empire-of-liberty-vs-the-dictatorship-of-hate/</span></a></p>",
+      "published": "Wed, 26 Aug 2026 16:21:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T19:05:41.753799Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41245",
+      "first_seen": "2026-08-26T18:40:36.485286Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Empire of Liberty vs the Dictatorship of Hate: \nhttps://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/",
+      "truth_social_id": "117162724073350953",
+      "source_fingerprint": "fp:The Empire of Liberty vs the Dictatorship of Hate: \nhttps://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/",
+      "media_identity": "attachment:117162724073350953:",
+      "translation": "自由の帝国対憎悪の独裁体制：\nhttps://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/"
+    },
     "truth:117162567997143475": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15981,22 +16002,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162724073350953": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41245",
-      "source_text": "<p>The Empire of Liberty vs the Dictatorship of Hate: <a href=\"https://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gingrich360.com/2026/07/07/the</span><span class=\"invisible\">-empire-of-liberty-vs-the-dictatorship-of-hate/</span></a></p>",
-      "published": "Wed, 26 Aug 2026 16:21:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T18:50:35.277971Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41245",
-      "first_seen": "2026-08-26T18:40:36.485286Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Empire of Liberty vs the Dictatorship of Hate: \nhttps://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/",
-      "next_retry_at": "2026-08-26T18:55:39.397729Z",
-      "truth_social_id": "117162724073350953"
-    },
     "truth:117162724881235805": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16389,7 +16394,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T19:00:40.824750Z",
+      "updated_at": "2026-08-26T19:05:38.461215Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
