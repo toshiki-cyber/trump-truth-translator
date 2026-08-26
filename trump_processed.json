@@ -1542,7 +1542,9 @@
     "https://trumpstruth.org/statuses/41217",
     "fp:Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT",
     "truth:117161589385228268",
-    "https://trumpstruth.org/statuses/41219"
+    "https://trumpstruth.org/statuses/41219",
+    "truth:117162567997143475",
+    "https://trumpstruth.org/statuses/41227"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11540,6 +11542,21 @@
       "media_identity": "attachment:117161589385228268:",
       "translation": "下院議長マイク・ジョンソンは素晴らしい。やり遂げる能力がある！！！ 大統領 DJT"
     },
+    "truth:117162567997143475": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41227",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:41:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T16:55:49.245071Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41227",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162567997143475:227deed8aae8a255.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162567997143475",
+      "translation": ""
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15596,16 +15613,6 @@
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-26T16:56:01.888067Z"
     },
-    "truth:117162567997143475": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41227",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:41:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.683576Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41227"
-    },
     "truth:117162569163470489": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15919,11 +15926,11 @@
     "truth:117162764865112565": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41261",
-      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@megforflorida\">@<span>megforflorida</span></a></span>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
-      "published": "Wed, 26 Aug 2026 16:42:55 +0000",
+      "status_url": "https://trumpstruth.org/statuses/41262",
+      "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
+      "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682064Z",
+      "updated_at": "2026-08-26T16:55:38.017726Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
