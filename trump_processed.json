@@ -1581,7 +1581,9 @@
     "https://trumpstruth.org/statuses/41232",
     "fp:Mike Waltz Takes Cuba to School: \nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
     "truth:117162628410708923",
-    "https://trumpstruth.org/statuses/41231"
+    "https://trumpstruth.org/statuses/41231",
+    "truth:117162635486699864",
+    "https://trumpstruth.org/statuses/41237"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11957,6 +11959,21 @@
       "truth_social_id": "117162628410708923",
       "translation": "マイク・ウォルツ、キューバを徹底的に論破：\nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2"
     },
+    "truth:117162635486699864": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41237",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:59:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:25:48.468817Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41237",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162635486699864:28369706eaab3e25.jpg,4d296e1ffa35958c.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162635486699864",
+      "translation": ""
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15867,16 +15884,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162635486699864": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41237",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:59:00 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.683012Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41237"
-    },
     "truth:117162662461574744": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16044,7 +16051,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:20:39.232819Z",
+      "updated_at": "2026-08-26T18:25:39.546702Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
