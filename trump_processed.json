@@ -1555,7 +1555,9 @@
     "https://trumpstruth.org/statuses/41225",
     "fp:Every Dumocrat\nvoted, \"NO,\" to THE SAVE AMERICA ACT!\n﻿﻿﻿\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!\n﻿﻿﻿2. ALL ",
     "truth:117162555565968816",
-    "https://trumpstruth.org/statuses/41220"
+    "https://trumpstruth.org/statuses/41220",
+    "truth:117162572939245146",
+    "https://trumpstruth.org/statuses/41224"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11671,6 +11673,21 @@
       "media_identity": "attachment:117162555565968816:",
       "translation": "あらゆる民主党員が「SAVE AMERICA ACT」に「NO」と投票した！\n\n1. すべての投票者は写真付き身分証明書（IDENTIFICATION！）を提示する必要がある - つまり彼らはカンニングしたいのだ！\n\n2. すべての投票者は市民権の証明を提示する必要がある - つまり彼らは犯罪者である違法外国人に投票させたいのだ！"
     },
+    "truth:117162572939245146": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41224",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:43:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T17:20:45.747546Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41224",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162572939245146:0543d9ced199d812.jpg,542cf595a8a45738.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162572939245146",
+      "translation": ""
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15581,16 +15598,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162572939245146": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41224",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:43:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.683472Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41224"
-    },
     "truth:117162574475742777": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15878,7 +15885,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:15:35.773892Z",
+      "updated_at": "2026-08-26T17:20:36.230559Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
