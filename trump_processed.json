@@ -1552,7 +1552,10 @@
     "https://trumpstruth.org/statuses/41226",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162569163470489",
     "truth:117162570262085889",
-    "https://trumpstruth.org/statuses/41225"
+    "https://trumpstruth.org/statuses/41225",
+    "fp:Every Dumocrat\nvoted, \"NO,\" to THE SAVE AMERICA ACT!\n﻿﻿﻿\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!\n﻿﻿﻿2. ALL ",
+    "truth:117162555565968816",
+    "https://trumpstruth.org/statuses/41220"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11650,6 +11653,24 @@
       "truth_social_id": "117162570262085889",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117162569163470489"
     },
+    "truth:117162555565968816": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41220",
+      "source_text": "<p>Every Dumocrat<br />voted, \"NO,\" to THE SAVE AMERICA ACT!<br />﻿﻿﻿<br />1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!</p><p>﻿﻿﻿2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP - Meaning they want Criminal Illegal Aliens to VOTE!</p>",
+      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-26T17:15:43.170002Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41220",
+      "first_seen": "2026-08-26T16:50:40.612455Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Every Dumocrat\nvoted, \"NO,\" to THE SAVE AMERICA ACT!\n﻿﻿﻿\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!\n﻿﻿﻿2. ALL ",
+      "truth_social_id": "117162555565968816",
+      "source_fingerprint": "fp:Every Dumocrat\nvoted, \"NO,\" to THE SAVE AMERICA ACT!\n﻿﻿﻿\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!\n﻿﻿﻿2. ALL ",
+      "media_identity": "attachment:117162555565968816:",
+      "translation": "あらゆる民主党員が「SAVE AMERICA ACT」に「NO」と投票した！\n\n1. すべての投票者は写真付き身分証明書（IDENTIFICATION！）を提示する必要がある - つまり彼らはカンニングしたいのだ！\n\n2. すべての投票者は市民権の証明を提示する必要がある - つまり彼らは犯罪者である違法外国人に投票させたいのだ！"
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15560,22 +15581,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162555565968816": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41220",
-      "source_text": "<p>Every Dumocrat<br />voted, \"NO,\" to THE SAVE AMERICA ACT!<br />﻿﻿﻿<br />1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!</p><p>﻿﻿﻿2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP - Meaning they want Criminal Illegal Aliens to VOTE!</p>",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T17:00:34.797222Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41220",
-      "first_seen": "2026-08-26T16:50:40.612455Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Every Dumocrat\nvoted, \"NO,\" to THE SAVE AMERICA ACT!\n﻿﻿﻿\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!\n﻿﻿﻿2. ALL ",
-      "next_retry_at": "2026-08-26T17:10:34.797241Z",
-      "truth_social_id": "117162555565968816"
-    },
     "truth:117162572939245146": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15873,7 +15878,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:10:34.294589Z",
+      "updated_at": "2026-08-26T17:15:35.773892Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
