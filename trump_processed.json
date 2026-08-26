@@ -1578,7 +1578,10 @@
     "truth:117162623181014604",
     "https://trumpstruth.org/statuses/41233",
     "truth:117162623815523911",
-    "https://trumpstruth.org/statuses/41232"
+    "https://trumpstruth.org/statuses/41232",
+    "fp:Mike Waltz Takes Cuba to School: \nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
+    "truth:117162628410708923",
+    "https://trumpstruth.org/statuses/41231"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11938,6 +11941,22 @@
       "truth_social_id": "117162623815523911",
       "translation": ""
     },
+    "truth:117162628410708923": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41231",
+      "source_text": "<p>Mike Waltz Takes Cuba to School: <a href=\"https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/mike-waltz-tak</span><span class=\"invisible\">es-cuba-to-school-25912dc2</span></a></p>",
+      "published": "Wed, 26 Aug 2026 15:57:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:20:50.971672Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41231",
+      "source_fingerprint": "fp:Mike Waltz Takes Cuba to School: \nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
+      "media_identity": "attachment:117162628410708923:3cf3e102bda57187.jpg,de7d71b9d4289010.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Mike Waltz Takes Cuba to School: \nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
+      "truth_social_id": "117162628410708923",
+      "translation": "マイク・ウォルツ、キューバを徹底的に論破：\nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2"
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15848,16 +15867,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162628410708923": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41231",
-      "source_text": "<p>Mike Waltz Takes Cuba to School: <a href=\"https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/mike-waltz-tak</span><span class=\"invisible\">es-cuba-to-school-25912dc2</span></a></p>",
-      "published": "Wed, 26 Aug 2026 15:57:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.683049Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41231"
-    },
     "truth:117162635486699864": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16035,7 +16044,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:15:37.874699Z",
+      "updated_at": "2026-08-26T18:20:39.232819Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
