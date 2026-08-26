@@ -1594,7 +1594,10 @@
     "https://trumpstruth.org/statuses/41252",
     "fp:Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee",
     "truth:117162722385526068",
-    "https://www.trumpstruth.org/statuses/41247"
+    "https://www.trumpstruth.org/statuses/41247",
+    "fp:Apple to invest $30 billion in US chip manufacturing: \nhttps://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
+    "truth:117162723145155748",
+    "https://www.trumpstruth.org/statuses/41246"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11676,6 +11679,24 @@
       "media_identity": "attachment:117162722385526068:",
       "translation": "スコット・ベッセント財務長官がテネシー州ダンドリッジのインターステート40沿いのドナルド・J・トランプ大統領橋の公式除幕式でスピーチを行う：\nhttps://home.treasury.gov/news/press-releases/sb0557/"
     },
+    "truth:117162723145155748": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41246",
+      "source_text": "<p>Apple to invest $30 billion in US chip manufacturing: <a href=\"https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/media/apple-in</span><span class=\"invisible\">vest-30-billion-us-chip-manufacturing</span></a></p>",
+      "published": "Wed, 26 Aug 2026 16:21:18 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T19:00:45.727020Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41246",
+      "first_seen": "2026-08-26T18:40:36.109196Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Apple to invest $30 billion in US chip manufacturing: \nhttps://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
+      "truth_social_id": "117162723145155748",
+      "source_fingerprint": "fp:Apple to invest $30 billion in US chip manufacturing: \nhttps://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
+      "media_identity": "attachment:117162723145155748:",
+      "translation": "アップルが米国チップ製造に300億ドルを投資へ：\nhttps://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing"
+    },
     "truth:117162567997143475": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15960,22 +15981,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162723145155748": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41246",
-      "source_text": "<p>Apple to invest $30 billion in US chip manufacturing: <a href=\"https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/media/apple-in</span><span class=\"invisible\">vest-30-billion-us-chip-manufacturing</span></a></p>",
-      "published": "Wed, 26 Aug 2026 16:21:18 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T18:50:35.278032Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41246",
-      "first_seen": "2026-08-26T18:40:36.109196Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Apple to invest $30 billion in US chip manufacturing: \nhttps://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
-      "next_retry_at": "2026-08-26T18:55:38.864152Z",
-      "truth_social_id": "117162723145155748"
-    },
     "truth:117162724073350953": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16384,7 +16389,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:55:39.824143Z",
+      "updated_at": "2026-08-26T19:00:40.824750Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
