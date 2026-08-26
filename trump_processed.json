@@ -11589,74 +11589,6 @@
       "media_identity": "attachment:117161589385228268:",
       "translation": "下院議長マイク・ジョンソンは素晴らしい。やり遂げる能力がある！！！ 大統領 DJT"
     },
-    "truth:117162567997143475": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41227",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:41:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:55:49.245071Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41227",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117162567997143475:227deed8aae8a255.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117162567997143475",
-      "translation": ""
-    },
-    "truth:117162563343140683": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41228",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:40:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-26T17:00:42.797037Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41228",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117162563343140683:1f6b0fe4e5079273.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117162563343140683",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyo7dqnsk63",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mtyo7dqnsk63",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-26T16:50:54.870544Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreietashkte3y3zkcye7yk6ur66rqgsqjhkfhzpdruuvunfwuzznonu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 265576
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1407,
-                "height": 730
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyo7dqnsk63",
-          "rkey": "3mtyo7dqnsk63"
-        }
-      ]
-    },
     "truth:117162569163470489": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -11707,15 +11639,99 @@
       "media_identity": "attachment:117162555565968816:",
       "translation": "あらゆる民主党員が「SAVE AMERICA ACT」に「NO」と投票した！\n\n1. すべての投票者は写真付き身分証明書（IDENTIFICATION！）を提示する必要がある - つまり彼らはカンニングしたいのだ！\n\n2. すべての投票者は市民権の証明を提示する必要がある - つまり彼らは犯罪者である違法外国人に投票させたいのだ！"
     },
-    "truth:117162572939245146": {
+    "truth:117162664034818738": {
       "post_status": "POSTED",
       "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41224",
+      "status_url": "https://trumpstruth.org/statuses/41238",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744</span></p>",
+      "published": "Wed, 26 Aug 2026 16:06:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:35:51.766829Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41238",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
+      "media_identity": "attachment:117162664034818738:6ea8ae09ce1b658c-a751a0832354.png,9e268d38c0d21a0d.png,a224a671da645ecc.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
+      "truth_social_id": "117162664034818738",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744"
+    },
+    "truth:117162567997143475": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41227",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:41:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279224Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41227",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162567997143475:227deed8aae8a255.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162567997143475",
+      "translation": ""
+    },
+    "truth:117162563343140683": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41228",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:40:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279288Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41228",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162563343140683:1f6b0fe4e5079273.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162563343140683",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyo7dqnsk63",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mtyo7dqnsk63",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-08-26T16:50:54.870544Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreietashkte3y3zkcye7yk6ur66rqgsqjhkfhzpdruuvunfwuzznonu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 265576
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1407,
+                "height": 730
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyo7dqnsk63",
+          "rkey": "3mtyo7dqnsk63"
+        }
+      ]
+    },
+    "truth:117162572939245146": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41224",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:43:06 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:20:45.747546Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41224",
+      "updated_at": "2026-08-26T18:50:35.279038Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41224",
       "source_fingerprint": null,
       "media_identity": "attachment:117162572939245146:0543d9ced199d812.jpg,542cf595a8a45738.jpg",
       "failure_reason": null,
@@ -11723,14 +11739,14 @@
       "translation": ""
     },
     "truth:117162574475742777": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41223",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41223",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:43:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:26:04.423284Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41223",
+      "updated_at": "2026-08-26T18:50:35.278977Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41223",
       "source_fingerprint": null,
       "media_identity": "attachment:117162574475742777:5b455c50d193b572.jpg",
       "failure_reason": null,
@@ -11738,14 +11754,14 @@
       "translation": ""
     },
     "truth:117162575525780977": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41222",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41222",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:43:45 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:30:47.405679Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41222",
+      "updated_at": "2026-08-26T18:50:35.278916Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41222",
       "source_fingerprint": null,
       "media_identity": "attachment:117162575525780977:5bd089acad0c6568.jpg",
       "failure_reason": null,
@@ -11753,14 +11769,14 @@
       "translation": ""
     },
     "truth:117162576006975126": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41221",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41221",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:43:53 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:35:53.900336Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41221",
+      "updated_at": "2026-08-26T18:50:35.278855Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41221",
       "source_fingerprint": null,
       "media_identity": "attachment:117162576006975126:ec0925e6bec1be13.jpg",
       "failure_reason": null,
@@ -11768,14 +11784,14 @@
       "translation": ""
     },
     "truth:117162595986147332": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41229",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41229",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:48:58 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:40:49.803100Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41229",
+      "updated_at": "2026-08-26T18:50:35.278718Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41229",
       "source_fingerprint": null,
       "media_identity": "attachment:117162595986147332:fa78f51d69a5d660.jpg",
       "failure_reason": null,
@@ -11783,14 +11799,14 @@
       "translation": ""
     },
     "truth:117162620402215221": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41236",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41236",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:55:10 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-26T17:45:53.735300Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41236",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.278654Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41236",
       "source_fingerprint": null,
       "media_identity": "attachment:117162620402215221:3983bcfffa8babe3.jpg",
       "failure_reason": null,
@@ -11836,14 +11852,14 @@
       ]
     },
     "truth:117162621595617688": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41234",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41234",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:55:28 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:55:50.115675Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41234",
+      "updated_at": "2026-08-26T18:50:35.278514Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41234",
       "source_fingerprint": null,
       "media_identity": "attachment:117162621595617688:22b0bc6adeb33c6d.jpg",
       "failure_reason": null,
@@ -11851,14 +11867,14 @@
       "translation": ""
     },
     "truth:117162620984253595": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41235",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41235",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:55:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-26T18:00:49.905598Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41235",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.278575Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41235",
       "source_fingerprint": null,
       "media_identity": "attachment:117162620984253595:fa73e3ffb2044607.jpg",
       "failure_reason": null,
@@ -11904,14 +11920,14 @@
       ]
     },
     "truth:117162591991461737": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41230",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41230",
       "source_text": "<p>I-95 exit sign now reads 'President Donald Trump Int'l Airport': <a href=\"https://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">palmbeachpost.com/story/news/t</span><span class=\"invisible\">rump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/</span></a></p>",
       "published": "Wed, 26 Aug 2026 15:47:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:05:44.036300Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41230",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.278793Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41230",
       "first_seen": "2026-08-26T17:40:41.181384Z",
       "no_media_confirmations": 3,
       "failure_reason": null,
@@ -11922,14 +11938,14 @@
       "translation": "I-95の出口看板に「ドナルド・トランプ大統領国際空港」と表示されるようになった：\nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/"
     },
     "truth:117162623181014604": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41233",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41233",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:55:53 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:10:41.213687Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41233",
+      "updated_at": "2026-08-26T18:50:35.278454Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41233",
       "source_fingerprint": null,
       "media_identity": "attachment:117162623181014604:1129edded5cc4a3c.jpg",
       "failure_reason": null,
@@ -11937,14 +11953,14 @@
       "translation": ""
     },
     "truth:117162623815523911": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41232",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41232",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:56:02 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:15:47.958816Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41232",
+      "updated_at": "2026-08-26T18:50:35.278393Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41232",
       "source_fingerprint": null,
       "media_identity": "attachment:117162623815523911:4afc8e66a81ea94f.jpg",
       "failure_reason": null,
@@ -11952,14 +11968,14 @@
       "translation": ""
     },
     "truth:117162628410708923": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41231",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41231",
       "source_text": "<p>Mike Waltz Takes Cuba to School: <a href=\"https://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/mike-waltz-tak</span><span class=\"invisible\">es-cuba-to-school-25912dc2</span></a></p>",
       "published": "Wed, 26 Aug 2026 15:57:12 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:20:50.971672Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41231",
+      "updated_at": "2026-08-26T18:50:35.278333Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41231",
       "source_fingerprint": "fp:Mike Waltz Takes Cuba to School: \nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2",
       "media_identity": "attachment:117162628410708923:3cf3e102bda57187.jpg,de7d71b9d4289010.jpg",
       "failure_reason": null,
@@ -11968,14 +11984,14 @@
       "translation": "マイク・ウォルツ、キューバを徹底的に論破：\nhttps://www.wsj.com/opinion/mike-waltz-takes-cuba-to-school-25912dc2"
     },
     "truth:117162635486699864": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41237",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41237",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 15:59:00 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:25:48.468817Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41237",
+      "updated_at": "2026-08-26T18:50:35.278273Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41237",
       "source_fingerprint": null,
       "media_identity": "attachment:117162635486699864:28369706eaab3e25.jpg,4d296e1ffa35958c.jpg",
       "failure_reason": null,
@@ -11983,45 +11999,29 @@
       "translation": ""
     },
     "truth:117162662461574744": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41239",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41239",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 16:05:52 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:30:45.343964Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41239",
+      "updated_at": "2026-08-26T18:50:35.278213Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41239",
       "source_fingerprint": null,
       "media_identity": "attachment:117162662461574744:6ea8ae09ce1b658c.png",
       "failure_reason": null,
       "truth_social_id": "117162662461574744",
       "translation": ""
     },
-    "truth:117162664034818738": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41238",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744</span></p>",
-      "published": "Wed, 26 Aug 2026 16:06:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T18:35:51.766829Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41238",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
-      "media_identity": "attachment:117162664034818738:6ea8ae09ce1b658c-a751a0832354.png,9e268d38c0d21a0d.png,a224a671da645ecc.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
-      "truth_social_id": "117162664034818738",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744"
-    },
     "truth:117162745162432870": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41252",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41252",
       "source_text": "<p>Trump Unleashes Scott Bessent on Iran: <a href=\"https://www.wsj.com/opinion/donald-trump-scott-bessent-sanctions-iran-oil-economy-96362772\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/donald-trump-s</span><span class=\"invisible\">cott-bessent-sanctions-iran-oil-economy-96362772</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:26:54 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:40:44.331752Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41252",
+      "updated_at": "2026-08-26T18:50:35.277595Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41252",
       "source_fingerprint": "fp:Trump Unleashes Scott Bessent on Iran: \nhttps://www.wsj.com/opinion/donald-trump-scott-bessent-sanctions-iran-oil-economy-96362772",
       "media_identity": "attachment:117162745162432870:2fc86e1857ecbe5f.jpg,51deee2c38d74092.jpg,7da4c5967e9b6188.jpg,9701667ea768acbd.jpg",
       "failure_reason": null,
@@ -13907,12 +13907,12 @@
     "truth:117151065984633970": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41155",
-      "source_text": "<p>Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: <a href=\"https://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/</span></a></p>",
-      "published": "Mon, 24 Aug 2026 14:56:44 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/41160",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: <a href=\"https://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/</span></a></p>",
+      "published": "Mon, 24 Aug 2026 17:03:17 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:45:35.065726Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41160",
+      "updated_at": "2026-08-26T18:50:35.280426Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41160",
       "first_seen": "2026-08-24T15:00:43.913591Z",
       "no_media_confirmations": 3,
       "failure_reason": null,
@@ -13925,12 +13925,12 @@
     "truth:117151357800143501": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41159",
+      "status_url": "https://www.trumpstruth.org/statuses/41159",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Operations,” where they try to demoralize Republicans so that they don’t go out and vote — But the actual Polls are tremendous, and the Spirit in our Country has never been higher. We’re winning against EVERYONE, including Iran, whose Country is in Economic and Military Death Spiral. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Mon, 24 Aug 2026 17:03:21 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T06:50:37.334193Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41159",
+      "updated_at": "2026-08-26T18:50:35.280364Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41159",
       "first_seen": "2026-08-24T16:20:38.919227Z",
       "no_media_confirmations": 3,
       "failure_reason": null,
@@ -14666,17 +14666,17 @@
     "truth:117152868451684038": {
       "post_status": "BLOCKED",
       "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41176",
+      "status_url": "https://www.trumpstruth.org/statuses/41176",
       "source_text": "<p></p>",
       "published": "Mon, 24 Aug 2026 22:35:07 +0000",
-      "updated_at": "2026-08-26T07:05:37.343993Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41176",
+      "updated_at": "2026-08-26T18:50:41.446814Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41176",
       "source_fingerprint": null,
-      "media_identity": "attachment:117152868451684038:8b66759ffa2302b0-8df249b82b20.mp4",
+      "media_identity": "attachment:117152868451684038:8b66759ffa2302b0-32c7794c893a.mp4",
       "truth_social_id": "117152868451684038",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/152/867/809/876/573/original/8b66759ffa2302b0.mp4",
       "retry_count": 1,
-      "next_retry_at": "2026-08-26T07:10:37.344008Z"
+      "next_retry_at": "2026-08-26T18:55:41.446832Z"
     },
     "truth:117152865536069947": {
       "post_status": "DISCOVERED",
@@ -15940,14 +15940,14 @@
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
     "truth:117162722385526068": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41247",
+      "status_url": "https://www.trumpstruth.org/statuses/41247",
       "source_text": "<p>Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee: <a href=\"https://home.treasury.gov/news/press-releases/sb0557/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">home.treasury.gov/news/press-r</span><span class=\"invisible\">eleases/sb0557/</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:21:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:38.281360Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41247",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.278092Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41247",
       "first_seen": "2026-08-26T18:40:35.285045Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -15956,14 +15956,14 @@
       "truth_social_id": "117162722385526068"
     },
     "truth:117162723145155748": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41246",
+      "status_url": "https://www.trumpstruth.org/statuses/41246",
       "source_text": "<p>Apple to invest $30 billion in US chip manufacturing: <a href=\"https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/media/apple-in</span><span class=\"invisible\">vest-30-billion-us-chip-manufacturing</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:21:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:38.864137Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41246",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.278032Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41246",
       "first_seen": "2026-08-26T18:40:36.109196Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -15972,14 +15972,14 @@
       "truth_social_id": "117162723145155748"
     },
     "truth:117162724073350953": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41245",
+      "status_url": "https://www.trumpstruth.org/statuses/41245",
       "source_text": "<p>The Empire of Liberty vs the Dictatorship of Hate: <a href=\"https://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gingrich360.com/2026/07/07/the</span><span class=\"invisible\">-empire-of-liberty-vs-the-dictatorship-of-hate/</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:21:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:39.397714Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41245",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.277971Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41245",
       "first_seen": "2026-08-26T18:40:36.485286Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -15988,14 +15988,14 @@
       "truth_social_id": "117162724073350953"
     },
     "truth:117162724881235805": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41244",
+      "status_url": "https://www.trumpstruth.org/statuses/41244",
       "source_text": "<p>DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: <a href=\"https://dailycaller.com/2026/07/08/justice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailycaller.com/2026/07/08/jus</span><span class=\"invisible\">tice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:21:44 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:39.817904Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41244",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.277911Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41244",
       "first_seen": "2026-08-26T18:40:37.082567Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -16004,14 +16004,14 @@
       "truth_social_id": "117162724881235805"
     },
     "truth:117162725728545854": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41243",
+      "status_url": "https://www.trumpstruth.org/statuses/41243",
       "source_text": "<p>MORNING GLORY: GOP's only path in November – defend Trump and defeat radicals in Iran: <a href=\"https://www.foxnews.com/opinion/morning-glory-gops-path-november-defend-trump-defeat-radicals-iran\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/morning-gl</span><span class=\"invisible\">ory-gops-path-november-defend-trump-defeat-radicals-iran</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:21:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:40.139508Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41243",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.277851Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41243",
       "first_seen": "2026-08-26T18:40:37.461301Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -16020,14 +16020,14 @@
       "truth_social_id": "117162725728545854"
     },
     "truth:117162726805157521": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41242",
+      "status_url": "https://www.trumpstruth.org/statuses/41242",
       "source_text": "<p>Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: <a href=\"https://www.breitbart.com/entertainment/2026/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/entertainment/20</span><span class=\"invisible\">26/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:22:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:40.615706Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41242",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.277791Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41242",
       "first_seen": "2026-08-26T18:40:37.796918Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -16036,14 +16036,14 @@
       "truth_social_id": "117162726805157521"
     },
     "truth:117162727685642558": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41241",
+      "status_url": "https://www.trumpstruth.org/statuses/41241",
       "source_text": "<p>Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: <a href=\"https://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:22:27 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:41.057040Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41241",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.277730Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41241",
       "first_seen": "2026-08-26T18:40:38.164244Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -16052,14 +16052,14 @@
       "truth_social_id": "117162727685642558"
     },
     "truth:117162728606908072": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41240",
+      "status_url": "https://www.trumpstruth.org/statuses/41240",
       "source_text": "<p>Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: <a href=\"https://amac.us/newsline/supreme-court-delivers-major-election-integrity-victory-in-big-win-for-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/supreme-court</span><span class=\"invisible\">-delivers-major-election-integrity-victory-in-big-win-for-trump</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:22:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T18:45:41.512149Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41240",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.277669Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41240",
       "first_seen": "2026-08-26T18:40:38.546342Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
@@ -16068,14 +16068,14 @@
       "truth_social_id": "117162728606908072"
     },
     "truth:117162748946903706": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41251",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41251",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 16:27:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-26T18:45:58.012334Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41251",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.277531Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41251",
       "source_fingerprint": null,
       "media_identity": "attachment:117162748946903706:950dea0778bdd142.jpg,9afb732b810ba18b.jpg,9d2036c48d7938f7.jpg,ab47df91cd66b923.jpg",
       "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
@@ -16335,122 +16335,185 @@
     "truth:117162751648515478": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41250",
+      "status_url": "https://www.trumpstruth.org/statuses/41250",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162748946903706</span></p>",
       "published": "Wed, 26 Aug 2026 16:28:33 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682532Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41250"
+      "updated_at": "2026-08-26T18:50:35.277471Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41250"
     },
     "truth:117162754379459312": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41249",
+      "status_url": "https://www.trumpstruth.org/statuses/41249",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162751648515478</span></p>",
       "published": "Wed, 26 Aug 2026 16:29:15 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682495Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41249"
+      "updated_at": "2026-08-26T18:50:35.277411Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41249"
     },
     "truth:117162755938612279": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41248",
+      "status_url": "https://www.trumpstruth.org/statuses/41248",
       "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162754379459312</span></p>",
       "published": "Wed, 26 Aug 2026 16:29:38 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682459Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41248"
+      "updated_at": "2026-08-26T18:50:35.277351Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41248"
     },
     "truth:117162764682245358": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41258",
+      "status_url": "https://www.trumpstruth.org/statuses/41258",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 16:31:52 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682421Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41258"
+      "updated_at": "2026-08-26T18:50:35.277291Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41258"
     },
     "truth:117162764865112565": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41262",
-      "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
-      "published": "Wed, 26 Aug 2026 16:31:55 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/41261",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@megforflorida\">@<span>megforflorida</span></a></span>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
+      "published": "Wed, 26 Aug 2026 16:42:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:45:37.465944Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41261"
+      "updated_at": "2026-08-26T18:50:35.276744Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41257",
+      "status_url": "https://www.trumpstruth.org/statuses/41257",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 16:31:58 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682345Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41257"
+      "updated_at": "2026-08-26T18:50:35.277170Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41257"
     },
     "truth:117162765715795649": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41256",
+      "status_url": "https://www.trumpstruth.org/statuses/41256",
       "source_text": "<p>Ralph Norman had the look of a good Congressman (Not great, but good), but ruined his career when he endorsed Nikki Haley.</p>",
       "published": "Wed, 26 Aug 2026 16:32:08 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682307Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41256"
+      "updated_at": "2026-08-26T18:50:35.277110Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41256"
     },
     "truth:117162770901385526": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41255",
+      "status_url": "https://www.trumpstruth.org/statuses/41255",
       "source_text": "<p>How about Roger Clemens not being in the National Baseball Hall of Fame and Museum in Cooperstown, New York, all because a bunch of jealous people with far less Talent, voted that he shouldn’t be there. He was also not convicted, or admitted, to taking Drugs. Roger is easily one of the few Greatest Pitchers of All Time, winning 354 Games, 7 Cy Young Awards (A Record, by 3!), and played in three World Series, winning two! He was third in most Strike-Outs. The Commissioner told me he was going to approve Pete Rose, but he waited long enough until Pete died. No wonder Baseball is in trouble! President DONALD J. TRUMP</p>",
       "published": "Wed, 26 Aug 2026 16:33:27 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682270Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41255"
+      "updated_at": "2026-08-26T18:50:35.277050Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41255"
     },
     "truth:117162772379034822": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41254",
+      "status_url": "https://www.trumpstruth.org/statuses/41254",
       "source_text": "<p></p>",
       "published": "Wed, 26 Aug 2026 16:33:49 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682232Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41254"
+      "updated_at": "2026-08-26T18:50:35.276989Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41254"
     },
     "truth:117162776390221938": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41253",
+      "status_url": "https://www.trumpstruth.org/statuses/41253",
       "source_text": "<p>Trump touts school choice in Rose Garden event: <a href=\"https://justthenews.com/politics-policy/trump-touts-school-choice-rose-garden-event\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-touts-school-choice-rose-garden-event</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:34:50 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682192Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41253"
+      "updated_at": "2026-08-26T18:50:35.276929Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41253"
     },
     "truth:117162777729733063": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41260",
+      "status_url": "https://www.trumpstruth.org/statuses/41260",
       "source_text": "<p>JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments: <a href=\"https://www.dailysignal.com/2026/08/24/jd-vance-ohio-figures-give-rousing-middletown-speech-on-manufacturing-investments/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/08/24/jd-</span><span class=\"invisible\">vance-ohio-figures-give-rousing-middletown-speech-on-manufacturing-investments/</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:35:11 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682143Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41260"
+      "updated_at": "2026-08-26T18:50:35.276869Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41260"
     },
     "truth:117162779250247451": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41259",
+      "status_url": "https://www.trumpstruth.org/statuses/41259",
       "source_text": "<p>EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: <a href=\"https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/exclusive-w</span><span class=\"invisible\">hite-house-ditches-outdated-climate-nightmares-for-real-world-policy</span></a></p>",
       "published": "Wed, 26 Aug 2026 16:35:34 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682104Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41259"
+      "updated_at": "2026-08-26T18:50:35.276807Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41259"
+    },
+    "https://www.trumpstruth.org/statuses/41238": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41238",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744</span></p>",
+      "published": "Wed, 26 Aug 2026 16:06:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.278152Z"
+    },
+    "https://www.trumpstruth.org/statuses/41225": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41225",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162569163470489</span></p>",
+      "published": "Wed, 26 Aug 2026 15:42:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279102Z"
+    },
+    "https://www.trumpstruth.org/statuses/41226": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41226",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162567997143475</span></p>",
+      "published": "Wed, 26 Aug 2026 15:42:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279163Z"
+    },
+    "https://www.trumpstruth.org/statuses/41220": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41220",
+      "source_text": "<p>Every Dumocrat<br />voted, \"NO,\" to THE SAVE AMERICA ACT!<br />﻿﻿﻿<br />1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!) - Meaning they want to CHEAT!</p><p>﻿﻿﻿2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP - Meaning they want Criminal Illegal Aliens to VOTE!</p>",
+      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279349Z"
+    },
+    "https://www.trumpstruth.org/statuses/41219": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41219",
+      "source_text": "<p>Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT</p>",
+      "published": "Wed, 26 Aug 2026 11:32:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279410Z"
+    },
+    "https://www.trumpstruth.org/statuses/41217": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41217",
+      "source_text": "<p>I supported and ENDORSED two so-called “underdogs” yesterday, one from South Carolina, and the other from Oklahoma, and they BOTH WON. Two great people!!! President DJT</p>",
+      "published": "Wed, 26 Aug 2026 11:29:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279472Z"
+    },
+    "https://www.trumpstruth.org/statuses/41218": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41218",
+      "source_text": "<p>Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,<br />Dumocrat and, doing fantastically well. Mike has my Complete and Total Endorsement. He will NEVER let you down! President DJT</p>",
+      "published": "Wed, 26 Aug 2026 11:19:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:50:35.279534Z"
     }
   }
 }
