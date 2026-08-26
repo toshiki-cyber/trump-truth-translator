@@ -1585,7 +1585,10 @@
     "truth:117162635486699864",
     "https://trumpstruth.org/statuses/41237",
     "truth:117162662461574744",
-    "https://trumpstruth.org/statuses/41239"
+    "https://trumpstruth.org/statuses/41239",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
+    "truth:117162664034818738",
+    "https://trumpstruth.org/statuses/41238"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11991,6 +11994,22 @@
       "truth_social_id": "117162662461574744",
       "translation": ""
     },
+    "truth:117162664034818738": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41238",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744</span></p>",
+      "published": "Wed, 26 Aug 2026 16:06:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:35:51.766829Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41238",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
+      "media_identity": "attachment:117162664034818738:6ea8ae09ce1b658c-a751a0832354.png,9e268d38c0d21a0d.png,a224a671da645ecc.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
+      "truth_social_id": "117162664034818738",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744"
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15901,16 +15920,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162664034818738": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41238",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744</span></p>",
-      "published": "Wed, 26 Aug 2026 16:06:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.682936Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41238"
-    },
     "truth:117162722385526068": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16058,7 +16067,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:30:38.872452Z",
+      "updated_at": "2026-08-26T18:35:38.183957Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
