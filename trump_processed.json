@@ -1609,7 +1609,10 @@
     "https://www.trumpstruth.org/statuses/41242",
     "fp:MORNING GLORY: GOP's only path in November – defend Trump and defeat radicals in Iran: \nhttps://www.foxnews.com/opinion/morning-glory-gops-path-novemb",
     "truth:117162725728545854",
-    "https://www.trumpstruth.org/statuses/41243"
+    "https://www.trumpstruth.org/statuses/41243",
+    "fp:Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: \nhttps://www.breitbart.com/politics/2",
+    "truth:117162727685642558",
+    "https://www.trumpstruth.org/statuses/41241"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11831,6 +11834,24 @@
         }
       ]
     },
+    "truth:117162727685642558": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41241",
+      "source_text": "<p>Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: <a href=\"https://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/</span></a></p>",
+      "published": "Wed, 26 Aug 2026 16:22:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T19:30:42.977722Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41241",
+      "first_seen": "2026-08-26T18:40:38.164244Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: \nhttps://www.breitbart.com/politics/2",
+      "truth_social_id": "117162727685642558",
+      "source_fingerprint": "fp:Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: \nhttps://www.breitbart.com/politics/2",
+      "media_identity": "attachment:117162727685642558:",
+      "translation": "ベッセント氏：トランプ大統領の経済攻勢の下、イランの指導部は「パニック状態」—「あらゆる経済的生命線を遮断する」と誓約\nhttps://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/"
+    },
     "truth:117162567997143475": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16115,22 +16136,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162727685642558": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41241",
-      "source_text": "<p>Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: <a href=\"https://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/</span></a></p>",
-      "published": "Wed, 26 Aug 2026 16:22:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T18:50:35.277730Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41241",
-      "first_seen": "2026-08-26T18:40:38.164244Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: \nhttps://www.breitbart.com/politics/2",
-      "next_retry_at": "2026-08-26T18:55:41.057056Z",
-      "truth_social_id": "117162727685642558"
-    },
     "truth:117162728606908072": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16459,7 +16464,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T19:25:35.127147Z",
+      "updated_at": "2026-08-26T19:30:37.875651Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
