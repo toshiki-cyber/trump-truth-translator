@@ -1600,7 +1600,10 @@
     "https://www.trumpstruth.org/statuses/41246",
     "fp:The Empire of Liberty vs the Dictatorship of Hate: \nhttps://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/",
     "truth:117162724073350953",
-    "https://www.trumpstruth.org/statuses/41245"
+    "https://www.trumpstruth.org/statuses/41245",
+    "fp:DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: \nhttps://dailycaller.com/2026/07/08/justice-department-election-integrity-civi",
+    "truth:117162724881235805",
+    "https://www.trumpstruth.org/statuses/41244"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11718,6 +11721,24 @@
       "media_identity": "attachment:117162724073350953:",
       "translation": "自由の帝国対憎悪の独裁体制：\nhttps://gingrich360.com/2026/07/07/the-empire-of-liberty-vs-the-dictatorship-of-hate/"
     },
+    "truth:117162724881235805": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41244",
+      "source_text": "<p>DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: <a href=\"https://dailycaller.com/2026/07/08/justice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailycaller.com/2026/07/08/jus</span><span class=\"invisible\">tice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/</span></a></p>",
+      "published": "Wed, 26 Aug 2026 16:21:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T19:10:46.374590Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41244",
+      "first_seen": "2026-08-26T18:40:37.082567Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: \nhttps://dailycaller.com/2026/07/08/justice-department-election-integrity-civi",
+      "truth_social_id": "117162724881235805",
+      "source_fingerprint": "fp:DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: \nhttps://dailycaller.com/2026/07/08/justice-department-election-integrity-civi",
+      "media_identity": "attachment:117162724881235805:",
+      "translation": "司法省民間人権部門が選挙廉潔性に対する攻勢を続けている：\nhttps://dailycaller.com/2026/07/08/justice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/"
+    },
     "truth:117162567997143475": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16002,22 +16023,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162724881235805": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41244",
-      "source_text": "<p>DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: <a href=\"https://dailycaller.com/2026/07/08/justice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailycaller.com/2026/07/08/jus</span><span class=\"invisible\">tice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/</span></a></p>",
-      "published": "Wed, 26 Aug 2026 16:21:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T18:50:35.277911Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41244",
-      "first_seen": "2026-08-26T18:40:37.082567Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: \nhttps://dailycaller.com/2026/07/08/justice-department-election-integrity-civi",
-      "next_retry_at": "2026-08-26T18:55:39.817918Z",
-      "truth_social_id": "117162724881235805"
-    },
     "truth:117162725728545854": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16394,7 +16399,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T19:05:38.461215Z",
+      "updated_at": "2026-08-26T19:10:41.085047Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
