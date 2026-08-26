@@ -1571,7 +1571,10 @@
     "truth:117162621595617688",
     "https://trumpstruth.org/statuses/41234",
     "truth:117162620984253595",
-    "https://trumpstruth.org/statuses/41235"
+    "https://trumpstruth.org/statuses/41235",
+    "fp:I-95 exit sign now reads 'President Donald Trump Int'l Airport': \nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kick",
+    "truth:117162591991461737",
+    "https://trumpstruth.org/statuses/41230"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11883,6 +11886,24 @@
         }
       ]
     },
+    "truth:117162591991461737": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41230",
+      "source_text": "<p>I-95 exit sign now reads 'President Donald Trump Int'l Airport': <a href=\"https://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">palmbeachpost.com/story/news/t</span><span class=\"invisible\">rump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/</span></a></p>",
+      "published": "Wed, 26 Aug 2026 15:47:57 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-26T18:05:44.036300Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41230",
+      "first_seen": "2026-08-26T17:40:41.181384Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I-95 exit sign now reads 'President Donald Trump Int'l Airport': \nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kick",
+      "truth_social_id": "117162591991461737",
+      "source_fingerprint": "fp:I-95 exit sign now reads 'President Donald Trump Int'l Airport': \nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kick",
+      "media_identity": "attachment:117162591991461737:",
+      "translation": "I-95の出口看板に「ドナルド・トランプ大統領国際空港」と表示されるようになった：\nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/"
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15793,22 +15814,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162591991461737": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41230",
-      "source_text": "<p>I-95 exit sign now reads 'President Donald Trump Int'l Airport': <a href=\"https://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">palmbeachpost.com/story/news/t</span><span class=\"invisible\">rump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/</span></a></p>",
-      "published": "Wed, 26 Aug 2026 15:47:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T17:50:52.240050Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41230",
-      "first_seen": "2026-08-26T17:40:41.181384Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I-95 exit sign now reads 'President Donald Trump Int'l Airport': \nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kick",
-      "next_retry_at": "2026-08-26T18:00:52.240061Z",
-      "truth_social_id": "117162591991461737"
-    },
     "truth:117162623181014604": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16016,7 +16021,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:00:40.772189Z",
+      "updated_at": "2026-08-26T18:05:38.580451Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
