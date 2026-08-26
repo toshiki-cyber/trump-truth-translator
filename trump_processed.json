@@ -1650,7 +1650,10 @@
     "https://trumpstruth.org/statuses/41260",
     "fp:Today, we honor the 13 brave American HEROES who were tragically killed five years ago by evil Jihadi terrorists in Kabul, Afghanistan. This catastrop",
     "truth:117163377375423640",
-    "https://trumpstruth.org/statuses/41263"
+    "https://trumpstruth.org/statuses/41263",
+    "fp:EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: \nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdat",
+    "truth:117162779250247451",
+    "https://trumpstruth.org/statuses/41259"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11985,6 +11988,74 @@
       "truth_social_id": "117163377375423640",
       "translation": "本日、5年前にアフガニスタンのカブールで邪悪なジハード主義テロリストに惨殺された13人の勇敢なアメリカの英雄たちを追悼する。この大惨事は、居眠り運転のジョー・バイデンによる完全に失敗した国からの撤退の結果であり、それは我々の素晴らしい兵士たちを無防備にしたばかりでなく、タリバンがバグラム刑務所に収監されていた数千人の血に飢えたテロリストと犯罪者を解放することを可能にした。これは我が国の歴史における最大の蛮行の一つであり、それはジョー・バイデンと権力を担っていた民主党員らの完全な無能さの結果であったという事実を決して忘れることはできない。\n\n2024年のキャンペーン中、私はアビー・ゲート・ゴールドスター・ファミリーズと会った。素晴らしい人々であり偉大な愛国者たちだが、彼らは民主党によって完全に無視され、不尊重された。私は彼らに、ホワイトハウスに戻ったときに正義をもたらすことを約束した——そして私たちは実現した！私たちは迅速に我々の兵士たちの死に責任のある邪悪な黒幕を逮捕した。それは統合参謀本部議長としての私の最大の栄誉の一つとなっている。神よ、アメリカを祝福してください。そして神よ、アビー・ゲート・ゴールドスター・ファミリーズを祝福してください。あなたたちが決して忘れられることはないであろう！大統領ドナルド・J・トランプ"
     },
+    "truth:117162779250247451": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41259",
+      "source_text": "<p>EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: <a href=\"https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/exclusive-w</span><span class=\"invisible\">hite-house-ditches-outdated-climate-nightmares-for-real-world-policy</span></a></p>",
+      "published": "Wed, 26 Aug 2026 16:35:34 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-26T21:25:41.556088Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41259",
+      "first_seen": "2026-08-26T20:35:38.381697Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: \nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdat",
+      "truth_social_id": "117162779250247451",
+      "source_fingerprint": "fp:EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: \nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdat",
+      "media_identity": "attachment:117162779250247451:",
+      "translation": "【独占報道】ホワイトハウス、時代遅れの気候悪夢を放棄し現実的な政策へ転換：\nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyrbjmafs7t",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mtyrbjmafs7t",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "【独占報道】ホワイトハウス、時代遅れの気候悪夢を放棄し現実的な政策へ転換：\nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
+        "createdAt": "2026-08-26T21:15:41.479492Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 112,
+              "byteEnd": 222
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
+            "title": "EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy",
+            "description": "WASHINGTON — The White House is ditching outdated guidelines based on worst-case climate change scenarios, The Daily Wire can first report.The U.S. Global Change Research Program is set to publish an amendment to the Fifth National Climate Assessment on Tuesday, an amendment clarifying that the U.S. government’s congressionally mandated report on climate change impacts and risks, is now retired. That report was published in 2023 and was based on the worst-case scenarios for climate change — not ",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigebb55z3nevrvyhjvtf7zcauwapic5gx2nmzdy6bvg5gb66g47fq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 172644
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyrbjmafs7t",
+          "rkey": "3mtyrbjmafs7t"
+        }
+      ]
+    },
     "truth:117162723145155748": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16679,175 +16750,6 @@
       "published": "Sat, 22 Aug 2026 02:15:27 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
-    },
-    "truth:117162779250247451": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41259",
-      "source_text": "<p>EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: <a href=\"https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/exclusive-w</span><span class=\"invisible\">hite-house-ditches-outdated-climate-nightmares-for-real-world-policy</span></a></p>",
-      "published": "Wed, 26 Aug 2026 16:35:34 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-26T21:15:48.376440Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41259",
-      "first_seen": "2026-08-26T20:35:38.381697Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: \nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdat",
-      "truth_social_id": "117162779250247451",
-      "source_fingerprint": "fp:EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: \nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdat",
-      "media_identity": "attachment:117162779250247451:",
-      "translation": "【独占報道】ホワイトハウス、時代遅れの気候悪夢を放棄し現実的な政策へ転換：\nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyrbjmafs7t",
-          "cid": "bafyreie2ijc32ko4zae6pt52tq4ofmhovs3svbw4gsvupluqgpuybqjljm"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyrbjmafs7t",
-          "cid": "bafyreie2ijc32ko4zae6pt52tq4ofmhovs3svbw4gsvupluqgpuybqjljm"
-        },
-        "next_index": 1,
-        "last_rkey": "3mtyrbjmafs7t",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "【独占報道】ホワイトハウス、時代遅れの気候悪夢を放棄し現実的な政策へ転換：\nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
-          "createdAt": "2026-08-26T21:15:41.479492Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 112,
-                "byteEnd": 222
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
-              "title": "EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy",
-              "description": "WASHINGTON — The White House is ditching outdated guidelines based on worst-case climate change scenarios, The Daily Wire can first report.The U.S. Global Change Research Program is set to publish an amendment to the Fifth National Climate Assessment on Tuesday, an amendment clarifying that the U.S. government’s congressionally mandated report on climate change impacts and risks, is now retired. That report was published in 2023 and was based on the worst-case scenarios for climate change — not ",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigebb55z3nevrvyhjvtf7zcauwapic5gx2nmzdy6bvg5gb66g47fq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 172644
-              }
-            }
-          }
-        },
-        "root_rkey": "3mtyrbjmafs7t",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "【独占報道】ホワイトハウス、時代遅れの気候悪夢を放棄し現実的な政策へ転換：\nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
-          "createdAt": "2026-08-26T21:15:41.479492Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 112,
-                "byteEnd": 222
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
-              "title": "EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy",
-              "description": "WASHINGTON — The White House is ditching outdated guidelines based on worst-case climate change scenarios, The Daily Wire can first report.The U.S. Global Change Research Program is set to publish an amendment to the Fifth National Climate Assessment on Tuesday, an amendment clarifying that the U.S. government’s congressionally mandated report on climate change impacts and risks, is now retired. That report was published in 2023 and was based on the worst-case scenarios for climate change — not ",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigebb55z3nevrvyhjvtf7zcauwapic5gx2nmzdy6bvg5gb66g47fq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 172644
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyrbjmafs7t",
-            "rkey": "3mtyrbjmafs7t"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyrbjmafs7t",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtyrbjmafs7t",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "【独占報道】ホワイトハウス、時代遅れの気候悪夢を放棄し現実的な政策へ転換：\nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
-        "createdAt": "2026-08-26T21:15:41.479492Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 112,
-              "byteEnd": 222
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.dailywire.com/news/exclusive-white-house-ditches-outdated-climate-nightmares-for-real-world-policy",
-            "title": "EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy",
-            "description": "WASHINGTON — The White House is ditching outdated guidelines based on worst-case climate change scenarios, The Daily Wire can first report.The U.S. Global Change Research Program is set to publish an amendment to the Fifth National Climate Assessment on Tuesday, an amendment clarifying that the U.S. government’s congressionally mandated report on climate change impacts and risks, is now retired. That report was published in 2023 and was based on the worst-case scenarios for climate change — not ",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigebb55z3nevrvyhjvtf7zcauwapic5gx2nmzdy6bvg5gb66g47fq"
-              },
-              "mimeType": "image/jpeg",
-              "size": 172644
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyrbjmafs7t",
-          "rkey": "3mtyrbjmafs7t"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-26T21:20:48.376454Z"
     },
     "https://www.trumpstruth.org/statuses/41238": {
       "post_status": "DISCOVERED",
