@@ -1565,7 +1565,9 @@
     "truth:117162576006975126",
     "https://trumpstruth.org/statuses/41221",
     "truth:117162595986147332",
-    "https://trumpstruth.org/statuses/41229"
+    "https://trumpstruth.org/statuses/41229",
+    "truth:117162620402215221",
+    "https://trumpstruth.org/statuses/41236"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11756,6 +11758,59 @@
       "truth_social_id": "117162595986147332",
       "translation": ""
     },
+    "truth:117162620402215221": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41236",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:55:10 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-26T17:45:53.735300Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41236",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162620402215221:3983bcfffa8babe3.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162620402215221",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozc2uus2d",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mtyozc2uus2d",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-08-26T17:45:46.647503Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreidhkxwymeocfjt7bf2xy36qkpcgf7vqbbsphao7nyycj5j3qxkiqi"
+                },
+                "mimeType": "image/jpeg",
+                "size": 169468
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 884,
+                "height": 1108
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozc2uus2d",
+          "rkey": "3mtyozc2uus2d"
+        }
+      ]
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15672,45 +15727,45 @@
       "status_url": "https://trumpstruth.org/statuses/41230",
       "source_text": "<p>I-95 exit sign now reads 'President Donald Trump Int'l Airport': <a href=\"https://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">palmbeachpost.com/story/news/t</span><span class=\"invisible\">rump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/</span></a></p>",
       "published": "Wed, 26 Aug 2026 15:47:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-26T17:40:41.181425Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-26T17:50:52.240050Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41230",
       "first_seen": "2026-08-26T17:40:41.181384Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I-95 exit sign now reads 'President Donald Trump Int'l Airport': \nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kick",
-      "next_retry_at": "2026-08-26T17:45:41.181434Z",
+      "next_retry_at": "2026-08-26T18:00:52.240061Z",
       "truth_social_id": "117162591991461737"
     },
-    "truth:117162620402215221": {
+    "truth:117162620984253595": {
       "post_status": "POST_VERIFY_PENDING",
       "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41236",
+      "status_url": "https://trumpstruth.org/statuses/41235",
       "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:55:10 +0000",
+      "published": "Wed, 26 Aug 2026 15:55:19 +0000",
       "retry_count": 1,
-      "updated_at": "2026-08-26T17:45:53.735300Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41236",
+      "updated_at": "2026-08-26T17:51:09.886008Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41235",
       "source_fingerprint": null,
-      "media_identity": "attachment:117162620402215221:3983bcfffa8babe3.jpg",
+      "media_identity": "attachment:117162620984253595:fa73e3ffb2044607.jpg",
       "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "truth_social_id": "117162620402215221",
+      "truth_social_id": "117162620984253595",
       "translation": "",
       "thread_checkpoint": {
         "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozc2uus2d",
-          "cid": "bafyreihi5l75x5gdpbhze2chllfl5sn74nl7v5fqkbyq5pwfpksyidz4zm"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozkjvq2va",
+          "cid": "bafyreihd2tjml5pijt34xmhcjmhrdiycjnxhkqft5chhb2ikiozsedorya"
         },
         "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozc2uus2d",
-          "cid": "bafyreihi5l75x5gdpbhze2chllfl5sn74nl7v5fqkbyq5pwfpksyidz4zm"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozkjvq2va",
+          "cid": "bafyreihd2tjml5pijt34xmhcjmhrdiycjnxhkqft5chhb2ikiozsedorya"
         },
         "next_index": 1,
-        "last_rkey": "3mtyozc2uus2d",
+        "last_rkey": "3mtyozkjvq2va",
         "last_record": {
           "$type": "app.bsky.feed.post",
           "text": "",
-          "createdAt": "2026-08-26T17:45:46.647503Z",
+          "createdAt": "2026-08-26T17:51:01.884211Z",
           "langs": [
             "ja"
           ],
@@ -15721,25 +15776,25 @@
                 "image": {
                   "$type": "blob",
                   "ref": {
-                    "$link": "bafkreidhkxwymeocfjt7bf2xy36qkpcgf7vqbbsphao7nyycj5j3qxkiqi"
+                    "$link": "bafkreiexxxot7fe5uvwf47nfwlgtnfomoidkpsjjcyx5g5en2lsrmvarp4"
                   },
                   "mimeType": "image/jpeg",
-                  "size": 169468
+                  "size": 192631
                 },
                 "alt": "",
                 "aspectRatio": {
                   "width": 884,
-                  "height": 1108
+                  "height": 984
                 }
               }
             ]
           }
         },
-        "root_rkey": "3mtyozc2uus2d",
+        "root_rkey": "3mtyozkjvq2va",
         "root_record": {
           "$type": "app.bsky.feed.post",
           "text": "",
-          "createdAt": "2026-08-26T17:45:46.647503Z",
+          "createdAt": "2026-08-26T17:51:01.884211Z",
           "langs": [
             "ja"
           ],
@@ -15750,15 +15805,15 @@
                 "image": {
                   "$type": "blob",
                   "ref": {
-                    "$link": "bafkreidhkxwymeocfjt7bf2xy36qkpcgf7vqbbsphao7nyycj5j3qxkiqi"
+                    "$link": "bafkreiexxxot7fe5uvwf47nfwlgtnfomoidkpsjjcyx5g5en2lsrmvarp4"
                   },
                   "mimeType": "image/jpeg",
-                  "size": 169468
+                  "size": 192631
                 },
                 "alt": "",
                 "aspectRatio": {
                   "width": 884,
-                  "height": 1108
+                  "height": 984
                 }
               }
             ]
@@ -15766,19 +15821,19 @@
         },
         "created_records": [
           {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozc2uus2d",
-            "rkey": "3mtyozc2uus2d"
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozkjvq2va",
+            "rkey": "3mtyozkjvq2va"
           }
         ]
       },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozc2uus2d",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozkjvq2va",
       "expected_embed": "images",
       "expected_images": 1,
-      "root_rkey": "3mtyozc2uus2d",
+      "root_rkey": "3mtyozkjvq2va",
       "root_record": {
         "$type": "app.bsky.feed.post",
         "text": "",
-        "createdAt": "2026-08-26T17:45:46.647503Z",
+        "createdAt": "2026-08-26T17:51:01.884211Z",
         "langs": [
           "ja"
         ],
@@ -15789,15 +15844,15 @@
               "image": {
                 "$type": "blob",
                 "ref": {
-                  "$link": "bafkreidhkxwymeocfjt7bf2xy36qkpcgf7vqbbsphao7nyycj5j3qxkiqi"
+                  "$link": "bafkreiexxxot7fe5uvwf47nfwlgtnfomoidkpsjjcyx5g5en2lsrmvarp4"
                 },
                 "mimeType": "image/jpeg",
-                "size": 169468
+                "size": 192631
               },
               "alt": "",
               "aspectRatio": {
                 "width": 884,
-                "height": 1108
+                "height": 984
               }
             }
           ]
@@ -15805,22 +15860,12 @@
       },
       "created_records": [
         {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozc2uus2d",
-          "rkey": "3mtyozc2uus2d"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyozkjvq2va",
+          "rkey": "3mtyozkjvq2va"
         }
       ],
       "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-26T17:50:53.735331Z"
-    },
-    "truth:117162620984253595": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41235",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:55:19 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.683206Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41235"
+      "next_retry_at": "2026-08-26T17:56:09.886020Z"
     },
     "truth:117162621595617688": {
       "post_status": "DISCOVERED",
@@ -16039,7 +16084,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:45:38.299515Z",
+      "updated_at": "2026-08-26T17:50:51.519416Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
