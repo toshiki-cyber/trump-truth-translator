@@ -1603,7 +1603,10 @@
     "https://www.trumpstruth.org/statuses/41245",
     "fp:DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: \nhttps://dailycaller.com/2026/07/08/justice-department-election-integrity-civi",
     "truth:117162724881235805",
-    "https://www.trumpstruth.org/statuses/41244"
+    "https://www.trumpstruth.org/statuses/41244",
+    "fp:Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: \nhttps://www.breitbart.com/entertainment/2026/08/25/tru",
+    "truth:117162726805157521",
+    "https://www.trumpstruth.org/statuses/41242"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11739,6 +11742,24 @@
       "media_identity": "attachment:117162724881235805:",
       "translation": "司法省民間人権部門が選挙廉潔性に対する攻勢を続けている：\nhttps://dailycaller.com/2026/07/08/justice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/"
     },
+    "truth:117162726805157521": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41242",
+      "source_text": "<p>Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: <a href=\"https://www.breitbart.com/entertainment/2026/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/entertainment/20</span><span class=\"invisible\">26/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/</span></a></p>",
+      "published": "Wed, 26 Aug 2026 16:22:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T19:20:41.927709Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41242",
+      "first_seen": "2026-08-26T18:40:37.796918Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: \nhttps://www.breitbart.com/entertainment/2026/08/25/tru",
+      "truth_social_id": "117162726805157521",
+      "source_fingerprint": "fp:Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: \nhttps://www.breitbart.com/entertainment/2026/08/25/tru",
+      "media_identity": "attachment:117162726805157521:",
+      "translation": "トランプ大統領、ドリー・パートンを偲び米国旗を半旗に：「彼女のような人物はかつていない」\nhttps://www.breitbart.com/entertainment/2026/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/"
+    },
     "truth:117162567997143475": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16192,22 +16213,6 @@
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-26T19:20:47.489604Z"
     },
-    "truth:117162726805157521": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41242",
-      "source_text": "<p>Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: <a href=\"https://www.breitbart.com/entertainment/2026/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/entertainment/20</span><span class=\"invisible\">26/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/</span></a></p>",
-      "published": "Wed, 26 Aug 2026 16:22:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T18:50:35.277791Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41242",
-      "first_seen": "2026-08-26T18:40:37.796918Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: \nhttps://www.breitbart.com/entertainment/2026/08/25/tru",
-      "next_retry_at": "2026-08-26T18:55:40.615722Z",
-      "truth_social_id": "117162726805157521"
-    },
     "truth:117162727685642558": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16552,7 +16557,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T19:15:35.558814Z",
+      "updated_at": "2026-08-26T19:20:37.197089Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
