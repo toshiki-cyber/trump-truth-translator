@@ -16544,14 +16544,135 @@
       "next_retry_at": "2026-08-26T20:10:53.797680Z"
     },
     "truth:117162764865112565": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41262",
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T20:05:41.185763Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
+      "retry_count": 1,
+      "updated_at": "2026-08-26T20:10:50.930524Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41261",
+      "source_fingerprint": "fp:President Donald J. Trump International Airport shining bright at night.\nA beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+      "media_identity": "attachment:117162764865112565:7cafe992ec51accc.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "fingerprint": "fp:President Donald J. Trump International Airport shining bright at night.\nA beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+      "truth_social_id": "117162764865112565",
+      "translation": "ドナルド・J・トランプ大統領国際空港が夜間に輝いている。\nターミナルに近づく旅行者を迎える美しい看板だ！✈️🇺🇸",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyr2ybnw2cn",
+          "cid": "bafyreiaak6tygxe4qvm3i2dqzvq3f2dhbp3o4rmg4opxyhmthaiopfizwe"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyr2ybnw2cn",
+          "cid": "bafyreiaak6tygxe4qvm3i2dqzvq3f2dhbp3o4rmg4opxyhmthaiopfizwe"
+        },
+        "next_index": 1,
+        "last_rkey": "3mtyr2ybnw2cn",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ドナルド・J・トランプ大統領国際空港が夜間に輝いている。\nターミナルに近づく旅行者を迎える美しい看板だ！✈️🇺🇸",
+          "createdAt": "2026-08-26T20:10:43.992946Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreieq7cymqcymevvq4ypgiayzpwwrikh4xe5na7tmorrrn6qix3r4q4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 142761
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 898,
+                  "height": 1143
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3mtyr2ybnw2cn",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ドナルド・J・トランプ大統領国際空港が夜間に輝いている。\nターミナルに近づく旅行者を迎える美しい看板だ！✈️🇺🇸",
+          "createdAt": "2026-08-26T20:10:43.992946Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreieq7cymqcymevvq4ypgiayzpwwrikh4xe5na7tmorrrn6qix3r4q4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 142761
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 898,
+                  "height": 1143
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyr2ybnw2cn",
+            "rkey": "3mtyr2ybnw2cn"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyr2ybnw2cn",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mtyr2ybnw2cn",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ドナルド・J・トランプ大統領国際空港が夜間に輝いている。\nターミナルに近づく旅行者を迎える美しい看板だ！✈️🇺🇸",
+        "createdAt": "2026-08-26T20:10:43.992946Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreieq7cymqcymevvq4ypgiayzpwwrikh4xe5na7tmorrrn6qix3r4q4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 142761
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 898,
+                "height": 1143
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtyr2ybnw2cn",
+          "rkey": "3mtyr2ybnw2cn"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-08-26T20:15:50.930541Z"
     },
     "truth:117162765062024017": {
       "post_status": "DISCOVERED",
