@@ -1561,7 +1561,9 @@
     "truth:117162574475742777",
     "https://trumpstruth.org/statuses/41223",
     "truth:117162575525780977",
-    "https://trumpstruth.org/statuses/41222"
+    "https://trumpstruth.org/statuses/41222",
+    "truth:117162576006975126",
+    "https://trumpstruth.org/statuses/41221"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11722,6 +11724,21 @@
       "truth_social_id": "117162575525780977",
       "translation": ""
     },
+    "truth:117162576006975126": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41221",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:43:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T17:35:53.900336Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41221",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162576006975126:ec0925e6bec1be13.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162576006975126",
+      "translation": ""
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15632,16 +15649,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162576006975126": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41221",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:43:53 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.683359Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41221"
-    },
     "truth:117162591991461737": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15899,7 +15906,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T17:30:38.471482Z",
+      "updated_at": "2026-08-26T17:35:42.890364Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
