@@ -15113,6 +15113,22 @@
       "source_fingerprint": "fp:Darline Graham rides Trump endorsement to win GOP nomination for brother's South Carolina seat: \nhttps://justthenews.com/politics-policy/holdsouth-car",
       "media_identity": "attachment:117159211631645096:",
       "translation": "ダーリーン・グラハムがトランプ推薦により兄の南カロライナ州議席のGOP指名を獲得：\nhttps://justthenews.com/politics-policy/holdsouth-carolina-gop-primary-runoff-ap"
+    },
+    "truth:117159541453901581": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41216",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 02:52:09 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-26T03:00:42.461451Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41216",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117159541453901581:2a489a93ae84b09c.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/159/541/118/344/730/small/2a489a93ae84b09c.jpg",
+      "truth_social_id": "117159541453901581",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-08-26T03:05:42.461462Z"
     }
   }
 }
