@@ -1533,7 +1533,10 @@
     "truth:117159040164595628",
     "https://www.trumpstruth.org/statuses/41214",
     "truth:117157526888786119",
-    "https://www.trumpstruth.org/statuses/41211"
+    "https://www.trumpstruth.org/statuses/41211",
+    "fp:Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,\nDumocrat and, ",
+    "truth:117161536085670834",
+    "https://trumpstruth.org/statuses/41218"
   ],
   "posts": {
     "truth:117074526504264990": {
@@ -13095,7 +13098,7 @@
       "source_text": "<p>Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: <a href=\"https://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/</span></a></p>",
       "published": "Mon, 24 Aug 2026 14:56:44 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T13:10:33.877872Z",
+      "updated_at": "2026-08-26T13:15:36.608082Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41160",
       "first_seen": "2026-08-24T15:00:43.913591Z",
       "no_media_confirmations": 3,
@@ -15388,20 +15391,22 @@
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
     "truth:117161536085670834": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
       "status_url": "https://trumpstruth.org/statuses/41218",
       "source_text": "<p>Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,<br />Dumocrat and, doing fantastically well. Mike has my Complete and Total Endorsement. He will NEVER let you down! President DJT</p>",
       "published": "Wed, 26 Aug 2026 11:19:25 +0000",
       "retry_count": 2,
-      "updated_at": "2026-08-26T13:00:37.190590Z",
+      "updated_at": "2026-08-26T13:15:39.613167Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41218",
       "first_seen": "2026-08-26T12:50:37.109421Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
       "fingerprint": "fp:Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,\nDumocrat and, ",
-      "next_retry_at": "2026-08-26T13:10:37.190605Z",
-      "truth_social_id": "117161536085670834"
+      "truth_social_id": "117161536085670834",
+      "source_fingerprint": "fp:Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,\nDumocrat and, ",
+      "media_identity": "attachment:117161536085670834:",
+      "translation": "マリアBでマイク・リペトリによる素晴らしいインタビューを今朝見た。彼はニューヨークで増税推進で犯罪に甘い民主党員に対して下院選に出馬しており、素晴らしい成績を上げている。マイクは私の完全かつ全面的な支持を得ている。彼は絶対に君たちを失望させることはない！大統領 DJT"
     },
     "truth:117161576325328403": {
       "post_status": "RETRY",
