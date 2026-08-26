@@ -1574,7 +1574,9 @@
     "https://trumpstruth.org/statuses/41235",
     "fp:I-95 exit sign now reads 'President Donald Trump Int'l Airport': \nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kick",
     "truth:117162591991461737",
-    "https://trumpstruth.org/statuses/41230"
+    "https://trumpstruth.org/statuses/41230",
+    "truth:117162623181014604",
+    "https://trumpstruth.org/statuses/41233"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11904,6 +11906,21 @@
       "media_identity": "attachment:117162591991461737:",
       "translation": "I-95の出口看板に「ドナルド・トランプ大統領国際空港」と表示されるようになった：\nhttps://www.palmbeachpost.com/story/news/trump/2026/07/02/i-95-exit-sign-change-kicks-off-trumps-renaming-of-palm-beach-airport/90779825007/"
     },
+    "truth:117162623181014604": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41233",
+      "source_text": "<p></p>",
+      "published": "Wed, 26 Aug 2026 15:55:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T18:10:41.213687Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41233",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117162623181014604:1129edded5cc4a3c.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117162623181014604",
+      "translation": ""
+    },
     "truth:117084211457388624": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40768",
       "post_status": "DISCOVERED",
@@ -15814,16 +15831,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162623181014604": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41233",
-      "source_text": "<p></p>",
-      "published": "Wed, 26 Aug 2026 15:55:53 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T16:50:39.683123Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41233"
-    },
     "truth:117162623815523911": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16021,7 +16028,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T18:05:38.580451Z",
+      "updated_at": "2026-08-26T18:10:36.062712Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
