@@ -12411,19 +12411,19 @@
       ]
     },
     "truth:117144987049568805": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://trumpstruth.org/statuses/41131",
       "source_text": "<p></p>",
       "published": "Sun, 23 Aug 2026 13:10:47 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T06:50:37.336587Z",
+      "retry_count": 1,
+      "updated_at": "2026-08-26T07:00:37.175850Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41131",
       "source_fingerprint": null,
       "media_identity": "attachment:117144987049568805:15fdb7897866a317.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/144/880/845/180/566/original/15fdb7897866a317.mp4",
       "truth_social_id": "117144987049568805",
-      "next_retry_at": "2026-08-24T00:15:42.126342Z"
+      "next_retry_at": "2026-08-26T07:05:37.175867Z"
     },
     "truth:117147749847925768": {
       "post_status": "DISCOVERED",
@@ -12990,14 +12990,14 @@
       ]
     },
     "truth:117148833275862351": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41150",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41150",
       "source_text": "<p><a href=\"https://truthsocial.com/@thatswhattimeitis/117143083463839683\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@thatswhattime</span><span class=\"invisible\">itis/117143083463839683</span></a></p>",
       "published": "Mon, 24 Aug 2026 05:28:55 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-24T06:40:40.555712Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41150",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T06:50:37.335489Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41150",
       "first_seen": "2026-08-24T05:35:42.559887Z",
       "no_media_confirmations": 3,
       "failure_reason": null,
@@ -13091,11 +13091,11 @@
     "truth:117151065984633970": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41160",
-      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: <a href=\"https://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/</span></a></p>",
-      "published": "Mon, 24 Aug 2026 17:03:17 +0000",
+      "status_url": "https://trumpstruth.org/statuses/41155",
+      "source_text": "<p>Exclusive: Cabinet Officials Commend Work of Presidential Personnel Office Under Dan Scavino: <a href=\"https://www.breitbart.com/politics/2026/08/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/21/exclusive-cabinet-officials-commend-work-of-presidential-personnel-office-under-dan-scavino/</span></a></p>",
+      "published": "Mon, 24 Aug 2026 14:56:44 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T06:50:37.334248Z",
+      "updated_at": "2026-08-26T07:00:35.394605Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41160",
       "first_seen": "2026-08-24T15:00:43.913591Z",
       "no_media_confirmations": 3,
@@ -15386,16 +15386,6 @@
       "published": "Sat, 22 Aug 2026 02:15:27 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
-    },
-    "url:https://trumpstruth.org/statuses/41150": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41150",
-      "source_text": "<p><a href=\"https://truthsocial.com/@thatswhattimeitis/117143083463839683\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@thatswhattime</span><span class=\"invisible\">itis/117143083463839683</span></a></p>",
-      "published": "Mon, 24 Aug 2026 05:28:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T06:50:37.335489Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41150"
     }
   }
 }
