@@ -1612,7 +1612,10 @@
     "https://www.trumpstruth.org/statuses/41243",
     "fp:Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: \nhttps://www.breitbart.com/politics/2",
     "truth:117162727685642558",
-    "https://www.trumpstruth.org/statuses/41241"
+    "https://www.trumpstruth.org/statuses/41241",
+    "fp:Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: \nhttps://amac.us/newsline/supreme-court-delivers-major-election-integrit",
+    "truth:117162728606908072",
+    "https://www.trumpstruth.org/statuses/41240"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11852,6 +11855,24 @@
       "media_identity": "attachment:117162727685642558:",
       "translation": "ベッセント氏：トランプ大統領の経済攻勢の下、イランの指導部は「パニック状態」—「あらゆる経済的生命線を遮断する」と誓約\nhttps://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/"
     },
+    "truth:117162728606908072": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41240",
+      "source_text": "<p>Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: <a href=\"https://amac.us/newsline/supreme-court-delivers-major-election-integrity-victory-in-big-win-for-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/supreme-court</span><span class=\"invisible\">-delivers-major-election-integrity-victory-in-big-win-for-trump</span></a></p>",
+      "published": "Wed, 26 Aug 2026 16:22:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-26T19:35:43.266020Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41240",
+      "first_seen": "2026-08-26T18:40:38.546342Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: \nhttps://amac.us/newsline/supreme-court-delivers-major-election-integrit",
+      "truth_social_id": "117162728606908072",
+      "source_fingerprint": "fp:Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: \nhttps://amac.us/newsline/supreme-court-delivers-major-election-integrit",
+      "media_identity": "attachment:117162728606908072:",
+      "translation": "最高裁判所が選挙の完全性に関する大きな勝利を勝ち取る。トランプに対する大きな勝利：\nhttps://amac.us/newsline/supreme-court-delivers-major-election-integrity-victory-in-big-win-for-trump"
+    },
     "truth:117162567997143475": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16136,22 +16157,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-26T06:50:37.337313Z"
     },
-    "truth:117162728606908072": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41240",
-      "source_text": "<p>Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: <a href=\"https://amac.us/newsline/supreme-court-delivers-major-election-integrity-victory-in-big-win-for-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/supreme-court</span><span class=\"invisible\">-delivers-major-election-integrity-victory-in-big-win-for-trump</span></a></p>",
-      "published": "Wed, 26 Aug 2026 16:22:41 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T18:50:35.277669Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41240",
-      "first_seen": "2026-08-26T18:40:38.546342Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: \nhttps://amac.us/newsline/supreme-court-delivers-major-election-integrit",
-      "next_retry_at": "2026-08-26T18:55:41.512165Z",
-      "truth_social_id": "117162728606908072"
-    },
     "truth:117162748946903706": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16464,7 +16469,7 @@
       "source_text": "<p>President Donald J. Trump International Airport shining bright at night.</p><p>A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸</p>",
       "published": "Wed, 26 Aug 2026 16:31:55 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-26T19:30:37.875651Z",
+      "updated_at": "2026-08-26T19:35:38.613008Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41261"
     },
     "truth:117162765062024017": {
