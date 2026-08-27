@@ -17628,14 +17628,20 @@
       "next_retry_at": "2026-08-27T22:30:48.517901Z"
     },
     "truth:117169407048548480": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41284",
       "source_text": "<p>Mold, rodents found in Barack Obama Elementary School, RPS says: <a href=\"https://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-elementary-school-rps-says/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wric.com/news/local-news/richm</span><span class=\"invisible\">ond/mold-rodents-found-in-barack-obama-elementary-school-rps-says/</span></a></p>",
       "published": "Thu, 27 Aug 2026 20:41:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T20:50:40.027581Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41284"
+      "retry_count": 1,
+      "updated_at": "2026-08-27T22:30:37.076498Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41284",
+      "first_seen": "2026-08-27T22:30:37.076461Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Mold, rodents found in Barack Obama Elementary School, RPS says: \nhttps://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-ele",
+      "next_retry_at": "2026-08-27T22:35:37.076508Z",
+      "truth_social_id": "117169407048548480"
     }
   }
 }
