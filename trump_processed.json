@@ -1695,7 +1695,10 @@
     "truth:117169368339021801",
     "https://www.trumpstruth.org/statuses/41282",
     "truth:117169369129142648",
-    "https://www.trumpstruth.org/statuses/41280"
+    "https://www.trumpstruth.org/statuses/41280",
+    "fp:Mold, rodents found in Barack Obama Elementary School, RPS says: \nhttps://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-ele",
+    "truth:117169407048548480",
+    "https://trumpstruth.org/statuses/41284"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12046,6 +12049,24 @@
       "media_identity": "attachment:117168898896435158:",
       "translation": "朗報だ！世界で最も「ホット」な企業の一つであるマイクロン・テクノロジーが、アメリカ国内での新しい研究施設に100億ドルの巨額投資を発表した。彼らはA.I.と先端コンピューティングで我々を絶対的な最前線に保つている！🇺🇸\n\n以前の素晴らしい2500億ドルのコミットメントと合わせると、彼らは数万以上の素晴らしいアメリカンジョブを創出している。重要な技術をアメリカに取り戻している。我々の優れた政策のおかげで、企業は数兆ドル投資している。\n\nアメリカが科学の新しい黄金期へ向かう道を先導することになると、私は明確にしている。結果が物語っている。私の政権下では、企業が数兆ドル投資しているのは、アメリカが世界で最高のものを構築し、発明し、成長させる場所であることを知っているからだ。\n\nマイクロンの素晴らしいCEOサンジャイ・メロトラに祝いの言葉を述べる。我々は経済を強化し、大勝利を収めている！アメリカの黄金期がここに来た。MAGAだ！🇺🇸🇺🇸🇺🇸 ドナルド・J・トランプ大統領"
     },
+    "truth:117169407048548480": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41284",
+      "source_text": "<p>Mold, rodents found in Barack Obama Elementary School, RPS says: <a href=\"https://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-elementary-school-rps-says/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wric.com/news/local-news/richm</span><span class=\"invisible\">ond/mold-rodents-found-in-barack-obama-elementary-school-rps-says/</span></a></p>",
+      "published": "Thu, 27 Aug 2026 20:41:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-27T22:55:39.185459Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41284",
+      "first_seen": "2026-08-27T22:30:37.076461Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Mold, rodents found in Barack Obama Elementary School, RPS says: \nhttps://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-ele",
+      "truth_social_id": "117169407048548480",
+      "source_fingerprint": "fp:Mold, rodents found in Barack Obama Elementary School, RPS says: \nhttps://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-ele",
+      "media_identity": "attachment:117169407048548480:",
+      "translation": "カビ、ネズミがバラク・オバマ小学校で発見、RPSが発表：\nhttps://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-elementary-school-rps-says/"
+    },
     "truth:117169292189382154": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17551,22 +17572,6 @@
       "published": "Thu, 27 Aug 2026 16:48:49 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-27T20:50:40.028755Z"
-    },
-    "truth:117169407048548480": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41284",
-      "source_text": "<p>Mold, rodents found in Barack Obama Elementary School, RPS says: <a href=\"https://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-elementary-school-rps-says/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wric.com/news/local-news/richm</span><span class=\"invisible\">ond/mold-rodents-found-in-barack-obama-elementary-school-rps-says/</span></a></p>",
-      "published": "Thu, 27 Aug 2026 20:41:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T22:50:35.062331Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41284",
-      "first_seen": "2026-08-27T22:30:37.076461Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Mold, rodents found in Barack Obama Elementary School, RPS says: \nhttps://www.wric.com/news/local-news/richmond/mold-rodents-found-in-barack-obama-ele",
-      "next_retry_at": "2026-08-27T22:50:38.502694Z",
-      "truth_social_id": "117169407048548480"
     },
     "truth:117169459309551539": {
       "post_status": "DISCOVERED",
