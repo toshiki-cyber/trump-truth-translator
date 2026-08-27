@@ -1702,7 +1702,10 @@
     "truth:117169521641336977",
     "https://trumpstruth.org/statuses/41286",
     "truth:117169459309551539",
-    "https://trumpstruth.org/statuses/41285"
+    "https://trumpstruth.org/statuses/41285",
+    "fp:BREAKING NEWS!\nTO: Office of the Secretary, Department of the Interior \nFROM: Director, U.S. Geological Survey\nRE: Lake America rename \n \nSir, \n \nAs o",
+    "truth:117169587997925219",
+    "https://trumpstruth.org/statuses/41289"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12139,6 +12142,22 @@
         }
       ]
     },
+    "truth:117169587997925219": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41289",
+      "source_text": "<p>BREAKING NEWS!</p><p>TO: Office of the Secretary, Department of the Interior <br />FROM: Director, U.S. Geological Survey<br />RE: Lake America rename <br /> <br />Sir, <br /> <br />As of 4:30 pm today the U.S. Geological Survey has officially designated the former Lake Ontario to be renamed as Lake America in all official USGS electronic documents.<br /> <br />The change will begin occurring in printed documents over the next several days.  <br /> <br />This change has also been made official in the Geographic Names Information System.<br /> <br />Should you have any further questions please contact me for clarification.<br /> <br />Thank you  <br />Ned<br /> <br />Dr. Ned Mamula<br />Director, U.S. Geological Survey<br />United States Department of the Interior</p>",
+      "published": "Thu, 27 Aug 2026 21:27:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-27T23:20:42.413336Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41289",
+      "source_fingerprint": "fp:BREAKING NEWS!\nTO: Office of the Secretary, Department of the Interior \nFROM: Director, U.S. Geological Survey\nRE: Lake America rename \n \nSir, \n \nAs o",
+      "media_identity": "attachment:117169587997925219:20ddacc7653e98dc.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:BREAKING NEWS!\nTO: Office of the Secretary, Department of the Interior \nFROM: Director, U.S. Geological Survey\nRE: Lake America rename \n \nSir, \n \nAs o",
+      "truth_social_id": "117169587997925219",
+      "translation": "速報！\n宛先：内務省事務次官\n差出人：米国地質調査所長\n件名：アメリカ湖への改称\n\n事務次官へ\n\n本日午後4時30分をもって、米国地質調査所は、かつてのオンタリオ湖を、すべての公式USGS電子文書においてアメリカ湖に改称することを正式に指定いたしました。\n\nこの変更は、今後数日間のうちに印刷物でも適用されます。\n\nこの変更は地理名情報システムにも正式に記録されております。\n\nご質問やご不明な点がございましたら、ご遠慮なくお問い合わせください。\n\nよろしくお願いいたします\nネッド\n\nネッド・マムラ博士\n米国地質調査所長\n米国内務省"
+    },
     "truth:117169292189382154": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17776,24 +17795,20 @@
       "next_retry_at": "2026-08-27T23:20:52.640911Z"
     },
     "truth:117169577666973164": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41288",
       "source_text": "<p>Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America! President DONALD J. TRUMP</p>",
       "published": "Thu, 27 Aug 2026 21:24:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T22:50:35.062069Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41288"
-    },
-    "truth:117169587997925219": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41289",
-      "source_text": "<p>BREAKING NEWS!</p><p>TO: Office of the Secretary, Department of the Interior <br />FROM: Director, U.S. Geological Survey<br />RE: Lake America rename <br /> <br />Sir, <br /> <br />As of 4:30 pm today the U.S. Geological Survey has officially designated the former Lake Ontario to be renamed as Lake America in all official USGS electronic documents.<br /> <br />The change will begin occurring in printed documents over the next several days.  <br /> <br />This change has also been made official in the Geographic Names Information System.<br /> <br />Should you have any further questions please contact me for clarification.<br /> <br />Thank you  <br />Ned<br /> <br />Dr. Ned Mamula<br />Director, U.S. Geological Survey<br />United States Department of the Interior</p>",
-      "published": "Thu, 27 Aug 2026 21:27:07 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T22:50:35.062001Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41289"
+      "retry_count": 1,
+      "updated_at": "2026-08-27T23:20:34.558886Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41288",
+      "first_seen": "2026-08-27T23:20:34.558845Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incred",
+      "next_retry_at": "2026-08-27T23:25:34.558895Z",
+      "truth_social_id": "117169577666973164"
     },
     "truth:117169602645341095": {
       "post_status": "DISCOVERED",
