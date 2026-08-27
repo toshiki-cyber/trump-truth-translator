@@ -17017,14 +17017,14 @@
       "status_url": "https://trumpstruth.org/statuses/41267",
       "source_text": "<p>The Great Governor of South Dakota, Larry Rhoden, is doing a fantastic job for \"The Mount Rushmore State,\" a place I love, and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!<br /> <br />Larry is a Fourth-Generation South Dakotan, successful Businessman, Rancher, former State Legislator, and now, as Governor, has strongly served the Wonderful People of South Dakota during a career \"loaded up\" with accolades and wins. He is working tirelessly to Champion South Dakota Values, Promote our Amazing Farmers and Ranchers, Grow the Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Larry Rhoden has my Complete and Total Endorsement — HE WILL NEVER LET YOU DOWN!</p>",
       "published": "Thu, 27 Aug 2026 16:48:49 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-27T18:55:35.692824Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-27T19:00:42.864772Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41267",
       "first_seen": "2026-08-27T18:55:35.692749Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The Great Governor of South Dakota, Larry Rhoden, is doing a fantastic job for \"The Mount Rushmore State,\" a place I love, and WON BIG, six times, inc",
-      "next_retry_at": "2026-08-27T19:00:35.692834Z",
+      "next_retry_at": "2026-08-27T19:10:42.864788Z",
       "truth_social_id": "117168493690794979"
     },
     "truth:117168727183055554": {
@@ -17043,14 +17043,20 @@
       "next_retry_at": "2026-08-27T19:00:36.689246Z"
     },
     "truth:117168898896435158": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41269",
       "source_text": "<p>GREAT NEWS! Micron, one of the “HOTTEST” Companies in the World, just announced a MASSIVE 10 BILLION DOLLAR Investment in new Research Labs right here in America. They are keeping us at the absolute forefront of A.I. and Advanced Computing! 🇺🇸<br /> <br />Combined with their previous TREMENDOUS 250 BILLION DOLLAR commitment, they are creating over tens of thousands of Great American Jobs. We are bringing Critical Technologies BACK to the U.S.A. Because of our Great Policies, Companies are investing TRILLIONS. <br /> <br />I have made it clear that America will lead the way to a new Golden Age of Science. The results speak for themselves: During my Administration, Companies are investing TRILLIONS of Dollars because they know the United States is the best place in the World to Build, Invent, and Grow.<br /> <br />Congratulations to Micron's fantastic CEO, Sanjay Mehrotra. We are strengthening our Economy and WINNING BIG! The Golden Age of America is HERE. MAGA! 🇺🇸🇺🇸🇺🇸 President DONALD J. TRUMP</p>",
       "published": "Thu, 27 Aug 2026 18:31:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T18:50:36.665071Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41269"
+      "retry_count": 1,
+      "updated_at": "2026-08-27T19:00:43.616550Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41269",
+      "first_seen": "2026-08-27T19:00:43.616512Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:GREAT NEWS! Micron, one of the “HOTTEST” Companies in the World, just announced a MASSIVE 10 BILLION DOLLAR Investment in new Research Labs right here",
+      "next_retry_at": "2026-08-27T19:05:43.616560Z",
+      "truth_social_id": "117168898896435158"
     }
   }
 }
