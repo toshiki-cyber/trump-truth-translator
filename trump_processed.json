@@ -1710,7 +1710,10 @@
     "https://trumpstruth.org/statuses/41287",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584",
     "truth:117169685597690201",
-    "https://trumpstruth.org/statuses/41293"
+    "https://trumpstruth.org/statuses/41293",
+    "fp:Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incred",
+    "truth:117169577666973164",
+    "https://trumpstruth.org/statuses/41288"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12232,6 +12235,24 @@
       "truth_social_id": "117169685597690201",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117169684795013584"
     },
+    "truth:117169577666973164": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41288",
+      "source_text": "<p>Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America! President DONALD J. TRUMP</p>",
+      "published": "Thu, 27 Aug 2026 21:24:30 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-27T23:40:51.431754Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41288",
+      "first_seen": "2026-08-27T23:20:34.558845Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incred",
+      "truth_social_id": "117169577666973164",
+      "source_fingerprint": "fp:Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incred",
+      "media_identity": "attachment:117169577666973164:",
+      "translation": "エヌビディアが960億2000万ドルの記録的売上を発表し、2028年の収益が70%上昇することを予測している。ジェンセン・ファンのこれらの素晴らしい数字と同社の大成功に祝意を表する。これはアメリカでこそ実現できることだ！大統領 ドナルド・J・トランプ"
+    },
     "truth:117169292189382154": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17737,22 +17758,6 @@
       "published": "Thu, 27 Aug 2026 16:48:49 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-27T20:50:40.028755Z"
-    },
-    "truth:117169577666973164": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41288",
-      "source_text": "<p>Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America! President DONALD J. TRUMP</p>",
-      "published": "Thu, 27 Aug 2026 21:24:30 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-27T23:30:33.996606Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41288",
-      "first_seen": "2026-08-27T23:20:34.558845Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incred",
-      "next_retry_at": "2026-08-27T23:40:33.996623Z",
-      "truth_social_id": "117169577666973164"
     },
     "truth:117169602645341095": {
       "post_status": "RETRY",
