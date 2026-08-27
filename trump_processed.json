@@ -16920,14 +16920,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41264",
       "source_text": "<p>USAID report finds more than 100 UNRWA employees participated in Hamas atrocities on Oct. 7: <a href=\"https://justthenews.com/world/usaid-report-finds-more-100-unrwa-employees-participated-hamas-atrocities-oct-7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/world/usaid-re</span><span class=\"invisible\">port-finds-more-100-unrwa-employees-participated-hamas-atrocities-oct-7</span></a></p>",
       "published": "Thu, 27 Aug 2026 01:30:58 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-27T02:55:37.905273Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-27T03:05:38.616701Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41264",
       "first_seen": "2026-08-27T02:55:37.905238Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:USAID report finds more than 100 UNRWA employees participated in Hamas atrocities on Oct. 7: \nhttps://justthenews.com/world/usaid-report-finds-more-10",
-      "next_retry_at": "2026-08-27T03:00:37.905282Z",
+      "next_retry_at": "2026-08-27T03:15:38.616713Z",
       "truth_social_id": "117164884520395213"
     },
     "truth:117165035124737967": {
@@ -16936,14 +16936,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41266",
       "source_text": "<p></p>",
       "published": "Thu, 27 Aug 2026 02:09:16 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-27T02:55:38.704428Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-27T03:05:39.518166Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41266",
       "source_fingerprint": null,
       "media_identity": "attachment:117165035124737967:7bc454f9b97dc78b.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/165/034/210/396/026/original/7bc454f9b97dc78b.mp4",
       "truth_social_id": "117165035124737967",
-      "next_retry_at": "2026-08-27T03:00:38.704452Z"
+      "next_retry_at": "2026-08-27T03:15:39.518184Z"
     }
   }
 }
