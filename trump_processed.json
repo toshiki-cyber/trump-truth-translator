@@ -1653,7 +1653,10 @@
     "https://trumpstruth.org/statuses/41263",
     "fp:EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: \nhttps://www.dailywire.com/news/exclusive-white-house-ditches-outdat",
     "truth:117162779250247451",
-    "https://trumpstruth.org/statuses/41259"
+    "https://trumpstruth.org/statuses/41259",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
+    "truth:117165035778371306",
+    "https://www.trumpstruth.org/statuses/41265"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -11952,6 +11955,22 @@
       "truth_social_id": "117163377375423640",
       "translation": "本日、5年前にアフガニスタンのカブールで邪悪なジハード主義テロリストに惨殺された13人の勇敢なアメリカの英雄たちを追悼する。この大惨事は、居眠り運転のジョー・バイデンによる完全に失敗した国からの撤退の結果であり、それは我々の素晴らしい兵士たちを無防備にしたばかりでなく、タリバンがバグラム刑務所に収監されていた数千人の血に飢えたテロリストと犯罪者を解放することを可能にした。これは我が国の歴史における最大の蛮行の一つであり、それはジョー・バイデンと権力を担っていた民主党員らの完全な無能さの結果であったという事実を決して忘れることはできない。\n\n2024年のキャンペーン中、私はアビー・ゲート・ゴールドスター・ファミリーズと会った。素晴らしい人々であり偉大な愛国者たちだが、彼らは民主党によって完全に無視され、不尊重された。私は彼らに、ホワイトハウスに戻ったときに正義をもたらすことを約束した——そして私たちは実現した！私たちは迅速に我々の兵士たちの死に責任のある邪悪な黒幕を逮捕した。それは統合参謀本部議長としての私の最大の栄誉の一つとなっている。神よ、アメリカを祝福してください。そして神よ、アビー・ゲート・ゴールドスター・ファミリーズを祝福してください。あなたたちが決して忘れられることはないであろう！大統領ドナルド・J・トランプ"
     },
+    "truth:117165035778371306": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41265",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967</span></p>",
+      "published": "Thu, 27 Aug 2026 02:09:26 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-27T03:00:36.988519Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41265",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
+      "media_identity": "attachment:117165035778371306:080da739cb0f615f.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
+      "truth_social_id": "117165035778371306",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967"
+    },
     "truth:117162776390221938": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16925,16 +16944,6 @@
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/165/034/210/396/026/original/7bc454f9b97dc78b.mp4",
       "truth_social_id": "117165035124737967",
       "next_retry_at": "2026-08-27T03:00:38.704452Z"
-    },
-    "truth:117165035778371306": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41265",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967</span></p>",
-      "published": "Thu, 27 Aug 2026 02:09:26 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T02:50:34.011944Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41265"
     }
   }
 }
