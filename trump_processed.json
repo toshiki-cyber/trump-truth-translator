@@ -1860,7 +1860,9 @@
     "truth:117174462557932061",
     "https://www.trumpstruth.org/statuses/41336",
     "truth:117174466495551220",
-    "https://www.trumpstruth.org/statuses/41330"
+    "https://www.trumpstruth.org/statuses/41330",
+    "truth:117174466973457410",
+    "https://www.trumpstruth.org/statuses/41329"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12748,6 +12750,21 @@
       "truth_social_id": "117174466495551220",
       "translation": ""
     },
+    "truth:117174466973457410": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41329",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T21:30:44.638506Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41329",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117174466973457410:ab0844a9bc5bc4a3.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117174466973457410",
+      "translation": ""
+    },
     "truth:117173934197924486": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19657,16 +19674,6 @@
       "next_retry_at": "2026-08-28T19:20:52.084891Z",
       "truth_social_id": "117174463721226014"
     },
-    "truth:117174466973457410": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41329",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 18:07:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T20:50:36.352374Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41329"
-    },
     "https://www.trumpstruth.org/statuses/41327": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19704,7 +19711,7 @@
       "source_text": "<p>Maggot Hagerman, the Fake Reporter from The Failing New York Times, an unattractive person both inside and out, and who knows less about me than most reporters on the beat (She’s a SCAMMER!), made up a story that on September 11th, I’m not going to the World Trade Center, in New York City, because they won’t let me make a speech, and I’m going to the Pentagon in D.C., because I’m a featured speaker. This is more Corrupt News, I’ve been to New York many times over the years, and no one ever speaks, it’s a “solemn ceremony!” I never even thought of what Maggot made up, and besides, I would love not to speak, because I’m speaking all the time, and this is a day to remember the victims, and their beautiful family members. Maggot Hagerman is a PHONY, and The New York Times knows it! It will all be revealed in the lawsuit against them, and another lawsuit against the organization which gives out the now discredited Pulitzer Prize, because Maggie got one for her “reporting” on THE RUSSIA, RUSSIA, RUSSIA HOAX, which turned out to be a total CON JOB! If she were ever forced to reveal her “sources,” you will find out they either don’t exist, or didn’t say what she reported. She’s been falsely writing about me for years — She’s a stalker, and should be forced to turn over any and all money that she’s made through her fake reporting on me. President DONALD J. TRUMP</p>",
       "published": "Fri, 28 Aug 2026 20:36:17 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-28T21:25:38.746052Z",
+      "updated_at": "2026-08-28T21:30:41.401083Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41354"
     }
   }
