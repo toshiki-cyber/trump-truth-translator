@@ -1731,7 +1731,9 @@
     "truth:117169851902805924",
     "https://www.trumpstruth.org/statuses/41295",
     "truth:117170522190859145",
-    "https://trumpstruth.org/statuses/41301"
+    "https://trumpstruth.org/statuses/41301",
+    "truth:117170522834164313",
+    "https://trumpstruth.org/statuses/41300"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12237,6 +12239,21 @@
       "truth_social_id": "117170522190859145",
       "translation": ""
     },
+    "truth:117170522834164313": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41300",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 01:24:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T03:10:43.119059Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41300",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117170522834164313:dc65298c3daf06fe.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117170522834164313",
+      "translation": ""
+    },
     "truth:117169407048548480": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18092,25 +18109,15 @@
       "status_url": "https://trumpstruth.org/statuses/41299",
       "source_text": "<p>Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it — A total pro! President DJT</p>",
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T03:00:35.293385Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T03:10:40.343024Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41299",
       "first_seen": "2026-08-28T03:00:35.293330Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it — A total pro! President DJT",
-      "next_retry_at": "2026-08-28T03:05:35.293395Z",
+      "next_retry_at": "2026-08-28T03:20:40.343035Z",
       "truth_social_id": "117170489559297133"
-    },
-    "truth:117170522834164313": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41300",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 01:24:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T02:50:38.800749Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41300"
     },
     "truth:117170728106332198": {
       "post_status": "DISCOVERED",
