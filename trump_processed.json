@@ -1837,7 +1837,10 @@
     "https://trumpstruth.org/statuses/41343",
     "fp:FBI Shuts Down Sprawling China-Linked Hacking Network: \nhttps://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-6",
     "truth:117174458540297380",
-    "https://trumpstruth.org/statuses/41342"
+    "https://trumpstruth.org/statuses/41342",
+    "fp:Exclusive: Trump’s new affordability push runs on highways, rail: \nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-hi",
+    "truth:117174458936816336",
+    "https://trumpstruth.org/statuses/41341"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13066,6 +13069,74 @@
       "media_identity": "attachment:117174458540297380:",
       "translation": "FBI、中国と関連する広大なハッキングネットワークを摘発：\nhttps://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-61eade59"
     },
+    "truth:117174458936816336": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41341",
+      "source_text": "<p>Exclusive: Trump’s new affordability push runs on highways, rail: <a href=\"https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semafor.com/article/08/26/2026</span><span class=\"invisible\">/trumps-new-affordability-push-runs-on-highways-rail</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-28T20:40:36.253997Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41341",
+      "first_seen": "2026-08-28T19:00:50.859289Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Exclusive: Trump’s new affordability push runs on highways, rail: \nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-hi",
+      "truth_social_id": "117174458936816336",
+      "source_fingerprint": "fp:Exclusive: Trump’s new affordability push runs on highways, rail: \nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-hi",
+      "media_identity": "attachment:117174458936816336:",
+      "translation": "独占：トランプ新政権の手頃な価格推進策は高速道路と鉄道で展開される：\nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5xatg4yce4",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mu5xatg4yce4",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "独占：トランプ新政権の手頃な価格推進策は高速道路と鉄道で展開される：\nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
+        "createdAt": "2026-08-28T20:30:45.634601Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 103,
+              "byteEnd": 197
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
+            "title": "Exclusive: Trumpâs new affordability push runs on highways, rail ",
+            "description": "The Transportation Department is proposing building infrastructure like water pipelines and transmission wires alongside existing roads and tracks.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia76n2zjsaqqn7fcn36wp2drdzkudyhg6gvom2p6ktnjptkgb5jl4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 85893
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5xatg4yce4",
+          "rkey": "3mu5xatg4yce4"
+        }
+      ]
+    },
     "truth:117173120124163613": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19394,175 +19465,6 @@
       "published": "Fri, 28 Aug 2026 12:22:40 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T18:50:34.208027Z"
-    },
-    "truth:117174458936816336": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41341",
-      "source_text": "<p>Exclusive: Trump’s new affordability push runs on highways, rail: <a href=\"https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semafor.com/article/08/26/2026</span><span class=\"invisible\">/trumps-new-affordability-push-runs-on-highways-rail</span></a></p>",
-      "published": "Fri, 28 Aug 2026 18:05:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T20:30:53.158900Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41341",
-      "first_seen": "2026-08-28T19:00:50.859289Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Exclusive: Trump’s new affordability push runs on highways, rail: \nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-hi",
-      "truth_social_id": "117174458936816336",
-      "source_fingerprint": "fp:Exclusive: Trump’s new affordability push runs on highways, rail: \nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-hi",
-      "media_identity": "attachment:117174458936816336:",
-      "translation": "独占：トランプ新政権の手頃な価格推進策は高速道路と鉄道で展開される：\nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5xatg4yce4",
-          "cid": "bafyreihllnsnhjsc563tm7pfqpjnedvhmk3z4lhe4q6x5mmwtyf53l6jya"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5xatg4yce4",
-          "cid": "bafyreihllnsnhjsc563tm7pfqpjnedvhmk3z4lhe4q6x5mmwtyf53l6jya"
-        },
-        "next_index": 1,
-        "last_rkey": "3mu5xatg4yce4",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "独占：トランプ新政権の手頃な価格推進策は高速道路と鉄道で展開される：\nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
-          "createdAt": "2026-08-28T20:30:45.634601Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 103,
-                "byteEnd": 197
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
-              "title": "Exclusive: Trumpâs new affordability push runs on highways, rail ",
-              "description": "The Transportation Department is proposing building infrastructure like water pipelines and transmission wires alongside existing roads and tracks.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreia76n2zjsaqqn7fcn36wp2drdzkudyhg6gvom2p6ktnjptkgb5jl4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 85893
-              }
-            }
-          }
-        },
-        "root_rkey": "3mu5xatg4yce4",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "独占：トランプ新政権の手頃な価格推進策は高速道路と鉄道で展開される：\nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
-          "createdAt": "2026-08-28T20:30:45.634601Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 103,
-                "byteEnd": 197
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
-              "title": "Exclusive: Trumpâs new affordability push runs on highways, rail ",
-              "description": "The Transportation Department is proposing building infrastructure like water pipelines and transmission wires alongside existing roads and tracks.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreia76n2zjsaqqn7fcn36wp2drdzkudyhg6gvom2p6ktnjptkgb5jl4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 85893
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5xatg4yce4",
-            "rkey": "3mu5xatg4yce4"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5xatg4yce4",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mu5xatg4yce4",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "独占：トランプ新政権の手頃な価格推進策は高速道路と鉄道で展開される：\nhttps://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
-        "createdAt": "2026-08-28T20:30:45.634601Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 103,
-              "byteEnd": 197
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail",
-            "title": "Exclusive: Trumpâs new affordability push runs on highways, rail ",
-            "description": "The Transportation Department is proposing building infrastructure like water pipelines and transmission wires alongside existing roads and tracks.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreia76n2zjsaqqn7fcn36wp2drdzkudyhg6gvom2p6ktnjptkgb5jl4"
-              },
-              "mimeType": "image/jpeg",
-              "size": 85893
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5xatg4yce4",
-          "rkey": "3mu5xatg4yce4"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-28T20:35:53.158915Z"
     },
     "truth:117174459387909497": {
       "post_status": "POST_VERIFY_PENDING",
