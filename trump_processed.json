@@ -1786,7 +1786,10 @@
     "https://www.trumpstruth.org/statuses/41321",
     "fp:Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP",
     "truth:117173824844529572",
-    "https://www.trumpstruth.org/statuses/41307"
+    "https://www.trumpstruth.org/statuses/41307",
+    "fp:From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the",
+    "truth:117173835662782534",
+    "https://www.trumpstruth.org/statuses/41320"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12806,6 +12809,22 @@
         }
       ]
     },
+    "truth:117173835662782534": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41320",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the pool reflecting and the American Flag Blue color.<br /> <br />As you can tell, many of the photos posted in the New York Times articles were taken after the largest fireworks show in history—which had launch points alongside the pool—deposited significant debris in the pool.<br /> <br />The Reflecting Pool has been partially refilled to allow National Park Service staff and contractors to flush the pool’s piping system for the first time in more than a decade. After years of neglect by previous administrations, more than half of the 58 water supply ports were so clogged that they were deemed nonfunctioning. This work is ongoing. We waited until after July 4th to do. Coming out great!<br /> <br />The National Park Service has also, for the second time, cleaned the granite, pressure washed the sidewalk, and removed several hazardous trees next to the Reflecting Pool. Will be opening in a few weeks. Will be a beauty. NO VANDALS PLEASE.”</p>",
+      "published": "Fri, 28 Aug 2026 15:27:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:15:42.617738Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41320",
+      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the",
+      "media_identity": "attachment:117173835662782534:2b783bed1d6004f6.jpg,409a695bbbabc5d0.jpg,da8f8043a8ca238d.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the",
+      "truth_social_id": "117173835662782534",
+      "translation": "内務省のグレッグ・ウィッシャーからの報告：「本朝、リフレクティング・プール（反射池）を訪れました。以下は池が反射している写真とアメリカ国旗の青色の写真です。\n\nご覧の通り、ニューヨーク・タイムズの記事に掲載されている多くの写真は、史上最大の花火大会の後に撮影されたものです。その花火大会は池の沿いに打ち上げ地点があり、池に多くの破片を堆積させました。\n\nリフレクティング・プールは部分的に再充水され、国立公園局のスタッフと請負業者が10年以上ぶりに池の配管システムをフラッシュしました。前政権による長年の怠慢の後、58個の給水ポートの半分以上が詰まっており、機能していないと判定されていました。この作業は進行中です。7月4日の後まで待ちました。良い仕上がりになっています！\n\n国立公園局はまた、2度目の花崗岩のクリーニング、歩道の高圧洗浄、リフレクティング・プール隣の危険な樹木の除去を行いました。数週間後にオープンします。素晴らしいものになります。荒らし行為はやめてください。」"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18708,16 +18727,6 @@
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T04:50:35.499140Z"
-    },
-    "truth:117173835662782534": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41320",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the pool reflecting and the American Flag Blue color.<br /> <br />As you can tell, many of the photos posted in the New York Times articles were taken after the largest fireworks show in history—which had launch points alongside the pool—deposited significant debris in the pool.<br /> <br />The Reflecting Pool has been partially refilled to allow National Park Service staff and contractors to flush the pool’s piping system for the first time in more than a decade. After years of neglect by previous administrations, more than half of the 58 water supply ports were so clogged that they were deemed nonfunctioning. This work is ongoing. We waited until after July 4th to do. Coming out great!<br /> <br />The National Park Service has also, for the second time, cleaned the granite, pressure washed the sidewalk, and removed several hazardous trees next to the Reflecting Pool. Will be opening in a few weeks. Will be a beauty. NO VANDALS PLEASE.”</p>",
-      "published": "Fri, 28 Aug 2026 15:27:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T16:50:39.413091Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41320"
     },
     "truth:117173924383548135": {
       "post_status": "DISCOVERED",
