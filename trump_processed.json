@@ -1816,7 +1816,10 @@
     "https://trumpstruth.org/statuses/41327",
     "fp:Democrats Fight to Keep Unqualified Illegal Alien Truckers on the Road: \nhttps://amac.us/newsline/democrats-fight-to-keep-unqualified-illegal-alien-tr",
     "truth:117174455782176210",
-    "https://trumpstruth.org/statuses/41348"
+    "https://trumpstruth.org/statuses/41348",
+    "fp:Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: \nhttps://www.foxnews.com/politics/trump-mourns-dolly-part",
+    "truth:117174455268168941",
+    "https://trumpstruth.org/statuses/41349"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12819,6 +12822,74 @@
       "media_identity": "attachment:117174455782176210:",
       "translation": "民主党員は不適格な違法移民トラック運転手を道路に留めるため戦っている：\nhttps://amac.us/newsline/democrats-fight-to-keep-unqualified-illegal-alien-truckers-on-the-road"
     },
+    "truth:117174455268168941": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41349",
+      "source_text": "<p>Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: <a href=\"https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-mou</span><span class=\"invisible\">rns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:04:56 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-28T19:50:39.484393Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41349",
+      "first_seen": "2026-08-28T19:00:43.322267Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: \nhttps://www.foxnews.com/politics/trump-mourns-dolly-part",
+      "truth_social_id": "117174455268168941",
+      "source_fingerprint": "fp:Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: \nhttps://www.foxnews.com/politics/trump-mourns-dolly-part",
+      "media_identity": "attachment:117174455268168941:",
+      "translation": "トランプがドリー・パートンを悼む、カントリーミュージックのアイコンが死去した後、全米の旗の掲揚を低く下げるよう命令：\nhttps://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5x75zrykih",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mu5x75zrykih",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "トランプがドリー・パートンを悼む、カントリーミュージックのアイコンが死去した後、全米の旗の掲揚を低く下げるよう命令：\nhttps://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
+        "createdAt": "2026-08-28T19:40:39.056379Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 175,
+              "byteEnd": 292
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
+            "title": "Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies",
+            "description": "Trump ordered American flags lowered nationwide for one week in honor of Dolly Parton, calling her death \"a true loss for millions of people.\"",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigpqzt3kdoxyn4nm4azamb7dcgs5zg6yqteega4dysr7fjnzf2e34"
+              },
+              "mimeType": "image/jpeg",
+              "size": 317774
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5x75zrykih",
+          "rkey": "3mu5x75zrykih"
+        }
+      ]
+    },
     "truth:117173120124163613": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19147,175 +19218,6 @@
       "published": "Fri, 28 Aug 2026 12:22:40 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T18:50:34.208027Z"
-    },
-    "truth:117174455268168941": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41349",
-      "source_text": "<p>Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: <a href=\"https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-mou</span><span class=\"invisible\">rns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies</span></a></p>",
-      "published": "Fri, 28 Aug 2026 18:04:56 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T19:40:46.279230Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41349",
-      "first_seen": "2026-08-28T19:00:43.322267Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: \nhttps://www.foxnews.com/politics/trump-mourns-dolly-part",
-      "truth_social_id": "117174455268168941",
-      "source_fingerprint": "fp:Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: \nhttps://www.foxnews.com/politics/trump-mourns-dolly-part",
-      "media_identity": "attachment:117174455268168941:",
-      "translation": "トランプがドリー・パートンを悼む、カントリーミュージックのアイコンが死去した後、全米の旗の掲揚を低く下げるよう命令：\nhttps://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5x75zrykih",
-          "cid": "bafyreihlvn7lmgszhaqp5axejesgs6s2a63qfuu6p2oqhm26uiw4ddffxe"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5x75zrykih",
-          "cid": "bafyreihlvn7lmgszhaqp5axejesgs6s2a63qfuu6p2oqhm26uiw4ddffxe"
-        },
-        "next_index": 1,
-        "last_rkey": "3mu5x75zrykih",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプがドリー・パートンを悼む、カントリーミュージックのアイコンが死去した後、全米の旗の掲揚を低く下げるよう命令：\nhttps://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
-          "createdAt": "2026-08-28T19:40:39.056379Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 175,
-                "byteEnd": 292
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
-              "title": "Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies",
-              "description": "Trump ordered American flags lowered nationwide for one week in honor of Dolly Parton, calling her death \"a true loss for millions of people.\"",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigpqzt3kdoxyn4nm4azamb7dcgs5zg6yqteega4dysr7fjnzf2e34"
-                },
-                "mimeType": "image/jpeg",
-                "size": 317774
-              }
-            }
-          }
-        },
-        "root_rkey": "3mu5x75zrykih",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプがドリー・パートンを悼む、カントリーミュージックのアイコンが死去した後、全米の旗の掲揚を低く下げるよう命令：\nhttps://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
-          "createdAt": "2026-08-28T19:40:39.056379Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 175,
-                "byteEnd": 292
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
-              "title": "Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies",
-              "description": "Trump ordered American flags lowered nationwide for one week in honor of Dolly Parton, calling her death \"a true loss for millions of people.\"",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigpqzt3kdoxyn4nm4azamb7dcgs5zg6yqteega4dysr7fjnzf2e34"
-                },
-                "mimeType": "image/jpeg",
-                "size": 317774
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5x75zrykih",
-            "rkey": "3mu5x75zrykih"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5x75zrykih",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mu5x75zrykih",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプがドリー・パートンを悼む、カントリーミュージックのアイコンが死去した後、全米の旗の掲揚を低く下げるよう命令：\nhttps://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
-        "createdAt": "2026-08-28T19:40:39.056379Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 175,
-              "byteEnd": 292
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies",
-            "title": "Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies",
-            "description": "Trump ordered American flags lowered nationwide for one week in honor of Dolly Parton, calling her death \"a true loss for millions of people.\"",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigpqzt3kdoxyn4nm4azamb7dcgs5zg6yqteega4dysr7fjnzf2e34"
-              },
-              "mimeType": "image/jpeg",
-              "size": 317774
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5x75zrykih",
-          "rkey": "3mu5x75zrykih"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-28T19:45:46.279246Z"
     },
     "truth:117174456213403361": {
       "post_status": "RETRY",
