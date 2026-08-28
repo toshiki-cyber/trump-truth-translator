@@ -18013,17 +18013,17 @@
     "truth:117168727183055554": {
       "post_status": "BLOCKED",
       "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41268",
+      "status_url": "https://www.trumpstruth.org/statuses/41268",
       "source_text": "<p></p>",
       "published": "Thu, 27 Aug 2026 17:48:12 +0000",
-      "updated_at": "2026-08-28T06:50:37.561415Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41268",
+      "updated_at": "2026-08-28T10:50:42.916327Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41268",
       "source_fingerprint": null,
-      "media_identity": "attachment:117168727183055554:bdd106bef5a372be-b63837848b99.mov",
+      "media_identity": "attachment:117168727183055554:bdd106bef5a372be-34f51907ee6c.mov",
       "truth_social_id": "117168727183055554",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/168/726/777/367/576/original/bdd106bef5a372be.mp4",
       "retry_count": 1,
-      "next_retry_at": "2026-08-28T06:55:37.561436Z"
+      "next_retry_at": "2026-08-28T10:55:42.916347Z"
     },
     "https://www.trumpstruth.org/statuses/41269": {
       "post_status": "DISCOVERED",
@@ -18044,18 +18044,18 @@
       "updated_at": "2026-08-27T20:50:40.028755Z"
     },
     "truth:117169684795013584": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41292",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41292",
       "source_text": "<p></p>",
       "published": "Thu, 27 Aug 2026 21:51:44 +0000",
-      "updated_at": "2026-08-28T10:15:50.101198Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41292",
+      "updated_at": "2026-08-28T10:50:40.703177Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41292",
       "source_fingerprint": null,
       "media_identity": "attachment:117169684795013584:903a11e301b1ae8f-5dbea85761dc.mp4",
       "truth_social_id": "117169684795013584",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"da7rt74ug6hs73avodgg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
-      "retry_count": 6,
+      "retry_count": 0,
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-08-28T12:55:50.101216Z"
     },
