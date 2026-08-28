@@ -1795,7 +1795,9 @@
     "truth:117173924383548135",
     "https://www.trumpstruth.org/statuses/41322",
     "truth:117173934882859753",
-    "https://www.trumpstruth.org/statuses/41324"
+    "https://www.trumpstruth.org/statuses/41324",
+    "truth:117173934197924486",
+    "https://trumpstruth.org/statuses/41325"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12304,74 +12306,6 @@
       "media_identity": "attachment:117170489559297133:",
       "translation": "グレッグ・ジャレット氏は今夜のショーン・ハニティ出演で素晴らしかった。奴は本当に分かってる——完全なプロだ！大統領DJT"
     },
-    "truth:117173120124163613": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41305",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 12:25:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T12:50:45.478216Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41305",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117173120124163613:5ccecf54c9123ba9.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117173120124163613",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5e7z4vpc3s",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mu5e7z4vpc3s",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-28T12:50:38.400160Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiemwlczmrnmlc53dgq3ny65iwifp646ffswpomtqbjkb3iigd4vt4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 190436
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 868,
-                "height": 1183
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5e7z4vpc3s",
-          "rkey": "3mu5e7z4vpc3s"
-        }
-      ]
-    },
-    "truth:117173125011583696": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41304",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 12:26:38 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T12:55:41.867014Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41304",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117173125011583696:b3f9089d3d36e3f0.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117173125011583696",
-      "translation": ""
-    },
     "truth:117173109426335170": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -12407,21 +12341,6 @@
       "source_fingerprint": "fp:Congressman Mike Lawler of New York was fantastic on FoxBusiness today. Important that we keep him in Congress. A total winner!!! President DJT",
       "media_identity": "attachment:117173256901177832:",
       "translation": "ニューヨーク州選出のマイク・ローラー下院議員は、今日のフォックスビジネスで素晴らしかった。彼を議会に留め置くことが重要だ。完全な勝者だ！！！ トランプ大統領"
-    },
-    "truth:117173822330655250": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41311",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 15:23:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T16:55:45.549941Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41311",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117173822330655250:20fc2dbf09c1517d.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117173822330655250",
-      "translation": ""
     },
     "truth:117173821641287461": {
       "post_status": "POSTED",
@@ -12493,176 +12412,6 @@
         }
       ]
     },
-    "truth:117173822650017416": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41310",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 15:24:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T17:05:43.801163Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41310",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117173822650017416:1cfecb4a77f1d9f8.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117173822650017416",
-      "translation": ""
-    },
-    "truth:117173823118334969": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41309",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 15:24:10 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T17:10:42.301603Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41309",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117173823118334969:06403915d365173b.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117173823118334969",
-      "translation": ""
-    },
-    "truth:117173813046077225": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41318",
-      "source_text": "<p>FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:21:36 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:20:40.876043Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41318",
-      "first_seen": "2026-08-28T16:50:41.375230Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
-      "truth_social_id": "117173813046077225",
-      "source_fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
-      "media_identity": "attachment:117173813046077225:",
-      "translation": "FBI はバイデン汚職に関する 14 人の情報提供者を抱えていたが、証拠をディスインフォメーションとして却下するための秘密作戦を展開していた：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants"
-    },
-    "truth:117173811762333006": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41319",
-      "source_text": "<p>Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC: <a href=\"https://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/media/trump-wins-p</span><span class=\"invisible\">ermission-file-amended-complaint-10b-defamation-lawsuit-against-bbc</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:21:17 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T17:25:41.200114Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41319",
-      "first_seen": "2026-08-28T16:50:40.338027Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC: \nhttps://www.foxnews.com/media/trump-wins-permission-file-amen",
-      "truth_social_id": "117173811762333006",
-      "source_fingerprint": "fp:Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC: \nhttps://www.foxnews.com/media/trump-wins-permission-file-amen",
-      "media_identity": "attachment:117173811762333006:",
-      "translation": "トランプ、BBC相手の100億ドル名誉毀損訴訟で修正版訴状を提出する許可を獲得：\nhttps://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5o2jrzmkum",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mu5o2jrzmkum",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ、BBC相手の100億ドル名誉毀損訴訟で修正版訴状を提出する許可を獲得：\nhttps://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc",
-        "createdAt": "2026-08-28T17:15:52.117392Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 109,
-              "byteEnd": 218
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc",
-            "title": "Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC",
-            "description": "President Donald Trump won permission to amend his $10 billion defamation lawsuit against the BBC over its edited \"Panorama\" documentary about Jan. 6.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreif5jv6zl6uyluycoz2cdnt2mwbmfqlsm37b4y7isay7gg5tndzpwi"
-              },
-              "mimeType": "image/jpeg",
-              "size": 207087
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5o2jrzmkum",
-          "rkey": "3mu5o2jrzmkum"
-        }
-      ]
-    },
-    "truth:117173814168760364": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41317",
-      "source_text": "<p>Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: <a href=\"https://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:21:54 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:30:42.811673Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41317",
-      "first_seen": "2026-08-28T16:50:42.147488Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
-      "truth_social_id": "117173814168760364",
-      "source_fingerprint": "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
-      "media_identity": "attachment:117173814168760364:",
-      "translation": "トランプ効果：処方薬の価格が記録的なペースで下落：\nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/"
-    },
-    "truth:117173814744422268": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41316",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364</span>So big a deal!</p>",
-      "published": "Fri, 28 Aug 2026 15:22:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:35:36.574466Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41316",
-      "first_seen": "2026-08-28T16:50:43.006874Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
-      "truth_social_id": "117173814744422268",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
-      "media_identity": "attachment:117173814744422268:",
-      "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So 大変なことだ！"
-    },
-    "truth:117173817066104821": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41315",
-      "source_text": "<p>Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: <a href=\"https://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailymail.com/news/article-160</span><span class=\"invisible\">47057/Trumps-chilling-national-emergency-midterm.html</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:22:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:40:40.109878Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41315",
-      "first_seen": "2026-08-28T16:50:43.768820Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
-      "truth_social_id": "117173817066104821",
-      "source_fingerprint": "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
-      "media_identity": "attachment:117173817066104821:",
-      "translation": "トランプ氏が中間選挙を支配するための国家非常事態を宣言するかどうかを尋ねられた際の戦慄する5語の回答：\nhttps://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html"
-    },
     "truth:117173818491619185": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -12680,24 +12429,6 @@
       "source_fingerprint": "fp:WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream & Attack All You Wan",
       "media_identity": "attachment:117173818491619185:",
       "translation": "ウェイン・ルート：「選挙国家安全保障上の緊急事態」という私のアイデアについて、リベラルメディアは怒り狂っている。私の回答はこうだ。叫んで攻撃しろ。やりたいようにやれ。お前たちはそれを止められない。それは完璧だ。ここに事実がある：\nhttps://www.thegatewaypundit.com/2026/08/wayne-root-liberal-media-goes-insane-rage-my/"
-    },
-    "truth:117173820921004362": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41313",
-      "source_text": "<p>Inside feds’ stealth mission to deport California killers, rapists and child molesters: <a href=\"https://nypost.com/2026/08/12/us-news/operation-guardian-angel-arrests-362-deported-migrants-in-socal/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/12/us-news/</span><span class=\"invisible\">operation-guardian-angel-arrests-362-deported-migrants-in-socal/</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:23:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:50:43.538586Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41313",
-      "first_seen": "2026-08-28T16:50:45.582373Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Inside feds’ stealth mission to deport California killers, rapists and child molesters: \nhttps://nypost.com/2026/08/12/us-news/operation-guardian-ange",
-      "truth_social_id": "117173820921004362",
-      "source_fingerprint": "fp:Inside feds’ stealth mission to deport California killers, rapists and child molesters: \nhttps://nypost.com/2026/08/12/us-news/operation-guardian-ange",
-      "media_identity": "attachment:117173820921004362:",
-      "translation": "カリフォルニア州の殺人犯、強盗犯、児童虐待者を強制送還する連邦政府の秘密作戦の内部:\nhttps://nypost.com/2026/08/12/us-news/operation-guardian-angel-arrests-362-deported-migrants-in-socal/"
     },
     "truth:117173823863567245": {
       "post_status": "POSTED",
@@ -12831,15 +12562,339 @@
       "truth_social_id": "117173835662782534",
       "translation": "内務省のグレッグ・ウィッシャーからの報告：「本朝、リフレクティング・プール（反射池）を訪れました。以下は池が反射している写真とアメリカ国旗の青色の写真です。\n\nご覧の通り、ニューヨーク・タイムズの記事に掲載されている多くの写真は、史上最大の花火大会の後に撮影されたものです。その花火大会は池の沿いに打ち上げ地点があり、池に多くの破片を堆積させました。\n\nリフレクティング・プールは部分的に再充水され、国立公園局のスタッフと請負業者が10年以上ぶりに池の配管システムをフラッシュしました。前政権による長年の怠慢の後、58個の給水ポートの半分以上が詰まっており、機能していないと判定されていました。この作業は進行中です。7月4日の後まで待ちました。良い仕上がりになっています！\n\n国立公園局はまた、2度目の花崗岩のクリーニング、歩道の高圧洗浄、リフレクティング・プール隣の危険な樹木の除去を行いました。数週間後にオープンします。素晴らしいものになります。荒らし行為はやめてください。」"
     },
-    "truth:117173927335714753": {
+    "truth:117173934197924486": {
       "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41326",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41325",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 15:52:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206679Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41325",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173934197924486:9a8106ba39c46ce1.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173934197924486",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5ps7hkac7f",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mu5ps7hkac7f",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-08-28T18:40:47.182030Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreie3cttubjw7bmmczzuvwgcf765fg4emwu75ctzorjwpb5ta3kw3cm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 124960
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1161,
+                "height": 884
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5ps7hkac7f",
+          "rkey": "3mu5ps7hkac7f"
+        }
+      ]
+    },
+    "truth:117173120124163613": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41305",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 12:25:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207963Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41305",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173120124163613:5ccecf54c9123ba9.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173120124163613",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5e7z4vpc3s",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mu5e7z4vpc3s",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-08-28T12:50:38.400160Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiemwlczmrnmlc53dgq3ny65iwifp646ffswpomtqbjkb3iigd4vt4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 190436
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 868,
+                "height": 1183
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5e7z4vpc3s",
+          "rkey": "3mu5e7z4vpc3s"
+        }
+      ]
+    },
+    "truth:117173125011583696": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41304",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 12:26:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207899Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41304",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173125011583696:b3f9089d3d36e3f0.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173125011583696",
+      "translation": ""
+    },
+    "truth:117173822330655250": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41311",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 15:23:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207266Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41311",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173822330655250:20fc2dbf09c1517d.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173822330655250",
+      "translation": ""
+    },
+    "truth:117173822650017416": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41310",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 15:24:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207202Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41310",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173822650017416:1cfecb4a77f1d9f8.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173822650017416",
+      "translation": ""
+    },
+    "truth:117173823118334969": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41309",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 15:24:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207136Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41309",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173823118334969:06403915d365173b.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173823118334969",
+      "translation": ""
+    },
+    "truth:117173813046077225": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41318",
+      "source_text": "<p>FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:21:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207709Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41318",
+      "first_seen": "2026-08-28T16:50:41.375230Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
+      "truth_social_id": "117173813046077225",
+      "source_fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
+      "media_identity": "attachment:117173813046077225:",
+      "translation": "FBI はバイデン汚職に関する 14 人の情報提供者を抱えていたが、証拠をディスインフォメーションとして却下するための秘密作戦を展開していた：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants"
+    },
+    "truth:117173811762333006": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41319",
+      "source_text": "<p>Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC: <a href=\"https://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/media/trump-wins-p</span><span class=\"invisible\">ermission-file-amended-complaint-10b-defamation-lawsuit-against-bbc</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:21:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207772Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41319",
+      "first_seen": "2026-08-28T16:50:40.338027Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC: \nhttps://www.foxnews.com/media/trump-wins-permission-file-amen",
+      "truth_social_id": "117173811762333006",
+      "source_fingerprint": "fp:Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC: \nhttps://www.foxnews.com/media/trump-wins-permission-file-amen",
+      "media_identity": "attachment:117173811762333006:",
+      "translation": "トランプ、BBC相手の100億ドル名誉毀損訴訟で修正版訴状を提出する許可を獲得：\nhttps://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5o2jrzmkum",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mu5o2jrzmkum",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "トランプ、BBC相手の100億ドル名誉毀損訴訟で修正版訴状を提出する許可を獲得：\nhttps://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc",
+        "createdAt": "2026-08-28T17:15:52.117392Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 109,
+              "byteEnd": 218
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.foxnews.com/media/trump-wins-permission-file-amended-complaint-10b-defamation-lawsuit-against-bbc",
+            "title": "Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC",
+            "description": "President Donald Trump won permission to amend his $10 billion defamation lawsuit against the BBC over its edited \"Panorama\" documentary about Jan. 6.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreif5jv6zl6uyluycoz2cdnt2mwbmfqlsm37b4y7isay7gg5tndzpwi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 207087
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5o2jrzmkum",
+          "rkey": "3mu5o2jrzmkum"
+        }
+      ]
+    },
+    "truth:117173814168760364": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41317",
+      "source_text": "<p>Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: <a href=\"https://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:21:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207645Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41317",
+      "first_seen": "2026-08-28T16:50:42.147488Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
+      "truth_social_id": "117173814168760364",
+      "source_fingerprint": "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
+      "media_identity": "attachment:117173814168760364:",
+      "translation": "トランプ効果：処方薬の価格が記録的なペースで下落：\nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/"
+    },
+    "truth:117173814744422268": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41316",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364</span>So big a deal!</p>",
+      "published": "Fri, 28 Aug 2026 15:22:02 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207582Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41316",
+      "first_seen": "2026-08-28T16:50:43.006874Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
+      "truth_social_id": "117173814744422268",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
+      "media_identity": "attachment:117173814744422268:",
+      "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So 大変なことだ！"
+    },
+    "truth:117173817066104821": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41315",
+      "source_text": "<p>Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: <a href=\"https://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailymail.com/news/article-160</span><span class=\"invisible\">47057/Trumps-chilling-national-emergency-midterm.html</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:22:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207519Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41315",
+      "first_seen": "2026-08-28T16:50:43.768820Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
+      "truth_social_id": "117173817066104821",
+      "source_fingerprint": "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
+      "media_identity": "attachment:117173817066104821:",
+      "translation": "トランプ氏が中間選挙を支配するための国家非常事態を宣言するかどうかを尋ねられた際の戦慄する5語の回答：\nhttps://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html"
+    },
+    "truth:117173820921004362": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41313",
+      "source_text": "<p>Inside feds’ stealth mission to deport California killers, rapists and child molesters: <a href=\"https://nypost.com/2026/08/12/us-news/operation-guardian-angel-arrests-362-deported-migrants-in-socal/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/12/us-news/</span><span class=\"invisible\">operation-guardian-angel-arrests-362-deported-migrants-in-socal/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:23:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207392Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41313",
+      "first_seen": "2026-08-28T16:50:45.582373Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Inside feds’ stealth mission to deport California killers, rapists and child molesters: \nhttps://nypost.com/2026/08/12/us-news/operation-guardian-ange",
+      "truth_social_id": "117173820921004362",
+      "source_fingerprint": "fp:Inside feds’ stealth mission to deport California killers, rapists and child molesters: \nhttps://nypost.com/2026/08/12/us-news/operation-guardian-ange",
+      "media_identity": "attachment:117173820921004362:",
+      "translation": "カリフォルニア州の殺人犯、強盗犯、児童虐待者を強制送還する連邦政府の秘密作戦の内部:\nhttps://nypost.com/2026/08/12/us-news/operation-guardian-angel-arrests-362-deported-migrants-in-socal/"
+    },
+    "truth:117173927335714753": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41326",
       "source_text": "<p></p>",
       "published": "Fri, 28 Aug 2026 15:50:40 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-28T18:25:38.647993Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41326",
+      "updated_at": "2026-08-28T18:50:34.206741Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41326",
       "source_fingerprint": null,
       "media_identity": "attachment:117173927335714753:b359898bf1c961fc.jpg",
       "failure_reason": null,
@@ -12847,14 +12902,14 @@
       "translation": ""
     },
     "truth:117173924383548135": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41322",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41322",
       "source_text": "<p></p>",
       "published": "Fri, 28 Aug 2026 15:49:55 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T18:30:52.886647Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41322",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206804Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41322",
       "source_fingerprint": null,
       "media_identity": "attachment:117173924383548135:c17ba11f1646a7aa.jpg",
       "failure_reason": null,
@@ -12900,14 +12955,14 @@
       ]
     },
     "truth:117173934882859753": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41324",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41324",
       "source_text": "<p></p>",
       "published": "Fri, 28 Aug 2026 15:52:36 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-28T18:45:37.390656Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41324",
+      "updated_at": "2026-08-28T18:50:34.206617Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41324",
       "source_fingerprint": null,
       "media_identity": "attachment:117173934882859753:e642b19f42e71bd1.jpg",
       "failure_reason": null,
@@ -18680,17 +18735,17 @@
     "truth:117168727183055554": {
       "post_status": "BLOCKED",
       "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41268",
+      "status_url": "https://trumpstruth.org/statuses/41268",
       "source_text": "<p></p>",
       "published": "Thu, 27 Aug 2026 17:48:12 +0000",
-      "updated_at": "2026-08-28T10:50:42.916327Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41268",
+      "updated_at": "2026-08-28T18:50:41.779059Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41268",
       "source_fingerprint": null,
-      "media_identity": "attachment:117168727183055554:bdd106bef5a372be-34f51907ee6c.mov",
+      "media_identity": "attachment:117168727183055554:bdd106bef5a372be-233eef696013.mov",
       "truth_social_id": "117168727183055554",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/168/726/777/367/576/original/bdd106bef5a372be.mp4",
       "retry_count": 1,
-      "next_retry_at": "2026-08-28T10:55:42.916347Z"
+      "next_retry_at": "2026-08-28T18:55:41.779102Z"
     },
     "https://www.trumpstruth.org/statuses/41269": {
       "post_status": "DISCOVERED",
@@ -18711,18 +18766,18 @@
       "updated_at": "2026-08-27T20:50:40.028755Z"
     },
     "truth:117169684795013584": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41292",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41292",
       "source_text": "<p></p>",
       "published": "Thu, 27 Aug 2026 21:51:44 +0000",
-      "updated_at": "2026-08-28T18:35:42.019865Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41292",
+      "updated_at": "2026-08-28T18:50:34.208386Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41292",
       "source_fingerprint": null,
       "media_identity": "attachment:117169684795013584:903a11e301b1ae8f-5dbea85761dc.mp4",
       "truth_social_id": "117169684795013584",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"da7rt74ug6hs73avodgg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
-      "retry_count": 7,
+      "retry_count": 0,
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-08-28T23:55:42.019882Z"
     },
@@ -18817,155 +18872,317 @@
       "retry_count": 0,
       "updated_at": "2026-08-28T04:50:35.499140Z"
     },
-    "truth:117173934197924486": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41325",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 15:52:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T18:40:53.958387Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41325",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117173934197924486:9a8106ba39c46ce1.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "truth_social_id": "117173934197924486",
-      "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5ps7hkac7f",
-          "cid": "bafyreibekcgnwppafx4b2ue2qaihp76xdxy36tzb6pm2y4vqxtnigkrphu"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5ps7hkac7f",
-          "cid": "bafyreibekcgnwppafx4b2ue2qaihp76xdxy36tzb6pm2y4vqxtnigkrphu"
-        },
-        "next_index": 1,
-        "last_rkey": "3mu5ps7hkac7f",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-28T18:40:47.182030Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie3cttubjw7bmmczzuvwgcf765fg4emwu75ctzorjwpb5ta3kw3cm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 124960
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1161,
-                  "height": 884
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mu5ps7hkac7f",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-08-28T18:40:47.182030Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie3cttubjw7bmmczzuvwgcf765fg4emwu75ctzorjwpb5ta3kw3cm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 124960
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1161,
-                  "height": 884
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5ps7hkac7f",
-            "rkey": "3mu5ps7hkac7f"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5ps7hkac7f",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mu5ps7hkac7f",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-28T18:40:47.182030Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreie3cttubjw7bmmczzuvwgcf765fg4emwu75ctzorjwpb5ta3kw3cm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 124960
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1161,
-                "height": 884
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5ps7hkac7f",
-          "rkey": "3mu5ps7hkac7f"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-28T18:45:53.958405Z"
-    },
     "truth:117173935491730013": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41323",
+      "status_url": "https://trumpstruth.org/statuses/41323",
       "source_text": "<p></p>",
       "published": "Fri, 28 Aug 2026 15:52:45 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-28T16:50:39.412832Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41323"
+      "updated_at": "2026-08-28T18:50:34.206554Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41323"
     },
     "truth:117173961344547291": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41327",
+      "status_url": "https://trumpstruth.org/statuses/41327",
       "source_text": "<p>“The Department of Justice secured a $22 million settlement with Deloitte concerning False Claims Act violations in connection with Deloitte’s use of DEI policies in hiring and employment.”</p>",
       "published": "Fri, 28 Aug 2026 15:59:19 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-28T16:50:39.412772Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41327"
+      "updated_at": "2026-08-28T18:50:34.206491Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41327"
+    },
+    "https://trumpstruth.org/statuses/41320": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41320",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the pool reflecting and the American Flag Blue color.<br /> <br />As you can tell, many of the photos posted in the New York Times articles were taken after the largest fireworks show in history—which had launch points alongside the pool—deposited significant debris in the pool.<br /> <br />The Reflecting Pool has been partially refilled to allow National Park Service staff and contractors to flush the pool’s piping system for the first time in more than a decade. After years of neglect by previous administrations, more than half of the 58 water supply ports were so clogged that they were deemed nonfunctioning. This work is ongoing. We waited until after July 4th to do. Coming out great!<br /> <br />The National Park Service has also, for the second time, cleaned the granite, pressure washed the sidewalk, and removed several hazardous trees next to the Reflecting Pool. Will be opening in a few weeks. Will be a beauty. NO VANDALS PLEASE.”</p>",
+      "published": "Fri, 28 Aug 2026 15:27:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206870Z"
+    },
+    "https://trumpstruth.org/statuses/41321": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41321",
+      "source_text": "<p>Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP</p>",
+      "published": "Fri, 28 Aug 2026 15:25:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206934Z"
+    },
+    "https://trumpstruth.org/statuses/41307": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41307",
+      "source_text": "<p>Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP</p>",
+      "published": "Fri, 28 Aug 2026 15:24:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206998Z"
+    },
+    "https://trumpstruth.org/statuses/41308": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41308",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are photos of the in-progress cleaning of the Union General George Thomas statue located northeast of the White House.”</p>",
+      "published": "Fri, 28 Aug 2026 15:24:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207071Z"
+    },
+    "https://trumpstruth.org/statuses/41312": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41312",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173820921004362</span></p>",
+      "published": "Fri, 28 Aug 2026 15:23:48 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207329Z"
+    },
+    "https://trumpstruth.org/statuses/41314": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41314",
+      "source_text": "<p>WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream &amp; Attack All You Want. You Can’t Stop It. It’s Foolproof. Here are the Facts: <a href=\"https://www.thegatewaypundit.com/2026/08/wayne-root-liberal-media-goes-insane-rage-my/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegatewaypundit.com/2026/08/w</span><span class=\"invisible\">ayne-root-liberal-media-goes-insane-rage-my/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:23:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207456Z"
+    },
+    "https://trumpstruth.org/statuses/41306": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41306",
+      "source_text": "<p>Congressman Mike Lawler of New York was fantastic on FoxBusiness today. Important that we keep him in Congress. A total winner!!! President DJT</p>",
+      "published": "Fri, 28 Aug 2026 13:00:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.207836Z"
+    },
+    "https://trumpstruth.org/statuses/41303": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41303",
+      "source_text": "<p>Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I have heard that they have had a tremendous problem with the Big Processors, who many say are a nasty Monopoly. There are, essentially, 4 of them, a very non competitive number, and they make life miserable for our wonderful Farmers and Ranchers, and I can’t let that happen, can I? So, in order to break this powerful monopoly, with much of its ownership based outside of the U.S., I am authorizing legal documents to be drawn in order to allow Farmers and Ranchers to be given the right to PROCESS THEIR OWN FOOD. This should move quickly. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 28 Aug 2026 12:22:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.208027Z"
+    },
+    "truth:117174454822645997": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41328",
+      "source_text": "<p>Trump-endorsed Sen. Darline Graham wins South Carolina special Republican primary: <a href=\"https://heartlandernews.com/trump-endorsed-sen-darline-graham-wins-south-carolina-special-republican-primary/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heartlandernews.com/trump-endo</span><span class=\"invisible\">rsed-sen-darline-graham-wins-south-carolina-special-republican-primary/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:04:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206430Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41328"
+    },
+    "truth:117174455268168941": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41349",
+      "source_text": "<p>Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: <a href=\"https://www.foxnews.com/politics/trump-mourns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trump-mou</span><span class=\"invisible\">rns-dolly-parton-orders-us-flags-lowered-nationwide-country-music-icon-dies</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:04:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206366Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41349"
+    },
+    "truth:117174455782176210": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41348",
+      "source_text": "<p>Democrats Fight to Keep Unqualified Illegal Alien Truckers on the Road: <a href=\"https://amac.us/newsline/democrats-fight-to-keep-unqualified-illegal-alien-truckers-on-the-road\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/democrats-fig</span><span class=\"invisible\">ht-to-keep-unqualified-illegal-alien-truckers-on-the-road</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206304Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41348"
+    },
+    "truth:117174456213403361": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41347",
+      "source_text": "<p>‘Watershed Moment’: Trump Clears Hormuz Mines, Breaks Iran’s Grip — ‘Now the U.S. Controls It’: <a href=\"https://www.breitbart.com/politics/2026/08/26/watershed-moment-trump-clears-hormuz-mines-breaks-irans-grip-now-the-u-s-controls-it/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/26/watershed-moment-trump-clears-hormuz-mines-breaks-irans-grip-now-the-u-s-controls-it/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206242Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41347"
+    },
+    "truth:117174456592000281": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41346",
+      "source_text": "<p>50K ICE Arrests in July, Highest for Trump's 2nd Term: <a href=\"https://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/id/1267268/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/us/border-immigrat</span><span class=\"invisible\">ion-customs-enforcement-data-statistics/2026/08/25/id/1267268/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206180Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41346"
+    },
+    "truth:117174457093511261": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41345",
+      "source_text": "<p>Trump picks new leader of agency overseeing construction of White House ballroom, DC arch: <a href=\"https://nypost.com/2026/08/26/us-news/trump-picks-new-leader-of-agency-overseeing-construction-of-white-house-ballroom-dc-arch/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/26/us-news/</span><span class=\"invisible\">trump-picks-new-leader-of-agency-overseeing-construction-of-white-house-ballroom-dc-arch/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206116Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41345"
+    },
+    "truth:117174457516746267": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41344",
+      "source_text": "<p>Trump Moves to Ban Some Foreign Energy Equipment From Grid: <a href=\"https://www.bloomberg.com/news/articles/2026-08-26/trump-signs-order-to-ban-some-foreign-energy-equipment-from-grid\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-26/trump-signs-order-to-ban-some-foreign-energy-equipment-from-grid</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.206042Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41344"
+    },
+    "truth:117174457961184014": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41343",
+      "source_text": "<p>Judge lifts nationwide block on Trump's mail voting order: <a href=\"https://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/26/trump-mai</span><span class=\"invisible\">l-voting-rules-nationwide-injunction</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205979Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41343"
+    },
+    "truth:117174458540297380": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41342",
+      "source_text": "<p>FBI Shuts Down Sprawling China-Linked Hacking Network: <a href=\"https://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-61eade59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/tech/cybersecurity/fbi</span><span class=\"invisible\">-shuts-down-sprawling-china-linked-hacking-network-61eade59</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205918Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41342"
+    },
+    "truth:117174458936816336": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41341",
+      "source_text": "<p>Exclusive: Trump’s new affordability push runs on highways, rail: <a href=\"https://www.semafor.com/article/08/26/2026/trumps-new-affordability-push-runs-on-highways-rail\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semafor.com/article/08/26/2026</span><span class=\"invisible\">/trumps-new-affordability-push-runs-on-highways-rail</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205845Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41341"
+    },
+    "truth:117174459387909497": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41340",
+      "source_text": "<p>EXCLUSIVE: State Dept reveals Portland Antifa connection to Hamas, Iran’s IRGC in sweeping terror action: <a href=\"https://www.foxnews.com/politics/exclusive-state-dept-reveals-portland-antifa-connection-hamas-irans-irgc-sweeping-terror-action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/exclusive</span><span class=\"invisible\">-state-dept-reveals-portland-antifa-connection-hamas-irans-irgc-sweeping-terror-action</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205783Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41340"
+    },
+    "truth:117174459750102004": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41339",
+      "source_text": "<p>EXCLUSIVE: A First Look Inside Donald Trump’s Dallas Midterm Convention: <a href=\"https://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-dallas-midterm-convention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/exclusive-a</span><span class=\"invisible\">-first-look-inside-donald-trumps-dallas-midterm-convention</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:06:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205720Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41339"
+    },
+    "truth:117174460287995644": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41338",
+      "source_text": "<p>Trump declares Palestine Action a global terror group: <a href=\"https://www.telegraph.co.uk/us/news/2026/08/26/palestine-action-usa-proscribed-terror-group-donald-trump/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">telegraph.co.uk/us/news/2026/0</span><span class=\"invisible\">8/26/palestine-action-usa-proscribed-terror-group-donald-trump/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:06:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205657Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41338"
+    },
+    "truth:117174460985063252": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41337",
+      "source_text": "<p>White House to Announce New Drug Pricing Deals With Biotechs: <a href=\"https://www.bloomberg.com/news/articles/2026-08-26/white-house-to-announce-new-drug-pricing-deals-with-biotechs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-26/white-house-to-announce-new-drug-pricing-deals-with-biotechs</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:06:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205595Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41337"
+    },
+    "truth:117174462557932061": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41336",
+      "source_text": "<p>Laura Ingraham: “Year-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025. Exports increased $198.3 billion or 11.7 percent. Imports increased $9.0 billion or 0.4 percent. Where are all the experts who claimed that the tariffs would kill our exports? GOOD NEWS TUESDAY…IN ADDITION TO THE DOW AND OIL DOWN....The trade deficit is going down, and exports are up for the year so far.\"</p>",
+      "published": "Fri, 28 Aug 2026 18:06:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205532Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41336"
+    },
+    "truth:117174463721226014": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41335",
+      "source_text": "<p>Laura Ingraham: “Year-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025. Exports increased $198.3 billion or 11.7 percent. Imports increased $9.0 billion or 0.4 percent.”  SO MUCH FOR THE TARRIFFS dragging down the economy — they're doing precisely what they were intended to do — level the playing field so our manufacturing can compete fairly and thrive.  </p><p>EXCELLENT news!  <br /> <br />Exports from January to June of each year:<br /> <br />Jan-June 2024:  $1.599 trillion<br />Jan-June 2025:  $1.693 trillion<br />Jan-June 2026:  $1.891 trillion</p><p>A tribute to HIM.\"</p>",
+      "published": "Fri, 28 Aug 2026 18:07:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205464Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41335"
+    },
+    "truth:117174464054106173": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41334",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205402Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41334"
+    },
+    "truth:117174464930167770": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41333",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205339Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41333"
+    },
+    "truth:117174465508949453": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41332",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205276Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41332"
+    },
+    "truth:117174466024298642": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41331",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205211Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41331"
+    },
+    "truth:117174466495551220": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41330",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205145Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41330"
+    },
+    "truth:117174466973457410": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41329",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:50:34.205055Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41329"
     }
   }
 }
