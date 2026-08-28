@@ -1757,7 +1757,9 @@
     "truth:117173822650017416",
     "https://www.trumpstruth.org/statuses/41310",
     "truth:117173823118334969",
-    "https://www.trumpstruth.org/statuses/41309"
+    "https://www.trumpstruth.org/statuses/41309",
+    "truth:117173813046077225",
+    "https://www.trumpstruth.org/statuses/41318"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12485,6 +12487,24 @@
       "truth_social_id": "117173823118334969",
       "translation": ""
     },
+    "truth:117173813046077225": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41318",
+      "source_text": "<p>FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:21:36 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T17:20:40.876043Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41318",
+      "first_seen": "2026-08-28T16:50:41.375230Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
+      "truth_social_id": "117173813046077225",
+      "source_fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
+      "media_identity": "attachment:117173813046077225:",
+      "translation": "FBI はバイデン汚職に関する 14 人の情報提供者を抱えていたが、証拠をディスインフォメーションとして却下するための秘密作戦を展開していた：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18556,22 +18576,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-28T17:20:59.563596Z"
-    },
-    "truth:117173813046077225": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41318",
-      "source_text": "<p>FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/emb6am-fbi-marked-officials-journalists-informants</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:21:36 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:00:39.454577Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41318",
-      "first_seen": "2026-08-28T16:50:41.375230Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:FBI had 14 informants on Biden corruption but ran secret op to dismiss evidence as disinformation: \nhttps://justthenews.com/accountability/russia-and-",
-      "next_retry_at": "2026-08-28T17:10:39.454591Z",
-      "truth_social_id": "117173813046077225"
     },
     "truth:117173814168760364": {
       "post_status": "RETRY",
