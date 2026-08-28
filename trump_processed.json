@@ -1768,7 +1768,10 @@
     "https://www.trumpstruth.org/statuses/41317",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
     "truth:117173814744422268",
-    "https://www.trumpstruth.org/statuses/41316"
+    "https://www.trumpstruth.org/statuses/41316",
+    "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
+    "truth:117173817066104821",
+    "https://www.trumpstruth.org/statuses/41315"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12618,6 +12621,24 @@
       "media_identity": "attachment:117173814744422268:",
       "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So 大変なことだ！"
     },
+    "truth:117173817066104821": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41315",
+      "source_text": "<p>Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: <a href=\"https://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailymail.com/news/article-160</span><span class=\"invisible\">47057/Trumps-chilling-national-emergency-midterm.html</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:22:38 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T17:40:40.109878Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41315",
+      "first_seen": "2026-08-28T16:50:43.768820Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
+      "truth_social_id": "117173817066104821",
+      "source_fingerprint": "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
+      "media_identity": "attachment:117173817066104821:",
+      "translation": "トランプ氏が中間選挙を支配するための国家非常事態を宣言するかどうかを尋ねられた際の戦慄する5語の回答：\nhttps://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18520,22 +18541,6 @@
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T04:50:35.499140Z"
-    },
-    "truth:117173817066104821": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41315",
-      "source_text": "<p>Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: <a href=\"https://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailymail.com/news/article-160</span><span class=\"invisible\">47057/Trumps-chilling-national-emergency-midterm.html</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:22:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:00:40.475048Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41315",
-      "first_seen": "2026-08-28T16:50:43.768820Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
-      "next_retry_at": "2026-08-28T17:10:40.475060Z",
-      "truth_social_id": "117173817066104821"
     },
     "truth:117173818491619185": {
       "post_status": "RETRY",
