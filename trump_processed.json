@@ -1723,7 +1723,10 @@
     "https://trumpstruth.org/statuses/41297",
     "fp:Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don’t want to meet, they do. In fact, they ar",
     "truth:117169795722157998",
-    "https://trumpstruth.org/statuses/41294"
+    "https://trumpstruth.org/statuses/41294",
+    "fp:Iran Is a Failing Nation! President DJT",
+    "truth:117169842997327695",
+    "https://trumpstruth.org/statuses/41296"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12405,6 +12408,24 @@
       "media_identity": "attachment:117169795722157998:",
       "translation": "フォックスニュースのジョナサン・ハントは、衰退するイラン・イスラム共和国に関する特に不正確なレポートを行った。会いたいのは俺じゃなく、奴らだ。実際のところ、奴らは取引を成立させるために懇願している。ブレット・ベイアーは、たまには部下どもを正すべきだ！トランプ大統領"
     },
+    "truth:117169842997327695": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41296",
+      "source_text": "<p>Iran Is a Failing Nation! President DJT</p>",
+      "published": "Thu, 27 Aug 2026 22:31:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T00:30:37.258366Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41296",
+      "first_seen": "2026-08-28T00:00:43.763253Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Iran Is a Failing Nation! President DJT",
+      "truth_social_id": "117169842997327695",
+      "source_fingerprint": "fp:Iran Is a Failing Nation! President DJT",
+      "media_identity": "attachment:117169842997327695:",
+      "translation": "イランは衰退国家である！ドナルド・トランプ大統領"
+    },
     "truth:117169292189382154": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17936,22 +17957,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-27T22:50:35.061752Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41291"
-    },
-    "truth:117169842997327695": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41296",
-      "source_text": "<p>Iran Is a Failing Nation! President DJT</p>",
-      "published": "Thu, 27 Aug 2026 22:31:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T00:15:36.943971Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41296",
-      "first_seen": "2026-08-28T00:00:43.763253Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Iran Is a Failing Nation! President DJT",
-      "next_retry_at": "2026-08-28T00:25:36.943981Z",
-      "truth_social_id": "117169842997327695"
     },
     "truth:117169851902805924": {
       "post_status": "RETRY",
