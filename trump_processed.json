@@ -1720,7 +1720,10 @@
     "truth:117169868107304305",
     "https://trumpstruth.org/statuses/41298",
     "truth:117169869880912506",
-    "https://trumpstruth.org/statuses/41297"
+    "https://trumpstruth.org/statuses/41297",
+    "fp:Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don’t want to meet, they do. In fact, they ar",
+    "truth:117169795722157998",
+    "https://trumpstruth.org/statuses/41294"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12384,6 +12387,24 @@
         }
       ]
     },
+    "truth:117169795722157998": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41294",
+      "source_text": "<p>Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don’t want to meet, they do. In fact, they are begging to make a deal. Bret Baier should straighten out his flunkies, for a change! President DJT</p>",
+      "published": "Thu, 27 Aug 2026 22:19:57 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T00:25:40.541121Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41294",
+      "first_seen": "2026-08-28T00:00:43.141846Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don’t want to meet, they do. In fact, they ar",
+      "truth_social_id": "117169795722157998",
+      "source_fingerprint": "fp:Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don’t want to meet, they do. In fact, they ar",
+      "media_identity": "attachment:117169795722157998:",
+      "translation": "フォックスニュースのジョナサン・ハントは、衰退するイラン・イスラム共和国に関する特に不正確なレポートを行った。会いたいのは俺じゃなく、奴らだ。実際のところ、奴らは取引を成立させるために懇願している。ブレット・ベイアーは、たまには部下どもを正すべきだ！トランプ大統領"
+    },
     "truth:117169292189382154": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17915,22 +17936,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-27T22:50:35.061752Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41291"
-    },
-    "truth:117169795722157998": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41294",
-      "source_text": "<p>Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don’t want to meet, they do. In fact, they are begging to make a deal. Bret Baier should straighten out his flunkies, for a change! President DJT</p>",
-      "published": "Thu, 27 Aug 2026 22:19:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T00:15:36.525625Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41294",
-      "first_seen": "2026-08-28T00:00:43.141846Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Jonathan Hunt of FoxNews did a particularly inaccurate report on the Failing Islamic Republic of Iran. I don’t want to meet, they do. In fact, they ar",
-      "next_retry_at": "2026-08-28T00:25:36.525636Z",
-      "truth_social_id": "117169795722157998"
     },
     "truth:117169842997327695": {
       "post_status": "RETRY",
