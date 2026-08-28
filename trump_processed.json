@@ -18249,14 +18249,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41306",
       "source_text": "<p>Congressman Mike Lawler of New York was fantastic on FoxBusiness today. Important that we keep him in Congress. A total winner!!! President DJT</p>",
       "published": "Fri, 28 Aug 2026 13:00:10 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T14:50:37.898535Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T14:55:41.250536Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41306",
       "first_seen": "2026-08-28T14:50:37.898475Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Mike Lawler of New York was fantastic on FoxBusiness today. Important that we keep him in Congress. A total winner!!! President DJT",
-      "next_retry_at": "2026-08-28T14:55:37.898544Z",
+      "next_retry_at": "2026-08-28T15:05:41.250556Z",
       "truth_social_id": "117173256901177832"
     }
   }
