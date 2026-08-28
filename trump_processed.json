@@ -19732,6 +19732,15 @@
       "translation": "以下が日本語訳です：\n\n。\nhttps://truthsocial.com/@realdonaldtrump\nは警告していただろう...",
       "failure_stage": "POST",
       "next_retry_at": "2026-08-28T21:05:57.176947Z"
+    },
+    "https://www.trumpstruth.org/statuses/41352": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41352",
+      "source_text": "<p>Maggot Hagerman, the Fake Reporter from The Failing New York Times, an unattractive person both inside and out, and who knows less about me than most reporters on the beat (She’s a SCAMMER!), made up a story that on September 11th, I’m not going to the World Trade Center, in New York City, because they won’t let me make a speech, and I’m going to the Pentagon in D.C., because I’m a featured speaker. This is more Corrupt News, I’ve been to New York many times over the years, and no one ever speaks, it’s a “solemn ceremony!” I never even thought of what Maggot made up, and besides, I would love not to speak, because I’m speaking all the time, and this is a day to remember the victims, and their beautiful family members. Maggot Hagerman is a PHONY, and The New York Times knows it! It will all be revealed in the lawsuit against them, and another lawsuit against the organization which gives out the now discredited Pulitzer Prize, because Maggie got one for her “reporting” on THE RUSSIA, RUSSIA, RUSSIA HOAX, which turned out to be a total CON JOB! If she were ever forced to reveal her “sources,” you will find out they either don’t exist, or didn’t say what she reported. She’s been falsely writing about me for years — She’s a stalker, and should be forced to turn over any and all money that she’s made through her fake reporting on me. President DONALD J. TRUMP</p>",
+      "published": "Fri, 28 Aug 2026 20:36:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T22:00:35.009505Z"
     }
   }
 }
