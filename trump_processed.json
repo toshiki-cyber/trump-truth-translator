@@ -1834,7 +1834,10 @@
     "https://trumpstruth.org/statuses/41344",
     "fp:Judge lifts nationwide block on Trump's mail voting order: \nhttps://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction",
     "truth:117174457961184014",
-    "https://trumpstruth.org/statuses/41343"
+    "https://trumpstruth.org/statuses/41343",
+    "fp:FBI Shuts Down Sprawling China-Linked Hacking Network: \nhttps://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-6",
+    "truth:117174458540297380",
+    "https://trumpstruth.org/statuses/41342"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13045,6 +13048,24 @@
       "media_identity": "attachment:117174457961184014:",
       "translation": "判事がトランプ氏の郵便投票命令に対する全国規模の差し止めを解除：\nhttps://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction"
     },
+    "truth:117174458540297380": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41342",
+      "source_text": "<p>FBI Shuts Down Sprawling China-Linked Hacking Network: <a href=\"https://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-61eade59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/tech/cybersecurity/fbi</span><span class=\"invisible\">-shuts-down-sprawling-china-linked-hacking-network-61eade59</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:46 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T20:25:42.643482Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41342",
+      "first_seen": "2026-08-28T19:00:49.894310Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:FBI Shuts Down Sprawling China-Linked Hacking Network: \nhttps://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-6",
+      "truth_social_id": "117174458540297380",
+      "source_fingerprint": "fp:FBI Shuts Down Sprawling China-Linked Hacking Network: \nhttps://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-6",
+      "media_identity": "attachment:117174458540297380:",
+      "translation": "FBI、中国と関連する広大なハッキングネットワークを摘発：\nhttps://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-61eade59"
+    },
     "truth:117173120124163613": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19373,22 +19394,6 @@
       "published": "Fri, 28 Aug 2026 12:22:40 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T18:50:34.208027Z"
-    },
-    "truth:117174458540297380": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41342",
-      "source_text": "<p>FBI Shuts Down Sprawling China-Linked Hacking Network: <a href=\"https://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-61eade59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/tech/cybersecurity/fbi</span><span class=\"invisible\">-shuts-down-sprawling-china-linked-hacking-network-61eade59</span></a></p>",
-      "published": "Fri, 28 Aug 2026 18:05:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T19:10:48.528982Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41342",
-      "first_seen": "2026-08-28T19:00:49.894310Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:FBI Shuts Down Sprawling China-Linked Hacking Network: \nhttps://www.wsj.com/tech/cybersecurity/fbi-shuts-down-sprawling-china-linked-hacking-network-6",
-      "next_retry_at": "2026-08-28T19:20:48.528997Z",
-      "truth_social_id": "117174458540297380"
     },
     "truth:117174458936816336": {
       "post_status": "RETRY",
