@@ -1801,7 +1801,9 @@
     "truth:117173935491730013",
     "https://trumpstruth.org/statuses/41323",
     "truth:117174464054106173",
-    "https://trumpstruth.org/statuses/41334"
+    "https://trumpstruth.org/statuses/41334",
+    "truth:117174464930167770",
+    "https://trumpstruth.org/statuses/41333"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12649,6 +12651,21 @@
       "truth_social_id": "117174464054106173",
       "translation": ""
     },
+    "truth:117174464930167770": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41333",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 18:07:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T19:05:35.738449Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41333",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117174464930167770:5d683d9214be97a5.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117174464930167770",
+      "translation": ""
+    },
     "truth:117173120124163613": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19249,16 +19266,6 @@
       "fingerprint": "fp:Laura Ingraham: “Year-to-date, the goods and services deficit decreased $189.3 billion, or 33.8 percent, from the same period in 2025. Exports increas",
       "next_retry_at": "2026-08-28T19:05:57.047837Z",
       "truth_social_id": "117174463721226014"
-    },
-    "truth:117174464930167770": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41333",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 18:07:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T18:50:34.205339Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41333"
     },
     "truth:117174465508949453": {
       "post_status": "DISCOVERED",
