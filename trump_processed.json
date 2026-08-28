@@ -1729,7 +1729,9 @@
     "https://trumpstruth.org/statuses/41296",
     "fp:Just arrived in the Great State of Texas! President DJT",
     "truth:117169851902805924",
-    "https://www.trumpstruth.org/statuses/41295"
+    "https://www.trumpstruth.org/statuses/41295",
+    "truth:117170522190859145",
+    "https://trumpstruth.org/statuses/41301"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12220,6 +12222,21 @@
         }
       ]
     },
+    "truth:117170522190859145": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41301",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 01:24:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T03:00:37.687345Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41301",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117170522190859145:aef92f9ad2d8e8cf.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117170522190859145",
+      "translation": ""
+    },
     "truth:117169407048548480": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18070,24 +18087,20 @@
       "updated_at": "2026-08-28T02:50:38.800966Z"
     },
     "truth:117170489559297133": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41299",
       "source_text": "<p>Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it — A total pro! President DJT</p>",
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T02:50:38.800876Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41299"
-    },
-    "truth:117170522190859145": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41301",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 01:24:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T02:50:38.800812Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41301"
+      "retry_count": 1,
+      "updated_at": "2026-08-28T03:00:35.293385Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41299",
+      "first_seen": "2026-08-28T03:00:35.293330Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it — A total pro! President DJT",
+      "next_retry_at": "2026-08-28T03:05:35.293395Z",
+      "truth_social_id": "117170489559297133"
     },
     "truth:117170522834164313": {
       "post_status": "DISCOVERED",
