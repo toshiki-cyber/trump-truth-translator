@@ -1780,7 +1780,10 @@
     "https://www.trumpstruth.org/statuses/41313",
     "fp:From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are",
     "truth:117173823863567245",
-    "https://www.trumpstruth.org/statuses/41308"
+    "https://www.trumpstruth.org/statuses/41308",
+    "fp:Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP",
+    "truth:117173826597377945",
+    "https://www.trumpstruth.org/statuses/41321"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12700,6 +12703,22 @@
       "truth_social_id": "117173823863567245",
       "translation": "内務省のグレッグ・ウィシャーから：「これまでのところ、83体の彫像、記念碑、慰霊碑が清掃・修復されている。ホワイトハウスの北東に位置するユニオン将軍ジョージ・トーマス像の清掃作業中の写真がここにある。」"
     },
+    "truth:117173826597377945": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41321",
+      "source_text": "<p>Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP</p>",
+      "published": "Fri, 28 Aug 2026 15:25:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:05:44.495404Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41321",
+      "source_fingerprint": "fp:Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP",
+      "media_identity": "attachment:117173826597377945:7a6b024d43fa5b54.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP",
+      "truth_social_id": "117173826597377945",
+      "translation": "ホワイトハウスのトマス・ジェファーソン柱の修復と復元 — 新しいものより良い！大統領ドナルド・J・トランプ"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18823,16 +18842,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-28T18:05:56.783957Z"
-    },
-    "truth:117173826597377945": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41321",
-      "source_text": "<p>Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP</p>",
-      "published": "Fri, 28 Aug 2026 15:25:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T16:50:39.413141Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41321"
     },
     "truth:117173835662782534": {
       "post_status": "DISCOVERED",
