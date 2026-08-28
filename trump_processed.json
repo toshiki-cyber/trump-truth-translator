@@ -1765,7 +1765,10 @@
     "https://www.trumpstruth.org/statuses/41319",
     "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
     "truth:117173814168760364",
-    "https://www.trumpstruth.org/statuses/41317"
+    "https://www.trumpstruth.org/statuses/41317",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
+    "truth:117173814744422268",
+    "https://www.trumpstruth.org/statuses/41316"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12597,6 +12600,24 @@
       "media_identity": "attachment:117173814168760364:",
       "translation": "トランプ効果：処方薬の価格が記録的なペースで下落：\nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/"
     },
+    "truth:117173814744422268": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41316",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364</span>So big a deal!</p>",
+      "published": "Fri, 28 Aug 2026 15:22:02 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T17:35:36.574466Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41316",
+      "first_seen": "2026-08-28T16:50:43.006874Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
+      "truth_social_id": "117173814744422268",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
+      "media_identity": "attachment:117173814744422268:",
+      "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So 大変なことだ！"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18499,22 +18520,6 @@
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T04:50:35.499140Z"
-    },
-    "truth:117173814744422268": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41316",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364</span>So big a deal!</p>",
-      "published": "Fri, 28 Aug 2026 15:22:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:00:40.159180Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41316",
-      "first_seen": "2026-08-28T16:50:43.006874Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173814168760364So big a deal!",
-      "next_retry_at": "2026-08-28T17:10:40.159193Z",
-      "truth_social_id": "117173814744422268"
     },
     "truth:117173817066104821": {
       "post_status": "RETRY",
