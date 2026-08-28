@@ -1846,7 +1846,10 @@
     "https://trumpstruth.org/statuses/41340",
     "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
     "truth:117173861158086662",
-    "https://www.trumpstruth.org/statuses/41350"
+    "https://www.trumpstruth.org/statuses/41350",
+    "fp:EXCLUSIVE: A First Look Inside Donald Trump’s Dallas Midterm Convention: \nhttps://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-d",
+    "truth:117174459750102004",
+    "https://www.trumpstruth.org/statuses/41339"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12647,6 +12650,24 @@
         }
       ]
     },
+    "truth:117174459750102004": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41339",
+      "source_text": "<p>EXCLUSIVE: A First Look Inside Donald Trump’s Dallas Midterm Convention: <a href=\"https://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-dallas-midterm-convention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/exclusive-a</span><span class=\"invisible\">-first-look-inside-donald-trumps-dallas-midterm-convention</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:06:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T21:05:39.021212Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41339",
+      "first_seen": "2026-08-28T19:00:52.919346Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:EXCLUSIVE: A First Look Inside Donald Trump’s Dallas Midterm Convention: \nhttps://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-d",
+      "truth_social_id": "117174459750102004",
+      "source_fingerprint": "fp:EXCLUSIVE: A First Look Inside Donald Trump’s Dallas Midterm Convention: \nhttps://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-d",
+      "media_identity": "attachment:117174459750102004:",
+      "translation": "【翻訳】\n独占: ドナルド・トランプのダラス中間選挙大会の内部を初めてレポート:\nhttps://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-dallas-midterm-convention"
+    },
     "truth:117173934197924486": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19540,22 +19561,6 @@
       "retry_count": 0,
       "updated_at": "2026-08-28T18:50:34.208027Z"
     },
-    "truth:117174459750102004": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41339",
-      "source_text": "<p>EXCLUSIVE: A First Look Inside Donald Trump’s Dallas Midterm Convention: <a href=\"https://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-dallas-midterm-convention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/exclusive-a</span><span class=\"invisible\">-first-look-inside-donald-trumps-dallas-midterm-convention</span></a></p>",
-      "published": "Fri, 28 Aug 2026 18:06:04 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T20:50:36.352953Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41339",
-      "first_seen": "2026-08-28T19:00:52.919346Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:EXCLUSIVE: A First Look Inside Donald Trump’s Dallas Midterm Convention: \nhttps://www.dailywire.com/news/exclusive-a-first-look-inside-donald-trumps-d",
-      "next_retry_at": "2026-08-28T19:20:50.069601Z",
-      "truth_social_id": "117174459750102004"
-    },
     "truth:117174460287995644": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19650,13 +19655,13 @@
       "updated_at": "2026-08-28T20:50:36.353597Z"
     },
     "truth:117173861158086662": {
-      "post_status": "RETRY",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41351",
       "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
       "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-28T21:00:57.176926Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41350",
+      "updated_at": "2026-08-28T21:05:35.696038Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41351",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
       "fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
@@ -19665,7 +19670,7 @@
       "fallback_policy_version": 1,
       "media_fallback_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/173/859/720/029/929/original/781306418874973e.mp4",
       "failure_reason": "Bluesky投稿失敗: 決定的rkeyに異なる既存recordがあり競合",
-      "retry_count": 1,
+      "retry_count": 0,
       "translation": "以下が日本語訳です：\n\n。\nhttps://truthsocial.com/@realdonaldtrump\nは警告していただろう...",
       "failure_stage": "POST",
       "next_retry_at": "2026-08-28T21:05:57.176947Z"
@@ -19677,7 +19682,7 @@
       "source_text": "<p>Maggot Hagerman, the Fake Reporter from The Failing New York Times, an unattractive person both inside and out, and who knows less about me than most reporters on the beat (She’s a SCAMMER!), made up a story that on September 11th, I’m not going to the World Trade Center, in New York City, because they won’t let me make a speech, and I’m going to the Pentagon in D.C., because I’m a featured speaker. This is more Corrupt News, I’ve been to New York many times over the years, and no one ever speaks, it’s a “solemn ceremony!” I never even thought of what Maggot made up, and besides, I would love not to speak, because I’m speaking all the time, and this is a day to remember the victims, and their beautiful family members. Maggot Hagerman is a PHONY, and The New York Times knows it! It will all be revealed in the lawsuit against them, and another lawsuit against the organization which gives out the now discredited Pulitzer Prize, because Maggie got one for her “reporting” on THE RUSSIA, RUSSIA, RUSSIA HOAX, which turned out to be a total CON JOB! If she were ever forced to reveal her “sources,” you will find out they either don’t exist, or didn’t say what she reported. She’s been falsely writing about me for years — She’s a stalker, and should be forced to turn over any and all money that she’s made through her fake reporting on me. President DONALD J. TRUMP</p>",
       "published": "Fri, 28 Aug 2026 20:36:17 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-28T21:00:50.341824Z",
+      "updated_at": "2026-08-28T21:05:35.694736Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41354"
     }
   }
