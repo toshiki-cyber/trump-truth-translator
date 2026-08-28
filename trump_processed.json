@@ -1771,7 +1771,10 @@
     "https://www.trumpstruth.org/statuses/41316",
     "fp:Trump's chilling five-word response when asked if he'll declare national emergency to control midterm elections: \nhttps://www.dailymail.com/news/artic",
     "truth:117173817066104821",
-    "https://www.trumpstruth.org/statuses/41315"
+    "https://www.trumpstruth.org/statuses/41315",
+    "fp:WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream & Attack All You Wan",
+    "truth:117173818491619185",
+    "https://www.trumpstruth.org/statuses/41314"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12639,6 +12642,24 @@
       "media_identity": "attachment:117173817066104821:",
       "translation": "トランプ氏が中間選挙を支配するための国家非常事態を宣言するかどうかを尋ねられた際の戦慄する5語の回答：\nhttps://www.dailymail.com/news/article-16047057/Trumps-chilling-national-emergency-midterm.html"
     },
+    "truth:117173818491619185": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41314",
+      "source_text": "<p>WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream &amp; Attack All You Want. You Can’t Stop It. It’s Foolproof. Here are the Facts: <a href=\"https://www.thegatewaypundit.com/2026/08/wayne-root-liberal-media-goes-insane-rage-my/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegatewaypundit.com/2026/08/w</span><span class=\"invisible\">ayne-root-liberal-media-goes-insane-rage-my/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:23:00 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T17:45:44.306432Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41314",
+      "first_seen": "2026-08-28T16:50:44.899783Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream & Attack All You Wan",
+      "truth_social_id": "117173818491619185",
+      "source_fingerprint": "fp:WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream & Attack All You Wan",
+      "media_identity": "attachment:117173818491619185:",
+      "translation": "ウェイン・ルート：「選挙国家安全保障上の緊急事態」という私のアイデアについて、リベラルメディアは怒り狂っている。私の回答はこうだ。叫んで攻撃しろ。やりたいようにやれ。お前たちはそれを止められない。それは完璧だ。ここに事実がある：\nhttps://www.thegatewaypundit.com/2026/08/wayne-root-liberal-media-goes-insane-rage-my/"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18541,22 +18562,6 @@
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T04:50:35.499140Z"
-    },
-    "truth:117173818491619185": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41314",
-      "source_text": "<p>WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream &amp; Attack All You Want. You Can’t Stop It. It’s Foolproof. Here are the Facts: <a href=\"https://www.thegatewaypundit.com/2026/08/wayne-root-liberal-media-goes-insane-rage-my/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegatewaypundit.com/2026/08/w</span><span class=\"invisible\">ayne-root-liberal-media-goes-insane-rage-my/</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:23:00 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:00:40.861097Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41314",
-      "first_seen": "2026-08-28T16:50:44.899783Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream & Attack All You Wan",
-      "next_retry_at": "2026-08-28T17:10:40.861108Z",
-      "truth_social_id": "117173818491619185"
     },
     "truth:117173820921004362": {
       "post_status": "RETRY",
