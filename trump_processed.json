@@ -1789,7 +1789,9 @@
     "https://www.trumpstruth.org/statuses/41307",
     "fp:From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the",
     "truth:117173835662782534",
-    "https://www.trumpstruth.org/statuses/41320"
+    "https://www.trumpstruth.org/statuses/41320",
+    "truth:117173927335714753",
+    "https://www.trumpstruth.org/statuses/41326"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12825,6 +12827,21 @@
       "truth_social_id": "117173835662782534",
       "translation": "内務省のグレッグ・ウィッシャーからの報告：「本朝、リフレクティング・プール（反射池）を訪れました。以下は池が反射している写真とアメリカ国旗の青色の写真です。\n\nご覧の通り、ニューヨーク・タイムズの記事に掲載されている多くの写真は、史上最大の花火大会の後に撮影されたものです。その花火大会は池の沿いに打ち上げ地点があり、池に多くの破片を堆積させました。\n\nリフレクティング・プールは部分的に再充水され、国立公園局のスタッフと請負業者が10年以上ぶりに池の配管システムをフラッシュしました。前政権による長年の怠慢の後、58個の給水ポートの半分以上が詰まっており、機能していないと判定されていました。この作業は進行中です。7月4日の後まで待ちました。良い仕上がりになっています！\n\n国立公園局はまた、2度目の花崗岩のクリーニング、歩道の高圧洗浄、リフレクティング・プール隣の危険な樹木の除去を行いました。数週間後にオープンします。素晴らしいものになります。荒らし行為はやめてください。」"
     },
+    "truth:117173927335714753": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41326",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 15:50:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T18:25:38.647993Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41326",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173927335714753:b359898bf1c961fc.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173927335714753",
+      "translation": ""
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18857,16 +18874,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-28T18:25:45.302084Z"
-    },
-    "truth:117173927335714753": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41326",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 15:50:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T16:50:39.412986Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41326"
     },
     "truth:117173934197924486": {
       "post_status": "DISCOVERED",
