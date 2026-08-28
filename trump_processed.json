@@ -1738,7 +1738,9 @@
     "truth:117170489559297133",
     "https://trumpstruth.org/statuses/41299",
     "truth:117170728106332198",
-    "https://trumpstruth.org/statuses/41302"
+    "https://trumpstruth.org/statuses/41302",
+    "truth:117173125011583696",
+    "https://www.trumpstruth.org/statuses/41304"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12247,6 +12249,21 @@
       "media_identity": "attachment:117170489559297133:",
       "translation": "グレッグ・ジャレット氏は今夜のショーン・ハニティ出演で素晴らしかった。奴は本当に分かってる——完全なプロだ！大統領DJT"
     },
+    "truth:117173125011583696": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41304",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 12:26:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T12:55:41.867014Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41304",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173125011583696:b3f9089d3d36e3f0.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173125011583696",
+      "translation": ""
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18156,14 +18173,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41303",
       "source_text": "<p>Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I have heard that they have had a tremendous problem with the Big Processors, who many say are a nasty Monopoly. There are, essentially, 4 of them, a very non competitive number, and they make life miserable for our wonderful Farmers and Ranchers, and I can’t let that happen, can I? So, in order to break this powerful monopoly, with much of its ownership based outside of the U.S., I am authorizing legal documents to be drawn in order to allow Farmers and Ranchers to be given the right to PROCESS THEIR OWN FOOD. This should move quickly. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Fri, 28 Aug 2026 12:22:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T12:50:36.353532Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T12:55:39.590830Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41303",
       "first_seen": "2026-08-28T12:50:36.353476Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I",
-      "next_retry_at": "2026-08-28T12:55:36.353541Z",
+      "next_retry_at": "2026-08-28T13:05:39.590844Z",
       "truth_social_id": "117173109426335170"
     },
     "truth:117173120124163613": {
@@ -18295,16 +18312,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-28T12:55:45.478234Z"
-    },
-    "truth:117173125011583696": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41304",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 12:26:38 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T12:50:35.658557Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41304"
     }
   }
 }
