@@ -18049,15 +18049,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41292",
       "source_text": "<p></p>",
       "published": "Thu, 27 Aug 2026 21:51:44 +0000",
-      "updated_at": "2026-08-28T06:00:40.914746Z",
+      "updated_at": "2026-08-28T06:15:46.479288Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41292",
       "source_fingerprint": null,
       "media_identity": "attachment:117169684795013584:903a11e301b1ae8f-5dbea85761dc.mp4",
       "truth_social_id": "117169684795013584",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"da7rt74ug6hs73avodgg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
-      "retry_count": 2,
+      "retry_count": 3,
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-28T06:10:40.914763Z"
+      "next_retry_at": "2026-08-28T06:35:46.479306Z"
     },
     "truth:117169687813608839": {
       "post_status": "DISCOVERED",
