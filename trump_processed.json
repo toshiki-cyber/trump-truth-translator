@@ -1753,7 +1753,9 @@
     "https://www.trumpstruth.org/statuses/41311",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117173820921004362",
     "truth:117173821641287461",
-    "https://www.trumpstruth.org/statuses/41312"
+    "https://www.trumpstruth.org/statuses/41312",
+    "truth:117173822650017416",
+    "https://www.trumpstruth.org/statuses/41310"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12451,6 +12453,21 @@
         }
       ]
     },
+    "truth:117173822650017416": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41310",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 15:24:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-28T17:05:43.801163Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41310",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117173822650017416:1cfecb4a77f1d9f8.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117173822650017416",
+      "translation": ""
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18465,16 +18482,6 @@
       "fingerprint": "fp:Inside feds’ stealth mission to deport California killers, rapists and child molesters: \nhttps://nypost.com/2026/08/12/us-news/operation-guardian-ange",
       "next_retry_at": "2026-08-28T17:10:41.182577Z",
       "truth_social_id": "117173820921004362"
-    },
-    "truth:117173822650017416": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41310",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 15:24:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T16:50:39.413352Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41310"
     },
     "truth:117173823118334969": {
       "post_status": "DISCOVERED",
