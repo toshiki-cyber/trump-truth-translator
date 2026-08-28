@@ -1762,7 +1762,10 @@
     "https://www.trumpstruth.org/statuses/41318",
     "fp:Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC: \nhttps://www.foxnews.com/media/trump-wins-permission-file-amen",
     "truth:117173811762333006",
-    "https://www.trumpstruth.org/statuses/41319"
+    "https://www.trumpstruth.org/statuses/41319",
+    "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
+    "truth:117173814168760364",
+    "https://www.trumpstruth.org/statuses/41317"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12576,6 +12579,24 @@
         }
       ]
     },
+    "truth:117173814168760364": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41317",
+      "source_text": "<p>Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: <a href=\"https://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 15:21:54 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T17:30:42.811673Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41317",
+      "first_seen": "2026-08-28T16:50:42.147488Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
+      "truth_social_id": "117173814168760364",
+      "source_fingerprint": "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
+      "media_identity": "attachment:117173814168760364:",
+      "translation": "トランプ効果：処方薬の価格が記録的なペースで下落：\nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18478,22 +18499,6 @@
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T04:50:35.499140Z"
-    },
-    "truth:117173814168760364": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41317",
-      "source_text": "<p>Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: <a href=\"https://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:21:54 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:00:39.793210Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41317",
-      "first_seen": "2026-08-28T16:50:42.147488Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/politics/2026/08/12/trump-effect-prescription-drug-pri",
-      "next_retry_at": "2026-08-28T17:10:39.793221Z",
-      "truth_social_id": "117173814168760364"
     },
     "truth:117173814744422268": {
       "post_status": "RETRY",
