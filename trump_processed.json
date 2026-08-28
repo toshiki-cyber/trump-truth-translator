@@ -1736,7 +1736,9 @@
     "https://trumpstruth.org/statuses/41300",
     "fp:Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it — A total pro! President DJT",
     "truth:117170489559297133",
-    "https://trumpstruth.org/statuses/41299"
+    "https://trumpstruth.org/statuses/41299",
+    "truth:117170728106332198",
+    "https://trumpstruth.org/statuses/41302"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12275,6 +12277,21 @@
       "media_identity": "attachment:117170489559297133:",
       "translation": "グレッグ・ジャレット氏は今夜のショーン・ハニティ出演で素晴らしかった。奴は本当に分かってる——完全なプロだ！大統領DJT"
     },
+    "truth:117170728106332198": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41302",
+      "source_text": "<p></p>",
+      "published": "Fri, 28 Aug 2026 02:17:04 +0000",
+      "retry_count": 3,
+      "updated_at": "2026-08-28T04:10:40.823310Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41302",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117170728106332198:a91fb5bb45f99338.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117170728106332198",
+      "translation": ""
+    },
     "truth:117169407048548480": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18123,22 +18140,6 @@
       "published": "Thu, 27 Aug 2026 22:34:14 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T02:50:38.800966Z"
-    },
-    "truth:117170728106332198": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41302",
-      "source_text": "<p></p>",
-      "published": "Fri, 28 Aug 2026 02:17:04 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-28T03:50:36.700740Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41302",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117170728106332198:a91fb5bb45f99338.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/170/727/822/586/997/small/a91fb5bb45f99338.jpg",
-      "truth_social_id": "117170728106332198",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-28T04:10:36.700757Z"
     }
   }
 }
