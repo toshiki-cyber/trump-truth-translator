@@ -1831,7 +1831,10 @@
     "https://trumpstruth.org/statuses/41345",
     "fp:Trump Moves to Ban Some Foreign Energy Equipment From Grid: \nhttps://www.bloomberg.com/news/articles/2026-08-26/trump-signs-order-to-ban-some-foreign-",
     "truth:117174457516746267",
-    "https://trumpstruth.org/statuses/41344"
+    "https://trumpstruth.org/statuses/41344",
+    "fp:Judge lifts nationwide block on Trump's mail voting order: \nhttps://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction",
+    "truth:117174457961184014",
+    "https://trumpstruth.org/statuses/41343"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13024,6 +13027,24 @@
       "media_identity": "attachment:117174457516746267:",
       "translation": "トランプ、グリッドからの外国製エネルギー機器の一部禁止へ動く：\nhttps://www.bloomberg.com/news/articles/2026-08-26/trump-signs-order-to-ban-some-foreign-energy-equipment-from-grid"
     },
+    "truth:117174457961184014": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41343",
+      "source_text": "<p>Judge lifts nationwide block on Trump's mail voting order: <a href=\"https://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/26/trump-mai</span><span class=\"invisible\">l-voting-rules-nationwide-injunction</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:37 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T20:20:36.161243Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41343",
+      "first_seen": "2026-08-28T19:00:49.022452Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Judge lifts nationwide block on Trump's mail voting order: \nhttps://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction",
+      "truth_social_id": "117174457961184014",
+      "source_fingerprint": "fp:Judge lifts nationwide block on Trump's mail voting order: \nhttps://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction",
+      "media_identity": "attachment:117174457961184014:",
+      "translation": "判事がトランプ氏の郵便投票命令に対する全国規模の差し止めを解除：\nhttps://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction"
+    },
     "truth:117173120124163613": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19352,22 +19373,6 @@
       "published": "Fri, 28 Aug 2026 12:22:40 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T18:50:34.208027Z"
-    },
-    "truth:117174457961184014": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41343",
-      "source_text": "<p>Judge lifts nationwide block on Trump's mail voting order: <a href=\"https://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/26/trump-mai</span><span class=\"invisible\">l-voting-rules-nationwide-injunction</span></a></p>",
-      "published": "Fri, 28 Aug 2026 18:05:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T19:10:48.087432Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41343",
-      "first_seen": "2026-08-28T19:00:49.022452Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Judge lifts nationwide block on Trump's mail voting order: \nhttps://www.axios.com/2026/08/26/trump-mail-voting-rules-nationwide-injunction",
-      "next_retry_at": "2026-08-28T19:20:48.087447Z",
-      "truth_social_id": "117174457961184014"
     },
     "truth:117174458540297380": {
       "post_status": "RETRY",
