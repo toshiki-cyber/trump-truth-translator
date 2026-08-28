@@ -1742,7 +1742,10 @@
     "truth:117173125011583696",
     "https://www.trumpstruth.org/statuses/41304",
     "truth:117173120124163613",
-    "https://www.trumpstruth.org/statuses/41305"
+    "https://www.trumpstruth.org/statuses/41305",
+    "fp:Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I",
+    "truth:117173109426335170",
+    "https://www.trumpstruth.org/statuses/41303"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12319,6 +12322,24 @@
       "truth_social_id": "117173125011583696",
       "translation": ""
     },
+    "truth:117173109426335170": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41303",
+      "source_text": "<p>Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I have heard that they have had a tremendous problem with the Big Processors, who many say are a nasty Monopoly. There are, essentially, 4 of them, a very non competitive number, and they make life miserable for our wonderful Farmers and Ranchers, and I can’t let that happen, can I? So, in order to break this powerful monopoly, with much of its ownership based outside of the U.S., I am authorizing legal documents to be drawn in order to allow Farmers and Ranchers to be given the right to PROCESS THEIR OWN FOOD. This should move quickly. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 28 Aug 2026 12:22:40 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T13:15:43.738268Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41303",
+      "first_seen": "2026-08-28T12:50:36.353476Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I",
+      "truth_social_id": "117173109426335170",
+      "source_fingerprint": "fp:Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I",
+      "media_identity": "attachment:117173109426335170:",
+      "translation": "牧場主と農家は常に私にとって最優先事項だ。彼らは非常に勤勉で、賢く、効率的で、完璧に清潔だが、長年にわたり彼らが大手食肉処理業者との大きな問題を抱えていると聞いてきた。多くの人々がこれを悪質な独占だと言っている。本質的には4社しかいなく、競争力が非常に低く、彼らは我々の素晴らしい農家と牧場主の生活を苦しめている。そんなことは認めるわけにはいかないだろう？だから、この強大な独占を破るため、その所有権の多くが米国外にある中で、農家と牧場主に自らの食料を加工する権利を与えることを可能にするために、法的文書の作成を認可している。これは迅速に進むべきだ。この件への関心をありがとう！ドナルド・J・トランプ大統領"
+    },
     "truth:117170522190859145": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18221,22 +18242,6 @@
       "published": "Fri, 28 Aug 2026 01:16:24 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-28T04:50:35.499140Z"
-    },
-    "truth:117173109426335170": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41303",
-      "source_text": "<p>Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I have heard that they have had a tremendous problem with the Big Processors, who many say are a nasty Monopoly. There are, essentially, 4 of them, a very non competitive number, and they make life miserable for our wonderful Farmers and Ranchers, and I can’t let that happen, can I? So, in order to break this powerful monopoly, with much of its ownership based outside of the U.S., I am authorizing legal documents to be drawn in order to allow Farmers and Ranchers to be given the right to PROCESS THEIR OWN FOOD. This should move quickly. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Fri, 28 Aug 2026 12:22:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T12:55:39.590830Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41303",
-      "first_seen": "2026-08-28T12:50:36.353476Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I",
-      "next_retry_at": "2026-08-28T13:05:39.590844Z",
-      "truth_social_id": "117173109426335170"
     }
   }
 }
