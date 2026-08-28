@@ -1819,7 +1819,10 @@
     "https://trumpstruth.org/statuses/41348",
     "fp:Trump mourns Dolly Parton, orders US flags lowered nationwide after country music icon dies: \nhttps://www.foxnews.com/politics/trump-mourns-dolly-part",
     "truth:117174455268168941",
-    "https://trumpstruth.org/statuses/41349"
+    "https://trumpstruth.org/statuses/41349",
+    "fp:50K ICE Arrests in July, Highest for Trump's 2nd Term: \nhttps://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/i",
+    "truth:117174456592000281",
+    "https://trumpstruth.org/statuses/41346"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12890,6 +12893,24 @@
         }
       ]
     },
+    "truth:117174456592000281": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41346",
+      "source_text": "<p>50K ICE Arrests in July, Highest for Trump's 2nd Term: <a href=\"https://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/id/1267268/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/us/border-immigrat</span><span class=\"invisible\">ion-customs-enforcement-data-statistics/2026/08/25/id/1267268/</span></a></p>",
+      "published": "Fri, 28 Aug 2026 18:05:16 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-28T20:00:37.808874Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41346",
+      "first_seen": "2026-08-28T19:00:46.357165Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:50K ICE Arrests in July, Highest for Trump's 2nd Term: \nhttps://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/i",
+      "truth_social_id": "117174456592000281",
+      "source_fingerprint": "fp:50K ICE Arrests in July, Highest for Trump's 2nd Term: \nhttps://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/i",
+      "media_identity": "attachment:117174456592000281:",
+      "translation": "7月にICE逮捕50,000件、トランプ第2期で最高記録：\nhttps://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/id/1267268/"
+    },
     "truth:117173120124163613": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -19387,22 +19408,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-28T20:00:49.542276Z"
-    },
-    "truth:117174456592000281": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41346",
-      "source_text": "<p>50K ICE Arrests in July, Highest for Trump's 2nd Term: <a href=\"https://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/id/1267268/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/us/border-immigrat</span><span class=\"invisible\">ion-customs-enforcement-data-statistics/2026/08/25/id/1267268/</span></a></p>",
-      "published": "Fri, 28 Aug 2026 18:05:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T19:10:46.718411Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41346",
-      "first_seen": "2026-08-28T19:00:46.357165Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:50K ICE Arrests in July, Highest for Trump's 2nd Term: \nhttps://www.newsmax.com/us/border-immigration-customs-enforcement-data-statistics/2026/08/25/i",
-      "next_retry_at": "2026-08-28T19:20:46.718427Z",
-      "truth_social_id": "117174456592000281"
     },
     "truth:117174457093511261": {
       "post_status": "RETRY",
