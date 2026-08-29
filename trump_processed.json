@@ -19682,15 +19682,15 @@
       "status_url": "https://trumpstruth.org/statuses/41292",
       "source_text": "<p></p>",
       "published": "Thu, 27 Aug 2026 21:51:44 +0000",
-      "updated_at": "2026-08-29T07:20:42.114727Z",
+      "updated_at": "2026-08-29T07:35:48.508807Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41292",
       "source_fingerprint": null,
       "media_identity": "attachment:117169684795013584:903a11e301b1ae8f-5dbea85761dc.mp4",
       "truth_social_id": "117169684795013584",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"da7rt74ug6hs73avodgg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
-      "retry_count": 2,
+      "retry_count": 3,
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-08-29T07:30:42.114745Z"
+      "next_retry_at": "2026-08-29T07:55:48.508828Z"
     },
     "https://www.trumpstruth.org/statuses/41296": {
       "post_status": "DISCOVERED",
@@ -19876,7 +19876,7 @@
       "status_url": "https://trumpstruth.org/statuses/41351",
       "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
       "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-29T07:30:33.834854Z",
+      "updated_at": "2026-08-29T07:35:44.885258Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41350",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
