@@ -19809,24 +19809,36 @@
       "updated_at": "2026-08-29T00:50:34.279312Z"
     },
     "truth:117175567133618952": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41356",
       "source_text": "<p>BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY! At my direction, Secretary of State Marco Rubio, and Secretary of War Pete Hegseth, working closely with Highly Respected Interim President of Venezuela, Delcy Rodriguez, and, through a partnership with private business, have secured majority U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer. This Historic Transaction MORE THAN DOUBLES American Oil Reserves, greatly increases our Oil Supply, and will substantially lower Gas Prices for all Americans, long into the future, while helping to continue to set Venezuela on a course toward Tremendous Success and Great Prosperity. This Transaction will greatly strengthen the already growing relationship between Venezuela and the United States! Thank you for your attention to this groundbreaking matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
       "published": "Fri, 28 Aug 2026 22:47:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-29T00:50:34.279226Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41356"
+      "retry_count": 1,
+      "updated_at": "2026-08-29T00:55:36.520901Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41356",
+      "first_seen": "2026-08-29T00:55:36.520865Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY",
+      "next_retry_at": "2026-08-29T01:00:36.520909Z",
+      "truth_social_id": "117175567133618952"
     },
     "truth:117175935338426953": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41357",
       "source_text": "<p>Our deal with Venezuela is the biggest oil deal, by far, in World history! President DJT</p>",
       "published": "Sat, 29 Aug 2026 00:21:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-29T00:50:34.279134Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41357"
+      "retry_count": 1,
+      "updated_at": "2026-08-29T00:55:37.171076Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41357",
+      "first_seen": "2026-08-29T00:55:37.171038Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Our deal with Venezuela is the biggest oil deal, by far, in World history! President DJT",
+      "next_retry_at": "2026-08-29T01:00:37.171085Z",
+      "truth_social_id": "117175935338426953"
     }
   }
 }
