@@ -19849,6 +19849,38 @@
       "published": "Fri, 28 Aug 2026 21:17:20 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-29T00:50:34.279312Z"
+    },
+    "truth:117176267544455545": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41358",
+      "source_text": "<p>Very sad to hear about the passing of King Harald of Norway — A strong, proud, and greatly respected man. He loved his Country, and was truly loved and respected by his people. Our hearts are with the Royal Family, and all of Norway, during this difficult time. A truly BIG loss! President DONALD J. TRUMP</p>",
+      "published": "Sat, 29 Aug 2026 01:45:49 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-29T02:50:40.212236Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41358",
+      "first_seen": "2026-08-29T02:50:40.212204Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Very sad to hear about the passing of King Harald of Norway — A strong, proud, and greatly respected man. He loved his Country, and was truly loved an",
+      "next_retry_at": "2026-08-29T02:55:40.212243Z",
+      "truth_social_id": "117176267544455545"
+    },
+    "truth:117176410033451497": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41359",
+      "source_text": "<p>Governor Kathy Hochul is for Canada, a Country that has been ripping off New York State for years, especially under her Administration, instead of the good ‘ol U.S.A. Can you imagine her saying that she won’t respect or acknowledge LAKE AMERICA. That’s why the Dumocrats are so bad for our Country. Vote for Bruce Blakeman for Governor of New York. He has my Complete and Total Endorsement, and will never let you down! President DJT</p>",
+      "published": "Sat, 29 Aug 2026 02:22:03 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-29T02:50:40.842595Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41359",
+      "first_seen": "2026-08-29T02:50:40.842545Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Governor Kathy Hochul is for Canada, a Country that has been ripping off New York State for years, especially under her Administration, instead of the",
+      "next_retry_at": "2026-08-29T02:55:40.842602Z",
+      "truth_social_id": "117176410033451497"
     }
   }
 }
