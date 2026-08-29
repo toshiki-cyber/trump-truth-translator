@@ -1907,7 +1907,10 @@
     "https://www.trumpstruth.org/statuses/41368",
     "fp:Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP",
     "truth:117179458822974337",
-    "https://www.trumpstruth.org/statuses/41367"
+    "https://www.trumpstruth.org/statuses/41367",
+    "fp:NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J.",
+    "truth:117180270499874239",
+    "https://trumpstruth.org/statuses/41373"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13010,6 +13013,60 @@
       "truth_social_id": "117179458822974337",
       "translation": "ジャレッド・アイザックマン、NASA長官、昨日、NASA任務管理室にて！大統領 ドナルド・J・トランプ"
     },
+    "truth:117180270499874239": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41373",
+      "source_text": "<p>NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP</p>",
+      "published": "Sat, 29 Aug 2026 18:43:49 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-29T19:10:43.510501Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41373",
+      "source_fingerprint": "fp:NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J.",
+      "media_identity": "attachment:117180270499874239:49589bb8bc4a0328.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J.",
+      "truth_social_id": "117180270499874239",
+      "translation": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3muajtms3324k",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
+        "createdAt": "2026-08-29T19:00:41.502962Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicyapadhospdyqnsqcb2ozxqb5fwhwl6eu3ygvtd3ub2brsx543mi"
+                },
+                "mimeType": "image/jpeg",
+                "size": 248009
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 827
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
+          "rkey": "3muajtms3324k"
+        }
+      ]
+    },
     "truth:117178907347016649": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -20173,7 +20230,7 @@
       "status_url": "https://trumpstruth.org/statuses/41351",
       "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
       "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-29T19:05:34.009087Z",
+      "updated_at": "2026-08-29T19:10:40.338169Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41350",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
@@ -20350,146 +20407,15 @@
       "status_url": "https://trumpstruth.org/statuses/41372",
       "source_text": "<p>At the request of the PGA Tour, and its Great new Commissioner, Brian Rolapp, it is my Honor to accept being the Honorary Chairman of the upcoming Presidents Cup, which will take place at the Medinah Country Club in Chicago. This will be a particularly exciting event. Both teams are “loaded” with Talent. I look forward to being there, and greeting all of these fantastic athletes, on both teams! Thank you for your attention to this matter. See you in Chicago! President DONALD J. TRUMP</p>",
       "published": "Sat, 29 Aug 2026 18:10:12 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-29T19:00:39.115871Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-29T19:10:41.104485Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41372",
       "first_seen": "2026-08-29T19:00:39.115840Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:At the request of the PGA Tour, and its Great new Commissioner, Brian Rolapp, it is my Honor to accept being the Honorary Chairman of the upcoming Pre",
-      "next_retry_at": "2026-08-29T19:05:39.115880Z",
+      "next_retry_at": "2026-08-29T19:20:41.104499Z",
       "truth_social_id": "117180138298064622"
-    },
-    "truth:117180270499874239": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41373",
-      "source_text": "<p>NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP</p>",
-      "published": "Sat, 29 Aug 2026 18:43:49 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-29T19:00:48.249642Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41373",
-      "source_fingerprint": "fp:NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J.",
-      "media_identity": "attachment:117180270499874239:49589bb8bc4a0328.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J.",
-      "truth_social_id": "117180270499874239",
-      "translation": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
-          "cid": "bafyreieydxlnbozo2c6qbln63qeweaep4nopsm2k5sowzaubcjgjt6bffa"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
-          "cid": "bafyreieydxlnbozo2c6qbln63qeweaep4nopsm2k5sowzaubcjgjt6bffa"
-        },
-        "next_index": 1,
-        "last_rkey": "3muajtms3324k",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
-          "createdAt": "2026-08-29T19:00:41.502962Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicyapadhospdyqnsqcb2ozxqb5fwhwl6eu3ygvtd3ub2brsx543mi"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 248009
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3muajtms3324k",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
-          "createdAt": "2026-08-29T19:00:41.502962Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicyapadhospdyqnsqcb2ozxqb5fwhwl6eu3ygvtd3ub2brsx543mi"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 248009
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
-            "rkey": "3muajtms3324k"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3muajtms3324k",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-08-29T19:00:41.502962Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicyapadhospdyqnsqcb2ozxqb5fwhwl6eu3ygvtd3ub2brsx543mi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 248009
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
-          "rkey": "3muajtms3324k"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-08-29T19:05:48.249654Z"
     }
   }
 }
