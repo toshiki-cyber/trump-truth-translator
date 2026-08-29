@@ -1887,7 +1887,10 @@
     "https://trumpstruth.org/statuses/41360",
     "fp:Trump is winning the Iran war— stay the course: \nhttps://nypost.com/2026/08/23/opinion/trump-is-winning-the-iran-war-stay-the-course/",
     "truth:117178907347016649",
-    "https://www.trumpstruth.org/statuses/41361"
+    "https://www.trumpstruth.org/statuses/41361",
+    "fp:CNN is in a DEATH SPIRAL, and so is MSNOW, the new name for MSDNC — Literally, nobody is watching either Network! The best person on CNN is Pollster H",
+    "truth:117179205456937544",
+    "https://www.trumpstruth.org/statuses/41364"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -12850,6 +12853,24 @@
       "media_identity": "attachment:117178907347016649:",
       "translation": "トランプはイラン戦争で勝利している——針路を保つべきだ：\nhttps://nypost.com/2026/08/23/opinion/trump-is-winning-the-iran-war-stay-the-course/"
     },
+    "truth:117179205456937544": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41364",
+      "source_text": "<p>CNN is in a DEATH SPIRAL, and so is MSNOW, the new name for MSDNC — Literally, nobody is watching either Network! The best person on CNN is Pollster Harry Enten, because he was willing to show that Donald J. Trump is six times more popular than Abraham Lincoln, George Washington, or any other President — He’s got Credibility (Don’t fire him!). CNN can be turned around with new Leadership and Anchors (MSNOW cannot!), because a Great Brand can never truly be destroyed! President DONALD J. TRUMP</p>",
+      "published": "Sat, 29 Aug 2026 14:12:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-29T15:30:42.382861Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41364",
+      "first_seen": "2026-08-29T15:00:39.087369Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:CNN is in a DEATH SPIRAL, and so is MSNOW, the new name for MSDNC — Literally, nobody is watching either Network! The best person on CNN is Pollster H",
+      "truth_social_id": "117179205456937544",
+      "source_fingerprint": "fp:CNN is in a DEATH SPIRAL, and so is MSNOW, the new name for MSDNC — Literally, nobody is watching either Network! The best person on CNN is Pollster H",
+      "media_identity": "attachment:117179205456937544:",
+      "translation": "CNNは死のスパイラルに陥っており、MSDBCの新しい名前であるMSNOWもそうだ——誰も両方のネットワークを見ていない。CNNで最高の人物はポーラスター、ハリー・エンテンだ。なぜなら彼はドナルド・J・トランプがエイブラハム・リンカーン、ジョージ・ワシントン、その他いかなる大統領よりも6倍人気があることを示す意思があったからだ——彼は信頼性がある（彼を解雇するな！）。CNNは新しいリーダーシップとアンカーで立て直せる（MSNOWはできない！）。偉大なブランドは決して真に破壊されることはないからだ！大統領 ドナルド・J・トランプ"
+    },
     "truth:117176514317841811": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -20031,22 +20052,6 @@
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/179/167/998/227/906/original/720c03492d028fd0.mp4",
       "truth_social_id": "117179176415838638",
       "next_retry_at": "2026-08-29T15:00:44.314028Z"
-    },
-    "truth:117179205456937544": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41364",
-      "source_text": "<p>CNN is in a DEATH SPIRAL, and so is MSNOW, the new name for MSDNC — Literally, nobody is watching either Network! The best person on CNN is Pollster Harry Enten, because he was willing to show that Donald J. Trump is six times more popular than Abraham Lincoln, George Washington, or any other President — He’s got Credibility (Don’t fire him!). CNN can be turned around with new Leadership and Anchors (MSNOW cannot!), because a Great Brand can never truly be destroyed! President DONALD J. TRUMP</p>",
-      "published": "Sat, 29 Aug 2026 14:12:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-29T15:15:37.442983Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41364",
-      "first_seen": "2026-08-29T15:00:39.087369Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:CNN is in a DEATH SPIRAL, and so is MSNOW, the new name for MSDNC — Literally, nobody is watching either Network! The best person on CNN is Pollster H",
-      "next_retry_at": "2026-08-29T15:25:37.442994Z",
-      "truth_social_id": "117179205456937544"
     }
   }
 }
