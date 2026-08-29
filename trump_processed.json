@@ -19980,6 +19980,57 @@
       "published": "Fri, 28 Aug 2026 22:47:42 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-29T04:50:37.866542Z"
+    },
+    "truth:117178907347016649": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41361",
+      "source_text": "<p>Trump is winning the Iran war— stay the course: <a href=\"https://nypost.com/2026/08/23/opinion/trump-is-winning-the-iran-war-stay-the-course/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/23/opinion/</span><span class=\"invisible\">trump-is-winning-the-iran-war-stay-the-course/</span></a></p>",
+      "published": "Sat, 29 Aug 2026 12:57:09 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-29T14:50:36.901170Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41361",
+      "first_seen": "2026-08-29T14:50:36.901143Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Trump is winning the Iran war— stay the course: \nhttps://nypost.com/2026/08/23/opinion/trump-is-winning-the-iran-war-stay-the-course/",
+      "next_retry_at": "2026-08-29T14:55:36.901179Z",
+      "truth_social_id": "117178907347016649"
+    },
+    "truth:117179137450053289": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/41362",
+      "source_text": "<p></p>",
+      "published": "Sat, 29 Aug 2026 13:55:40 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-29T14:50:39.927313Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41362",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117179137450053289:28c81f167128bc44-db2dd2d5090e.mp4",
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/179/132/468/494/659/original/28c81f167128bc44.mp4",
+      "truth_social_id": "117179137450053289",
+      "next_retry_at": "2026-08-29T14:55:39.927328Z"
+    },
+    "truth:117179176415838638": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41363",
+      "source_text": "<p></p>",
+      "published": "Sat, 29 Aug 2026 14:05:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-29T14:50:36.350076Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41363"
+    },
+    "truth:117179205456937544": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41364",
+      "source_text": "<p>CNN is in a DEATH SPIRAL, and so is MSNOW, the new name for MSDNC — Literally, nobody is watching either Network! The best person on CNN is Pollster Harry Enten, because he was willing to show that Donald J. Trump is six times more popular than Abraham Lincoln, George Washington, or any other President — He’s got Credibility (Don’t fire him!). CNN can be turned around with new Leadership and Anchors (MSNOW cannot!), because a Great Brand can never truly be destroyed! President DONALD J. TRUMP</p>",
+      "published": "Sat, 29 Aug 2026 14:12:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-29T14:50:36.349992Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41364"
     }
   }
 }
