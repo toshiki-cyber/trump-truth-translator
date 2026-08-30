@@ -1949,7 +1949,10 @@
     "truth:117184857420534704",
     "https://www.trumpstruth.org/statuses/41391",
     "truth:117185229994000348",
-    "https://trumpstruth.org/statuses/41394"
+    "https://trumpstruth.org/statuses/41394",
+    "fp:President Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trilli",
+    "truth:117185350159023559",
+    "https://trumpstruth.org/statuses/41395"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13265,6 +13268,24 @@
         }
       ]
     },
+    "truth:117185350159023559": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41396",
+      "source_text": "<p>President Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trillions of Dollars in Investment, and reinvigorate our Economy. Just this week, President Trump and the Prime Minister of Bangladesh made another incredible Deal, with Bangladesh committing to spend Billions of Dollars to buy more Boeing Aircraft, significantly increasing their initial order. Our President is Making America, and our partners, Great Again!</p>",
+      "published": "Sun, 30 Aug 2026 16:15:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T17:40:37.321916Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41395",
+      "first_seen": "2026-08-30T17:20:37.122193Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:President Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trilli",
+      "truth_social_id": "117185350159023559",
+      "source_fingerprint": "fp:President Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trilli",
+      "media_identity": "attachment:117185350159023559:",
+      "translation": "トランプ大統領はアメリカ史上最高の雇用創出大統領である。彼は毎日たゆまぬ努力で数百万の高給職を創出し、数兆ドルの投資を推し進め、経済を活性化させている。今週だけでも、トランプ大統領とバングラデシュの首相は素晴らしい新たな取引を成し遂げ、バングラデシュは数十億ドルを費やしてボーイング航空機をさらに多く購入することを約束し、当初の発注を大幅に増加させた。我が大統領はアメリカと我々のパートナーを再び偉大にしている！"
+    },
     "truth:117184421232259468": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -20775,7 +20796,7 @@
       "status_url": "https://trumpstruth.org/statuses/41351",
       "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
       "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-30T17:35:36.796011Z",
+      "updated_at": "2026-08-30T17:40:33.848317Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41350",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
@@ -21069,22 +21090,6 @@
       "fingerprint": "fp:Google Maps changes Lake Ontario to ‘Lake America’ on US phones: \nhttps://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/",
       "next_retry_at": "2026-08-30T17:40:42.603809Z",
       "truth_social_id": "117185234758035541"
-    },
-    "truth:117185350159023559": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41396",
-      "source_text": "<p>President Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trillions of Dollars in Investment, and reinvigorate our Economy. Just this week, President Trump and the Prime Minister of Bangladesh made another incredible Deal, with Bangladesh committing to spend Billions of Dollars to buy more Boeing Aircraft, significantly increasing their initial order. Our President is Making America, and our partners, Great Again!</p>",
-      "published": "Sun, 30 Aug 2026 16:15:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-30T17:35:36.792891Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41395",
-      "first_seen": "2026-08-30T17:20:37.122193Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:President Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trilli",
-      "next_retry_at": "2026-08-30T17:35:42.866039Z",
-      "truth_social_id": "117185350159023559"
     }
   }
 }
