@@ -13507,7 +13507,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-30T15:10:36.837040Z",
+      "updated_at": "2026-08-30T15:15:37.715106Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -20929,14 +20929,20 @@
       "next_retry_at": "2026-08-30T15:10:40.967786Z"
     },
     "truth:117184857420534704": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41391",
       "source_text": "<p>One of the things I am going to do with the Venezuelan Oil is fill up the Strategic National Reserves which, because of Sleepy Joe Biden, has been virtually emptied. The “topping out” process will begin very shortly, and is a Gift from Venezuela to the People of the United States. Thank you! President DONALD J. TRUMP</p>",
       "published": "Sun, 30 Aug 2026 14:10:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-30T14:50:40.604953Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41391"
+      "retry_count": 1,
+      "updated_at": "2026-08-30T15:15:38.605712Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41391",
+      "first_seen": "2026-08-30T15:15:38.605677Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:One of the things I am going to do with the Venezuelan Oil is fill up the Strategic National Reserves which, because of Sleepy Joe Biden, has been vir",
+      "next_retry_at": "2026-08-30T15:20:38.605721Z",
+      "truth_social_id": "117184857420534704"
     }
   }
 }
