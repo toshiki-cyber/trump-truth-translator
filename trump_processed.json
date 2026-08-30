@@ -1926,7 +1926,10 @@
     "https://trumpstruth.org/statuses/41377",
     "fp:Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: \nhttps://justthenews.com/government/white-house/christi",
     "truth:117184421232259468",
-    "https://www.trumpstruth.org/statuses/41384"
+    "https://www.trumpstruth.org/statuses/41384",
+    "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
+    "truth:117184423734793149",
+    "https://www.trumpstruth.org/statuses/41382"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13101,6 +13104,24 @@
       "media_identity": "attachment:117184421232259468:",
       "translation": "キリスト教指導者たちが、反ユダヤ主義に直面するカナダのユダヤ人のための法的通路の創設をトランプに促促している：\nhttps://justthenews.com/government/white-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing"
     },
+    "truth:117184423734793149": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41382",
+      "source_text": "<p>Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: <a href=\"https://justthenews.com/government/white-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process</span></a></p>",
+      "published": "Sun, 30 Aug 2026 12:20:03 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-30T13:55:39.835651Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41382",
+      "first_seen": "2026-08-30T13:15:39.265138Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
+      "truth_social_id": "117184423734793149",
+      "source_fingerprint": "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
+      "media_identity": "attachment:117184423734793149:",
+      "translation": "トランプ、食肉処理大手4社の支配を打破、畜産業者の処理の自由を復活させる：\nhttps://justthenews.com/government/white-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process"
+    },
     "truth:117182126140629583": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -13318,7 +13339,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-30T13:50:38.685213Z",
+      "updated_at": "2026-08-30T13:55:37.450934Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -20861,22 +20882,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-30T13:55:48.664185Z"
-    },
-    "truth:117184423734793149": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41382",
-      "source_text": "<p>Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: <a href=\"https://justthenews.com/government/white-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process</span></a></p>",
-      "published": "Sun, 30 Aug 2026 12:20:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T13:25:40.681398Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41382",
-      "first_seen": "2026-08-30T13:15:39.265138Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
-      "next_retry_at": "2026-08-30T13:35:40.681442Z",
-      "truth_social_id": "117184423734793149"
     },
     "truth:117184527741564500": {
       "post_status": "RETRY",
