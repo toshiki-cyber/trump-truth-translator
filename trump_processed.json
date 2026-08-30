@@ -1932,7 +1932,10 @@
     "https://www.trumpstruth.org/statuses/41382",
     "fp:Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: \nhttps://justthenews.com/government/white-house/trump",
     "truth:117184422478750334",
-    "https://www.trumpstruth.org/statuses/41383"
+    "https://www.trumpstruth.org/statuses/41383",
+    "fp:THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT",
+    "truth:117184527741564500",
+    "https://www.trumpstruth.org/statuses/41385"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13193,6 +13196,24 @@
         }
       ]
     },
+    "truth:117184527741564500": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41385",
+      "source_text": "<p>THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT</p>",
+      "published": "Sun, 30 Aug 2026 12:46:30 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-30T14:05:37.655707Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41385",
+      "first_seen": "2026-08-30T13:15:39.851786Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT",
+      "truth_social_id": "117184527741564500",
+      "source_fingerprint": "fp:THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT",
+      "media_identity": "attachment:117184527741564500:",
+      "translation": "我々の不正なメディアが使用している偽りの世論調査は制御不能だ。何かをしなければならない。FCC が救いの手を差し伸べる！大統領 DJT"
+    },
     "truth:117182126140629583": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -13410,7 +13431,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-30T14:00:34.076671Z",
+      "updated_at": "2026-08-30T14:05:35.295169Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -20784,22 +20805,6 @@
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/183/889/532/586/368/original/cee24c857a2e3d64.mp4",
       "retry_count": 1,
       "next_retry_at": "2026-08-30T13:15:36.726243Z"
-    },
-    "truth:117184527741564500": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41385",
-      "source_text": "<p>THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT</p>",
-      "published": "Sun, 30 Aug 2026 12:46:30 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T13:25:41.086938Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41385",
-      "first_seen": "2026-08-30T13:15:39.851786Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT",
-      "next_retry_at": "2026-08-30T13:35:41.086955Z",
-      "truth_social_id": "117184527741564500"
     }
   }
 }
