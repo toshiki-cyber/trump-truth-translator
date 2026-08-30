@@ -20859,7 +20859,7 @@
       "status_url": "https://trumpstruth.org/statuses/41351",
       "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
       "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-30T23:05:38.219655Z",
+      "updated_at": "2026-08-30T23:10:36.330641Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41350",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
@@ -21079,19 +21079,19 @@
       "next_retry_at": "2026-08-30T23:10:40.400871Z"
     },
     "truth:117184832932244590": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://trumpstruth.org/statuses/41392",
       "source_text": "<p></p>",
       "published": "Sun, 30 Aug 2026 14:04:07 +0000",
-      "updated_at": "2026-08-30T22:50:36.746521Z",
+      "updated_at": "2026-08-30T23:10:39.734746Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41392",
       "source_fingerprint": null,
-      "media_identity": "attachment:117184832932244590:361fdcff946d5e60-adc3d5d6a553.mp4",
+      "media_identity": "attachment:117184832932244590:361fdcff946d5e60-1f22ed8f2277.mp4",
       "truth_social_id": "117184832932244590",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/184/828/370/000/159/original/361fdcff946d5e60.mp4",
-      "retry_count": 0,
-      "next_retry_at": "2026-08-30T21:15:52.076780Z"
+      "retry_count": 1,
+      "next_retry_at": "2026-08-30T23:15:39.734766Z"
     },
     "https://trumpstruth.org/statuses/41391": {
       "post_status": "DISCOVERED",
