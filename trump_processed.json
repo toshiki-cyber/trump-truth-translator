@@ -1941,7 +1941,10 @@
     "https://www.trumpstruth.org/statuses/41386",
     "fp:Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! Presi",
     "truth:117184815452316443",
-    "https://www.trumpstruth.org/statuses/41389"
+    "https://www.trumpstruth.org/statuses/41389",
+    "fp:Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us o",
+    "truth:117184800571598811",
+    "https://www.trumpstruth.org/statuses/41390"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13272,6 +13275,24 @@
         }
       ]
     },
+    "truth:117184800571598811": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41390",
+      "source_text": "<p>Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us off for years — NO LONGER! President DJT</p>",
+      "published": "Sun, 30 Aug 2026 13:55:53 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-30T15:20:41.132552Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41390",
+      "first_seen": "2026-08-30T15:00:38.371532Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us o",
+      "truth_social_id": "117184800571598811",
+      "source_fingerprint": "fp:Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us o",
+      "media_identity": "attachment:117184800571598811:",
+      "translation": "カナダの企業がアメリカに殺到している。我々は自動車など自分たちで製造したいのだ。それが起こることになる。カナダは何年もの間、我々を搾取してきた――もう終わりだ！大統領 DJT"
+    },
     "truth:117184527741564500": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -13507,7 +13528,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-30T15:15:37.715106Z",
+      "updated_at": "2026-08-30T15:20:37.546685Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -20896,22 +20917,6 @@
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/184/710/533/146/246/original/bd16636ebfd733eb.mp4",
       "truth_social_id": "117184711319343782",
       "next_retry_at": "2026-08-30T15:00:40.495915Z"
-    },
-    "truth:117184800571598811": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41390",
-      "source_text": "<p>Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us off for years — NO LONGER! President DJT</p>",
-      "published": "Sun, 30 Aug 2026 13:55:53 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T15:10:37.514675Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41390",
-      "first_seen": "2026-08-30T15:00:38.371532Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us o",
-      "next_retry_at": "2026-08-30T15:20:37.514692Z",
-      "truth_social_id": "117184800571598811"
     },
     "truth:117184832932244590": {
       "post_status": "BLOCKED",
