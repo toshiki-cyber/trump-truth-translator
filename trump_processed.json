@@ -1958,7 +1958,10 @@
     "https://trumpstruth.org/statuses/41393",
     "fp:When I announced that I was running in the 2024 Presidential Election, right at the beginning, Ford was getting ready to close their Big Factory, in D",
     "truth:117185823993660126",
-    "https://trumpstruth.org/statuses/41397"
+    "https://trumpstruth.org/statuses/41397",
+    "fp:Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out year",
+    "truth:117185864353206503",
+    "https://trumpstruth.org/statuses/41398"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13328,6 +13331,24 @@
       "media_identity": "attachment:117185823993660126:",
       "translation": "2024年の大統領選挙に立候補することを発表した時、デトロイトのフォードの大規模工場は閉鎖の準備をしていた。その後、私が世論調査でリードしていることが分かると、彼らは様子を見るためにもう少し長く操業を続けることにした。今ではその工場は24時間体制で稼働しており、世界で最も収益性の高い自動車工場の一つになっている！フォード、ゼネラルモーターズ、その他多くの企業についても、同様の例は数多くある。私は米国の自動車産業を復活させ、実際に救ってきた。それは私が行った関税政策による成果だ。最悪の濫用者の一つはカナダである。カナダ車は要らない、カナダ製の部品は要らない、カナダのものは何も要らない。彼らは何十年も我々を搾取してきた。それはこれで終わりだ。このようなことは過去の大統領の下でずっと前に起きているべきだった。イランに対する対抗と同様にだ。彼らは州のように扱われたいと考えているが、彼らは州ではない。私は多くの国の指導部と付き合っているが、カナダが最悪だと分かった。彼らはもはや優遇されるべきではない！ドナルド・J・トランプ大統領"
     },
+    "truth:117185864353206503": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41398",
+      "source_text": "<p>Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP</p>",
+      "published": "Sun, 30 Aug 2026 18:26:25 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-30T19:15:38.546650Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41398",
+      "first_seen": "2026-08-30T18:50:35.184112Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out year",
+      "truth_social_id": "117185864353206503",
+      "source_fingerprint": "fp:Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out year",
+      "media_identity": "attachment:117185864353206503:",
+      "translation": "すべてのアメリカとビジネスを行っているカナダ企業は、すぐさまアメリカに移転せよ。その多くは、愚かなアメリカの指導部のせいで数年前に出ていった企業だ。戻ってくれば、関税はかからない！大統領 ドナルド・J・トランプ"
+    },
     "truth:117184421232259468": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -20838,7 +20859,7 @@
       "status_url": "https://trumpstruth.org/statuses/41351",
       "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
       "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-30T19:10:37.892107Z",
+      "updated_at": "2026-08-30T19:15:35.808794Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41350",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
@@ -21125,22 +21146,6 @@
       "published": "Sun, 30 Aug 2026 16:15:39 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-30T17:45:37.312088Z"
-    },
-    "truth:117185864353206503": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41398",
-      "source_text": "<p>Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP</p>",
-      "published": "Sun, 30 Aug 2026 18:26:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T19:00:37.332600Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41398",
-      "first_seen": "2026-08-30T18:50:35.184112Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out year",
-      "next_retry_at": "2026-08-30T19:10:37.332613Z",
-      "truth_social_id": "117185864353206503"
     }
   }
 }
