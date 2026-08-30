@@ -13104,110 +13104,6 @@
         }
       ]
     },
-    "truth:117184421232259468": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41384",
-      "source_text": "<p>Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: <a href=\"https://justthenews.com/government/white-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing</span></a></p>",
-      "published": "Sun, 30 Aug 2026 12:19:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T13:40:38.525487Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41384",
-      "first_seen": "2026-08-30T13:15:38.085352Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: \nhttps://justthenews.com/government/white-house/christi",
-      "truth_social_id": "117184421232259468",
-      "source_fingerprint": "fp:Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: \nhttps://justthenews.com/government/white-house/christi",
-      "media_identity": "attachment:117184421232259468:",
-      "translation": "キリスト教指導者たちが、反ユダヤ主義に直面するカナダのユダヤ人のための法的通路の創設をトランプに促促している：\nhttps://justthenews.com/government/white-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing"
-    },
-    "truth:117184423734793149": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41382",
-      "source_text": "<p>Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: <a href=\"https://justthenews.com/government/white-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process</span></a></p>",
-      "published": "Sun, 30 Aug 2026 12:20:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T13:55:39.835651Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41382",
-      "first_seen": "2026-08-30T13:15:39.265138Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
-      "truth_social_id": "117184423734793149",
-      "source_fingerprint": "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
-      "media_identity": "attachment:117184423734793149:",
-      "translation": "トランプ、食肉処理大手4社の支配を打破、畜産業者の処理の自由を復活させる：\nhttps://justthenews.com/government/white-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process"
-    },
-    "truth:117184422478750334": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41383",
-      "source_text": "<p>Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: <a href=\"https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-announces-massive-oil-deal-venezuela</span></a></p>",
-      "published": "Sun, 30 Aug 2026 12:19:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-30T14:00:35.336128Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41383",
-      "first_seen": "2026-08-30T13:15:38.612781Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: \nhttps://justthenews.com/government/white-house/trump",
-      "truth_social_id": "117184422478750334",
-      "source_fingerprint": "fp:Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: \nhttps://justthenews.com/government/white-house/trump",
-      "media_identity": "attachment:117184422478750334:",
-      "translation": "トランプのベネズエラとの歴史的な石油取引が世界のエネルギーを再編成し、OPECとカナダに警告を発する：\nhttps://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mucetpzvpkln",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mucetpzvpkln",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプのベネズエラとの歴史的な石油取引が世界のエネルギーを再編成し、OPECとカナダに警告を発する：\nhttps://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
-        "createdAt": "2026-08-30T13:50:42.084371Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 146,
-              "byteEnd": 235
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
-            "title": "Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice",
-            "description": "The president said the deal, which will be overseen by War Secretary Pete Hegseth and Secretary of State Marco Rubio, secures majority U.S. control of more than 65 billion barrels of oil reserves in Venezuela.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreideyybmghkvpki2s3zzqaq4odgrq4j67k6tjcmibnk7zn6kmt3pqu"
-              },
-              "mimeType": "image/jpeg",
-              "size": 64723
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mucetpzvpkln",
-          "rkey": "3mucetpzvpkln"
-        }
-      ]
-    },
     "truth:117184581053116309": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -13314,15 +13210,119 @@
       "media_identity": "attachment:117184857420534704:",
       "translation": "ベネズエラの石油でやろうとしていることの一つは、眠り込んでいるジョー・バイデンのせいでほぼ空になってしまった戦略的国家備蓄を満杯にすることだ。「満杯にする」プロセスは間もなく開始される予定であり、これはベネズエラからアメリカ国民への贈り物だ。ありがとう！ドナルド・J・トランプ大統領"
     },
+    "truth:117184421232259468": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41384",
+      "source_text": "<p>Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: <a href=\"https://justthenews.com/government/white-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing</span></a></p>",
+      "published": "Sun, 30 Aug 2026 12:19:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456987Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41384",
+      "first_seen": "2026-08-30T13:15:38.085352Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: \nhttps://justthenews.com/government/white-house/christi",
+      "truth_social_id": "117184421232259468",
+      "source_fingerprint": "fp:Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: \nhttps://justthenews.com/government/white-house/christi",
+      "media_identity": "attachment:117184421232259468:",
+      "translation": "キリスト教指導者たちが、反ユダヤ主義に直面するカナダのユダヤ人のための法的通路の創設をトランプに促促している：\nhttps://justthenews.com/government/white-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing"
+    },
+    "truth:117184423734793149": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41382",
+      "source_text": "<p>Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: <a href=\"https://justthenews.com/government/white-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process</span></a></p>",
+      "published": "Sun, 30 Aug 2026 12:20:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456833Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41382",
+      "first_seen": "2026-08-30T13:15:39.265138Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
+      "truth_social_id": "117184423734793149",
+      "source_fingerprint": "fp:Trump breaks Big Four meat processor grip, restores ranchers’ freedom to process: \nhttps://justthenews.com/government/white-house/trump-breaks-big-fou",
+      "media_identity": "attachment:117184423734793149:",
+      "translation": "トランプ、食肉処理大手4社の支配を打破、畜産業者の処理の自由を復活させる：\nhttps://justthenews.com/government/white-house/trump-breaks-big-fours-grip-and-restores-ranchers-freedom-process"
+    },
+    "truth:117184422478750334": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41383",
+      "source_text": "<p>Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: <a href=\"https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-announces-massive-oil-deal-venezuela</span></a></p>",
+      "published": "Sun, 30 Aug 2026 12:19:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456912Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41383",
+      "first_seen": "2026-08-30T13:15:38.612781Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: \nhttps://justthenews.com/government/white-house/trump",
+      "truth_social_id": "117184422478750334",
+      "source_fingerprint": "fp:Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice: \nhttps://justthenews.com/government/white-house/trump",
+      "media_identity": "attachment:117184422478750334:",
+      "translation": "トランプのベネズエラとの歴史的な石油取引が世界のエネルギーを再編成し、OPECとカナダに警告を発する：\nhttps://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mucetpzvpkln",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mucetpzvpkln",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "トランプのベネズエラとの歴史的な石油取引が世界のエネルギーを再編成し、OPECとカナダに警告を発する：\nhttps://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
+        "createdAt": "2026-08-30T13:50:42.084371Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 146,
+              "byteEnd": 235
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/government/white-house/trump-announces-massive-oil-deal-venezuela",
+            "title": "Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice",
+            "description": "The president said the deal, which will be overseen by War Secretary Pete Hegseth and Secretary of State Marco Rubio, secures majority U.S. control of more than 65 billion barrels of oil reserves in Venezuela.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreideyybmghkvpki2s3zzqaq4odgrq4j67k6tjcmibnk7zn6kmt3pqu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 64723
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mucetpzvpkln",
+          "rkey": "3mucetpzvpkln"
+        }
+      ]
+    },
     "truth:117184527741564500": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41387",
+      "status_url": "https://trumpstruth.org/statuses/41387",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT</p>",
       "published": "Sun, 30 Aug 2026 13:00:21 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-30T14:50:40.605294Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41387",
+      "updated_at": "2026-08-30T16:50:37.456592Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41387",
       "first_seen": "2026-08-30T13:15:39.851786Z",
       "no_media_confirmations": 3,
       "failure_reason": null,
@@ -13509,12 +13509,12 @@
     "truth:117180138298064622": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41376",
+      "status_url": "https://trumpstruth.org/statuses/41376",
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>At the request of the PGA Tour, and its Great new Commissioner, Brian Rolapp, it is my Honor to accept being the Honorary Chairman of the upcoming Presidents Cup, which will take place at the Medinah Country Club in Chicago. This will be a particularly exciting event. Both teams are “loaded” with Talent. I look forward to being there, and greeting all of these fantastic athletes, on both teams! Thank you for your attention to this matter. See you in Chicago! President DONALD J. TRUMP</p>",
       "published": "Sun, 30 Aug 2026 02:37:45 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-30T12:50:36.027684Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41376",
+      "updated_at": "2026-08-30T16:50:37.457214Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41376",
       "first_seen": "2026-08-29T19:00:39.115840Z",
       "no_media_confirmations": 4,
       "failure_reason": null,
@@ -13545,12 +13545,12 @@
     "truth:117180949829008293": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41374",
-      "source_text": "<p></p>",
-      "published": "Sat, 29 Aug 2026 21:36:35 +0000",
+      "status_url": "https://trumpstruth.org/statuses/41375",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span></p>",
+      "published": "Sun, 30 Aug 2026 02:38:02 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-30T16:45:35.162079Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
+      "updated_at": "2026-08-30T16:50:37.457138Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
       "failure_reason": null,
@@ -20717,11 +20717,11 @@
     "truth:117173861158086662": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41351",
-      "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
-      "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-30T12:50:36.029223Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41351",
+      "status_url": "https://trumpstruth.org/statuses/41350",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@glennbeck\">@<span>glennbeck</span></a></span>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
+      "published": "Fri, 28 Aug 2026 20:05:16 +0000",
+      "updated_at": "2026-08-30T16:50:37.458744Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41350",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
       "fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
@@ -20828,31 +20828,31 @@
     "truth:117179137450053289": {
       "post_status": "BLOCKED",
       "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41362",
+      "status_url": "https://trumpstruth.org/statuses/41362",
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 13:55:40 +0000",
-      "updated_at": "2026-08-30T12:50:41.316440Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41362",
+      "updated_at": "2026-08-30T16:50:44.573101Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41362",
       "source_fingerprint": null,
-      "media_identity": "attachment:117179137450053289:28c81f167128bc44-56ebc50c75f6.mp4",
+      "media_identity": "attachment:117179137450053289:28c81f167128bc44-569af15caeaa.mp4",
       "truth_social_id": "117179137450053289",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/179/132/468/494/659/original/28c81f167128bc44.mp4",
       "retry_count": 1,
-      "next_retry_at": "2026-08-30T12:55:41.316459Z"
+      "next_retry_at": "2026-08-30T16:55:44.573121Z"
     },
     "truth:117179176415838638": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41363",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41363",
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 14:05:35 +0000",
-      "updated_at": "2026-08-30T13:00:41.629822Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41363",
+      "updated_at": "2026-08-30T16:50:37.458015Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41363",
       "source_fingerprint": null,
       "media_identity": "attachment:117179176415838638:720c03492d028fd0-64bbeb9f0dff.mp4",
       "truth_social_id": "117179176415838638",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/179/167/998/227/906/original/720c03492d028fd0.mp4",
-      "retry_count": 1,
+      "retry_count": 0,
       "next_retry_at": "2026-08-30T13:05:41.629842Z"
     },
     "https://trumpstruth.org/statuses/41367": {
@@ -20910,29 +20910,29 @@
       "updated_at": "2026-08-30T08:50:34.901726Z"
     },
     "truth:117183895840900319": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41381",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41381",
       "source_text": "<p></p>",
       "published": "Sun, 30 Aug 2026 10:05:48 +0000",
-      "updated_at": "2026-08-30T13:10:36.726228Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41381",
+      "updated_at": "2026-08-30T16:50:37.457063Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41381",
       "source_fingerprint": null,
       "media_identity": "attachment:117183895840900319:cee24c857a2e3d64-9af2982a0aba.mov",
       "truth_social_id": "117183895840900319",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/183/889/532/586/368/original/cee24c857a2e3d64.mp4",
-      "retry_count": 1,
+      "retry_count": 0,
       "next_retry_at": "2026-08-30T13:15:36.726243Z"
     },
     "truth:117184711319343782": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41388",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41388",
       "source_text": "<p></p>",
       "published": "Sun, 30 Aug 2026 13:33:11 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-30T14:55:40.495891Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41388",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456514Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41388",
       "source_fingerprint": null,
       "media_identity": "attachment:117184711319343782:bd16636ebfd733eb-8771f06a3eff.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/184/710/533/146/246/original/bd16636ebfd733eb.mp4",
@@ -20940,19 +20940,94 @@
       "next_retry_at": "2026-08-30T15:00:40.495915Z"
     },
     "truth:117184832932244590": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41392",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41392",
       "source_text": "<p></p>",
       "published": "Sun, 30 Aug 2026 14:04:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-30T15:05:40.967769Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41392",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456281Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41392",
       "source_fingerprint": null,
       "media_identity": "attachment:117184832932244590:361fdcff946d5e60-0a11171d1f96.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/184/828/370/000/159/original/361fdcff946d5e60.mp4",
       "truth_social_id": "117184832932244590",
       "next_retry_at": "2026-08-30T15:10:40.967786Z"
+    },
+    "https://trumpstruth.org/statuses/41391": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41391",
+      "source_text": "<p>One of the things I am going to do with the Venezuelan Oil is fill up the Strategic National Reserves which, because of Sleepy Joe Biden, has been virtually emptied. The “topping out” process will begin very shortly, and is a Gift from Venezuela to the People of the United States. Thank you! President DONALD J. TRUMP</p>",
+      "published": "Sun, 30 Aug 2026 14:10:20 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456206Z"
+    },
+    "https://trumpstruth.org/statuses/41389": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41389",
+      "source_text": "<p>Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP</p>",
+      "published": "Sun, 30 Aug 2026 13:59:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456357Z"
+    },
+    "https://trumpstruth.org/statuses/41390": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41390",
+      "source_text": "<p>Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us off for years — NO LONGER! President DJT</p>",
+      "published": "Sun, 30 Aug 2026 13:55:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456437Z"
+    },
+    "https://trumpstruth.org/statuses/41386": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41386",
+      "source_text": "<p>Kristen Welker, the Unpopular “Hostess” of the once great Meet the Press, now considered Meet the Fake Press, just stated that Donald Trump has “mixed results” on his Endorsements of Candidates, when the recent WINS of Darline Graham and Mike Mazzei, stand at 100% for the U.S. Senate, and 98% for the U.S. House, recently and over the longterm. How can anyone be allowed to say this, working for freely given Public Airwaves? Results are attached. Because of this purposeful inaccuracy, she will be reported to the FCC for rebuke or punishment. Unfortunately, she is not the only one. The Radical Left News is going out of their way to harass, demean, and libel anything “TRUMP.” Their new weapon is to say that my 99% SUCCESS Rate on Endorsements, 100% on Senatorial Endorsements (Many of whom were not even given a shot of winning until I Endorsed!), is either a mixed result, or not very good. In actuality, it is, without question, the strongest Endorsement in the History of Politics. If it were not, I would be the first to admit it. Darline Graham’s run for the Senate was the biggest story in all of Politics, because she wasn’t expected to win, and then, when I Endorsed her, and she easily won, the story of her Victory was hardly covered by anybody. Likewise, the future Governor of Oklahoma, who was behind in every Poll, I Endorsed him, he won, and the story was barely covered! The Press is a Disgrace to our Nation, and I hope that Chairman Brendan Carr, and the fine people of his Commission, will take this Threat to our Country very seriously. Thank you for your attention to this very important matter of Fake Polls and Commentary! President DONALD J. TRUMP</p>",
+      "published": "Sun, 30 Aug 2026 13:00:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456669Z"
+    },
+    "https://trumpstruth.org/statuses/41385": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41385",
+      "source_text": "<p>THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT</p>",
+      "published": "Sun, 30 Aug 2026 12:46:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456744Z"
+    },
+    "truth:117185229994000348": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41394",
+      "source_text": "<p></p>",
+      "published": "Sun, 30 Aug 2026 15:45:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456131Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41394"
+    },
+    "truth:117185234758035541": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41393",
+      "source_text": "<p>Google Maps changes Lake Ontario to ‘Lake America’ on US phones: <a href=\"https://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thehill.com/policy/transportat</span><span class=\"invisible\">ion/6059553-google-maps-renames-lake-america/</span></a></p>",
+      "published": "Sun, 30 Aug 2026 15:46:18 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.456055Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41393"
+    },
+    "truth:117185350159023559": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41395",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@sergiogor\">@<span>sergiogor</span></a></span>President Trump is the Greatest JOBS President in American History. He works tirelessly every day to create millions of high-paying Jobs, drive Trillions of Dollars in Investment, and reinvigorate our Economy. Just this week, President Trump and the Prime Minister of Bangladesh made another incredible Deal, with Bangladesh committing to spend Billions of Dollars to buy more Boeing Aircraft, significantly increasing their initial order. Our President is Making America, and our partners, Great Again!</p>",
+      "published": "Sun, 30 Aug 2026 16:29:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-30T16:50:37.455886Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41395"
     }
   }
 }
