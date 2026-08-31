@@ -1999,7 +1999,10 @@
     "https://www.trumpstruth.org/statuses/41432",
     "fp:DOJ Issues Grand Jury Subpoenas Whether “Other Dan Sullivan” Entered Race to CONFUSE VOTERS Against Republican Sen. Dan Sullivan: \nhttps://www.thegate",
     "truth:117190827830091749",
-    "https://www.trumpstruth.org/statuses/41429"
+    "https://www.trumpstruth.org/statuses/41429",
+    "fp:Trump’s policies meat the moment: National beef herd size stabilizes after years of decline: \nhttps://www.washingtonexaminer.com/news/washington-secre",
+    "truth:117190831762974171",
+    "https://www.trumpstruth.org/statuses/41426"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13544,6 +13547,24 @@
       "media_identity": "attachment:117190827830091749:",
       "translation": "司法省が大陪審召喚状を発行「別人の『ダン・サリバン』が共和党上院議員ダン・サリバン候補に対して有権者を『混乱させるため』に出馬したかどうか」について：\nhttps://www.thegatewaypundit.com/2026/08/doj-issues-grand-jury-subpoenas-whether-other-dan/"
     },
+    "truth:117190831762974171": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41426",
+      "source_text": "<p>Trump’s policies meat the moment: National beef herd size stabilizes after years of decline: <a href=\"https://www.washingtonexaminer.com/news/washington-secrets/4689402/national-beef-herd-size-stabilizes-after-years-of-decline/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/wa</span><span class=\"invisible\">shington-secrets/4689402/national-beef-herd-size-stabilizes-after-years-of-decline/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:29:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T17:25:36.119633Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41426",
+      "first_seen": "2026-08-31T16:55:36.101816Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump’s policies meat the moment: National beef herd size stabilizes after years of decline: \nhttps://www.washingtonexaminer.com/news/washington-secre",
+      "truth_social_id": "117190831762974171",
+      "source_fingerprint": "fp:Trump’s policies meat the moment: National beef herd size stabilizes after years of decline: \nhttps://www.washingtonexaminer.com/news/washington-secre",
+      "media_identity": "attachment:117190831762974171:",
+      "translation": "トランプの政策が時宜に適っている：全国の牛群規模が数年の減少の後に安定化：\nhttps://www.washingtonexaminer.com/news/washington-secrets/4689402/national-beef-herd-size-stabilizes-after-years-of-decline/"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14074,7 +14095,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T17:20:38.633494Z",
+      "updated_at": "2026-08-31T17:25:34.299065Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21815,22 +21836,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-31T17:25:48.975488Z"
-    },
-    "truth:117190831762974171": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41426",
-      "source_text": "<p>Trump’s policies meat the moment: National beef herd size stabilizes after years of decline: <a href=\"https://www.washingtonexaminer.com/news/washington-secrets/4689402/national-beef-herd-size-stabilizes-after-years-of-decline/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/wa</span><span class=\"invisible\">shington-secrets/4689402/national-beef-herd-size-stabilizes-after-years-of-decline/</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:29:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:40.957042Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41426",
-      "first_seen": "2026-08-31T16:55:36.101816Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump’s policies meat the moment: National beef herd size stabilizes after years of decline: \nhttps://www.washingtonexaminer.com/news/washington-secre",
-      "next_retry_at": "2026-08-31T17:15:40.957053Z",
-      "truth_social_id": "117190831762974171"
     },
     "truth:117190832762214407": {
       "post_status": "RETRY",
