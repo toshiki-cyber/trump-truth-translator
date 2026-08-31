@@ -13978,7 +13978,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T14:45:37.192542Z",
+      "updated_at": "2026-08-31T14:50:36.822732Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21550,6 +21550,22 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
+    },
+    "truth:117190477440173795": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41411",
+      "source_text": "<p>The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can’t believe it is happening! President DJT</p>",
+      "published": "Mon, 31 Aug 2026 13:59:35 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-31T14:50:37.694456Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41411",
+      "first_seen": "2026-08-31T14:50:37.694420Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want t",
+      "next_retry_at": "2026-08-31T14:55:37.694465Z",
+      "truth_social_id": "117190477440173795"
     }
   }
 }
