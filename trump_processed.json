@@ -2015,7 +2015,10 @@
     "truth:117190837232373323",
     "https://www.trumpstruth.org/statuses/41423",
     "truth:117190838057767304",
-    "https://www.trumpstruth.org/statuses/41422"
+    "https://www.trumpstruth.org/statuses/41422",
+    "fp:Biden-era ‘ghost gun’ restrictions ruled unconstitutional: \nhttps://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional",
+    "truth:117190838921611219",
+    "https://www.trumpstruth.org/statuses/41421"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13760,6 +13763,24 @@
       "media_identity": "attachment:117190838057767304:",
       "translation": "トランプ効果：ベッセント氏、不法移民への減税廃止：\nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/"
     },
+    "truth:117190838921611219": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41421",
+      "source_text": "<p>Biden-era ‘ghost gun’ restrictions ruled unconstitutional: <a href=\"https://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thehill.com/regulation/court-b</span><span class=\"invisible\">attles/6037757-biden-ghost-gun-rule-unconstitutional/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:31 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T18:00:37.061022Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41421",
+      "first_seen": "2026-08-31T16:55:38.709451Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Biden-era ‘ghost gun’ restrictions ruled unconstitutional: \nhttps://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional",
+      "truth_social_id": "117190838921611219",
+      "source_fingerprint": "fp:Biden-era ‘ghost gun’ restrictions ruled unconstitutional: \nhttps://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional",
+      "media_identity": "attachment:117190838921611219:",
+      "translation": "バイデン時代の「幽霊銃」規制は違憲と判断された：\nhttps://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional/"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14290,7 +14311,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T17:55:38.100385Z",
+      "updated_at": "2026-08-31T18:00:35.189457Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21862,22 +21883,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190838921611219": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41421",
-      "source_text": "<p>Biden-era ‘ghost gun’ restrictions ruled unconstitutional: <a href=\"https://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thehill.com/regulation/court-b</span><span class=\"invisible\">attles/6037757-biden-ghost-gun-rule-unconstitutional/</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:31:31 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:43.246247Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41421",
-      "first_seen": "2026-08-31T16:55:38.709451Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Biden-era ‘ghost gun’ restrictions ruled unconstitutional: \nhttps://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional",
-      "next_retry_at": "2026-08-31T17:15:43.246260Z",
-      "truth_social_id": "117190838921611219"
     },
     "truth:117190839730903416": {
       "post_status": "RETRY",
