@@ -13957,7 +13957,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T12:55:34.830101Z",
+      "updated_at": "2026-08-31T13:00:38.746402Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21536,14 +21536,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41410",
       "source_text": "<p>Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 100,000 people dead. They must be tried for war crimes against humanity!), and a good line of “BULLSHIT.” Thank you for your attention to this matter! President DONALD J.TRUMP</p>",
       "published": "Mon, 31 Aug 2026 12:09:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-31T12:50:36.949109Z",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T13:00:39.315958Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41410",
       "first_seen": "2026-08-31T12:50:36.949073Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers o",
-      "next_retry_at": "2026-08-31T12:55:36.949117Z",
+      "next_retry_at": "2026-08-31T13:10:39.315973Z",
       "truth_social_id": "117190043060363335"
     }
   }
