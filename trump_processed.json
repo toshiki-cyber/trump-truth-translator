@@ -2024,7 +2024,10 @@
     "https://www.trumpstruth.org/statuses/41420",
     "fp:Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: \nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lif",
     "truth:117190840659228982",
-    "https://www.trumpstruth.org/statuses/41419"
+    "https://www.trumpstruth.org/statuses/41419",
+    "fp:Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.\nhttps://www.axios.com/2026/08/19/trump-bessent-g20-fin",
+    "truth:117190842890861088",
+    "https://www.trumpstruth.org/statuses/41417"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13823,6 +13826,24 @@
       "media_identity": "attachment:117190840659228982:",
       "translation": "イランが経済的生命線を失うリスク、UAEが貿易停止で：\nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade"
     },
+    "truth:117190842890861088": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41417",
+      "source_text": "<p>Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.<br /><a href=\"https://www.axios.com/2026/08/19/trump-bessent-g20-finance-ministers-asheville\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/19/trump-bes</span><span class=\"invisible\">sent-g20-finance-ministers-asheville</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:32:31 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T18:20:36.348641Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41417",
+      "first_seen": "2026-08-31T16:55:40.349895Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.\nhttps://www.axios.com/2026/08/19/trump-bessent-g20-fin",
+      "truth_social_id": "117190842890861088",
+      "source_fingerprint": "fp:Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.\nhttps://www.axios.com/2026/08/19/trump-bessent-g20-fin",
+      "media_identity": "attachment:117190842890861088:",
+      "translation": "トランプ政権、ノースカロライナ州アッシュビルで財務大臣とCEOを集め経済成長について協議へ\nhttps://www.axios.com/2026/08/19/trump-bessent-g20-finance-ministers-asheville"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14353,7 +14374,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T18:15:36.930937Z",
+      "updated_at": "2026-08-31T18:20:34.456180Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22070,22 +22091,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-31T18:20:45.959959Z"
-    },
-    "truth:117190842890861088": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41417",
-      "source_text": "<p>Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.<br /><a href=\"https://www.axios.com/2026/08/19/trump-bessent-g20-finance-ministers-asheville\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/19/trump-bes</span><span class=\"invisible\">sent-g20-finance-ministers-asheville</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:32:31 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:45.071505Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41417",
-      "first_seen": "2026-08-31T16:55:40.349895Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.\nhttps://www.axios.com/2026/08/19/trump-bessent-g20-fin",
-      "next_retry_at": "2026-08-31T17:15:45.071515Z",
-      "truth_social_id": "117190842890861088"
     },
     "truth:117190843791390411": {
       "post_status": "RETRY",
