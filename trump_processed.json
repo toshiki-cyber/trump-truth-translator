@@ -2042,7 +2042,10 @@
     "https://www.trumpstruth.org/statuses/41414",
     "fp:Trump Hails Defense Pact, Says Mideast 'Coming Together': \nhttps://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/",
     "truth:117190846683312793",
-    "https://www.trumpstruth.org/statuses/41413"
+    "https://www.trumpstruth.org/statuses/41413",
+    "fp:Trump’s “America First” Agenda Brings Another Citizen Home: \nhttps://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home",
+    "truth:117190847678727118",
+    "https://trumpstruth.org/statuses/41412"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13538,6 +13541,24 @@
         }
       ]
     },
+    "truth:117190847678727118": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41412",
+      "source_text": "<p>Trump’s “America First” Agenda Brings Another Citizen Home: <a href=\"https://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/trump-s-ameri</span><span class=\"invisible\">ca-first-agenda-brings-another-citizen-home</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:33:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T19:20:45.866241Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41412",
+      "first_seen": "2026-08-31T16:55:42.720270Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump’s “America First” Agenda Brings Another Citizen Home: \nhttps://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home",
+      "truth_social_id": "117190847678727118",
+      "source_fingerprint": "fp:Trump’s “America First” Agenda Brings Another Citizen Home: \nhttps://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home",
+      "media_identity": "attachment:117190847678727118:",
+      "translation": "トランプの「アメリカ・ファースト」アジェンダが、また一人の国民を家に帰す：\nhttps://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home"
+    },
     "truth:117190829695993949": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -22093,22 +22114,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190847678727118": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41412",
-      "source_text": "<p>Trump’s “America First” Agenda Brings Another Citizen Home: <a href=\"https://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/trump-s-ameri</span><span class=\"invisible\">ca-first-agenda-brings-another-citizen-home</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:33:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-31T18:50:39.106715Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41412",
-      "first_seen": "2026-08-31T16:55:42.720270Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump’s “America First” Agenda Brings Another Citizen Home: \nhttps://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home",
-      "next_retry_at": "2026-08-31T17:15:46.849966Z",
-      "truth_social_id": "117190847678727118"
     },
     "truth:117190848540733687": {
       "post_status": "DISCOVERED",
