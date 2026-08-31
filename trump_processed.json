@@ -2013,7 +2013,9 @@
     "https://www.trumpstruth.org/statuses/41425",
     "fp:Trump admin axes refundable tax credits for illegal migrants, saving taxpayers $3B: \nhttps://nypost.com/2026/08/19/us-news/trump-admin-axes-refundable",
     "truth:117190837232373323",
-    "https://www.trumpstruth.org/statuses/41423"
+    "https://www.trumpstruth.org/statuses/41423",
+    "truth:117190838057767304",
+    "https://www.trumpstruth.org/statuses/41422"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13740,6 +13742,24 @@
       "media_identity": "attachment:117190837232373323:",
       "translation": "トランプ政権が不法移民への返納可能な税額控除を廃止し、納税者は30億ドルを節約する：\nhttps://nypost.com/2026/08/19/us-news/trump-admin-axes-refundable-tax-credits-for-illegal-migrants-saving-taxpayers-3b/"
     },
+    "truth:117190838057767304": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41422",
+      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:17 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T17:55:40.528294Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41422",
+      "first_seen": "2026-08-31T16:55:38.061401Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump Effect: Bessent Ends Tax Breaks for Illegals: \nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/",
+      "truth_social_id": "117190838057767304",
+      "source_fingerprint": "fp:Trump Effect: Bessent Ends Tax Breaks for Illegals: \nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/",
+      "media_identity": "attachment:117190838057767304:",
+      "translation": "トランプ効果：ベッセント氏、不法移民への減税廃止：\nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14270,7 +14290,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T17:50:52.891134Z",
+      "updated_at": "2026-08-31T17:55:38.100385Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21842,22 +21862,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190838057767304": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41422",
-      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:31:17 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:42.852989Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41422",
-      "first_seen": "2026-08-31T16:55:38.061401Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump Effect: Bessent Ends Tax Breaks for Illegals: \nhttps://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/",
-      "next_retry_at": "2026-08-31T17:15:42.853003Z",
-      "truth_social_id": "117190838057767304"
     },
     "truth:117190838921611219": {
       "post_status": "RETRY",
