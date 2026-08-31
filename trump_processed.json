@@ -2018,7 +2018,10 @@
     "https://www.trumpstruth.org/statuses/41422",
     "fp:Biden-era ‘ghost gun’ restrictions ruled unconstitutional: \nhttps://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional",
     "truth:117190838921611219",
-    "https://www.trumpstruth.org/statuses/41421"
+    "https://www.trumpstruth.org/statuses/41421",
+    "fp:Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: \nhttps://www.plantservices.com/industry-ne",
+    "truth:117190839730903416",
+    "https://www.trumpstruth.org/statuses/41420"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13781,6 +13784,24 @@
       "media_identity": "attachment:117190838921611219:",
       "translation": "バイデン時代の「幽霊銃」規制は違憲と判断された：\nhttps://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional/"
     },
+    "truth:117190839730903416": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41420",
+      "source_text": "<p>Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: <a href=\"https://www.plantservices.com/industry-news/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">plantservices.com/industry-new</span><span class=\"invisible\">s/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:43 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T18:05:39.308902Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41420",
+      "first_seen": "2026-08-31T16:55:39.032377Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: \nhttps://www.plantservices.com/industry-ne",
+      "truth_social_id": "117190839730903416",
+      "source_fingerprint": "fp:Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: \nhttps://www.plantservices.com/industry-ne",
+      "media_identity": "attachment:117190839730903416:",
+      "translation": "プリズミアンが北カロライナ州の光ファイバーケーブル製造施設拡張に10億ドル以上を投資する：\nhttps://www.plantservices.com/industry-news/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14311,7 +14332,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T18:00:35.189457Z",
+      "updated_at": "2026-08-31T18:05:36.812385Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21883,22 +21904,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190839730903416": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41420",
-      "source_text": "<p>Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: <a href=\"https://www.plantservices.com/industry-news/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">plantservices.com/industry-new</span><span class=\"invisible\">s/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:31:43 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:43.630009Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41420",
-      "first_seen": "2026-08-31T16:55:39.032377Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: \nhttps://www.plantservices.com/industry-ne",
-      "next_retry_at": "2026-08-31T17:15:43.630022Z",
-      "truth_social_id": "117190839730903416"
     },
     "truth:117190840659228982": {
       "post_status": "RETRY",
