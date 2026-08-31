@@ -2004,7 +2004,10 @@
     "truth:117190831762974171",
     "https://www.trumpstruth.org/statuses/41426",
     "truth:117190830878092057",
-    "https://www.trumpstruth.org/statuses/41427"
+    "https://www.trumpstruth.org/statuses/41427",
+    "fp:https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/",
+    "truth:117190835952782276",
+    "https://www.trumpstruth.org/statuses/41424"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13635,6 +13638,24 @@
         }
       ]
     },
+    "truth:117190835952782276": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41424",
+      "source_text": "<p><a href=\"https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/18/us-news/</span><span class=\"invisible\">trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:30:45 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T17:40:37.157443Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41424",
+      "first_seen": "2026-08-31T16:55:37.007064Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/",
+      "truth_social_id": "117190835952782276",
+      "source_fingerprint": "fp:https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/",
+      "media_identity": "attachment:117190835952782276:",
+      "translation": "https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14165,7 +14186,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T17:35:36.830683Z",
+      "updated_at": "2026-08-31T17:40:36.256899Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21882,22 +21903,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-08-31T17:40:46.077745Z"
-    },
-    "truth:117190835952782276": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41424",
-      "source_text": "<p><a href=\"https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/18/us-news/</span><span class=\"invisible\">trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:30:45 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:41.862063Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41424",
-      "first_seen": "2026-08-31T16:55:37.007064Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/",
-      "next_retry_at": "2026-08-31T17:15:41.862074Z",
-      "truth_social_id": "117190835952782276"
     },
     "truth:117190837232373323": {
       "post_status": "RETRY",
