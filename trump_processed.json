@@ -2036,7 +2036,10 @@
     "https://www.trumpstruth.org/statuses/41416",
     "fp:White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: \nhttps://nypost.com/2026/08/17/us-news/white-house-tak",
     "truth:117190844666700928",
-    "https://www.trumpstruth.org/statuses/41415"
+    "https://www.trumpstruth.org/statuses/41415",
+    "fp:Trump on Iran: Preventing a nuke the 'number one goal': \nhttps://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal",
+    "truth:117190845707966830",
+    "https://www.trumpstruth.org/statuses/41414"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13949,6 +13952,24 @@
       "media_identity": "attachment:117190844666700928:",
       "translation": "ホワイトハウスが医薬品価格が過去1年で3.1%低下したことで勝利宣言、「1963年以来の最大下落率」：\nhttps://nypost.com/2026/08/17/us-news/white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/"
     },
+    "truth:117190845707966830": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41414",
+      "source_text": "<p>Trump on Iran: Preventing a nuke the 'number one goal': <a href=\"https://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-iran-preventing-nuke-number-one-goal</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:33:14 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T18:40:46.190964Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41414",
+      "first_seen": "2026-08-31T16:55:42.068780Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump on Iran: Preventing a nuke the 'number one goal': \nhttps://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal",
+      "truth_social_id": "117190845707966830",
+      "source_fingerprint": "fp:Trump on Iran: Preventing a nuke the 'number one goal': \nhttps://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal",
+      "media_identity": "attachment:117190845707966830:",
+      "translation": "イランに関するトランプ発言：核兵器阻止が「最優先課題」\nhttps://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14479,7 +14500,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T18:35:37.409999Z",
+      "updated_at": "2026-08-31T18:40:43.729709Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22051,22 +22072,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190845707966830": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41414",
-      "source_text": "<p>Trump on Iran: Preventing a nuke the 'number one goal': <a href=\"https://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-iran-preventing-nuke-number-one-goal</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:33:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:46.158145Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41414",
-      "first_seen": "2026-08-31T16:55:42.068780Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump on Iran: Preventing a nuke the 'number one goal': \nhttps://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal",
-      "next_retry_at": "2026-08-31T17:15:46.158155Z",
-      "truth_social_id": "117190845707966830"
     },
     "truth:117190846683312793": {
       "post_status": "RETRY",
