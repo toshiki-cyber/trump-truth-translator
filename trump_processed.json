@@ -21072,7 +21072,7 @@
       "status_url": "https://trumpstruth.org/statuses/41351",
       "source_text": "<p>.<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realdonaldtrump\">@<span>realdonaldtrump</span></a></span> did warn you...</p>",
       "published": "Fri, 28 Aug 2026 15:33:51 +0000",
-      "updated_at": "2026-08-31T03:15:42.242379Z",
+      "updated_at": "2026-08-31T03:20:37.553750Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41350",
       "source_fingerprint": "fp:.\nhttps://truthsocial.com/@realdonaldtrump\n did warn you...",
       "media_identity": "attachment:117173861158086662:781306418874973e-68e8182949ed.mp4",
@@ -21475,14 +21475,14 @@
       "status_url": "https://trumpstruth.org/statuses/41407",
       "source_text": "<p></p>",
       "published": "Mon, 31 Aug 2026 02:19:36 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T03:05:36.639267Z",
+      "retry_count": 3,
+      "updated_at": "2026-08-31T03:20:38.513864Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41407",
       "source_fingerprint": null,
       "media_identity": "attachment:117187725011060792:4202a38eec4c33cd.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/187/722/915/814/266/original/4202a38eec4c33cd.mp4",
       "truth_social_id": "117187725011060792",
-      "next_retry_at": "2026-08-31T03:15:36.639286Z"
+      "next_retry_at": "2026-08-31T03:40:38.513882Z"
     },
     "truth:117187725571191360": {
       "post_status": "RETRY",
