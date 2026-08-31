@@ -2033,7 +2033,10 @@
     "https://www.trumpstruth.org/statuses/41418",
     "fp:Trump Asks Congress to Pass Crypto Bill Alongside Executives: \nhttps://www.bloomberg.com/news/articles/2026-08-19/trump-asks-congress-to-pass-crypto-b",
     "truth:117190843791390411",
-    "https://www.trumpstruth.org/statuses/41416"
+    "https://www.trumpstruth.org/statuses/41416",
+    "fp:White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: \nhttps://nypost.com/2026/08/17/us-news/white-house-tak",
+    "truth:117190844666700928",
+    "https://www.trumpstruth.org/statuses/41415"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13928,6 +13931,24 @@
       "media_identity": "attachment:117190843791390411:",
       "translation": "トランプ氏、議会に暗号資産法案の可決を求める（経営幹部らと共に）：\nhttps://www.bloomberg.com/news/articles/2026-08-19/trump-asks-congress-to-pass-crypto-bill-alongside-executives"
     },
+    "truth:117190844666700928": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41415",
+      "source_text": "<p>White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: <a href=\"https://nypost.com/2026/08/17/us-news/white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/17/us-news/</span><span class=\"invisible\">white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:32:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T18:35:39.709565Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41415",
+      "first_seen": "2026-08-31T16:55:41.764008Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: \nhttps://nypost.com/2026/08/17/us-news/white-house-tak",
+      "truth_social_id": "117190844666700928",
+      "source_fingerprint": "fp:White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: \nhttps://nypost.com/2026/08/17/us-news/white-house-tak",
+      "media_identity": "attachment:117190844666700928:",
+      "translation": "ホワイトハウスが医薬品価格が過去1年で3.1%低下したことで勝利宣言、「1963年以来の最大下落率」：\nhttps://nypost.com/2026/08/17/us-news/white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14458,7 +14479,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T18:30:43.944159Z",
+      "updated_at": "2026-08-31T18:35:37.409999Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22030,22 +22051,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190844666700928": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41415",
-      "source_text": "<p>White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: <a href=\"https://nypost.com/2026/08/17/us-news/white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/17/us-news/</span><span class=\"invisible\">white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:32:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:45.778108Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41415",
-      "first_seen": "2026-08-31T16:55:41.764008Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: \nhttps://nypost.com/2026/08/17/us-news/white-house-tak",
-      "next_retry_at": "2026-08-31T17:15:45.778118Z",
-      "truth_social_id": "117190844666700928"
     },
     "truth:117190845707966830": {
       "post_status": "RETRY",
