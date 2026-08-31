@@ -2021,7 +2021,10 @@
     "https://www.trumpstruth.org/statuses/41421",
     "fp:Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: \nhttps://www.plantservices.com/industry-ne",
     "truth:117190839730903416",
-    "https://www.trumpstruth.org/statuses/41420"
+    "https://www.trumpstruth.org/statuses/41420",
+    "fp:Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: \nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lif",
+    "truth:117190840659228982",
+    "https://www.trumpstruth.org/statuses/41419"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13802,6 +13805,24 @@
       "media_identity": "attachment:117190839730903416:",
       "translation": "プリズミアンが北カロライナ州の光ファイバーケーブル製造施設拡張に10億ドル以上を投資する：\nhttps://www.plantservices.com/industry-news/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina"
     },
+    "truth:117190840659228982": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41419",
+      "source_text": "<p>Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: <a href=\"https://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:57 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T18:10:35.631584Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41419",
+      "first_seen": "2026-08-31T16:55:39.412930Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: \nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lif",
+      "truth_social_id": "117190840659228982",
+      "source_fingerprint": "fp:Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: \nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lif",
+      "media_identity": "attachment:117190840659228982:",
+      "translation": "イランが経済的生命線を失うリスク、UAEが貿易停止で：\nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14332,7 +14353,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T18:05:36.812385Z",
+      "updated_at": "2026-08-31T18:10:34.080108Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21904,22 +21925,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190840659228982": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41419",
-      "source_text": "<p>Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: <a href=\"https://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:31:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:44.280502Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41419",
-      "first_seen": "2026-08-31T16:55:39.412930Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: \nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lif",
-      "next_retry_at": "2026-08-31T17:15:44.280513Z",
-      "truth_social_id": "117190840659228982"
     },
     "truth:117190841665836569": {
       "post_status": "RETRY",
