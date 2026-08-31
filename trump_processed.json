@@ -1991,7 +1991,10 @@
     "https://www.trumpstruth.org/statuses/41410",
     "fp:The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want t",
     "truth:117190477440173795",
-    "https://www.trumpstruth.org/statuses/41411"
+    "https://www.trumpstruth.org/statuses/41411",
+    "fp:CISA warnings expose America’s election security gaps: \nhttps://www.washingtontimes.com/news/2026/aug/16/cisa-warnings-expose-americas-election-securi",
+    "truth:117190829695993949",
+    "https://www.trumpstruth.org/statuses/41428"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13487,15 +13490,31 @@
         }
       ]
     },
-    "truth:117190043060363335": {
+    "truth:117190829695993949": {
       "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41410",
-      "source_text": "<p>Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 100,000 people dead. They must be tried for war crimes against humanity!), and a good line of “BULLSHIT.” Thank you for your attention to this matter! President DONALD J.TRUMP</p>",
-      "published": "Mon, 31 Aug 2026 12:09:07 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T13:15:39.920187Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41410",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41428",
+      "source_text": "<p>CISA warnings expose America’s election security gaps: <a href=\"https://www.washingtontimes.com/news/2026/aug/16/cisa-warnings-expose-americas-election-security-gaps/?srsltid=AfmBOooALWKcQVolAcsd47F8wcdEyntAM6sBV_u-Q5KuD8VlI4WiTCQt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/16/cisa-warnings-expose-americas-election-security-gaps/?srsltid=AfmBOooALWKcQVolAcsd47F8wcdEyntAM6sBV_u-Q5KuD8VlI4WiTCQt</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:29:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:50.707853Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41428",
+      "source_fingerprint": "fp:CISA warnings expose America’s election security gaps: \nhttps://www.washingtontimes.com/news/2026/aug/16/cisa-warnings-expose-americas-election-securi",
+      "media_identity": "attachment:117190829695993949:32dad10e16acb37c.jpg,35707539760ff4ce.jpg,6ef5f5f382d50266.jpg,cf9a4cf07f204fbd.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:CISA warnings expose America’s election security gaps: \nhttps://www.washingtontimes.com/news/2026/aug/16/cisa-warnings-expose-americas-election-securi",
+      "truth_social_id": "117190829695993949",
+      "translation": "CISA警告が露呈する、米国の選挙セキュリティの脆弱性：\nhttps://www.washingtontimes.com/news/2026/aug/16/cisa-warnings-expose-americas-election-security-gaps/?srsltid=AfmBOooALWKcQVolAcsd47F8wcdEyntAM6sBV_u-Q5KuD8VlI4WiTCQt"
+    },
+    "truth:117190043060363335": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41431",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 100,000 people dead. They must be tried for war crimes against humanity!), and a good line of “BULLSHIT.” Thank you for your attention to this matter! President DONALD J.TRUMP</p>",
+      "published": "Mon, 31 Aug 2026 15:36:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.323813Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41431",
       "first_seen": "2026-08-31T12:50:36.949073Z",
       "no_media_confirmations": 3,
       "failure_reason": null,
@@ -13506,14 +13525,14 @@
       "translation": "イランは正式に失敗国家だ。死んだも同然だ！海軍がない、空軍がない、通貨がない、兵士や警察に給料を払っていない、インフレ率は300%だ。指導部は完全に混乱状態にあり、国を適切に代表する能力がない。あるのはアメリカからの偽ニュース、抗議者を殺す意思だけだ（現在10万人以上が死亡している。人道に対する戦争犯罪で裁判にかけられるべき！）、そして上手な「くだらない話」だけだ。この問題にご関心をお寄せいただきありがとう！ドナルド・J・トランプ大統領"
     },
     "truth:117190477440173795": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41411",
-      "source_text": "<p>The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can’t believe it is happening! President DJT</p>",
-      "published": "Mon, 31 Aug 2026 13:59:35 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-31T15:15:41.191931Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41411",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41430",
+      "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can’t believe it is happening! President DJT</p>",
+      "published": "Mon, 31 Aug 2026 15:36:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.323723Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41430",
       "first_seen": "2026-08-31T14:50:37.694420Z",
       "no_media_confirmations": 4,
       "failure_reason": null,
@@ -14017,7 +14036,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T16:45:34.329186Z",
+      "updated_at": "2026-08-31T16:50:39.327824Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -21589,6 +21608,232 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
+    },
+    "truth:117190827830091749": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41429",
+      "source_text": "<p>DOJ Issues Grand Jury Subpoenas Whether “Other Dan Sullivan” Entered Race to CONFUSE VOTERS Against Republican Sen. Dan Sullivan: <a href=\"https://www.thegatewaypundit.com/2026/08/doj-issues-grand-jury-subpoenas-whether-other-dan/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegatewaypundit.com/2026/08/d</span><span class=\"invisible\">oj-issues-grand-jury-subpoenas-whether-other-dan/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:28:41 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-08-31T16:50:40.126502Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41429",
+      "first_seen": "2026-08-31T16:50:40.126470Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:DOJ Issues Grand Jury Subpoenas Whether “Other Dan Sullivan” Entered Race to CONFUSE VOTERS Against Republican Sen. Dan Sullivan: \nhttps://www.thegate",
+      "next_retry_at": "2026-08-31T16:55:40.126511Z",
+      "truth_social_id": "117190827830091749"
+    },
+    "truth:117190830878092057": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41427",
+      "source_text": "<p>FBI had evidence Swalwell got illegal donations from suspected Chinese spy, bombshell memos show: <a href=\"https://justthenews.com/accountability/political-ethics/6amfbi-had-evidence-swalwell-got-illegal-donations-suspected\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/6amfbi-had-evidence-swalwell-got-illegal-donations-suspected</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:29:28 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.325566Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41427"
+    },
+    "truth:117190831762974171": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41426",
+      "source_text": "<p>Trump’s policies meat the moment: National beef herd size stabilizes after years of decline: <a href=\"https://www.washingtonexaminer.com/news/washington-secrets/4689402/national-beef-herd-size-stabilizes-after-years-of-decline/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/news/wa</span><span class=\"invisible\">shington-secrets/4689402/national-beef-herd-size-stabilizes-after-years-of-decline/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:29:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.325474Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41426"
+    },
+    "truth:117190832762214407": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41425",
+      "source_text": "<p>He Bet Big on Trump. The Prize Could Be the Florida Governor’s Mansion.<br /><a href=\"https://www.nytimes.com/2026/08/19/us/elections/byron-donalds-profile-florida-governors-race.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/19/us/elec</span><span class=\"invisible\">tions/byron-donalds-profile-florida-governors-race.html</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:29:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.325390Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41425"
+    },
+    "truth:117190835952782276": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41424",
+      "source_text": "<p><a href=\"https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/18/us-news/</span><span class=\"invisible\">trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:30:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.325292Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41424"
+    },
+    "truth:117190837232373323": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41423",
+      "source_text": "<p>Trump admin axes refundable tax credits for illegal migrants, saving taxpayers $3B: <a href=\"https://nypost.com/2026/08/19/us-news/trump-admin-axes-refundable-tax-credits-for-illegal-migrants-saving-taxpayers-3b/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/19/us-news/</span><span class=\"invisible\">trump-admin-axes-refundable-tax-credits-for-illegal-migrants-saving-taxpayers-3b/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.325212Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41423"
+    },
+    "truth:117190838057767304": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41422",
+      "source_text": "<p>Trump Effect: Bessent Ends Tax Breaks for Illegals: <a href=\"https://www.breitbart.com/politics/2026/08/19/trump-effect-bessent-ends-tax-breaks-for-illegals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/19/trump-effect-bessent-ends-tax-breaks-for-illegals/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.325133Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41422"
+    },
+    "truth:117190838921611219": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41421",
+      "source_text": "<p>Biden-era ‘ghost gun’ restrictions ruled unconstitutional: <a href=\"https://thehill.com/regulation/court-battles/6037757-biden-ghost-gun-rule-unconstitutional/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thehill.com/regulation/court-b</span><span class=\"invisible\">attles/6037757-biden-ghost-gun-rule-unconstitutional/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.325055Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41421"
+    },
+    "truth:117190839730903416": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41420",
+      "source_text": "<p>Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: <a href=\"https://www.plantservices.com/industry-news/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">plantservices.com/industry-new</span><span class=\"invisible\">s/news/55399020/prysmian-invests-more-than-1-billion-to-expand-fiber-optic-cable-manufacturing-facility-in-north-carolina</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:43 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324976Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41420"
+    },
+    "truth:117190840659228982": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41419",
+      "source_text": "<p>Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: <a href=\"https://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-19/iran-risks-losing-key-economic-lifeline-with-uae-halting-trade</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:31:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324897Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41419"
+    },
+    "truth:117190841665836569": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41418",
+      "source_text": "<p>Indiana's Ivy Tech program becomes second in the nation to nab Workforce Pell Grant: <a href=\"https://www.indystar.com/story/news/politics/2026/08/19/indiana-ivy-tech-program-nabs-workforce-pell-grant/91368052007/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">indystar.com/story/news/politi</span><span class=\"invisible\">cs/2026/08/19/indiana-ivy-tech-program-nabs-workforce-pell-grant/91368052007/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:32:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324819Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41418"
+    },
+    "truth:117190842890861088": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41417",
+      "source_text": "<p>Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.<br /><a href=\"https://www.axios.com/2026/08/19/trump-bessent-g20-finance-ministers-asheville\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/19/trump-bes</span><span class=\"invisible\">sent-g20-finance-ministers-asheville</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:32:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324724Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41417"
+    },
+    "truth:117190843791390411": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41416",
+      "source_text": "<p>Trump Asks Congress to Pass Crypto Bill Alongside Executives: <a href=\"https://www.bloomberg.com/news/articles/2026-08-19/trump-asks-congress-to-pass-crypto-bill-alongside-executives\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-08-19/trump-asks-congress-to-pass-crypto-bill-alongside-executives</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:32:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324644Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41416"
+    },
+    "truth:117190844666700928": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41415",
+      "source_text": "<p>White House takes victory lap as drug prices dip 3.1% in past year: ‘Steepest drop since 1963’: <a href=\"https://nypost.com/2026/08/17/us-news/white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/17/us-news/</span><span class=\"invisible\">white-house-takes-victory-lap-as-drug-prices-dip-3-1-in-past-year-steepest-drop-since-1963/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:32:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324565Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41415"
+    },
+    "truth:117190845707966830": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41414",
+      "source_text": "<p>Trump on Iran: Preventing a nuke the 'number one goal': <a href=\"https://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-iran-preventing-nuke-number-one-goal</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:33:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324485Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41414"
+    },
+    "truth:117190846683312793": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41413",
+      "source_text": "<p>Trump Hails Defense Pact, Says Mideast 'Coming Together': <a href=\"https://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/politics/trump-mec</span><span class=\"invisible\">ca-defense-pact-mideast/2026/08/16/id/1266287/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:33:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324405Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41413"
+    },
+    "truth:117190847678727118": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41412",
+      "source_text": "<p>Trump’s “America First” Agenda Brings Another Citizen Home: <a href=\"https://amac.us/newsline/trump-s-america-first-agenda-brings-another-citizen-home\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amac.us/newsline/trump-s-ameri</span><span class=\"invisible\">ca-first-agenda-brings-another-citizen-home</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:33:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324311Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41412"
+    },
+    "truth:117190848540733687": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41436",
+      "source_text": "<p>‘Abolish ICE’ Is Now Official DNC Policy: <a href=\"https://www.dailywire.com/news/dnc-formally-adopts-resolution-calling-for-abolishing-ice\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailywire.com/news/dnc-formall</span><span class=\"invisible\">y-adopts-resolution-calling-for-abolishing-ice</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:33:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324229Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41436"
+    },
+    "truth:117190849749284139": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41435",
+      "source_text": "<p>Democratic Committee Urges Congress to Defund ICE, Free Illegal Migrants: <a href=\"https://www.breitbart.com/immigration/2026/08/17/democratic-committee-urges-congress-to-defund-ice-free-illegal-migrants/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/immigration/2026</span><span class=\"invisible\">/08/17/democratic-committee-urges-congress-to-defund-ice-free-illegal-migrants/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:34:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324147Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41435"
+    },
+    "truth:117190852116503625": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41434",
+      "source_text": "<p>Exclusive: First Lady Melania Trump Facilitates 34th Family Reunification of Children Displaced in Russia-Ukraine War: <a href=\"https://www.breitbart.com/politics/2026/08/17/exclusive-first-lady-melania-trump-facilitates-34th-family-reunification/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/08</span><span class=\"invisible\">/17/exclusive-first-lady-melania-trump-facilitates-34th-family-reunification/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:34:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.324068Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41434"
+    },
+    "truth:117190853591078458": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41433",
+      "source_text": "<p>The Supreme Court will not survive another Democratic trifecta: <a href=\"https://www.washingtonexaminer.com/opinion/editorials/4687679/the-supreme-court-will-not-survive-another-democratic-trifecta-independent-body/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/editorials/4687679/the-supreme-court-will-not-survive-another-democratic-trifecta-independent-body/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:35:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.323987Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41433"
+    },
+    "truth:117190855202153056": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41432",
+      "source_text": "<p></p>",
+      "published": "Mon, 31 Aug 2026 15:35:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-08-31T16:50:39.323907Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41432"
     }
   }
 }
