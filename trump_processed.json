@@ -2039,7 +2039,10 @@
     "https://www.trumpstruth.org/statuses/41415",
     "fp:Trump on Iran: Preventing a nuke the 'number one goal': \nhttps://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal",
     "truth:117190845707966830",
-    "https://www.trumpstruth.org/statuses/41414"
+    "https://www.trumpstruth.org/statuses/41414",
+    "fp:Trump Hails Defense Pact, Says Mideast 'Coming Together': \nhttps://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/",
+    "truth:117190846683312793",
+    "https://www.trumpstruth.org/statuses/41413"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13970,6 +13973,24 @@
       "media_identity": "attachment:117190845707966830:",
       "translation": "イランに関するトランプ発言：核兵器阻止が「最優先課題」\nhttps://justthenews.com/politics-policy/trump-iran-preventing-nuke-number-one-goal"
     },
+    "truth:117190846683312793": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41413",
+      "source_text": "<p>Trump Hails Defense Pact, Says Mideast 'Coming Together': <a href=\"https://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/politics/trump-mec</span><span class=\"invisible\">ca-defense-pact-mideast/2026/08/16/id/1266287/</span></a></p>",
+      "published": "Mon, 31 Aug 2026 15:33:29 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-08-31T18:45:42.327708Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41413",
+      "first_seen": "2026-08-31T16:55:42.404560Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump Hails Defense Pact, Says Mideast 'Coming Together': \nhttps://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/",
+      "truth_social_id": "117190846683312793",
+      "source_fingerprint": "fp:Trump Hails Defense Pact, Says Mideast 'Coming Together': \nhttps://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/",
+      "media_identity": "attachment:117190846683312793:",
+      "translation": "トランプ、防衛協定を称賛、中東が「一致団結しつつある」と述べる：\nhttps://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/"
+    },
     "truth:117190043060363335": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14500,7 +14521,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-08-31T18:40:43.729709Z",
+      "updated_at": "2026-08-31T18:45:38.845074Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22072,22 +22093,6 @@
       "published": "Sun, 30 Aug 2026 22:48:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-08-31T08:50:39.941875Z"
-    },
-    "truth:117190846683312793": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41413",
-      "source_text": "<p>Trump Hails Defense Pact, Says Mideast 'Coming Together': <a href=\"https://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/politics/trump-mec</span><span class=\"invisible\">ca-defense-pact-mideast/2026/08/16/id/1266287/</span></a></p>",
-      "published": "Mon, 31 Aug 2026 15:33:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-31T17:05:46.524235Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41413",
-      "first_seen": "2026-08-31T16:55:42.404560Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump Hails Defense Pact, Says Mideast 'Coming Together': \nhttps://www.newsmax.com/politics/trump-mecca-defense-pact-mideast/2026/08/16/id/1266287/",
-      "next_retry_at": "2026-08-31T17:15:46.524246Z",
-      "truth_social_id": "117190846683312793"
     },
     "truth:117190847678727118": {
       "post_status": "RETRY",
