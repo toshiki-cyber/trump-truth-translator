@@ -14873,7 +14873,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T08:45:45.738133Z",
+      "updated_at": "2026-09-01T08:50:38.937703Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22481,6 +22481,38 @@
       "published": "Mon, 31 Aug 2026 21:24:33 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T02:50:35.693379Z"
+    },
+    "truth:117194670372847111": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41440",
+      "source_text": "<p>Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming normalized. It is out of control! The city will die if the Federal Government, a fine tuned crime fighting machine, is not invited in, by the Mayor or Governor, to HELP. I am awaiting the call. Nobody should be forced to live under these conditions. Like D.C. and others, they will have almost no crime, FAST! The State and City can’t do what I do. Governor Pritzker, CALL!!! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 07:45:54 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-01T08:50:39.589209Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41440",
+      "first_seen": "2026-09-01T08:50:39.589155Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming norm",
+      "next_retry_at": "2026-09-01T08:55:39.589221Z",
+      "truth_social_id": "117194670372847111"
+    },
+    "truth:117194678237730264": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41441",
+      "source_text": "<p><a href=\"https://truthsocial.com/@breitbartnews/117191556794156468\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@breitbartnews</span><span class=\"invisible\">/117191556794156468</span></a></p>",
+      "published": "Tue, 01 Sep 2026 07:47:54 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-01T08:50:40.018630Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41441",
+      "first_seen": "2026-09-01T08:50:40.018562Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://truthsocial.com/@breitbartnews/117191556794156468",
+      "next_retry_at": "2026-09-01T08:55:40.018645Z",
+      "truth_social_id": "117194678237730264"
     }
   }
 }
