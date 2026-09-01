@@ -22648,14 +22648,20 @@
       "updated_at": "2026-09-01T10:50:38.722454Z"
     },
     "truth:117195910590067180": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41443",
       "source_text": "<p>Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once great industry BACK TO AMERICA. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Tue, 01 Sep 2026 13:01:18 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-01T14:50:40.586027Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41443"
+      "retry_count": 1,
+      "updated_at": "2026-09-01T15:20:37.412317Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41443",
+      "first_seen": "2026-09-01T15:20:37.412281Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
+      "next_retry_at": "2026-09-01T15:25:37.412326Z",
+      "truth_social_id": "117195910590067180"
     }
   }
 }
