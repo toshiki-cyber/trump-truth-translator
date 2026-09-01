@@ -2090,7 +2090,10 @@
     "https://www.trumpstruth.org/statuses/41460",
     "fp:Communism is an INHUMAN ideology that has led to DEATH and DESTRUCTION around the World! I have been warning Americans about it for decades, and the t",
     "truth:117197563006552701",
-    "https://www.trumpstruth.org/statuses/41464"
+    "https://www.trumpstruth.org/statuses/41464",
+    "fp:Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
+    "truth:117197596651722690",
+    "https://www.trumpstruth.org/statuses/41465"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13760,6 +13763,22 @@
       "truth_social_id": "117197563006552701",
       "translation": "共産主義は、世界中で死と破壊をもたらした非人道的なイデオロギーだ。私は何十年にもわたってアメリカ人にこれについて警告してきたが、わが国への脅威はかつてないほど大きくなっている。幸いなことに、愛国者ジャック・ポソビエックとジョシュア・リセックは強く反撃し、勝つ方法を知っている。我々は社会主義革命を止めなければならない。『Unhumans』は素晴らしい本だ。今日、あなたのコピーを手に入れよう。ドナルド・J・トランプ大統領\nhttps://amzn.to/4qusHG2"
     },
+    "truth:117197596651722690": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41465",
+      "source_text": "<p>Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 20:10:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-01T21:05:37.450607Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41465",
+      "source_fingerprint": "fp:Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
+      "media_identity": "attachment:117197596651722690:9843bb07f3362d5a.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
+      "truth_social_id": "117197596651722690",
+      "translation": "ジョン・ボイトがアメリカの映画・テレビ産業を支援するためにホワイトハウスに立ち寄った！大統領ドナルド・J・トランプ"
+    },
     "truth:117196950497702512": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15121,7 +15140,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T21:00:39.344404Z",
+      "updated_at": "2026-09-01T21:05:34.629383Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -23172,16 +23191,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-01T21:05:55.759967Z"
-    },
-    "truth:117197596651722690": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41465",
-      "source_text": "<p>Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 20:10:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-01T20:50:45.316887Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41465"
     }
   }
 }
