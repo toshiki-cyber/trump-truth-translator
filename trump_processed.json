@@ -14816,7 +14816,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T03:05:35.892438Z",
+      "updated_at": "2026-09-01T03:10:38.718932Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22207,19 +22207,19 @@
       "next_retry_at": "2026-09-01T03:10:37.124042Z"
     },
     "truth:117184832932244590": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41392",
       "source_text": "<p></p>",
       "published": "Sun, 30 Aug 2026 14:04:07 +0000",
-      "updated_at": "2026-09-01T02:50:35.695626Z",
+      "updated_at": "2026-09-01T03:10:40.488609Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41392",
       "source_fingerprint": null,
       "media_identity": "attachment:117184832932244590:361fdcff946d5e60-d4b8b5a257d6.mp4",
       "truth_social_id": "117184832932244590",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/184/828/370/000/159/original/361fdcff946d5e60.mp4",
-      "retry_count": 0,
-      "next_retry_at": "2026-08-31T19:15:46.120737Z"
+      "retry_count": 1,
+      "next_retry_at": "2026-09-01T03:15:40.488627Z"
     },
     "https://trumpstruth.org/statuses/41391": {
       "post_status": "DISCOVERED",
