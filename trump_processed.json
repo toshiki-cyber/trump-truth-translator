@@ -2132,7 +2132,10 @@
     "https://www.trumpstruth.org/statuses/41453",
     "fp:It is my Great Honor to endorse “MAGA” Mayes Middleton, who is running to be the next Attorney General of the Wonderful State of Texas, a place I love",
     "truth:117197453458260002",
-    "https://www.trumpstruth.org/statuses/41452"
+    "https://www.trumpstruth.org/statuses/41452",
+    "fp:It is my Great Honor to endorse America First Patriot, Warren Petersen, who is running to be the next Attorney General of the Wonderful State of Arizo",
+    "truth:117197473855422431",
+    "https://www.trumpstruth.org/statuses/41462"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14103,6 +14106,24 @@
       "media_identity": "attachment:117197453458260002:",
       "translation": "テキサス州の次期司法長官選に立候補している「MAGA」メイズ・ミドルトンを推薦することは、この上ない栄誉である。テキサスは素晴らしい州であり、私は3度大勝利を収めている。2024年には640万票で勝利した（歴史上最多の得票数である、圧倒的に）。\n\n7世代続くテキサス州民、献身的な牧場主、高く尊敬される州上院議員、そしてミドルトン・オイル・カンパニーの非常に成功した社長であるメイズは、キャリアを通じて「栄誉と勝利に満ちた」ロンスター州への貢献をしてきた。メイズは素晴らしい妻マーサ・アンと4人の美しい子どもたちを持っている。次期司法長官として、メイズは法と秩序を確保し、勇敢な法執行機関と最前線で働く人々を支持し、素晴らしい軍と退役軍人を支援し、選挙を保護し、国境を安全に保ち、移民犯罪を止め、憲法を守り、女性スポーツへの男性参加を防ぎ、常に脅威にさらされている修正第2条を守るために、絶え間なく努力し続けるであろう。\n\n「MAGA」メイズ・ミドルトンは、テキサス州次期司法長官として、私の完全かつ全面的な推薦を得ている――彼は決してお前たちを失望させることはない！"
     },
+    "truth:117197473855422431": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41462",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Warren Petersen, who is running to be the next Attorney General of the Wonderful State of Arizona!<br /> <br />As Arizona Senate President, Warren has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State and Nation. As your next Attorney General, Warren will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.<br /> <br />Warren Petersen has my Complete and Total Endorsement to be the next Attorney General of Arizona — HE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Tue, 01 Sep 2026 19:38:52 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T22:15:43.649706Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41462",
+      "first_seen": "2026-09-01T20:50:52.167450Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Warren Petersen, who is running to be the next Attorney General of the Wonderful State of Arizo",
+      "truth_social_id": "117197473855422431",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Warren Petersen, who is running to be the next Attorney General of the Wonderful State of Arizo",
+      "media_identity": "attachment:117197473855422431:",
+      "translation": "アメリカ・ファースト愛国者で、素晴らしいアリゾナ州の次期司法長官に立候補しているウォーレン・ピーターセンを支持することは、私の大きな栄誉である！\n\nアリゾナ州上院議長として、ウォーレンは彼の素晴らしい州と国の信じられないほどの人々のために強い成果をもたらす勇気と英知を持つことを証明している。次期司法長官として、ウォーレンは法と秩序を確保し、法執行機関と第一対応者を支援し、軍と退役軍人を支援し、選挙を守り、国境を安全に保ち、移民犯罪を阻止し、憲法を守り、常に脅威にさらされている修正第2条を保護するために、絶え間なく戦い続けるだろう。\n\nウォーレン・ピーターセンはアリゾナ州の次期司silon長官になるための私の完全かつ全面的な支持を有する――彼は決してお前たちを失望させることはないだろう！"
+    },
     "truth:117196950497702512": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15464,7 +15485,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T22:10:37.159739Z",
+      "updated_at": "2026-09-01T22:15:37.406056Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -23099,22 +23120,6 @@
       "published": "Tue, 01 Sep 2026 13:01:18 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T16:50:34.658081Z"
-    },
-    "truth:117197473855422431": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41462",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Warren Petersen, who is running to be the next Attorney General of the Wonderful State of Arizona!<br /> <br />As Arizona Senate President, Warren has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State and Nation. As your next Attorney General, Warren will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.<br /> <br />Warren Petersen has my Complete and Total Endorsement to be the next Attorney General of Arizona — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Tue, 01 Sep 2026 19:38:52 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T21:00:44.585532Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41462",
-      "first_seen": "2026-09-01T20:50:52.167450Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Warren Petersen, who is running to be the next Attorney General of the Wonderful State of Arizo",
-      "next_retry_at": "2026-09-01T21:10:44.585548Z",
-      "truth_social_id": "117197473855422431"
     },
     "truth:117197474925322729": {
       "post_status": "RETRY",
