@@ -2099,7 +2099,10 @@
     "https://www.trumpstruth.org/statuses/41463",
     "fp:Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024.\n \nI kno",
     "truth:117197412544797656",
-    "https://www.trumpstruth.org/statuses/41448"
+    "https://www.trumpstruth.org/statuses/41448",
+    "fp:It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iow",
+    "truth:117197413810898126",
+    "https://www.trumpstruth.org/statuses/41447"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13872,6 +13875,24 @@
       "media_identity": "attachment:117197412544797656:",
       "translation": "アシュリー・ヒンソン下院議員はアイオワ州の米国上院議員選挙に出馬している。私は愛するこの州を2016年、2020年、2024年の三度にわたってBIG WINで制した。\n\nアシュリーのことはよく知っているが、彼女はWINNER（勝者）だ！愛する妻であり二人の息子の誇り高き母親であるアシュリーは素晴らしい人物で、アイオワのためにALWAYS（常に）成果を上げてきた。そして米国上院でもそれを継続するだろう。彼女は雇用創出、減税、素晴らしきアイオワの労働者たちが製造したアメリカ製品・サービスの推進、偉大な農民とアメリカ農業の支援、革新の擁護、現在極めて安全になった南部国境の防御の継続、移民犯罪と殺人鬼および他の犯罪者の不法入国の阻止、軍・退役軍人の強化、そして常に攻撃下にある第二修正条項の擁護に懸命に取り組んでいる。\n\nアシュリー・ヒンソンは傑出した上院議員になるだろう。彼女は私の完全なる、総体的な支持を得ている。彼女はあなたたちを失望させることはないだろう！"
     },
+    "truth:117197413810898126": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41447",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!<br /> <br />As a Sixth Generation Iowan, and a very successful Businessman, Zach knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. As a Family Farmer, Zach is an incredibly effective Voice for Iowa Agriculture, our amazing Farmers and Ranchers, and Making America Healthy Again! As your next Governor, Zach will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Zach Lahn has my Complete and Total Endorsement to be the next Governor of Iowa — HE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Tue, 01 Sep 2026 19:23:36 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T21:20:49.988407Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41447",
+      "first_seen": "2026-09-01T20:50:46.714021Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iow",
+      "truth_social_id": "117197413810898126",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iow",
+      "media_identity": "attachment:117197413810898126:",
+      "translation": "素晴らしいアイオワ州の次期知事候補として立候補している素晴らしい候補者で、アメリカ・ファースト愛国者のザック・ラーンを推薦できるのは、私の大きな栄誉である。私は2016年、2020年、2024年にこの州で大勝利を収めた。\n\n6代目のアイオワ州民であり、非常に成功した実業家であるザックは、経済を成長させ、素晴らしい雇用を創出し、税金と規制を削減し、アメリカ製を推進し、アメリカン・エネルギーの優位性を解放するために必要なアメリカ・ファースト政策を知っている。農家として、ザックはアイオワの農業、素晴らしい農民と牧場主、そしてアメリカを再び健康にすることの信じられないほど効果的な声である。次期知事として、ザックは選挙を守り、国境を厳重に保護し、移民犯罪を止め、法と秩序を確保し、信じられない軍と退役軍人を強化し、常に攻撃を受けている修正第2条を守るために、たゆまず努力するだろう。\n\nザック・ラーンはアイオワ州の次期知事になるための私の完全かつ全面的な推薦を得ている。彼はお前たちを失望させることは決してない！"
+    },
     "truth:117196950497702512": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15233,7 +15254,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T21:15:40.927639Z",
+      "updated_at": "2026-09-01T21:20:43.355927Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22868,22 +22889,6 @@
       "published": "Tue, 01 Sep 2026 13:01:18 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T16:50:34.658081Z"
-    },
-    "truth:117197413810898126": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41447",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!<br /> <br />As a Sixth Generation Iowan, and a very successful Businessman, Zach knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. As a Family Farmer, Zach is an incredibly effective Voice for Iowa Agriculture, our amazing Farmers and Ranchers, and Making America Healthy Again! As your next Governor, Zach will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Zach Lahn has my Complete and Total Endorsement to be the next Governor of Iowa — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Tue, 01 Sep 2026 19:23:36 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T21:00:40.598796Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41447",
-      "first_seen": "2026-09-01T20:50:46.714021Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iow",
-      "next_retry_at": "2026-09-01T21:10:40.598811Z",
-      "truth_social_id": "117197413810898126"
     },
     "truth:117197418352887408": {
       "post_status": "RETRY",
