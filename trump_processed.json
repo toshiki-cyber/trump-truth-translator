@@ -14816,7 +14816,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T03:35:45.999766Z",
+      "updated_at": "2026-09-01T03:40:37.606170Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22431,8 +22431,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/41439",
       "source_text": "<p>A great Senator and a great golfer!!! President DJT</p>",
       "published": "Tue, 01 Sep 2026 02:43:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T03:30:36.285622Z",
+      "retry_count": 3,
+      "updated_at": "2026-09-01T03:40:39.708706Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41439",
       "source_fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
       "media_identity": "attachment:117193480976456985:f78f8138c8fa8c35.jpg",
@@ -22440,7 +22440,7 @@
       "fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
       "truth_social_id": "117193480976456985",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-09-01T03:40:36.285639Z"
+      "next_retry_at": "2026-09-01T04:00:39.708722Z"
     }
   }
 }
