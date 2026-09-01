@@ -2075,7 +2075,10 @@
     "https://www.trumpstruth.org/statuses/41441",
     "fp:Cheaper drugs, cheaper beef, cheaper gas. Trump lines up fall affordability before Labor Day: \nhttps://justthenews.com/government/white-house/cheaper-",
     "truth:117195516438814990",
-    "https://www.trumpstruth.org/statuses/41442"
+    "https://www.trumpstruth.org/statuses/41442",
+    "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
+    "truth:117195910590067180",
+    "https://trumpstruth.org/statuses/41443"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13677,6 +13680,24 @@
       "media_identity": "attachment:117194670372847111:",
       "translation": "シカゴの暴力事件は抑止されておらず、記録的水準にある。これまでにないほど悪化している！この週末だけで41人が銃撃され、3人が死亡した。これらの数字が当たり前になってきている。制御不能だ！市長か知事が連邦政府という優れた犯罪対策機構を招き入れて助力を求めなければ、その都市は衰退する。私はその呼び出しを待っている。誰もこのような状況下での生活を強いられるべきではない。ワシントンD.C.や他の都市のように、ほぼ犯罪がなくなり、すぐに改善される。州と市では私ができることはできない。プリツカー知事よ、電話をくれ！！！ドナルド・J・トランプ大統領"
     },
+    "truth:117195910590067180": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41443",
+      "source_text": "<p>Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once great industry BACK TO AMERICA. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 13:01:18 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T15:40:40.079887Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41443",
+      "first_seen": "2026-09-01T15:20:37.412281Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
+      "truth_social_id": "117195910590067180",
+      "source_fingerprint": "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
+      "media_identity": "attachment:117195910590067180:",
+      "translation": "議会における映画・テレビ・エンターテインメント産業活性化法案に対する素晴らしい超党派的な反応と支持がある。われわれはかつて偉大だったこの産業をアメリカに戻す。この問題への注視に感謝する！ドナルド・J・トランプ大統領"
+    },
     "truth:117195516438814990": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -22646,22 +22667,6 @@
       "published": "Tue, 01 Sep 2026 02:43:25 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T10:50:38.722454Z"
-    },
-    "truth:117195910590067180": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41443",
-      "source_text": "<p>Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once great industry BACK TO AMERICA. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 13:01:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T15:25:41.773644Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41443",
-      "first_seen": "2026-09-01T15:20:37.412281Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
-      "next_retry_at": "2026-09-01T15:35:41.773662Z",
-      "truth_social_id": "117195910590067180"
     }
   }
 }
