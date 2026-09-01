@@ -2114,7 +2114,10 @@
     "https://www.trumpstruth.org/statuses/41450",
     "fp:It is my Great Honor to endorse America First Patriot, Dan Green, who is running to represent the fantastic people of Florida’s 9th Congressional Dist",
     "truth:117197440023162426",
-    "https://www.trumpstruth.org/statuses/41449"
+    "https://www.trumpstruth.org/statuses/41449",
+    "fp:It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida’s 11th Congressional District!\n",
+    "truth:117197444316575505",
+    "https://www.trumpstruth.org/statuses/41457"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13977,6 +13980,24 @@
       "media_identity": "attachment:117197440023162426:",
       "translation": "素晴らしい愛国者で「アメリカ・ファースト」を掲げるダン・グリーンがフロリダ州第9下院選挙区の代表として立候補するにあたり、彼を支持することは私の大きな栄誉である！\n\n勇敢な海軍退役軍人であり、私の第1期政権での大統領任命者でもあるダンは、法と秩序を確保し、法執行機関の偉大なヒーローたちを強力に支持し、軍と退役軍人を擁護するために必要な知恵と勇気を持っている。彼の対立候補ダレン・ソトは、チップへの課税廃止、残業代への課税廃止、社会保障への課税廃止に反対票を投じており、もしこいつと民主党員どもが権力を握ったら、これらすべてが廃止されるだろう。ソトは大幅な増税、国境開放、女性スポーツへの男性参加、万人へのトランスジェンダー化を望んでいる。ダレン・ソトは無責任で、過激で、危険だ！\n\n一方、次の下院議員として、ダンは経済成長のために懸命に働き、税金と規制を削減し、「米国製」を推進し、米国のエネルギー支配を擁護し、我が国の国境を安全に保ち、移民犯罪を阻止し、偉大な軍と退役軍人を強化し、常に攻撃の的となっている第2修正条項を守るだろう。\n\nダン・グリーンはフロリダ州第9下院選挙区の次の代表として、私の完全かつ全面的な支持を得ている――彼は君たちを決して失望させることはない！"
     },
+    "truth:117197444316575505": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41457",
+      "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida’s 11th Congressional District!<br /> <br />As a very successful Businessman and Entrepreneur, Joe understands the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. As your next Congressman, he will work tirelessly to Grow the Economy, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Joe Strada has my Complete and Total Endorsement to be the next Representative from Florida’s 11th Congressional District — HE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Tue, 01 Sep 2026 19:31:21 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T21:45:44.212553Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41457",
+      "first_seen": "2026-09-01T20:50:49.125902Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida’s 11th Congressional District!\n",
+      "truth_social_id": "117197444316575505",
+      "source_fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida’s 11th Congressional District!\n",
+      "media_identity": "attachment:117197444316575505:",
+      "translation": "私はMAGA戦士ジョー・ストラーダを推薦できることを大変光栄に思う。彼はフロリダ州第11下院地区の素晴らしい人民を代表して立候補している！\n\n非常に成功したビジネスマンで起業家であるジョーは、素晴らしい雇用を創出し、税金と規制を削減し、アメリカンエネルギーの支配をもたらし、アメリカ製造を推進し、わが国の黄金期を推し進めるために必要なアメリカ第一主義政策を理解している。次期下院議員として、彼は経済を成長させ、われわれの選挙を守り、国境を確保に保ち、移民犯罪を止め、わが国の軍隊と退役軍人を強化し、常に脅威にさらされているわれわれの修正第2条を守るために休まず努力するだろう。\n\nジョー・ストラーダはフロリダ州第11下院地区の次期代表として私の完全かつ絶対的な推薦を得ている――彼はお前たちを決して失望させることはない！"
+    },
     "truth:117196950497702512": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15338,7 +15359,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T21:40:38.131217Z",
+      "updated_at": "2026-09-01T21:45:38.007422Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22973,22 +22994,6 @@
       "published": "Tue, 01 Sep 2026 13:01:18 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T16:50:34.658081Z"
-    },
-    "truth:117197444316575505": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41457",
-      "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida’s 11th Congressional District!<br /> <br />As a very successful Businessman and Entrepreneur, Joe understands the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. As your next Congressman, he will work tirelessly to Grow the Economy, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Joe Strada has my Complete and Total Endorsement to be the next Representative from Florida’s 11th Congressional District — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Tue, 01 Sep 2026 19:31:21 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T21:00:42.288188Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41457",
-      "first_seen": "2026-09-01T20:50:49.125902Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida’s 11th Congressional District!\n",
-      "next_retry_at": "2026-09-01T21:10:42.288204Z",
-      "truth_social_id": "117197444316575505"
     },
     "truth:117197445893521689": {
       "post_status": "RETRY",
