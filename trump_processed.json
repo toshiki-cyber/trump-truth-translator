@@ -2081,7 +2081,10 @@
     "https://trumpstruth.org/statuses/41443",
     "fp:I am pleased to announce that Pastor Darrell Scott, a longtime friend, respected Faith Leader, and tireless Advocate for America’s Underserved Communi",
     "truth:117196703402255872",
-    "https://www.trumpstruth.org/statuses/41444"
+    "https://www.trumpstruth.org/statuses/41444",
+    "fp:The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the ",
+    "truth:117196950497702512",
+    "https://www.trumpstruth.org/statuses/41445"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13719,6 +13722,24 @@
       "media_identity": "attachment:117196703402255872:",
       "translation": "パスター・ダレル・スコットが、長年の友人であり、尊敬される信仰指導者であり、アメリカの過小評価されてきたコミュニティのための不屈の主張者として、CDCの所長に対する顧問委員会（ACD）のたばこ保健問題顧問として、私の行政と私に仕えることになることを発表できることを喜びとしている。\n\n長すぎるほど長く、たばこ関連疾病はアメリカの家族、特にしばしば見落とされ過小評価されてきたコミュニティに計り知れない負担をもたらしてきた。パスター・スコットはこれらのコミュニティを理解しており、彼らが直面する課題を理解しており、人々を一堂に集めて成果を生み出す方法を知っている。選挙公約の実行として、彼の仕事は、危険なたばこ製品からアメリカ国民をより良く保護する方法を真摯に検討することを確保する一方で、害を軽減し命を救うソリューションを支援するのに役立つだろう。パスター・ダレル・スコットは最初からずっと私たちと共にいた。彼は我が国の人民に対する途方もない心を持つ偉大なリーダーである。ありがとうございます、パスター・スコット。アメリカを再び健康で安全にしよう！大統領 ドナルド・J・トランプ"
     },
+    "truth:117196950497702512": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41445",
+      "source_text": "<p>The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the Iranians’ failed attempt at adding sea mines to the Strait, which currently has no mines (They have been completely removed or detonated!), and the Iranians shooting eight missiles, all successfully knocked down, at our Military Base in Jordan. If the failed Nation of Iran retaliates for this very justified attack, they will be hit again at a much harder and higher level, but it will not be the biggest attack of them all, that is waiting in the wings and, when it is over, there will be very little left of the Islamic Republic of Iran! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 17:25:46 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T19:15:41.081493Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41445",
+      "first_seen": "2026-09-01T18:50:42.281340Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the ",
+      "truth_social_id": "117196950497702512",
+      "source_fingerprint": "fp:The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the ",
+      "media_identity": "attachment:117196950497702512:",
+      "translation": "米国は今この瞬間、ホルムズ海峡近くのイラン目標を攻撃している。この攻撃は大規模で強力なものであり、イランがホルムズ海峡に機雷を敷設しようとした失敗した試みへの報復であり（現在、海峡には機雷がない。完全に除去されるか起爆された！）、イランがヨルダンの我々の軍事基地に向けて発射した8発のミサイルすべてが撃ち落とされたことへの報復である。失敗国家イランがこの極めて正当な攻撃に報復する場合、より激しくより高いレベルで再び攻撃されることになるが、それは最大級の攻撃ではなく、その最大級の攻撃は控えの翼に待機しており、それが終わったとき、イスラム共和国イランにはほぼ何も残らないであろう！ドナルド・J・トランプ大統領"
+    },
     "truth:117195516438814990": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -15062,7 +15083,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T19:10:37.401830Z",
+      "updated_at": "2026-09-01T19:15:35.217486Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22697,22 +22718,6 @@
       "published": "Tue, 01 Sep 2026 13:01:18 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T16:50:34.658081Z"
-    },
-    "truth:117196950497702512": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41445",
-      "source_text": "<p>The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the Iranians’ failed attempt at adding sea mines to the Strait, which currently has no mines (They have been completely removed or detonated!), and the Iranians shooting eight missiles, all successfully knocked down, at our Military Base in Jordan. If the failed Nation of Iran retaliates for this very justified attack, they will be hit again at a much harder and higher level, but it will not be the biggest attack of them all, that is waiting in the wings and, when it is over, there will be very little left of the Islamic Republic of Iran! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 17:25:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T19:00:47.838463Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41445",
-      "first_seen": "2026-09-01T18:50:42.281340Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the ",
-      "next_retry_at": "2026-09-01T19:10:47.838478Z",
-      "truth_social_id": "117196950497702512"
     }
   }
 }
