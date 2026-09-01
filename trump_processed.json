@@ -14816,7 +14816,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T03:15:36.998965Z",
+      "updated_at": "2026-09-01T03:20:36.985923Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22426,14 +22426,21 @@
       "updated_at": "2026-09-01T02:50:35.693379Z"
     },
     "truth:117193480976456985": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41439",
       "source_text": "<p>A great Senator and a great golfer!!! President DJT</p>",
       "published": "Tue, 01 Sep 2026 02:43:25 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-01T02:50:35.693201Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41439"
+      "retry_count": 1,
+      "updated_at": "2026-09-01T03:20:38.755873Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41439",
+      "source_fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
+      "media_identity": "attachment:117193480976456985:f78f8138c8fa8c35.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/193/480/521/982/265/small/f78f8138c8fa8c35.jpg",
+      "fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
+      "truth_social_id": "117193480976456985",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-09-01T03:25:38.755886Z"
     }
   }
 }
