@@ -2153,7 +2153,10 @@
     "https://trumpstruth.org/statuses/41468",
     "fp:It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congr",
     "truth:117198053082904336",
-    "https://trumpstruth.org/statuses/41469"
+    "https://trumpstruth.org/statuses/41469",
+    "fp:I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storm",
+    "truth:117198100068865592",
+    "https://trumpstruth.org/statuses/41470"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14252,6 +14255,24 @@
       "media_identity": "attachment:117198053082904336:",
       "translation": "アメリカ・ファースト愛国者で、ケンタッキー州第6選挙区の人々を代表するために立候補しているラルフ・アルバラド医学博士を支持することは、私の大きな栄誉である。\n\n真のMAGA支持者であるラルフは2016年共和党全国大会でフィーチャースピーカーを務め、「トランプ」のための全米ヒスパニック系顧問評議会のメンバーであった――ラルフは最初からずっと私たちと一緒にいた！極めて成功した家庭医であり、ケンタッキー州元州議員であるラルフは、自分のコミュニティへの奉仕に人生を捧げてきた。次期下院議員として、ラルフは経済成長、素晴らしい農民・牧場主の支援、米国エネルギーの支配力強化、減税・規制廃止、米国製商品の推進、国境の厳格化、移民犯罪の防止、勇敢な軍人・退役軍人の支援、そして常に攻撃にさらされている修正第2条の保護のために、たゆまなく戦うだろう。\n\nラルフ・アルバラド医学博士は、ケンタッキー州第6選挙区の次期下院議員となるために、私の完全かつ全面的な支持を得ている――彼は決してあなたたちを失望させることはない！"
     },
+    "truth:117198100068865592": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41470",
+      "source_text": "<p>I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storms, winds, tornadoes, and flooding. I am also granting 1.7 Million Dollars to the Oglala Sioux Tribe for severe storms, tornadoes, and flooding — I have asked the Governor to so inform the Tribe. South Dakota is a special place, which I won by Historic Margins, three times, and I will always deliver BIG for them! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 22:18:07 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T23:55:41.552234Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41470",
+      "first_seen": "2026-09-01T23:15:39.977530Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storm",
+      "truth_social_id": "117198100068865592",
+      "source_fingerprint": "fp:I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storm",
+      "media_identity": "attachment:117198100068865592:",
+      "translation": "南ダコタ州のラリー・ローデン知事と話をしたばかりだ。激しい嵐、風、竜巻、洪水に対して340万ドルの承認を彼に伝えた。また、激しい嵐、竜巻、洪水に対してオグララ・スー族に170万ドルを支給する。知事に対してこのことを部族に伝えるよう求めた。南ダコタ州は特別な場所であり、私は3度にわたって歴史的な大差で勝利を収めた。私は彼らのために常に大きな成果を届ける！ドナルド・J・トランプ大統領"
+    },
     "truth:117197476129988516": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -23495,22 +23516,6 @@
       "published": "Tue, 01 Sep 2026 16:22:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T22:50:36.540400Z"
-    },
-    "truth:117198100068865592": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41470",
-      "source_text": "<p>I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storms, winds, tornadoes, and flooding. I am also granting 1.7 Million Dollars to the Oglala Sioux Tribe for severe storms, tornadoes, and flooding — I have asked the Governor to so inform the Tribe. South Dakota is a special place, which I won by Historic Margins, three times, and I will always deliver BIG for them! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 22:18:07 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T23:25:44.069902Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41470",
-      "first_seen": "2026-09-01T23:15:39.977530Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storm",
-      "next_retry_at": "2026-09-01T23:35:44.069917Z",
-      "truth_social_id": "117198100068865592"
     },
     "truth:117198120605224547": {
       "post_status": "RETRY",
