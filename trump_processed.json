@@ -2150,7 +2150,10 @@
     "https://trumpstruth.org/statuses/41467",
     "fp:I just informed Andy Barr, who is running to be the next Senator from the incredible Commonwealth of Kentucky, that I am approving 9.1 Million Dollars",
     "truth:117198047887443075",
-    "https://trumpstruth.org/statuses/41468"
+    "https://trumpstruth.org/statuses/41468",
+    "fp:It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congr",
+    "truth:117198053082904336",
+    "https://trumpstruth.org/statuses/41469"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14231,6 +14234,24 @@
       "media_identity": "attachment:117198047887443075:",
       "translation": "アンディ・バーが素晴らしいケンタッキー州の次期上院議員の座を目指して立候補していることについて、私は彼に対し、激しい嵐、風、洪水、地滑り、および泥流から回復するために910万ドルを承認することを伝えたばかりだ。ケンタッキー州の素晴らしい国民は回復力があり、聡明で、強靭だ。私は彼らを全面的に支持する。アンディ・バーに投票してくれ。彼は私の完全かつ全面的な支持を得ており、彼は決して諸君を失望させることはない！大統領ドナルド・J・トランプ"
     },
+    "truth:117198053082904336": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41469",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congressional District.<br /> <br />A true friend to MAGA, Ralph was a featured Speaker at the 2016 Republican National Convention, and a Member of the National Hispanic Advisory Council for “TRUMP” – RALPH HAS BEEN WITH US FROM THE VERY BEGINNING! A very successful Family Physician, and former Kentucky State Senator, Ralph has dedicated his life to serving his Community. As your next Congressman, Ralph will fight tirelessly to Grow the Economy, Promote our Amazing Farmers and Ranchers, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Dr. Ralph Alvarado has my Complete and Total Endorsement to be the next Representative from Kentucky’s 6th Congressional District — HE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Tue, 01 Sep 2026 22:06:10 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T23:50:43.607366Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41469",
+      "first_seen": "2026-09-01T23:15:39.519806Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congr",
+      "truth_social_id": "117198053082904336",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congr",
+      "media_identity": "attachment:117198053082904336:",
+      "translation": "アメリカ・ファースト愛国者で、ケンタッキー州第6選挙区の人々を代表するために立候補しているラルフ・アルバラド医学博士を支持することは、私の大きな栄誉である。\n\n真のMAGA支持者であるラルフは2016年共和党全国大会でフィーチャースピーカーを務め、「トランプ」のための全米ヒスパニック系顧問評議会のメンバーであった――ラルフは最初からずっと私たちと一緒にいた！極めて成功した家庭医であり、ケンタッキー州元州議員であるラルフは、自分のコミュニティへの奉仕に人生を捧げてきた。次期下院議員として、ラルフは経済成長、素晴らしい農民・牧場主の支援、米国エネルギーの支配力強化、減税・規制廃止、米国製商品の推進、国境の厳格化、移民犯罪の防止、勇敢な軍人・退役軍人の支援、そして常に攻撃にさらされている修正第2条の保護のために、たゆまなく戦うだろう。\n\nラルフ・アルバラド医学博士は、ケンタッキー州第6選挙区の次期下院議員となるために、私の完全かつ全面的な支持を得ている――彼は決してあなたたちを失望させることはない！"
+    },
     "truth:117197476129988516": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -23474,22 +23495,6 @@
       "published": "Tue, 01 Sep 2026 16:22:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T22:50:36.540400Z"
-    },
-    "truth:117198053082904336": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41469",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congressional District.<br /> <br />A true friend to MAGA, Ralph was a featured Speaker at the 2016 Republican National Convention, and a Member of the National Hispanic Advisory Council for “TRUMP” – RALPH HAS BEEN WITH US FROM THE VERY BEGINNING! A very successful Family Physician, and former Kentucky State Senator, Ralph has dedicated his life to serving his Community. As your next Congressman, Ralph will fight tirelessly to Grow the Economy, Promote our Amazing Farmers and Ranchers, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Dr. Ralph Alvarado has my Complete and Total Endorsement to be the next Representative from Kentucky’s 6th Congressional District — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Tue, 01 Sep 2026 22:06:10 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T23:25:43.723241Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41469",
-      "first_seen": "2026-09-01T23:15:39.519806Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congr",
-      "next_retry_at": "2026-09-01T23:35:43.723255Z",
-      "truth_social_id": "117198053082904336"
     },
     "truth:117198100068865592": {
       "post_status": "RETRY",
