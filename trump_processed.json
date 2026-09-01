@@ -15041,7 +15041,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T17:15:39.878817Z",
+      "updated_at": "2026-09-01T17:20:41.187001Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22678,14 +22678,20 @@
       "updated_at": "2026-09-01T16:50:34.658081Z"
     },
     "truth:117196703402255872": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41444",
       "source_text": "<p>I am pleased to announce that Pastor Darrell Scott, a longtime friend, respected Faith Leader, and tireless Advocate for America’s Underserved Communities, will be serving my Administration and me as an Advisor for tobacco health issues on the Advisory Committee to the Director (ACD) in the CDC.<br /> For far too long, tobacco-related disease has taken an enormous toll on American Families, including Communities that have too often been overlooked and underserved. Pastor Scott understands these Communities, and the challenges they face, and he knows how to bring people together to get RESULTS.  Delivering on a Campaign promise, his work will help ensure that we take a serious look at how we can better protect Americans from dangerous tobacco products, while supporting solutions to reduce harm and SAVE LIVES.   Pastor Darrell Scott has been with us from the very beginning. He is a GREAT LEADER with a tremendous heart for the people of our Country. Thank you Pastor Scott.  MAKE AMERICA HEALTHY AND SAFE AGAIN! President DONALD J. TRUMP</p>",
       "published": "Tue, 01 Sep 2026 16:22:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-01T16:50:34.657964Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41444"
+      "retry_count": 1,
+      "updated_at": "2026-09-01T17:20:42.305648Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41444",
+      "first_seen": "2026-09-01T17:20:42.305615Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I am pleased to announce that Pastor Darrell Scott, a longtime friend, respected Faith Leader, and tireless Advocate for America’s Underserved Communi",
+      "next_retry_at": "2026-09-01T17:25:42.305657Z",
+      "truth_social_id": "117196703402255872"
     }
   }
 }
