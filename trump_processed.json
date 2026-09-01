@@ -15062,7 +15062,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T18:45:40.529518Z",
+      "updated_at": "2026-09-01T18:50:40.932707Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22697,6 +22697,22 @@
       "published": "Tue, 01 Sep 2026 13:01:18 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T16:50:34.658081Z"
+    },
+    "truth:117196950497702512": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41445",
+      "source_text": "<p>The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the Iranians’ failed attempt at adding sea mines to the Strait, which currently has no mines (They have been completely removed or detonated!), and the Iranians shooting eight missiles, all successfully knocked down, at our Military Base in Jordan. If the failed Nation of Iran retaliates for this very justified attack, they will be hit again at a much harder and higher level, but it will not be the biggest attack of them all, that is waiting in the wings and, when it is over, there will be very little left of the Islamic Republic of Iran! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 17:25:46 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-01T18:50:42.281386Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41445",
+      "first_seen": "2026-09-01T18:50:42.281340Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the ",
+      "next_retry_at": "2026-09-01T18:55:42.281396Z",
+      "truth_social_id": "117196950497702512"
     }
   }
 }
