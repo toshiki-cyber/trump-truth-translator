@@ -2066,7 +2066,10 @@
     "https://trumpstruth.org/statuses/41438",
     "fp:A great Senator and a great golfer!!! President DJT",
     "truth:117193480976456985",
-    "https://www.trumpstruth.org/statuses/41439"
+    "https://www.trumpstruth.org/statuses/41439",
+    "fp:Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming norm",
+    "truth:117194670372847111",
+    "https://www.trumpstruth.org/statuses/41440"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13650,6 +13653,24 @@
         }
       ]
     },
+    "truth:117194670372847111": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41440",
+      "source_text": "<p>Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming normalized. It is out of control! The city will die if the Federal Government, a fine tuned crime fighting machine, is not invited in, by the Mayor or Governor, to HELP. I am awaiting the call. Nobody should be forced to live under these conditions. Like D.C. and others, they will have almost no crime, FAST! The State and City can’t do what I do. Governor Pritzker, CALL!!! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 07:45:54 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T09:15:39.090210Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41440",
+      "first_seen": "2026-09-01T08:50:39.589155Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming norm",
+      "truth_social_id": "117194670372847111",
+      "source_fingerprint": "fp:Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming norm",
+      "media_identity": "attachment:117194670372847111:",
+      "translation": "シカゴの暴力事件は抑止されておらず、記録的水準にある。これまでにないほど悪化している！この週末だけで41人が銃撃され、3人が死亡した。これらの数字が当たり前になってきている。制御不能だ！市長か知事が連邦政府という優れた犯罪対策機構を招き入れて助力を求めなければ、その都市は衰退する。私はその呼び出しを待っている。誰もこのような状況下での生活を強いられるべきではない。ワシントンD.C.や他の都市のように、ほぼ犯罪がなくなり、すぐに改善される。州と市では私ができることはできない。プリツカー知事よ、電話をくれ！！！ドナルド・J・トランプ大統領"
+    },
     "truth:117190847678727118": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14873,7 +14894,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T09:10:36.669897Z",
+      "updated_at": "2026-09-01T09:15:34.886566Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22481,22 +22502,6 @@
       "published": "Mon, 31 Aug 2026 21:24:33 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T02:50:35.693379Z"
-    },
-    "truth:117194670372847111": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41440",
-      "source_text": "<p>Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming normalized. It is out of control! The city will die if the Federal Government, a fine tuned crime fighting machine, is not invited in, by the Mayor or Governor, to HELP. I am awaiting the call. Nobody should be forced to live under these conditions. Like D.C. and others, they will have almost no crime, FAST! The State and City can’t do what I do. Governor Pritzker, CALL!!! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 07:45:54 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T09:00:40.537522Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41440",
-      "first_seen": "2026-09-01T08:50:39.589155Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Chicago violence is unchecked and at record levels. It has never been worse! This weekend 41 people were shot, 3 DEAD. These numbers are becoming norm",
-      "next_retry_at": "2026-09-01T09:10:40.537536Z",
-      "truth_social_id": "117194670372847111"
     },
     "truth:117194678237730264": {
       "post_status": "RETRY",
