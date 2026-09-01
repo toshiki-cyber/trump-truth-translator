@@ -2063,7 +2063,10 @@
     "https://trumpstruth.org/statuses/41437",
     "fp:I just had a GREAT and very interesting meeting with my Hollywood Ambassador and Movie Legend, Jon Voight! He is a fantastic man who loves our Country",
     "truth:117192406705033763",
-    "https://trumpstruth.org/statuses/41438"
+    "https://trumpstruth.org/statuses/41438",
+    "fp:A great Senator and a great golfer!!! President DJT",
+    "truth:117193480976456985",
+    "https://www.trumpstruth.org/statuses/41439"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -13593,6 +13596,60 @@
       "media_identity": "attachment:117192406705033763:",
       "translation": "私はハリウッド大使で映画の大物、ジョン・ヴォイトと素晴らしく非常に興味深い会談を行ったばかりだ！彼は我が国を愛し、映画・テレビ産業について強い信念を持つ素晴らしい人物である。彼はこの産業に何が起きたかを憎んでいる！それは全体的に衰退している。カナダや他国に移転し、もはやアメリカではほとんど仕事がなくなっている。ハリウッドは完全かつ総合的に失敗している！名前に反して、仕事がほとんどないのだ。そこにいるインセンティブがなく、カリフォルニアに非常な損害を与えている。ジョンと業界の多くの人々が、映画・テレビ製作事業を再び偉大にするため、あるいは史上最高に偉大にするために、連邦税制インセンティブを実施することを提案している！税制インセンティブに費やされた金額は、財務省の庫へ流入する金によって十倍返される。両党の指導者との会談を設定している。特にカリフォルニアや他の圧倒的に民主党州で多くの金が失われているので、これは超党派的であるべきだ。共和党と民主党が一堂に会し、直ちにアメリカの映画・テレビ・エンターテインメント事業を救うための法案を起案することを提案するつもりだ。議会はアメリカにエンターテインメント雇用を創出するための連邦製作インセンティブを直ちに承認すべきだ。それは迅速に、正確に、効率的に実行でき、重要なことに、アメリカ全体に利益をもたらす。銀幕で見るものは、かつての映画・映像産業の中心地で製作されるべきだ。これを実現しよう！ドナルド・J・トランプ大統領"
     },
+    "truth:117193480976456985": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41439",
+      "source_text": "<p>A great Senator and a great golfer!!! President DJT</p>",
+      "published": "Tue, 01 Sep 2026 02:43:25 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-01T05:00:36.787696Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41439",
+      "source_fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
+      "media_identity": "attachment:117193480976456985:f78f8138c8fa8c35.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
+      "truth_social_id": "117193480976456985",
+      "translation": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mugfl2jlis2u",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
+        "createdAt": "2026-09-01T04:50:42.421184Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreie6ti66qymg7mrs5oqxwnwxnbmqicljqt2hakhnpb7gvxvh5c4fnm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 201155
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 828
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
+          "rkey": "3mugfl2jlis2u"
+        }
+      ]
+    },
     "truth:117190847678727118": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -14816,7 +14873,7 @@
       "source_text": "<p></p>",
       "published": "Sat, 29 Aug 2026 21:36:35 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-01T04:55:40.227921Z",
+      "updated_at": "2026-09-01T05:00:35.028874Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41375",
       "source_fingerprint": null,
       "media_identity": "attachment:117180949829008293:a1c20a570ec63b59-324a073fd990.mov",
@@ -22424,137 +22481,6 @@
       "published": "Mon, 31 Aug 2026 21:24:33 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T02:50:35.693379Z"
-    },
-    "truth:117193480976456985": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41439",
-      "source_text": "<p>A great Senator and a great golfer!!! President DJT</p>",
-      "published": "Tue, 01 Sep 2026 02:43:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-01T04:50:49.191410Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41439",
-      "source_fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
-      "media_identity": "attachment:117193480976456985:f78f8138c8fa8c35.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
-      "truth_social_id": "117193480976456985",
-      "failure_stage": "VERIFY",
-      "translation": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
-          "cid": "bafyreighqehszh5l76fvhhao7xdose55myd2pu25draoprqcnyegucdwfm"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
-          "cid": "bafyreighqehszh5l76fvhhao7xdose55myd2pu25draoprqcnyegucdwfm"
-        },
-        "next_index": 1,
-        "last_rkey": "3mugfl2jlis2u",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
-          "createdAt": "2026-09-01T04:50:42.421184Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie6ti66qymg7mrs5oqxwnwxnbmqicljqt2hakhnpb7gvxvh5c4fnm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 201155
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 828
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mugfl2jlis2u",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
-          "createdAt": "2026-09-01T04:50:42.421184Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreie6ti66qymg7mrs5oqxwnwxnbmqicljqt2hakhnpb7gvxvh5c4fnm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 201155
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 828
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
-            "rkey": "3mugfl2jlis2u"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mugfl2jlis2u",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
-        "createdAt": "2026-09-01T04:50:42.421184Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreie6ti66qymg7mrs5oqxwnwxnbmqicljqt2hakhnpb7gvxvh5c4fnm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 201155
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 828
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
-          "rkey": "3mugfl2jlis2u"
-        }
-      ],
-      "next_retry_at": "2026-09-01T04:55:49.191425Z"
     }
   }
 }
