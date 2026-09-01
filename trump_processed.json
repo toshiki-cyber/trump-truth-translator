@@ -2147,7 +2147,10 @@
     "https://trumpstruth.org/statuses/41466",
     "fp:I just spoke to the future Senator (Hopefully!) from the Great State of Iowa, Ashley Hinson, and told her that I am approving 5 Million Dollars for th",
     "truth:117198000150017380",
-    "https://trumpstruth.org/statuses/41467"
+    "https://trumpstruth.org/statuses/41467",
+    "fp:I just informed Andy Barr, who is running to be the next Senator from the incredible Commonwealth of Kentucky, that I am approving 9.1 Million Dollars",
+    "truth:117198047887443075",
+    "https://trumpstruth.org/statuses/41468"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14210,6 +14213,24 @@
       "media_identity": "attachment:117198000150017380:",
       "translation": "先ほど、素晴らしいアイオワ州の次期上院議員（願わくば！）であるアシュリー・ハンソンと話したところだが、彼女に対して最近経験した激しい嵐と洪水に対して500万ドルの承認を与えることを伝えた。私はアイオワを愛している。そして3度すべてにおいて、記録的な大差で大勝利を収めた。アイオワは迅速に回復し、かつてないほど強くなるだろう！大統領 ドナルド・J・トランプ"
     },
+    "truth:117198047887443075": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41468",
+      "source_text": "<p>I just informed Andy Barr, who is running to be the next Senator from the incredible Commonwealth of Kentucky, that I am approving 9.1 Million Dollars for severe storms, winds, flooding, landslides, and mudslides, that they are recovering from. The Great People of Kentucky are resilient, smart, and tough, and I am with them all the way. Vote for Andy Barr — He has my Complete and Total Endorsement, and he will never let you down! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 22:04:51 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-01T23:45:38.797745Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41468",
+      "first_seen": "2026-09-01T23:15:39.039492Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I just informed Andy Barr, who is running to be the next Senator from the incredible Commonwealth of Kentucky, that I am approving 9.1 Million Dollars",
+      "truth_social_id": "117198047887443075",
+      "source_fingerprint": "fp:I just informed Andy Barr, who is running to be the next Senator from the incredible Commonwealth of Kentucky, that I am approving 9.1 Million Dollars",
+      "media_identity": "attachment:117198047887443075:",
+      "translation": "アンディ・バーが素晴らしいケンタッキー州の次期上院議員の座を目指して立候補していることについて、私は彼に対し、激しい嵐、風、洪水、地滑り、および泥流から回復するために910万ドルを承認することを伝えたばかりだ。ケンタッキー州の素晴らしい国民は回復力があり、聡明で、強靭だ。私は彼らを全面的に支持する。アンディ・バーに投票してくれ。彼は私の完全かつ全面的な支持を得ており、彼は決して諸君を失望させることはない！大統領ドナルド・J・トランプ"
+    },
     "truth:117197476129988516": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -23453,22 +23474,6 @@
       "published": "Tue, 01 Sep 2026 16:22:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-01T22:50:36.540400Z"
-    },
-    "truth:117198047887443075": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41468",
-      "source_text": "<p>I just informed Andy Barr, who is running to be the next Senator from the incredible Commonwealth of Kentucky, that I am approving 9.1 Million Dollars for severe storms, winds, flooding, landslides, and mudslides, that they are recovering from. The Great People of Kentucky are resilient, smart, and tough, and I am with them all the way. Vote for Andy Barr — He has my Complete and Total Endorsement, and he will never let you down! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 22:04:51 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T23:25:43.227201Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41468",
-      "first_seen": "2026-09-01T23:15:39.039492Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I just informed Andy Barr, who is running to be the next Senator from the incredible Commonwealth of Kentucky, that I am approving 9.1 Million Dollars",
-      "next_retry_at": "2026-09-01T23:35:43.227216Z",
-      "truth_social_id": "117198047887443075"
     },
     "truth:117198053082904336": {
       "post_status": "RETRY",
