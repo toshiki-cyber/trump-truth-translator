@@ -24199,6 +24199,22 @@
       "published": "Wed, 02 Sep 2026 14:36:22 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-02T18:21:11.721428Z"
+    },
+    "truth:117203256670423247": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41487",
+      "source_text": "<p>Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Wed, 02 Sep 2026 20:09:30 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-02T20:21:16.788562Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41487",
+      "first_seen": "2026-09-02T20:21:16.788526Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google",
+      "next_retry_at": "2026-09-02T20:26:16.788571Z",
+      "truth_social_id": "117203256670423247"
     }
   }
 }
