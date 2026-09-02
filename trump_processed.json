@@ -2200,7 +2200,10 @@
     "https://trumpstruth.org/statuses/41485",
     "fp:Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ev",
     "truth:117202132375758936",
-    "https://trumpstruth.org/statuses/41486"
+    "https://trumpstruth.org/statuses/41486",
+    "fp:Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google",
+    "truth:117203256670423247",
+    "https://www.trumpstruth.org/statuses/41487"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14515,6 +14518,42 @@
       "media_identity": "attachment:117202132375758936:",
       "translation": "米国の管理下に置かれた今、ホルムズ海峡の名称をトランプ海峡に変更すべきではないか？米国そのものと同様に、かつてないほど「ホット」になるだろう！この件へのご注目ありがとうございます。ドナルド・J・トランプ大統領"
     },
+    "truth:117203256670423247": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41487",
+      "source_text": "<p>Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Wed, 02 Sep 2026 20:09:30 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-02T20:56:14.919600Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41487",
+      "first_seen": "2026-09-02T20:21:16.788526Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google",
+      "truth_social_id": "117203256670423247",
+      "source_fingerprint": "fp:Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google",
+      "media_identity": "attachment:117203256670423247:",
+      "translation": "アップルマップスは、オンタリオ湖の名前をレイク・アメリカに変更したと発表したばかりだ。これで、グーグルマップスとアップルマップスの間の、この非常に重要な名称変更が完全に完了し、批准され、拘束力を持つようになった。この件へのご注視をありがとう！大統領 ドナルド・J・トランプ",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mukqijltv23j",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mukqijltv23j",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "アップルマップスは、オンタリオ湖の名前をレイク・アメリカに変更したと発表したばかりだ。これで、グーグルマップスとアップルマップスの間の、この非常に重要な名称変更が完全に完了し、批准され、拘束力を持つようになった。この件へのご注視をありがとう！大統領 ドナルド・J・トランプ",
+        "createdAt": "2026-09-02T20:46:25.605381Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mukqijltv23j",
+          "rkey": "3mukqijltv23j"
+        }
+      ]
+    },
     "truth:117201326595105097": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24199,79 +24238,6 @@
       "published": "Wed, 02 Sep 2026 14:36:22 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-02T18:21:11.721428Z"
-    },
-    "truth:117203256670423247": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41487",
-      "source_text": "<p>Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Wed, 02 Sep 2026 20:09:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-02T20:46:32.060682Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41487",
-      "first_seen": "2026-09-02T20:21:16.788526Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google",
-      "truth_social_id": "117203256670423247",
-      "source_fingerprint": "fp:Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google",
-      "media_identity": "attachment:117203256670423247:",
-      "translation": "アップルマップスは、オンタリオ湖の名前をレイク・アメリカに変更したと発表したばかりだ。これで、グーグルマップスとアップルマップスの間の、この非常に重要な名称変更が完全に完了し、批准され、拘束力を持つようになった。この件へのご注視をありがとう！大統領 ドナルド・J・トランプ",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mukqijltv23j",
-          "cid": "bafyreifuqnlkhkbwrsvrp37dxozpsflqoqiajbimo45ozy6vd4b37nrbn4"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mukqijltv23j",
-          "cid": "bafyreifuqnlkhkbwrsvrp37dxozpsflqoqiajbimo45ozy6vd4b37nrbn4"
-        },
-        "next_index": 1,
-        "last_rkey": "3mukqijltv23j",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "アップルマップスは、オンタリオ湖の名前をレイク・アメリカに変更したと発表したばかりだ。これで、グーグルマップスとアップルマップスの間の、この非常に重要な名称変更が完全に完了し、批准され、拘束力を持つようになった。この件へのご注視をありがとう！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-09-02T20:46:25.605381Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mukqijltv23j",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "アップルマップスは、オンタリオ湖の名前をレイク・アメリカに変更したと発表したばかりだ。これで、グーグルマップスとアップルマップスの間の、この非常に重要な名称変更が完全に完了し、批准され、拘束力を持つようになった。この件へのご注視をありがとう！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-09-02T20:46:25.605381Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mukqijltv23j",
-            "rkey": "3mukqijltv23j"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mukqijltv23j",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mukqijltv23j",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "アップルマップスは、オンタリオ湖の名前をレイク・アメリカに変更したと発表したばかりだ。これで、グーグルマップスとアップルマップスの間の、この非常に重要な名称変更が完全に完了し、批准され、拘束力を持つようになった。この件へのご注視をありがとう！大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-09-02T20:46:25.605381Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mukqijltv23j",
-          "rkey": "3mukqijltv23j"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-02T20:51:32.060702Z"
     }
   }
 }
