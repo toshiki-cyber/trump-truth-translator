@@ -2181,7 +2181,10 @@
     "truth:117198788283772326",
     "https://trumpstruth.org/statuses/41477",
     "truth:117198808039611928",
-    "https://trumpstruth.org/statuses/41478"
+    "https://trumpstruth.org/statuses/41478",
+    "fp:Woman is indicted over World War II Memorial vandalism incident:\nhttps://www.washingtonpost.com/dc-md-va/2026/08/28/melissa-farris-suspect-wwii-memori",
+    "truth:117198896372245586",
+    "https://trumpstruth.org/statuses/41481"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14493,6 +14496,24 @@
       "media_identity": "attachment:117198808039611928:",
       "translation": "トランプが対イラン戦争で勝利しつつある—現在の方針を貫け：\nhttps://nypost.com/2026/08/23/opinion/trump-is-winning-the-iran-war-stay-the-course/"
     },
+    "truth:117198896372245586": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41481",
+      "source_text": "<p>Woman is indicted over World War II Memorial vandalism incident:<br /><a href=\"https://www.washingtonpost.com/dc-md-va/2026/08/28/melissa-farris-suspect-wwii-memorial-vandalism-indicted-two-charges/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/dc-md-va/20</span><span class=\"invisible\">26/08/28/melissa-farris-suspect-wwii-memorial-vandalism-indicted-two-charges/</span></a></p>",
+      "published": "Wed, 02 Sep 2026 01:40:38 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-02T03:30:35.967715Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41481",
+      "first_seen": "2026-09-02T02:55:34.167192Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Woman is indicted over World War II Memorial vandalism incident:\nhttps://www.washingtonpost.com/dc-md-va/2026/08/28/melissa-farris-suspect-wwii-memori",
+      "truth_social_id": "117198896372245586",
+      "source_fingerprint": "fp:Woman is indicted over World War II Memorial vandalism incident:\nhttps://www.washingtonpost.com/dc-md-va/2026/08/28/melissa-farris-suspect-wwii-memori",
+      "media_identity": "attachment:117198896372245586:",
+      "translation": "女性が第二次世界大戦メモリアルの器物損壊事件で起訴される：\nhttps://www.washingtonpost.com/dc-md-va/2026/08/28/melissa-farris-suspect-wwii-memorial-vandalism-indicted-two-charges/"
+    },
     "truth:117197476129988516": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -23881,22 +23902,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-02T03:31:01.287159Z"
-    },
-    "truth:117198896372245586": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41481",
-      "source_text": "<p>Woman is indicted over World War II Memorial vandalism incident:<br /><a href=\"https://www.washingtonpost.com/dc-md-va/2026/08/28/melissa-farris-suspect-wwii-memorial-vandalism-indicted-two-charges/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/dc-md-va/20</span><span class=\"invisible\">26/08/28/melissa-farris-suspect-wwii-memorial-vandalism-indicted-two-charges/</span></a></p>",
-      "published": "Wed, 02 Sep 2026 01:40:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-02T03:00:39.946027Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41481",
-      "first_seen": "2026-09-02T02:55:34.167192Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Woman is indicted over World War II Memorial vandalism incident:\nhttps://www.washingtonpost.com/dc-md-va/2026/08/28/melissa-farris-suspect-wwii-memori",
-      "next_retry_at": "2026-09-02T03:10:39.946043Z",
-      "truth_social_id": "117198896372245586"
     }
   }
 }
