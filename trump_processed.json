@@ -23620,20 +23620,77 @@
       "updated_at": "2026-09-01T22:50:36.540400Z"
     },
     "truth:117198235291587483": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://trumpstruth.org/statuses/41475",
       "source_text": "<p>I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy. We need Patriots like Hung leading our Navy and Marine Corps, and I can think of no one better than him to make sure our Great Navy and Marine Corps remain the FIERCEST and BEST Force the World has ever seen. The Senate needs to confirm this Warfighter, ASAP, so he can continue the fantastic work he has been doing over the past 4 months. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Tue, 01 Sep 2026 22:52:30 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-02T00:55:39.882688Z",
+      "retry_count": 1,
+      "updated_at": "2026-09-02T01:10:47.716111Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41475",
       "first_seen": "2026-09-02T00:50:38.433276Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy. We need Patriots like Hung leading our Navy and Marine Co",
-      "next_retry_at": "2026-09-02T01:05:39.882700Z",
-      "truth_social_id": "117198235291587483"
+      "truth_social_id": "117198235291587483",
+      "source_fingerprint": "fp:I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy. We need Patriots like Hung leading our Navy and Marine Co",
+      "media_identity": "attachment:117198235291587483:",
+      "translation": "私は真の戦士ホン・カオを次期海軍長官に指名することを嬉しく思う。我々の海軍と海兵隊を率いるホンのような愛国者が必要であり、我々の偉大な海軍と海兵隊が世界がこれまで見たことのない最も激しく最高の戦力であり続けることを確保するために、彼以上に適任の者を思い当たらない。上院はこの戦士を直ちに承認する必要があり、彼は過去4ヶ月間行ってきた素晴らしい仕事を継続することができる。本件へのご注意をありがとう！ドナルド・J・トランプ大統領",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muij52w3vsgg",
+          "cid": "bafyreif3fkoewfzx7aftav2jcie7zrmrys3kyrts2qbezefkqkuvqijdce"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muij52w3vsgg",
+          "cid": "bafyreif3fkoewfzx7aftav2jcie7zrmrys3kyrts2qbezefkqkuvqijdce"
+        },
+        "next_index": 1,
+        "last_rkey": "3muij52w3vsgg",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "私は真の戦士ホン・カオを次期海軍長官に指名することを嬉しく思う。我々の海軍と海兵隊を率いるホンのような愛国者が必要であり、我々の偉大な海軍と海兵隊が世界がこれまで見たことのない最も激しく最高の戦力であり続けることを確保するために、彼以上に適任の者を思い当たらない。上院はこの戦士を直ちに承認する必要があり、彼は過去4ヶ月間行ってきた素晴らしい仕事を継続することができる。本件へのご注意をありがとう！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-09-02T01:10:41.246518Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "root_rkey": "3muij52w3vsgg",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "私は真の戦士ホン・カオを次期海軍長官に指名することを嬉しく思う。我々の海軍と海兵隊を率いるホンのような愛国者が必要であり、我々の偉大な海軍と海兵隊が世界がこれまで見たことのない最も激しく最高の戦力であり続けることを確保するために、彼以上に適任の者を思い当たらない。上院はこの戦士を直ちに承認する必要があり、彼は過去4ヶ月間行ってきた素晴らしい仕事を継続することができる。本件へのご注意をありがとう！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-09-02T01:10:41.246518Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muij52w3vsgg",
+            "rkey": "3muij52w3vsgg"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muij52w3vsgg",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3muij52w3vsgg",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "私は真の戦士ホン・カオを次期海軍長官に指名することを嬉しく思う。我々の海軍と海兵隊を率いるホンのような愛国者が必要であり、我々の偉大な海軍と海兵隊が世界がこれまで見たことのない最も激しく最高の戦力であり続けることを確保するために、彼以上に適任の者を思い当たらない。上院はこの戦士を直ちに承認する必要があり、彼は過去4ヶ月間行ってきた素晴らしい仕事を継続することができる。本件へのご注意をありがとう！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-09-02T01:10:41.246518Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muij52w3vsgg",
+          "rkey": "3muij52w3vsgg"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-09-02T01:15:47.716124Z"
     },
     "truth:117198246813661789": {
       "post_status": "RETRY",
