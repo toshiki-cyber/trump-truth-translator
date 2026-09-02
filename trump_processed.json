@@ -2168,7 +2168,10 @@
     "https://trumpstruth.org/statuses/41473",
     "fp:I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5",
     "truth:117198196070322926",
-    "https://trumpstruth.org/statuses/41474"
+    "https://trumpstruth.org/statuses/41474",
+    "fp:Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong,",
+    "truth:117198246813661789",
+    "https://trumpstruth.org/statuses/41476"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14375,6 +14378,24 @@
         }
       ]
     },
+    "truth:117198246813661789": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41476",
+      "source_text": "<p>Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong, resilient, and filled with incredible people. After Hurricane Helene, Sleepy Joe turned his back on this beautiful State, but as soon as I came into Office, I worked hard, and got everything done in record time. I NEVER forgot North Carolina, and never will. I WON BIG there three times, and North Carolinians know I will ALWAYS have their backs! Thank you to Secretary of the Treasury, Scott Bessent, who is working hard for us, and doing a fantastic job representing the U.S.A. WE ARE THE WORLD’S BIGGEST AND BEST ECONOMY, and we are keeping it that way. Other Countries should follow our lead, and cut Taxes, Regulations and, where possible, DRILL BABY DRILL. GROWTH, GROWTH, GROWTH. We are leading the way, and the World is watching! President DONALD J. TRUMP</p>",
+      "published": "Tue, 01 Sep 2026 22:55:26 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-02T01:15:43.630882Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41476",
+      "first_seen": "2026-09-02T00:50:38.880489Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong,",
+      "truth_social_id": "117198246813661789",
+      "source_fingerprint": "fp:Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong,",
+      "media_identity": "attachment:117198246813661789:",
+      "translation": "本日、ノースカロライナ州アッシュビルで開催されたG20財務大臣会合では、非常に生産的で前向きな対話が行われた。ノースカロライナ州は素晴らしい州だ——強く、回復力があり、信じられないほど素晴らしい人々に満ちている。ハリケーン・ヘレーン後、眠いジョー（スリーピー・ジョー）はこの美しい州に背を向けたが、私が職務に就くと同時に、私は懸命に働き、記録的な速さで全てをやり遂げた。私はノースカロライナを決して忘れなかったし、今後も忘れることはない。私はそこで3度大きく勝利しており、ノースカロライナの人々は、私が常に彼らの味方でいることを知っている！財務長官スコット・ベッセント（Scott Bessent）に感謝する。彼は私たちのために懸命に働いており、アメリカを代表して素晴らしい仕事をしている。私たちは世界最大かつ最高の経済であり、その状態を保ち続けている。他国は私たちの先導に従い、税金と規制を削減し、可能な限りドリル・ベイビー・ドリル（掘り続けよ）を実施すべきだ。成長、成長、成長。私たちが道を切り開いており、世界が見守っている！ドナルド・J・トランプ大統領"
+    },
     "truth:117197476129988516": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -23691,22 +23712,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-02T01:15:47.716124Z"
-    },
-    "truth:117198246813661789": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41476",
-      "source_text": "<p>Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong, resilient, and filled with incredible people. After Hurricane Helene, Sleepy Joe turned his back on this beautiful State, but as soon as I came into Office, I worked hard, and got everything done in record time. I NEVER forgot North Carolina, and never will. I WON BIG there three times, and North Carolinians know I will ALWAYS have their backs! Thank you to Secretary of the Treasury, Scott Bessent, who is working hard for us, and doing a fantastic job representing the U.S.A. WE ARE THE WORLD’S BIGGEST AND BEST ECONOMY, and we are keeping it that way. Other Countries should follow our lead, and cut Taxes, Regulations and, where possible, DRILL BABY DRILL. GROWTH, GROWTH, GROWTH. We are leading the way, and the World is watching! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 22:55:26 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-02T00:55:40.157925Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41476",
-      "first_seen": "2026-09-02T00:50:38.880489Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong,",
-      "next_retry_at": "2026-09-02T01:05:40.157938Z",
-      "truth_social_id": "117198246813661789"
     }
   }
 }
