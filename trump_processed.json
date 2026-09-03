@@ -2206,7 +2206,10 @@
     "https://www.trumpstruth.org/statuses/41487",
     "fp:A Nice Man!!!",
     "truth:117204716865404743",
-    "https://trumpstruth.org/statuses/41489"
+    "https://trumpstruth.org/statuses/41489",
+    "fp:Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: \nhttps://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia",
+    "truth:117204718132251065",
+    "https://trumpstruth.org/statuses/41488"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14611,6 +14614,24 @@
         }
       ]
     },
+    "truth:117204718132251065": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41488",
+      "source_text": "<p>Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: <a href=\"https://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia-james-evil-eye-on-trump-and-blind-eye-to-ny-crime/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/30/opinion/</span><span class=\"invisible\">miranda-devine-ag-letitia-james-evil-eye-on-trump-and-blind-eye-to-ny-crime/</span></a></p>",
+      "published": "Thu, 03 Sep 2026 02:21:11 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-03T05:00:53.539095Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41488",
+      "first_seen": "2026-09-03T04:35:47.339647Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: \nhttps://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia",
+      "truth_social_id": "117204718132251065",
+      "source_fingerprint": "fp:Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: \nhttps://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia",
+      "media_identity": "attachment:117204718132251065:",
+      "translation": "ミランダ・デヴァイン：司法長官レティシア・ジェームスがトランプに向けて悪意の目を向け、ニューヨークの犯罪には目を閉ざしている：\nhttps://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia-james-evil-eye-on-trump-and-blind-eye-to-ny-crime/"
+    },
     "truth:117201326595105097": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24304,22 +24325,6 @@
       "published": "Wed, 02 Sep 2026 20:09:30 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-02T22:21:16.414291Z"
-    },
-    "truth:117204718132251065": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41488",
-      "source_text": "<p>Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: <a href=\"https://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia-james-evil-eye-on-trump-and-blind-eye-to-ny-crime/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/30/opinion/</span><span class=\"invisible\">miranda-devine-ag-letitia-james-evil-eye-on-trump-and-blind-eye-to-ny-crime/</span></a></p>",
-      "published": "Thu, 03 Sep 2026 02:21:11 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-03T04:45:39.691531Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41488",
-      "first_seen": "2026-09-03T04:35:47.339647Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: \nhttps://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia",
-      "next_retry_at": "2026-09-03T04:55:39.691547Z",
-      "truth_social_id": "117204718132251065"
     },
     "truth:117204942827690972": {
       "post_status": "BLOCKED",
