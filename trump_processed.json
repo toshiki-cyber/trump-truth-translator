@@ -2220,7 +2220,10 @@
     "https://trumpstruth.org/statuses/41493",
     "fp:The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it ",
     "truth:117207685733693672",
-    "https://trumpstruth.org/statuses/41495"
+    "https://trumpstruth.org/statuses/41495",
+    "fp:For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade ",
+    "truth:117207687594983323",
+    "https://trumpstruth.org/statuses/41494"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14694,6 +14697,24 @@
       "media_identity": "attachment:117207685733693672:",
       "translation": "「我々に弾薬がない」と繰り返し言い張っている人々とメディア（そして彼らは100%間違っている！）は、実は反逆的だ。彼らがそうするのは、私が勝つことより、我々が簡単に勝利している戦争でアメリカが負けるのを見る方が好きだからだ！大統領 ドナルド・J・トランプ"
     },
+    "truth:117207687594983323": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41494",
+      "source_text": "<p>For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen. We are taking them for ourselves, the U.S.A., rather than selling them to others, but the sales to Allies will soon again, begin. Also, please let it be known, that the Biden Administration gave far more Munitions away to Ukraine, at no cost to them, whatsoever, than we have used in Iran. Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for — If they were only asked, but we will be asking for that money, though somewhat belatedly! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 03 Sep 2026 14:56:21 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-03T16:50:47.614689Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41494",
+      "first_seen": "2026-09-03T16:20:42.577794Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade ",
+      "truth_social_id": "117207687594983323",
+      "source_fingerprint": "fp:For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade ",
+      "media_identity": "attachment:117207687594983323:",
+      "translation": "我が国のイラン軍事作戦を正確に報道することを拒否する反逆的なクズどもへ。我々は中～高級弾薬を事実上無制限に保有しており、これのためにはおろか、他のいかなる戦争（起こる可能性は極めて低い！）のためにも、我々が使用する可能性のあるはるかに上回る量を持っている。さらに、我々は史上例を見ないレベルで弾薬を生産している。あらゆる有事に備えて備蓄し準備を整えている。これらを他国に売却するのではなく、米国のために自分たちのものにしている。だが同盟国への販売もまもなく再開されるだろう。また、バイデン政権はイランで我々が使用した以上に、ウクライナへ莫大な弾薬を一切費用負担なしで提供していたことを知ってもらいたい。数千億ドルがウクライナとNATOに無償で供与されたが、欧州に求めさえすれば欧州が支払うはずだった。我々はその資金を求めることになるが、やや遅きに失した感は否めない！本件への注目をありがとう。ドナルド・J・トランプ大統領"
+    },
     "truth:117204718132251065": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24429,22 +24450,6 @@
       "published": "Thu, 03 Sep 2026 02:20:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-03T08:20:48.907346Z"
-    },
-    "truth:117207687594983323": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41494",
-      "source_text": "<p>For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen. We are taking them for ourselves, the U.S.A., rather than selling them to others, but the sales to Allies will soon again, begin. Also, please let it be known, that the Biden Administration gave far more Munitions away to Ukraine, at no cost to them, whatsoever, than we have used in Iran. Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for — If they were only asked, but we will be asking for that money, though somewhat belatedly! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Thu, 03 Sep 2026 14:56:21 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-03T16:30:56.499221Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41494",
-      "first_seen": "2026-09-03T16:20:42.577794Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade ",
-      "next_retry_at": "2026-09-03T16:40:56.499239Z",
-      "truth_social_id": "117207687594983323"
     },
     "truth:117207758594429845": {
       "post_status": "RETRY",
