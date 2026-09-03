@@ -24373,14 +24373,14 @@
       "status_url": "https://trumpstruth.org/statuses/41492",
       "source_text": "<p>This is GREAT! President DONALD J. TRUMP</p><p>Syria is pitching itself as an alternative to the Strait of Hormuz: <a href=\"https://www.washingtonpost.com/world/2026/09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/world/2026/</span><span class=\"invisible\">09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/</span></a></p>",
       "published": "Thu, 03 Sep 2026 11:18:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-03T15:45:44.975757Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-03T15:55:34.479714Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41492",
       "first_seen": "2026-09-03T15:45:44.975714Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:This is GREAT! President DONALD J. TRUMP\nSyria is pitching itself as an alternative to the Strait of Hormuz: \nhttps://www.washingtonpost.com/world/202",
-      "next_retry_at": "2026-09-03T15:50:44.975766Z",
+      "next_retry_at": "2026-09-03T16:05:34.479731Z",
       "truth_social_id": "117206830744287806"
     },
     "truth:117206881233100864": {
@@ -24389,14 +24389,14 @@
       "status_url": "https://trumpstruth.org/statuses/41493",
       "source_text": "<p>Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!</p>",
       "published": "Thu, 03 Sep 2026 11:31:17 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-03T15:45:45.344323Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-03T15:55:34.674590Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41493",
       "first_seen": "2026-09-03T15:45:45.344285Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
-      "next_retry_at": "2026-09-03T15:50:45.344334Z",
+      "next_retry_at": "2026-09-03T16:05:34.674609Z",
       "truth_social_id": "117206881233100864"
     }
   }
