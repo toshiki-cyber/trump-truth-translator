@@ -2209,7 +2209,9 @@
     "https://trumpstruth.org/statuses/41489",
     "fp:Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: \nhttps://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia",
     "truth:117204718132251065",
-    "https://trumpstruth.org/statuses/41488"
+    "https://trumpstruth.org/statuses/41488",
+    "truth:117206799377569441",
+    "https://trumpstruth.org/statuses/41491"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14614,6 +14616,21 @@
         }
       ]
     },
+    "truth:117206799377569441": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41491",
+      "source_text": "<p></p>",
+      "published": "Thu, 03 Sep 2026 11:10:28 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-03T15:40:54.853891Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41491",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117206799377569441:ef4da83f66017163.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117206799377569441",
+      "translation": ""
+    },
     "truth:117204718132251065": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24349,6 +24366,26 @@
       "published": "Thu, 03 Sep 2026 02:20:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-03T08:20:48.907346Z"
+    },
+    "truth:117206830744287806": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41492",
+      "source_text": "<p>This is GREAT! President DONALD J. TRUMP</p><p>Syria is pitching itself as an alternative to the Strait of Hormuz: <a href=\"https://www.washingtonpost.com/world/2026/09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/world/2026/</span><span class=\"invisible\">09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/</span></a></p>",
+      "published": "Thu, 03 Sep 2026 11:18:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-03T15:40:51.016577Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41492"
+    },
+    "truth:117206881233100864": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41493",
+      "source_text": "<p>Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!</p>",
+      "published": "Thu, 03 Sep 2026 11:31:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-03T15:40:51.016475Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41493"
     }
   }
 }
