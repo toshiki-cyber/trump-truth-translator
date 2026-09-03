@@ -2217,7 +2217,10 @@
     "https://trumpstruth.org/statuses/41492",
     "fp:Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
     "truth:117206881233100864",
-    "https://trumpstruth.org/statuses/41493"
+    "https://trumpstruth.org/statuses/41493",
+    "fp:The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it ",
+    "truth:117207685733693672",
+    "https://trumpstruth.org/statuses/41495"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14673,6 +14676,24 @@
       "media_identity": "attachment:117206881233100864:",
       "translation": "ルットニック長官は誰も殺されなかったと言ったとき、ベネズエラのことを念頭に置いていたのだ。イランでは18人が殺されたのだ！"
     },
+    "truth:117207685733693672": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41495",
+      "source_text": "<p>The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it because they would rather see the United States LOSE a War that we’re easily WINNING, than see me WIN! President DONALD J. TRUMP</p>",
+      "published": "Thu, 03 Sep 2026 14:55:53 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-03T16:45:41.713859Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41495",
+      "first_seen": "2026-09-03T16:20:41.187276Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it ",
+      "truth_social_id": "117207685733693672",
+      "source_fingerprint": "fp:The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it ",
+      "media_identity": "attachment:117207685733693672:",
+      "translation": "「我々に弾薬がない」と繰り返し言い張っている人々とメディア（そして彼らは100%間違っている！）は、実は反逆的だ。彼らがそうするのは、私が勝つことより、我々が簡単に勝利している戦争でアメリカが負けるのを見る方が好きだからだ！大統領 ドナルド・J・トランプ"
+    },
     "truth:117204718132251065": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24408,22 +24429,6 @@
       "published": "Thu, 03 Sep 2026 02:20:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-03T08:20:48.907346Z"
-    },
-    "truth:117207685733693672": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41495",
-      "source_text": "<p>The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it because they would rather see the United States LOSE a War that we’re easily WINNING, than see me WIN! President DONALD J. TRUMP</p>",
-      "published": "Thu, 03 Sep 2026 14:55:53 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-03T16:30:56.210498Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41495",
-      "first_seen": "2026-09-03T16:20:41.187276Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it ",
-      "next_retry_at": "2026-09-03T16:40:56.210516Z",
-      "truth_social_id": "117207685733693672"
     },
     "truth:117207687594983323": {
       "post_status": "RETRY",
