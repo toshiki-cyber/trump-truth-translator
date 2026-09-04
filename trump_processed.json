@@ -2248,7 +2248,10 @@
     "https://trumpstruth.org/statuses/41505",
     "fp:Britt: Congress should turn Trump’s data center pledge into law: \nhttps://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-ce",
     "truth:117213077131160867",
-    "https://www.trumpstruth.org/statuses/41508"
+    "https://www.trumpstruth.org/statuses/41508",
+    "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
+    "truth:117213056648777213",
+    "https://www.trumpstruth.org/statuses/41509"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14759,6 +14762,24 @@
       "truth_social_id": "117213077131160867",
       "translation": "ブリット：トランプのデータセンター公約を議会は法制化すべき：\nhttps://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-center-pledge-into-law"
     },
+    "truth:117213056648777213": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41509",
+      "source_text": "<p>Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,000 JOB IN AUGUST. Lower the interest rates because the U.S.A. is a much stronger credit than it was just a short time ago! A STRONG COUNTRY MEANS A LOWER INTEREST RATE - IT’S A BETTER CREDIT…Very simple! We should have the LOWEST RATE of any country in the World, like “the old days.” Without the United States agreeing to allow them their big surpluses, and we could stop that immediately, they would no longer be considered financially ELITE! LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT, which the U.S. Supreme Court, in its ridiculous and very costly Tariff decision, strongly acknowledged “the President” has an absolute right to do. IT’S BETTER THAN TARIFFS! The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change. High interest rates put the U.S.A. at a very unfair disadvantage, and I won’t allow that to happen! President DONALD J. TRUMP</p>",
+      "published": "Fri, 04 Sep 2026 13:41:46 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-04T14:55:45.451541Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41509",
+      "first_seen": "2026-09-04T14:25:46.997117Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
+      "truth_social_id": "117213056648777213",
+      "source_fingerprint": "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
+      "media_identity": "attachment:117213056648777213:",
+      "translation": "素晴らしい雇用統計が発表されたばかりだ。すべての予想を倍、三倍も上回っている（私の予想を除いて！）。これからが本当だ！雇用主は8月に162,000人の雇用を追加した。米国は少し前よりもはるかに強い信用力を持つ国だから金利を引き下げろ！強い国は低い金利を意味する。それはより良い信用だ…非常にシンプルだ！我々は世界中のどの国よりも最低金利を持つべきだ。まるで「昔の日子」のようにな。米国が彼らの大幅な黒字を認めることなくなれば、そして我々はそれを直ちに止めることができるなら、彼らはもはや財務的にエリートとは見なされないだろう！金利を引き下げろ。さもなくば私は貿易赤字を抱える国との取引を止める。米国最高裁判所はその馬鹿げた、非常に高くつく関税判決で、「大統領」が絶対的な権利を持つことを強く認めている。それは関税より良い！新しい優れた指導者率いるFRB理事会は賢くなれ。この際、愛国者になれ。高い金利は米国を非常に不公正な不利な立場に置く。そして私はそれを許さない！ドナルド・J・トランプ大統領"
+    },
     "truth:117212442535979837": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24893,22 +24914,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-04T14:56:06.465816Z"
-    },
-    "truth:117213056648777213": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41509",
-      "source_text": "<p>Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,000 JOB IN AUGUST. Lower the interest rates because the U.S.A. is a much stronger credit than it was just a short time ago! A STRONG COUNTRY MEANS A LOWER INTEREST RATE - IT’S A BETTER CREDIT…Very simple! We should have the LOWEST RATE of any country in the World, like “the old days.” Without the United States agreeing to allow them their big surpluses, and we could stop that immediately, they would no longer be considered financially ELITE! LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT, which the U.S. Supreme Court, in its ridiculous and very costly Tariff decision, strongly acknowledged “the President” has an absolute right to do. IT’S BETTER THAN TARIFFS! The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change. High interest rates put the U.S.A. at a very unfair disadvantage, and I won’t allow that to happen! President DONALD J. TRUMP</p>",
-      "published": "Fri, 04 Sep 2026 13:41:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-04T14:35:34.486902Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41509",
-      "first_seen": "2026-09-04T14:25:46.997117Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
-      "next_retry_at": "2026-09-04T14:45:34.486918Z",
-      "truth_social_id": "117213056648777213"
     },
     "truth:117213082608751521": {
       "post_status": "RETRY",
