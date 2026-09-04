@@ -24507,6 +24507,38 @@
       "published": "Thu, 03 Sep 2026 11:31:17 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-03T20:20:35.543853Z"
+    },
+    "truth:117209499032712444": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41497",
+      "source_text": "<p>I am pleased to announce that Adam Telle, the current Assistant Secretary of the Army for Civil Works, will become Acting Secretary of the Army, effective immediately. He is a Great Patriot, who is respected by all. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Thu, 03 Sep 2026 22:37:01 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-04T00:20:35.170118Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41497",
+      "first_seen": "2026-09-04T00:20:35.170079Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I am pleased to announce that Adam Telle, the current Assistant Secretary of the Army for Civil Works, will become Acting Secretary of the Army, effec",
+      "next_retry_at": "2026-09-04T00:25:35.170127Z",
+      "truth_social_id": "117209499032712444"
+    },
+    "truth:117209653242980598": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41498",
+      "source_text": "<p>The Missouri Supreme Court just ridiculously ruled in favor of changing the maps back to what they were a long time ago. It’s called, Ancient History! The problem is, according to Legal Scholars, that not only was the ruling horrible, ridiculous, and unConstitutional, but there won’t be enough time to change the map back with the Election coming up in a very short period of time. The Election Process, as usual, is being disturbed in America! Missouri must be able to use the map that was in effect just a couple of months ago, in the Primary. This is a Dark Day for “Justice” in Missouri! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 03 Sep 2026 23:16:14 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-04T00:20:35.957481Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41498",
+      "first_seen": "2026-09-04T00:20:35.957439Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Missouri Supreme Court just ridiculously ruled in favor of changing the maps back to what they were a long time ago. It’s called, Ancient History!",
+      "next_retry_at": "2026-09-04T00:25:35.957491Z",
+      "truth_social_id": "117209653242980598"
     }
   }
 }
