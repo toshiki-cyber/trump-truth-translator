@@ -25035,14 +25035,20 @@
       "updated_at": "2026-09-04T22:20:34.419394Z"
     },
     "truth:117215023817706053": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41516",
       "source_text": "<p>People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming, including affirmation from Google Maps, Apple Maps, and Microsoft’s Bing Maps. Since the name change, business on the United States side of the Lake has been absolutely BOOMING! President DONALD J. TRUMP</p>",
       "published": "Fri, 04 Sep 2026 22:02:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-04T22:20:34.418917Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41516"
+      "retry_count": 1,
+      "updated_at": "2026-09-04T22:25:36.980875Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41516",
+      "first_seen": "2026-09-04T22:25:36.980843Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming",
+      "next_retry_at": "2026-09-04T22:30:36.980883Z",
+      "truth_social_id": "117215023817706053"
     }
   }
 }
