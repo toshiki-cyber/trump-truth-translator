@@ -24873,14 +24873,20 @@
       "updated_at": "2026-09-04T16:20:38.688474Z"
     },
     "truth:117213625941009794": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41510",
       "source_text": "<p>The Radical Left Lunatics, Dumocrats, and Communists would rather have us LOSE the War in Iran, than have President Donald J. Trump WIN the War for America. In other words, they’d rather have us LOSE than have us WIN! These are very sick people who suffer from serious TDS, sometimes referred to as TRUMP DERANGEMENT SYNDROME. President DONALD J. TRUMP</p>",
       "published": "Fri, 04 Sep 2026 16:06:33 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-04T16:20:38.688170Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41510"
+      "retry_count": 1,
+      "updated_at": "2026-09-04T16:25:38.274414Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41510",
+      "first_seen": "2026-09-04T16:25:38.274375Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Radical Left Lunatics, Dumocrats, and Communists would rather have us LOSE the War in Iran, than have President Donald J. Trump WIN the War for Am",
+      "next_retry_at": "2026-09-04T16:30:38.274423Z",
+      "truth_social_id": "117213625941009794"
     }
   }
 }
