@@ -2251,7 +2251,10 @@
     "https://www.trumpstruth.org/statuses/41508",
     "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
     "truth:117213056648777213",
-    "https://www.trumpstruth.org/statuses/41509"
+    "https://www.trumpstruth.org/statuses/41509",
+    "fp:How Trump can help Ukraine build its own Patriot missiles: \nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block",
+    "truth:117212924349074596",
+    "https://www.trumpstruth.org/statuses/41506"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14780,6 +14783,66 @@
       "media_identity": "attachment:117213056648777213:",
       "translation": "素晴らしい雇用統計が発表されたばかりだ。すべての予想を倍、三倍も上回っている（私の予想を除いて！）。これからが本当だ！雇用主は8月に162,000人の雇用を追加した。米国は少し前よりもはるかに強い信用力を持つ国だから金利を引き下げろ！強い国は低い金利を意味する。それはより良い信用だ…非常にシンプルだ！我々は世界中のどの国よりも最低金利を持つべきだ。まるで「昔の日子」のようにな。米国が彼らの大幅な黒字を認めることなくなれば、そして我々はそれを直ちに止めることができるなら、彼らはもはや財務的にエリートとは見なされないだろう！金利を引き下げろ。さもなくば私は貿易赤字を抱える国との取引を止める。米国最高裁判所はその馬鹿げた、非常に高くつく関税判決で、「大統領」が絶対的な権利を持つことを強く認めている。それは関税より良い！新しい優れた指導者率いるFRB理事会は賢くなれ。この際、愛国者になれ。高い金利は米国を非常に不公正な不利な立場に置く。そして私はそれを許さない！ドナルド・J・トランプ大統領"
     },
+    "truth:117212924349074596": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41506",
+      "source_text": "<p>How Trump can help Ukraine build its own Patriot missiles: <a href=\"https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/</span></a></p>",
+      "published": "Fri, 04 Sep 2026 13:08:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-04T15:00:58.280947Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41506",
+      "first_seen": "2026-09-04T14:25:46.666215Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:How Trump can help Ukraine build its own Patriot missiles: \nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block",
+      "truth_social_id": "117212924349074596",
+      "source_fingerprint": "fp:How Trump can help Ukraine build its own Patriot missiles: \nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block",
+      "media_identity": "attachment:117212924349074596:",
+      "translation": "トランプ大統領がウクライナが独自のパトリオット・ミサイルを製造するのを支援する方法：\nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muozuutjlcb3",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3muozuutjlcb3",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "トランプ大統領がウクライナが独自のパトリオット・ミサイルを製造するのを支援する方法：\nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
+        "createdAt": "2026-09-04T14:50:59.958427Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 127,
+              "byteEnd": 238
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
+            "title": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
+            "description": ""
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muozuutjlcb3",
+          "rkey": "3muozuutjlcb3"
+        }
+      ]
+    },
     "truth:117212442535979837": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24769,151 +24832,6 @@
       "published": "Thu, 03 Sep 2026 22:37:01 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-04T06:20:47.923131Z"
-    },
-    "truth:117212924349074596": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41506",
-      "source_text": "<p>How Trump can help Ukraine build its own Patriot missiles: <a href=\"https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/</span></a></p>",
-      "published": "Fri, 04 Sep 2026 13:08:08 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-04T14:51:06.465803Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41506",
-      "first_seen": "2026-09-04T14:25:46.666215Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:How Trump can help Ukraine build its own Patriot missiles: \nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block",
-      "truth_social_id": "117212924349074596",
-      "source_fingerprint": "fp:How Trump can help Ukraine build its own Patriot missiles: \nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block",
-      "media_identity": "attachment:117212924349074596:",
-      "translation": "トランプ大統領がウクライナが独自のパトリオット・ミサイルを製造するのを支援する方法：\nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muozuutjlcb3",
-          "cid": "bafyreicoolgtwfok3z546kz4bbkbohwpm5uqvdf6wwtyhziqmu5wwrf5zi"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muozuutjlcb3",
-          "cid": "bafyreicoolgtwfok3z546kz4bbkbohwpm5uqvdf6wwtyhziqmu5wwrf5zi"
-        },
-        "next_index": 1,
-        "last_rkey": "3muozuutjlcb3",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプ大統領がウクライナが独自のパトリオット・ミサイルを製造するのを支援する方法：\nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-          "createdAt": "2026-09-04T14:50:59.958427Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 127,
-                "byteEnd": 238
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-              "title": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-              "description": ""
-            }
-          }
-        },
-        "root_rkey": "3muozuutjlcb3",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "トランプ大統領がウクライナが独自のパトリオット・ミサイルを製造するのを支援する方法：\nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-          "createdAt": "2026-09-04T14:50:59.958427Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 127,
-                "byteEnd": 238
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-              "title": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-              "description": ""
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muozuutjlcb3",
-            "rkey": "3muozuutjlcb3"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muozuutjlcb3",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3muozuutjlcb3",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ大統領がウクライナが独自のパトリオット・ミサイルを製造するのを支援する方法：\nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-        "createdAt": "2026-09-04T14:50:59.958427Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 127,
-              "byteEnd": 238
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-            "title": "https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muozuutjlcb3",
-          "rkey": "3muozuutjlcb3"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-04T14:56:06.465816Z"
     },
     "truth:117213082608751521": {
       "post_status": "RETRY",
