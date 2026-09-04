@@ -2237,7 +2237,10 @@
     "https://trumpstruth.org/statuses/41503",
     "fp:Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham: \nhttps://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-preside",
     "truth:117210070077195277",
-    "https://trumpstruth.org/statuses/41502"
+    "https://trumpstruth.org/statuses/41502",
+    "fp:How Trump turned a frozen conflict into a model for peace: \nhttps://www.washingtonexaminer.com/op-eds/4681517/armenia-azerbaijan-peace-deal-tripp-fram",
+    "truth:117210070352666408",
+    "https://trumpstruth.org/statuses/41501"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14747,6 +14750,24 @@
       "media_identity": "attachment:117210070077195277:",
       "translation": "トランプ大統領、最高の姿を見せる：大統領がリンジー・グラハムへの感動的な弔辞を述べる：\nhttps://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-president-delivers-touching-eulogy-for-lindsey-graham/"
     },
+    "truth:117210070352666408": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41501",
+      "source_text": "<p>How Trump turned a frozen conflict into a model for peace: <a href=\"https://www.washingtonexaminer.com/op-eds/4681517/armenia-azerbaijan-peace-deal-tripp-framework/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/op-eds/</span><span class=\"invisible\">4681517/armenia-azerbaijan-peace-deal-tripp-framework/</span></a></p>",
+      "published": "Fri, 04 Sep 2026 01:02:19 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-04T03:10:34.011643Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41501",
+      "first_seen": "2026-09-04T02:30:37.909901Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:How Trump turned a frozen conflict into a model for peace: \nhttps://www.washingtonexaminer.com/op-eds/4681517/armenia-azerbaijan-peace-deal-tripp-fram",
+      "truth_social_id": "117210070352666408",
+      "source_fingerprint": "fp:How Trump turned a frozen conflict into a model for peace: \nhttps://www.washingtonexaminer.com/op-eds/4681517/armenia-azerbaijan-peace-deal-tripp-fram",
+      "media_identity": "attachment:117210070352666408:",
+      "translation": "トランプがいかに膠着状態の紛争を平和のモデルに変えたか：\nhttps://www.washingtonexaminer.com/op-eds/4681517/armenia-azerbaijan-peace-deal-tripp-framework/"
+    },
     "truth:117209653242980598": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24605,22 +24626,6 @@
       "published": "Thu, 03 Sep 2026 11:31:17 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-03T20:20:35.543853Z"
-    },
-    "truth:117210070352666408": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41501",
-      "source_text": "<p>How Trump turned a frozen conflict into a model for peace: <a href=\"https://www.washingtonexaminer.com/op-eds/4681517/armenia-azerbaijan-peace-deal-tripp-framework/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/op-eds/</span><span class=\"invisible\">4681517/armenia-azerbaijan-peace-deal-tripp-framework/</span></a></p>",
-      "published": "Fri, 04 Sep 2026 01:02:19 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-04T02:45:34.284329Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41501",
-      "first_seen": "2026-09-04T02:30:37.909901Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:How Trump turned a frozen conflict into a model for peace: \nhttps://www.washingtonexaminer.com/op-eds/4681517/armenia-azerbaijan-peace-deal-tripp-fram",
-      "next_retry_at": "2026-09-04T02:55:34.284341Z",
-      "truth_social_id": "117210070352666408"
     },
     "truth:117210339497817224": {
       "post_status": "RETRY",
