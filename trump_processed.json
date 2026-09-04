@@ -2245,7 +2245,10 @@
     "truth:117210339497817224",
     "https://trumpstruth.org/statuses/41504",
     "truth:117212442535979837",
-    "https://trumpstruth.org/statuses/41505"
+    "https://trumpstruth.org/statuses/41505",
+    "fp:Britt: Congress should turn Trump’s data center pledge into law: \nhttps://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-ce",
+    "truth:117213077131160867",
+    "https://www.trumpstruth.org/statuses/41508"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14740,6 +14743,22 @@
       "media_identity": "attachment:117210339497817224:",
       "translation": "マリア・バルティロモがフォックスニュース/ビジネスで彼女の素晴らしい番組を放送しなくなるというのが信じられない。3つの異なる番組、常にナンバーワンだった。マリアは本物のプロであり、真の戦士だ。彼女のファンは多いが、皆満足しないだろう。マリア、神の祝福を祈る！大統領 ドナルド・J・トランプ"
     },
+    "truth:117213077131160867": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41508",
+      "source_text": "<p>Britt: Congress should turn Trump’s data center pledge into law: <a href=\"https://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-center-pledge-into-law\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semafor.com/article/09/04/2026</span><span class=\"invisible\">/britt-congress-should-turn-trumps-data-center-pledge-into-law</span></a></p>",
+      "published": "Fri, 04 Sep 2026 13:46:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-04T14:25:49.326335Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41508",
+      "source_fingerprint": "fp:Britt: Congress should turn Trump’s data center pledge into law: \nhttps://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-ce",
+      "media_identity": "attachment:117213077131160867:98f47f4b48bf6a66.png",
+      "failure_reason": null,
+      "fingerprint": "fp:Britt: Congress should turn Trump’s data center pledge into law: \nhttps://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-ce",
+      "truth_social_id": "117213077131160867",
+      "translation": "ブリット：トランプのデータセンター公約を議会は法制化すべき：\nhttps://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-center-pledge-into-law"
+    },
     "truth:117212442535979837": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24731,34 +24750,36 @@
       "updated_at": "2026-09-04T06:20:47.923131Z"
     },
     "truth:117212924349074596": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41506",
       "source_text": "<p>How Trump can help Ukraine build its own Patriot missiles: <a href=\"https://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/</span></a></p>",
       "published": "Fri, 04 Sep 2026 13:08:08 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-04T14:20:34.405149Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41506"
+      "retry_count": 1,
+      "updated_at": "2026-09-04T14:25:46.666251Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41506",
+      "first_seen": "2026-09-04T14:25:46.666215Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:How Trump can help Ukraine build its own Patriot missiles: \nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block",
+      "next_retry_at": "2026-09-04T14:30:46.666261Z",
+      "truth_social_id": "117212924349074596"
     },
     "truth:117213056648777213": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41509",
       "source_text": "<p>Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,000 JOB IN AUGUST. Lower the interest rates because the U.S.A. is a much stronger credit than it was just a short time ago! A STRONG COUNTRY MEANS A LOWER INTEREST RATE - IT’S A BETTER CREDIT…Very simple! We should have the LOWEST RATE of any country in the World, like “the old days.” Without the United States agreeing to allow them their big surpluses, and we could stop that immediately, they would no longer be considered financially ELITE! LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT, which the U.S. Supreme Court, in its ridiculous and very costly Tariff decision, strongly acknowledged “the President” has an absolute right to do. IT’S BETTER THAN TARIFFS! The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change. High interest rates put the U.S.A. at a very unfair disadvantage, and I won’t allow that to happen! President DONALD J. TRUMP</p>",
       "published": "Fri, 04 Sep 2026 13:41:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-04T14:20:34.405039Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41509"
-    },
-    "truth:117213077131160867": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41508",
-      "source_text": "<p>Britt: Congress should turn Trump’s data center pledge into law: <a href=\"https://www.semafor.com/article/09/04/2026/britt-congress-should-turn-trumps-data-center-pledge-into-law\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semafor.com/article/09/04/2026</span><span class=\"invisible\">/britt-congress-should-turn-trumps-data-center-pledge-into-law</span></a></p>",
-      "published": "Fri, 04 Sep 2026 13:46:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-04T14:20:34.404940Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41508"
+      "retry_count": 1,
+      "updated_at": "2026-09-04T14:25:46.997156Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41509",
+      "first_seen": "2026-09-04T14:25:46.997117Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
+      "next_retry_at": "2026-09-04T14:30:46.997166Z",
+      "truth_social_id": "117213056648777213"
     },
     "truth:117213082608751521": {
       "post_status": "DISCOVERED",
