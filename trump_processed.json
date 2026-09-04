@@ -2269,7 +2269,10 @@
     "https://trumpstruth.org/statuses/41512",
     "fp:RT \nhttps://truthsocial.com/@MichaelCohen212“The Weaponized State”\nThey called me paranoid for warning that political power was corrupting justice. No",
     "truth:117190624268499306",
-    "https://trumpstruth.org/statuses/41514"
+    "https://trumpstruth.org/statuses/41514",
+    "fp:People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming",
+    "truth:117215023817706053",
+    "https://www.trumpstruth.org/statuses/41516"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14836,6 +14839,24 @@
       "media_identity": "attachment:117213719435854140:",
       "translation": "これはどうかしている。雇用統計が素晴らしい数字を出たばかりで、信用と経済が良好だから株式市場は上昇すべきなのに、相変わらず過去25年間ずっと、株式市場は下落している。それは「インフレへの恐怖」のせいで「徹底的に潰さなければならない」という間違った現実に生きているからだ。本来はその逆のはずで、25年前まではそうだった。この理論に従い続けたら、国が当然受けるべき真の経済的偉大さを決して実現できない。なぜなら、うまくいくたびに愚かな連中が直ちにこの素晴らしい上昇の勢いを止めたいからだ。成長はインフレを引き起こさない！朝、これらの素晴らしい雇用統計を見た時点で、市場が下落することは分かっていた。ロケットのように上昇すべきなのに。GDPは2、3、4％ではなく15～20％であるべきで、アメリカは今より比べ物にならないほど財政的に偉大になるべきだ。国債は返済され、その他全てのことが起こるだろう。覚えておけ、金利が1ポイント上がるごとに米国は年間6500億ドルの費用がかかる。我々は世界中のあらゆることを動かし、失敗した国々に素晴らしい経済的豊かさを与えているのだから、世界最低の金利を払うべきなのだ。この件への注目をありがとう。ドナルド・J・トランプ大統領"
     },
+    "truth:117215023817706053": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41516",
+      "source_text": "<p>People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming, including affirmation from Google Maps, Apple Maps, and Microsoft’s Bing Maps. Since the name change, business on the United States side of the Lake has been absolutely BOOMING! President DONALD J. TRUMP</p>",
+      "published": "Fri, 04 Sep 2026 22:02:03 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-04T22:40:50.723163Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41516",
+      "first_seen": "2026-09-04T22:25:36.980843Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming",
+      "truth_social_id": "117215023817706053",
+      "source_fingerprint": "fp:People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming",
+      "media_identity": "attachment:117215023817706053:",
+      "translation": "国民、特にアメリカ合衆国の愛国者たちは、オンタリオ湖をアメリカ湖に改称したことを愛している！その支持は圧倒的であり、Google Maps、Apple Maps、そしてMicrosoftのBing Mapsからの確認も含まれている。名称変更以来、湖のアメリカ側でのビジネスは絶対的に好況だ！ドナルド・J・トランプ大統領"
+    },
     "truth:117213723499789673": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25033,22 +25054,6 @@
       "published": "Fri, 04 Sep 2026 16:06:33 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-04T22:20:34.419394Z"
-    },
-    "truth:117215023817706053": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41516",
-      "source_text": "<p>People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming, including affirmation from Google Maps, Apple Maps, and Microsoft’s Bing Maps. Since the name change, business on the United States side of the Lake has been absolutely BOOMING! President DONALD J. TRUMP</p>",
-      "published": "Fri, 04 Sep 2026 22:02:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-04T22:30:39.952696Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41516",
-      "first_seen": "2026-09-04T22:25:36.980843Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming",
-      "next_retry_at": "2026-09-04T22:40:39.952711Z",
-      "truth_social_id": "117215023817706053"
     }
   }
 }
