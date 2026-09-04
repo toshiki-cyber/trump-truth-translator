@@ -2234,7 +2234,10 @@
     "truth:117209499032712444",
     "https://trumpstruth.org/statuses/41497",
     "truth:117210069720186626",
-    "https://trumpstruth.org/statuses/41503"
+    "https://trumpstruth.org/statuses/41503",
+    "fp:Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham: \nhttps://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-preside",
+    "truth:117210070077195277",
+    "https://trumpstruth.org/statuses/41502"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14726,6 +14729,24 @@
       "truth_social_id": "117210069720186626",
       "translation": ""
     },
+    "truth:117210070077195277": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41502",
+      "source_text": "<p>Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham: <a href=\"https://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-president-delivers-touching-eulogy-for-lindsey-graham/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/07</span><span class=\"invisible\">/28/trump-at-his-finest-president-delivers-touching-eulogy-for-lindsey-graham/</span></a></p>",
+      "published": "Fri, 04 Sep 2026 01:02:15 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-04T03:05:33.363713Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41502",
+      "first_seen": "2026-09-04T02:30:37.300210Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham: \nhttps://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-preside",
+      "truth_social_id": "117210070077195277",
+      "source_fingerprint": "fp:Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham: \nhttps://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-preside",
+      "media_identity": "attachment:117210070077195277:",
+      "translation": "トランプ大統領、最高の姿を見せる：大統領がリンジー・グラハムへの感動的な弔辞を述べる：\nhttps://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-president-delivers-touching-eulogy-for-lindsey-graham/"
+    },
     "truth:117209653242980598": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24584,22 +24605,6 @@
       "published": "Thu, 03 Sep 2026 11:31:17 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-03T20:20:35.543853Z"
-    },
-    "truth:117210070077195277": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41502",
-      "source_text": "<p>Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham: <a href=\"https://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-president-delivers-touching-eulogy-for-lindsey-graham/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/07</span><span class=\"invisible\">/28/trump-at-his-finest-president-delivers-touching-eulogy-for-lindsey-graham/</span></a></p>",
-      "published": "Fri, 04 Sep 2026 01:02:15 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-04T02:45:33.939532Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41502",
-      "first_seen": "2026-09-04T02:30:37.300210Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham: \nhttps://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-preside",
-      "next_retry_at": "2026-09-04T02:55:33.939544Z",
-      "truth_social_id": "117210070077195277"
     },
     "truth:117210070352666408": {
       "post_status": "RETRY",
