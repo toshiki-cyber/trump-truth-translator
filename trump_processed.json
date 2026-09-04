@@ -2254,7 +2254,10 @@
     "https://www.trumpstruth.org/statuses/41509",
     "fp:How Trump can help Ukraine build its own Patriot missiles: \nhttps://www.washingtonpost.com/opinions/2026/09/03/let-ukraine-make-patriot-missiles-block",
     "truth:117212924349074596",
-    "https://www.trumpstruth.org/statuses/41506"
+    "https://www.trumpstruth.org/statuses/41506",
+    "fp:PASS THE SAVE AMERICA ACT!!!",
+    "truth:117213082608751521",
+    "https://www.trumpstruth.org/statuses/41507"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14843,6 +14846,24 @@
         }
       ]
     },
+    "truth:117213082608751521": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41507",
+      "source_text": "<p>PASS THE SAVE AMERICA ACT!!!</p>",
+      "published": "Fri, 04 Sep 2026 13:48:22 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-04T15:05:43.415283Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41507",
+      "first_seen": "2026-09-04T14:30:41.261307Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:PASS THE SAVE AMERICA ACT!!!",
+      "truth_social_id": "117213082608751521",
+      "source_fingerprint": "fp:PASS THE SAVE AMERICA ACT!!!",
+      "media_identity": "attachment:117213082608751521:",
+      "translation": "セーブ・アメリカ法案を可決させろ!!!"
+    },
     "truth:117212442535979837": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -24832,22 +24853,6 @@
       "published": "Thu, 03 Sep 2026 22:37:01 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-04T06:20:47.923131Z"
-    },
-    "truth:117213082608751521": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41507",
-      "source_text": "<p>PASS THE SAVE AMERICA ACT!!!</p>",
-      "published": "Fri, 04 Sep 2026 13:48:22 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-04T14:40:45.918034Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41507",
-      "first_seen": "2026-09-04T14:30:41.261307Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:PASS THE SAVE AMERICA ACT!!!",
-      "next_retry_at": "2026-09-04T14:50:45.918050Z",
-      "truth_social_id": "117213082608751521"
     }
   }
 }
