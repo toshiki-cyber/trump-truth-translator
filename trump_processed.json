@@ -2303,7 +2303,10 @@
     "https://trumpstruth.org/statuses/41525",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216175754371111",
     "truth:117216176558934084",
-    "https://trumpstruth.org/statuses/41524"
+    "https://trumpstruth.org/statuses/41524",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
+    "truth:117216179932593008",
+    "https://trumpstruth.org/statuses/41528"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15113,6 +15116,22 @@
         }
       ]
     },
+    "truth:117216179932593008": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41528",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514</span></p>",
+      "published": "Sat, 05 Sep 2026 02:56:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-05T04:55:33.463495Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41528",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
+      "media_identity": "attachment:117216179932593008:874ea450ab443521.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
+      "truth_social_id": "117216179932593008",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514"
+    },
     "truth:117213723499789673": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25381,16 +25400,6 @@
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/216/176/997/721/943/original/96dd3a17241b4a5e.mp4",
       "truth_social_id": "117216178911963514",
       "next_retry_at": "2026-09-05T04:50:40.851619Z"
-    },
-    "truth:117216179932593008": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41528",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514</span></p>",
-      "published": "Sat, 05 Sep 2026 02:56:04 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-05T04:20:36.778167Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41528"
     }
   }
 }
