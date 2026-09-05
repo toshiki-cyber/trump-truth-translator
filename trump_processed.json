@@ -25196,8 +25196,8 @@
       "status_url": "https://trumpstruth.org/statuses/41523",
       "source_text": "<p>The Greatest RALLY of them all! I’ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night two!!! See you in Dallas. President DJT</p>",
       "published": "Sat, 05 Sep 2026 02:09:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-05T02:25:36.554329Z",
+      "retry_count": 3,
+      "updated_at": "2026-09-05T02:40:30.353870Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41523",
       "source_fingerprint": "fp:The Greatest RALLY of them all! I’ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night two!!! See you i",
       "media_identity": "attachment:117215997527902981:78cbee5b29c5c19e.jpg",
@@ -25205,7 +25205,7 @@
       "fingerprint": "fp:The Greatest RALLY of them all! I’ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night two!!! See you i",
       "truth_social_id": "117215997527902981",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-09-05T02:35:36.554340Z"
+      "next_retry_at": "2026-09-05T03:00:30.353883Z"
     }
   }
 }
