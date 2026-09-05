@@ -2272,7 +2272,10 @@
     "https://trumpstruth.org/statuses/41514",
     "fp:People, especially Patriots from the United States of America, love the name change of Lake Ontario to Lake America! The support has been overwhelming",
     "truth:117215023817706053",
-    "https://www.trumpstruth.org/statuses/41516"
+    "https://www.trumpstruth.org/statuses/41516",
+    "fp:I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midt",
+    "truth:117215105900362553",
+    "https://trumpstruth.org/statuses/41518"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14857,6 +14860,24 @@
       "media_identity": "attachment:117215023817706053:",
       "translation": "国民、特にアメリカ合衆国の愛国者たちは、オンタリオ湖をアメリカ湖に改称したことを愛している！その支持は圧倒的であり、Google Maps、Apple Maps、そしてMicrosoftのBing Mapsからの確認も含まれている。名称変更以来、湖のアメリカ側でのビジネスは絶対的に好況だ！ドナルド・J・トランプ大統領"
     },
+    "truth:117215105900362553": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41518",
+      "source_text": "<p>I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midterm Convention in History! It’s going to be a fantastic event next week in Dallas. We also discussed other key issues, including Iran, and the dangerous rise of Socialism and Communism in our Country. Be sure to watch my conversation. Visit <a href=\"https://ltdan.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ltdan.com</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 04 Sep 2026 22:22:55 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-05T00:50:49.430714Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41518",
+      "first_seen": "2026-09-05T00:25:39.708771Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midt",
+      "truth_social_id": "117215105900362553",
+      "source_fingerprint": "fp:I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midt",
+      "media_identity": "attachment:117215105900362553:",
+      "translation": "テキサス州副知事の友人ダン・パトリックの新しいポッドキャスト「Lt. Dan」に出演し、来たるべき共和党大会、歴史上初の中間選挙大会について議論した。来週ダラスで開催される素晴らしいイベントになるだろう。イランを含む他の重要な問題、そして我が国における危険な社会主義とコミュニズムの台頭についても議論した。私との対談を必ず視聴してほしい。https://ltdan.comを訪問してほしい。"
+    },
     "truth:117213723499789673": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25063,22 +25084,6 @@
       "published": "Fri, 04 Sep 2026 22:02:03 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-05T00:21:08.997056Z"
-    },
-    "truth:117215105900362553": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41518",
-      "source_text": "<p>I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midterm Convention in History! It’s going to be a fantastic event next week in Dallas. We also discussed other key issues, including Iran, and the dangerous rise of Socialism and Communism in our Country. Be sure to watch my conversation. Visit <a href=\"https://ltdan.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ltdan.com</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 04 Sep 2026 22:22:55 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-05T00:35:36.081368Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41518",
-      "first_seen": "2026-09-05T00:25:39.708771Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midt",
-      "next_retry_at": "2026-09-05T00:45:36.081386Z",
-      "truth_social_id": "117215105900362553"
     },
     "truth:117215115735640580": {
       "post_status": "RETRY",
