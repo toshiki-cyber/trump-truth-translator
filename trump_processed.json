@@ -2284,7 +2284,10 @@
     "https://trumpstruth.org/statuses/41522",
     "fp:GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Da",
     "truth:117215120604420966",
-    "https://trumpstruth.org/statuses/41521"
+    "https://trumpstruth.org/statuses/41521",
+    "fp:WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:\nhttps://www.whitehouse.gov/releases/202",
+    "truth:117215122287615906",
+    "https://trumpstruth.org/statuses/41520"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14941,6 +14944,24 @@
       "media_identity": "attachment:117215120604420966:",
       "translation": "【翻訳】\n\n素晴らしいニュースだ！我々の繁栄する経済は8月に162,000の雇用を追加した。これはこの（そして毎回の！）労働者の日を祝う偉大なアメリカの労働者たちに敬意を表したものである。この力強い数字はBloombergの調査における所謂「エコノミスト」の予測のほぼ3倍であり、彼らはトランプ・デリンジメント・シンドロームの影響を受け続けている。トランプ・ブームの効果は多くの業界で見られている。我が政権の公正な通商政策は、「関税」という素晴らしいツールを用いて、世界経済をリセットし、製造業の雇用をかつてないほどアメリカに戻してきている。企業が完全償却（1年間の控除）を活用するにつれ、工場建設がブームになっている。やがて、これらの工場は赤、白、青の血が流れるアメリカの労働者たちで満杯になるだろう！ドナルド・J・トランプ大統領"
     },
+    "truth:117215122287615906": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41520",
+      "source_text": "<p>WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:<br /><a href=\"https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">whitehouse.gov/releases/2026/0</span><span class=\"invisible\">9/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/</span></a></p>",
+      "published": "Fri, 04 Sep 2026 22:27:05 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-05T01:10:40.681536Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41520",
+      "first_seen": "2026-09-05T00:25:41.089926Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:\nhttps://www.whitehouse.gov/releases/202",
+      "truth_social_id": "117215122287615906",
+      "source_fingerprint": "fp:WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:\nhttps://www.whitehouse.gov/releases/202",
+      "media_identity": "attachment:117215122287615906:",
+      "translation": "ホワイトハウス報道発表 — アメリカ製：製造業、民間雇用の力が爆発的な8月の雇用統計をもたらす：\nhttps://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/"
+    },
     "truth:117213723499789673": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25147,22 +25168,6 @@
       "published": "Fri, 04 Sep 2026 22:02:03 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-05T00:21:08.997056Z"
-    },
-    "truth:117215122287615906": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41520",
-      "source_text": "<p>WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:<br /><a href=\"https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">whitehouse.gov/releases/2026/0</span><span class=\"invisible\">9/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/</span></a></p>",
-      "published": "Fri, 04 Sep 2026 22:27:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-05T00:35:37.760872Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41520",
-      "first_seen": "2026-09-05T00:25:41.089926Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:\nhttps://www.whitehouse.gov/releases/202",
-      "next_retry_at": "2026-09-05T00:45:37.760887Z",
-      "truth_social_id": "117215122287615906"
     },
     "truth:117215125018114096": {
       "post_status": "RETRY",
