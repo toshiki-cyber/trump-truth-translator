@@ -2287,7 +2287,10 @@
     "https://trumpstruth.org/statuses/41521",
     "fp:WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report:\nhttps://www.whitehouse.gov/releases/202",
     "truth:117215122287615906",
-    "https://trumpstruth.org/statuses/41520"
+    "https://trumpstruth.org/statuses/41520",
+    "fp:What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLI",
+    "truth:117215125018114096",
+    "https://trumpstruth.org/statuses/41519"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14962,6 +14965,24 @@
       "media_identity": "attachment:117215122287615906:",
       "translation": "ホワイトハウス報道発表 — アメリカ製：製造業、民間雇用の力が爆発的な8月の雇用統計をもたらす：\nhttps://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/"
     },
+    "truth:117215125018114096": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41519",
+      "source_text": "<p>What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLIONS took to the skies. The FIFA World Cup alone generated more than 18 BILLION DOLLARS for our Economy, and supported more than 160,000 JOBS! Travel and Tourism mean JOBS, INVESTMENT, and BILLIONS OF DOLLARS flowing into American Businesses and Communities. We are cutting red tape, modernizing Air Travel, and making it easier to visit, and do business, in the United States. AMERICA IS OPEN FOR BUSINESS — AND THE BEST IS YET TO COME! President DONALD J. TRUMP</p>",
+      "published": "Fri, 04 Sep 2026 22:27:47 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-05T01:15:36.976581Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41519",
+      "first_seen": "2026-09-05T00:25:41.680564Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLI",
+      "truth_social_id": "117215125018114096",
+      "source_fingerprint": "fp:What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLI",
+      "media_identity": "attachment:117215125018114096:",
+      "translation": "素晴らしい夏だった。アメリカの旅行産業は信じられない成功を収めている!アメリカ国民は約3000億マイル移動し、我が国の国立公園には7800万人の訪問者が訪れ、数百万人が空の旅に出かけた。FIFAワールドカップだけで経済に180億ドル以上をもたらし、160,000以上の雇用を支えた!旅行観光産業は雇用、投資、そしてアメリカの事業と地域社会への数十億ドルの流入を意味する。我々は規制を撤廃し、航空旅行を近代化し、アメリカを訪問し、事業を行いやすくしている。アメリカはビジネスのために開かれている――そして最高はこれからだ!\n\nドナルド・J・トランプ大統領"
+    },
     "truth:117213723499789673": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25168,22 +25189,6 @@
       "published": "Fri, 04 Sep 2026 22:02:03 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-05T00:21:08.997056Z"
-    },
-    "truth:117215125018114096": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41519",
-      "source_text": "<p>What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLIONS took to the skies. The FIFA World Cup alone generated more than 18 BILLION DOLLARS for our Economy, and supported more than 160,000 JOBS! Travel and Tourism mean JOBS, INVESTMENT, and BILLIONS OF DOLLARS flowing into American Businesses and Communities. We are cutting red tape, modernizing Air Travel, and making it easier to visit, and do business, in the United States. AMERICA IS OPEN FOR BUSINESS — AND THE BEST IS YET TO COME! President DONALD J. TRUMP</p>",
-      "published": "Fri, 04 Sep 2026 22:27:47 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-05T00:35:38.157825Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41519",
-      "first_seen": "2026-09-05T00:25:41.680564Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLI",
-      "next_retry_at": "2026-09-05T00:45:38.157841Z",
-      "truth_social_id": "117215125018114096"
     }
   }
 }
