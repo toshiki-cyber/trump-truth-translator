@@ -2275,7 +2275,10 @@
     "https://www.trumpstruth.org/statuses/41516",
     "fp:I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midt",
     "truth:117215105900362553",
-    "https://trumpstruth.org/statuses/41518"
+    "https://trumpstruth.org/statuses/41518",
+    "fp:Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Tr",
+    "truth:117215115735640580",
+    "https://trumpstruth.org/statuses/41517"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -14878,6 +14881,24 @@
       "media_identity": "attachment:117215105900362553:",
       "translation": "テキサス州副知事の友人ダン・パトリックの新しいポッドキャスト「Lt. Dan」に出演し、来たるべき共和党大会、歴史上初の中間選挙大会について議論した。来週ダラスで開催される素晴らしいイベントになるだろう。イランを含む他の重要な問題、そして我が国における危険な社会主義とコミュニズムの台頭についても議論した。私との対談を必ず視聴してほしい。https://ltdan.comを訪問してほしい。"
     },
+    "truth:117215115735640580": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41517",
+      "source_text": "<p>Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Triangle, World Class Universities, and some of the smartest, hardest working people anywhere in the World. INNOVATION is BACK at the G20! Countries from all over the World now understand that Innovation means GROWTH, and Growth means Prosperity. Secretary of Commerce Howard Lutnick, and Office of Science and Technology Policy (OSTP) Director Michael Kratsios, led a tremendously successful meeting of Business and Technology Ministers. They got the group to A STRONG CONSENSUS, which is NOT an easy thing to do. Everyone agreed on the Carolina Principles: INVEST, BUILD, COMMERCIALIZE, and DEPLOY Emerging Technologies. SMART Rules and Standards, NOT more Regulation. We are NUMBER ONE in Tech, and NUMBER ONE in A.I. — BY A LOT! The World is learning from the BEST. Other Countries should follow our lead! President DONALD J. TRUMP</p>",
+      "published": "Fri, 04 Sep 2026 22:25:25 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-05T00:55:38.955199Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41517",
+      "first_seen": "2026-09-05T00:25:40.057197Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Tr",
+      "truth_social_id": "117215115735640580",
+      "source_fingerprint": "fp:Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Tr",
+      "media_identity": "attachment:117215115735640580:",
+      "translation": "ノースカロライナ州チャペルヒルで開催されたG20イノベーション担当閣僚会合での2日間は極めて実り多く、歴史的なものとなった。本当に素晴らしい州だ。研究トライアングルの本拠地であり、世界レベルの大学があり、世界中のどこにもいないような優秀で勤勉な人々が住んでいる。G20でイノベーションが復活した！世界中の国々はイノベーションが成長を意味し、成長が繁栄を意味することを今や理解している。ハワード・ルトニック商務長官とマイケル・クラッツィオス科学技術政策局長官が、ビジネス・テクノロジー担当閣僚の極めて成功した会合を主導した。彼らはグループを強固なコンセンサスに導いた。これは簡単ではない。全員がカロライナ原則に合意した。新興技術への投資、構築、商用化、そして展開だ。スマートなルールと基準であり、規制ではない。我々はテクノロジーで1位であり、AIで1位だ。そしてそれは圧倒的だ！世界は最高のものから学んでいる。他国は我々の指導に従うべきだ！ドナルド・J・トランプ大統領"
+    },
     "truth:117213723499789673": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25084,22 +25105,6 @@
       "published": "Fri, 04 Sep 2026 22:02:03 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-05T00:21:08.997056Z"
-    },
-    "truth:117215115735640580": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41517",
-      "source_text": "<p>Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Triangle, World Class Universities, and some of the smartest, hardest working people anywhere in the World. INNOVATION is BACK at the G20! Countries from all over the World now understand that Innovation means GROWTH, and Growth means Prosperity. Secretary of Commerce Howard Lutnick, and Office of Science and Technology Policy (OSTP) Director Michael Kratsios, led a tremendously successful meeting of Business and Technology Ministers. They got the group to A STRONG CONSENSUS, which is NOT an easy thing to do. Everyone agreed on the Carolina Principles: INVEST, BUILD, COMMERCIALIZE, and DEPLOY Emerging Technologies. SMART Rules and Standards, NOT more Regulation. We are NUMBER ONE in Tech, and NUMBER ONE in A.I. — BY A LOT! The World is learning from the BEST. Other Countries should follow our lead! President DONALD J. TRUMP</p>",
-      "published": "Fri, 04 Sep 2026 22:25:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-05T00:35:36.433693Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41517",
-      "first_seen": "2026-09-05T00:25:40.057197Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Tr",
-      "next_retry_at": "2026-09-05T00:45:36.433712Z",
-      "truth_social_id": "117215115735640580"
     },
     "truth:117215118218706075": {
       "post_status": "RETRY",
