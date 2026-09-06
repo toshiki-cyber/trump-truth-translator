@@ -2374,7 +2374,10 @@
     "truth:117225619807733834",
     "https://www.trumpstruth.org/statuses/41560",
     "truth:117225651639208797",
-    "https://www.trumpstruth.org/statuses/41559"
+    "https://www.trumpstruth.org/statuses/41559",
+    "fp:Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+    "truth:117225659119998401",
+    "https://trumpstruth.org/statuses/41561"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15269,6 +15272,22 @@
       "truth_social_id": "117225573075568466",
       "translation": "ジョン・ディンジェル下院議員の逝去時、私は彼に最高級のお別れの式典を与えた。MAXed OUT（最高レベル）だ！彼の妻デビー・ディンジェットは私に電話して、コントロールできないほど泣きながら何度も何度も感謝した。私がこんなに素晴らしいことをするなんて信じられないと言っていた！それ以来、彼女は君たちが大好きな大統領、つまり私についてばかり悪口を言うようになった。あのThird Rate Loser（三流の敗者）が私を叩くのを見るたびに、私は驚く。なぜなら私は忠実な人間だからだ。私はそんなことはしない。しかし、それでいい――それが政治というものだ。だが、そうあるべきではないのだ！大統領 ドナルド・J・トランプ"
     },
+    "truth:117225659119998401": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41561",
+      "source_text": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
+      "published": "Sun, 06 Sep 2026 19:06:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-06T22:36:10.765308Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41561",
+      "source_fingerprint": "fp:Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+      "media_identity": "attachment:117225659119998401:b495cf5401e758c2.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+      "truth_social_id": "117225659119998401",
+      "translation": "先週のホワイトハウス・バルルーム/ミリタリー・コンプレックス。世界のどこにあるものよりも最高のものになるだろう！大統領ドナルド・J・トランプ"
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -26539,16 +26558,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-06T22:36:17.243940Z"
-    },
-    "truth:117225659119998401": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41561",
-      "source_text": "<p>Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
-      "published": "Sun, 06 Sep 2026 19:06:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T22:21:04.165081Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41561"
     },
     "truth:117225679106637688": {
       "post_status": "DISCOVERED",
