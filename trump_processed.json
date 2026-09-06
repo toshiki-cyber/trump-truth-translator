@@ -2354,7 +2354,9 @@
     "https://www.trumpstruth.org/statuses/41545",
     "fp:Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while cry",
     "truth:117225573075568466",
-    "https://www.trumpstruth.org/statuses/41543"
+    "https://www.trumpstruth.org/statuses/41543",
+    "truth:117225577433254202",
+    "https://www.trumpstruth.org/statuses/41555"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15626,6 +15628,21 @@
       "truth_social_id": "117225573075568466",
       "translation": "ジョン・ディンジェル下院議員の逝去時、私は彼に最高級のお別れの式典を与えた。MAXed OUT（最高レベル）だ！彼の妻デビー・ディンジェットは私に電話して、コントロールできないほど泣きながら何度も何度も感謝した。私がこんなに素晴らしいことをするなんて信じられないと言っていた！それ以来、彼女は君たちが大好きな大統領、つまり私についてばかり悪口を言うようになった。あのThird Rate Loser（三流の敗者）が私を叩くのを見るたびに、私は驚く。なぜなら私は忠実な人間だからだ。私はそんなことはしない。しかし、それでいい――それが政治というものだ。だが、そうあるべきではないのだ！大統領 ドナルド・J・トランプ"
     },
+    "truth:117225577433254202": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41555",
+      "source_text": "<p></p>",
+      "published": "Sun, 06 Sep 2026 18:45:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-06T21:11:14.772395Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41555",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117225577433254202:6a0a4045b4183a44.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117225577433254202",
+      "translation": ""
+    },
     "truth:117224268117049581": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -26087,16 +26104,6 @@
       "published": "Sun, 06 Sep 2026 13:10:13 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-06T18:21:07.372154Z"
-    },
-    "truth:117225577433254202": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41555",
-      "source_text": "<p></p>",
-      "published": "Sun, 06 Sep 2026 18:45:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T20:21:16.787944Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41555"
     },
     "truth:117225579642973884": {
       "post_status": "DISCOVERED",
