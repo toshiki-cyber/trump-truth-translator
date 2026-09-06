@@ -2377,7 +2377,9 @@
     "https://www.trumpstruth.org/statuses/41559",
     "fp:Last week at the White House Ballroom/Military Complex. It will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
     "truth:117225659119998401",
-    "https://trumpstruth.org/statuses/41561"
+    "https://trumpstruth.org/statuses/41561",
+    "truth:117225654386878731",
+    "https://trumpstruth.org/statuses/41562"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15288,6 +15290,59 @@
       "truth_social_id": "117225659119998401",
       "translation": "先週のホワイトハウス・バルルーム/ミリタリー・コンプレックス。世界のどこにあるものよりも最高のものになるだろう！大統領ドナルド・J・トランプ"
     },
+    "truth:117225654386878731": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41562",
+      "source_text": "<p></p>",
+      "published": "Sun, 06 Sep 2026 19:05:33 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-06T22:41:08.969897Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41562",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117225654386878731:1809ae3756038b7e.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117225654386878731",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muuortbcckbz",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3muuortbcckbz",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-09-06T22:31:10.210085Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreihb4t65p5pyycczojd4ak4u2fxbzbth7hhwkgyeqh37dh643vum3m"
+                },
+                "mimeType": "image/jpeg",
+                "size": 357703
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 816,
+                "height": 1260
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muuortbcckbz",
+          "rkey": "3muuortbcckbz"
+        }
+      ]
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -26428,136 +26483,6 @@
       "published": "Sun, 06 Sep 2026 13:10:13 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-06T18:21:07.372154Z"
-    },
-    "truth:117225654386878731": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41562",
-      "source_text": "<p></p>",
-      "published": "Sun, 06 Sep 2026 19:05:33 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-06T22:31:17.243922Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41562",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117225654386878731:1809ae3756038b7e.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "truth_social_id": "117225654386878731",
-      "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muuortbcckbz",
-          "cid": "bafyreid4nl6dr3q4wxg244c646bmg6tjx3nsjw6if5fquxjohorl2q67nu"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muuortbcckbz",
-          "cid": "bafyreid4nl6dr3q4wxg244c646bmg6tjx3nsjw6if5fquxjohorl2q67nu"
-        },
-        "next_index": 1,
-        "last_rkey": "3muuortbcckbz",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-06T22:31:10.210085Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihb4t65p5pyycczojd4ak4u2fxbzbth7hhwkgyeqh37dh643vum3m"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 357703
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 816,
-                  "height": 1260
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3muuortbcckbz",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-06T22:31:10.210085Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihb4t65p5pyycczojd4ak4u2fxbzbth7hhwkgyeqh37dh643vum3m"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 357703
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 816,
-                  "height": 1260
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muuortbcckbz",
-            "rkey": "3muuortbcckbz"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muuortbcckbz",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3muuortbcckbz",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-06T22:31:10.210085Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihb4t65p5pyycczojd4ak4u2fxbzbth7hhwkgyeqh37dh643vum3m"
-                },
-                "mimeType": "image/jpeg",
-                "size": 357703
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 816,
-                "height": 1260
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muuortbcckbz",
-          "rkey": "3muuortbcckbz"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-06T22:36:17.243940Z"
     },
     "truth:117225679106637688": {
       "post_status": "DISCOVERED",
