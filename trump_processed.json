@@ -2395,7 +2395,9 @@
     "https://trumpstruth.org/statuses/41566",
     "fp:The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. ",
     "truth:117225804601307350",
-    "https://trumpstruth.org/statuses/41568"
+    "https://trumpstruth.org/statuses/41568",
+    "truth:117226238502825839",
+    "https://trumpstruth.org/statuses/41570"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15580,6 +15582,21 @@
       "truth_social_id": "117225804601307350",
       "translation": "マー・ア・ラーゴクラブは、すべての人から、世界で最高だと考えられている。また、無料で利用できる、比類なき南部のホワイトハウスとして機能している。アメリカを再び偉大にしよう！大統領ドナルド・J・トランプ"
     },
+    "truth:117226238502825839": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41570",
+      "source_text": "<p></p>",
+      "published": "Sun, 06 Sep 2026 21:34:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-06T23:36:07.255135Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41570",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117226238502825839:3202150c3f220af3.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117226238502825839",
+      "translation": ""
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -26738,16 +26755,6 @@
       "published": "Sun, 06 Sep 2026 17:57:42 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-06T22:21:04.166296Z"
-    },
-    "truth:117226238502825839": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41570",
-      "source_text": "<p></p>",
-      "published": "Sun, 06 Sep 2026 21:34:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T22:21:04.164604Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41570"
     }
   }
 }
