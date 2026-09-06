@@ -2315,7 +2315,10 @@
     "https://trumpstruth.org/statuses/41532",
     "fp:https://truthsocial.com/@Imaluckyangel/117213089504225513The\n Dumocrats CHEAT. Why won’t they approve Voter I.D.? Proof of Citizenship?",
     "truth:117224268117049581",
-    "https://trumpstruth.org/statuses/41531"
+    "https://trumpstruth.org/statuses/41531",
+    "fp:Even this jerk is beginning to get it!",
+    "truth:117224901332470028",
+    "https://trumpstruth.org/statuses/41533"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15213,6 +15216,22 @@
           "rkey": "3muu33gf4z27p"
         }
       ]
+    },
+    "truth:117224901332470028": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41533",
+      "source_text": "<p>Even this jerk is beginning to get it!</p>",
+      "published": "Sun, 06 Sep 2026 15:54:02 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-06T16:21:12.111034Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41533",
+      "source_fingerprint": "fp:Even this jerk is beginning to get it!",
+      "media_identity": "attachment:117224901332470028:9eaa9c0034ec8ad4.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Even this jerk is beginning to get it!",
+      "truth_social_id": "117224901332470028",
+      "translation": "こいつでさえ、ようやく分かり始めたな！"
     },
     "truth:117215122287615906": {
       "post_status": "DISCOVERED",
