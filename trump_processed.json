@@ -2386,7 +2386,9 @@
     "https://trumpstruth.org/statuses/41563",
     "fp:I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself, ",
     "truth:117225700476536773",
-    "https://trumpstruth.org/statuses/41565"
+    "https://trumpstruth.org/statuses/41565",
+    "truth:117225735398739896",
+    "https://trumpstruth.org/statuses/41567"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15472,6 +15474,21 @@
       "truth_social_id": "117225700476536773",
       "translation": "私は国のためにこれをやっている。自分のためではなく、アメリカのために株や様々な資産で何百億ドルもの利益を生み出してきたのに、得られるのは過激左翼民主党からの批判ばかりだ。非常に不公正だが、どうしようもない！ドナルド・J・トランプ大統領"
     },
+    "truth:117225735398739896": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41567",
+      "source_text": "<p></p>",
+      "published": "Sun, 06 Sep 2026 19:26:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-06T23:11:09.612894Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41567",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117225735398739896:071bf07642e3d57e.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117225735398739896",
+      "translation": ""
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -26612,16 +26629,6 @@
       "published": "Sun, 06 Sep 2026 13:10:13 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-06T18:21:07.372154Z"
-    },
-    "truth:117225735398739896": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41567",
-      "source_text": "<p></p>",
-      "published": "Sun, 06 Sep 2026 19:26:09 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T22:21:04.164854Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41567"
     },
     "truth:117225744046875186": {
       "post_status": "DISCOVERED",
