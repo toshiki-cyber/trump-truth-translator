@@ -25733,14 +25733,134 @@
       "updated_at": "2026-09-06T18:21:07.372154Z"
     },
     "truth:117225349620809512": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41537",
       "source_text": "<p></p>",
       "published": "Sun, 06 Sep 2026 17:48:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T18:21:07.371553Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41537"
+      "retry_count": 1,
+      "updated_at": "2026-09-06T18:51:15.772581Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41537",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117225349620809512:2c6aa05441df49c0.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "truth_social_id": "117225349620809512",
+      "translation": "",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muukhadk5cbi",
+          "cid": "bafyreihdry2tpwhrrr43fduboij55e4f4745vdqqfcapzonjh3niffjiv4"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muukhadk5cbi",
+          "cid": "bafyreihdry2tpwhrrr43fduboij55e4f4745vdqqfcapzonjh3niffjiv4"
+        },
+        "next_index": 1,
+        "last_rkey": "3muukhadk5cbi",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "",
+          "createdAt": "2026-09-06T18:51:09.040286Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiadrauff5rbqihnjpa7h66jlkisnrzxwj37ppz2t6nxug4rbtbnzu"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 264105
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 816,
+                  "height": 1260
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3muukhadk5cbi",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "",
+          "createdAt": "2026-09-06T18:51:09.040286Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiadrauff5rbqihnjpa7h66jlkisnrzxwj37ppz2t6nxug4rbtbnzu"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 264105
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 816,
+                  "height": 1260
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muukhadk5cbi",
+            "rkey": "3muukhadk5cbi"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muukhadk5cbi",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3muukhadk5cbi",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-09-06T18:51:09.040286Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiadrauff5rbqihnjpa7h66jlkisnrzxwj37ppz2t6nxug4rbtbnzu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 264105
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 816,
+                "height": 1260
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muukhadk5cbi",
+          "rkey": "3muukhadk5cbi"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-09-06T18:56:15.772594Z"
     },
     "truth:117225350305412391": {
       "post_status": "DISCOVERED",
