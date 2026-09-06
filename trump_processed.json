@@ -25531,24 +25531,36 @@
       "updated_at": "2026-09-06T08:21:11.336131Z"
     },
     "truth:117224257173061934": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41532",
       "source_text": "<p>Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT</p>",
       "published": "Sun, 06 Sep 2026 13:10:13 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T14:21:06.568876Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41532"
+      "retry_count": 1,
+      "updated_at": "2026-09-06T14:31:20.553923Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41532",
+      "first_seen": "2026-09-06T14:31:20.553889Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
+      "next_retry_at": "2026-09-06T14:36:20.553930Z",
+      "truth_social_id": "117224257173061934"
     },
     "truth:117224268117049581": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41531",
       "source_text": "<p><a href=\"https://truthsocial.com/@Imaluckyangel/117213089504225513The\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@Imaluckyangel</span><span class=\"invisible\">/117213089504225513The</span></a> Dumocrats CHEAT. Why won’t they approve Voter I.D.? Proof of Citizenship?</p>",
       "published": "Sun, 06 Sep 2026 13:13:00 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T14:21:06.568764Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41531"
+      "retry_count": 1,
+      "updated_at": "2026-09-06T14:31:20.995564Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41531",
+      "first_seen": "2026-09-06T14:31:20.995530Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://truthsocial.com/@Imaluckyangel/117213089504225513The\n Dumocrats CHEAT. Why won’t they approve Voter I.D.? Proof of Citizenship?",
+      "next_retry_at": "2026-09-06T14:36:20.995572Z",
+      "truth_social_id": "117224268117049581"
     }
   }
 }
