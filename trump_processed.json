@@ -2324,7 +2324,9 @@
     "truth:117225348204994362",
     "https://www.trumpstruth.org/statuses/41539",
     "truth:117225349092174399",
-    "https://www.trumpstruth.org/statuses/41538"
+    "https://www.trumpstruth.org/statuses/41538",
+    "truth:117225350305412391",
+    "https://www.trumpstruth.org/statuses/41536"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15270,6 +15272,21 @@
         }
       ]
     },
+    "truth:117225350305412391": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41536",
+      "source_text": "<p></p>",
+      "published": "Sun, 06 Sep 2026 17:48:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-06T18:56:10.966652Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41536",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117225350305412391:2b6d54789d69a3b9.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117225350305412391",
+      "translation": ""
+    },
     "truth:117224268117049581": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25861,16 +25878,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-06T18:56:15.772594Z"
-    },
-    "truth:117225350305412391": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41536",
-      "source_text": "<p></p>",
-      "published": "Sun, 06 Sep 2026 17:48:13 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T18:21:07.371439Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41536"
     },
     "truth:117225354857781734": {
       "post_status": "DISCOVERED",
