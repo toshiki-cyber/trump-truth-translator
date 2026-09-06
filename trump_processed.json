@@ -2309,7 +2309,10 @@
     "https://trumpstruth.org/statuses/41528",
     "fp:So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
     "truth:117221246252501141",
-    "https://trumpstruth.org/statuses/41530"
+    "https://trumpstruth.org/statuses/41530",
+    "fp:Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
+    "truth:117224257173061934",
+    "https://trumpstruth.org/statuses/41532"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15138,6 +15141,24 @@
         }
       ]
     },
+    "truth:117224257173061934": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41532",
+      "source_text": "<p>Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT</p>",
+      "published": "Sun, 06 Sep 2026 13:10:13 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-06T14:56:10.897354Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41532",
+      "first_seen": "2026-09-06T14:31:20.553889Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
+      "truth_social_id": "117224257173061934",
+      "source_fingerprint": "fp:Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
+      "media_identity": "attachment:117224257173061934:",
+      "translation": "カナダの（通貨）ドルと米国の不均衡は受け入れがたい。長年そうなってきた――だがもはやそうではない！トランプ大統領"
+    },
     "truth:117215122287615906": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25529,22 +25550,6 @@
       "published": "Sun, 06 Sep 2026 00:24:30 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-06T08:21:11.336131Z"
-    },
-    "truth:117224257173061934": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41532",
-      "source_text": "<p>Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT</p>",
-      "published": "Sun, 06 Sep 2026 13:10:13 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-06T14:41:12.475486Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41532",
-      "first_seen": "2026-09-06T14:31:20.553889Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
-      "next_retry_at": "2026-09-06T14:51:12.475499Z",
-      "truth_social_id": "117224257173061934"
     },
     "truth:117224268117049581": {
       "post_status": "RETRY",
