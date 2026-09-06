@@ -25488,14 +25488,14 @@
       "status_url": "https://trumpstruth.org/statuses/41530",
       "source_text": "<p>So sad what is happening in Spain, a country with ZERO control of its Border. WOW!</p>",
       "published": "Sun, 06 Sep 2026 00:24:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-06T02:21:05.072962Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-06T02:26:09.340909Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41530",
       "first_seen": "2026-09-06T02:21:05.072929Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
-      "next_retry_at": "2026-09-06T02:26:05.072971Z",
+      "next_retry_at": "2026-09-06T02:36:09.340927Z",
       "truth_social_id": "117221246252501141"
     }
   }
