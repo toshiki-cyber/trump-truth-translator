@@ -2334,7 +2334,10 @@
     "truth:117225384741591978",
     "https://www.trumpstruth.org/statuses/41542",
     "truth:117225385560464439",
-    "https://www.trumpstruth.org/statuses/41541"
+    "https://www.trumpstruth.org/statuses/41541",
+    "fp:Dwight Eisenhower didn’t need a Helipad at the White House for those little Choppers, but America needs one now — Just completed, and MAGNIFICENT! Pre",
+    "truth:117225387590126937",
+    "https://www.trumpstruth.org/statuses/41540"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15393,6 +15396,22 @@
       "truth_social_id": "117225385560464439",
       "translation": ""
     },
+    "truth:117225387590126937": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41540",
+      "source_text": "<p>Dwight Eisenhower didn’t need a Helipad at the White House for those little Choppers, but America needs one now — Just completed, and MAGNIFICENT! President DONALD J. TRUMP</p>",
+      "published": "Sun, 06 Sep 2026 17:57:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-06T19:21:11.789517Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41540",
+      "source_fingerprint": "fp:Dwight Eisenhower didn’t need a Helipad at the White House for those little Choppers, but America needs one now — Just completed, and MAGNIFICENT! Pre",
+      "media_identity": "attachment:117225387590126937:9fd0b7db2dee47b5.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Dwight Eisenhower didn’t need a Helipad at the White House for those little Choppers, but America needs one now — Just completed, and MAGNIFICENT! Pre",
+      "truth_social_id": "117225387590126937",
+      "translation": "ドワイト・アイゼンハワーはあの小型ヘリコプターのために、ホワイトハウスのヘリパッドは必要なかった。だが今のアメリカには必要なのだ――まさに完成したばかり、そして壮観だ！大統領ドナルド・J・トランプ"
+    },
     "truth:117224268117049581": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -25854,16 +25873,6 @@
       "published": "Sun, 06 Sep 2026 13:10:13 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-06T18:21:07.372154Z"
-    },
-    "truth:117225387590126937": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41540",
-      "source_text": "<p>Dwight Eisenhower didn’t need a Helipad at the White House for those little Choppers, but America needs one now — Just completed, and MAGNIFICENT! President DONALD J. TRUMP</p>",
-      "published": "Sun, 06 Sep 2026 17:57:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T18:21:07.371000Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41540"
     }
   }
 }
