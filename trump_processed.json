@@ -2428,7 +2428,10 @@
     "truth:117227309601803941",
     "https://trumpstruth.org/statuses/41592",
     "truth:117227000938593845",
-    "https://trumpstruth.org/statuses/41585"
+    "https://trumpstruth.org/statuses/41585",
+    "fp:Trump cheers strong jobs report, calls for lower interest rates: \nhttps://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-",
+    "truth:117227003669020660",
+    "https://trumpstruth.org/statuses/41583"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15930,6 +15933,24 @@
       "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/227/259/100/592/930/original/ce7b3757c3a6311f.mp4",
       "translation": "Part 2: ドナルド・トランプは反革命である："
     },
+    "truth:117227003669020660": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41583",
+      "source_text": "<p>Trump cheers strong jobs report, calls for lower interest rates: <a href=\"https://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-cheers-strong-jobs-report-calls-lower-interest-rates</span></a></p>",
+      "published": "Mon, 07 Sep 2026 00:48:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T03:20:51.857770Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41583",
+      "first_seen": "2026-09-07T02:41:07.040375Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump cheers strong jobs report, calls for lower interest rates: \nhttps://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-",
+      "truth_social_id": "117227003669020660",
+      "source_fingerprint": "fp:Trump cheers strong jobs report, calls for lower interest rates: \nhttps://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-",
+      "media_identity": "attachment:117227003669020660:",
+      "translation": "トランプ、強い雇用統計を歓迎、金利引き下げを要求\n\nhttps://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates"
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27371,22 +27392,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-07T03:21:05.796271Z"
-    },
-    "truth:117227003669020660": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41583",
-      "source_text": "<p>Trump cheers strong jobs report, calls for lower interest rates: <a href=\"https://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/trump-cheers-strong-jobs-report-calls-lower-interest-rates</span></a></p>",
-      "published": "Mon, 07 Sep 2026 00:48:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T03:05:51.652814Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41583",
-      "first_seen": "2026-09-07T02:41:07.040375Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump cheers strong jobs report, calls for lower interest rates: \nhttps://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-",
-      "next_retry_at": "2026-09-07T03:15:51.652832Z",
-      "truth_social_id": "117227003669020660"
     },
     "truth:117227005260208337": {
       "post_status": "RETRY",
