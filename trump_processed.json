@@ -2455,7 +2455,10 @@
     "https://trumpstruth.org/statuses/41591",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
     "truth:117227424953623109",
-    "https://trumpstruth.org/statuses/41594"
+    "https://trumpstruth.org/statuses/41594",
+    "fp:One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on",
+    "truth:117227381742358121",
+    "https://trumpstruth.org/statuses/41593"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16268,6 +16271,24 @@
         }
       ]
     },
+    "truth:117227381742358121": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41593",
+      "source_text": "<p>One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 02:24:50 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T04:46:06.769329Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41593",
+      "first_seen": "2026-09-07T04:20:55.666403Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on",
+      "truth_social_id": "117227381742358121",
+      "source_fingerprint": "fp:One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on",
+      "media_identity": "attachment:117227381742358121:",
+      "translation": "国内で最高クラスの司法長官の一人が、素晴らしいフロリダ州のジェームス・ウスマイアーだ。彼はMAGAのすべてを体現している。犯罪と国境に強く、常に攻撃にさらされている我々の修正第2条を守り、軍と退役軍人を支持し、インフレ低下と低税を実現させるなど、本当に多くのことをしている。いつもの通り、ジェームス・ウスマイアーは私の完全で絶対的な支持を得ている。彼は決してお前たちを失望させることはない!!!ドナルド・J・トランプ大統領"
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27540,22 +27561,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-07T03:15:56.563793Z"
-    },
-    "truth:117227381742358121": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41593",
-      "source_text": "<p>One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP</p>",
-      "published": "Mon, 07 Sep 2026 02:24:50 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T04:30:58.686343Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41593",
-      "first_seen": "2026-09-07T04:20:55.666403Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on",
-      "next_retry_at": "2026-09-07T04:40:58.686359Z",
-      "truth_social_id": "117227381742358121"
     }
   }
 }
