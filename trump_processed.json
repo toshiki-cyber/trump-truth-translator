@@ -28446,20 +28446,77 @@
       "updated_at": "2026-09-07T14:21:21.501367Z"
     },
     "truth:117230298017100144": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://trumpstruth.org/statuses/41616",
       "source_text": "<p>Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Deranged People, after fighting for 10 years, should finally acknowledge that your Favorite President (ME!), knows how to WIN! They should be exhausted by now but, sadly, they’re not. They’re going to give it one last shot at ruining America, but we’re not going to let that happen. We’re going to win the Midterms, BIG, and SAVE AMERICA! President DONALD J. TRUMP</p>",
       "published": "Mon, 07 Sep 2026 14:46:29 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T18:21:18.666805Z",
+      "retry_count": 1,
+      "updated_at": "2026-09-07T18:31:37.082667Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41616",
       "first_seen": "2026-09-07T18:01:31.574614Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Der",
-      "next_retry_at": "2026-09-07T18:26:26.498108Z",
-      "truth_social_id": "117230298017100144"
+      "truth_social_id": "117230298017100144",
+      "source_fingerprint": "fp:Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Der",
+      "media_identity": "attachment:117230298017100144:",
+      "translation": "労働節おめでとう。過激左翼の狂信者、共産主義者、民主党員ども、つまり我が国を破壊するためなら何でもやる連中にも言っておく。この頭のおかしい連中は10年間戦った挙句、お前らの好きな大統領（俺だ！）が勝ち方を知っていることをようやく認めるべきだ。今頃は疲れ果ててもいいはずだが、残念ながら連中は違う。アメリカを台無しにするために最後の一撃を加えようとしているが、そんなことは許さない。我々は中間選挙で大勝利を収め、アメリカを救う！ドナルド・J・トランプ大統領",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwqriy4q243",
+          "cid": "bafyreihkq5d6g2tcqjemfhpuh7nvlygpm5eblkb2ppqszopcrvkclogm5i"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwqriy4q243",
+          "cid": "bafyreihkq5d6g2tcqjemfhpuh7nvlygpm5eblkb2ppqszopcrvkclogm5i"
+        },
+        "next_index": 1,
+        "last_rkey": "3muwqriy4q243",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "労働節おめでとう。過激左翼の狂信者、共産主義者、民主党員ども、つまり我が国を破壊するためなら何でもやる連中にも言っておく。この頭のおかしい連中は10年間戦った挙句、お前らの好きな大統領（俺だ！）が勝ち方を知っていることをようやく認めるべきだ。今頃は疲れ果ててもいいはずだが、残念ながら連中は違う。アメリカを台無しにするために最後の一撃を加えようとしているが、そんなことは許さない。我々は中間選挙で大勝利を収め、アメリカを救う！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-09-07T18:31:30.585129Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "root_rkey": "3muwqriy4q243",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "労働節おめでとう。過激左翼の狂信者、共産主義者、民主党員ども、つまり我が国を破壊するためなら何でもやる連中にも言っておく。この頭のおかしい連中は10年間戦った挙句、お前らの好きな大統領（俺だ！）が勝ち方を知っていることをようやく認めるべきだ。今頃は疲れ果ててもいいはずだが、残念ながら連中は違う。アメリカを台無しにするために最後の一撃を加えようとしているが、そんなことは許さない。我々は中間選挙で大勝利を収め、アメリカを救う！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-09-07T18:31:30.585129Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwqriy4q243",
+            "rkey": "3muwqriy4q243"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwqriy4q243",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3muwqriy4q243",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "労働節おめでとう。過激左翼の狂信者、共産主義者、民主党員ども、つまり我が国を破壊するためなら何でもやる連中にも言っておく。この頭のおかしい連中は10年間戦った挙句、お前らの好きな大統領（俺だ！）が勝ち方を知っていることをようやく認めるべきだ。今頃は疲れ果ててもいいはずだが、残念ながら連中は違う。アメリカを台無しにするために最後の一撃を加えようとしているが、そんなことは許さない。我々は中間選挙で大勝利を収め、アメリカを救う！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-09-07T18:31:30.585129Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwqriy4q243",
+          "rkey": "3muwqriy4q243"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-09-07T18:36:37.082680Z"
     },
     "https://trumpstruth.org/statuses/41602": {
       "post_status": "DISCOVERED",
