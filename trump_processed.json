@@ -2417,7 +2417,10 @@
     "truth:117226720070374585",
     "https://trumpstruth.org/statuses/41579",
     "truth:117226930189515809",
-    "https://trumpstruth.org/statuses/41580"
+    "https://trumpstruth.org/statuses/41580",
+    "fp:Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: \nhttps://justthenews.com/politics-policy/elections/",
+    "truth:117227000697043074",
+    "https://trumpstruth.org/statuses/41586"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15814,6 +15817,24 @@
         }
       ]
     },
+    "truth:117227000697043074": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41586",
+      "source_text": "<p>Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: <a href=\"https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race</span></a></p>",
+      "published": "Mon, 07 Sep 2026 00:47:56 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T02:50:53.247774Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41586",
+      "first_seen": "2026-09-07T02:26:03.555184Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: \nhttps://justthenews.com/politics-policy/elections/",
+      "truth_social_id": "117227000697043074",
+      "source_fingerprint": "fp:Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: \nhttps://justthenews.com/politics-policy/elections/",
+      "media_identity": "attachment:117227000697043074:",
+      "translation": "トランプ、ダラスのGOP大会両日の基調講演を行う、テキサス上院選挙に資金を投入：\nhttps://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race"
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27208,22 +27229,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-07T02:51:27.440165Z"
-    },
-    "truth:117227000697043074": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41586",
-      "source_text": "<p>Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: <a href=\"https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race</span></a></p>",
-      "published": "Mon, 07 Sep 2026 00:47:56 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T02:36:06.863458Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41586",
-      "first_seen": "2026-09-07T02:26:03.555184Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: \nhttps://justthenews.com/politics-policy/elections/",
-      "next_retry_at": "2026-09-07T02:46:06.863472Z",
-      "truth_social_id": "117227000697043074"
     },
     "truth:117227000938593845": {
       "post_status": "RETRY",
