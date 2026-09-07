@@ -2518,7 +2518,9 @@
     "https://trumpstruth.org/statuses/41619",
     "fp:Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most",
     "truth:117231833977439431",
-    "https://trumpstruth.org/statuses/41621"
+    "https://trumpstruth.org/statuses/41621",
+    "truth:117231928888969402",
+    "https://trumpstruth.org/statuses/41623"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15824,6 +15826,21 @@
       "truth_social_id": "117231833977439431",
       "translation": "クリストファー・コロンブスの像がアイゼンハワー・エグゼクティブ・オフィス・ビルの入口に堂々と立っている。ホワイトハウスの真隣にあり、ワシントンD.C.で最も重要な建物の入口の一つだ。私はイタリア系アメリカ人コミュニティーへの敬意を表してこれを行った。勤勉で、聡明で、素晴らしい人々だ。彼らは大いに感謝してくれている。大統領ドナルド・J・トランプ"
     },
+    "truth:117231928888969402": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41623",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 21:41:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T22:26:58.558806Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41623",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117231928888969402:2632c7fb0b026b9b.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117231928888969402",
+      "translation": ""
+    },
     "truth:117230076715017308": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -28603,24 +28620,20 @@
       "next_retry_at": "2026-09-07T20:26:29.119356Z"
     },
     "truth:117231907664551152": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41622",
       "source_text": "<p>US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: <a href=\"https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/us-produc</span><span class=\"invisible\">er-prices-unexpectedly-fall-june-2026-07-15/</span></a></p>",
       "published": "Mon, 07 Sep 2026 21:35:50 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T22:21:13.114925Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41622"
-    },
-    "truth:117231928888969402": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41623",
-      "source_text": "<p></p>",
-      "published": "Mon, 07 Sep 2026 21:41:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T22:21:13.114823Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41623"
+      "retry_count": 1,
+      "updated_at": "2026-09-07T22:26:56.564974Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41622",
+      "first_seen": "2026-09-07T22:26:56.564939Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: \nhttps://www.reuters.com/business/us-producer-prices-un",
+      "next_retry_at": "2026-09-07T22:31:56.564984Z",
+      "truth_social_id": "117231907664551152"
     },
     "truth:117231954791116629": {
       "post_status": "DISCOVERED",
