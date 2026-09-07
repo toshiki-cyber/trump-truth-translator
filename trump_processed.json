@@ -2478,7 +2478,10 @@
     "https://www.trumpstruth.org/statuses/41595",
     "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
     "truth:117230119059059312",
-    "https://www.trumpstruth.org/statuses/41598"
+    "https://www.trumpstruth.org/statuses/41598",
+    "fp:From Greg Wischer at the United States Department of the Interior: “Following five years of no repairs, the fountains and pools at the Franklin Delano",
+    "truth:117230175831797133",
+    "https://www.trumpstruth.org/statuses/41602"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15769,6 +15772,22 @@
       "media_identity": "attachment:117230119059059312:",
       "translation": "イランの最高指導部が戦争の終結を促す：\nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12"
     },
+    "truth:117230175831797133": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41602",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Following five years of no repairs, the fountains and pools at the Franklin Delano Roosevelt Memorial were recently rehabilitated. More than 100,000 gallons of water flow through the seven unique granite fountains and pools at the memorial, and the fountains’ mechanical systems—as well as the surrounding plaza, including the large sidewalk pavers—were all repaired. At the memorial, each fountain—its movement, scale, and sound—represent distinct challenges and achievements of Roosevelt’s four terms. For example, the unorderly blocks in the first photo below represent the uneasy stability of the Cold War that followed Roosevelt’s death and post-WWII period. Additional photos of some of the other fountains at the memorial are also below.”</p>",
+      "published": "Mon, 07 Sep 2026 14:15:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T15:06:25.370284Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41602",
+      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Following five years of no repairs, the fountains and pools at the Franklin Delano",
+      "media_identity": "attachment:117230175831797133:15eb7d750c45b324.jpg,8cf793bc144c665f.jpg,c6c464071ff7d942.jpg,ed50670b8ebf73c3.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Following five years of no repairs, the fountains and pools at the Franklin Delano",
+      "truth_social_id": "117230175831797133",
+      "translation": "内務省のグレッグ・ウィッシャーから：「5年間の修繕がなかった後、フランクリン・デラノ・ルーズベルト・メモリアルの噴水とプールが最近修復された。このメモリアルの7つのユニークな花崗岩製の噴水とプールを通じて100,000ガロン以上の水が流れており、噴水の機械システムおよび周囲のプラザ（大型の歩道舗装を含む）がすべて修復されている。メモリアルでは、各噴水——その動き、規模、そして音——はルーズベルトの4期の任期における異なる課題と成果を表現している。例えば、下の最初の写真の不規則なブロックは、ルーズベルトの死後および第二次世界大戦後に続いた冷戦の不安定な安定性を表現している。メモリアルの他の噴水のいくつかの追加写真も下に掲載されている。」"
+    },
     "truth:117225654386878731": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27921,16 +27940,6 @@
       "published": "Mon, 07 Sep 2026 13:50:35 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-07T14:21:21.501367Z"
-    },
-    "truth:117230175831797133": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41602",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Following five years of no repairs, the fountains and pools at the Franklin Delano Roosevelt Memorial were recently rehabilitated. More than 100,000 gallons of water flow through the seven unique granite fountains and pools at the memorial, and the fountains’ mechanical systems—as well as the surrounding plaza, including the large sidewalk pavers—were all repaired. At the memorial, each fountain—its movement, scale, and sound—represent distinct challenges and achievements of Roosevelt’s four terms. For example, the unorderly blocks in the first photo below represent the uneasy stability of the Cold War that followed Roosevelt’s death and post-WWII period. Additional photos of some of the other fountains at the memorial are also below.”</p>",
-      "published": "Mon, 07 Sep 2026 14:15:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T14:21:21.500600Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41602"
     }
   }
 }
