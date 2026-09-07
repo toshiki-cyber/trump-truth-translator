@@ -27505,15 +27505,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41577",
       "source_text": "<p></p>",
       "published": "Sun, 06 Sep 2026 23:07:52 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-09-07T13:16:34.701353Z",
+      "retry_count": 5,
+      "updated_at": "2026-09-07T14:01:33.101131Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41577",
       "source_fingerprint": null,
       "media_identity": "attachment:117226607246121678:e1aaaa6b8b06801f-1d6ce2305428.mov",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daahemdg2hmc73d0bni0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "truth_social_id": "117226607246121678",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-09-07T13:56:34.701371Z"
+      "next_retry_at": "2026-09-07T15:21:33.101147Z"
     },
     "truth:117227000938593845": {
       "post_status": "DISCOVERED",
