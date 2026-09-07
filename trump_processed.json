@@ -2458,7 +2458,10 @@
     "https://trumpstruth.org/statuses/41594",
     "fp:One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on",
     "truth:117227381742358121",
-    "https://trumpstruth.org/statuses/41593"
+    "https://trumpstruth.org/statuses/41593",
+    "fp:From Greg Wischer at the United States Department of the Interior: “The Joan of Arc statue in Meridian Park was cleaned and waxed. Here are photos tak",
+    "truth:117230125974662427",
+    "https://www.trumpstruth.org/statuses/41601"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15508,6 +15511,22 @@
       "media_identity": "attachment:117227381742358121:",
       "translation": "国内で最高クラスの司法長官の一人が、素晴らしいフロリダ州のジェームス・ウスマイアーだ。彼はMAGAのすべてを体現している。犯罪と国境に強く、常に攻撃にさらされている我々の修正第2条を守り、軍と退役軍人を支持し、インフレ低下と低税を実現させるなど、本当に多くのことをしている。いつもの通り、ジェームス・ウスマイアーは私の完全で絶対的な支持を得ている。彼は決してお前たちを失望させることはない!!!ドナルド・J・トランプ大統領"
     },
+    "truth:117230125974662427": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41601",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “The Joan of Arc statue in Meridian Park was cleaned and waxed. Here are photos taken today!”</p>",
+      "published": "Mon, 07 Sep 2026 14:02:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T14:26:35.340724Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41601",
+      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “The Joan of Arc statue in Meridian Park was cleaned and waxed. Here are photos tak",
+      "media_identity": "attachment:117230125974662427:379a671e54e29254.jpg,390a412aaa355291.jpg,dd9f33448e249403.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “The Joan of Arc statue in Meridian Park was cleaned and waxed. Here are photos tak",
+      "truth_social_id": "117230125974662427",
+      "translation": "アメリカ内務省のグレッグ・ウィッシャーからの報告：「メリディアンパークのジャンヌ・ダルク像がクリーニングとワックス加工された。今日撮影された写真がこれです！」"
+    },
     "truth:117225654386878731": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27792,44 +27811,52 @@
       "next_retry_at": "2026-09-07T14:26:32.013714Z"
     },
     "truth:117230085361299862": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41595",
       "source_text": "<p>THE SAVE AMERICA ACT:</p><p>1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).</p><p>2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.</p>",
       "published": "Mon, 07 Sep 2026 13:52:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T14:21:21.501263Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41595"
+      "retry_count": 1,
+      "updated_at": "2026-09-07T14:26:25.925776Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41595",
+      "first_seen": "2026-09-07T14:26:25.925744Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:THE SAVE AMERICA ACT:\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).\n2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.",
+      "next_retry_at": "2026-09-07T14:31:25.925784Z",
+      "truth_social_id": "117230085361299862"
     },
     "truth:117230118021363013": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41599",
       "source_text": "<p>Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST relief in HISTORY for hardworking families – Nobody’s seen anything like it!  Now, another HUGE WIN: <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@SECPaulSAtkins\">@<span>SECPaulSAtkins</span></a></span> at the SEC slashed Taxes on ETFs, helping MILLIONS of Retirement Investors keep more of their own money, build wealth, and live the American Dream without Government “rip offs.” TOTAL REVOLUTION for Savers. Great job Paul — You’re a STAR! President DONALD J. TRUMP</p><p>How millions of everyday investors are getting a tax break: <a href=\"https://www.washingtonpost.com/opinions/2026/02/03/sec-etf-tax-relief-mutual-fund-change/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/02/03/sec-etf-tax-relief-mutual-fund-change/</span></a></p>",
       "published": "Mon, 07 Sep 2026 14:00:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T14:21:21.501161Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41599"
+      "retry_count": 1,
+      "updated_at": "2026-09-07T14:26:26.623187Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41599",
+      "first_seen": "2026-09-07T14:26:26.623156Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST reli",
+      "next_retry_at": "2026-09-07T14:31:26.623196Z",
+      "truth_social_id": "117230118021363013"
     },
     "truth:117230119059059312": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41598",
       "source_text": "<p>Iran’s Top Politicians Urge an End to the War: <a href=\"https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">s-top-politicians-urge-an-end-to-the-war-d0936e12</span></a></p>",
       "published": "Mon, 07 Sep 2026 14:00:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T14:21:21.501055Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41598"
-    },
-    "truth:117230125974662427": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41601",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “The Joan of Arc statue in Meridian Park was cleaned and waxed. Here are photos taken today!”</p>",
-      "published": "Mon, 07 Sep 2026 14:02:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T14:21:21.500922Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41601"
+      "retry_count": 1,
+      "updated_at": "2026-09-07T14:26:27.355420Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41598",
+      "first_seen": "2026-09-07T14:26:27.355389Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+      "next_retry_at": "2026-09-07T14:31:27.355428Z",
+      "truth_social_id": "117230119059059312"
     },
     "truth:117230133235298185": {
       "post_status": "DISCOVERED",
