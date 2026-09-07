@@ -2412,7 +2412,10 @@
     "truth:117226613457214061",
     "https://trumpstruth.org/statuses/41572",
     "truth:117226613956728091",
-    "https://trumpstruth.org/statuses/41571"
+    "https://trumpstruth.org/statuses/41571",
+    "fp:Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and",
+    "truth:117226720070374585",
+    "https://trumpstruth.org/statuses/41579"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15740,6 +15743,22 @@
       "truth_social_id": "117226613956728091",
       "translation": ""
     },
+    "truth:117226720070374585": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41579",
+      "source_text": "<p>Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP</p>",
+      "published": "Sun, 06 Sep 2026 23:36:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T01:26:16.548541Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41579",
+      "source_fingerprint": "fp:Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and",
+      "media_identity": "attachment:117226720070374585:1dc0bcd9e60a906a-0948b6b25473.mov",
+      "failure_reason": null,
+      "fingerprint": "fp:Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and",
+      "truth_social_id": "117226720070374585",
+      "translation": "多くの人々が、史上最大の不正投票州の一つであるニューメキシコ州の名前をNEW AMERICA（新アメリカ）に変更することを提案している。その州の人々にとって、はるかにより名高く、より美しいものになるだろう。凄い、大好きだ!!!　ドナルド・J・トランプ大統領"
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -26965,16 +26984,6 @@
       "truth_social_id": "117226607246121678",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-07T01:56:07.697251Z"
-    },
-    "truth:117226720070374585": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41579",
-      "source_text": "<p>Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP</p>",
-      "published": "Sun, 06 Sep 2026 23:36:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T00:21:08.732494Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41579"
     }
   }
 }
