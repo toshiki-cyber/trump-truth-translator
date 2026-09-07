@@ -2452,7 +2452,10 @@
     "https://trumpstruth.org/statuses/41589",
     "fp:New York Times Bestselling Author, Victor Davis Hanson, just wrote what will quickly be considered one of the BEST BOOKS OF THE YEAR (Maybe the BEST!)",
     "truth:117227242849038794",
-    "https://trumpstruth.org/statuses/41591"
+    "https://trumpstruth.org/statuses/41591",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
+    "truth:117227424953623109",
+    "https://trumpstruth.org/statuses/41594"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16198,6 +16201,73 @@
       "media_identity": "attachment:117227242849038794:",
       "translation": "ニューヨークタイムズのベストセラー作家ヴィクター・デイヴィス・ハンソンが、今年のベスト本（ひょっとしたら最高傑作かもしれない）として間もなく認識されるであろう著作を執筆した。『THE COUNTER REVOLUTION』と題されたこの本の著者は、私自身が理解しているよりも、ひょっとしたらさらに良く、私のことを理解している。災厄の寸前から、米国は今や世界中のどの国よりも「最も熱い」国となっており、それはMAGAと多くの偉大なアメリカ愛国者たちがそこまで我々を導いたからである。ヴィクター・デイヴィス・ハンソンがそのすべてを説明しており、これまで以上に見事に説明している！この歴史的に重要な本を今すぐ手に入れよ。ありがとう！！！大統領 DJT"
     },
+    "truth:117227424953623109": {
+      "post_status": "POSTED",
+      "media_state": "INVALID",
+      "status_url": "https://trumpstruth.org/statuses/41594",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941</span>Part 1: Donald Trump is the Counter Revolution:</p>",
+      "published": "Mon, 07 Sep 2026 02:35:49 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-07T04:31:01.394120Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41594",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
+      "media_identity": "attachment:117227424953623109:d2c28538021df34c-2233d9ef881a.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
+      "truth_social_id": "117227424953623109",
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/227/319/263/235/079/original/d2c28538021df34c.mp4",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: ドナルド・トランプは反革命である。",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvhwyfpbsaf",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3muvhwyfpbsaf",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: ドナルド・トランプは反革命である。\n\n動画はこちら：https://truthsocial.com/@realDonaldTrump/posts/117227424953623109",
+        "createdAt": "2026-09-07T04:20:59.578074Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 77
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part"
+              }
+            ]
+          },
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 155,
+              "byteEnd": 220
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truthsocial.com/@realDonaldTrump/posts/117227424953623109"
+              }
+            ]
+          }
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvhwyfpbsaf",
+          "rkey": "3muvhwyfpbsaf"
+        }
+      ]
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27477,179 +27547,15 @@
       "status_url": "https://trumpstruth.org/statuses/41593",
       "source_text": "<p>One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on Crime and Borders, protecting our always under siege Second Amendment, Military and Vets, Low Inflation and Low Taxes, and so much more! As always, James Uthmeier has my Complete and Total Endorsement. He will never let you down!!! President DONALD J. TRUMP</p>",
       "published": "Mon, 07 Sep 2026 02:24:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T04:20:55.666472Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T04:30:58.686343Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41593",
       "first_seen": "2026-09-07T04:20:55.666403Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:One of the absolutely best Attorney Generals in the Country is James Uthmeier of the Great State of Florida. He stands for everything MAGA - Strong on",
-      "next_retry_at": "2026-09-07T04:25:55.666487Z",
+      "next_retry_at": "2026-09-07T04:40:58.686359Z",
       "truth_social_id": "117227381742358121"
-    },
-    "truth:117227424953623109": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41594",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941</span>Part 1: Donald Trump is the Counter Revolution:</p>",
-      "published": "Mon, 07 Sep 2026 02:35:49 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T04:21:06.039966Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41594",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
-      "media_identity": "attachment:117227424953623109:d2c28538021df34c-2233d9ef881a.mp4",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: Donald Trump is the Counter Revolution:",
-      "truth_social_id": "117227424953623109",
-      "allow_text_fallback": true,
-      "fallback_policy_version": 1,
-      "media_fallback_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/227/319/263/235/079/original/d2c28538021df34c.mp4",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: ドナルド・トランプは反革命である。",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvhwyfpbsaf",
-          "cid": "bafyreics32zkymsn3lwwt2gx2jtvrge7job4azm34yx4z563zodaucq3fe"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvhwyfpbsaf",
-          "cid": "bafyreics32zkymsn3lwwt2gx2jtvrge7job4azm34yx4z563zodaucq3fe"
-        },
-        "next_index": 1,
-        "last_rkey": "3muvhwyfpbsaf",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: ドナルド・トランプは反革命である。\n\n動画はこちら：https://truthsocial.com/@realDonaldTrump/posts/117227424953623109",
-          "createdAt": "2026-09-07T04:20:59.578074Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 77
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part"
-                }
-              ]
-            },
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 155,
-                "byteEnd": 220
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/@realDonaldTrump/posts/117227424953623109"
-                }
-              ]
-            }
-          ]
-        },
-        "root_rkey": "3muvhwyfpbsaf",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: ドナルド・トランプは反革命である。\n\n動画はこちら：https://truthsocial.com/@realDonaldTrump/posts/117227424953623109",
-          "createdAt": "2026-09-07T04:20:59.578074Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 77
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part"
-                }
-              ]
-            },
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 155,
-                "byteEnd": 220
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/@realDonaldTrump/posts/117227424953623109"
-                }
-              ]
-            }
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvhwyfpbsaf",
-            "rkey": "3muvhwyfpbsaf"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvhwyfpbsaf",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3muvhwyfpbsaf",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part 1: ドナルド・トランプは反革命である。\n\n動画はこちら：https://truthsocial.com/@realDonaldTrump/posts/117227424953623109",
-        "createdAt": "2026-09-07T04:20:59.578074Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 77
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117227309601803941Part"
-              }
-            ]
-          },
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 155,
-              "byteEnd": 220
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/@realDonaldTrump/posts/117227424953623109"
-              }
-            ]
-          }
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvhwyfpbsaf",
-          "rkey": "3muvhwyfpbsaf"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-07T04:26:06.039981Z"
     }
   }
 }
