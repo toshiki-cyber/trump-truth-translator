@@ -2515,7 +2515,10 @@
     "https://trumpstruth.org/statuses/41616",
     "fp:NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live",
     "truth:117230978314061095",
-    "https://trumpstruth.org/statuses/41619"
+    "https://trumpstruth.org/statuses/41619",
+    "fp:Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most",
+    "truth:117231833977439431",
+    "https://trumpstruth.org/statuses/41621"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15805,6 +15808,22 @@
       "media_identity": "attachment:117230978314061095:",
       "translation": "アメリカ国内でのボンバルディア製品の販売は終わりだ！彼らの製品は十分に良くない！彼らの収益の50%以上がアメリカから来ている――彼らはアメリカの買い手、アメリカ企業、アメリカの空港、アメリカのサービスで生活している――その一方でカナダはわれわれの素晴らしいアメリカの銀行、企業をアメリカ全土でブロックしている。彼らはさらにガルフストリーム・エアロスペースがカナダでビジネスを行うことまでブロックした――完全に不公正で不公平だ！その時代は終わった！彼らがわれわれの市場を望むなら、ここで製造しなければならず、アメリカを「貯金箱」のように扱うのをやめなければならない。アメリカ製を買おう。アメリカの航空機に乗ろう。アメリカのお酒と飲料を楽しもう。アメリカ湖で帆走しよう。アメリカ・ファースト！この問題についての注視に感謝する。ドナルド・J・トランプ大統領"
     },
+    "truth:117231833977439431": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41621",
+      "source_text": "<p>Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most important Entrances to a Building in D.C. I did this in Honor of the Italian American Community — Industrious, brilliant, wonderful people. It is something that they have greatly appreciated! President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 21:17:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T22:21:19.017363Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41621",
+      "source_fingerprint": "fp:Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most",
+      "media_identity": "attachment:117231833977439431:73f016f4b9e65ab9.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most",
+      "truth_social_id": "117231833977439431",
+      "translation": "クリストファー・コロンブスの像がアイゼンハワー・エグゼクティブ・オフィス・ビルの入口に堂々と立っている。ホワイトハウスの真隣にあり、ワシントンD.C.で最も重要な建物の入口の一つだ。私はイタリア系アメリカ人コミュニティーへの敬意を表してこれを行った。勤勉で、聡明で、素晴らしい人々だ。彼らは大いに感謝してくれている。大統領ドナルド・J・トランプ"
+    },
     "truth:117230076715017308": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -28582,6 +28601,46 @@
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/231/197/445/593/395/original/945d5a8bed27151c.mp4",
       "truth_social_id": "117231197837851334",
       "next_retry_at": "2026-09-07T20:26:29.119356Z"
+    },
+    "truth:117231907664551152": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41622",
+      "source_text": "<p>US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: <a href=\"https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/us-produc</span><span class=\"invisible\">er-prices-unexpectedly-fall-june-2026-07-15/</span></a></p>",
+      "published": "Mon, 07 Sep 2026 21:35:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T22:21:13.114925Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41622"
+    },
+    "truth:117231928888969402": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41623",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 21:41:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T22:21:13.114823Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41623"
+    },
+    "truth:117231954791116629": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41625",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 21:47:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T22:21:13.114720Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41625"
+    },
+    "truth:117231955365539795": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41624",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117231954791116629</span></p>",
+      "published": "Mon, 07 Sep 2026 21:47:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T22:21:13.114607Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41624"
     }
   }
 }
