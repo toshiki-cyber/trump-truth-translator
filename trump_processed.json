@@ -2440,7 +2440,10 @@
     "https://trumpstruth.org/statuses/41582",
     "fp:Trump ambassador vows NATO-like reforms to UN after terror scandal: ‘Clean this place up’: \nhttps://justthenews.com/government/federal-agencies/clean-",
     "truth:117227006754823934",
-    "https://trumpstruth.org/statuses/41581"
+    "https://trumpstruth.org/statuses/41581",
+    "fp:Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and colle",
+    "truth:117227044833224999",
+    "https://trumpstruth.org/statuses/41588"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16064,6 +16067,24 @@
       "media_identity": "attachment:117227006754823934:",
       "translation": "トランプ大使、テロスキャンダル後の国連改革を誓約「この場所をきれいにする」NATOのような改革：\nhttps://justthenews.com/government/federal-agencies/clean-place-trump-ambassador-vows-nato-reforms-un-after-terror-scandal"
     },
+    "truth:117227044833224999": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41588",
+      "source_text": "<p>Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJT</p><p>Jim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies: <a href=\"https://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/con</span><span class=\"invisible\">gress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump</span></a></p>",
+      "published": "Mon, 07 Sep 2026 00:59:09 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T03:40:59.194850Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41588",
+      "first_seen": "2026-09-07T02:41:08.609996Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and colle",
+      "truth_social_id": "117227044833224999",
+      "source_fingerprint": "fp:Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and colle",
+      "media_identity": "attachment:117227044833224999:",
+      "translation": "ジム・ジョーダン下院議員に感謝する。彼は本当に素晴らしい男だ。高校とカレッジの両方で、かつてないほどの優れたオール・アメリカン・レスラーであり、決してあきらめない！トランプ大統領\n\nジム・ジョーダン、メモがトランプ政権幹部と同盟者への標的化を明かした後、FBI ラウンド・リバー文書の提出を要求:\nhttps://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump"
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27336,22 +27357,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-07T03:15:56.563793Z"
-    },
-    "truth:117227044833224999": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41588",
-      "source_text": "<p>Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and college. He never gives up! President DJT</p><p>Jim Jordan demands FBI Round River docs after memos reveal targeting of Trump officials, allies: <a href=\"https://justthenews.com/government/congress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/con</span><span class=\"invisible\">gress/emb3pm-jordan-demands-fbi-round-river-docs-after-memos-show-targeting-trump</span></a></p>",
-      "published": "Mon, 07 Sep 2026 00:59:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T03:05:52.292416Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41588",
-      "first_seen": "2026-09-07T02:41:08.609996Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and colle",
-      "next_retry_at": "2026-09-07T03:15:52.292431Z",
-      "truth_social_id": "117227044833224999"
     },
     "truth:117227046909087202": {
       "post_status": "RETRY",
