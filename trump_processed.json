@@ -27116,34 +27116,51 @@
       "next_retry_at": "2026-09-07T02:26:15.512980Z"
     },
     "truth:117226998492939377": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41587",
       "source_text": "<p>No wonder they like me!!! President DJT</p><p>Women account for almost all net U.S. job gains since Trump took office: <a href=\"https://justthenews.com/nation/economy/women-account-almost-all-net-us-job-gains-trump-took-office-report\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/economy</span><span class=\"invisible\">/women-account-almost-all-net-us-job-gains-trump-took-office-report</span></a></p>",
       "published": "Mon, 07 Sep 2026 00:47:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T02:21:04.485180Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41587"
+      "retry_count": 1,
+      "updated_at": "2026-09-07T02:26:03.212479Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41587",
+      "first_seen": "2026-09-07T02:26:03.212417Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:No wonder they like me!!! President DJT\nWomen account for almost all net U.S. job gains since Trump took office: \nhttps://justthenews.com/nation/econo",
+      "next_retry_at": "2026-09-07T02:31:03.212493Z",
+      "truth_social_id": "117226998492939377"
     },
     "truth:117227000697043074": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41586",
       "source_text": "<p>Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: <a href=\"https://justthenews.com/politics-policy/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/elections/trump-headline-both-nights-gop-convention-dallas-leans-texas-senate-race</span></a></p>",
       "published": "Mon, 07 Sep 2026 00:47:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T02:21:04.485080Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41586"
+      "retry_count": 1,
+      "updated_at": "2026-09-07T02:26:03.555226Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41586",
+      "first_seen": "2026-09-07T02:26:03.555184Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Trump to headline both nights of GOP convention in Dallas, leans into Texas Senate race with cash: \nhttps://justthenews.com/politics-policy/elections/",
+      "next_retry_at": "2026-09-07T02:31:03.555236Z",
+      "truth_social_id": "117227000697043074"
     },
     "truth:117227000938593845": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://trumpstruth.org/statuses/41585",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 00:47:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T02:21:04.484984Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41585"
+      "retry_count": 1,
+      "updated_at": "2026-09-07T02:26:05.396346Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41585",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117227000938593845:5e14581d97b634d0.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/226/995/649/302/786/original/5e14581d97b634d0.mp4",
+      "truth_social_id": "117227000938593845",
+      "next_retry_at": "2026-09-07T02:31:05.396361Z"
     },
     "truth:117227002408906938": {
       "post_status": "DISCOVERED",
