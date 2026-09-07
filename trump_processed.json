@@ -2463,7 +2463,10 @@
     "truth:117230125974662427",
     "https://www.trumpstruth.org/statuses/41601",
     "truth:117230076715017308",
-    "https://www.trumpstruth.org/statuses/41597"
+    "https://www.trumpstruth.org/statuses/41597",
+    "fp:From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Par",
+    "truth:117230133235298185",
+    "https://www.trumpstruth.org/statuses/41600"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15582,6 +15585,22 @@
         }
       ]
     },
+    "truth:117230133235298185": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41600",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Park in Washington, D.C. The statue depicts the Italian poet Dante Aligheri holding his most well-known work, ‘The Divine Comedy,’ which was finished in 1321. The statue was cleaned and waxed.”</p>",
+      "published": "Mon, 07 Sep 2026 14:04:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T14:36:23.483085Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41600",
+      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Par",
+      "media_identity": "attachment:117230133235298185:b8726f2b871ea914.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Par",
+      "truth_social_id": "117230133235298185",
+      "translation": "内務省のグレッグ・ウィッシャーからのコメント：「国立公園局がワシントンD.C.のメリディアン・パークのダンテ記念像を美化した。この像はイタリアの詩人ダンテ・アリギエーリが1321年に完成させた彼の最も有名な作品『神曲』を持っている姿を描いている。像は清掃され、ワックスがけされた。」"
+    },
     "truth:117225654386878731": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27741,14 +27760,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41595",
       "source_text": "<p>THE SAVE AMERICA ACT:</p><p>1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).</p><p>2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.</p>",
       "published": "Mon, 07 Sep 2026 13:52:24 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T14:26:25.925776Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T14:36:19.273724Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41595",
       "first_seen": "2026-09-07T14:26:25.925744Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:THE SAVE AMERICA ACT:\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).\n2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.",
-      "next_retry_at": "2026-09-07T14:31:25.925784Z",
+      "next_retry_at": "2026-09-07T14:46:19.273738Z",
       "truth_social_id": "117230085361299862"
     },
     "truth:117230118021363013": {
@@ -27757,14 +27776,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41599",
       "source_text": "<p>Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST relief in HISTORY for hardworking families – Nobody’s seen anything like it!  Now, another HUGE WIN: <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@SECPaulSAtkins\">@<span>SECPaulSAtkins</span></a></span> at the SEC slashed Taxes on ETFs, helping MILLIONS of Retirement Investors keep more of their own money, build wealth, and live the American Dream without Government “rip offs.” TOTAL REVOLUTION for Savers. Great job Paul — You’re a STAR! President DONALD J. TRUMP</p><p>How millions of everyday investors are getting a tax break: <a href=\"https://www.washingtonpost.com/opinions/2026/02/03/sec-etf-tax-relief-mutual-fund-change/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/02/03/sec-etf-tax-relief-mutual-fund-change/</span></a></p>",
       "published": "Mon, 07 Sep 2026 14:00:42 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T14:26:26.623187Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T14:36:19.510267Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41599",
       "first_seen": "2026-09-07T14:26:26.623156Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST reli",
-      "next_retry_at": "2026-09-07T14:31:26.623196Z",
+      "next_retry_at": "2026-09-07T14:46:19.510282Z",
       "truth_social_id": "117230118021363013"
     },
     "truth:117230119059059312": {
@@ -27773,25 +27792,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41598",
       "source_text": "<p>Iran’s Top Politicians Urge an End to the War: <a href=\"https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">s-top-politicians-urge-an-end-to-the-war-d0936e12</span></a></p>",
       "published": "Mon, 07 Sep 2026 14:00:58 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T14:26:27.355420Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T14:36:19.743776Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41598",
       "first_seen": "2026-09-07T14:26:27.355389Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
-      "next_retry_at": "2026-09-07T14:31:27.355428Z",
+      "next_retry_at": "2026-09-07T14:46:19.743790Z",
       "truth_social_id": "117230119059059312"
-    },
-    "truth:117230133235298185": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41600",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Park in Washington, D.C. The statue depicts the Italian poet Dante Aligheri holding his most well-known work, ‘The Divine Comedy,’ which was finished in 1321. The statue was cleaned and waxed.”</p>",
-      "published": "Mon, 07 Sep 2026 14:04:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T14:21:21.500819Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41600"
     },
     "truth:117230166833967697": {
       "post_status": "DISCOVERED",
