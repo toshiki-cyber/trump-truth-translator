@@ -2475,7 +2475,10 @@
     "https://www.trumpstruth.org/statuses/41599",
     "fp:THE SAVE AMERICA ACT:\n1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).\n2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.",
     "truth:117230085361299862",
-    "https://www.trumpstruth.org/statuses/41595"
+    "https://www.trumpstruth.org/statuses/41595",
+    "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+    "truth:117230119059059312",
+    "https://www.trumpstruth.org/statuses/41598"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15748,6 +15751,24 @@
         }
       ]
     },
+    "truth:117230119059059312": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41598",
+      "source_text": "<p>Iran’s Top Politicians Urge an End to the War: <a href=\"https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">s-top-politicians-urge-an-end-to-the-war-d0936e12</span></a></p>",
+      "published": "Mon, 07 Sep 2026 14:00:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T15:01:38.344935Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41598",
+      "first_seen": "2026-09-07T14:26:27.355389Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+      "truth_social_id": "117230119059059312",
+      "source_fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+      "media_identity": "attachment:117230119059059312:",
+      "translation": "イランの最高指導部が戦争の終結を促す：\nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12"
+    },
     "truth:117225654386878731": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27900,22 +27921,6 @@
       "published": "Mon, 07 Sep 2026 13:50:35 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-07T14:21:21.501367Z"
-    },
-    "truth:117230119059059312": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41598",
-      "source_text": "<p>Iran’s Top Politicians Urge an End to the War: <a href=\"https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">s-top-politicians-urge-an-end-to-the-war-d0936e12</span></a></p>",
-      "published": "Mon, 07 Sep 2026 14:00:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T14:36:19.743776Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41598",
-      "first_seen": "2026-09-07T14:26:27.355389Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
-      "next_retry_at": "2026-09-07T14:46:19.743790Z",
-      "truth_social_id": "117230119059059312"
     },
     "truth:117230175831797133": {
       "post_status": "DISCOVERED",
