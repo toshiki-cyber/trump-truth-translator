@@ -2466,7 +2466,13 @@
     "https://www.trumpstruth.org/statuses/41597",
     "fp:From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Par",
     "truth:117230133235298185",
-    "https://www.trumpstruth.org/statuses/41600"
+    "https://www.trumpstruth.org/statuses/41600",
+    "fp:From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was r",
+    "truth:117230166833967697",
+    "https://www.trumpstruth.org/statuses/41603",
+    "fp:Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST reli",
+    "truth:117230118021363013",
+    "https://www.trumpstruth.org/statuses/41599"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15601,6 +15607,108 @@
       "truth_social_id": "117230133235298185",
       "translation": "内務省のグレッグ・ウィッシャーからのコメント：「国立公園局がワシントンD.C.のメリディアン・パークのダンテ記念像を美化した。この像はイタリアの詩人ダンテ・アリギエーリが1321年に完成させた彼の最も有名な作品『神曲』を持っている姿を描いている。像は清掃され、ワックスがけされた。」"
     },
+    "truth:117230166833967697": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41603",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was recently repaired and beautified. The fountain’s nozzles and controllers were all replaced, and the plaza surrounding the fountain was also rehabilitated, including cleaning of the George Mason statue and masonry work, as well as repairing and painting of the pergola. The first photo below shows the fountain, which is located on the north end of East Potomac Park. In the second photo below, the Washington Monument is in the background, and in the third photo below, the statue of George Mason is in the background.”</p>",
+      "published": "Mon, 07 Sep 2026 14:13:07 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-07T14:41:42.063657Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41603",
+      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was r",
+      "media_identity": "attachment:117230166833967697:5c462c45f8880f76.jpg,60d21c7457f9c8b0.jpg,97c0bc282928df8b.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was r",
+      "truth_social_id": "117230166833967697",
+      "translation": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
+      "expected_embed": "images",
+      "expected_images": 3,
+      "root_rkey": "3muwovtzahc5u",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
+        "createdAt": "2026-09-07T14:41:35.164756Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibmwc5mfzr57wm33fnm2okhsgqavc5zfx4frvbtw6ctf4epxrrlpu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 171994
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1024,
+                "height": 684
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicwn3qw65vt4pi3djf5o5opvvvrqacdapesphfe2f7plnmmqhtvtm"
+                },
+                "mimeType": "image/jpeg",
+                "size": 161215
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1024,
+                "height": 684
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiebhydbvnplcrd7efvx5a5izkecebe6jduf3anaoevkvk5puuxjx4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 193244
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1024,
+                "height": 684
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
+          "rkey": "3muwovtzahc5u"
+        }
+      ]
+    },
+    "truth:117230118021363013": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41599",
+      "source_text": "<p>Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST relief in HISTORY for hardworking families – Nobody’s seen anything like it!  Now, another HUGE WIN: <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@SECPaulSAtkins\">@<span>SECPaulSAtkins</span></a></span> at the SEC slashed Taxes on ETFs, helping MILLIONS of Retirement Investors keep more of their own money, build wealth, and live the American Dream without Government “rip offs.” TOTAL REVOLUTION for Savers. Great job Paul — You’re a STAR! President DONALD J. TRUMP</p><p>How millions of everyday investors are getting a tax break: <a href=\"https://www.washingtonpost.com/opinions/2026/02/03/sec-etf-tax-relief-mutual-fund-change/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/02/03/sec-etf-tax-relief-mutual-fund-change/</span></a></p>",
+      "published": "Mon, 07 Sep 2026 14:00:42 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T14:51:28.037070Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41599",
+      "first_seen": "2026-09-07T14:26:26.623156Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST reli",
+      "truth_social_id": "117230118021363013",
+      "source_fingerprint": "fp:Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST reli",
+      "media_identity": "attachment:117230118021363013:",
+      "translation": "過激左派は国民の税金を引き上げ、経済を破壊したいと考えているが、それ以外はみんなが減税を支持している！私の素晴らしい大型法案は歴史上、働く家族のための最大級の救済だった。こんなことは見たことがない！そして、もう一つの巨大な勝利だ：\n\nhttps://truthsocial.com/@SECPaulSAtkins\n\nSECの担当者は、ETFの税金を大幅に削減し、何百万人もの退職投資家が自分たちのお金をより多く手元に残し、富を築き、政府の「ぼったくり」なしでアメリカンドリームを実現するのを支援している。貯蓄家にとっての完全な革命だ。素晴らしい仕事だ、ポール。お前はスターだ！ドナルド・J・トランプ大統領\n\n何百万人もの一般投資家がどのようにして税制優遇を受けているか：\n\nhttps://www.washingtonpost.com/opinions/2026/02/03/sec-etf-tax-relief-mutual-fund-change/"
+    },
     "truth:117225654386878731": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27827,22 +27935,6 @@
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-07T14:51:34.344302Z"
     },
-    "truth:117230118021363013": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41599",
-      "source_text": "<p>Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST relief in HISTORY for hardworking families – Nobody’s seen anything like it!  Now, another HUGE WIN: <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@SECPaulSAtkins\">@<span>SECPaulSAtkins</span></a></span> at the SEC slashed Taxes on ETFs, helping MILLIONS of Retirement Investors keep more of their own money, build wealth, and live the American Dream without Government “rip offs.” TOTAL REVOLUTION for Savers. Great job Paul — You’re a STAR! President DONALD J. TRUMP</p><p>How millions of everyday investors are getting a tax break: <a href=\"https://www.washingtonpost.com/opinions/2026/02/03/sec-etf-tax-relief-mutual-fund-change/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/02/03/sec-etf-tax-relief-mutual-fund-change/</span></a></p>",
-      "published": "Mon, 07 Sep 2026 14:00:42 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T14:36:19.510267Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41599",
-      "first_seen": "2026-09-07T14:26:26.623156Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST reli",
-      "next_retry_at": "2026-09-07T14:46:19.510282Z",
-      "truth_social_id": "117230118021363013"
-    },
     "truth:117230119059059312": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -27858,227 +27950,6 @@
       "fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
       "next_retry_at": "2026-09-07T14:46:19.743790Z",
       "truth_social_id": "117230119059059312"
-    },
-    "truth:117230166833967697": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41603",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was recently repaired and beautified. The fountain’s nozzles and controllers were all replaced, and the plaza surrounding the fountain was also rehabilitated, including cleaning of the George Mason statue and masonry work, as well as repairing and painting of the pergola. The first photo below shows the fountain, which is located on the north end of East Potomac Park. In the second photo below, the Washington Monument is in the background, and in the third photo below, the statue of George Mason is in the background.”</p>",
-      "published": "Mon, 07 Sep 2026 14:13:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T14:41:42.063657Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41603",
-      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was r",
-      "media_identity": "attachment:117230166833967697:5c462c45f8880f76.jpg,60d21c7457f9c8b0.jpg,97c0bc282928df8b.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was r",
-      "truth_social_id": "117230166833967697",
-      "translation": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
-          "cid": "bafyreiadlfiq5j2b5fcgxqxebrl2uxyw4xup6bfvurvs2qo32i7pnhv3ue"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
-          "cid": "bafyreiadlfiq5j2b5fcgxqxebrl2uxyw4xup6bfvurvs2qo32i7pnhv3ue"
-        },
-        "next_index": 1,
-        "last_rkey": "3muwovtzahc5u",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
-          "createdAt": "2026-09-07T14:41:35.164756Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibmwc5mfzr57wm33fnm2okhsgqavc5zfx4frvbtw6ctf4epxrrlpu"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 171994
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1024,
-                  "height": 684
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicwn3qw65vt4pi3djf5o5opvvvrqacdapesphfe2f7plnmmqhtvtm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 161215
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1024,
-                  "height": 684
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreiebhydbvnplcrd7efvx5a5izkecebe6jduf3anaoevkvk5puuxjx4"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 193244
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1024,
-                  "height": 684
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3muwovtzahc5u",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
-          "createdAt": "2026-09-07T14:41:35.164756Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibmwc5mfzr57wm33fnm2okhsgqavc5zfx4frvbtw6ctf4epxrrlpu"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 171994
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1024,
-                  "height": 684
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicwn3qw65vt4pi3djf5o5opvvvrqacdapesphfe2f7plnmmqhtvtm"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 161215
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1024,
-                  "height": 684
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreiebhydbvnplcrd7efvx5a5izkecebe6jduf3anaoevkvk5puuxjx4"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 193244
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1024,
-                  "height": 684
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
-            "rkey": "3muwovtzahc5u"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
-      "expected_embed": "images",
-      "expected_images": 3,
-      "root_rkey": "3muwovtzahc5u",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
-        "createdAt": "2026-09-07T14:41:35.164756Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibmwc5mfzr57wm33fnm2okhsgqavc5zfx4frvbtw6ctf4epxrrlpu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 171994
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1024,
-                "height": 684
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicwn3qw65vt4pi3djf5o5opvvvrqacdapesphfe2f7plnmmqhtvtm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 161215
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1024,
-                "height": 684
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiebhydbvnplcrd7efvx5a5izkecebe6jduf3anaoevkvk5puuxjx4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 193244
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1024,
-                "height": 684
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
-          "rkey": "3muwovtzahc5u"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-07T14:46:42.063673Z"
     },
     "truth:117230175831797133": {
       "post_status": "DISCOVERED",
