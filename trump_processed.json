@@ -2512,7 +2512,10 @@
     "https://www.trumpstruth.org/statuses/41618",
     "fp:Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Der",
     "truth:117230298017100144",
-    "https://trumpstruth.org/statuses/41616"
+    "https://trumpstruth.org/statuses/41616",
+    "fp:NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live",
+    "truth:117230978314061095",
+    "https://trumpstruth.org/statuses/41619"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15784,6 +15787,24 @@
         }
       ]
     },
+    "truth:117230978314061095": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41619",
+      "source_text": "<p>NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live off American Buyers, American Companies, American Airports, and American Service — All while Canada blocks our GREAT American Banks, and Companies, throughout the U.S.A. They even blocked Gulfstream Aerospace from doing business in Canada — Completely unjust and unfair! That Era is OVER! If they want our Market, they must build here, and stop treating America like a “piggybank.” BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL ON LAKE AMERICA. AMERICA FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 17:39:29 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T18:51:28.005298Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41619",
+      "first_seen": "2026-09-07T18:26:21.423790Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live",
+      "truth_social_id": "117230978314061095",
+      "source_fingerprint": "fp:NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live",
+      "media_identity": "attachment:117230978314061095:",
+      "translation": "アメリカ国内でのボンバルディア製品の販売は終わりだ！彼らの製品は十分に良くない！彼らの収益の50%以上がアメリカから来ている――彼らはアメリカの買い手、アメリカ企業、アメリカの空港、アメリカのサービスで生活している――その一方でカナダはわれわれの素晴らしいアメリカの銀行、企業をアメリカ全土でブロックしている。彼らはさらにガルフストリーム・エアロスペースがカナダでビジネスを行うことまでブロックした――完全に不公正で不公平だ！その時代は終わった！彼らがわれわれの市場を望むなら、ここで製造しなければならず、アメリカを「貯金箱」のように扱うのをやめなければならない。アメリカ製を買おう。アメリカの航空機に乗ろう。アメリカのお酒と飲料を楽しもう。アメリカ湖で帆走しよう。アメリカ・ファースト！この問題についての注視に感謝する。ドナルド・J・トランプ大統領"
+    },
     "truth:117230076715017308": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -28546,22 +28567,6 @@
       "published": "Mon, 07 Sep 2026 13:50:35 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-07T18:21:18.669180Z"
-    },
-    "truth:117230978314061095": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41619",
-      "source_text": "<p>NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live off American Buyers, American Companies, American Airports, and American Service — All while Canada blocks our GREAT American Banks, and Companies, throughout the U.S.A. They even blocked Gulfstream Aerospace from doing business in Canada — Completely unjust and unfair! That Era is OVER! If they want our Market, they must build here, and stop treating America like a “piggybank.” BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL ON LAKE AMERICA. AMERICA FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Mon, 07 Sep 2026 17:39:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T18:36:23.697423Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41619",
-      "first_seen": "2026-09-07T18:26:21.423790Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live",
-      "next_retry_at": "2026-09-07T18:46:23.697440Z",
-      "truth_social_id": "117230978314061095"
     }
   }
 }
