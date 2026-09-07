@@ -15575,59 +15575,6 @@
       "truth_social_id": "117230125974662427",
       "translation": "アメリカ内務省のグレッグ・ウィッシャーからの報告：「メリディアンパークのジャンヌ・ダルク像がクリーニングとワックス加工された。今日撮影された写真がこれです！」"
     },
-    "truth:117230076715017308": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41597",
-      "source_text": "<p></p>",
-      "published": "Mon, 07 Sep 2026 13:50:12 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T14:31:25.464211Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41597",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117230076715017308:23cd8920530670c5.png",
-      "failure_reason": null,
-      "truth_social_id": "117230076715017308",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwnmumdist6",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3muwnmumdist6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-07T14:21:25.115306Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibnwg65oqvqhy33zy43wfbfqzlef7okaijfhsmrhezup3z4z5x7pu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 31611
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1004,
-                "height": 226
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwnmumdist6",
-          "rkey": "3muwnmumdist6"
-        }
-      ]
-    },
     "truth:117230133235298185": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15782,24 +15729,6 @@
         }
       ]
     },
-    "truth:117230119059059312": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41598",
-      "source_text": "<p>Iran’s Top Politicians Urge an End to the War: <a href=\"https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">s-top-politicians-urge-an-end-to-the-war-d0936e12</span></a></p>",
-      "published": "Mon, 07 Sep 2026 14:00:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T15:01:38.344935Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41598",
-      "first_seen": "2026-09-07T14:26:27.355389Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
-      "truth_social_id": "117230119059059312",
-      "source_fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
-      "media_identity": "attachment:117230119059059312:",
-      "translation": "イランの最高指導部が戦争の終結を促す：\nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12"
-    },
     "truth:117230175831797133": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15816,15 +15745,86 @@
       "truth_social_id": "117230175831797133",
       "translation": "内務省のグレッグ・ウィッシャーから：「5年間の修繕がなかった後、フランクリン・デラノ・ルーズベルト・メモリアルの噴水とプールが最近修復された。このメモリアルの7つのユニークな花崗岩製の噴水とプールを通じて100,000ガロン以上の水が流れており、噴水の機械システムおよび周囲のプラザ（大型の歩道舗装を含む）がすべて修復されている。メモリアルでは、各噴水——その動き、規模、そして音——はルーズベルトの4期の任期における異なる課題と成果を表現している。例えば、下の最初の写真の不規則なブロックは、ルーズベルトの死後および第二次世界大戦後に続いた冷戦の不安定な安定性を表現している。メモリアルの他の噴水のいくつかの追加写真も下に掲載されている。」"
     },
+    "truth:117230076715017308": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41597",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 13:50:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.669288Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41597",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117230076715017308:23cd8920530670c5.png",
+      "failure_reason": null,
+      "truth_social_id": "117230076715017308",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwnmumdist6",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3muwnmumdist6",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-09-07T14:21:25.115306Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibnwg65oqvqhy33zy43wfbfqzlef7okaijfhsmrhezup3z4z5x7pu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 31611
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1004,
+                "height": 226
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwnmumdist6",
+          "rkey": "3muwnmumdist6"
+        }
+      ]
+    },
+    "truth:117230119059059312": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41598",
+      "source_text": "<p>Iran’s Top Politicians Urge an End to the War: <a href=\"https://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/world/middle-east/iran</span><span class=\"invisible\">s-top-politicians-urge-an-end-to-the-war-d0936e12</span></a></p>",
+      "published": "Mon, 07 Sep 2026 14:00:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.668856Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41598",
+      "first_seen": "2026-09-07T14:26:27.355389Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+      "truth_social_id": "117230119059059312",
+      "source_fingerprint": "fp:Iran’s Top Politicians Urge an End to the War: \nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12",
+      "media_identity": "attachment:117230119059059312:",
+      "translation": "イランの最高指導部が戦争の終結を促す：\nhttps://www.wsj.com/world/middle-east/irans-top-politicians-urge-an-end-to-the-war-d0936e12"
+    },
     "truth:117230281885623312": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41615",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41615",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:42:23 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-07T16:21:20.244651Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41615",
+      "updated_at": "2026-09-07T18:21:18.668334Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41615",
       "source_fingerprint": null,
       "media_identity": "attachment:117230281885623312:b79a7a1e68ab1d68.jpg",
       "failure_reason": null,
@@ -15832,14 +15832,14 @@
       "translation": ""
     },
     "truth:117230282596836117": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41614",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41614",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:42:33 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-07T16:26:32.064791Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41614",
+      "updated_at": "2026-09-07T18:21:18.668231Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41614",
       "source_fingerprint": null,
       "media_identity": "attachment:117230282596836117:89183b44d45973ad.jpg",
       "failure_reason": null,
@@ -15847,14 +15847,14 @@
       "translation": ""
     },
     "truth:117230283130523500": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41613",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41613",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:42:42 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-07T16:31:26.357576Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41613",
+      "updated_at": "2026-09-07T18:21:18.668128Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41613",
       "source_fingerprint": null,
       "media_identity": "attachment:117230283130523500:63f8b8032c2ef1c0.jpg",
       "failure_reason": null,
@@ -15862,14 +15862,14 @@
       "translation": ""
     },
     "truth:117230284258203326": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41611",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41611",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:42:59 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-07T16:41:29.465583Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41611",
+      "updated_at": "2026-09-07T18:21:18.667917Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41611",
       "source_fingerprint": null,
       "media_identity": "attachment:117230284258203326:1829b14775b8c2d0.jpg",
       "failure_reason": null,
@@ -15877,14 +15877,14 @@
       "translation": ""
     },
     "truth:117230283736923381": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41612",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41612",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:42:51 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T16:46:25.650289Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41612",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.668024Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41612",
       "source_fingerprint": null,
       "media_identity": "attachment:117230283736923381:81c9cc212c0ddecd.jpg",
       "failure_reason": null,
@@ -15930,14 +15930,14 @@
       ]
     },
     "truth:117230285873578557": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41609",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41609",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:43:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T16:56:38.521221Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41609",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.667695Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41609",
       "source_fingerprint": null,
       "media_identity": "attachment:117230285873578557:a386b97a3ce13209.jpg",
       "failure_reason": null,
@@ -15983,14 +15983,14 @@
       ]
     },
     "truth:117230284809569676": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41610",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41610",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:43:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T17:01:50.542225Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41610",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.667800Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41610",
       "source_fingerprint": null,
       "media_identity": "attachment:117230284809569676:466838a5ef6fc81f.jpg",
       "failure_reason": null,
@@ -16036,14 +16036,14 @@
       ]
     },
     "truth:117230286557431140": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41608",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41608",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:43:34 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T17:16:28.354592Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41608",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.667590Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41608",
       "source_fingerprint": null,
       "media_identity": "attachment:117230286557431140:aa5ab775a7556bda.jpg",
       "failure_reason": null,
@@ -16089,14 +16089,14 @@
       ]
     },
     "truth:117230287192828119": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41607",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41607",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:43:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T17:21:25.795534Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41607",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.667485Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41607",
       "source_fingerprint": null,
       "media_identity": "attachment:117230287192828119:550db2b60087c7ad.jpg",
       "failure_reason": null,
@@ -16142,14 +16142,14 @@
       ]
     },
     "truth:117230288576037236": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41605",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41605",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:44:05 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-07T17:31:35.004285Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41605",
+      "updated_at": "2026-09-07T18:21:18.667269Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41605",
       "source_fingerprint": null,
       "media_identity": "attachment:117230288576037236:2a6032197d1600f9.jpg",
       "failure_reason": null,
@@ -16157,14 +16157,14 @@
       "translation": ""
     },
     "truth:117230287806050615": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41606",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41606",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:43:53 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T17:36:23.385049Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41606",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.667372Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41606",
       "source_fingerprint": null,
       "media_identity": "attachment:117230287806050615:a4431d123721b49e.jpg",
       "failure_reason": null,
@@ -16210,14 +16210,14 @@
       ]
     },
     "truth:117230289219815718": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41604",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41604",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:44:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-07T17:41:25.393628Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41604",
+      "updated_at": "2026-09-07T18:21:18.667165Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41604",
       "source_fingerprint": null,
       "media_identity": "attachment:117230289219815718:6a16ce610f02b00e.jpg",
       "failure_reason": null,
@@ -16225,14 +16225,14 @@
       "translation": ""
     },
     "truth:117230296511748912": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41617",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41617",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:46:06 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-07T17:51:24.257721Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41617",
+      "updated_at": "2026-09-07T18:21:18.666952Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41617",
       "source_fingerprint": null,
       "media_identity": "attachment:117230296511748912:9cb5c5b48178bbe4.jpg",
       "failure_reason": null,
@@ -16240,14 +16240,14 @@
       "translation": ""
     },
     "truth:117230293961105316": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41618",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41618",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 14:45:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T17:56:22.290717Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41618",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.667062Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41618",
       "source_fingerprint": null,
       "media_identity": "attachment:117230293961105316:f1a229057234eb06.jpg",
       "failure_reason": null,
@@ -28094,17 +28094,17 @@
     "truth:117216178911963514": {
       "post_status": "BLOCKED",
       "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41529",
+      "status_url": "https://trumpstruth.org/statuses/41529",
       "source_text": "<p></p>",
       "published": "Sat, 05 Sep 2026 02:55:48 +0000",
-      "updated_at": "2026-09-07T12:21:24.593583Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41529",
+      "updated_at": "2026-09-07T18:21:22.349672Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41529",
       "source_fingerprint": null,
       "media_identity": "attachment:117216178911963514:96dd3a17241b4a5e-0b028af8ccdf.mp4",
       "truth_social_id": "117216178911963514",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/216/176/997/721/943/original/96dd3a17241b4a5e.mp4",
       "retry_count": 1,
-      "next_retry_at": "2026-09-07T12:26:24.593603Z"
+      "next_retry_at": "2026-09-07T18:26:22.349690Z"
     },
     "https://www.trumpstruth.org/statuses/41528": {
       "post_status": "DISCOVERED",
@@ -28284,14 +28284,14 @@
       "next_retry_at": "2026-09-07T00:36:18.794197Z"
     },
     "truth:117226607246121678": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41577",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41577",
       "source_text": "<p></p>",
       "published": "Sun, 06 Sep 2026 23:07:52 +0000",
-      "retry_count": 7,
-      "updated_at": "2026-09-07T18:11:24.078292Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41577",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.669835Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41577",
       "source_fingerprint": null,
       "media_identity": "attachment:117226607246121678:e1aaaa6b8b06801f-1d6ce2305428.mov",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daahemdg2hmc73d0bni0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
@@ -28446,20 +28446,93 @@
       "updated_at": "2026-09-07T14:21:21.501367Z"
     },
     "truth:117230298017100144": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41616",
+      "status_url": "https://trumpstruth.org/statuses/41616",
       "source_text": "<p>Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Deranged People, after fighting for 10 years, should finally acknowledge that your Favorite President (ME!), knows how to WIN! They should be exhausted by now but, sadly, they’re not. They’re going to give it one last shot at ruining America, but we’re not going to let that happen. We’re going to win the Midterms, BIG, and SAVE AMERICA! President DONALD J. TRUMP</p>",
       "published": "Mon, 07 Sep 2026 14:46:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T18:16:26.498092Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41616",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.666805Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41616",
       "first_seen": "2026-09-07T18:01:31.574614Z",
       "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Der",
       "next_retry_at": "2026-09-07T18:26:26.498108Z",
       "truth_social_id": "117230298017100144"
+    },
+    "https://trumpstruth.org/statuses/41602": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41602",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Following five years of no repairs, the fountains and pools at the Franklin Delano Roosevelt Memorial were recently rehabilitated. More than 100,000 gallons of water flow through the seven unique granite fountains and pools at the memorial, and the fountains’ mechanical systems—as well as the surrounding plaza, including the large sidewalk pavers—were all repaired. At the memorial, each fountain—its movement, scale, and sound—represent distinct challenges and achievements of Roosevelt’s four terms. For example, the unorderly blocks in the first photo below represent the uneasy stability of the Cold War that followed Roosevelt’s death and post-WWII period. Additional photos of some of the other fountains at the memorial are also below.”</p>",
+      "published": "Mon, 07 Sep 2026 14:15:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.668437Z"
+    },
+    "https://trumpstruth.org/statuses/41603": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41603",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was recently repaired and beautified. The fountain’s nozzles and controllers were all replaced, and the plaza surrounding the fountain was also rehabilitated, including cleaning of the George Mason statue and masonry work, as well as repairing and painting of the pergola. The first photo below shows the fountain, which is located on the north end of East Potomac Park. In the second photo below, the Washington Monument is in the background, and in the third photo below, the statue of George Mason is in the background.”</p>",
+      "published": "Mon, 07 Sep 2026 14:13:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.668544Z"
+    },
+    "https://trumpstruth.org/statuses/41600": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41600",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Park in Washington, D.C. The statue depicts the Italian poet Dante Aligheri holding his most well-known work, ‘The Divine Comedy,’ which was finished in 1321. The statue was cleaned and waxed.”</p>",
+      "published": "Mon, 07 Sep 2026 14:04:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.668648Z"
+    },
+    "https://trumpstruth.org/statuses/41601": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41601",
+      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “The Joan of Arc statue in Meridian Park was cleaned and waxed. Here are photos taken today!”</p>",
+      "published": "Mon, 07 Sep 2026 14:02:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.668752Z"
+    },
+    "https://trumpstruth.org/statuses/41599": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41599",
+      "source_text": "<p>Except for the RADICAL LEFT that wants to RAISE YOUR TAXES, and wreck our Economy, EVERYONE LOVES TAX CUTS! My Big Beautiful Bill was the BIGGEST relief in HISTORY for hardworking families – Nobody’s seen anything like it!  Now, another HUGE WIN: <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@SECPaulSAtkins\">@<span>SECPaulSAtkins</span></a></span> at the SEC slashed Taxes on ETFs, helping MILLIONS of Retirement Investors keep more of their own money, build wealth, and live the American Dream without Government “rip offs.” TOTAL REVOLUTION for Savers. Great job Paul — You’re a STAR! President DONALD J. TRUMP</p><p>How millions of everyday investors are getting a tax break: <a href=\"https://www.washingtonpost.com/opinions/2026/02/03/sec-etf-tax-relief-mutual-fund-change/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/02/03/sec-etf-tax-relief-mutual-fund-change/</span></a></p>",
+      "published": "Mon, 07 Sep 2026 14:00:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.668971Z"
+    },
+    "https://trumpstruth.org/statuses/41595": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41595",
+      "source_text": "<p>THE SAVE AMERICA ACT:</p><p>1. ALL VOTERS MUST SHOW PHOTO I.D. (IDENTIFICATION!).</p><p>2. ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP.</p>",
+      "published": "Mon, 07 Sep 2026 13:52:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.669075Z"
+    },
+    "https://trumpstruth.org/statuses/41596": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41596",
+      "source_text": "<p>Chandler Hall, representing, on Television, the foolish Center for American Lack of Progress, stated that adding the National Guard to Cities, including our now Great Again, Washington, D.C., had “NO impact on Crime.” How crazy is that. Hall was met with furious dissent. The report is just another Radical Left SCAM, as are the people who fund this gaggle of Lunatics, including George Soros, Bill and Melinda Gates, Google, Apple, Visa, Goldman Sachs, Citigroup, WellsFargo, Bank of America, Walmart, Toyota, T-Mobile, and NBC Universal. Foreign support includes the Embassy of Japan, the Korea Foundation, Taipei Economic and Cultural Representative Office (Taiwan), and the Embassy of the United Arab Emirates. The Dumocrats love it, and are against anything “TRUMP.” These people, and others like them, are so bad for our Country. Their stated course is anything to hate or demean “TRUMP.” This will be met with a lawsuit, which is being drawn now. I am also strongly considering adding some of the contributors to this Fake Organization. Crime is way down since I took Office, and they know it. Liars, at this level, must be held accountable! President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 13:50:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.669180Z"
+    },
+    "truth:117230978314061095": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41619",
+      "source_text": "<p>NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live off American Buyers, American Companies, American Airports, and American Service — All while Canada blocks our GREAT American Banks, and Companies, throughout the U.S.A. They even blocked Gulfstream Aerospace from doing business in Canada — Completely unjust and unfair! That Era is OVER! If they want our Market, they must build here, and stop treating America like a “piggybank.” BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL ON LAKE AMERICA. AMERICA FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 17:39:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T18:21:18.666686Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41619"
     }
   }
 }
