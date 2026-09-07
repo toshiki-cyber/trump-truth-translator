@@ -2481,7 +2481,9 @@
     "https://www.trumpstruth.org/statuses/41598",
     "fp:From Greg Wischer at the United States Department of the Interior: “Following five years of no repairs, the fountains and pools at the Franklin Delano",
     "truth:117230175831797133",
-    "https://www.trumpstruth.org/statuses/41602"
+    "https://www.trumpstruth.org/statuses/41602",
+    "truth:117230281885623312",
+    "https://www.trumpstruth.org/statuses/41615"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15788,6 +15790,21 @@
       "truth_social_id": "117230175831797133",
       "translation": "内務省のグレッグ・ウィッシャーから：「5年間の修繕がなかった後、フランクリン・デラノ・ルーズベルト・メモリアルの噴水とプールが最近修復された。このメモリアルの7つのユニークな花崗岩製の噴水とプールを通じて100,000ガロン以上の水が流れており、噴水の機械システムおよび周囲のプラザ（大型の歩道舗装を含む）がすべて修復されている。メモリアルでは、各噴水——その動き、規模、そして音——はルーズベルトの4期の任期における異なる課題と成果を表現している。例えば、下の最初の写真の不規則なブロックは、ルーズベルトの死後および第二次世界大戦後に続いた冷戦の不安定な安定性を表現している。メモリアルの他の噴水のいくつかの追加写真も下に掲載されている。」"
     },
+    "truth:117230281885623312": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41615",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:42:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:20.244651Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41615",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117230281885623312:b79a7a1e68ab1d68.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117230281885623312",
+      "translation": ""
+    },
     "truth:117225654386878731": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27940,6 +27957,146 @@
       "published": "Mon, 07 Sep 2026 13:50:35 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-07T14:21:21.501367Z"
+    },
+    "truth:117230282596836117": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41614",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:42:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.304609Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41614"
+    },
+    "truth:117230283130523500": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41613",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:42:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.304509Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41613"
+    },
+    "truth:117230283736923381": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41612",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:42:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.304409Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41612"
+    },
+    "truth:117230284258203326": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41611",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:42:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.304309Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41611"
+    },
+    "truth:117230284809569676": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41610",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:43:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.304209Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41610"
+    },
+    "truth:117230285873578557": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41609",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:43:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.304107Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41609"
+    },
+    "truth:117230286557431140": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41608",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:43:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.304006Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41608"
+    },
+    "truth:117230287192828119": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41607",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:43:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.303899Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41607"
+    },
+    "truth:117230287806050615": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41606",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:43:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.303785Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41606"
+    },
+    "truth:117230288576037236": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41605",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:44:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.303684Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41605"
+    },
+    "truth:117230289219815718": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41604",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:44:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.303580Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41604"
+    },
+    "truth:117230293961105316": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41618",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:45:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.303473Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41618"
+    },
+    "truth:117230296511748912": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41617",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 14:46:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.303366Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41617"
+    },
+    "truth:117230298017100144": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41616",
+      "source_text": "<p>Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Deranged People, after fighting for 10 years, should finally acknowledge that your Favorite President (ME!), knows how to WIN! They should be exhausted by now but, sadly, they’re not. They’re going to give it one last shot at ruining America, but we’re not going to let that happen. We’re going to win the Midterms, BIG, and SAVE AMERICA! President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 14:46:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-07T16:21:16.303252Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41616"
     }
   }
 }
