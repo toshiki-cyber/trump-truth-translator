@@ -2434,7 +2434,10 @@
     "https://trumpstruth.org/statuses/41583",
     "fp:Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: \nhttps://justthenews.com/government/white-house/bart",
     "truth:117227002408906938",
-    "https://trumpstruth.org/statuses/41584"
+    "https://trumpstruth.org/statuses/41584",
+    "fp:Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: \nhttps://justthenews.com/government/federal-agencies/6am",
+    "truth:117227005260208337",
+    "https://trumpstruth.org/statuses/41582"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16022,6 +16025,24 @@
       "media_identity": "attachment:117227003669020660:",
       "translation": "トランプ、強い雇用統計を歓迎、金利引き下げを要求\n\nhttps://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-interest-rates"
     },
+    "truth:117227005260208337": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41582",
+      "source_text": "<p>Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: <a href=\"https://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy</span></a></p>",
+      "published": "Mon, 07 Sep 2026 00:49:05 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-07T03:30:56.658296Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41582",
+      "first_seen": "2026-09-07T02:41:07.501041Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: \nhttps://justthenews.com/government/federal-agencies/6am",
+      "truth_social_id": "117227005260208337",
+      "source_fingerprint": "fp:Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: \nhttps://justthenews.com/government/federal-agencies/6am",
+      "media_identity": "attachment:117227005260208337:",
+      "translation": "ホームランドが司法省にザッカーバーグ関連の非営利団体への州の有権者データ譲渡の調査を要求:\nhttps://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy"
+    },
     "truth:117225346749407203": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -27294,22 +27315,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-07T03:15:56.563793Z"
-    },
-    "truth:117227005260208337": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41582",
-      "source_text": "<p>Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: <a href=\"https://justthenews.com/government/federal-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/6amhomeland-security-refers-alleged-2020-election-voter-data-privacy</span></a></p>",
-      "published": "Mon, 07 Sep 2026 00:49:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-07T03:05:51.908325Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41582",
-      "first_seen": "2026-09-07T02:41:07.501041Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Homeland asks DOJ to probe transfer of private state voter data to Zuckerberg-tied nonprofit: \nhttps://justthenews.com/government/federal-agencies/6am",
-      "next_retry_at": "2026-09-07T03:15:51.908340Z",
-      "truth_social_id": "117227005260208337"
     },
     "truth:117227006754823934": {
       "post_status": "RETRY",
