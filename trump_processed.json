@@ -2431,7 +2431,10 @@
     "https://trumpstruth.org/statuses/41585",
     "fp:Trump cheers strong jobs report, calls for lower interest rates: \nhttps://justthenews.com/politics-policy/trump-cheers-strong-jobs-report-calls-lower-",
     "truth:117227003669020660",
-    "https://trumpstruth.org/statuses/41583"
+    "https://trumpstruth.org/statuses/41583",
+    "fp:Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: \nhttps://justthenews.com/government/white-house/bart",
+    "truth:117227002408906938",
+    "https://trumpstruth.org/statuses/41584"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15933,6 +15936,74 @@
       "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/227/259/100/592/930/original/ce7b3757c3a6311f.mp4",
       "translation": "Part 2: ドナルド・トランプは反革命である："
     },
+    "truth:117227002408906938": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41584",
+      "source_text": "<p>Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: <a href=\"https://justthenews.com/government/white-house/bartiromo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/bartiromo</span></a></p>",
+      "published": "Mon, 07 Sep 2026 00:48:22 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-07T03:16:05.796252Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41584",
+      "first_seen": "2026-09-07T02:41:06.550953Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: \nhttps://justthenews.com/government/white-house/bart",
+      "truth_social_id": "117227002408906938",
+      "source_fingerprint": "fp:Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: \nhttps://justthenews.com/government/white-house/bart",
+      "media_identity": "attachment:117227002408906938:",
+      "translation": "ホワイトハウスの高官がトランプ大統領のスピーチ検閲がバーティロモのフォックス解雇の背後にあると信じていると述べた：\nhttps://justthenews.com/government/white-house/bartiromo",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvbwtky2kdp",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3muvbwtky2kdp",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ホワイトハウスの高官がトランプ大統領のスピーチ検閲がバーティロモのフォックス解雇の背後にあると信じていると述べた：\nhttps://justthenews.com/government/white-house/bartiromo",
+        "createdAt": "2026-09-07T03:15:58.882976Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 172,
+              "byteEnd": 228
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://justthenews.com/government/white-house/bartiromo"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/government/white-house/bartiromo",
+            "title": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox",
+            "description": "How a presidential speech, an interview request and a stunning text preceded Fox News yanking a top anchor from the airwaves.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicjk47bnarqbwadhtsyyofu77l4czhakm5l7y22t4cq4uic3vwruu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 133072
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvbwtky2kdp",
+          "rkey": "3muvbwtky2kdp"
+        }
+      ]
+    },
     "truth:117227003669020660": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -27167,15 +27238,15 @@
       "status_url": "https://trumpstruth.org/statuses/41577",
       "source_text": "<p></p>",
       "published": "Sun, 06 Sep 2026 23:07:52 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-09-07T02:01:13.917407Z",
+      "retry_count": 6,
+      "updated_at": "2026-09-07T03:26:01.293261Z",
       "feed_post_id": "https://trumpstruth.org/statuses/41577",
       "source_fingerprint": null,
       "media_identity": "attachment:117226607246121678:e1aaaa6b8b06801f-1d6ce2305428.mov",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daahemdg2hmc73d0bni0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "truth_social_id": "117226607246121678",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-09-07T03:21:13.917422Z"
+      "next_retry_at": "2026-09-07T06:06:01.293279Z"
     },
     "truth:117227000938593845": {
       "post_status": "RETRY",
@@ -27223,175 +27294,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-07T03:15:56.563793Z"
-    },
-    "truth:117227002408906938": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41584",
-      "source_text": "<p>Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: <a href=\"https://justthenews.com/government/white-house/bartiromo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/bartiromo</span></a></p>",
-      "published": "Mon, 07 Sep 2026 00:48:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T03:16:05.796252Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41584",
-      "first_seen": "2026-09-07T02:41:06.550953Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: \nhttps://justthenews.com/government/white-house/bart",
-      "truth_social_id": "117227002408906938",
-      "source_fingerprint": "fp:Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox: \nhttps://justthenews.com/government/white-house/bart",
-      "media_identity": "attachment:117227002408906938:",
-      "translation": "ホワイトハウスの高官がトランプ大統領のスピーチ検閲がバーティロモのフォックス解雇の背後にあると信じていると述べた：\nhttps://justthenews.com/government/white-house/bartiromo",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvbwtky2kdp",
-          "cid": "bafyreihnawkovv5duptgvbntlg254lludtymwqqcruiwjrjuxain52hz5u"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvbwtky2kdp",
-          "cid": "bafyreihnawkovv5duptgvbntlg254lludtymwqqcruiwjrjuxain52hz5u"
-        },
-        "next_index": 1,
-        "last_rkey": "3muvbwtky2kdp",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ホワイトハウスの高官がトランプ大統領のスピーチ検閲がバーティロモのフォックス解雇の背後にあると信じていると述べた：\nhttps://justthenews.com/government/white-house/bartiromo",
-          "createdAt": "2026-09-07T03:15:58.882976Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 172,
-                "byteEnd": 228
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/white-house/bartiromo"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/white-house/bartiromo",
-              "title": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox",
-              "description": "How a presidential speech, an interview request and a stunning text preceded Fox News yanking a top anchor from the airwaves.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicjk47bnarqbwadhtsyyofu77l4czhakm5l7y22t4cq4uic3vwruu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 133072
-              }
-            }
-          }
-        },
-        "root_rkey": "3muvbwtky2kdp",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ホワイトハウスの高官がトランプ大統領のスピーチ検閲がバーティロモのフォックス解雇の背後にあると信じていると述べた：\nhttps://justthenews.com/government/white-house/bartiromo",
-          "createdAt": "2026-09-07T03:15:58.882976Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 172,
-                "byteEnd": 228
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/white-house/bartiromo"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/white-house/bartiromo",
-              "title": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox",
-              "description": "How a presidential speech, an interview request and a stunning text preceded Fox News yanking a top anchor from the airwaves.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicjk47bnarqbwadhtsyyofu77l4czhakm5l7y22t4cq4uic3vwruu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 133072
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvbwtky2kdp",
-            "rkey": "3muvbwtky2kdp"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvbwtky2kdp",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3muvbwtky2kdp",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ホワイトハウスの高官がトランプ大統領のスピーチ検閲がバーティロモのフォックス解雇の背後にあると信じていると述べた：\nhttps://justthenews.com/government/white-house/bartiromo",
-        "createdAt": "2026-09-07T03:15:58.882976Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 172,
-              "byteEnd": 228
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/white-house/bartiromo"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/white-house/bartiromo",
-            "title": "Top White House official says he believes Trump speech censorship behind Bartiromo ouster at Fox",
-            "description": "How a presidential speech, an interview request and a stunning text preceded Fox News yanking a top anchor from the airwaves.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreicjk47bnarqbwadhtsyyofu77l4czhakm5l7y22t4cq4uic3vwruu"
-              },
-              "mimeType": "image/jpeg",
-              "size": 133072
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muvbwtky2kdp",
-          "rkey": "3muvbwtky2kdp"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-07T03:21:05.796271Z"
     },
     "truth:117227005260208337": {
       "post_status": "RETRY",
