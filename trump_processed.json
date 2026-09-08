@@ -2539,7 +2539,10 @@
     "truth:117232688233470694",
     "https://www.trumpstruth.org/statuses/41631",
     "truth:117232818816225564",
-    "https://www.trumpstruth.org/statuses/41633"
+    "https://www.trumpstruth.org/statuses/41633",
+    "fp:Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because o",
+    "truth:117237309084360726",
+    "https://trumpstruth.org/statuses/41634"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16035,6 +16038,24 @@
         }
       ]
     },
+    "truth:117237309084360726": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41634",
+      "source_text": "<p>Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because of previous disastrous Trade Agreements while other Presidents were in Office. Canada has been ripping us off for years, but what many do not realize is that the Canadian Government, including Canadian Provinces, have banned American Small Businesses and Companies from selling into their Government Procurement Markets. This is the case even though Canada gets broad access into the massive American Government Procurement Market, including those of our States. That is not reciprocity, it is a Canadian Trade Scam. From now on, NO RECIPROCITY – NO ACCESS! I am hereby directing the GSA, working with the USTR, to take all necessary steps to REMOVE Canadian-origin products from GSA’s Multiple Award Schedules unless Canada restores full and fair reciprocity for American Farmers and Companies. Those schedules account for more than 50 BILLION DOLLARS a year. This should have been cut off years ago, by other Administrations, like it was by mine, only to reinstituted by Sleepy Joe Biden. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Tue, 08 Sep 2026 20:29:29 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-08T22:41:19.353997Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41634",
+      "first_seen": "2026-09-08T22:21:02.797428Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because o",
+      "truth_social_id": "117237309084360726",
+      "source_fingerprint": "fp:Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because o",
+      "media_identity": "attachment:117237309084360726:",
+      "translation": "カナダが我が国の素晴らしい酪農家にカナダ市場への販売を認めていないことは誰もが知っている。そしてカナダが自動車産業を持つ唯一の理由は、以前の大統領たちの在任中に結ばれた悲劇的な通商協定のせいである。カナダは長年にわたって我々を食い物にしてきたが、多くの人が気づいていないことは、カナダ政府およびカナダの州が、アメリカの中小企業や企業を政府調達市場での販売から排除してきたということだ。これはカナダが我が国の巨大な政府調達市場（州の調達市場を含む）への広範なアクセスを得ているにもかかわらず行われている。これは互恵ではなく、カナダの通商詐欺だ。これからは、互恵なくしてアクセスなし。GSAに対し、USTRと協力して、カナダがアメリカの農家と企業に対して完全かつ公正な互恵性を回復しない限り、GSAの複数契約スケジュールからカナダ原産製品をすべて削除するための必要なあらゆる措置を講じることをここに指示する。これらのスケジュールは年間500億ドル以上を占めている。これは数年前に他の政権によって廃止されるべきだったもので、私の政権では廃止されたが、眠いジョー・バイデンによって再度導入された。このご対応ありがとうございました。ドナルド・J・トランプ大統領"
+    },
     "truth:117232818816225564": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -29102,22 +29123,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-08T03:16:17.986321Z"
-    },
-    "truth:117237309084360726": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41634",
-      "source_text": "<p>Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because of previous disastrous Trade Agreements while other Presidents were in Office. Canada has been ripping us off for years, but what many do not realize is that the Canadian Government, including Canadian Provinces, have banned American Small Businesses and Companies from selling into their Government Procurement Markets. This is the case even though Canada gets broad access into the massive American Government Procurement Market, including those of our States. That is not reciprocity, it is a Canadian Trade Scam. From now on, NO RECIPROCITY – NO ACCESS! I am hereby directing the GSA, working with the USTR, to take all necessary steps to REMOVE Canadian-origin products from GSA’s Multiple Award Schedules unless Canada restores full and fair reciprocity for American Farmers and Companies. Those schedules account for more than 50 BILLION DOLLARS a year. This should have been cut off years ago, by other Administrations, like it was by mine, only to reinstituted by Sleepy Joe Biden. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Tue, 08 Sep 2026 20:29:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-08T22:26:14.635791Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41634",
-      "first_seen": "2026-09-08T22:21:02.797428Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because o",
-      "next_retry_at": "2026-09-08T22:36:14.635807Z",
-      "truth_social_id": "117237309084360726"
     },
     "truth:117237544811917105": {
       "post_status": "RETRY",
