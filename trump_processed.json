@@ -2542,7 +2542,10 @@
     "https://www.trumpstruth.org/statuses/41633",
     "fp:Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because o",
     "truth:117237309084360726",
-    "https://trumpstruth.org/statuses/41634"
+    "https://trumpstruth.org/statuses/41634",
+    "fp:The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally ",
+    "truth:117237544811917105",
+    "https://trumpstruth.org/statuses/41635"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16056,6 +16059,24 @@
       "media_identity": "attachment:117237309084360726:",
       "translation": "カナダが我が国の素晴らしい酪農家にカナダ市場への販売を認めていないことは誰もが知っている。そしてカナダが自動車産業を持つ唯一の理由は、以前の大統領たちの在任中に結ばれた悲劇的な通商協定のせいである。カナダは長年にわたって我々を食い物にしてきたが、多くの人が気づいていないことは、カナダ政府およびカナダの州が、アメリカの中小企業や企業を政府調達市場での販売から排除してきたということだ。これはカナダが我が国の巨大な政府調達市場（州の調達市場を含む）への広範なアクセスを得ているにもかかわらず行われている。これは互恵ではなく、カナダの通商詐欺だ。これからは、互恵なくしてアクセスなし。GSAに対し、USTRと協力して、カナダがアメリカの農家と企業に対して完全かつ公正な互恵性を回復しない限り、GSAの複数契約スケジュールからカナダ原産製品をすべて削除するための必要なあらゆる措置を講じることをここに指示する。これらのスケジュールは年間500億ドル以上を占めている。これは数年前に他の政権によって廃止されるべきだったもので、私の政権では廃止されたが、眠いジョー・バイデンによって再度導入された。このご対応ありがとうございました。ドナルド・J・トランプ大統領"
     },
+    "truth:117237544811917105": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41635",
+      "source_text": "<p>The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally sold out! Everybody wants to be there, but we’re really asking only those Candidates that are in tight Races, a little up, a little down, or even, to speak. We want to save the “stage” for them. We don’t need people who are up 45 points, and have been in office for 30 years, as much as we love them all! Anyway, I’ll be speaking tomorrow night, and “closing it out” on Thursday! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN. See you in Dallas! President DONALD J. TRUMP</p>",
+      "published": "Tue, 08 Sep 2026 21:29:26 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-08T22:46:27.855420Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41635",
+      "first_seen": "2026-09-08T22:21:03.080768Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally ",
+      "truth_social_id": "117237544811917105",
+      "source_fingerprint": "fp:The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally ",
+      "media_identity": "attachment:117237544811917105:",
+      "translation": "明日の夜ダラスで開催される共和党全国大会は本当に「熱い」ものになる！ダラス・マーベリックスの本拠地であるアメリカン・エアラインズ・センターは完全に売り切れだ！みんなそこにいたいと思っているが、演壇に立つのは接戦を繰り広げている候補者たち、少し有利な候補者たち、少し不利な候補者たち、あるいは互角の候補者たちに限定するよう求めている。彼らのために「舞台」を確保したいのだ。45ポイントも有利な状況にあり、30年間も現職にある者たちは必要ない。もちろん、みんなのことは大好きだが！とにかく、明日の夜は私が演説し、木曜日に「締めくくる」ことになる！この件についてのご関心をありがとう。アメリカを再び偉大に。ダラスでお会いしよう！大統領 ドナルド・J・トランプ"
+    },
     "truth:117232818816225564": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -29123,22 +29144,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-08T03:16:17.986321Z"
-    },
-    "truth:117237544811917105": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41635",
-      "source_text": "<p>The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally sold out! Everybody wants to be there, but we’re really asking only those Candidates that are in tight Races, a little up, a little down, or even, to speak. We want to save the “stage” for them. We don’t need people who are up 45 points, and have been in office for 30 years, as much as we love them all! Anyway, I’ll be speaking tomorrow night, and “closing it out” on Thursday! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN. See you in Dallas! President DONALD J. TRUMP</p>",
-      "published": "Tue, 08 Sep 2026 21:29:26 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-08T22:26:15.377837Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41635",
-      "first_seen": "2026-09-08T22:21:03.080768Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally ",
-      "next_retry_at": "2026-09-08T22:36:15.377857Z",
-      "truth_social_id": "117237544811917105"
     },
     "truth:117237661666465958": {
       "post_status": "RETRY",
