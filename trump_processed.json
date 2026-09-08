@@ -29102,6 +29102,54 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-08T03:16:17.986321Z"
+    },
+    "truth:117237309084360726": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41634",
+      "source_text": "<p>Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because of previous disastrous Trade Agreements while other Presidents were in Office. Canada has been ripping us off for years, but what many do not realize is that the Canadian Government, including Canadian Provinces, have banned American Small Businesses and Companies from selling into their Government Procurement Markets. This is the case even though Canada gets broad access into the massive American Government Procurement Market, including those of our States. That is not reciprocity, it is a Canadian Trade Scam. From now on, NO RECIPROCITY – NO ACCESS! I am hereby directing the GSA, working with the USTR, to take all necessary steps to REMOVE Canadian-origin products from GSA’s Multiple Award Schedules unless Canada restores full and fair reciprocity for American Farmers and Companies. Those schedules account for more than 50 BILLION DOLLARS a year. This should have been cut off years ago, by other Administrations, like it was by mine, only to reinstituted by Sleepy Joe Biden. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Tue, 08 Sep 2026 20:29:29 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-08T22:21:02.797461Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41634",
+      "first_seen": "2026-09-08T22:21:02.797428Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because o",
+      "next_retry_at": "2026-09-08T22:26:02.797470Z",
+      "truth_social_id": "117237309084360726"
+    },
+    "truth:117237544811917105": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41635",
+      "source_text": "<p>The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally sold out! Everybody wants to be there, but we’re really asking only those Candidates that are in tight Races, a little up, a little down, or even, to speak. We want to save the “stage” for them. We don’t need people who are up 45 points, and have been in office for 30 years, as much as we love them all! Anyway, I’ll be speaking tomorrow night, and “closing it out” on Thursday! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN. See you in Dallas! President DONALD J. TRUMP</p>",
+      "published": "Tue, 08 Sep 2026 21:29:26 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-08T22:21:03.080803Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41635",
+      "first_seen": "2026-09-08T22:21:03.080768Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally ",
+      "next_retry_at": "2026-09-08T22:26:03.080837Z",
+      "truth_social_id": "117237544811917105"
+    },
+    "truth:117237661666465958": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41636",
+      "source_text": "<p><a href=\"https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trumps-un</span><span class=\"invisible\">usual-role-midterm-convention</span></a></p>",
+      "published": "Tue, 08 Sep 2026 21:59:09 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-08T22:21:03.421486Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41636",
+      "first_seen": "2026-09-08T22:21:03.421454Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention",
+      "next_retry_at": "2026-09-08T22:26:03.421503Z",
+      "truth_social_id": "117237661666465958"
     }
   }
 }
