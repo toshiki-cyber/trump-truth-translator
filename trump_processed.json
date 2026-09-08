@@ -28769,6 +28769,61 @@
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/231/941/927/042/673/original/9aae4a3a6d187ae8.mp4",
       "truth_social_id": "117231954791116629",
       "next_retry_at": "2026-09-07T22:36:24.025416Z"
+    },
+    "truth:117232144486548525": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
+      "status_url": "https://trumpstruth.org/statuses/41626",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 22:36:04 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-08T00:21:17.675802Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41626",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117232144486548525:e851b872040c25a7-4134744b1c86.mp4",
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/232/143/262/278/000/original/e851b872040c25a7.mp4",
+      "truth_social_id": "117232144486548525",
+      "next_retry_at": "2026-09-08T00:26:17.675819Z"
+    },
+    "truth:117232228056672165": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41628",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 22:57:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T00:21:14.711653Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41628"
+    },
+    "truth:117232243771103671": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41627",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165</span></p>",
+      "published": "Mon, 07 Sep 2026 23:01:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T00:21:14.711545Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41627"
+    },
+    "truth:117232304514057261": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41630",
+      "source_text": "<p>Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran. Three Dollars a gallon, but ultimately, below Two Dollars a gallon. It will all happen quickly, and Iran will never have a Nuclear Weapon. MAGA! President DJT</p>",
+      "published": "Mon, 07 Sep 2026 23:16:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T00:21:14.711434Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41630"
+    },
+    "truth:117232308385195114": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://trumpstruth.org/statuses/41629",
+      "source_text": "<p>Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’: <a href=\"https://www.breitbart.com/politics/2026/09/07/exclusive-orthodox-patriarch-encourages-all-world-leaders-follow-trump-vance-visiting-jerusalems-church-holy-sepulchre-heartbeat-our-faith/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/07/exclusive-orthodox-patriarch-encourages-all-world-leaders-follow-trump-vance-visiting-jerusalems-church-holy-sepulchre-heartbeat-our-faith/</span></a></p>",
+      "published": "Mon, 07 Sep 2026 23:17:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T00:21:14.711302Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41629"
     }
   }
 }
