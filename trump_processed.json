@@ -2526,7 +2526,10 @@
     "https://trumpstruth.org/statuses/41624",
     "fp:US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: \nhttps://www.reuters.com/business/us-producer-prices-un",
     "truth:117231907664551152",
-    "https://trumpstruth.org/statuses/41622"
+    "https://trumpstruth.org/statuses/41622",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165",
+    "truth:117232243771103671",
+    "https://trumpstruth.org/statuses/41627"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -15977,6 +15980,22 @@
         }
       ]
     },
+    "truth:117232243771103671": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://trumpstruth.org/statuses/41627",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165</span></p>",
+      "published": "Mon, 07 Sep 2026 23:01:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T00:36:13.909823Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41627",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165",
+      "media_identity": "attachment:117232243771103671:346e196b8034a825.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165",
+      "truth_social_id": "117232243771103671",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165"
+    },
     "truth:117230076715017308": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -28799,16 +28818,6 @@
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/232/226/374/236/697/original/a172ed5fe2c8f23e.mp4",
       "truth_social_id": "117232228056672165",
       "next_retry_at": "2026-09-08T00:36:22.292548Z"
-    },
-    "truth:117232243771103671": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41627",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165</span></p>",
-      "published": "Mon, 07 Sep 2026 23:01:19 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-08T00:21:14.711545Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41627"
     },
     "truth:117232304514057261": {
       "post_status": "DISCOVERED",
