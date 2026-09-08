@@ -2545,7 +2545,10 @@
     "https://trumpstruth.org/statuses/41634",
     "fp:The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally ",
     "truth:117237544811917105",
-    "https://trumpstruth.org/statuses/41635"
+    "https://trumpstruth.org/statuses/41635",
+    "fp:https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention",
+    "truth:117237661666465958",
+    "https://trumpstruth.org/statuses/41636"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16077,6 +16080,24 @@
       "media_identity": "attachment:117237544811917105:",
       "translation": "明日の夜ダラスで開催される共和党全国大会は本当に「熱い」ものになる！ダラス・マーベリックスの本拠地であるアメリカン・エアラインズ・センターは完全に売り切れだ！みんなそこにいたいと思っているが、演壇に立つのは接戦を繰り広げている候補者たち、少し有利な候補者たち、少し不利な候補者たち、あるいは互角の候補者たちに限定するよう求めている。彼らのために「舞台」を確保したいのだ。45ポイントも有利な状況にあり、30年間も現職にある者たちは必要ない。もちろん、みんなのことは大好きだが！とにかく、明日の夜は私が演説し、木曜日に「締めくくる」ことになる！この件についてのご関心をありがとう。アメリカを再び偉大に。ダラスでお会いしよう！大統領 ドナルド・J・トランプ"
     },
+    "truth:117237661666465958": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41636",
+      "source_text": "<p><a href=\"https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trumps-un</span><span class=\"invisible\">usual-role-midterm-convention</span></a></p>",
+      "published": "Tue, 08 Sep 2026 21:59:09 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-08T22:51:19.543042Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41636",
+      "first_seen": "2026-09-08T22:21:03.421454Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention",
+      "truth_social_id": "117237661666465958",
+      "source_fingerprint": "fp:https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention",
+      "media_identity": "attachment:117237661666465958:",
+      "translation": "https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention"
+    },
     "truth:117232818816225564": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -29144,22 +29165,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-08T03:16:17.986321Z"
-    },
-    "truth:117237661666465958": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41636",
-      "source_text": "<p><a href=\"https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/trumps-un</span><span class=\"invisible\">usual-role-midterm-convention</span></a></p>",
-      "published": "Tue, 08 Sep 2026 21:59:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-08T22:26:15.841688Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41636",
-      "first_seen": "2026-09-08T22:21:03.421454Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://www.foxnews.com/politics/trumps-unusual-role-midterm-convention",
-      "next_retry_at": "2026-09-08T22:36:15.841707Z",
-      "truth_social_id": "117237661666465958"
     }
   }
 }
