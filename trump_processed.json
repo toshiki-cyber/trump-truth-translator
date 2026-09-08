@@ -15841,21 +15841,6 @@
       "truth_social_id": "117231833977439431",
       "translation": "クリストファー・コロンブスの像がアイゼンハワー・エグゼクティブ・オフィス・ビルの入口に堂々と立っている。ホワイトハウスの真隣にあり、ワシントンD.C.で最も重要な建物の入口の一つだ。私はイタリア系アメリカ人コミュニティーへの敬意を表してこれを行った。勤勉で、聡明で、素晴らしい人々だ。彼らは大いに感謝してくれている。大統領ドナルド・J・トランプ"
     },
-    "truth:117231928888969402": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41623",
-      "source_text": "<p></p>",
-      "published": "Mon, 07 Sep 2026 21:41:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T22:26:58.558806Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41623",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117231928888969402:2632c7fb0b026b9b.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117231928888969402",
-      "translation": ""
-    },
     "truth:117231955365539795": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15923,66 +15908,6 @@
         {
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxid6l5psww",
           "rkey": "3muxid6l5psww"
-        }
-      ]
-    },
-    "truth:117231907664551152": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41622",
-      "source_text": "<p>US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: <a href=\"https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/us-produc</span><span class=\"invisible\">er-prices-unexpectedly-fall-june-2026-07-15/</span></a></p>",
-      "published": "Mon, 07 Sep 2026 21:35:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T23:01:23.352742Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41622",
-      "first_seen": "2026-09-07T22:26:56.564939Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: \nhttps://www.reuters.com/business/us-producer-prices-un",
-      "truth_social_id": "117231907664551152",
-      "source_fingerprint": "fp:US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: \nhttps://www.reuters.com/business/us-producer-prices-un",
-      "media_identity": "attachment:117231907664551152:",
-      "translation": "米国の生産者物価が14か月ぶりの大幅低下を記録。インフレリスクは依然として上振れ傾向にある：\nhttps://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxhnigmwszt",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3muxhnigmwszt",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "米国の生産者物価が14か月ぶりの大幅低下を記録。インフレリスクは依然として上振れ傾向にある：\nhttps://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
-        "createdAt": "2026-09-07T22:51:18.981482Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 135,
-              "byteEnd": 221
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
-            "title": "https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxhnigmwszt",
-          "rkey": "3muxhnigmwszt"
         }
       ]
     },
@@ -16103,6 +16028,81 @@
         {
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxndpoq2sib",
           "rkey": "3muxndpoq2sib"
+        }
+      ]
+    },
+    "truth:117231928888969402": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41623",
+      "source_text": "<p></p>",
+      "published": "Mon, 07 Sep 2026 21:41:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728701Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41623",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117231928888969402:2632c7fb0b026b9b.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117231928888969402",
+      "translation": ""
+    },
+    "truth:117231907664551152": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41622",
+      "source_text": "<p>US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: <a href=\"https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/us-produc</span><span class=\"invisible\">er-prices-unexpectedly-fall-june-2026-07-15/</span></a></p>",
+      "published": "Mon, 07 Sep 2026 21:35:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728821Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41622",
+      "first_seen": "2026-09-07T22:26:56.564939Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: \nhttps://www.reuters.com/business/us-producer-prices-un",
+      "truth_social_id": "117231907664551152",
+      "source_fingerprint": "fp:US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: \nhttps://www.reuters.com/business/us-producer-prices-un",
+      "media_identity": "attachment:117231907664551152:",
+      "translation": "米国の生産者物価が14か月ぶりの大幅低下を記録。インフレリスクは依然として上振れ傾向にある：\nhttps://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxhnigmwszt",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3muxhnigmwszt",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "米国の生産者物価が14か月ぶりの大幅低下を記録。インフレリスクは依然として上振れ傾向にある：\nhttps://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
+        "createdAt": "2026-09-07T22:51:18.981482Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 135,
+              "byteEnd": 221
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
+            "title": "https://www.reuters.com/business/us-producer-prices-unexpectedly-fall-june-2026-07-15/",
+            "description": ""
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxhnigmwszt",
+          "rkey": "3muxhnigmwszt"
         }
       ]
     },
@@ -28645,14 +28645,14 @@
       "next_retry_at": "2026-09-07T00:36:18.794197Z"
     },
     "truth:117226607246121678": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41577",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41577",
       "source_text": "<p></p>",
       "published": "Sun, 06 Sep 2026 23:07:52 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-09-08T01:06:21.354749Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41577",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.731561Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41577",
       "source_fingerprint": null,
       "media_identity": "attachment:117226607246121678:e1aaaa6b8b06801f-1d6ce2305428.mov",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daahemdg2hmc73d0bni0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
@@ -28872,27 +28872,27 @@
     "truth:117231197837851334": {
       "post_status": "BLOCKED",
       "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41620",
+      "status_url": "https://www.trumpstruth.org/statuses/41620",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 18:35:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T20:21:29.119341Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41620",
+      "updated_at": "2026-09-08T02:21:18.111542Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41620",
       "source_fingerprint": null,
-      "media_identity": "attachment:117231197837851334:945d5a8bed27151c-84c2307dec98.mov",
-      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/231/197/445/593/395/original/945d5a8bed27151c.mp4",
+      "media_identity": "attachment:117231197837851334:945d5a8bed27151c-529d0c519ff7.mov",
       "truth_social_id": "117231197837851334",
-      "next_retry_at": "2026-09-07T20:26:29.119356Z"
+      "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/231/197/445/593/395/original/945d5a8bed27151c.mp4",
+      "retry_count": 1,
+      "next_retry_at": "2026-09-08T02:26:18.111563Z"
     },
     "truth:117231954791116629": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41625",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41625",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 21:47:49 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T22:31:24.025396Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41625",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728592Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41625",
       "source_fingerprint": null,
       "media_identity": "attachment:117231954791116629:9aae4a3a6d187ae8-a1470e21d09f.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/231/941/927/042/673/original/9aae4a3a6d187ae8.mp4",
@@ -28900,14 +28900,14 @@
       "next_retry_at": "2026-09-07T22:36:24.025416Z"
     },
     "truth:117232144486548525": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41626",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41626",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 22:36:04 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-08T00:21:17.675802Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41626",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728382Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41626",
       "source_fingerprint": null,
       "media_identity": "attachment:117232144486548525:e851b872040c25a7-4134744b1c86.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/232/143/262/278/000/original/e851b872040c25a7.mp4",
@@ -28915,19 +28915,112 @@
       "next_retry_at": "2026-09-08T00:26:17.675819Z"
     },
     "truth:117232228056672165": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41628",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41628",
       "source_text": "<p></p>",
       "published": "Mon, 07 Sep 2026 22:57:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-08T00:31:22.292533Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41628",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728276Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41628",
       "source_fingerprint": null,
       "media_identity": "attachment:117232228056672165:a172ed5fe2c8f23e-51ac826c17a4.mp4",
       "failure_reason": "動画候補がすべて不正: MP4のmdat boxが途中で切断されている / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/232/226/374/236/697/original/a172ed5fe2c8f23e.mp4",
       "truth_social_id": "117232228056672165",
       "next_retry_at": "2026-09-08T00:36:22.292548Z"
+    },
+    "https://www.trumpstruth.org/statuses/41629": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41629",
+      "source_text": "<p>Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’: <a href=\"https://www.breitbart.com/politics/2026/09/07/exclusive-orthodox-patriarch-encourages-all-world-leaders-follow-trump-vance-visiting-jerusalems-church-holy-sepulchre-heartbeat-our-faith/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/07/exclusive-orthodox-patriarch-encourages-all-world-leaders-follow-trump-vance-visiting-jerusalems-church-holy-sepulchre-heartbeat-our-faith/</span></a></p>",
+      "published": "Mon, 07 Sep 2026 23:17:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.727955Z"
+    },
+    "https://www.trumpstruth.org/statuses/41630": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41630",
+      "source_text": "<p>Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran. Three Dollars a gallon, but ultimately, below Two Dollars a gallon. It will all happen quickly, and Iran will never have a Nuclear Weapon. MAGA! President DJT</p>",
+      "published": "Mon, 07 Sep 2026 23:16:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728061Z"
+    },
+    "https://www.trumpstruth.org/statuses/41627": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41627",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165</span></p>",
+      "published": "Mon, 07 Sep 2026 23:01:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728166Z"
+    },
+    "https://www.trumpstruth.org/statuses/41624": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41624",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117231954791116629</span></p>",
+      "published": "Mon, 07 Sep 2026 21:47:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728487Z"
+    },
+    "https://www.trumpstruth.org/statuses/41621": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41621",
+      "source_text": "<p>Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most important Entrances to a Building in D.C. I did this in Honor of the Italian American Community — Industrious, brilliant, wonderful people. It is something that they have greatly appreciated! President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 21:17:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.728927Z"
+    },
+    "https://www.trumpstruth.org/statuses/41619": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41619",
+      "source_text": "<p>NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live off American Buyers, American Companies, American Airports, and American Service — All while Canada blocks our GREAT American Banks, and Companies, throughout the U.S.A. They even blocked Gulfstream Aerospace from doing business in Canada — Completely unjust and unfair! That Era is OVER! If they want our Market, they must build here, and stop treating America like a “piggybank.” BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL ON LAKE AMERICA. AMERICA FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 17:39:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.729139Z"
+    },
+    "https://www.trumpstruth.org/statuses/41616": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41616",
+      "source_text": "<p>Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Deranged People, after fighting for 10 years, should finally acknowledge that your Favorite President (ME!), knows how to WIN! They should be exhausted by now but, sadly, they’re not. They’re going to give it one last shot at ruining America, but we’re not going to let that happen. We’re going to win the Midterms, BIG, and SAVE AMERICA! President DONALD J. TRUMP</p>",
+      "published": "Mon, 07 Sep 2026 14:46:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.729242Z"
+    },
+    "truth:117232685404378611": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41632",
+      "source_text": "<p></p>",
+      "published": "Tue, 08 Sep 2026 00:53:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.727849Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41632"
+    },
+    "truth:117232688233470694": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41631",
+      "source_text": "<p></p>",
+      "published": "Tue, 08 Sep 2026 00:54:20 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.727731Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41631"
+    },
+    "truth:117232818816225564": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41633",
+      "source_text": "<p></p>",
+      "published": "Tue, 08 Sep 2026 01:27:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-08T02:21:15.727592Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41633"
     }
   }
 }
