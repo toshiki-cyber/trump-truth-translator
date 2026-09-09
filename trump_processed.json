@@ -2551,7 +2551,10 @@
     "https://trumpstruth.org/statuses/41636",
     "fp:Happy Birthday Mary, Queen of Victories!",
     "truth:117237982286038819",
-    "https://trumpstruth.org/statuses/41637"
+    "https://trumpstruth.org/statuses/41637",
+    "fp:Very dumb and unhappy Fake News CNN “reporter,” Kaitlan Collins (really low ratings, also!), had a panel where discussions were all FICTION AND LIES. ",
+    "truth:117238012867967338",
+    "https://trumpstruth.org/statuses/41638"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16117,6 +16120,24 @@
       "truth_social_id": "117237982286038819",
       "translation": "メリー、勝利の女王様、お誕生日おめでとうございます！"
     },
+    "truth:117238012867967338": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://trumpstruth.org/statuses/41638",
+      "source_text": "<p>Very dumb and unhappy Fake News CNN “reporter,” Kaitlan Collins (really low ratings, also!), had a panel where discussions were all FICTION AND LIES. You would think that CNN, which is suffering terribly in the TV Ratings, would get rid of their 3rd rate “anchors,” and try to bring credibility back to their once storied network. It is fading FAST! See you all at the Republican National Convention tomorrow night!!! President DJT</p>",
+      "published": "Tue, 08 Sep 2026 23:28:28 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-09T00:45:51.901220Z",
+      "feed_post_id": "https://trumpstruth.org/statuses/41638",
+      "first_seen": "2026-09-09T00:25:38.479217Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Very dumb and unhappy Fake News CNN “reporter,” Kaitlan Collins (really low ratings, also!), had a panel where discussions were all FICTION AND LIES. ",
+      "truth_social_id": "117238012867967338",
+      "source_fingerprint": "fp:Very dumb and unhappy Fake News CNN “reporter,” Kaitlan Collins (really low ratings, also!), had a panel where discussions were all FICTION AND LIES. ",
+      "media_identity": "attachment:117238012867967338:",
+      "translation": "非常に愚かで不幸な偽りのニュースCNNの「記者」ケイトラン・コリンズ（視聴率も本当に低い！）が、討論内容がすべてフィクションと嘘だったパネル番組を開いていた。テレビ視聴率で惨めに苦しんでいるCNNなら、3流の「キャスター」どもを一掃して、かつての栄光あるネットワークに信頼性を取り戻そうとするべきだと思うだろう。ネットワークは急速に衰えている！明晩の共和党全国大会でお会いしましょう！！！大統領DJT"
+    },
     "truth:117232818816225564": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -29184,22 +29205,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-08T03:16:17.986321Z"
-    },
-    "truth:117238012867967338": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://trumpstruth.org/statuses/41638",
-      "source_text": "<p>Very dumb and unhappy Fake News CNN “reporter,” Kaitlan Collins (really low ratings, also!), had a panel where discussions were all FICTION AND LIES. You would think that CNN, which is suffering terribly in the TV Ratings, would get rid of their 3rd rate “anchors,” and try to bring credibility back to their once storied network. It is fading FAST! See you all at the Republican National Convention tomorrow night!!! President DJT</p>",
-      "published": "Tue, 08 Sep 2026 23:28:28 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-09T00:30:42.234239Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41638",
-      "first_seen": "2026-09-09T00:25:38.479217Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Very dumb and unhappy Fake News CNN “reporter,” Kaitlan Collins (really low ratings, also!), had a panel where discussions were all FICTION AND LIES. ",
-      "next_retry_at": "2026-09-09T00:40:42.234253Z",
-      "truth_social_id": "117238012867967338"
     },
     "truth:117238047671794766": {
       "post_status": "RETRY",
