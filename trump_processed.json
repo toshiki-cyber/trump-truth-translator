@@ -2599,7 +2599,9 @@
     "truth:117231197837851334",
     "https://www.trumpstruth.org/statuses/41620",
     "truth:117231954791116629",
-    "https://www.trumpstruth.org/statuses/41625"
+    "https://www.trumpstruth.org/statuses/41625",
+    "truth:117232685404378611",
+    "https://www.trumpstruth.org/statuses/41632"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16571,7 +16573,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me there. Well, I don’t think I would be the first thing on anyone’s mind but, I was there, obviously not on the same day as the collapse, but shortly thereafter, with a large group of Construction Workers. I discussed it today during my Remarks on the Ellipse, in Washington, D.C., for Tunnel to Towers. Everything I said was exactly accurate and, to prove the point, I am attaching clips of me there with numerous of my people, including my then Head of Security, Matthew Calamari, who has confirmed that very sad trip to Lower Manhattan, many times, to many different Journalists, but it’s a story that just won’t die. The Fake News doesn’t want to listen, even when they know their story is false. That’s why their approval ratings are at an All Time LOW, but mine are VERY HIGH! On another September 11th front, Maggot Hagerman continues to say that I did not go to the New York World Trade Center event, but the Pentagon instead, because they wouldn’t let me speak in New York. Maggot knows that this is a lie! I have been to the New York solemn ceremony numerous times, and nobody speaks. It is a stated fact that, “Politicians and public officials are not permitted to deliver speeches or remarks at the official September 11 anniversary remembrance ceremony at the World Trade Center site in New York.” Certainly I would not want to violate that, even if I could. I speak enough, and it just so happens that the strong request was made for me to be at the Pentagon instead, with VP Vance handling our Administration’s representation in New York. Hagerman, unattractive both inside and out, fully knows that her story is made up. She knows less about me than the average reporter “on the beat.” I haven’t spoken to her in a long time, and certainly there was no “fact checking” for her story — There never is! Let her reveal her sources, because they don’t exist. Again, speeches are not made at the New York event and, even if they were, I never asked to speak. Fake News is getting worse and worse in the U.S.A. It’s very important to comment so that people understand what liars and scoundrels these so-called “journalists” are. They’re angry, and sick, over the fact that I won the Presidential Election three times! I hereby demand a retraction from Maggot, and also, for whoever wrote the fake story for New York Magazine. Again, check out the clips of me at the World Trade Center site. I was there as soon as the Law allowed. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 09 Sep 2026 01:10:33 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-10T04:55:44.807661Z",
+      "updated_at": "2026-09-10T05:00:43.924217Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41651",
       "source_fingerprint": "fp:The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me th",
       "media_identity": "attachment:117238282851088051:6b8103819a304066-ee50a41b675a.mov",
@@ -29654,78 +29656,19 @@
       "updated_at": "2026-09-08T02:21:15.729242Z"
     },
     "truth:117232685404378611": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "RETRY",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41632",
       "source_text": "<p></p>",
       "published": "Tue, 08 Sep 2026 00:53:37 +0000",
-      "updated_at": "2026-09-10T04:51:05.386498Z",
+      "updated_at": "2026-09-10T05:00:48.678488Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41632",
       "source_fingerprint": null,
       "media_identity": "attachment:117232685404378611:602b095347fce683-94c67c9e6567.mov",
       "truth_social_id": "117232685404378611",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dah3e9dbb4ms73diajk0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "retry_count": 1,
       "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxsp5zxiszv",
-          "cid": "bafyreiacjub3eahxvpz2px3ongs5guiqxcgtrupj3yw655d7tht7zedp4a"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxsp5zxiszv",
-          "cid": "bafyreiacjub3eahxvpz2px3ongs5guiqxcgtrupj3yw655d7tht7zedp4a"
-        },
-        "next_index": 1,
-        "last_rkey": "3muxsp5zxiszv",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-10T04:50:58.337458Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreicqz6ndpaebr5z2nc7omecwtccoqv7r35lb4ucy56v3bahhtz5bmq"
-              },
-              "mimeType": "video/mp4",
-              "size": 6619696
-            },
-            "alt": ""
-          }
-        },
-        "root_rkey": "3muxsp5zxiszv",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-10T04:50:58.337458Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreicqz6ndpaebr5z2nc7omecwtccoqv7r35lb4ucy56v3bahhtz5bmq"
-              },
-              "mimeType": "video/mp4",
-              "size": 6619696
-            },
-            "alt": ""
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxsp5zxiszv",
-            "rkey": "3muxsp5zxiszv"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muxsp5zxiszv",
       "expected_embed": "video",
       "expected_images": 0,
@@ -29756,8 +29699,8 @@
           "rkey": "3muxsp5zxiszv"
         }
       ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-10T04:56:05.386512Z"
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-09-10T05:05:48.678506Z"
     },
     "truth:117232688233470694": {
       "post_status": "DISCOVERED",
