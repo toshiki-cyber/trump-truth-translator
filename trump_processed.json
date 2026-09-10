@@ -2643,7 +2643,10 @@
     "truth:117246831473522530",
     "https://www.trumpstruth.org/statuses/41683",
     "truth:117246828361684716",
-    "https://www.trumpstruth.org/statuses/41684"
+    "https://www.trumpstruth.org/statuses/41684",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530",
+    "truth:117246832167965887",
+    "https://www.trumpstruth.org/statuses/41682"
   ],
   "posts": {
     "truth:117079571028588906": {
@@ -16799,6 +16802,22 @@
         }
       ]
     },
+    "truth:117246832167965887": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41682",
+      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530</span></p>",
+      "published": "Thu, 10 Sep 2026 12:51:20 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-10T16:01:25.161388Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41682",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530",
+      "media_identity": "attachment:117246832167965887:3a2b900eb63ba543.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530",
+      "truth_social_id": "117246832167965887",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530"
+    },
     "truth:117242970009727578": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17080,7 +17099,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://truthsocial.com/@realDonaldTrump\">@<span>realDonaldTrump</span></a></span>The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me there. Well, I don’t think I would be the first thing on anyone’s mind but, I was there, obviously not on the same day as the collapse, but shortly thereafter, with a large group of Construction Workers. I discussed it today during my Remarks on the Ellipse, in Washington, D.C., for Tunnel to Towers. Everything I said was exactly accurate and, to prove the point, I am attaching clips of me there with numerous of my people, including my then Head of Security, Matthew Calamari, who has confirmed that very sad trip to Lower Manhattan, many times, to many different Journalists, but it’s a story that just won’t die. The Fake News doesn’t want to listen, even when they know their story is false. That’s why their approval ratings are at an All Time LOW, but mine are VERY HIGH! On another September 11th front, Maggot Hagerman continues to say that I did not go to the New York World Trade Center event, but the Pentagon instead, because they wouldn’t let me speak in New York. Maggot knows that this is a lie! I have been to the New York solemn ceremony numerous times, and nobody speaks. It is a stated fact that, “Politicians and public officials are not permitted to deliver speeches or remarks at the official September 11 anniversary remembrance ceremony at the World Trade Center site in New York.” Certainly I would not want to violate that, even if I could. I speak enough, and it just so happens that the strong request was made for me to be at the Pentagon instead, with VP Vance handling our Administration’s representation in New York. Hagerman, unattractive both inside and out, fully knows that her story is made up. She knows less about me than the average reporter “on the beat.” I haven’t spoken to her in a long time, and certainly there was no “fact checking” for her story — There never is! Let her reveal her sources, because they don’t exist. Again, speeches are not made at the New York event and, even if they were, I never asked to speak. Fake News is getting worse and worse in the U.S.A. It’s very important to comment so that people understand what liars and scoundrels these so-called “journalists” are. They’re angry, and sick, over the fact that I won the Presidential Election three times! I hereby demand a retraction from Maggot, and also, for whoever wrote the fake story for New York Magazine. Again, check out the clips of me at the World Trade Center site. I was there as soon as the Law allowed. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 09 Sep 2026 01:10:33 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-10T15:56:06.839709Z",
+      "updated_at": "2026-09-10T16:01:20.216578Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41651",
       "source_fingerprint": "fp:The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me th",
       "media_identity": "attachment:117238282851088051:6b8103819a304066-ee50a41b675a.mov",
@@ -30586,16 +30605,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-10T15:46:19.885442Z"
-    },
-    "truth:117246832167965887": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41682",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530</span></p>",
-      "published": "Thu, 10 Sep 2026 12:51:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-10T15:01:19.377539Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41682"
     },
     "truth:117246833197264572": {
       "post_status": "DISCOVERED",
