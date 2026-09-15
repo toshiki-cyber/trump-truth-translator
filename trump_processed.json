@@ -2767,27 +2767,12 @@
     "https://www.trumpstruth.org/statuses/41729",
     "fp:The Republican Midterm Convention in Dallas was a solidly sold out winner for Republicans. Also, great Views and Ratings. Should have a big impact on ",
     "truth:117272064685068171",
-    "https://www.trumpstruth.org/statuses/41726"
+    "https://www.trumpstruth.org/statuses/41726",
+    "fp:Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily beca",
+    "truth:117272045197172717",
+    "https://www.trumpstruth.org/statuses/41725"
   ],
   "posts": {
-    "truth:117084803641067826": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40780",
-      "source_text": "<p>Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District!<br /> <br />A true MAGA Warrior, Anna is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.<br /> <br />Anna Paulina Luna is a very good friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR ANNA PAULINA LUNA — SHE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Wed, 12 Aug 2026 22:05:21 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T23:00:55.885134Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40780",
-      "first_seen": "2026-08-12T22:16:24.877752Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District!",
-      "truth_social_id": "117084803641067826",
-      "source_fingerprint": "fp:Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District!",
-      "media_identity": "attachment:117084803641067826:",
-      "translation": "アンナ・パウリーナ・ルナ下院議員はアメリカ・ファースト愛国者であり、フロリダ州第13選挙区の素晴らしい国民のための非常に優れたチャンピオンだ！\n\n真のMAGA戦士であるアンナは、われわれの経済を成長させ、税金と規制を削減し、メイド・イン・ザ・USA を推進し、アメリカンエネルギーの支配を解き放ち、国境をセキュアに保ち、移民犯罪を阻止し、素晴らしい軍人・退役軍人を支援し、常に攻撃されている修正第2条を守り、力を通じた平和を確保するために絶えず尽力している。\n\nアンナ・パウリーナ・ルナは非常に優れた友人、戦士、そして勝者であり、再選に向けて私の完全かつ完璧な支持を得ている！期日前投票は現在進行中であり、選挙日は8月18日だ。アンナ・パウリーナ・ルナに投票しに行こう――彼女はあなたを絶対に失望させない！\n\n投票場所はここで確認できる：\nhttps://swampthevoteusa.com/florida/"
-    },
     "truth:117084805501470506": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17896,6 +17881,42 @@
       "media_identity": "attachment:117272064685068171:",
       "translation": "ダラスの共和党中間選挙大会は共和党にとって完全な売上成功だった。また、素晴らしい視聴数と視聴率も記録した。11月3日に大きな影響を与えるはずだ。トランプ大統領"
     },
+    "truth:117272045197172717": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41725",
+      "source_text": "<p>Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!</p>",
+      "published": "Mon, 14 Sep 2026 23:43:20 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-15T01:01:02.975860Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41725",
+      "first_seen": "2026-09-15T00:31:05.461509Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily beca",
+      "truth_social_id": "117272045197172717",
+      "source_fingerprint": "fp:Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily beca",
+      "media_identity": "attachment:117272045197172717:",
+      "translation": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mvjbzwfqoszv",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
+        "createdAt": "2026-09-15T00:51:07.297201Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
+          "rkey": "3mvjbzwfqoszv"
+        }
+      ]
+    },
     "truth:117242970009727578": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18177,7 +18198,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me there. Well, I don’t think I would be the first thing on anyone’s mind but, I was there, obviously not on the same day as the collapse, but shortly thereafter, with a large group of Construction Workers. I discussed it today during my Remarks on the Ellipse, in Washington, D.C., for Tunnel to Towers. Everything I said was exactly accurate and, to prove the point, I am attaching clips of me there with numerous of my people, including my then Head of Security, Matthew Calamari, who has confirmed that very sad trip to Lower Manhattan, many times, to many different Journalists, but it’s a story that just won’t die. The Fake News doesn’t want to listen, even when they know their story is false. That’s why their approval ratings are at an All Time LOW, but mine are VERY HIGH! On another September 11th front, Maggot Hagerman continues to say that I did not go to the New York World Trade Center event, but the Pentagon instead, because they wouldn’t let me speak in New York. Maggot knows that this is a lie! I have been to the New York solemn ceremony numerous times, and nobody speaks. It is a stated fact that, “Politicians and public officials are not permitted to deliver speeches or remarks at the official September 11 anniversary remembrance ceremony at the World Trade Center site in New York.” Certainly I would not want to violate that, even if I could. I speak enough, and it just so happens that the strong request was made for me to be at the Pentagon instead, with VP Vance handling our Administration’s representation in New York. Hagerman, unattractive both inside and out, fully knows that her story is made up. She knows less about me than the average reporter “on the beat.” I haven’t spoken to her in a long time, and certainly there was no “fact checking” for her story — There never is! Let her reveal her sources, because they don’t exist. Again, speeches are not made at the New York event and, even if they were, I never asked to speak. Fake News is getting worse and worse in the U.S.A. It’s very important to comment so that people understand what liars and scoundrels these so-called “journalists” are. They’re angry, and sick, over the fact that I won the Presidential Election three times! I hereby demand a retraction from Maggot, and also, for whoever wrote the fake story for New York Magazine. Again, check out the clips of me at the World Trade Center site. I was there as soon as the Law allowed. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 09 Sep 2026 01:10:33 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-15T00:55:58.314748Z",
+      "updated_at": "2026-09-15T01:01:00.740698Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41651",
       "source_fingerprint": "fp:The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me th",
       "media_identity": "attachment:117238282851088051:6b8103819a304066-ee50a41b675a.mov",
@@ -31822,79 +31843,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-14T05:01:06.111449Z"
-    },
-    "truth:117272045197172717": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41725",
-      "source_text": "<p>Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!</p>",
-      "published": "Mon, 14 Sep 2026 23:43:20 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-15T00:51:13.823686Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41725",
-      "first_seen": "2026-09-15T00:31:05.461509Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily beca",
-      "truth_social_id": "117272045197172717",
-      "source_fingerprint": "fp:Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily beca",
-      "media_identity": "attachment:117272045197172717:",
-      "translation": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
-          "cid": "bafyreig3c6lksdgvliysutforhkbzh6wyjgewiujqqrf2vpr7po6x4u2b4"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
-          "cid": "bafyreig3c6lksdgvliysutforhkbzh6wyjgewiujqqrf2vpr7po6x4u2b4"
-        },
-        "next_index": 1,
-        "last_rkey": "3mvjbzwfqoszv",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
-          "createdAt": "2026-09-15T00:51:07.297201Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mvjbzwfqoszv",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
-          "createdAt": "2026-09-15T00:51:07.297201Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
-            "rkey": "3mvjbzwfqoszv"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvjbzwfqoszv",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
-        "createdAt": "2026-09-15T00:51:07.297201Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
-          "rkey": "3mvjbzwfqoszv"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-15T00:56:13.823700Z"
     },
     "truth:117272091671686232": {
       "post_status": "RETRY",
