@@ -2783,27 +2783,12 @@
     "truth:117273024744047319",
     "https://www.trumpstruth.org/statuses/41738",
     "truth:117273026439561125",
-    "https://www.trumpstruth.org/statuses/41737"
+    "https://www.trumpstruth.org/statuses/41737",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
+    "truth:117273027393365712",
+    "https://www.trumpstruth.org/statuses/41736"
   ],
   "posts": {
-    "truth:117084814123781429": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40771",
-      "source_text": "<p>Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024.<br /> <br />James is an America First Warrior, who is a true champion for “MAGA.” He is THE MAN behind ALLIGATOR ALCATRAZ, and argued strongly at the United States Supreme Court in defense of my Executive Power to fire Deep State bureaucrats. Under James’ fearless leadership, over 1,000 CRIMINAL PEDOPHILES have been arrested, missing children have been SAVED, and our Great Members of Law Enforcement have been empowered to do their jobs and, KEEP FLORIDA SAFE. In his next term, James will continue to work tirelessly to Ensure Law and Order, Uphold our Constitutional Rights, and Protect our always under siege Second Amendment.<br /> <br />James Uthmeier is a Strong Conservative Fighter and Prosecutor, and has my Complete and Total Endorsement! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR JAMES  — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Wed, 12 Aug 2026 22:08:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T23:30:53.240590Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40771",
-      "first_seen": "2026-08-12T22:16:30.107977Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024.\n \nJames is an America Fi",
-      "truth_social_id": "117084814123781429",
-      "source_fingerprint": "fp:Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024.\n \nJames is an America Fi",
-      "media_identity": "attachment:117084814123781429:",
-      "translation": "フロリダ州司法長官ジェームス・ウスマイアーはサンシャイン・ステートのために素晴らしい仕事をしている。俺は2016年、2020年、2024年にこの州で大勝利を収めた。\n\nジェームスはアメリカ・ファースト・ウォリアーであり、「MAGA」の真の旗手だ。彼は「アリゲーター・アルカトラズ」の背後にいる人物であり、ディープステートの官僚を解雇する俺の大統領権限を防衛するために合衆国最高裁判所で強く主張した。ジェームスの勇敢なリーダーシップの下で、1,000人以上の犯罪的ペドファイルが逮捕され、行方不明の子どもたちが救出され、フロリダの偉大な法執行機関メンバーが仕事を遂行し、フロリダを安全に保つ力を与えられた。次の任期では、ジェームスは法と秩序の確保、憲法上の権利の擁護、そして常に攻撃にさらされている修正第2条を守るために絶え間なく働き続けるだろう。\n\nジェームス・ウスマイアーは強固な保守派の戦士であり検察官であり、俺の完全かつ絶対的な支持を得ている！期日前投票は今進行中であり、選挙日は8月18日だ。投票に行ってジェームスに投票しろ――彼は絶対にお前たちを失望させない！\n\n投票場所はここで確認しろ：\nhttps://swampthevoteusa.com/florida/"
-    },
     "truth:117084815176671691": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17970,6 +17955,76 @@
         }
       ]
     },
+    "truth:117273027393365712": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41736",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125</span></p>",
+      "published": "Tue, 15 Sep 2026 03:53:07 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-15T04:56:12.746260Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41736",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
+      "media_identity": "attachment:117273027393365712:f4d7bac43b708996.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
+      "truth_social_id": "117273027393365712",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjpylaix2te",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mvjpylaix2te",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
+        "createdAt": "2026-09-15T04:46:05.773431Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 73
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreihhsclqsw7gyfcaiwm4sq2hoaq7jt5tgc2co77pjtd546fxcb2tpi"
+                },
+                "mimeType": "image/jpeg",
+                "size": 136538
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1006,
+                "height": 636
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjpylaix2te",
+          "rkey": "3mvjpylaix2te"
+        }
+      ]
+    },
     "truth:117242970009727578": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18251,7 +18306,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me there. Well, I don’t think I would be the first thing on anyone’s mind but, I was there, obviously not on the same day as the collapse, but shortly thereafter, with a large group of Construction Workers. I discussed it today during my Remarks on the Ellipse, in Washington, D.C., for Tunnel to Towers. Everything I said was exactly accurate and, to prove the point, I am attaching clips of me there with numerous of my people, including my then Head of Security, Matthew Calamari, who has confirmed that very sad trip to Lower Manhattan, many times, to many different Journalists, but it’s a story that just won’t die. The Fake News doesn’t want to listen, even when they know their story is false. That’s why their approval ratings are at an All Time LOW, but mine are VERY HIGH! On another September 11th front, Maggot Hagerman continues to say that I did not go to the New York World Trade Center event, but the Pentagon instead, because they wouldn’t let me speak in New York. Maggot knows that this is a lie! I have been to the New York solemn ceremony numerous times, and nobody speaks. It is a stated fact that, “Politicians and public officials are not permitted to deliver speeches or remarks at the official September 11 anniversary remembrance ceremony at the World Trade Center site in New York.” Certainly I would not want to violate that, even if I could. I speak enough, and it just so happens that the strong request was made for me to be at the Pentagon instead, with VP Vance handling our Administration’s representation in New York. Hagerman, unattractive both inside and out, fully knows that her story is made up. She knows less about me than the average reporter “on the beat.” I haven’t spoken to her in a long time, and certainly there was no “fact checking” for her story — There never is! Let her reveal her sources, because they don’t exist. Again, speeches are not made at the New York event and, even if they were, I never asked to speak. Fake News is getting worse and worse in the U.S.A. It’s very important to comment so that people understand what liars and scoundrels these so-called “journalists” are. They’re angry, and sick, over the fact that I won the Presidential Election three times! I hereby demand a retraction from Maggot, and also, for whoever wrote the fake story for New York Magazine. Again, check out the clips of me at the World Trade Center site. I was there as soon as the Law allowed. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 09 Sep 2026 01:10:33 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-15T04:50:56.816140Z",
+      "updated_at": "2026-09-15T04:56:09.200321Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41651",
       "source_fingerprint": "fp:The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me th",
       "media_identity": "attachment:117238282851088051:6b8103819a304066-ee50a41b675a.mov",
@@ -32065,185 +32120,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-15T04:56:12.863228Z"
-    },
-    "truth:117273027393365712": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41736",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125</span></p>",
-      "published": "Tue, 15 Sep 2026 03:53:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-15T04:46:12.669945Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41736",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
-      "media_identity": "attachment:117273027393365712:f4d7bac43b708996.png",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
-      "truth_social_id": "117273027393365712",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjpylaix2te",
-          "cid": "bafyreictmlztxm3qsny5zbqlgtck6rvhis4iz7pgb7wu26dbjuazajcwdq"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjpylaix2te",
-          "cid": "bafyreictmlztxm3qsny5zbqlgtck6rvhis4iz7pgb7wu26dbjuazajcwdq"
-        },
-        "next_index": 1,
-        "last_rkey": "3mvjpylaix2te",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
-          "createdAt": "2026-09-15T04:46:05.773431Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 73
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihhsclqsw7gyfcaiwm4sq2hoaq7jt5tgc2co77pjtd546fxcb2tpi"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 136538
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1006,
-                  "height": 636
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mvjpylaix2te",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
-          "createdAt": "2026-09-15T04:46:05.773431Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 73
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihhsclqsw7gyfcaiwm4sq2hoaq7jt5tgc2co77pjtd546fxcb2tpi"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 136538
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1006,
-                  "height": 636
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjpylaix2te",
-            "rkey": "3mvjpylaix2te"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjpylaix2te",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mvjpylaix2te",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
-        "createdAt": "2026-09-15T04:46:05.773431Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 73
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihhsclqsw7gyfcaiwm4sq2hoaq7jt5tgc2co77pjtd546fxcb2tpi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 136538
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1006,
-                "height": 636
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjpylaix2te",
-          "rkey": "3mvjpylaix2te"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-15T04:51:12.669956Z"
     },
     "truth:117273029042752027": {
       "post_status": "DISCOVERED",
