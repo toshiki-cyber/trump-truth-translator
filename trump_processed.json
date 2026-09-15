@@ -2786,27 +2786,12 @@
     "https://www.trumpstruth.org/statuses/41737",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117273026439561125",
     "truth:117273027393365712",
-    "https://www.trumpstruth.org/statuses/41736"
+    "https://www.trumpstruth.org/statuses/41736",
+    "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
+    "truth:117272909637512817",
+    "https://www.trumpstruth.org/statuses/41731"
   ],
   "posts": {
-    "truth:117084815176671691": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40770",
-      "source_text": "<p>Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024.<br /> <br />I know Byron well, have seen him tested at the highest and most difficult levels, and he is a TOTAL WINNER! Byron has a great wife, Erika, and three beautiful sons. They are very proud of him! As Governor, Byron will have a BIG Voice, and work closely with me to advance our America First Agenda. He will fight tirelessly to help Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military, Protect our Veterans, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Defend our always under siege Second Amendment.<br /> <br />Byron Donalds will be a truly Great and Powerful Governor for Florida, and has my Complete and Total Endorsement! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR BYRON — HE WILL NEVER LET YOU DOWN!<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Wed, 12 Aug 2026 22:08:17 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-12T23:35:48.442112Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40770",
-      "first_seen": "2026-08-12T22:16:30.696524Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024.\n \nI know Byr",
-      "truth_social_id": "117084815176671691",
-      "source_fingerprint": "fp:Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024.\n \nI know Byr",
-      "media_identity": "attachment:117084815176671691:",
-      "translation": "尊敬されるバイロン・ドナルズ下院議員がフロリダ州知事選に立候補している。フロリダ州は私が愛する州であり、2016年、2020年、2024年に大勝利を収めた州だ。\n\nバイロンのことは よく知っており、最高レベルの最も困難な場面で彼が試されるのを見てきた。彼は真の勝者だ！バイロンは素晴らしい妻エリカと3人の美しい息子がいる。彼らは彼を非常に誇りに思っている！知事として、バイロンは大きな声を持ち、私と密接に協力してアメリカ第一主義の議題を推し進める。彼は国境を安全に保つ、移民犯罪を止める、軍隊を強化する、退役軍人を守る、米国のエネルギー支配を進める、税金と規制を削減する、米国製を推進する、常に脅威にさらされている修正第2条を守るために、たゆまず戦うだろう。\n\nバイロン・ドナルズはフロリダ州の真に偉大で力強い知事となるであろう。彼は私の完全かつ全面的な支持を得ている！期日前投票は今進行中であり、選挙日は8月18日だ。バイロンに投票しろ — 彼は決して君たちを裏切らない！\n\n投票場所を探す：\nhttps://swampthevoteusa.com/florida/"
-    },
     "truth:117084793036271251": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18025,6 +18010,74 @@
         }
       ]
     },
+    "truth:117272909637512817": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41731",
+      "source_text": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
+      "published": "Tue, 15 Sep 2026 03:23:10 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-15T05:01:04.055105Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41731",
+      "first_seen": "2026-09-15T04:30:58.417365Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
+      "truth_social_id": "117272909637512817",
+      "source_fingerprint": "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
+      "media_identity": "attachment:117272909637512817:",
+      "translation": "全米気象局が地図と天気予報で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjoczo5q2n7",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mvjoczo5q2n7",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "全米気象局が地図と天気予報で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
+        "createdAt": "2026-09-15T04:51:05.860860Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 115,
+              "byteEnd": 229
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
+            "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts",
+            "description": "The change is expected to impact the NWS' open waters forecasts, forecasts for the Niagara River and the surrounding region in New York.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid4flk2mq5ganz7skjb47sbnnmlufdec2e3sqq2bu2kwyt56bdsxe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 91891
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjoczo5q2n7",
+          "rkey": "3mvjoczo5q2n7"
+        }
+      ]
+    },
     "truth:117242970009727578": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18306,7 +18359,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me there. Well, I don’t think I would be the first thing on anyone’s mind but, I was there, obviously not on the same day as the collapse, but shortly thereafter, with a large group of Construction Workers. I discussed it today during my Remarks on the Ellipse, in Washington, D.C., for Tunnel to Towers. Everything I said was exactly accurate and, to prove the point, I am attaching clips of me there with numerous of my people, including my then Head of Security, Matthew Calamari, who has confirmed that very sad trip to Lower Manhattan, many times, to many different Journalists, but it’s a story that just won’t die. The Fake News doesn’t want to listen, even when they know their story is false. That’s why their approval ratings are at an All Time LOW, but mine are VERY HIGH! On another September 11th front, Maggot Hagerman continues to say that I did not go to the New York World Trade Center event, but the Pentagon instead, because they wouldn’t let me speak in New York. Maggot knows that this is a lie! I have been to the New York solemn ceremony numerous times, and nobody speaks. It is a stated fact that, “Politicians and public officials are not permitted to deliver speeches or remarks at the official September 11 anniversary remembrance ceremony at the World Trade Center site in New York.” Certainly I would not want to violate that, even if I could. I speak enough, and it just so happens that the strong request was made for me to be at the Pentagon instead, with VP Vance handling our Administration’s representation in New York. Hagerman, unattractive both inside and out, fully knows that her story is made up. She knows less about me than the average reporter “on the beat.” I haven’t spoken to her in a long time, and certainly there was no “fact checking” for her story — There never is! Let her reveal her sources, because they don’t exist. Again, speeches are not made at the New York event and, even if they were, I never asked to speak. Fake News is getting worse and worse in the U.S.A. It’s very important to comment so that people understand what liars and scoundrels these so-called “journalists” are. They’re angry, and sick, over the fact that I won the Presidential Election three times! I hereby demand a retraction from Maggot, and also, for whoever wrote the fake story for New York Magazine. Again, check out the clips of me at the World Trade Center site. I was there as soon as the Law allowed. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Wed, 09 Sep 2026 01:10:33 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-15T04:56:09.200321Z",
+      "updated_at": "2026-09-15T05:01:01.071219Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41651",
       "source_fingerprint": "fp:The Failing New York Magazine wrote a story that I wasn’t down at the World Trade Center after the Tragedy of September 11th, because nobody saw me th",
       "media_identity": "attachment:117238282851088051:6b8103819a304066-ee50a41b675a.mov",
@@ -31951,175 +32004,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-14T05:01:06.111449Z"
-    },
-    "truth:117272909637512817": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41731",
-      "source_text": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
-      "published": "Tue, 15 Sep 2026 03:23:10 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-15T04:51:12.863211Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41731",
-      "first_seen": "2026-09-15T04:30:58.417365Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
-      "truth_social_id": "117272909637512817",
-      "source_fingerprint": "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
-      "media_identity": "attachment:117272909637512817:",
-      "translation": "全米気象局が地図と天気予報で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjoczo5q2n7",
-          "cid": "bafyreicfleleq3vugxvahtvxxbx7uqziu5vcq5i3hwfqemoqsbddsepyrm"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjoczo5q2n7",
-          "cid": "bafyreicfleleq3vugxvahtvxxbx7uqziu5vcq5i3hwfqemoqsbddsepyrm"
-        },
-        "next_index": 1,
-        "last_rkey": "3mvjoczo5q2n7",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "全米気象局が地図と天気予報で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-          "createdAt": "2026-09-15T04:51:05.860860Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 115,
-                "byteEnd": 229
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-              "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts",
-              "description": "The change is expected to impact the NWS' open waters forecasts, forecasts for the Niagara River and the surrounding region in New York.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid4flk2mq5ganz7skjb47sbnnmlufdec2e3sqq2bu2kwyt56bdsxe"
-                },
-                "mimeType": "image/jpeg",
-                "size": 91891
-              }
-            }
-          }
-        },
-        "root_rkey": "3mvjoczo5q2n7",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "全米気象局が地図と天気予報で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-          "createdAt": "2026-09-15T04:51:05.860860Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 115,
-                "byteEnd": 229
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-              "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts",
-              "description": "The change is expected to impact the NWS' open waters forecasts, forecasts for the Niagara River and the surrounding region in New York.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid4flk2mq5ganz7skjb47sbnnmlufdec2e3sqq2bu2kwyt56bdsxe"
-                },
-                "mimeType": "image/jpeg",
-                "size": 91891
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjoczo5q2n7",
-            "rkey": "3mvjoczo5q2n7"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjoczo5q2n7",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvjoczo5q2n7",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "全米気象局が地図と天気予報で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-        "createdAt": "2026-09-15T04:51:05.860860Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 115,
-              "byteEnd": 229
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-            "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts",
-            "description": "The change is expected to impact the NWS' open waters forecasts, forecasts for the Niagara River and the surrounding region in New York.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreid4flk2mq5ganz7skjb47sbnnmlufdec2e3sqq2bu2kwyt56bdsxe"
-              },
-              "mimeType": "image/jpeg",
-              "size": 91891
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjoczo5q2n7",
-          "rkey": "3mvjoczo5q2n7"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-15T04:56:12.863228Z"
     },
     "truth:117273029042752027": {
       "post_status": "DISCOVERED",
