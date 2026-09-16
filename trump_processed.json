@@ -32243,6 +32243,61 @@
       "published": "Tue, 15 Sep 2026 19:11:50 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-15T20:30:59.968089Z"
+    },
+    "truth:117282599441012397": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/41748",
+      "source_text": "<p></p>",
+      "published": "Wed, 16 Sep 2026 20:27:25 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-16T22:30:59.638509Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41748",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117282599441012397:5584203f80544b6e-49d53baa07e4.mp4",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 151.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/282/595/017/226/332/original/5584203f80544b6e.mp4",
+      "truth_social_id": "117282599441012397",
+      "next_retry_at": "2026-09-16T22:35:59.638524Z"
+    },
+    "truth:117282617360268122": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41749",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397</span></p>",
+      "published": "Wed, 16 Sep 2026 20:31:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-16T22:30:57.695882Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41749"
+    },
+    "truth:117282643318690567": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41750",
+      "source_text": "<p>Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP</p>",
+      "published": "Wed, 16 Sep 2026 20:38:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-16T22:30:57.695776Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41750"
+    },
+    "truth:117282768740023694": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41751",
+      "source_text": "<p><a href=\"https://www.reuters.com/world/us-poverty-rate-102-2025-census-bureau-says-2026-09-15/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/world/us-poverty-r</span><span class=\"invisible\">ate-102-2025-census-bureau-says-2026-09-15/</span></a></p>",
+      "published": "Wed, 16 Sep 2026 21:10:28 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-16T22:30:57.695680Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41751"
+    },
+    "truth:117282972517655406": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41752",
+      "source_text": "<p>First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: <a href=\"https://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/</span></a></p>",
+      "published": "Wed, 16 Sep 2026 22:02:18 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-16T22:30:57.695578Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41752"
     }
   }
 }
