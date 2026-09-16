@@ -2817,62 +2817,12 @@
     "https://www.trumpstruth.org/statuses/41744",
     "fp:What the disloyal leaks about Iran prove about Trump: \nhttps://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-pa",
     "truth:117278320442685988",
-    "https://www.trumpstruth.org/statuses/41747"
+    "https://www.trumpstruth.org/statuses/41747",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
+    "truth:117282617360268122",
+    "https://www.trumpstruth.org/statuses/41749"
   ],
   "posts": {
-    "truth:117088236128593825": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40787",
-      "source_text": "<p></p>",
-      "published": "Thu, 13 Aug 2026 12:38:16 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-13T12:50:45.356500Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40787",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117088236128593825:9158fc5849f0f80e.png",
-      "failure_reason": null,
-      "truth_social_id": "117088236128593825",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msxnxagb4kxy",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3msxnxagb4kxy",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-13T12:40:52.639576Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreify7a3kfknrwb5ifrshnx3h6s7lyc4myzskdwuvgcc6ywov5hh5zu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 171270
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 884,
-                "height": 896
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msxnxagb4kxy",
-          "rkey": "3msxnxagb4kxy"
-        }
-      ]
-    },
     "truth:117089253575637654": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18246,6 +18196,22 @@
         }
       ]
     },
+    "truth:117282617360268122": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41749",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397</span></p>",
+      "published": "Wed, 16 Sep 2026 20:31:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-16T22:36:00.772101Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41749",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
+      "media_identity": "attachment:117282617360268122:62a9c1b1b46a61c8.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
+      "truth_social_id": "117282617360268122",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397"
+    },
     "truth:117242970009727578": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32258,16 +32224,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 151.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/282/595/017/226/332/original/5584203f80544b6e.mp4",
       "truth_social_id": "117282599441012397",
       "next_retry_at": "2026-09-16T22:35:59.638524Z"
-    },
-    "truth:117282617360268122": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41749",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397</span></p>",
-      "published": "Wed, 16 Sep 2026 20:31:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-16T22:30:57.695882Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41749"
     },
     "truth:117282643318690567": {
       "post_status": "DISCOVERED",
