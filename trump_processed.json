@@ -2860,45 +2860,11 @@
     "truth:117288665434502873",
     "https://www.trumpstruth.org/statuses/41765",
     "truth:117288668720110578",
-    "https://www.trumpstruth.org/statuses/41768"
+    "https://www.trumpstruth.org/statuses/41768",
+    "truth:117288669331309351",
+    "https://www.trumpstruth.org/statuses/41767"
   ],
   "posts": {
-    "truth:117090362095600213": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40800",
-      "source_text": "<p>Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!</p><p>As the Chairwoman of the House Election Integrity Caucus, Claudia is an America First Fighter for Safeguarding our Cherished Right to Free and Fair Elections. She is working tirelessly to Grow the Economy, Cut Taxes and Regulations, Keep our Border SECURE, Strengthen our Military/Veterans, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, and Protect our always under siege Second Amendment.</p><p>Claudia Tenney has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Thu, 13 Aug 2026 21:38:56 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-13T23:25:42.486418Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40800",
-      "first_seen": "2026-08-13T21:45:57.154040Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!\nAs the Chairwoman of the Hous",
-      "truth_social_id": "117090362095600213",
-      "source_fingerprint": "fp:Congresswoman Claudia Tenney is a Fantastic Advocate for the Wonderful People of New York’s 24th Congressional District!\nAs the Chairwoman of the Hous",
-      "media_identity": "attachment:117090362095600213:",
-      "translation": "クローディア・テニー下院議員はニューヨーク州第24区選挙区の素晴らしい人々のための素晴らしい代弁者だ！\n\n下院選挙廉正議員会議の議長として、クローディアはアメリカ・ファーストの戦士であり、自由で公正な選挙に対する我々の大切な権利を守るために戦っている。彼女は経済を成長させ、税金と規制を削減し、国境をしっかり守り、軍と退役軍人を強化し、米国製を推進し、アメリカのエネルギー支配を推し進め、常に脅威にさらされている第2修正条項を守るために、たゆまぬ努力をしている。\n\nクローディア・テニーは再選に向けて私の完全かつ全面的な支持を得ている。彼女はあなた方を決して失望させることはない！",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msym5zcs325v",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3msym5zcs325v",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "クローディア・テニー下院議員はニューヨーク州第24区選挙区の素晴らしい人々のための素晴らしい代弁者だ！\n\n下院選挙廉正議員会議の議長として、クローディアはアメリカ・ファーストの戦士であり、自由で公正な選挙に対する我々の大切な権利を守るために戦っている。彼女は経済を成長させ、税金と規制を削減し、国境をしっかり守り、軍と退役軍人を強化し、米国製を推進し、アメリカのエネルギー支配を推し進め、常に脅威にさらされている第2修正条項を守るために、たゆまぬ努力をしている。\n\nクローディア・テニーは再選に向けて私の完全かつ全面的な支持を得ている。彼女はあなた方を決して失望させることはない！",
-        "createdAt": "2026-08-13T23:15:53.982595Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msym5zcs325v",
-          "rkey": "3msym5zcs325v"
-        }
-      ]
-    },
     "truth:117090504981894603": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18246,6 +18212,21 @@
       "truth_social_id": "117288668720110578",
       "translation": ""
     },
+    "truth:117288669331309351": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41767",
+      "source_text": "<p></p>",
+      "published": "Thu, 17 Sep 2026 22:11:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-17T22:40:58.548793Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41767",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117288669331309351:c5fe102256c8b885.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117288669331309351",
+      "translation": ""
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32311,16 +32292,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 151.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/282/595/017/226/332/original/5584203f80544b6e.mp4",
       "truth_social_id": "117282599441012397",
       "next_retry_at": "2026-09-16T22:35:59.638524Z"
-    },
-    "truth:117288669331309351": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41767",
-      "source_text": "<p></p>",
-      "published": "Thu, 17 Sep 2026 22:11:04 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-17T22:30:58.458665Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41767"
     },
     "truth:117288682914955882": {
       "post_status": "DISCOVERED",
