@@ -32197,14 +32197,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41754",
       "source_text": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
       "published": "Thu, 17 Sep 2026 01:24:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-17T02:30:57.875163Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-17T02:36:06.773347Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41754",
       "first_seen": "2026-09-17T02:30:57.875122Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
-      "next_retry_at": "2026-09-17T02:35:57.875172Z",
+      "next_retry_at": "2026-09-17T02:46:06.773363Z",
       "truth_social_id": "117283767428386257"
     }
   }
