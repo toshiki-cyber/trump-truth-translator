@@ -2845,45 +2845,11 @@
     "truth:117286503878102441",
     "https://www.trumpstruth.org/statuses/41759",
     "truth:117287709695500284",
-    "https://www.trumpstruth.org/statuses/41761"
+    "https://www.trumpstruth.org/statuses/41761",
+    "truth:117287760638060322",
+    "https://www.trumpstruth.org/statuses/41763"
   ],
   "posts": {
-    "truth:117090355067646771": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40806",
-      "source_text": "<p>Congressman Andrew Garbarino is a Fierce Advocate for Long Island, and the Great People of New York’s 2nd Congressional District!<br /> <br />Andrew has an incredible Record of Success, and strong support from his Community. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Keep our Border SECURE, Support our Incredible Military/Veterans, Champion American Energy DOMINANCE, and Protect our always under siege Second Amendment.<br /> <br />Andrew Garbarino has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Thu, 13 Aug 2026 21:37:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-13T22:25:46.213518Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40806",
-      "first_seen": "2026-08-13T21:45:52.762905Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Andrew Garbarino is a Fierce Advocate for Long Island, and the Great People of New York’s 2nd Congressional District!\n \nAndrew has an incr",
-      "truth_social_id": "117090355067646771",
-      "source_fingerprint": "fp:Congressman Andrew Garbarino is a Fierce Advocate for Long Island, and the Great People of New York’s 2nd Congressional District!\n \nAndrew has an incr",
-      "media_identity": "attachment:117090355067646771:",
-      "translation": "アンドリュー・ガルバリーノ下院議員はロングアイランドと、ニューヨーク州第2選挙区の素晴らしい人々の為に激しく戦う倫理的な提唱者だ！\n\nアンドリューは素晴らしい成功の実績を持ち、コミュニティから強い支持を受けている。議会では、われわれの経済を成長させ、税金と規制を削減し、国境をしっかり守り、素晴らしき軍隊と退役軍人を支援し、アメリカンエネルギーの支配権を掲げ、常に攻撃にさらされている第2修正条項を守るために休むことなく戦っている。\n\nアンドリュー・ガルバリーノは再選に向けて、わたしの完全で全面的な支持を得ている — 彼は絶対にあなたがたを失望させることはない！",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msym2t25hkqg",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3msym2t25hkqg",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "アンドリュー・ガルバリーノ下院議員はロングアイランドと、ニューヨーク州第2選挙区の素晴らしい人々の為に激しく戦う倫理的な提唱者だ！\n\nアンドリューは素晴らしい成功の実績を持ち、コミュニティから強い支持を受けている。議会では、われわれの経済を成長させ、税金と規制を削減し、国境をしっかり守り、素晴らしき軍隊と退役軍人を支援し、アメリカンエネルギーの支配権を掲げ、常に攻撃にさらされている第2修正条項を守るために休むことなく戦っている。\n\nアンドリュー・ガルバリーノは再選に向けて、わたしの完全で全面的な支持を得ている — 彼は絶対にあなたがたを失望させることはない！",
-        "createdAt": "2026-08-13T22:15:50.764610Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msym2t25hkqg",
-          "rkey": "3msym2t25hkqg"
-        }
-      ]
-    },
     "truth:117090358709824586": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18258,6 +18224,21 @@
       "truth_social_id": "117287709695500284",
       "translation": ""
     },
+    "truth:117287760638060322": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41763",
+      "source_text": "<p></p>",
+      "published": "Thu, 17 Sep 2026 18:19:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-17T18:35:58.056264Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41763",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117287760638060322:4424d710a580b78b.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117287760638060322",
+      "translation": ""
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32341,24 +32322,20 @@
       "truth_social_id": "117287545147440255"
     },
     "truth:117287739238891727": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41762",
       "source_text": "<p>Great news on NIL, in other words, straightening out the horrible situation taking place with respect to College Sports. It is out of control, and will lead to bankruptcies and disaster for many Colleges. If nothing is done, it is also very bad for Women’s Sports, all Olympic Sports, and everything else other than Football — But even Football is bad because, without “caps,” all Colleges will be financially consumed and, in many cases, it will ruin them. We can’t have Professional Athletes going back to College for Big Dollars, and playing against much younger competitors. It’s both dangerous and unfair! I want to thank all of the United States Senate for a very Bipartisan Vote. Both Parties know the importance of it. The only two Republicans that we lost were, surprisingly, from the Great State of Florida, Ashley Moody and Rick Scott, but I believe they will come along. This Vote is vital to future Sports in America. I look forward to the Final Vote in the Senate next week and, ultimately, our House of Representatives. Thank you very much to Coach Nick Saban, Randy Levine, of The New York Yankees, and all of the others, especially those involved with Sports, that helped! This issue is polling at 91% — THE PEOPLE OF AMERICA WANT IT DONE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
       "published": "Thu, 17 Sep 2026 18:14:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-17T18:30:57.632982Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41762"
-    },
-    "truth:117287760638060322": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41763",
-      "source_text": "<p></p>",
-      "published": "Thu, 17 Sep 2026 18:19:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-17T18:30:57.632899Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41763"
+      "retry_count": 1,
+      "updated_at": "2026-09-17T18:35:56.920104Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41762",
+      "first_seen": "2026-09-17T18:35:56.920070Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Great news on NIL, in other words, straightening out the horrible situation taking place with respect to College Sports. It is out of control, and wil",
+      "next_retry_at": "2026-09-17T18:40:56.920112Z",
+      "truth_social_id": "117287739238891727"
     }
   }
 }
