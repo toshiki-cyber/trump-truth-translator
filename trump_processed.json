@@ -2856,27 +2856,11 @@
     "https://www.trumpstruth.org/statuses/41762",
     "fp:I was proud to be the President that got our last Farm Bill done, in December of 2018, after the previous President, Barack Hussein Obama, was unable ",
     "truth:117288059144172657",
-    "https://www.trumpstruth.org/statuses/41764"
+    "https://www.trumpstruth.org/statuses/41764",
+    "truth:117288665434502873",
+    "https://www.trumpstruth.org/statuses/41765"
   ],
   "posts": {
-    "truth:117090360635773767": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40801",
-      "source_text": "<p>Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!<br /> <br />Nick served as the powerful Chairman of the New York Republican State Committee, prior to becoming a very distinguished and respected U.S. Congressman. A MAGA Warrior, who has been with us from the very beginning, Nick is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Nick Langworthy has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Thu, 13 Aug 2026 21:38:34 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-13T22:45:48.998889Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40801",
-      "first_seen": "2026-08-13T21:45:56.468035Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!\n \nNick serv",
-      "truth_social_id": "117090360635773767",
-      "source_fingerprint": "fp:Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!\n \nNick serv",
-      "media_identity": "attachment:117090360635773767:",
-      "translation": "ニック・ラングワーシー下院議員は、アメリカ・ファースト愛国者であり、ニューヨーク州第23区民を素晴らしい形で代表するために懸命に働いている。\n\nニックは米国下院議員になる前に、ニューヨーク共和党州委員会の強力な委員長を務めていた。最初からわれわれと共にいたMAGA戦士であるニックは、われわれの経済を成長させ、税制と規制を削減し、米国製を推し進め、米国のエネルギー支配力を前進させ、われわれの国境をしっかりと守り、勇敢な軍人・退役軍人を支援し、常に脅威にさらされているわれわれの修正第2条を守るために懸命に取り組んでいる。\n\nニック・ラングワーシーは再選に向けて、私の完全で絶対的な支持を得ている — 彼は絶対にあなたたちを失望させることはない！"
-    },
     "truth:117090430137678795": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18248,6 +18232,21 @@
       "media_identity": "attachment:117288059144172657:",
       "translation": "私が農業法案（Farm Bill）を最終的に成立させた大統領であることを誇りに思う。それは2018年12月のことで、前大統領バラク・フセイン・オバマは農業法案を成立させることができなかった（あるいはそうしたくなかったのかもしれない！）。そして今、私たち素晴らしい共和党議員とともに、再び農業法案を成立させる大統領になることを楽しみにしている。今回は2度目だが、さらに決定的に、さらにより良い法案となるだろう。昨日、農業法案は厳密に政党ラインに沿って可決された。共和党が12票の「賛成」、民主党（Dumocrat）が11票の「反対」だ。つまり、我々はそれをやり遂げたのだ！第2段階の投票はまもなく行われる予定であり、共和党が再び我々の素晴らしい農民と牧場経営者のために団結することに確信を持っている。可決されるだろう！共和党の多数派とともにこの法案を成立させることに関わることができ、特にこれに含まれている素晴らしいことが多くあることに対して、本当に大きな栄誉だ。投票を楽しみにしている！農民、牧場経営者、そして農村地域コミュニティーに対して、最終的な結果に非常に満足するだろうということを完全に保証したい。他のすべてに加えて、かなり必要とされているドル援助が提供されるだろう。それは当然の権利である。なぜなら、これらの信じられないほどの人々は、ジョー・バイデン前大統領の4年間と、農業に極めて反対のバイデン政権が引き起こしたすべてのことに耐え忍んできたからだ。アメリカを再び偉大に！この件についてのご注視をありがとう。大統領ドナルド・J・トランプ"
     },
+    "truth:117288665434502873": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41765",
+      "source_text": "<p></p>",
+      "published": "Thu, 17 Sep 2026 22:10:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-17T22:31:00.435491Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41765",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117288665434502873:38bca62dbb7c0dba.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117288665434502873",
+      "translation": ""
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32313,6 +32312,36 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 151.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/282/595/017/226/332/original/5584203f80544b6e.mp4",
       "truth_social_id": "117282599441012397",
       "next_retry_at": "2026-09-16T22:35:59.638524Z"
+    },
+    "truth:117288668720110578": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41768",
+      "source_text": "<p></p>",
+      "published": "Thu, 17 Sep 2026 22:10:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-17T22:30:58.458786Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41768"
+    },
+    "truth:117288669331309351": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41767",
+      "source_text": "<p></p>",
+      "published": "Thu, 17 Sep 2026 22:11:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-17T22:30:58.458665Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41767"
+    },
+    "truth:117288682914955882": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41766",
+      "source_text": "<p></p>",
+      "published": "Thu, 17 Sep 2026 22:14:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-17T22:30:58.458537Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41766"
     }
   }
 }
