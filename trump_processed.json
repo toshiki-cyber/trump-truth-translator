@@ -2933,24 +2933,12 @@
     "https://www.trumpstruth.org/statuses/41792",
     "fp:Tano Tijerina has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 28th Congressional District — HE WILL NEVER LET YOU",
     "truth:117293460640615998",
-    "https://www.trumpstruth.org/statuses/41791"
+    "https://www.trumpstruth.org/statuses/41791",
+    "fp:Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET",
+    "truth:117293463389669196",
+    "https://www.trumpstruth.org/statuses/41789"
   ],
   "posts": {
-    "truth:117096978108296208": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40852",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:41:28 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T02:52:05.165348Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40852",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096978108296208:01fe5b82a599e975.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096978108296208",
-      "translation": ""
-    },
     "truth:117096979324606266": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18155,6 +18143,22 @@
       "truth_social_id": "117293453926779510",
       "translation": "ステーシー・ギャリティは、ペンシルベニア州の次期知事となるため、私の完全かつ全面的な支持を得ている――彼女は決してお前たちを裏切ることはない！大統領 ドナルド・J・トランプ"
     },
+    "truth:117293463389669196": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41789",
+      "source_text": "<p>Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:30:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T21:31:16.342324Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41789",
+      "source_fingerprint": "fp:Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET",
+      "media_identity": "attachment:117293463389669196:708e637a691e0d2b-02c4989270ca.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET",
+      "truth_social_id": "117293463389669196",
+      "translation": "カルロス・デ・ラ・クルスは、テキサス州第35地区の次期アメリカ下院議員として、私の完全で絶対的な支持を得ている。彼はお前たちを決して失望させることはないだろう！大統領ドナルド・J・トランプ"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32707,16 +32711,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-18T21:31:45.274590Z"
-    },
-    "truth:117293463389669196": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41789",
-      "source_text": "<p>Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 18:30:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T20:30:59.271476Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41789"
     },
     "truth:117293466278795270": {
       "post_status": "DISCOVERED",
