@@ -2948,62 +2948,12 @@
     "https://www.trumpstruth.org/statuses/41800",
     "fp:Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
     "truth:117293999250317993",
-    "https://www.trumpstruth.org/statuses/41802"
+    "https://www.trumpstruth.org/statuses/41802",
+    "fp:BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, th",
+    "truth:117294126158197822",
+    "https://www.trumpstruth.org/statuses/41803"
   ],
   "posts": {
-    "truth:117096967624408759": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40832",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:38:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T03:21:00.777659Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40832",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096967624408759:550e07d37a561112.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096967624408759",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3jzuftus2f",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3jzuftus2f",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T03:20:53.615546Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreignb7pspcftsgyxeyjvjgdki7spwnocmcydrgjkzj75pzfxwkf5j4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 139725
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 800,
-                "height": 521
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3jzuftus2f",
-          "rkey": "3mt3jzuftus2f"
-        }
-      ]
-    },
     "truth:117096976760333976": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18137,6 +18087,24 @@
       "truth_social_id": "117293999250317993",
       "translation": "アシュレイ・ヒンソンは、アイオワ州の次期アメリカ合衆国上院議員となるための私の完全かつ全面的な支持を得ている。彼女は決してあなたを失望させることはない！ドナルド・J・トランプ大統領"
     },
+    "truth:117294126158197822": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41803",
+      "source_text": "<p>BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 21:18:49 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-18T23:01:07.887553Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41803",
+      "first_seen": "2026-09-18T22:41:01.265927Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, th",
+      "truth_social_id": "117294126158197822",
+      "source_fingerprint": "fp:BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, th",
+      "media_identity": "attachment:117294126158197822:",
+      "translation": "【翻訳】\n\n速報：アメリカ合衆国がデンマーク王国及びグリーンランドと合意に達したことをお知らせできて嬉しい。この合意によって、アメリカはグリーンランドの安全保障及びその他全ての必要事項について恒久的な支配権を獲得し、アメリカの多くの懸念事項を完全に解決するものである。アメリカには一切の費用負担がない！私の指示下で、我々はデンマーク及びグリーンランドの代表者と協力し、アメリカがグリーンランドの安全保障及びアメリカ合衆国の防衛を確保するため、グリーンランドで必要なあらゆることを永遠に完全に実行する能力を保有することを保証した。さらに今後、アメリカの敵対者は当国の明確な書面による承認なしに、グリーンランドに基地を有することも、軍事的プレゼンスを有することも、グリーンランドで機密投資を行うこともできない。100年以上の間、大統領たちはグリーンランドの戦略的重要性を認識してきたが、誰もこれについて何かなすことができなかった。この極めて重要な状況を永遠に、決定的に解決した大統領になれることを誇りに思う。これは「無限の生命」合意であり、終わりはない！我々は今起きたことに非常に喜びと誇りを感じており、本日合意した全てはアメリカ国民から大切にされるだろう。我々は直ちにグリーンランドの適切な地域における大規模な軍事プレゼンスの構築プロセスを開始する。我々はグリーンランドの国民と共にその開発と建設に当たる。このソリューションはアメリカ合衆国、デンマーク、グリーンランド、及び我々の全同盟国にとって素晴らしいものである。この広大で極めて戦略的に重要な土地に関して、デンマークとグリーンランドの素晴らしい国民との協力を通じた輝かしい未来の構築に向けて前に進むことを楽しみにしている。我々はそれを非常に保護する！これはアメリカ合衆国にとって夢の実現であり、極めて重要で、歴史的で、特別なものである。この件についての皆様のご関心をお礼申し上げる！ドナルド・J・トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32714,22 +32682,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/293/999/961/954/452/original/aecb1473d6636c3d.mp4",
       "truth_social_id": "117294006211890226",
       "next_retry_at": "2026-09-18T22:41:01.627337Z"
-    },
-    "truth:117294126158197822": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41803",
-      "source_text": "<p>BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 21:18:49 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-18T22:50:59.408027Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41803",
-      "first_seen": "2026-09-18T22:41:01.265927Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, th",
-      "next_retry_at": "2026-09-18T23:00:59.408039Z",
-      "truth_social_id": "117294126158197822"
     }
   }
 }
