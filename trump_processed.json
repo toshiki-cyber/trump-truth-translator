@@ -2912,7 +2912,10 @@
     "https://www.trumpstruth.org/statuses/41786",
     "fp:Roger Marshall has my Complete and Total Endorsement for Re-Election as U.S. Senator from Kansas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRU",
     "truth:117293409824088390",
-    "https://www.trumpstruth.org/statuses/41787"
+    "https://www.trumpstruth.org/statuses/41787",
+    "fp:Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL N",
+    "truth:117293443739276008",
+    "https://www.trumpstruth.org/statuses/41797"
   ],
   "posts": {
     "truth:117096968191231622": {
@@ -18135,24 +18138,6 @@
       "truth_social_id": "117293400265439279",
       "translation": "マイク・コリンズはジョージア州の次期アメリカ合衆国上院議員であることについて、私の完全で全面的な支持を得ている。彼は絶対にあなたを失望させることはない！ドナルド・J・トランプ大統領"
     },
-    "truth:117293338603423306": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41782",
-      "source_text": "<p>TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 17:58:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-18T18:51:00.853456Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41782",
-      "first_seen": "2026-09-18T18:30:57.643901Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
-      "truth_social_id": "117293338603423306",
-      "source_fingerprint": "fp:TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
-      "media_identity": "attachment:117293338603423306:",
-      "translation": "共和党内のトランプ支持率が現在95％に達し、これは過去最高記録だ。2位はロナルド・レーガンの86％だ。ありがとう！大統領ドナルド・J・トランプ"
-    },
     "truth:117293414375817043": {
       "post_status": "POSTED",
       "media_state": "INVALID",
@@ -18171,6 +18156,40 @@
       "fallback_policy_version": 1,
       "media_fallback_reason": "動画アップロード失敗: HTTPSConnectionPool(host='video.bsky.app', port=443): Read timed out. (read timeout=30)",
       "translation": "マイク・ロジャースは、ミシガン州の次期合衆国上院議員として私の完全かつ全面的な支持を得ている。彼は決して君たちを裏切らない!ドナルド・J・トランプ大統領"
+    },
+    "truth:117293443739276008": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41797",
+      "source_text": "<p>Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:25:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:31:27.448188Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41797",
+      "source_fingerprint": "fp:Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL N",
+      "media_identity": "attachment:117293443739276008:5074b9e9de446af4-ab2e4b6e132f.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL N",
+      "truth_social_id": "117293443739276008",
+      "translation": "ローリー・バックハウトは、ノースカロライナ州第1下院地区の次期連邦下院議員として、私の完全かつ全面的な支持を得ている――彼女は絶対にあなた方を裏切らない！ドナルド・J・トランプ大統領"
+    },
+    "truth:117293338603423306": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41798",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:35:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271276Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41798",
+      "first_seen": "2026-09-18T18:30:57.643901Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+      "truth_social_id": "117293338603423306",
+      "source_fingerprint": "fp:TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+      "media_identity": "attachment:117293338603423306:",
+      "translation": "共和党内のトランプ支持率が現在95％に達し、これは過去最高記録だ。2位はロナルド・レーガンの86％だ。ありがとう！大統領ドナルド・J・トランプ"
     },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
@@ -32395,6 +32414,116 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"damoifre7n9s73dbmhs0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-18T19:11:00.383134Z"
+    },
+    "truth:117293447626672058": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41796",
+      "source_text": "<p>Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:26:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.272059Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41796"
+    },
+    "truth:117293450293989793": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41795",
+      "source_text": "<p>Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:26:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271976Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41795"
+    },
+    "truth:117293452758039623": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41794",
+      "source_text": "<p>Jon Husted has my Complete and Total Endorsement for Re-Election as U.S. Senator from Ohio — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:27:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271893Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41794"
+    },
+    "truth:117293453926779510": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41793",
+      "source_text": "<p>Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:27:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271810Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41793"
+    },
+    "truth:117293456663113621": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41792",
+      "source_text": "<p>Monica De La Cruz has my Complete and Total Endorsement for Re-Election as U.S. Representative from Texas’ 15th Congressional District — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:28:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271726Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41792"
+    },
+    "truth:117293460640615998": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41791",
+      "source_text": "<p>Tano Tijerina has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 28th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:29:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271641Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41791"
+    },
+    "truth:117293461566506192": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41790",
+      "source_text": "<p>Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:29:48 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271559Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41790"
+    },
+    "truth:117293463389669196": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41789",
+      "source_text": "<p>Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:30:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271476Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41789"
+    },
+    "truth:117293466278795270": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41788",
+      "source_text": "<p>Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:31:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271390Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41788"
+    },
+    "truth:117293533781828630": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41799",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 18:48:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271191Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41799"
+    },
+    "truth:117293599348325006": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41800",
+      "source_text": "<p>I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewership and credibility!), and Politico (The recipients of an illegal and ridiculous $8 Million Dollar subscription, an All Time Record, directly from the United States Government, under Crooked Joe Biden, in order to keep them “alive.” Seems like corruption to me!), from the White House as a result of their constant “reporting” FAKE NEWS! Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America. Other Fake News Media Outlets to follow. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 19:04:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:30:59.271097Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41800"
     }
   }
 }
