@@ -2945,62 +2945,12 @@
     "https://www.trumpstruth.org/statuses/41788",
     "fp:I am proud to announce that, effective immediately, I am banning Fake News CNN, MSNOW (who recently changed their name from MSNBC due to lack of viewe",
     "truth:117293599348325006",
-    "https://www.trumpstruth.org/statuses/41800"
+    "https://www.trumpstruth.org/statuses/41800",
+    "fp:Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+    "truth:117293999250317993",
+    "https://www.trumpstruth.org/statuses/41802"
   ],
   "posts": {
-    "truth:117096982748914593": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40850",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:42:39 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T03:11:26.914910Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40850",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096982748914593:2bc1f53da220f2e9.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096982748914593",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kaqipx2rx",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kaqipx2rx",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T03:11:20.207935Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreidcfsvqxo6fmysno3pcrahdxhtxxc6pf4oheamnfc222xxv2wtmma"
-                },
-                "mimeType": "image/jpeg",
-                "size": 134623
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1145,
-                "height": 576
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kaqipx2rx",
-          "rkey": "3mt3kaqipx2rx"
-        }
-      ]
-    },
     "truth:117096967624408759": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18171,6 +18121,22 @@
       "media_identity": "attachment:117293599348325006:",
       "translation": "偽りのニュースメディアであるCNN、MSNOW（最近、視聴率と信頼性の欠如によりMSNBCから改名した！）、およびPolitico（不正かつ馬鹿げた800万ドルの購読料の受取人であり、これは史上最高記録であり、腐敗したジョー・バイデンの下で直接アメリカ合衆国政府から彼らを「生かし続ける」ために支給されたものだ。腐敗に見える！）を、絶え間ない「報道」の偽りのニュースの結果として、ホワイトハウスから即座に締め出すことを発表できることを誇りに思う。メディアアウトレットは、アメリカ合衆国の大統領、トランプ政権、またはアメリカ合衆国を報道する際に、絶え間なく虚構と嘘を報道することができるべきではない。他の偽りのニュースメディアアウトレットが続く予定である。この件への注意をいただきありがとうございます。ドナルド・J・トランプ大統領"
     },
+    "truth:117293999250317993": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41802",
+      "source_text": "<p>Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 20:46:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T22:31:35.041010Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41802",
+      "source_fingerprint": "fp:Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "media_identity": "attachment:117293999250317993:c273520999064e70-47a574930732.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "truth_social_id": "117293999250317993",
+      "translation": "アシュレイ・ヒンソンは、アイオワ州の次期アメリカ合衆国上院議員となるための私の完全かつ全面的な支持を得ている。彼女は決してあなたを失望させることはない！ドナルド・J・トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32733,6 +32699,26 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 379.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/293/509/222/429/176/original/9eef88c489130436.mp4",
       "truth_social_id": "117293533781828630",
       "next_retry_at": "2026-09-18T21:51:03.121951Z"
+    },
+    "truth:117294006211890226": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41801",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 20:48:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T22:30:58.985883Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41801"
+    },
+    "truth:117294126158197822": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41803",
+      "source_text": "<p>BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 21:18:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T22:30:58.985811Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41803"
     }
   }
 }
