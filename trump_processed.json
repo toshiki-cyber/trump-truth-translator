@@ -2915,62 +2915,12 @@
     "https://www.trumpstruth.org/statuses/41787",
     "fp:Laurie Buckhout has my Complete and Total Endorsement to be the next U.S. Representative from North Carolina’s 1st Congressional District — SHE WILL N",
     "truth:117293443739276008",
-    "https://www.trumpstruth.org/statuses/41797"
+    "https://www.trumpstruth.org/statuses/41797",
+    "fp:Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TR",
+    "truth:117293450293989793",
+    "https://www.trumpstruth.org/statuses/41795"
   ],
   "posts": {
-    "truth:117096968191231622": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40831",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:38:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T02:26:58.834175Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40831",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096968191231622:eb27d5f526301c62.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096968191231622",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3k24ns623s",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3k24ns623s",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T02:26:51.989914Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreictyui3qjh45lvxtczja65v4vagegkuelne6my2qsxsgzurmirv6q"
-                },
-                "mimeType": "image/jpeg",
-                "size": 289071
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 872,
-                "height": 1176
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3k24ns623s",
-          "rkey": "3mt3k24ns623s"
-        }
-      ]
-    },
     "truth:117096977498786840": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18173,6 +18123,22 @@
       "truth_social_id": "117293443739276008",
       "translation": "ローリー・バックハウトは、ノースカロライナ州第1下院地区の次期連邦下院議員として、私の完全かつ全面的な支持を得ている――彼女は絶対にあなた方を裏切らない！ドナルド・J・トランプ大統領"
     },
+    "truth:117293450293989793": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41795",
+      "source_text": "<p>Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:26:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:41:28.933277Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41795",
+      "source_fingerprint": "fp:Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TR",
+      "media_identity": "attachment:117293450293989793:710897ac464da58f-937c88d342b0.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TR",
+      "truth_social_id": "117293450293989793",
+      "translation": "ピート・リケッツ前知事は、ネブラスカ州選出の米国上院議員への再選で、私の完全かつ全面的な支持を得ている——彼は決してあなたを失望させることはない！ ドナルド・J・トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32521,16 +32487,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-18T20:41:57.214023Z"
-    },
-    "truth:117293450293989793": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41795",
-      "source_text": "<p>Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 18:26:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T20:30:59.271976Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41795"
     },
     "truth:117293452758039623": {
       "post_status": "DISCOVERED",
