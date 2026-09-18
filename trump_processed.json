@@ -2918,7 +2918,10 @@
     "https://www.trumpstruth.org/statuses/41797",
     "fp:Pete Ricketts has my Complete and Total Endorsement for Re-Election as U.S. Senator from Nebraska — HE WILL NEVER LET YOU DOWN! President DONALD J. TR",
     "truth:117293450293989793",
-    "https://www.trumpstruth.org/statuses/41795"
+    "https://www.trumpstruth.org/statuses/41795",
+    "fp:Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J",
+    "truth:117293447626672058",
+    "https://www.trumpstruth.org/statuses/41796"
   ],
   "posts": {
     "truth:117096977498786840": {
@@ -32382,79 +32385,20 @@
       "next_retry_at": "2026-09-18T19:11:00.383134Z"
     },
     "truth:117293447626672058": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
+      "post_status": "RETRY",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41796",
       "source_text": "<p>Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
       "published": "Fri, 18 Sep 2026 18:26:15 +0000",
       "retry_count": 1,
-      "updated_at": "2026-09-18T20:36:57.214007Z",
+      "updated_at": "2026-09-18T20:46:14.807533Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41796",
       "source_fingerprint": "fp:Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J",
       "media_identity": "attachment:117293447626672058:e7809a01edc388bd-cb761213575f.mp4",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": "Bluesky投稿失敗: 決定的rkeyに異なる既存recordがあり競合",
       "fingerprint": "fp:Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J",
       "truth_social_id": "117293447626672058",
       "translation": "マイケル・ウェットリーは、ノースカロライナ州の次期アメリカ上院議員として、私の完全かつ全面的な支持を得ている――彼は決して君たちを裏切らない！ドナルド・J・トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvss6mqmh2lj",
-          "cid": "bafyreighikplggf4mwpu3berasey2swi6v25azspbs5frzbpyydrueevre"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvss6mqmh2lj",
-          "cid": "bafyreighikplggf4mwpu3berasey2swi6v25azspbs5frzbpyydrueevre"
-        },
-        "next_index": 1,
-        "last_rkey": "3mvss6mqmh2lj",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "マイケル・ウェットリーは、ノースカロライナ州の次期アメリカ上院議員として、私の完全かつ全面的な支持を得ている――彼は決して君たちを裏切らない！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-09-18T20:36:48.871875Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreidwj42ljo4hah2qydqfyh2zzsa7kaz4qurtsuila2dmrtjhaq6r4i"
-              },
-              "mimeType": "video/mp4",
-              "size": 21784436
-            },
-            "alt": ""
-          }
-        },
-        "root_rkey": "3mvss6mqmh2lj",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "マイケル・ウェットリーは、ノースカロライナ州の次期アメリカ上院議員として、私の完全かつ全面的な支持を得ている――彼は決して君たちを裏切らない！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-09-18T20:36:48.871875Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreidwj42ljo4hah2qydqfyh2zzsa7kaz4qurtsuila2dmrtjhaq6r4i"
-              },
-              "mimeType": "video/mp4",
-              "size": 21784436
-            },
-            "alt": ""
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvss6mqmh2lj",
-            "rkey": "3mvss6mqmh2lj"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvss6mqmh2lj",
       "expected_embed": "video",
       "expected_images": 0,
@@ -32485,8 +32429,11 @@
           "rkey": "3mvss6mqmh2lj"
         }
       ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-18T20:41:57.214023Z"
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"damq1dhd6nsc739pveug\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
+      "failure_stage": "POST",
+      "next_retry_at": "2026-09-18T20:51:14.807553Z"
     },
     "truth:117293452758039623": {
       "post_status": "DISCOVERED",
