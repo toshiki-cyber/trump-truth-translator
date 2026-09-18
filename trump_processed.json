@@ -2921,24 +2921,12 @@
     "https://www.trumpstruth.org/statuses/41795",
     "fp:Michael Whatley has my Complete and Total Endorsement to be the next U.S. Senator from North Carolina — HE WILL NEVER LET YOU DOWN! President DONALD J",
     "truth:117293447626672058",
-    "https://www.trumpstruth.org/statuses/41796"
+    "https://www.trumpstruth.org/statuses/41796",
+    "fp:Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+    "truth:117293453926779510",
+    "https://www.trumpstruth.org/statuses/41793"
   ],
   "posts": {
-    "truth:117096977498786840": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40853",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:41:19 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T02:46:16.697730Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40853",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096977498786840:7842fa21b1c53160.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096977498786840",
-      "translation": ""
-    },
     "truth:117096978108296208": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18142,6 +18130,22 @@
       "truth_social_id": "117293450293989793",
       "translation": "ピート・リケッツ前知事は、ネブラスカ州選出の米国上院議員への再選で、私の完全かつ全面的な支持を得ている——彼は決してあなたを失望させることはない！ ドナルド・J・トランプ大統領"
     },
+    "truth:117293453926779510": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41793",
+      "source_text": "<p>Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:27:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T20:56:31.504207Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41793",
+      "source_fingerprint": "fp:Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "media_identity": "attachment:117293453926779510:fc83210e086bf86c-658329c06930.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "truth_social_id": "117293453926779510",
+      "translation": "ステーシー・ギャリティは、ペンシルベニア州の次期知事となるため、私の完全かつ全面的な支持を得ている――彼女は決してお前たちを裏切ることはない！大統領 ドナルド・J・トランプ"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32541,16 +32545,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-18T20:56:33.659455Z"
-    },
-    "truth:117293453926779510": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41793",
-      "source_text": "<p>Stacy Garrity has my Complete and Total Endorsement to be the next Governor of Pennsylvania — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 18:27:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T20:30:59.271810Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41793"
     },
     "truth:117293456663113621": {
       "post_status": "DISCOVERED",
