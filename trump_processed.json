@@ -2869,77 +2869,12 @@
     "https://www.trumpstruth.org/statuses/41769",
     "fp:Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chair",
     "truth:117289151255093709",
-    "https://www.trumpstruth.org/statuses/41770"
+    "https://www.trumpstruth.org/statuses/41770",
+    "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy ",
+    "truth:117289176463500141",
+    "https://www.trumpstruth.org/statuses/41771"
   ],
   "posts": {
-    "truth:117091934703272898": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40816",
-      "source_text": "<p>White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: <a href=\"https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/white-house-report-details-great-transshipment-scam-costing-tens-billions</span></a></p>",
-      "published": "Fri, 14 Aug 2026 04:18:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-14T05:25:40.775844Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40816",
-      "first_seen": "2026-08-14T04:25:39.253475Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
-      "truth_social_id": "117091934703272898",
-      "source_fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
-      "media_identity": "attachment:117091934703272898:",
-      "translation": "ホワイトハウスのリポートが「大規模積み替え詐欺」の詳細を明かす。関税回避で数百億ドルの損失が出ている：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mszcj5rcqcz5",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mszcj5rcqcz5",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ホワイトハウスのリポートが「大規模積み替え詐欺」の詳細を明かす。関税回避で数百億ドルの損失が出ている：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-        "createdAt": "2026-08-14T05:10:48.594097Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 154,
-              "byteEnd": 274
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-            "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion",
-            "description": "The report concludes that the scale of potential evasion is economically significant and establishes a framework for ongoing assessment of the integrity of the U.S. tariff system.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ More than 40 lower-tariff jurisdictions are being used as pass-throughs to avoid lawful tarriffs.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreid25qg2kwsfc2ltrhb67647bmqetm26njhmilxiyq3zabozpmbaga"
-              },
-              "mimeType": "image/jpeg",
-              "size": 73862
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mszcj5rcqcz5",
-          "rkey": "3mszcj5rcqcz5"
-        }
-      ]
-    },
     "truth:117093801058115505": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18230,6 +18165,24 @@
       "media_identity": "attachment:117289151255093709:",
       "translation": "ロブ・ウィットマン下院議員はバージニア州第1選挙区の素晴らしい国民を代表して、本当に素晴らしい仕事をしている！下院軍事委員会の副委員長として、ロブはアメリカ・ファーストの議題を進めるために休む暇なく働いている。彼は国防を守り、勇敢な軍人・退役軍人をサポートし、強さを通じた平和を確保するために必要な知恵と勇気を理解している。議会では、ロブは経済成長、減税・規制緩和、メイド・イン・ザ・USAの推進、米国のエネルギー支配の前進、今や非常に安全になった国境を安全に保つこと、不法移民犯罪の阻止、常に脅威にさらされている憲法修正第2条を守るために休む暇なく戦っている。ロブ・ウィットマンは再選において私の完全かつ全面的な支持を得ている。彼はお前たちを決して失望させないだろう！"
     },
+    "truth:117289176463500141": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41771",
+      "source_text": "<p>Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. </p><p>John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. </p><p>John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!</p>",
+      "published": "Fri, 18 Sep 2026 00:20:02 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-18T01:01:03.639853Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41771",
+      "first_seen": "2026-09-18T00:36:01.445210Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy ",
+      "truth_social_id": "117289176463500141",
+      "source_fingerprint": "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy ",
+      "media_identity": "attachment:117289176463500141:",
+      "translation": "ジョン・マッギュア下院議員はバージニア州第5選挙区のアメリカ・ファースト・ウォーリアーだ。ジョンは米海軍シールズの一員として我が偉大なる国に勇敢に仕えており、農村地帯のバージニア州民のために戦う素晴らしい仕事をしている。彼は経済を成長させ、素晴らしい雇用を創出し、米国エネルギーの支配権を確立し、我々の国境を守り、軍と退役軍人を強化し、常に攻撃にさらされている第二修正憲法を守り、力による平和を回復するために全力で取り組んでいる。\n\nジョンはずっとMAGAであり、最初からずっと我々と共にいる。ジョン・マッギュアは私の完全かつ絶対的な支持を得ている。彼は決してお前たちを失望させないだろう！"
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32304,22 +32257,6 @@
       "published": "Fri, 18 Sep 2026 00:19:12 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-18T00:30:57.097082Z"
-    },
-    "truth:117289176463500141": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41771",
-      "source_text": "<p>Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. </p><p>John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. </p><p>John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!</p>",
-      "published": "Fri, 18 Sep 2026 00:20:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-18T00:45:58.018488Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41771",
-      "first_seen": "2026-09-18T00:36:01.445210Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy ",
-      "next_retry_at": "2026-09-18T00:55:58.018502Z",
-      "truth_social_id": "117289176463500141"
     }
   }
 }
