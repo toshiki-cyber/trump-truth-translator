@@ -2872,69 +2872,11 @@
     "https://www.trumpstruth.org/statuses/41770",
     "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy ",
     "truth:117289176463500141",
-    "https://www.trumpstruth.org/statuses/41771"
+    "https://www.trumpstruth.org/statuses/41771",
+    "truth:117289624164356202",
+    "https://www.trumpstruth.org/statuses/41775"
   ],
   "posts": {
-    "truth:117093801058115505": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40817",
-      "source_text": "<p>Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: <a href=\"https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsmax-tv/scott-b</span><span class=\"invisible\">essent-iran-economic/2026/08/13/id/1266059/</span></a></p>",
-      "published": "Fri, 14 Aug 2026 12:13:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-14T12:50:42.849612Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40817",
-      "first_seen": "2026-08-14T12:20:52.503855Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
-      "truth_social_id": "117093801058115505",
-      "source_fingerprint": "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
-      "media_identity": "attachment:117093801058115505:",
-      "translation": "ベッセント財務長官がニューズマックスで語る：米国がイランに前代未聞の経済的孤立を科す：\nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt24zusja2yr",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt24zusja2yr",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ベッセント財務長官がニューズマックスで語る：米国がイランに前代未聞の経済的孤立を科す：\nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-        "createdAt": "2026-08-14T12:41:02.230339Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 130,
-              "byteEnd": 215
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-            "title": "https://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/id/1266059/",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt24zusja2yr",
-          "rkey": "3mt24zusja2yr"
-        }
-      ]
-    },
     "truth:117093953604941841": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18183,6 +18125,21 @@
       "media_identity": "attachment:117289176463500141:",
       "translation": "ジョン・マッギュア下院議員はバージニア州第5選挙区のアメリカ・ファースト・ウォーリアーだ。ジョンは米海軍シールズの一員として我が偉大なる国に勇敢に仕えており、農村地帯のバージニア州民のために戦う素晴らしい仕事をしている。彼は経済を成長させ、素晴らしい雇用を創出し、米国エネルギーの支配権を確立し、我々の国境を守り、軍と退役軍人を強化し、常に攻撃にさらされている第二修正憲法を守り、力による平和を回復するために全力で取り組んでいる。\n\nジョンはずっとMAGAであり、最初からずっと我々と共にいる。ジョン・マッギュアは私の完全かつ絶対的な支持を得ている。彼は決してお前たちを失望させないだろう！"
     },
+    "truth:117289624164356202": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41775",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 02:13:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T02:31:39.778692Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41775",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117289624164356202:08933b31fbc67cf1-0c467bf6b2f8.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117289624164356202",
+      "translation": ""
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32257,6 +32214,62 @@
       "published": "Fri, 18 Sep 2026 00:19:12 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-18T00:30:57.097082Z"
+    },
+    "truth:117289429489598640": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41773",
+      "source_text": "<p>Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 01:24:23 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-18T02:30:57.403103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41773",
+      "first_seen": "2026-09-18T02:30:57.403067Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got t",
+      "next_retry_at": "2026-09-18T02:35:57.403112Z",
+      "truth_social_id": "117289429489598640"
+    },
+    "truth:117289625653769278": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41774",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 02:14:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T02:30:56.876123Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41774"
+    },
+    "truth:117289646853203408": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41776",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 02:19:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T02:30:56.876005Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41776"
+    },
+    "truth:117289656153250166": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41778",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 02:22:02 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T02:30:56.875886Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41778"
+    },
+    "truth:117289658560181496": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41777",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 02:22:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T02:30:56.875751Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41777"
     }
   }
 }
