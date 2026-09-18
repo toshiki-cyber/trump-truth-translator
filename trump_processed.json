@@ -2874,45 +2874,11 @@
     "truth:117289176463500141",
     "https://www.trumpstruth.org/statuses/41771",
     "truth:117289624164356202",
-    "https://www.trumpstruth.org/statuses/41775"
+    "https://www.trumpstruth.org/statuses/41775",
+    "truth:117289625653769278",
+    "https://www.trumpstruth.org/statuses/41774"
   ],
   "posts": {
-    "truth:117093953604941841": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40818",
-      "source_text": "<p>Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II. First the Reflecting Pool, now this. We are on their trail! Where do these animals come from??? President DJT</p>",
-      "published": "Fri, 14 Aug 2026 12:52:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-14T13:25:41.686561Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40818",
-      "first_seen": "2026-08-14T12:55:45.020002Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
-      "truth_social_id": "117093953604941841",
-      "source_fingerprint": "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
-      "media_identity": "attachment:117093953604941841:",
-      "translation": "我々の美しい第二次世界大戦メモリアルが、スプレーペイント破壊者によって襲われたばかりだ。第二次世界大戦で亡くなったアメリカの英雄たちへの侮辱として、これ以上のものはない。まずリフレクティングプール、今度はこれだ。我々は奴らの行跡を追っている！こんな野蛮人どもはどこから来るんだ？？？ トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt277annas36",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt277annas36",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "我々の美しい第二次世界大戦メモリアルが、スプレーペイント破壊者によって襲われたばかりだ。第二次世界大戦で亡くなったアメリカの英雄たちへの侮辱として、これ以上のものはない。まずリフレクティングプール、今度はこれだ。我々は奴らの行跡を追っている！こんな野蛮人どもはどこから来るんだ？？？ トランプ大統領",
-        "createdAt": "2026-08-14T13:15:46.439678Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt277annas36",
-          "rkey": "3mt277annas36"
-        }
-      ]
-    },
     "truth:117094657744873324": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18140,6 +18106,21 @@
       "truth_social_id": "117289624164356202",
       "translation": ""
     },
+    "truth:117289625653769278": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41774",
+      "source_text": "<p></p>",
+      "published": "Fri, 18 Sep 2026 02:14:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T02:37:15.656079Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41774",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117289625653769278:02aa2f1d2735e879-8b7f367f5edb.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117289625653769278",
+      "translation": ""
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32221,25 +32202,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41773",
       "source_text": "<p>Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP</p>",
       "published": "Fri, 18 Sep 2026 01:24:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-18T02:30:57.403103Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-18T02:36:02.179040Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41773",
       "first_seen": "2026-09-18T02:30:57.403067Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got t",
-      "next_retry_at": "2026-09-18T02:35:57.403112Z",
+      "next_retry_at": "2026-09-18T02:46:02.179055Z",
       "truth_social_id": "117289429489598640"
-    },
-    "truth:117289625653769278": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41774",
-      "source_text": "<p></p>",
-      "published": "Fri, 18 Sep 2026 02:14:17 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T02:30:56.876123Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41774"
     },
     "truth:117289646853203408": {
       "post_status": "DISCOVERED",
