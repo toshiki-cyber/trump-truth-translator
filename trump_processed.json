@@ -2866,63 +2866,12 @@
     "truth:117288682914955882",
     "https://www.trumpstruth.org/statuses/41766",
     "truth:117288829666075555",
-    "https://www.trumpstruth.org/statuses/41769"
+    "https://www.trumpstruth.org/statuses/41769",
+    "fp:Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chair",
+    "truth:117289151255093709",
+    "https://www.trumpstruth.org/statuses/41770"
   ],
   "posts": {
-    "truth:117090920749960452": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40815",
-      "source_text": "<p>Tonight at 9 PM ET, on ABC News, I will be hosting “The Patriot Games,” an Athletic Competition featuring many great young people from across the Country, all of whom participated in the celebration of our Nation’s 250th Birthday! It is my Great Honor to host the Final Games, and cheer on these very special young American Athletes. TUNE IN! President DONALD J. TRUMP</p>",
-      "published": "Fri, 14 Aug 2026 00:01:00 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-14T00:15:43.176279Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40815",
-      "source_fingerprint": "fp:Tonight at 9 PM ET, on ABC News, I will be hosting “The Patriot Games,” an Athletic Competition featuring many great young people from across the Coun",
-      "media_identity": "attachment:117090920749960452:ec13de862df0c3e9.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Tonight at 9 PM ET, on ABC News, I will be hosting “The Patriot Games,” an Athletic Competition featuring many great young people from across the Coun",
-      "truth_social_id": "117090920749960452",
-      "translation": "本日東部時間午後9時、ABCニュースで「ザ・パトリオット・ゲームズ」をホストする。これは全国から集った多くの素晴らしい若者たちによる運動競技大会であり、彼ら全員が我が国の250周年記念祝典に参加した者たちだ。この最終大会をホストし、この非常に特別な若きアメリカの選手たちを応援することは、私の大きな栄誉である。是非ご覧になってもらいたい！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msyu42sipc4t",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3msyu42sipc4t",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "本日東部時間午後9時、ABCニュースで「ザ・パトリオット・ゲームズ」をホストする。これは全国から集った多くの素晴らしい若者たちによる運動競技大会であり、彼ら全員が我が国の250周年記念祝典に参加した者たちだ。この最終大会をホストし、この非常に特別な若きアメリカの選手たちを応援することは、私の大きな栄誉である。是非ご覧になってもらいたい！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-08-14T00:05:48.098313Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiexmzp7mmejab6gw34px3rl27q7pxirg6mq5i2ptfci5o3l4oas7u"
-                },
-                "mimeType": "image/jpeg",
-                "size": 265789
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 878,
-                "height": 1170
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3msyu42sipc4t",
-          "rkey": "3msyu42sipc4t"
-        }
-      ]
-    },
     "truth:117091934703272898": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18263,6 +18212,24 @@
       "truth_social_id": "117288829666075555",
       "translation": ""
     },
+    "truth:117289151255093709": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41770",
+      "source_text": "<p>Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.   Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
+      "published": "Fri, 18 Sep 2026 00:13:38 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-18T00:56:05.126138Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41770",
+      "first_seen": "2026-09-18T00:36:00.888910Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chair",
+      "truth_social_id": "117289151255093709",
+      "source_fingerprint": "fp:Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chair",
+      "media_identity": "attachment:117289151255093709:",
+      "translation": "ロブ・ウィットマン下院議員はバージニア州第1選挙区の素晴らしい国民を代表して、本当に素晴らしい仕事をしている！下院軍事委員会の副委員長として、ロブはアメリカ・ファーストの議題を進めるために休む暇なく働いている。彼は国防を守り、勇敢な軍人・退役軍人をサポートし、強さを通じた平和を確保するために必要な知恵と勇気を理解している。議会では、ロブは経済成長、減税・規制緩和、メイド・イン・ザ・USAの推進、米国のエネルギー支配の前進、今や非常に安全になった国境を安全に保つこと、不法移民犯罪の阻止、常に脅威にさらされている憲法修正第2条を守るために休む暇なく戦っている。ロブ・ウィットマンは再選において私の完全かつ全面的な支持を得ている。彼はお前たちを決して失望させないだろう！"
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32337,22 +32304,6 @@
       "published": "Fri, 18 Sep 2026 00:19:12 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-18T00:30:57.097082Z"
-    },
-    "truth:117289151255093709": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41770",
-      "source_text": "<p>Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.   Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Fri, 18 Sep 2026 00:13:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-18T00:45:57.723164Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41770",
-      "first_seen": "2026-09-18T00:36:00.888910Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District!   As the Vice Chair",
-      "next_retry_at": "2026-09-18T00:55:57.723178Z",
-      "truth_social_id": "117289151255093709"
     },
     "truth:117289176463500141": {
       "post_status": "RETRY",
