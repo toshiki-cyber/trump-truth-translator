@@ -32248,6 +32248,22 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-18T03:01:03.226039Z"
+    },
+    "truth:117292605168784403": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41781",
+      "source_text": "<p>Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very few people are watching! President DJT</p>",
+      "published": "Fri, 18 Sep 2026 14:52:00 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-18T16:31:01.172215Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41781",
+      "first_seen": "2026-09-18T16:31:01.172192Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very f",
+      "next_retry_at": "2026-09-18T16:36:01.172223Z",
+      "truth_social_id": "117292605168784403"
     }
   }
 }
