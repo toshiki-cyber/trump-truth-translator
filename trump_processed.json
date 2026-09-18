@@ -2894,25 +2894,12 @@
     "https://www.trumpstruth.org/statuses/41780",
     "fp:Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican Party. They are truly FAKE NEWS! Thankfully, very f",
     "truth:117292605168784403",
-    "https://www.trumpstruth.org/statuses/41781"
+    "https://www.trumpstruth.org/statuses/41781",
+    "fp:Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TR",
+    "truth:117293380838894817",
+    "https://www.trumpstruth.org/statuses/41783"
   ],
   "posts": {
-    "truth:117095859868018432": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40826",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810</span>Thank you Russell — You have a big future ahead of you!</p>",
-      "published": "Fri, 14 Aug 2026 20:57:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-14T21:05:46.310634Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40826",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
-      "media_identity": "attachment:117095859868018432:7252f28cd769bcab.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
-      "truth_social_id": "117095859868018432",
-      "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank ラッセル、君へ。君の前には大きな未来が待っている！"
-    },
     "truth:117096016166324267": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18150,6 +18137,25 @@
         }
       ]
     },
+    "truth:117293380838894817": {
+      "post_status": "POSTED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/41783",
+      "source_text": "<p>Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:09:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T18:31:00.478548Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41783",
+      "source_fingerprint": "fp:Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TR",
+      "media_identity": "attachment:117293380838894817:de6b8b59281511d2-6ca92dd2174b.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TR",
+      "truth_social_id": "117293380838894817",
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画候補がすべて不正: 動画サイズ超過: 73.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/293/379/227/976/651/original/de6b8b59281511d2.mp4",
+      "translation": "ダン・S・サリバンは、アラスカ州の米国上院議員として再選を目指しており、私からの完全かつ全面的な支持を得ている。彼は決してあなたを失望させることはない！ドナルド・J・トランプ大統領"
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32271,6 +32277,62 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-18T03:01:03.226039Z"
+    },
+    "truth:117293338603423306": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41782",
+      "source_text": "<p>TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 17:58:32 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-18T18:30:57.643924Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41782",
+      "first_seen": "2026-09-18T18:30:57.643901Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:TRUMP Approval Rating in the Republican Party is now 95%, A RECORD. Second place is Ronald Reagan at 86%. Thank you! President DONALD J. TRUMP",
+      "next_retry_at": "2026-09-18T18:35:57.643932Z",
+      "truth_social_id": "117293338603423306"
+    },
+    "truth:117293383002117599": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41785",
+      "source_text": "<p>Ashley Moody has my Complete and Total Endorsement for Re-Election as U.S. Senator from Florida — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:09:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T18:30:57.151103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41785"
+    },
+    "truth:117293400265439279": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41784",
+      "source_text": "<p>Mike Collins has my Complete and Total Endorsement to be the next U.S. Senator from Georgia — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:14:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T18:30:57.150981Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41784"
+    },
+    "truth:117293409824088390": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41787",
+      "source_text": "<p>Roger Marshall has my Complete and Total Endorsement for Re-Election as U.S. Senator from Kansas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:16:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T18:30:57.150859Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41787"
+    },
+    "truth:117293414375817043": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41786",
+      "source_text": "<p>Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 18 Sep 2026 18:17:48 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-18T18:30:57.150732Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41786"
     }
   }
 }
