@@ -2888,69 +2888,12 @@
     "https://www.trumpstruth.org/statuses/41777",
     "fp:Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJT\nWhat the disloyal leaks abo",
     "truth:117290107011309524",
-    "https://www.trumpstruth.org/statuses/41779"
+    "https://www.trumpstruth.org/statuses/41779",
+    "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+    "truth:117292378116430890",
+    "https://www.trumpstruth.org/statuses/41780"
   ],
   "posts": {
-    "truth:117095032485507147": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40825",
-      "source_text": "<p>Prescription drug prices record sharpest drop in more than 60 years: <a href=\"https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/business/20</span><span class=\"invisible\">26/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/</span></a></p>",
-      "published": "Fri, 14 Aug 2026 17:26:40 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-14T18:55:40.887288Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40825",
-      "first_seen": "2026-08-14T17:40:41.695120Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Prescription drug prices record sharpest drop in more than 60 years: \nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-reco",
-      "truth_social_id": "117095032485507147",
-      "source_fingerprint": "fp:Prescription drug prices record sharpest drop in more than 60 years: \nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-reco",
-      "media_identity": "attachment:117095032485507147:",
-      "translation": "処方箋医薬品の価格が60年以上前ぶりの最大降下幅を記録：\nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt2ojugkikj6",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt2ojugkikj6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "処方箋医薬品の価格が60年以上前ぶりの最大降下幅を記録：\nhttps://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-        "createdAt": "2026-08-14T18:01:17.612215Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 81,
-              "byteEnd": 197
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-            "title": "https://www.washingtonpost.com/business/2026/08/13/prescription-drug-prices-record-sharpest-drop-more-than-60-years/",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt2ojugkikj6",
-          "rkey": "3mt2ojugkikj6"
-        }
-      ]
-    },
     "truth:117095859215373810": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18166,6 +18109,24 @@
         }
       ]
     },
+    "truth:117292378116430890": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41780",
+      "source_text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
+      "published": "Fri, 18 Sep 2026 13:54:16 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-18T14:50:58.819812Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41780",
+      "first_seen": "2026-09-18T14:30:58.290336Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+      "truth_social_id": "117292378116430890",
+      "source_fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+      "media_identity": "attachment:117292378116430890:",
+      "translation": "ラディ：「トランプの躍進がすべての舟を浮き上がらせる」：\nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/"
+    },
     "truth:117284048835550983": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32287,22 +32248,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-18T03:01:03.226039Z"
-    },
-    "truth:117292378116430890": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41780",
-      "source_text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
-      "published": "Fri, 18 Sep 2026 13:54:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-18T14:36:02.357360Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41780",
-      "first_seen": "2026-09-18T14:30:58.290336Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
-      "next_retry_at": "2026-09-18T14:46:02.357377Z",
-      "truth_social_id": "117292378116430890"
     }
   }
 }
