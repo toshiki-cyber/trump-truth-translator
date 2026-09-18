@@ -2936,7 +2936,10 @@
     "https://www.trumpstruth.org/statuses/41791",
     "fp:Carlos De La Cruz has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 35th Congressional District — HE WILL NEVER LET",
     "truth:117293463389669196",
-    "https://www.trumpstruth.org/statuses/41789"
+    "https://www.trumpstruth.org/statuses/41789",
+    "fp:Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU D",
+    "truth:117293461566506192",
+    "https://www.trumpstruth.org/statuses/41790"
   ],
   "posts": {
     "truth:117096979324606266": {
@@ -32606,79 +32609,20 @@
       "next_retry_at": "2026-09-18T21:26:12.059101Z"
     },
     "truth:117293461566506192": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
+      "post_status": "RETRY",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41790",
       "source_text": "<p>Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
       "published": "Fri, 18 Sep 2026 18:29:48 +0000",
       "retry_count": 1,
-      "updated_at": "2026-09-18T21:26:45.274577Z",
+      "updated_at": "2026-09-18T21:36:06.048772Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41790",
       "source_fingerprint": "fp:Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU D",
       "media_identity": "attachment:117293461566506192:1f8d793a7b897200-7d1641a85047.mp4",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": "Bluesky投稿失敗: 決定的rkeyに異なる既存recordがあり競合",
       "fingerprint": "fp:Eric Flores has my Complete and Total Endorsement to be the next U.S. Representative from Texas’ 34th Congressional District — HE WILL NEVER LET YOU D",
       "truth_social_id": "117293461566506192",
       "translation": "エリック・フローレスは、テキサス州第34議会地区の次期下院議員としてわが国を代表する職に就く者として、私の完全かつ全面的な支持を得ている。彼は決して君たちを失望させることはない！ドナルド・J・トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvssexlu6cwc",
-          "cid": "bafyreibol2z7hne2x6awlinh42y4quebxyfrs7jgmgy3utfd4rpqvhxlpa"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvssexlu6cwc",
-          "cid": "bafyreibol2z7hne2x6awlinh42y4quebxyfrs7jgmgy3utfd4rpqvhxlpa"
-        },
-        "next_index": 1,
-        "last_rkey": "3mvssexlu6cwc",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "エリック・フローレスは、テキサス州第34議会地区の次期下院議員としてわが国を代表する職に就く者として、私の完全かつ全面的な支持を得ている。彼は決して君たちを失望させることはない！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-09-18T21:26:37.503338Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreieznk3kjebnrwkw36xse5lsnirijxifiz3dxhneizumbapqlynbg4"
-              },
-              "mimeType": "video/mp4",
-              "size": 13406029
-            },
-            "alt": ""
-          }
-        },
-        "root_rkey": "3mvssexlu6cwc",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "エリック・フローレスは、テキサス州第34議会地区の次期下院議員としてわが国を代表する職に就く者として、私の完全かつ全面的な支持を得ている。彼は決して君たちを失望させることはない！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-09-18T21:26:37.503338Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreieznk3kjebnrwkw36xse5lsnirijxifiz3dxhneizumbapqlynbg4"
-              },
-              "mimeType": "video/mp4",
-              "size": 13406029
-            },
-            "alt": ""
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvssexlu6cwc",
-            "rkey": "3mvssexlu6cwc"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvssexlu6cwc",
       "expected_embed": "video",
       "expected_images": 0,
@@ -32709,8 +32653,11 @@
           "rkey": "3mvssexlu6cwc"
         }
       ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-18T21:31:45.274590Z"
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"damqoss1ja3s73d87sa0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
+      "failure_stage": "POST",
+      "next_retry_at": "2026-09-18T21:41:06.048790Z"
     },
     "truth:117293466278795270": {
       "post_status": "DISCOVERED",
