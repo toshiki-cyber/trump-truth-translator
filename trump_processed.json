@@ -2959,62 +2959,12 @@
     "truth:117298413844042212",
     "https://www.trumpstruth.org/statuses/41806",
     "truth:117298879209243512",
-    "https://www.trumpstruth.org/statuses/41809"
+    "https://www.trumpstruth.org/statuses/41809",
+    "fp:Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, politica",
+    "truth:117298741939724787",
+    "https://www.trumpstruth.org/statuses/41807"
   ],
   "posts": {
-    "truth:117096990964510306": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40846",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:44:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T04:16:23.007032Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40846",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096990964510306:d929b4fdf5277ed7.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096990964510306",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kei2ft2ll",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kei2ft2ll",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T04:16:16.205553Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigrk2vmudc2gpjxfgeubg5oipndz2x7w6ffkdd7yrddxs6p5ipovu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 118281
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 848,
-                "height": 584
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kei2ft2ll",
-          "rkey": "3mt3kei2ft2ll"
-        }
-      ]
-    },
     "truth:117096994314593250": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18003,6 +17953,24 @@
       "truth_social_id": "117298879209243512",
       "translation": ""
     },
+    "truth:117298741939724787": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41807",
+      "source_text": "<p>Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, political, and ridiculous decisions on TARIFFS and Birthright Citizenship, they have cost the United States of America Trillions of Dollars, and forever damaged the way people become Citizens of our great Country. It has been a sad chapter in the life and times of America, but we will prevail! President DONALD J. TRUMP</p>",
+      "published": "Sat, 19 Sep 2026 16:52:40 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-19T18:56:04.213541Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41807",
+      "first_seen": "2026-09-19T18:30:59.100735Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, politica",
+      "truth_social_id": "117298741939724787",
+      "source_fingerprint": "fp:Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, politica",
+      "media_identity": "attachment:117298741939724787:",
+      "translation": "残念ながら、アメリカ合衆国最高裁判所は「アメリカを再び偉大にする」という勇気を欠いている。過去6ヶ月間、関税と出生地主義に関する欠陥のある政治的で馬鹿げた判断を通じて、彼らはアメリカ合衆国に何兆ドルもの損失をもたらし、国民が我が国の市民になる方法を永遠に損なわせた。これはアメリカの歴史における悲しい章であるが、我々は勝利するであろう！ドナルド・J・トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32595,22 +32563,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 372.3MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/294/482/077/336/555/original/4ff0495a19601e00.mp4",
       "truth_social_id": "117295963548658778",
       "next_retry_at": "2026-09-19T06:36:01.191541Z"
-    },
-    "truth:117298741939724787": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41807",
-      "source_text": "<p>Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, political, and ridiculous decisions on TARIFFS and Birthright Citizenship, they have cost the United States of America Trillions of Dollars, and forever damaged the way people become Citizens of our great Country. It has been a sad chapter in the life and times of America, but we will prevail! President DONALD J. TRUMP</p>",
-      "published": "Sat, 19 Sep 2026 16:52:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-19T18:40:58.404624Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41807",
-      "first_seen": "2026-09-19T18:30:59.100735Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, politica",
-      "next_retry_at": "2026-09-19T18:50:58.404635Z",
-      "truth_social_id": "117298741939724787"
     },
     "truth:117298821562014906": {
       "post_status": "RETRY",
