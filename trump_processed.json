@@ -32682,6 +32682,23 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/293/999/961/954/452/original/aecb1473d6636c3d.mp4",
       "truth_social_id": "117294006211890226",
       "next_retry_at": "2026-09-18T22:41:01.627337Z"
+    },
+    "truth:117294485458402353": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41804",
+      "source_text": "<p>TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:</p>",
+      "published": "Fri, 18 Sep 2026 22:50:11 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-19T00:31:02.398914Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41804",
+      "source_fingerprint": "fp:TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
+      "media_identity": "attachment:117294485458402353:aafc3b496b3b349a.jpg,e3c9278a523e9474.jpg",
+      "failure_reason": "翻訳結果に日本語がない",
+      "fingerprint": "fp:TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
+      "truth_social_id": "117294485458402353",
+      "failure_stage": "TRANSLATION",
+      "next_retry_at": "2026-09-19T00:36:02.398926Z"
     }
   }
 }
