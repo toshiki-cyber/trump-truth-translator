@@ -2954,62 +2954,12 @@
     "https://www.trumpstruth.org/statuses/41803",
     "fp:TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
     "truth:117294485458402353",
-    "https://www.trumpstruth.org/statuses/41804"
+    "https://www.trumpstruth.org/statuses/41804",
+    "fp:Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more",
+    "truth:117298413844042212",
+    "https://www.trumpstruth.org/statuses/41806"
   ],
   "posts": {
-    "truth:117096987422754435": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40848",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:43:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T04:01:50.564129Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40848",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096987422754435:7c93dd9da3f03197.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096987422754435",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kcuj6gksv",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kcuj6gksv",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T03:51:57.416303Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigomnmtnjaxtsqpoafev6bv7etmholgehwdg6nfspezfxqolqqbi4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 130464
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 800,
-                "height": 600
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kcuj6gksv",
-          "rkey": "3mt3kcuj6gksv"
-        }
-      ]
-    },
     "truth:117096989486347148": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18071,6 +18021,24 @@
       "truth_social_id": "117294485458402353",
       "translation": "トランプ大統領のTruth Social投稿の日本語翻訳：\n\n第3期トランプの実績TOP25："
     },
+    "truth:117298413844042212": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41806",
+      "source_text": "<p>Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP</p>",
+      "published": "Sat, 19 Sep 2026 15:29:14 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-19T16:56:05.962138Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41806",
+      "first_seen": "2026-09-19T16:30:57.005506Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more",
+      "truth_social_id": "117298413844042212",
+      "source_fingerprint": "fp:Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more",
+      "media_identity": "attachment:117298413844042212:",
+      "translation": "「人工知能」という言葉は、AIすなわち人工知能に比べて、不正確で非常に下品だと考える人が多くいる。この新しい現象をより優雅かつ正確に表現するなら、「優秀知能」（SI）、「極度知能」（EI）、または「至高知能」（SI）となるだろう。これは投票だ。この絶えず成長し続ける「革命」に最適な名称について、全員の投票を期待する！どれが最良の名称か？ドナルド・J・トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32663,22 +32631,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 372.3MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/294/482/077/336/555/original/4ff0495a19601e00.mp4",
       "truth_social_id": "117295963548658778",
       "next_retry_at": "2026-09-19T06:36:01.191541Z"
-    },
-    "truth:117298413844042212": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41806",
-      "source_text": "<p>Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP</p>",
-      "published": "Sat, 19 Sep 2026 15:29:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-19T16:41:05.206905Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41806",
-      "first_seen": "2026-09-19T16:30:57.005506Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more",
-      "next_retry_at": "2026-09-19T16:51:05.206925Z",
-      "truth_social_id": "117298413844042212"
     }
   }
 }
