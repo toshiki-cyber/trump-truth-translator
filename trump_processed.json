@@ -2971,62 +2971,12 @@
     "https://www.trumpstruth.org/statuses/41810",
     "fp:At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, plan",
     "truth:117303154231930646",
-    "https://www.trumpstruth.org/statuses/41811"
+    "https://www.trumpstruth.org/statuses/41811",
+    "fp:“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Ther",
+    "truth:117303573478102353",
+    "https://www.trumpstruth.org/statuses/41812"
   ],
   "posts": {
-    "truth:117096996500748694": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40843",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:46:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T04:47:08.708428Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40843",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096996500748694:afb6902e452a354b.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096996500748694",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kgymgvcb4",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kgymgvcb4",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T04:36:53.422065Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigdhf2xzj2budawmyqozgjoo6asljay2rdfsnqmbunwz5jbaednpm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 154357
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 648,
-                "height": 760
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kgymgvcb4",
-          "rkey": "3mt3kgymgvcb4"
-        }
-      ]
-    },
     "truth:117096999388471692": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17951,6 +17901,24 @@
       "media_identity": "attachment:117303154231930646:",
       "translation": "米国軍部の強い要請および国家安全保障上の目的により、アーリントン・メモリアル・ブリッジに隣接するレセプティブ・サークルに南北戦争時代以来長年計画されていた壮大な凱旋門を、最高級の軍事複合施設/凱旋門に改造することに合意した。この施設は、大量のドローンおよびスナイパーを屋根とプラザ地域の両方に配置・保管し、迅速に運用する能力を備え、さらに大量のスナイパー弾薬を貯蔵保管する。世界中のどこにもこのような施設は存在しない。世界の59の主要都市および首都のうち、ワシントンD.C.は世界で唯一凱旋門を持たない都市だが、今後は持つことになり、その凱旋門ははるかに最高のものとなるであろう！本件に対するご関心をありがとうございます。ドナルド・J・トランプ大統領"
     },
+    "truth:117303573478102353": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41812",
+      "source_text": "<p>“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP</p>",
+      "published": "Sun, 20 Sep 2026 13:21:23 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-20T14:50:58.450380Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41812",
+      "first_seen": "2026-09-20T14:30:57.619279Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Ther",
+      "truth_social_id": "117303573478102353",
+      "source_fingerprint": "fp:“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Ther",
+      "media_identity": "attachment:117303573478102353:",
+      "translation": "「最高知能」はおそらく最高裁判所との関係から、「卓越知能」と「極度知能」の両方に大きく負けている。したがって、我々は「最高知能」を削除し、修飾語として外すことにする。そして最終2つについて投票させる：卓越知能か極度知能か。新しい投票が今始まる！ドナルド・J・トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32543,22 +32511,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 372.3MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/294/482/077/336/555/original/4ff0495a19601e00.mp4",
       "truth_social_id": "117295963548658778",
       "next_retry_at": "2026-09-19T06:36:01.191541Z"
-    },
-    "truth:117303573478102353": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41812",
-      "source_text": "<p>“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP</p>",
-      "published": "Sun, 20 Sep 2026 13:21:23 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-20T14:36:02.154210Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41812",
-      "first_seen": "2026-09-20T14:30:57.619279Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Ther",
-      "next_retry_at": "2026-09-20T14:46:02.154229Z",
-      "truth_social_id": "117303573478102353"
     },
     "truth:117303611907345909": {
       "post_status": "BLOCKED",
