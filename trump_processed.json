@@ -2978,62 +2978,11 @@
     "truth:117304284426928910",
     "https://www.trumpstruth.org/statuses/41814",
     "truth:117305109272193640",
-    "https://www.trumpstruth.org/statuses/41817"
+    "https://www.trumpstruth.org/statuses/41817",
+    "truth:117305110887067544",
+    "https://www.trumpstruth.org/statuses/41815"
   ],
   "posts": {
-    "truth:117097008006254308": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40836",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:49:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T05:16:28.584695Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40836",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097008006254308:6849e4ed7b7e62a9.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097008006254308",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kma247cxb",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kma247cxb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T05:16:21.640100Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiefr4hburm44ptyzhhfj2kddnwzln55hq3s7oyfnsgcyflfanxq4a"
-                },
-                "mimeType": "image/jpeg",
-                "size": 71879
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 504,
-                "height": 512
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kma247cxb",
-          "rkey": "3mt3kma247cxb"
-        }
-      ]
-    },
     "truth:117097006635517618": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17923,6 +17872,21 @@
       "truth_social_id": "117305109272193640",
       "translation": ""
     },
+    "truth:117305110887067544": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41815",
+      "source_text": "<p></p>",
+      "published": "Sun, 20 Sep 2026 19:52:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-20T20:40:58.607621Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41815",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117305110887067544:5776d00aa53867af.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117305110887067544",
+      "translation": ""
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32660,16 +32624,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-20T20:41:10.190113Z"
-    },
-    "truth:117305110887067544": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41815",
-      "source_text": "<p></p>",
-      "published": "Sun, 20 Sep 2026 19:52:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-20T20:30:58.762056Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41815"
     }
   }
 }
