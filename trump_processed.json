@@ -32325,6 +32325,38 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
+    },
+    "truth:117310166479352147": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41831",
+      "source_text": "<p>If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 17:18:05 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-21T18:30:22.275057Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41831",
+      "first_seen": "2026-09-21T18:30:22.275023Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
+      "next_retry_at": "2026-09-21T18:35:22.275065Z",
+      "truth_social_id": "117310166479352147"
+    },
+    "truth:117310364553695688": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41832",
+      "source_text": "<p>We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 18:08:27 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-21T18:30:22.878751Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41832",
+      "first_seen": "2026-09-21T18:30:22.878702Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
+      "next_retry_at": "2026-09-21T18:35:22.878761Z",
+      "truth_social_id": "117310364553695688"
     }
   }
 }
