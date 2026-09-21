@@ -3020,62 +3020,12 @@
     "https://www.trumpstruth.org/statuses/41829",
     "fp:The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet ",
     "truth:117309814170246776",
-    "https://www.trumpstruth.org/statuses/41830"
+    "https://www.trumpstruth.org/statuses/41830",
+    "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
+    "truth:117310166479352147",
+    "https://www.trumpstruth.org/statuses/41831"
   ],
   "posts": {
-    "truth:117097007069470556": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40837",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:48:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T08:25:43.173093Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40837",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097007069470556:987a80a68b56068c.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097007069470556",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3klsfv7sfd",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3klsfv7sfd",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T08:15:42.354575Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicujaawlxdfmhzh4dw4mcbgxgottjeiwhiusbswxkky6g75cpowqu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 83055
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 688,
-                "height": 376
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3klsfv7sfd",
-          "rkey": "3mt3klsfv7sfd"
-        }
-      ]
-    },
     "truth:117097009327153583": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17718,6 +17668,24 @@
       "media_identity": "attachment:117309814170246776:",
       "translation": "「地球温暖化のせいで12年以内に皆死ぬ」と言っていた同じ連中が、地球は温暖化ではなく冷却していて誰も死んでいないので「気候変動」という名前に「生まれ変わった」連中が、今度はAIが私たちを殺すだの、ロボットが私たちを攻撃するだの、すべてが大惨事だだのと言っているのだ。これはロシア、ロシア、ロシア、ウクライナ、ウクライナ、ウクライナ、ウクライナ、気候変動のどれよりもでかいデマだ。AIで勝つ者が勝つ！現在、中国とその他みんなより私たちが先行している。そしてそれをずっと保つつもりだ。産業革命やインターネット自体よりも大きくなるであろう何かの成長を抑制するつもりはない。私たちは慎重でいる。だからこそ司法省とその他の法執行機関がある。やむを得なければ歯止めをかけるためにだ。しかし私はAI、またはSI（スーパーインテリジェンス）の推進をするだけだ。ドナルド・J・トランプ大統領"
     },
+    "truth:117310166479352147": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41831",
+      "source_text": "<p>If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 17:18:05 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T18:50:23.382109Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41831",
+      "first_seen": "2026-09-21T18:30:22.275023Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
+      "truth_social_id": "117310166479352147",
+      "source_fingerprint": "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
+      "media_identity": "attachment:117310166479352147:",
+      "translation": "上院共和党員がフィリバスター制度を廃止しなければ、民主党がそれをやり、私は党がいかに好調であろうとも、最後の共和党大統領となるだろう！民主党はプエルトリコ（共和党投票率4%）とワシントンD.C.（共和党投票率3%）で投票を行い、上院議員4名、下院議員8名を獲得し、膨大な数の一般投票と選挙人投票を手に入れ、さらに重要なことに、アメリカ全土の投票メカニズムと投票システムの支配権を、合法的および非合法的に掌握するだろう。共和党がもう二度と選挙に勝つことは不可能となるだろう。言い換えれば、それはアメリカの終わりだ！この問題についてのご注目に感謝する。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32325,22 +32293,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117310166479352147": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41831",
-      "source_text": "<p>If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 17:18:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T18:35:23.126152Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41831",
-      "first_seen": "2026-09-21T18:30:22.275023Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
-      "next_retry_at": "2026-09-21T18:45:23.126169Z",
-      "truth_social_id": "117310166479352147"
     },
     "truth:117310364553695688": {
       "post_status": "RETRY",
