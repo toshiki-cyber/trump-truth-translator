@@ -32307,6 +32307,38 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
+    },
+    "truth:117308890736529824": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41826",
+      "source_text": "<p>The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America. It is corrupt, purposeful, pervasive, fully coordinated, and totally out of control. It is a threat to our National Security, and must be stopped, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 11:53:38 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-21T12:30:22.369054Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41826",
+      "first_seen": "2026-09-21T12:30:22.369022Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something t",
+      "next_retry_at": "2026-09-21T12:35:22.369062Z",
+      "truth_social_id": "117308890736529824"
+    },
+    "truth:117308930224398545": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41827",
+      "source_text": "<p>Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole World suffers as 25,000 people, mostly soldiers, are being killed each month. What a shame! President DJT</p>",
+      "published": "Mon, 21 Sep 2026 12:03:41 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-21T12:30:22.974484Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41827",
+      "first_seen": "2026-09-21T12:30:22.974451Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blow",
+      "next_retry_at": "2026-09-21T12:35:22.974493Z",
+      "truth_social_id": "117308930224398545"
     }
   }
 }
