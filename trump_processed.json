@@ -3011,45 +3011,12 @@
     "https://www.trumpstruth.org/statuses/41827",
     "fp:The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something t",
     "truth:117308890736529824",
-    "https://www.trumpstruth.org/statuses/41826"
+    "https://www.trumpstruth.org/statuses/41826",
+    "fp:The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than w",
+    "truth:117309573610238654",
+    "https://www.trumpstruth.org/statuses/41828"
   ],
   "posts": {
-    "truth:117097066845411134": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40865",
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40860",
-      "source_text": "<p>Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.”</p>",
-      "published": "Sat, 15 Aug 2026 02:04:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T07:45:41.390759Z",
-      "first_seen": "2026-08-15T06:45:40.841043Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering",
-      "truth_social_id": "117097066845411134",
-      "source_fingerprint": "fp:Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering",
-      "media_identity": "attachment:117097066845411134:",
-      "translation": "ジェイ・クレイトン国家情報長官：「このプロジェクトは、ホワイトハウスが大統領の集結、シニア政府高官の集結、および米国の利益を推し進める集会を開催するための安全な場所として機能することを確保するために不可欠である。複合施設に関するプロジェクトは、大統領およびシニア政府高官への脅威から保護し、脅威を管理・軽減する能力を向上させ、また複合施設への情報機関の指揮下にある支援の実施を含む、情報機関情報の処理、管理、および利用を強化する。」",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3lgyb7osfl",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt3lgyb7osfl",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ジェイ・クレイトン国家情報長官：「このプロジェクトは、ホワイトハウスが大統領の集結、シニア政府高官の集結、および米国の利益を推し進める集会を開催するための安全な場所として機能することを確保するために不可欠である。複合施設に関するプロジェクトは、大統領およびシニア政府高官への脅威から保護し、脅威を管理・軽減する能力を向上させ、また複合施設への情報機関の指揮下にある支援の実施を含む、情報機関情報の処理、管理、および利用を強化する。」",
-        "createdAt": "2026-08-15T07:35:50.773111Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3lgyb7osfl",
-          "rkey": "3mt3lgyb7osfl"
-        }
-      ]
-    },
     "truth:117096976002927303": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17724,6 +17691,24 @@
         }
       ]
     },
+    "truth:117309573610238654": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41828",
+      "source_text": "<p>The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ranchers. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 14:47:18 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T16:50:27.256319Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41828",
+      "first_seen": "2026-09-21T16:30:25.445545Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than w",
+      "truth_social_id": "117309573610238654",
+      "source_fingerprint": "fp:The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than w",
+      "media_identity": "attachment:117309573610238654:",
+      "translation": "米国はベラルーシからのカリ塩化物購入に関する大規模な取引に取り組んでいる。現在カナダに支払っている価格よりも大幅に低い価格設定となり、我々の農民と牧場主にとって非常に朗報である。この件への注目をいただきありがとう！大統領 ドナルド・J・トランプ"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32331,22 +32316,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117309573610238654": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41828",
-      "source_text": "<p>The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ranchers. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 14:47:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T16:40:17.788013Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41828",
-      "first_seen": "2026-09-21T16:30:25.445545Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than w",
-      "next_retry_at": "2026-09-21T16:50:17.788024Z",
-      "truth_social_id": "117309573610238654"
     },
     "truth:117309799376551907": {
       "post_status": "RETRY",
