@@ -2984,62 +2984,12 @@
     "truth:117305110118463243",
     "https://www.trumpstruth.org/statuses/41816",
     "truth:117305526182125195",
-    "https://www.trumpstruth.org/statuses/41818"
+    "https://www.trumpstruth.org/statuses/41818",
+    "fp:Hitting balls with Bryson D.",
+    "truth:117306342307545273",
+    "https://www.trumpstruth.org/statuses/41819"
   ],
   "posts": {
-    "truth:117097009846274253": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40833",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:49:33 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T05:51:23.918999Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40833",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097009846274253:a57392fc6ce46aa5.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097009846274253",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kn2sw6cwi",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kn2sw6cwi",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T05:51:16.934598Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreias3fr25tizy65fffch7jz7ava2ehtmjspewrygubjo5yl6vy4qzq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 102939
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 465,
-                "height": 581
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kn2sw6cwi",
-          "rkey": "3mt3kn2sw6cwi"
-        }
-      ]
-    },
     "truth:117097006266575402": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17853,6 +17803,22 @@
       "truth_social_id": "117305526182125195",
       "translation": ""
     },
+    "truth:117306342307545273": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41819",
+      "source_text": "<p>Hitting balls with Bryson D.</p>",
+      "published": "Mon, 21 Sep 2026 01:05:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-21T02:31:14.456377Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41819",
+      "source_fingerprint": "fp:Hitting balls with Bryson D.",
+      "media_identity": "attachment:117306342307545273:7debda68df316938-8de0bc37abeb.mov",
+      "failure_reason": null,
+      "fingerprint": "fp:Hitting balls with Bryson D.",
+      "truth_social_id": "117306342307545273",
+      "translation": "ブライソン・デシャンボーとボールを打っている。"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32460,6 +32426,16 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
+    },
+    "truth:117306567834657729": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41820",
+      "source_text": "<p>Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT</p>",
+      "published": "Mon, 21 Sep 2026 02:02:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-21T02:30:59.122853Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41820"
     }
   }
 }
