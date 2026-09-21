@@ -2996,62 +2996,12 @@
     "https://www.trumpstruth.org/statuses/41823",
     "fp:Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: \nhttps://justthenews.com/politics-policy/all-thi",
     "truth:117307257715841389",
-    "https://www.trumpstruth.org/statuses/41822"
+    "https://www.trumpstruth.org/statuses/41822",
+    "fp:Trump bans CNN, MSNOW, and Politico from White House: \nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-whit",
+    "truth:117307260504631667",
+    "https://www.trumpstruth.org/statuses/41821"
   ],
   "posts": {
-    "truth:117097017980375998": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40857",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:51:37 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T06:35:56.369995Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40857",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097017980375998:61232fb03029c3de.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097017980375998",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kqr6o6kbz",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kqr6o6kbz",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T06:35:49.431351Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiayoh2efv7mtdbgjjbvuxovn7657ofye655dpyxuzfbbfth5urivm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 211335
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1255,
-                "height": 818
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kqr6o6kbz",
-          "rkey": "3mt3kqr6o6kbz"
-        }
-      ]
-    },
     "truth:117097018672574299": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17761,6 +17711,24 @@
       "media_identity": "attachment:117307257715841389:",
       "translation": "バイデン時代の検査報告書がケネディ・センターの老朽化と安全上の危険を露呈し、トランプが修復を目指す：\nhttps://justthenews.com/politics-policy/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety"
     },
+    "truth:117307260504631667": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41821",
+      "source_text": "<p>Trump bans CNN, MSNOW, and Politico from White House: <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house</span></a></p>",
+      "published": "Mon, 21 Sep 2026 04:59:03 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T07:00:24.492659Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41821",
+      "first_seen": "2026-09-21T06:30:58.612067Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump bans CNN, MSNOW, and Politico from White House: \nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-whit",
+      "truth_social_id": "117307260504631667",
+      "source_fingerprint": "fp:Trump bans CNN, MSNOW, and Politico from White House: \nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-whit",
+      "media_identity": "attachment:117307260504631667:",
+      "translation": "トランプ、CNNとMSNBC、ポリティコをホワイトハウスから出入り禁止に：\nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32368,22 +32336,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117307260504631667": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41821",
-      "source_text": "<p>Trump bans CNN, MSNOW, and Politico from White House: <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house</span></a></p>",
-      "published": "Mon, 21 Sep 2026 04:59:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T06:40:57.053932Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41821",
-      "first_seen": "2026-09-21T06:30:58.612067Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump bans CNN, MSNOW, and Politico from White House: \nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-whit",
-      "next_retry_at": "2026-09-21T06:50:57.053944Z",
-      "truth_social_id": "117307260504631667"
     },
     "truth:117307289681145880": {
       "post_status": "RETRY",
