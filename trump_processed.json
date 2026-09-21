@@ -3023,62 +3023,12 @@
     "https://www.trumpstruth.org/statuses/41830",
     "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
     "truth:117310166479352147",
-    "https://www.trumpstruth.org/statuses/41831"
+    "https://www.trumpstruth.org/statuses/41831",
+    "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
+    "truth:117310364553695688",
+    "https://www.trumpstruth.org/statuses/41832"
   ],
   "posts": {
-    "truth:117097009327153583": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40834",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:49:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T08:45:45.785193Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40834",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097009327153583:f5fe6074029cabc3.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097009327153583",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kmtb6t25y",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kmtb6t25y",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T08:35:39.705494Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibll4aqa32chifvdxf3kqbe5qwysnpf5xzrjm3jl2m5j4hwxaerwi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 198973
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1322,
-                "height": 776
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kmtb6t25y",
-          "rkey": "3mt3kmtb6t25y"
-        }
-      ]
-    },
     "truth:117096983461735453": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17685,6 +17635,24 @@
       "source_fingerprint": "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
       "media_identity": "attachment:117310166479352147:",
       "translation": "上院共和党員がフィリバスター制度を廃止しなければ、民主党がそれをやり、私は党がいかに好調であろうとも、最後の共和党大統領となるだろう！民主党はプエルトリコ（共和党投票率4%）とワシントンD.C.（共和党投票率3%）で投票を行い、上院議員4名、下院議員8名を獲得し、膨大な数の一般投票と選挙人投票を手に入れ、さらに重要なことに、アメリカ全土の投票メカニズムと投票システムの支配権を、合法的および非合法的に掌握するだろう。共和党がもう二度と選挙に勝つことは不可能となるだろう。言い換えれば、それはアメリカの終わりだ！この問題についてのご注目に感謝する。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領"
+    },
+    "truth:117310364553695688": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41832",
+      "source_text": "<p>We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 18:08:27 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T18:55:20.990046Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41832",
+      "first_seen": "2026-09-21T18:30:22.878702Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
+      "truth_social_id": "117310364553695688",
+      "source_fingerprint": "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
+      "media_identity": "attachment:117310364553695688:",
+      "translation": "ホワイトハウスの敷地をちょうど出発したところだ。新たに建設された非常に美しいヘリポートからの処女飛行だ！ロッキード・マーティンの最高経営責任者ジム・タイケルトに感謝したい。彼は我が国に対するこの貴重な貢献を実現してくれた。我が政府は25年間このことを考えていたが、決して成し遂げることができなかった。私が物事を成し遂げる！また、最も重要なことだが、ワシントンD.C.地域の偉大な建設労働者と石工の皆さんに心からの感謝を捧げたい。彼らは非常に特別なものを創り出した。そしてクラーク・コンストラクションの素晴らしい監督業務にも感謝する。神よ、アメリカを祝福してくれ！大統領 ドナルド・J・トランプ"
     },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
@@ -32293,22 +32261,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117310364553695688": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41832",
-      "source_text": "<p>We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 18:08:27 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T18:35:23.523913Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41832",
-      "first_seen": "2026-09-21T18:30:22.878702Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
-      "next_retry_at": "2026-09-21T18:45:23.523928Z",
-      "truth_social_id": "117310364553695688"
     }
   }
 }
