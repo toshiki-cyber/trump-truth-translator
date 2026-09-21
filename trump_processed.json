@@ -2990,62 +2990,12 @@
     "https://www.trumpstruth.org/statuses/41819",
     "fp:Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
     "truth:117306567834657729",
-    "https://www.trumpstruth.org/statuses/41820"
+    "https://www.trumpstruth.org/statuses/41820",
+    "fp:Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: \nhttps://justthenews.com/government/courts-law/pros",
+    "truth:117307255154500060",
+    "https://www.trumpstruth.org/statuses/41823"
   ],
   "posts": {
-    "truth:117097016918925552": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40859",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:51:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T06:16:09.906223Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40859",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097016918925552:5cddd2afdd3e27f3.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097016918925552",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kqbqesc2o",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kqbqesc2o",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T06:16:01.948296Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiduaekgps27k4duquouxs2tjnpedm6moamifmhhybb2cin4evsefu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 62253
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 800,
-                "height": 517
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kqbqesc2o",
-          "rkey": "3mt3kqbqesc2o"
-        }
-      ]
-    },
     "truth:117097017582854908": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17787,6 +17737,24 @@
       "media_identity": "attachment:117306567834657729:",
       "translation": "ガソリン価格はバイデン政権下ではトランプ政権下よりもはるかに高かった。ほぼすべての物価もそうだった。トランプ大統領"
     },
+    "truth:117307255154500060": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41823",
+      "source_text": "<p>Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: <a href=\"https://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative</span></a></p>",
+      "published": "Mon, 21 Sep 2026 04:57:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T06:50:18.760206Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41823",
+      "first_seen": "2026-09-21T06:30:57.650296Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: \nhttps://justthenews.com/government/courts-law/pros",
+      "truth_social_id": "117307255154500060",
+      "source_fingerprint": "fp:Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: \nhttps://justthenews.com/government/courts-law/pros",
+      "media_identity": "attachment:117307255154500060:",
+      "translation": "検察がトランプ・ロシア共謀疑惑の物語におけるジョン・ブレナンの役割に焦点を当てている　陰謀事件で：\nhttps://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32394,22 +32362,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117307255154500060": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41823",
-      "source_text": "<p>Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: <a href=\"https://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative</span></a></p>",
-      "published": "Mon, 21 Sep 2026 04:57:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T06:35:58.217366Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41823",
-      "first_seen": "2026-09-21T06:30:57.650296Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: \nhttps://justthenews.com/government/courts-law/pros",
-      "next_retry_at": "2026-09-21T06:45:58.217381Z",
-      "truth_social_id": "117307255154500060"
     },
     "truth:117307257715841389": {
       "post_status": "RETRY",
