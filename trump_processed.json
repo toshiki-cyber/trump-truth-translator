@@ -32314,14 +32314,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41826",
       "source_text": "<p>The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America. It is corrupt, purposeful, pervasive, fully coordinated, and totally out of control. It is a threat to our National Security, and must be stopped, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Mon, 21 Sep 2026 11:53:38 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-21T12:30:22.369054Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T12:40:21.190528Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41826",
       "first_seen": "2026-09-21T12:30:22.369022Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something t",
-      "next_retry_at": "2026-09-21T12:35:22.369062Z",
+      "next_retry_at": "2026-09-21T12:50:21.190539Z",
       "truth_social_id": "117308890736529824"
     },
     "truth:117308930224398545": {
@@ -32330,14 +32330,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41827",
       "source_text": "<p>Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole World suffers as 25,000 people, mostly soldiers, are being killed each month. What a shame! President DJT</p>",
       "published": "Mon, 21 Sep 2026 12:03:41 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-21T12:30:22.974484Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T12:40:21.585549Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41827",
       "first_seen": "2026-09-21T12:30:22.974451Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blow",
-      "next_retry_at": "2026-09-21T12:35:22.974493Z",
+      "next_retry_at": "2026-09-21T12:50:21.585562Z",
       "truth_social_id": "117308930224398545"
     }
   }
