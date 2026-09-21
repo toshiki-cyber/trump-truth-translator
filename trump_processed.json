@@ -2999,62 +2999,12 @@
     "https://www.trumpstruth.org/statuses/41822",
     "fp:Trump bans CNN, MSNOW, and Politico from White House: \nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-whit",
     "truth:117307260504631667",
-    "https://www.trumpstruth.org/statuses/41821"
+    "https://www.trumpstruth.org/statuses/41821",
+    "fp:https://truthsocial.com/@realDonaldTrump/117304284426928910",
+    "truth:117307289681145880",
+    "https://www.trumpstruth.org/statuses/41825"
   ],
   "posts": {
-    "truth:117097018672574299": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40856",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:51:47 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T06:50:45.593736Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40856",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097018672574299:c90628b5e3a11ed9.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097018672574299",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kr3ayn2mg",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kr3ayn2mg",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T06:41:13.890296Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicucvot736a2lceux4t7dfi6ksuaftfjm4w5d5mcwvoqjbfa7sfkm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 52847
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 456,
-                "height": 568
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kr3ayn2mg",
-          "rkey": "3mt3kr3ayn2mg"
-        }
-      ]
-    },
     "truth:117097058839490682": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40867",
       "post_status": "POSTED",
@@ -17729,6 +17679,24 @@
       "media_identity": "attachment:117307260504631667:",
       "translation": "トランプ、CNNとMSNBC、ポリティコをホワイトハウスから出入り禁止に：\nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house"
     },
+    "truth:117307289681145880": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41825",
+      "source_text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117304284426928910\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117304284426928910</span></a></p>",
+      "published": "Mon, 21 Sep 2026 05:06:28 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T07:05:18.643751Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41825",
+      "first_seen": "2026-09-21T06:30:59.064278Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117304284426928910",
+      "truth_social_id": "117307289681145880",
+      "source_fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117304284426928910",
+      "media_identity": "attachment:117307289681145880:",
+      "translation": "https://truthsocial.com/@realDonaldTrump/117304284426928910"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32336,22 +32304,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117307289681145880": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41825",
-      "source_text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117304284426928910\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117304284426928910</span></a></p>",
-      "published": "Mon, 21 Sep 2026 05:06:28 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T06:40:57.353293Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41825",
-      "first_seen": "2026-09-21T06:30:59.064278Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117304284426928910",
-      "next_retry_at": "2026-09-21T06:50:57.353305Z",
-      "truth_social_id": "117307289681145880"
     },
     "truth:117307292070204943": {
       "post_status": "RETRY",
