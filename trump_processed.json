@@ -2987,62 +2987,12 @@
     "https://www.trumpstruth.org/statuses/41818",
     "fp:Hitting balls with Bryson D.",
     "truth:117306342307545273",
-    "https://www.trumpstruth.org/statuses/41819"
+    "https://www.trumpstruth.org/statuses/41819",
+    "fp:Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
+    "truth:117306567834657729",
+    "https://www.trumpstruth.org/statuses/41820"
   ],
   "posts": {
-    "truth:117097006266575402": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40839",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:48:38 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T06:05:51.291486Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40839",
-      "failure_reason": null,
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097006266575402:d3f4ca37152a2964.jpg",
-      "truth_social_id": "117097006266575402",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3klgpyesmw",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3klgpyesmw",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T05:56:21.102169Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigal4g7yjb442ad3ko5cmkepvlhvovv6drqodvcuuu6fpwwiylmfu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 66957
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 624,
-                "height": 416
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3klgpyesmw",
-          "rkey": "3mt3klgpyesmw"
-        }
-      ]
-    },
     "truth:117097016918925552": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17819,6 +17769,24 @@
       "truth_social_id": "117306342307545273",
       "translation": "ブライソン・デシャンボーとボールを打っている。"
     },
+    "truth:117306567834657729": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41820",
+      "source_text": "<p>Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT</p>",
+      "published": "Mon, 21 Sep 2026 02:02:54 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T02:56:04.519760Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41820",
+      "first_seen": "2026-09-21T02:36:00.758854Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
+      "truth_social_id": "117306567834657729",
+      "source_fingerprint": "fp:Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
+      "media_identity": "attachment:117306567834657729:",
+      "translation": "ガソリン価格はバイデン政権下ではトランプ政権下よりもはるかに高かった。ほぼすべての物価もそうだった。トランプ大統領"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32426,22 +32394,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117306567834657729": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41820",
-      "source_text": "<p>Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT</p>",
-      "published": "Mon, 21 Sep 2026 02:02:54 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T02:45:57.347750Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41820",
-      "first_seen": "2026-09-21T02:36:00.758854Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
-      "next_retry_at": "2026-09-21T02:55:57.347769Z",
-      "truth_social_id": "117306567834657729"
     }
   }
 }
