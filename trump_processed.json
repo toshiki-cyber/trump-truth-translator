@@ -3002,27 +3002,12 @@
     "https://www.trumpstruth.org/statuses/41821",
     "fp:https://truthsocial.com/@realDonaldTrump/117304284426928910",
     "truth:117307289681145880",
-    "https://www.trumpstruth.org/statuses/41825"
+    "https://www.trumpstruth.org/statuses/41825",
+    "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
+    "truth:117307292070204943",
+    "https://www.trumpstruth.org/statuses/41824"
   ],
   "posts": {
-    "truth:117097058839490682": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40867",
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40862",
-      "source_text": "<p>Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visually impressive and reflective of the wealth and beauty of the nations I am visiting. In the United States, by contrast, we currently lack the ability to hold large events of a similar magnitude on White House grounds for those same heads of state and foreign dignitaries. Instead, we must currently host such visits in plastic or canvas tents on the South Lawn with unsafe and unsanitary portable bathrooms and accommodations unbecoming of our national stature…Our foreign counterparts offer premier security arrangements for United States officials. It is imperative that we not only offer the same level of elite security services, but offer the world’s leading capabilities in an efficient manner on grounds over which we exert permanent control…We must obviously seek every reasonable means to mitigate both the more predictable risks, including weather and physical incursions, but also emerging threats…The East Wing Project is essential to that defensive security posture. The Project is absolutely critical not only for the physical safety of guests, but also for advancing our diplomatic relations and the interests and standing of the United States in the world.”</p>",
-      "published": "Sat, 15 Aug 2026 02:02:00 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T07:15:46.115458Z",
-      "first_seen": "2026-08-15T06:45:39.882787Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visuall",
-      "truth_social_id": "117097058839490682",
-      "source_fingerprint": "fp:Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visuall",
-      "media_identity": "attachment:117097058839490682:",
-      "translation": "国務長官マルコ・ルビオ：「各国首脳や外相との業務の過程で、私は訪問する各国の富と美しさを示す視覚的に印象的な迎賓施設でもてなしを受けることが多い。しかし米国では、ホワイトハウスの敷地内で同規模の大規模行事を開催し、同じ首脳や外国の高官をもてなす能力を現在欠いている。代わりに私たちは現在、サウスローンにビニールまたはキャンバステントを張り、危険で不衛生なポータブルトイレと、わが国の国格に相応しくない設備で、このような訪問をもてなしているのが現状である……わが国の対外的なカウンターパートは、米国の高官に対して最高水準のセキュリティ対策を提供している。わたしたちは同じレベルのエリートセキュリティサービスを提供するだけでなく、恒久的に統制下にある敷地内で効率的に世界有数の能力を提供することは不可欠である……天候や物理的な侵入を含むより予測可能なリスク、さらには新たな脅威の両方を軽減するため、当然あらゆる合理的手段を講じなければならない……イーストウィングプロジェクトはそうした防御的セキュリティ態勢にとって不可欠である。このプロジェクトは来客の身体的安全のためだけでなく、わが国の外交関係を推進し、世界における米国の利益と地位を高めるためにも絶対に重要である。」"
-    },
     "truth:117097064279149887": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40866",
       "post_status": "POSTED",
@@ -17697,6 +17682,24 @@
       "media_identity": "attachment:117307289681145880:",
       "translation": "https://truthsocial.com/@realDonaldTrump/117304284426928910"
     },
+    "truth:117307292070204943": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41824",
+      "source_text": "<p><a href=\"https://truthsocial.com/@breitbartnews/117305295296594991\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@breitbartnews</span><span class=\"invisible\">/117305295296594991</span></a></p>",
+      "published": "Mon, 21 Sep 2026 05:07:05 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T07:10:18.393467Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41824",
+      "first_seen": "2026-09-21T06:30:59.559527Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
+      "truth_social_id": "117307292070204943",
+      "source_fingerprint": "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
+      "media_identity": "attachment:117307292070204943:",
+      "translation": "https://truthsocial.com/@breitbartnews/117305295296594991"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32304,22 +32307,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117307292070204943": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41824",
-      "source_text": "<p><a href=\"https://truthsocial.com/@breitbartnews/117305295296594991\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@breitbartnews</span><span class=\"invisible\">/117305295296594991</span></a></p>",
-      "published": "Mon, 21 Sep 2026 05:07:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T06:40:57.648734Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41824",
-      "first_seen": "2026-09-21T06:30:59.559527Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
-      "next_retry_at": "2026-09-21T06:50:57.648746Z",
-      "truth_social_id": "117307292070204943"
     }
   }
 }
