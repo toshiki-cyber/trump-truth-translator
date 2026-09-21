@@ -32370,14 +32370,111 @@
       "next_retry_at": "2026-09-21T20:36:13.705361Z"
     },
     "truth:117310501298755407": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/41834",
       "source_text": "<p>Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
       "published": "Mon, 21 Sep 2026 18:43:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-21T20:30:18.992147Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41834"
+      "retry_count": 1,
+      "updated_at": "2026-09-21T20:36:10.758411Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41834",
+      "source_fingerprint": "fp:Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU D",
+      "media_identity": "attachment:117310501298755407:f660623eb768937b-04d08853db88.mp4",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "fingerprint": "fp:Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU D",
+      "truth_social_id": "117310501298755407",
+      "translation": "ジョー・ミッチェルは、アイオワ州第2下院選挙区の次期下院議員としてふさわしく、俺からの完全かつ全面的な支持を受けている——彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw2ejqdj2cgx",
+          "cid": "bafyreicr7y3polmhbl5oymq242wasb3nqhzqsviyqpjfvw3tr46tyjxgd4"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw2ejqdj2cgx",
+          "cid": "bafyreicr7y3polmhbl5oymq242wasb3nqhzqsviyqpjfvw3tr46tyjxgd4"
+        },
+        "next_index": 1,
+        "last_rkey": "3mw2ejqdj2cgx",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ジョー・ミッチェルは、アイオワ州第2下院選挙区の次期下院議員としてふさわしく、俺からの完全かつ全面的な支持を受けている——彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-09-21T20:36:01.539032Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.video",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreie7wdbu7hhjppdgjpdmvpwbdbmbdc7oeuom7bqdgb752fbxqnxj2i"
+              },
+              "mimeType": "video/mp4",
+              "size": 43588497
+            },
+            "alt": ""
+          }
+        },
+        "root_rkey": "3mw2ejqdj2cgx",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ジョー・ミッチェルは、アイオワ州第2下院選挙区の次期下院議員としてふさわしく、俺からの完全かつ全面的な支持を受けている——彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-09-21T20:36:01.539032Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.video",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreie7wdbu7hhjppdgjpdmvpwbdbmbdc7oeuom7bqdgb752fbxqnxj2i"
+              },
+              "mimeType": "video/mp4",
+              "size": 43588497
+            },
+            "alt": ""
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw2ejqdj2cgx",
+            "rkey": "3mw2ejqdj2cgx"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw2ejqdj2cgx",
+      "expected_embed": "video",
+      "expected_images": 0,
+      "root_rkey": "3mw2ejqdj2cgx",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ジョー・ミッチェルは、アイオワ州第2下院選挙区の次期下院議員としてふさわしく、俺からの完全かつ全面的な支持を受けている——彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-09-21T20:36:01.539032Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreie7wdbu7hhjppdgjpdmvpwbdbmbdc7oeuom7bqdgb752fbxqnxj2i"
+            },
+            "mimeType": "video/mp4",
+            "size": 43588497
+          },
+          "alt": ""
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw2ejqdj2cgx",
+          "rkey": "3mw2ejqdj2cgx"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-09-21T20:41:10.758424Z"
     },
     "truth:117310502008279319": {
       "post_status": "DISCOVERED",
