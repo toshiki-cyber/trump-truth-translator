@@ -32331,6 +32331,54 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
+    },
+    "truth:117309573610238654": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41828",
+      "source_text": "<p>The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ranchers. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 14:47:18 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-21T16:30:25.445599Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41828",
+      "first_seen": "2026-09-21T16:30:25.445545Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than w",
+      "next_retry_at": "2026-09-21T16:35:25.445611Z",
+      "truth_social_id": "117309573610238654"
+    },
+    "truth:117309799376551907": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41829",
+      "source_text": "<p>Which name do we like for the new phenomena — SUPER INTELLIGENCE VS. SUPERIOR INTELLIGENCE? President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 15:44:43 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-21T16:30:26.055429Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41829",
+      "first_seen": "2026-09-21T16:30:26.055375Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Which name do we like for the new phenomena — SUPER INTELLIGENCE VS. SUPERIOR INTELLIGENCE? President DONALD J. TRUMP",
+      "next_retry_at": "2026-09-21T16:35:26.055441Z",
+      "truth_social_id": "117309799376551907"
+    },
+    "truth:117309814170246776": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41830",
+      "source_text": "<p>The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that are now saying that AI is going to kill us, that robots are going to attack us, and everything is a DISASTER. This is more of a Hoax than even that of RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, UKRAINE, and Climate Change! Whoever wins AI, WINS! We are leading now over China, and everyone else, and I’m going to keep it that way! I’m not going to stifle Growth, of something that will be bigger than the Industrial Revolution, or the Internet, itself. We will be careful, and that’s why we have the Department of Justice, and other Law Enforcement bodies, that will rein things in if we have to, but I will only encourage AI or, SI (SUPER INTELLIGENCE)! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 15:48:29 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-21T16:30:26.714580Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41830",
+      "first_seen": "2026-09-21T16:30:26.714534Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The same people that said, “We’ll all be dead in twelve years because of Global Warming,” a name since “reborn” to Climate Change, because the Planet ",
+      "next_retry_at": "2026-09-21T16:35:26.714591Z",
+      "truth_social_id": "117309814170246776"
     }
   }
 }
