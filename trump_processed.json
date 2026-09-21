@@ -3005,27 +3005,12 @@
     "https://www.trumpstruth.org/statuses/41825",
     "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
     "truth:117307292070204943",
-    "https://www.trumpstruth.org/statuses/41824"
+    "https://www.trumpstruth.org/statuses/41824",
+    "fp:Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blow",
+    "truth:117308930224398545",
+    "https://www.trumpstruth.org/statuses/41827"
   ],
   "posts": {
-    "truth:117097064279149887": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40866",
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40861",
-      "source_text": "<p>Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywhere across the globe at any time.”</p>",
-      "published": "Sat, 15 Aug 2026 02:03:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T07:20:53.005969Z",
-      "first_seen": "2026-08-15T06:45:40.337632Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provid",
-      "truth_social_id": "117097064279149887",
-      "source_fingerprint": "fp:Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provid",
-      "media_identity": "attachment:117097064279149887:",
-      "translation": "ダン・ケイン統合参謀本部議長：「大統領の身体的保護を提供し、また大統領がいかなる時においても地球上のいかなる場所からであっても米国防軍に対する最高司令官としての責務を遂行するために必要な指揮、統制、および通信能力を備えた、安全で最先端の施設に対する有効な軍事的必要性があることを宣言する」"
-    },
     "truth:117097114321052680": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/40864",
       "post_status": "POSTED",
@@ -17699,6 +17684,24 @@
       "source_fingerprint": "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
       "media_identity": "attachment:117307292070204943:",
       "translation": "https://truthsocial.com/@breitbartnews/117305295296594991"
+    },
+    "truth:117308930224398545": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41827",
+      "source_text": "<p>Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole World suffers as 25,000 people, mostly soldiers, are being killed each month. What a shame! President DJT</p>",
+      "published": "Mon, 21 Sep 2026 12:03:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T12:55:22.708965Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41827",
+      "first_seen": "2026-09-21T12:30:22.974451Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blow",
+      "truth_social_id": "117308930224398545",
+      "source_fingerprint": "fp:Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blow",
+      "media_identity": "attachment:117308930224398545:",
+      "translation": "ロシアは、ウクライナとの戦争により、残念ながらディーゼル油産業の支配を失ってしまった。ディーゼル精製所が大量に爆撃されており、少なくとも一時的には稼働停止状態にある。ウクライナとのこの馬鹿げた、果てしない戦争は終わらなければならない。毎月2万5000人、ほとんどが兵士だが、が殺害される中で、世界全体が苦しんでいる。何という悲劇だ！大統領 DJT"
     },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
@@ -32380,22 +32383,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-21T12:55:35.810112Z"
-    },
-    "truth:117308930224398545": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41827",
-      "source_text": "<p>Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole World suffers as 25,000 people, mostly soldiers, are being killed each month. What a shame! President DJT</p>",
-      "published": "Mon, 21 Sep 2026 12:03:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T12:40:21.585549Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41827",
-      "first_seen": "2026-09-21T12:30:22.974451Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blow",
-      "next_retry_at": "2026-09-21T12:50:21.585562Z",
-      "truth_social_id": "117308930224398545"
     }
   }
 }
