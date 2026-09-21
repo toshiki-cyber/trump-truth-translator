@@ -2993,24 +2993,12 @@
     "https://www.trumpstruth.org/statuses/41820",
     "fp:Prosecutors zero in on John Brennan’s role in Trump-Russia collusion narrative in conspiracy case: \nhttps://justthenews.com/government/courts-law/pros",
     "truth:117307255154500060",
-    "https://www.trumpstruth.org/statuses/41823"
+    "https://www.trumpstruth.org/statuses/41823",
+    "fp:Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: \nhttps://justthenews.com/politics-policy/all-thi",
+    "truth:117307257715841389",
+    "https://www.trumpstruth.org/statuses/41822"
   ],
   "posts": {
-    "truth:117097017582854908": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40858",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:51:31 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-15T06:31:17.289899Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40858",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117097017582854908:a9892e2ae4eb9893.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117097017582854908",
-      "translation": ""
-    },
     "truth:117097017980375998": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17755,6 +17743,24 @@
       "media_identity": "attachment:117307255154500060:",
       "translation": "検察がトランプ・ロシア共謀疑惑の物語におけるジョン・ブレナンの役割に焦点を当てている　陰謀事件で：\nhttps://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative"
     },
+    "truth:117307257715841389": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41822",
+      "source_text": "<p>Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: <a href=\"https://justthenews.com/politics-policy/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety</span></a></p>",
+      "published": "Mon, 21 Sep 2026 04:58:20 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-21T06:55:21.836877Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41822",
+      "first_seen": "2026-09-21T06:30:58.140357Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: \nhttps://justthenews.com/politics-policy/all-thi",
+      "truth_social_id": "117307257715841389",
+      "source_fingerprint": "fp:Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: \nhttps://justthenews.com/politics-policy/all-thi",
+      "media_identity": "attachment:117307257715841389:",
+      "translation": "バイデン時代の検査報告書がケネディ・センターの老朽化と安全上の危険を露呈し、トランプが修復を目指す：\nhttps://justthenews.com/politics-policy/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety"
+    },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32362,22 +32368,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/303/608/044/410/369/original/44f986e9680adf7f.mp4",
       "truth_social_id": "117303611907345909",
       "next_retry_at": "2026-09-20T14:35:58.706731Z"
-    },
-    "truth:117307257715841389": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41822",
-      "source_text": "<p>Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: <a href=\"https://justthenews.com/politics-policy/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/biden-era-inspections-exposed-kennedy-center-disrepair-safety</span></a></p>",
-      "published": "Mon, 21 Sep 2026 04:58:20 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T06:35:58.498404Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41822",
-      "first_seen": "2026-09-21T06:30:58.140357Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Biden-era inspection reports expose Kennedy Center disrepair, safety hazards that Trump seeks to fix: \nhttps://justthenews.com/politics-policy/all-thi",
-      "next_retry_at": "2026-09-21T06:45:58.498421Z",
-      "truth_social_id": "117307257715841389"
     },
     "truth:117307260504631667": {
       "post_status": "RETRY",
