@@ -3032,62 +3032,12 @@
     "https://www.trumpstruth.org/statuses/41835",
     "fp:Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU D",
     "truth:117310501298755407",
-    "https://www.trumpstruth.org/statuses/41834"
+    "https://www.trumpstruth.org/statuses/41834",
+    "fp:Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WIL",
+    "truth:117310502008279319",
+    "https://www.trumpstruth.org/statuses/41833"
   ],
   "posts": {
-    "truth:117096983461735453": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40849",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 01:42:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T09:15:46.173140Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40849",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117096983461735453:c7dd8f3a6222a7c1.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117096983461735453",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kb2unzcpd",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt3kb2unzcpd",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T09:05:43.649962Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihbvk6nhybbgutdx2uabs7y2kuddhqtcgrjqhhci3zac4uu5zlrxi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 105792
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 616,
-                "height": 808
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt3kb2unzcpd",
-          "rkey": "3mt3kb2unzcpd"
-        }
-      ]
-    },
     "truth:117099531388015618": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17659,6 +17609,22 @@
       "source_fingerprint": "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
       "media_identity": "attachment:117310364553695688:",
       "translation": "ホワイトハウスの敷地をちょうど出発したところだ。新たに建設された非常に美しいヘリポートからの処女飛行だ！ロッキード・マーティンの最高経営責任者ジム・タイケルトに感謝したい。彼は我が国に対するこの貴重な貢献を実現してくれた。我が政府は25年間このことを考えていたが、決して成し遂げることができなかった。私が物事を成し遂げる！また、最も重要なことだが、ワシントンD.C.地域の偉大な建設労働者と石工の皆さんに心からの感謝を捧げたい。彼らは非常に特別なものを創り出した。そしてクラーク・コンストラクションの素晴らしい監督業務にも感謝する。神よ、アメリカを祝福してくれ！大統領 ドナルド・J・トランプ"
+    },
+    "truth:117310502008279319": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41833",
+      "source_text": "<p>Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Mon, 21 Sep 2026 18:43:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-21T20:50:49.312074Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41833",
+      "source_fingerprint": "fp:Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WIL",
+      "media_identity": "attachment:117310502008279319:13b49d3e63279a7f-0c60e8773389.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WIL",
+      "truth_social_id": "117310502008279319",
+      "translation": "マイケル・バウムガルトナーはワシントン州第5下院選挙区の下院議員再選に関して、私の完全で全面的な支持を得ている—彼は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領"
     },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
@@ -32369,16 +32335,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
-    },
-    "truth:117310502008279319": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41833",
-      "source_text": "<p>Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 18:43:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-21T20:30:18.992046Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41833"
     },
     "truth:117310724294153031": {
       "post_status": "DISCOVERED",
