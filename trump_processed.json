@@ -32341,6 +32341,54 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
+    },
+    "truth:117286701272925228": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41839",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Schoenlaw\" rel=\"nofollow\">@<span>Schoenlaw</span></a></span><a href=\"https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/americans-hous</span><span class=\"invisible\">ehold-income-2025-census-bureau-2e2a9e36?st=9jyvTw</span></a>.  The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+      "published": "Tue, 22 Sep 2026 03:26:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-22T04:30:20.622257Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41839",
+      "first_seen": "2026-09-22T04:30:21.273982Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw.  The writer tries to make excuses to explain this great ",
+      "next_retry_at": "2026-09-22T04:35:21.274026Z",
+      "truth_social_id": "117286701272925228"
+    },
+    "truth:117312531137546490": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41838",
+      "source_text": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
+      "published": "Tue, 22 Sep 2026 03:19:27 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-22T04:30:21.813092Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41838",
+      "first_seen": "2026-09-22T04:30:21.813052Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
+      "next_retry_at": "2026-09-22T04:35:21.813102Z",
+      "truth_social_id": "117312531137546490"
+    },
+    "truth:117312693997244079": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41841",
+      "source_text": "<p>Thanks Johnny. You are a total winner! President DJT</p><p>SPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: <a href=\"https://www.miamiherald.com/sports/article317314631.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">miamiherald.com/sports/article</span><span class=\"invisible\">317314631.html</span></a></p>",
+      "published": "Tue, 22 Sep 2026 04:00:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-22T04:30:22.608253Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41841",
+      "first_seen": "2026-09-22T04:30:22.608220Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
+      "next_retry_at": "2026-09-22T04:35:22.608261Z",
+      "truth_social_id": "117312693997244079"
     }
   }
 }
