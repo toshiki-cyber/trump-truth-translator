@@ -3047,27 +3047,12 @@
     "https://www.trumpstruth.org/statuses/41839",
     "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
     "truth:117312531137546490",
-    "https://www.trumpstruth.org/statuses/41838"
+    "https://www.trumpstruth.org/statuses/41838",
+    "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
+    "truth:117312693997244079",
+    "https://www.trumpstruth.org/statuses/41841"
   ],
   "posts": {
-    "truth:117099534125642899": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40870",
-      "source_text": "<p>Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and</span></a></p>",
-      "published": "Sat, 15 Aug 2026 12:31:30 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-15T13:30:49.043809Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40870",
-      "failure_reason": null,
-      "fingerprint": "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
-      "first_seen": "2026-08-15T12:50:44.344256Z",
-      "no_media_confirmations": 3,
-      "truth_social_id": "117099534125642899",
-      "source_fingerprint": "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
-      "media_identity": "attachment:117099534125642899:",
-      "translation": "二重基準の司法制度を暴く - ピーター・ナヴァロが中国の侵略と政府の兵器化について語る：\nhttps://justthenews.com/podcasts/john-solomon-reports/unmasking-dual-justice-system-peter-navarro-chinas-intrusions-and"
-    },
     "truth:117099996094059583": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17587,6 +17572,66 @@
       "source_fingerprint": "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
       "media_identity": "attachment:117312531137546490:",
       "translation": "電気をつけたままに、ビッグ・ブラザーは脇に置け：トランプのEPA廃止は利用者に3,100億ドルを節約させる可能性がある：\nhttps://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse"
+    },
+    "truth:117312693997244079": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41841",
+      "source_text": "<p>Thanks Johnny. You are a total winner! President DJT</p><p>SPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: <a href=\"https://www.miamiherald.com/sports/article317314631.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">miamiherald.com/sports/article</span><span class=\"invisible\">317314631.html</span></a></p>",
+      "published": "Tue, 22 Sep 2026 04:00:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-22T05:10:18.702250Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41841",
+      "first_seen": "2026-09-22T04:30:22.608220Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
+      "truth_social_id": "117312693997244079",
+      "source_fingerprint": "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
+      "media_identity": "attachment:117312693997244079:",
+      "translation": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mw3douccxc7g",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
+        "createdAt": "2026-09-22T05:00:36.895525Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 228,
+              "byteEnd": 284
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.miamiherald.com/sports/article317314631.html"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.miamiherald.com/sports/article317314631.html",
+            "title": "https://www.miamiherald.com/sports/article317314631.html",
+            "description": ""
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
+          "rkey": "3mw3douccxc7g"
+        }
+      ]
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32315,151 +32360,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
-    },
-    "truth:117312693997244079": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41841",
-      "source_text": "<p>Thanks Johnny. You are a total winner! President DJT</p><p>SPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: <a href=\"https://www.miamiherald.com/sports/article317314631.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">miamiherald.com/sports/article</span><span class=\"invisible\">317314631.html</span></a></p>",
-      "published": "Tue, 22 Sep 2026 04:00:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-22T05:00:43.913762Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41841",
-      "first_seen": "2026-09-22T04:30:22.608220Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
-      "truth_social_id": "117312693997244079",
-      "source_fingerprint": "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
-      "media_identity": "attachment:117312693997244079:",
-      "translation": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
-          "cid": "bafyreidjsopfiu76b2o5mksi7bn2bbqqkneroksuzlkkzdstgzqo73wslu"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
-          "cid": "bafyreidjsopfiu76b2o5mksi7bn2bbqqkneroksuzlkkzdstgzqo73wslu"
-        },
-        "next_index": 1,
-        "last_rkey": "3mw3douccxc7g",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
-          "createdAt": "2026-09-22T05:00:36.895525Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 228,
-                "byteEnd": 284
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.miamiherald.com/sports/article317314631.html"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.miamiherald.com/sports/article317314631.html",
-              "title": "https://www.miamiherald.com/sports/article317314631.html",
-              "description": ""
-            }
-          }
-        },
-        "root_rkey": "3mw3douccxc7g",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
-          "createdAt": "2026-09-22T05:00:36.895525Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 228,
-                "byteEnd": 284
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.miamiherald.com/sports/article317314631.html"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.miamiherald.com/sports/article317314631.html",
-              "title": "https://www.miamiherald.com/sports/article317314631.html",
-              "description": ""
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
-            "rkey": "3mw3douccxc7g"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mw3douccxc7g",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
-        "createdAt": "2026-09-22T05:00:36.895525Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 228,
-              "byteEnd": 284
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.miamiherald.com/sports/article317314631.html"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.miamiherald.com/sports/article317314631.html",
-            "title": "https://www.miamiherald.com/sports/article317314631.html",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
-          "rkey": "3mw3douccxc7g"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-22T05:05:43.913775Z"
     }
   }
 }
