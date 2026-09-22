@@ -3050,62 +3050,12 @@
     "https://www.trumpstruth.org/statuses/41838",
     "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
     "truth:117312693997244079",
-    "https://www.trumpstruth.org/statuses/41841"
+    "https://www.trumpstruth.org/statuses/41841",
+    "fp:The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly th",
+    "truth:117314399826449877",
+    "https://www.trumpstruth.org/statuses/41842"
   ],
   "posts": {
-    "truth:117099996094059583": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40873",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 14:28:59 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T14:45:42.613732Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40873",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117099996094059583:729b208038aba32a.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117099996094059583",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4v32gvqkk7",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt4v32gvqkk7",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T14:35:39.598696Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreignb7pspcftsgyxeyjvjgdki7spwnocmcydrgjkzj75pzfxwkf5j4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 139725
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 800,
-                "height": 521
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4v32gvqkk7",
-          "rkey": "3mt4v32gvqkk7"
-        }
-      ]
-    },
     "truth:117100150900258418": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17632,6 +17582,24 @@
           "rkey": "3mw3douccxc7g"
         }
       ]
+    },
+    "truth:117314399826449877": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41842",
+      "source_text": "<p>The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP</p>",
+      "published": "Tue, 22 Sep 2026 11:14:40 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-22T12:55:26.955435Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41842",
+      "first_seen": "2026-09-22T12:30:22.679842Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly th",
+      "truth_social_id": "117314399826449877",
+      "source_fingerprint": "fp:The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly th",
+      "media_identity": "attachment:117314399826449877:",
+      "translation": "臆病者と裏切り者たちは、アメリカの弾薬が不足していると言いたがるだろう。それは真実ではない。われわれは使う可能性のあるどんなレベルをも超える弾薬を保有しており、現在、かつて見たことのないレベルで弾薬を増強している。ドナルド・J・トランプ大統領"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32360,22 +32328,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
-    },
-    "truth:117314399826449877": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41842",
-      "source_text": "<p>The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP</p>",
-      "published": "Tue, 22 Sep 2026 11:14:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-22T12:40:28.419724Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41842",
-      "first_seen": "2026-09-22T12:30:22.679842Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly th",
-      "next_retry_at": "2026-09-22T12:50:28.419739Z",
-      "truth_social_id": "117314399826449877"
     }
   }
 }
