@@ -3053,63 +3053,12 @@
     "https://www.trumpstruth.org/statuses/41841",
     "fp:The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly th",
     "truth:117314399826449877",
-    "https://www.trumpstruth.org/statuses/41842"
+    "https://www.trumpstruth.org/statuses/41842",
+    "fp:Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: \nhttps://justthenews.com/accountability/political-e",
+    "truth:117316991845409643",
+    "https://www.trumpstruth.org/statuses/41843"
   ],
   "posts": {
-    "truth:117100150900258418": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40874",
-      "source_text": "<p>Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP</p>",
-      "published": "Sat, 15 Aug 2026 15:08:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T16:15:44.774342Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40874",
-      "source_fingerprint": "fp:Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRU",
-      "media_identity": "attachment:117100150900258418:82059b47c6c2aa87.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRU",
-      "truth_social_id": "117100150900258418",
-      "translation": "この写真では不愛想に見えるが、俺たちが笑顔の写真はたくさんある。金正恩と俺は非常にうまくやっている！大統領 ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4xbh65qc45",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt4xbh65qc45",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "この写真では不愛想に見えるが、俺たちが笑顔の写真はたくさんある。金正恩と俺は非常にうまくやっている！大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-08-15T16:05:44.475816Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiegfamfm4zgtwdyb2tftj6l2kpf2iyuz4j6h77rvf5ats2a6aemxe"
-                },
-                "mimeType": "image/jpeg",
-                "size": 61658
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 521,
-                "height": 800
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4xbh65qc45",
-          "rkey": "3mt4xbh65qc45"
-        }
-      ]
-    },
     "truth:117100231642216448": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17600,6 +17549,24 @@
       "source_fingerprint": "fp:The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly th",
       "media_identity": "attachment:117314399826449877:",
       "translation": "臆病者と裏切り者たちは、アメリカの弾薬が不足していると言いたがるだろう。それは真実ではない。われわれは使う可能性のあるどんなレベルをも超える弾薬を保有しており、現在、かつて見たことのないレベルで弾薬を増強している。ドナルド・J・トランプ大統領"
+    },
+    "truth:117316991845409643": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41843",
+      "source_text": "<p>Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: <a href=\"https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data</span></a></p>",
+      "published": "Tue, 22 Sep 2026 22:13:52 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-22T22:55:22.968993Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41843",
+      "first_seen": "2026-09-22T22:30:21.406616Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: \nhttps://justthenews.com/accountability/political-e",
+      "truth_social_id": "117316991845409643",
+      "source_fingerprint": "fp:Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: \nhttps://justthenews.com/accountability/political-e",
+      "media_identity": "attachment:117316991845409643:",
+      "translation": "ジャック・スミス事件の捜査官が、召喚されたスマートフォンデータが議会のものであることを知らされていなかったと述べている：\nhttps://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32328,22 +32295,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
-    },
-    "truth:117316991845409643": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41843",
-      "source_text": "<p>Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: <a href=\"https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data</span></a></p>",
-      "published": "Tue, 22 Sep 2026 22:13:52 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-22T22:40:18.946806Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41843",
-      "first_seen": "2026-09-22T22:30:21.406616Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: \nhttps://justthenews.com/accountability/political-e",
-      "next_retry_at": "2026-09-22T22:50:18.946822Z",
-      "truth_social_id": "117316991845409643"
     }
   }
 }
