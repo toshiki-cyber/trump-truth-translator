@@ -3044,7 +3044,10 @@
     "https://www.trumpstruth.org/statuses/41837",
     "fp:https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw.  The writer tries to make excuses to explain this great ",
     "truth:117286701272925228",
-    "https://www.trumpstruth.org/statuses/41839"
+    "https://www.trumpstruth.org/statuses/41839",
+    "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
+    "truth:117312531137546490",
+    "https://www.trumpstruth.org/statuses/41838"
   ],
   "posts": {
     "truth:117099534125642899": {
@@ -17566,6 +17569,24 @@
       "source_fingerprint": "fp:While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with som",
       "media_identity": "attachment:117310775870715938:",
       "translation": "ニューヨーク市にいるが、世界でも好きな場所の一つであるグレイシー・マンションに向かっているところだ。長年にわたってそこで多くの時間を過ごしてきた。優れた市長もいれば、平均的な市長もいた。悪い市長もいた。マムダニ市長に招待されて、今がどのような状態になっているか見るのは興味深いだろう。楽しみにしている。ニューヨーク市を再び偉大にしよう！ドナルド・J・トランプ大統領"
+    },
+    "truth:117312531137546490": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41838",
+      "source_text": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
+      "published": "Tue, 22 Sep 2026 03:19:27 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-22T04:55:19.727864Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41838",
+      "first_seen": "2026-09-22T04:30:21.813052Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
+      "truth_social_id": "117312531137546490",
+      "source_fingerprint": "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
+      "media_identity": "attachment:117312531137546490:",
+      "translation": "電気をつけたままに、ビッグ・ブラザーは脇に置け：トランプのEPA廃止は利用者に3,100億ドルを節約させる可能性がある：\nhttps://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32294,22 +32315,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
-    },
-    "truth:117312531137546490": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41838",
-      "source_text": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
-      "published": "Tue, 22 Sep 2026 03:19:27 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-22T04:40:21.649888Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41838",
-      "first_seen": "2026-09-22T04:30:21.813052Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
-      "next_retry_at": "2026-09-22T04:50:21.649901Z",
-      "truth_social_id": "117312531137546490"
     },
     "truth:117312693997244079": {
       "post_status": "RETRY",
