@@ -3041,77 +3041,12 @@
     "https://www.trumpstruth.org/statuses/41836",
     "fp:While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with som",
     "truth:117310775870715938",
-    "https://www.trumpstruth.org/statuses/41837"
+    "https://www.trumpstruth.org/statuses/41837",
+    "fp:https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw.  The writer tries to make excuses to explain this great ",
+    "truth:117286701272925228",
+    "https://www.trumpstruth.org/statuses/41839"
   ],
   "posts": {
-    "truth:117099535440653927": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40869",
-      "source_text": "<p>White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: <a href=\"https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/white-house-report-details-great-transshipment-scam-costing-tens-billions</span></a></p>",
-      "published": "Sat, 15 Aug 2026 12:31:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T13:15:41.808588Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40869",
-      "first_seen": "2026-08-15T12:40:56.250451Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
-      "truth_social_id": "117099535440653927",
-      "source_fingerprint": "fp:White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: \nhttps://justthenews.com/government/white-house/whit",
-      "media_identity": "attachment:117099535440653927:",
-      "translation": "ホワイトハウスの報告書が「大規模積み替え詐欺」を詳述、関税回避で数百億ドルの損失：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4ojl2hac25",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt4ojl2hac25",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ホワイトハウスの報告書が「大規模積み替え詐欺」を詳述、関税回避で数百億ドルの損失：\nhttps://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-        "createdAt": "2026-08-15T13:05:45.969676Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 124,
-              "byteEnd": 244
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/white-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
-            "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion",
-            "description": "The report concludes that the scale of potential evasion is economically significant and establishes a framework for ongoing assessment of the integrity of the U.S. tariff system.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ More than 40 lower-tariff jurisdictions are being used as pass-throughs to avoid lawful tarriffs.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreid25qg2kwsfc2ltrhb67647bmqetm26njhmilxiyq3zabozpmbaga"
-              },
-              "mimeType": "image/jpeg",
-              "size": 73862
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4ojl2hac25",
-          "rkey": "3mt4ojl2hac25"
-        }
-      ]
-    },
     "truth:117099534125642899": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17631,6 +17566,24 @@
       "source_fingerprint": "fp:While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with som",
       "media_identity": "attachment:117310775870715938:",
       "translation": "ニューヨーク市にいるが、世界でも好きな場所の一つであるグレイシー・マンションに向かっているところだ。長年にわたってそこで多くの時間を過ごしてきた。優れた市長もいれば、平均的な市長もいた。悪い市長もいた。マムダニ市長に招待されて、今がどのような状態になっているか見るのは興味深いだろう。楽しみにしている。ニューヨーク市を再び偉大にしよう！ドナルド・J・トランプ大統領"
+    },
+    "truth:117286701272925228": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41840",
+      "source_text": "<p><a href=\"https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/americans-hous</span><span class=\"invisible\">ehold-income-2025-census-bureau-2e2a9e36?st=9jyvTw</span></a>.  The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+      "published": "Thu, 17 Sep 2026 13:50:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-22T04:45:27.869999Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41839",
+      "first_seen": "2026-09-22T04:30:21.273982Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw.  The writer tries to make excuses to explain this great ",
+      "truth_social_id": "117286701272925228",
+      "source_fingerprint": "fp:https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw.  The writer tries to make excuses to explain this great ",
+      "media_identity": "attachment:117286701272925228:",
+      "translation": "https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw. 執筆者はこの素晴らしいニュースを言い訳で説明しようとしているが、事実は事実だ：アメリカ人は経済的により良い状況にあり、貧困水準は劇的に低下している！正当な評価をし、我が国とアメリカ国民のための良いニュースを祝おう！！！\nhttps://truthsocial.com/@realDonaldTrump"
     },
     "truth:117293338603423306": {
       "post_status": "DISCOVERED",
@@ -32341,22 +32294,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
-    },
-    "truth:117286701272925228": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41840",
-      "source_text": "<p><a href=\"https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/americans-hous</span><span class=\"invisible\">ehold-income-2025-census-bureau-2e2a9e36?st=9jyvTw</span></a>.  The writer tries to make excuses to explain this great news but the facts are the facts:  Americans are doing better financially and the poverty level is dramatically down!  Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
-      "published": "Thu, 17 Sep 2026 13:50:34 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-22T04:40:21.311833Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41839",
-      "first_seen": "2026-09-22T04:30:21.273982Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://www.wsj.com/opinion/americans-household-income-2025-census-bureau-2e2a9e36?st=9jyvTw.  The writer tries to make excuses to explain this great ",
-      "next_retry_at": "2026-09-22T04:45:21.311848Z",
-      "truth_social_id": "117286701272925228"
     },
     "truth:117312531137546490": {
       "post_status": "RETRY",
