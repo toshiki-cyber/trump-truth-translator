@@ -32419,34 +32419,52 @@
       "next_retry_at": "2026-09-23T04:35:40.693214Z"
     },
     "truth:117318368847920040": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41847",
       "source_text": "<p>Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: <a href=\"https://www.newsmax.com/newsfront/israel-benjamin-netanyahu-likud/2026/09/17/id/1269830/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/israel-b</span><span class=\"invisible\">enjamin-netanyahu-likud/2026/09/17/id/1269830/</span></a></p>",
       "published": "Wed, 23 Sep 2026 04:04:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-23T04:30:22.562579Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41847"
+      "retry_count": 1,
+      "updated_at": "2026-09-23T04:35:23.336767Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41847",
+      "first_seen": "2026-09-23T04:35:23.336735Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: \nhttps://www.newsmax.com/newsfront/israel-benjamin-netanyahu-likud/2026/09/17/id/1269830/",
+      "next_retry_at": "2026-09-23T04:40:23.336776Z",
+      "truth_social_id": "117318368847920040"
     },
     "truth:117318370203435194": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41846",
       "source_text": "<p>Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: <a href=\"https://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/id/1269433/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsfront/azerbaij</span><span class=\"invisible\">an-ilham-aliyev-armenia/2026/09/14/id/1269433/</span></a></p>",
       "published": "Wed, 23 Sep 2026 04:04:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-23T04:30:22.562480Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41846"
+      "retry_count": 1,
+      "updated_at": "2026-09-23T04:35:23.991123Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41846",
+      "first_seen": "2026-09-23T04:35:23.991090Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: \nhttps://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/i",
+      "next_retry_at": "2026-09-23T04:40:23.991132Z",
+      "truth_social_id": "117318370203435194"
     },
     "truth:117318371569831036": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41845",
       "source_text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
       "published": "Wed, 23 Sep 2026 04:04:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-23T04:30:22.562373Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41845"
+      "retry_count": 1,
+      "updated_at": "2026-09-23T04:35:24.490218Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41845",
+      "first_seen": "2026-09-23T04:35:24.490184Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+      "next_retry_at": "2026-09-23T04:40:24.490227Z",
+      "truth_social_id": "117318371569831036"
     }
   }
 }
