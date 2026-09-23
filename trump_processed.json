@@ -3067,27 +3067,11 @@
     "https://www.trumpstruth.org/statuses/41847",
     "fp:Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: \nhttps://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/i",
     "truth:117318370203435194",
-    "https://www.trumpstruth.org/statuses/41846"
+    "https://www.trumpstruth.org/statuses/41846",
+    "truth:117318371569831036",
+    "https://www.trumpstruth.org/statuses/41845"
   ],
   "posts": {
-    "truth:117101649709052792": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40888",
-      "source_text": "<p>State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!<br /> <br />A Fifth Generation Floridian, and a Brave U.S. Navy Veteran, Bill knows the Wisdom and Courage that is required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In the State House, he is working hard to Protect Florida Values, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Businesses and American Ingenuity, Ensure U.S. Energy DOMINANCE, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />Bill Conerly has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Sat, 15 Aug 2026 21:29:31 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-15T22:00:47.160228Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40888",
-      "first_seen": "2026-08-15T21:35:41.873274Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!\n \nA Fifth Genera",
-      "truth_social_id": "117101649709052792",
-      "source_fingerprint": "fp:State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District!\n \nA Fifth Genera",
-      "media_identity": "attachment:117101649709052792:",
-      "translation": "州下院議員ビル・コナーリーは素晴らしい仕事をしているアメリカ・ファースト愛国者であり、フロリダ州第72区を代表している！\n\n5代目のフロリダ州民であり、勇敢なアメリカ海軍退役軍人であるビルは、わが国を防衛し、軍隊と退役軍人を支援し、力による平和を確保するために必要な知恵と勇気を持っている。州下院では、フロリダの価値観を守り、移民犯罪を阻止し、経済を成長させ、税とрегулаций削減し、メイド・イン・ザ・USA を推進し、中小企業とアメリカンイノベーションを支援し、アメリカのエネルギー支配を確保し、選挙を保護し、常に脅威にさらされている修正第2条を守るために懸命に取り組んでいる。\n\nビル・コナーリーは、再選に向けて私の完全かつ総合的な支持を得ている。彼はあなたを決して失望させない！"
-    },
     "truth:117101658723920664": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17456,6 +17440,24 @@
       "source_fingerprint": "fp:Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: \nhttps://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/i",
       "media_identity": "attachment:117318370203435194:",
       "translation": "アゼルバイジャンのハジエフ氏、ニューズマックスに語る：トランプは平和仲介者、イラン核合意は可能性がある：\nhttps://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/id/1269433/"
+    },
+    "truth:117318371569831036": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41845",
+      "source_text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
+      "published": "Wed, 23 Sep 2026 04:04:44 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-23T05:10:18.958246Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41845",
+      "first_seen": "2026-09-23T04:35:24.490184Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+      "truth_social_id": "117318371569831036",
+      "source_fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
+      "media_identity": "attachment:117318371569831036:",
+      "translation": "ラディ：『トランプの台頭はすべての舟を持ち上げる』\nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32231,22 +32233,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-23T04:45:24.841032Z"
-    },
-    "truth:117318371569831036": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41845",
-      "source_text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
-      "published": "Wed, 23 Sep 2026 04:04:44 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-23T04:45:19.576123Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41845",
-      "first_seen": "2026-09-23T04:35:24.490184Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
-      "next_retry_at": "2026-09-23T04:55:19.576140Z",
-      "truth_social_id": "117318371569831036"
     }
   }
 }
