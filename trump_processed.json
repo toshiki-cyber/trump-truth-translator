@@ -3058,79 +3058,12 @@
     "truth:117316991845409643",
     "https://www.trumpstruth.org/statuses/41843",
     "truth:117318365806497574",
-    "https://www.trumpstruth.org/statuses/41848"
+    "https://www.trumpstruth.org/statuses/41848",
+    "fp:All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering m",
+    "truth:117318329260090686",
+    "https://www.trumpstruth.org/statuses/41844"
   ],
   "posts": {
-    "truth:117100231642216448": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40875",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926</span></p>",
-      "published": "Sat, 15 Aug 2026 15:28:53 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T19:15:42.801417Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40875",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
-      "media_identity": "attachment:117100231642216448:b99d9309c182a717.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
-      "truth_social_id": "117100231642216448",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4yg64l5kfl",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt4yg64l5kfl",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
-        "createdAt": "2026-08-15T19:05:48.663248Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 73
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigqhjhsljr4dgnefovcfzympxmzwdlnj7oqvyupyltwvucagf7ct4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 240250
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1357,
-                "height": 756
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt4yg64l5kfl",
-          "rkey": "3mt4yg64l5kfl"
-        }
-      ]
-    },
     "truth:117101384725517282": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17569,6 +17502,24 @@
       "source_fingerprint": "fp:Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: \nhttps://justthenews.com/accountability/political-e",
       "media_identity": "attachment:117316991845409643:",
       "translation": "ジャック・スミス事件の捜査官が、召喚されたスマートフォンデータが議会のものであることを知らされていなかったと述べている：\nhttps://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data"
+    },
+    "truth:117318329260090686": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41844",
+      "source_text": "<p>All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Wed, 23 Sep 2026 03:53:59 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-23T04:55:30.484289Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41844",
+      "first_seen": "2026-09-23T04:30:23.235125Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering m",
+      "truth_social_id": "117318329260090686",
+      "source_fingerprint": "fp:All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering m",
+      "media_identity": "attachment:117318329260090686:",
+      "translation": "フェイクニュースCNNの三流「記者」カイトラン・コリンズのような下劣な連中はみんな、俺のことは報道しないと言っていた。それなのに、なぜ国連のプレスエリアでキチガイみたいに喚き散らしていたんだ？なぜあいつはそこにいたんだ？あいつは「トランプ」中毒にかかっており、CNNもMSNBCも同じだ。連中はみんな病的で、反逆的で、狂っている！「朗報」は、連中には彼ら自身にとって素晴らしく、完全に不誠実な判事がいるということだ。アメリカを再び偉大に！大統領ドナルド・J・トランプ"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32297,22 +32248,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daopa4c1ja3s73f60980\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-09-21T20:50:26.497493Z"
-    },
-    "truth:117318329260090686": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41844",
-      "source_text": "<p>All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
-      "published": "Wed, 23 Sep 2026 03:53:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-23T04:40:21.584368Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41844",
-      "first_seen": "2026-09-23T04:30:23.235125Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering m",
-      "next_retry_at": "2026-09-23T04:50:21.584382Z",
-      "truth_social_id": "117318329260090686"
     },
     "truth:117318365806497574": {
       "post_status": "RETRY",
