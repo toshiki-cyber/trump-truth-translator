@@ -3075,62 +3075,12 @@
     "https://www.trumpstruth.org/statuses/41851",
     "fp:Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
     "truth:117320385350427395",
-    "https://www.trumpstruth.org/statuses/41849"
+    "https://www.trumpstruth.org/statuses/41849",
+    "fp:Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing prob",
+    "truth:117320509296515188",
+    "https://www.trumpstruth.org/statuses/41850"
   ],
   "posts": {
-    "truth:117101143768217641": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40880",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 19:20:51 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-15T22:30:39.655066Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40880",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117101143768217641:ad68c1dca0c5f986.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117101143768217641",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5fexcdi22k",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mt5fexcdi22k",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-15T22:20:43.797718Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigqxqccomwtakxwrbtnhs4omp3avkra4ont4jz7wuiw5523z7rku4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 57251
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 800,
-                "height": 517
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt5fexcdi22k",
-          "rkey": "3mt5fexcdi22k"
-        }
-      ]
-    },
     "truth:117101396479718815": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17482,6 +17432,24 @@
           "rkey": "3mw6qyi7qpcyn"
         }
       ]
+    },
+    "truth:117320509296515188": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41850",
+      "source_text": "<p>Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT</p>",
+      "published": "Wed, 23 Sep 2026 13:08:24 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-23T14:55:30.530652Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41850",
+      "first_seen": "2026-09-23T14:35:25.692414Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing prob",
+      "truth_social_id": "117320509296515188",
+      "source_fingerprint": "fp:Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing prob",
+      "media_identity": "attachment:117320509296515188:",
+      "translation": "カナダは何百万人もの人々を本質的にノーチェック・未審査のまま国に入れることで、自滅している。彼らは間もなく対処しきれなくなるほどの問題を引き起こしている。これはリベラル派による乗っ取りであり、非常に悪い結果に終わるだろう。既に彼らの数が現れている。失業率が高い。『オー・カナダ！』DJT大統領"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32257,22 +32225,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-23T04:45:24.841032Z"
-    },
-    "truth:117320509296515188": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41850",
-      "source_text": "<p>Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT</p>",
-      "published": "Wed, 23 Sep 2026 13:08:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-23T14:45:24.041347Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41850",
-      "first_seen": "2026-09-23T14:35:25.692414Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing prob",
-      "next_retry_at": "2026-09-23T14:55:24.041362Z",
-      "truth_social_id": "117320509296515188"
     }
   }
 }
