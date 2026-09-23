@@ -3078,24 +3078,12 @@
     "https://www.trumpstruth.org/statuses/41849",
     "fp:Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing prob",
     "truth:117320509296515188",
-    "https://www.trumpstruth.org/statuses/41850"
+    "https://www.trumpstruth.org/statuses/41850",
+    "fp:The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
+    "truth:117322065119445871",
+    "https://www.trumpstruth.org/statuses/41852"
   ],
   "posts": {
-    "truth:117101396479718815": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40881",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 20:25:07 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-15T22:35:45.126149Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40881",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117101396479718815:630caba3ed91d806.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117101396479718815",
-      "translation": ""
-    },
     "truth:117101660036144509": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17450,6 +17438,22 @@
       "source_fingerprint": "fp:Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing prob",
       "media_identity": "attachment:117320509296515188:",
       "translation": "カナダは何百万人もの人々を本質的にノーチェック・未審査のまま国に入れることで、自滅している。彼らは間もなく対処しきれなくなるほどの問題を引き起こしている。これはリベラル派による乗っ取りであり、非常に悪い結果に終わるだろう。既に彼らの数が現れている。失業率が高い。『オー・カナダ！』DJT大統領"
+    },
+    "truth:117322065119445871": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41852",
+      "source_text": "<p>The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP</p>",
+      "published": "Wed, 23 Sep 2026 19:44:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-23T20:30:35.423689Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41852",
+      "source_fingerprint": "fp:The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
+      "media_identity": "attachment:117322065119445871:c66324f06e1ed97d.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
+      "truth_social_id": "117322065119445871",
+      "translation": "素晴らしきゲーリー・プレイヤー、ブライソン・デシャンボー、ミカイラ・デマイター、スーザン・ウォーターフォール、マリーン・ワン搭乗中！大統領ドナルド・J・トランプ"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32225,6 +32229,16 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-23T04:45:24.841032Z"
+    },
+    "truth:117322092055919832": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41853",
+      "source_text": "<p></p>",
+      "published": "Wed, 23 Sep 2026 19:50:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-23T20:30:31.963588Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41853"
     }
   }
 }
