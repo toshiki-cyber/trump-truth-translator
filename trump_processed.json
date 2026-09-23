@@ -3081,27 +3081,11 @@
     "https://www.trumpstruth.org/statuses/41850",
     "fp:The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
     "truth:117322065119445871",
-    "https://www.trumpstruth.org/statuses/41852"
+    "https://www.trumpstruth.org/statuses/41852",
+    "truth:117322092055919832",
+    "https://www.trumpstruth.org/statuses/41853"
   ],
   "posts": {
-    "truth:117101660036144509": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40886",
-      "source_text": "<p>State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!<br /> <br />A Successful Entrepreneur and Civic Leader, before his service in the State House, J.J. is a Proven Leader who has dedicated his life to serving his Community. In the State House, he is working hard to Protect Florida Values, Champion our Amazing Farmers and Ranchers, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />J.J. Grow has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Sat, 15 Aug 2026 21:32:09 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-15T22:45:45.566687Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40886",
-      "first_seen": "2026-08-15T21:35:43.226104Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!\n \nA Successful Entre",
-      "truth_social_id": "117101660036144509",
-      "source_fingerprint": "fp:State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!\n \nA Successful Entre",
-      "media_identity": "attachment:117101660036144509:",
-      "translation": "フロリダ州下院第23地区の州下院議員J.J.グローは、この素晴らしい地区の信じられないほどの人々を代表して、素晴らしい仕事をしている！\n\n成功した起業家で市民指導者であるJ.J.は、州下院での奉職以前から、自分の人生をコミュニティへの奉仕に捧げてきた実績のあるリーダーだ。州下院では、フロリダの価値観を守り、素晴らしい農家と牧場主を支持し、経済を成長させ、税金と規制を削減し、米国製を推進し、移民犯罪を阻止し、我々の軍隊と退役軍人を強化し、選挙の完全性を促進し、常に包囲されている我々の第二修正条項を守るために懸命に取り組んでいる。\n\nJ.J.グローは再選に向けて、私の完全で全面的な支持を持っている。彼は決してあなたたちを失望させることはない！"
-    },
     "truth:117101020530216761": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17454,6 +17438,21 @@
       "fingerprint": "fp:The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
       "truth_social_id": "117322065119445871",
       "translation": "素晴らしきゲーリー・プレイヤー、ブライソン・デシャンボー、ミカイラ・デマイター、スーザン・ウォーターフォール、マリーン・ワン搭乗中！大統領ドナルド・J・トランプ"
+    },
+    "truth:117322092055919832": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41853",
+      "source_text": "<p></p>",
+      "published": "Wed, 23 Sep 2026 19:50:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-23T20:35:29.104883Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41853",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117322092055919832:5b7c50844c6f358f.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117322092055919832",
+      "translation": ""
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32229,16 +32228,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-23T04:45:24.841032Z"
-    },
-    "truth:117322092055919832": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41853",
-      "source_text": "<p></p>",
-      "published": "Wed, 23 Sep 2026 19:50:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-23T20:30:31.963588Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41853"
     }
   }
 }
