@@ -3124,69 +3124,12 @@
     "https://www.trumpstruth.org/statuses/41874",
     "fp:President Trump and the First Lady Greet the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=EWdAEh9NeOs",
     "truth:117327642327005783",
-    "https://www.trumpstruth.org/statuses/41878"
+    "https://www.trumpstruth.org/statuses/41878",
+    "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
+    "truth:117327643319552969",
+    "https://www.trumpstruth.org/statuses/41877"
   ],
   "posts": {
-    "truth:117105407858063694": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40902",
-      "source_text": "<p>Peter Navarro: It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
-      "published": "Sun, 16 Aug 2026 13:25:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-16T14:35:42.478912Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40902",
-      "first_seen": "2026-08-16T13:35:40.468562Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Peter Navarro: It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-      "truth_social_id": "117105407858063694",
-      "source_fingerprint": "fp:Peter Navarro: It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-      "media_identity": "attachment:117105407858063694:",
-      "translation": "ピーター・ナバロ：それはいい詐欺商法だった、続いている間は：\nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bxzxw42ai",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt7bxzxw42ai",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ピーター・ナバロ：それはいい詐欺商法だった、続いている間は：\nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-        "createdAt": "2026-08-16T14:05:47.243598Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 91,
-              "byteEnd": 182
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-            "title": "https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bxzxw42ai",
-          "rkey": "3mt7bxzxw42ai"
-        }
-      ]
-    },
     "truth:117105416814805578": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17305,6 +17248,24 @@
       "source_fingerprint": "fp:President Trump and the First Lady Greet the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=EWdAEh9NeOs",
       "media_identity": "attachment:117327642327005783:",
       "translation": "トランプ大統領とファーストレディが中国の国家主席と彭麗媛夫人を迎える：\nhttps://www.youtube.com/watch?v=EWdAEh9NeOs"
+    },
+    "truth:117327643319552969": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41877",
+      "source_text": "<p>President Trump and the President of China Deliver Remarks: <a href=\"https://www.youtube.com/watch?v=KroMEOZ8oFo\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=KroMEOZ8oF</span><span class=\"invisible\">o</span></a></p>",
+      "published": "Thu, 24 Sep 2026 19:22:40 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-24T20:55:26.329544Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41877",
+      "first_seen": "2026-09-24T20:30:25.826008Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
+      "truth_social_id": "117327643319552969",
+      "source_fingerprint": "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
+      "media_identity": "attachment:117327643319552969:",
+      "translation": "トランプ大統領と中国の主席が演説を行う：\nhttps://www.youtube.com/watch?v=KroMEOZ8oFo"
     },
     "truth:117325694783376982": {
       "post_status": "DISCOVERED",
@@ -32299,22 +32260,6 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
-    },
-    "truth:117327643319552969": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41877",
-      "source_text": "<p>President Trump and the President of China Deliver Remarks: <a href=\"https://www.youtube.com/watch?v=KroMEOZ8oFo\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=KroMEOZ8oF</span><span class=\"invisible\">o</span></a></p>",
-      "published": "Thu, 24 Sep 2026 19:22:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T20:35:42.609820Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41877",
-      "first_seen": "2026-09-24T20:30:25.826008Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
-      "next_retry_at": "2026-09-24T20:45:42.609840Z",
-      "truth_social_id": "117327643319552969"
     },
     "truth:117327644146401995": {
       "post_status": "RETRY",
