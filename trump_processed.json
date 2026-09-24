@@ -3083,24 +3083,12 @@
     "truth:117322065119445871",
     "https://www.trumpstruth.org/statuses/41852",
     "truth:117322092055919832",
-    "https://www.trumpstruth.org/statuses/41853"
+    "https://www.trumpstruth.org/statuses/41853",
+    "fp:BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 mor",
+    "truth:117323148147220269",
+    "https://www.trumpstruth.org/statuses/41855"
   ],
   "posts": {
-    "truth:117101020530216761": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40879",
-      "source_text": "<p></p>",
-      "published": "Sat, 15 Aug 2026 18:49:31 +0000",
-      "retry_count": 6,
-      "updated_at": "2026-08-16T00:30:49.214518Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40879",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117101020530216761:d34fa0085356f942.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117101020530216761",
-      "translation": ""
-    },
     "truth:117101426594349685": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17453,6 +17441,24 @@
       "failure_reason": null,
       "truth_social_id": "117322092055919832",
       "translation": ""
+    },
+    "truth:117323148147220269": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41855",
+      "source_text": "<p>BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP</p>",
+      "published": "Thu, 24 Sep 2026 00:19:29 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-24T00:50:31.274800Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41855",
+      "first_seen": "2026-09-24T00:31:00.454380Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 mor",
+      "truth_social_id": "117323148147220269",
+      "source_fingerprint": "fp:BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 mor",
+      "media_identity": "attachment:117323148147220269:",
+      "translation": "ボーイングとアメリカ製造業にとってビッグデーだ！本日、ハワード・ルトニックと商務省のサポートに続いて、トルコとバングラデシュがボーイング航空機111機の購入を発表した。さらに50機のオプション付きだ。数百億ドルの売上、そして膨大なアメリカの輸出品だ。国中で数万のアメリカ人労働者の雇用を支えている。市場がずっと前からボーイングと私が知っていたことを認識している。アメリカで製造し、アメリカから輸出し、アメリカ人労働者を支援すれば、企業はより強くなるということだ。ボーイングと素晴らしい労働力の皆さんに祝辞を送る！ドナルド・J・トランプ大統領"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32228,22 +32234,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-23T04:45:24.841032Z"
-    },
-    "truth:117323148147220269": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41855",
-      "source_text": "<p>BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP</p>",
-      "published": "Thu, 24 Sep 2026 00:19:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T00:40:26.181800Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41855",
-      "first_seen": "2026-09-24T00:31:00.454380Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 mor",
-      "next_retry_at": "2026-09-24T00:50:26.181814Z",
-      "truth_social_id": "117323148147220269"
     },
     "truth:117323155721195611": {
       "post_status": "RETRY",
