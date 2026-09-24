@@ -3113,7 +3113,10 @@
     "https://www.trumpstruth.org/statuses/41864",
     "fp:I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! Preside",
     "truth:117326000129865390",
-    "https://www.trumpstruth.org/statuses/41865"
+    "https://www.trumpstruth.org/statuses/41865",
+    "fp:Midterm Fact Check: Don’t believe the economic doomers: \nhttps://www.foxnews.com/video/6405515361112",
+    "truth:117326044871082645",
+    "https://www.trumpstruth.org/statuses/41872"
   ],
   "posts": {
     "truth:117105409609794697": {
@@ -17311,6 +17314,24 @@
       "source_fingerprint": "fp:I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! Preside",
       "media_identity": "attachment:117326000129865390:",
       "translation": "昨日、飛行場で習主席と会った。彼は強く、活力があり、そして健康そうに見える。これまで以上だ。もちろん、彭麗媛夫人は美しい！大統領DJT"
+    },
+    "truth:117326044871082645": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41872",
+      "source_text": "<p>Midterm Fact Check: Don’t believe the economic doomers: <a href=\"https://www.foxnews.com/video/6405515361112\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640551536111</span><span class=\"invisible\">2</span></a></p>",
+      "published": "Thu, 24 Sep 2026 12:36:10 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-24T14:55:27.716279Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41872",
+      "first_seen": "2026-09-24T14:35:28.733949Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Midterm Fact Check: Don’t believe the economic doomers: \nhttps://www.foxnews.com/video/6405515361112",
+      "truth_social_id": "117326044871082645",
+      "source_fingerprint": "fp:Midterm Fact Check: Don’t believe the economic doomers: \nhttps://www.foxnews.com/video/6405515361112",
+      "media_identity": "attachment:117326044871082645:",
+      "translation": "中間選挙ファクトチェック：経済的な悲観論者の言うことを信じるな：\nhttps://www.foxnews.com/video/6405515361112"
     },
     "truth:117325694783376982": {
       "post_status": "DISCOVERED",
@@ -32305,22 +32326,6 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
-    },
-    "truth:117326044871082645": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41872",
-      "source_text": "<p>Midterm Fact Check: Don’t believe the economic doomers: <a href=\"https://www.foxnews.com/video/6405515361112\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640551536111</span><span class=\"invisible\">2</span></a></p>",
-      "published": "Thu, 24 Sep 2026 12:36:10 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T14:40:29.516421Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41872",
-      "first_seen": "2026-09-24T14:35:28.733949Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Midterm Fact Check: Don’t believe the economic doomers: \nhttps://www.foxnews.com/video/6405515361112",
-      "next_retry_at": "2026-09-24T14:50:29.516438Z",
-      "truth_social_id": "117326044871082645"
     },
     "truth:117326047233268228": {
       "post_status": "RETRY",
