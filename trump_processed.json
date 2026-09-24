@@ -32228,6 +32228,38 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-23T04:45:24.841032Z"
+    },
+    "truth:117323148147220269": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41855",
+      "source_text": "<p>BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP</p>",
+      "published": "Thu, 24 Sep 2026 00:19:29 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-24T00:31:00.454414Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41855",
+      "first_seen": "2026-09-24T00:31:00.454380Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 mor",
+      "next_retry_at": "2026-09-24T00:36:00.454422Z",
+      "truth_social_id": "117323148147220269"
+    },
+    "truth:117323155721195611": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41854",
+      "source_text": "<p>The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 24 Sep 2026 00:21:25 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-24T00:31:00.783181Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41854",
+      "first_seen": "2026-09-24T00:31:00.783147Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridi",
+      "next_retry_at": "2026-09-24T00:36:00.783190Z",
+      "truth_social_id": "117323155721195611"
     }
   }
 }
