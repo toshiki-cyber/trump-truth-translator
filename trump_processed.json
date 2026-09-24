@@ -32417,14 +32417,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41879",
       "source_text": "<p>President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: <a href=\"https://www.youtube.com/watch?v=Oh05NJy_SaM\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=Oh05NJy_Sa</span><span class=\"invisible\">M</span></a></p>",
       "published": "Thu, 24 Sep 2026 19:32:20 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-24T20:35:43.746571Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-24T20:45:27.294912Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41879",
       "first_seen": "2026-09-24T20:35:43.746528Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:President Trump Gives the President of China a Tour of Marine One and the South Lawn Helipad: \nhttps://www.youtube.com/watch?v=Oh05NJy_SaM",
-      "next_retry_at": "2026-09-24T20:40:43.746580Z",
+      "next_retry_at": "2026-09-24T20:55:27.294926Z",
       "truth_social_id": "117327681306671844"
     }
   }
