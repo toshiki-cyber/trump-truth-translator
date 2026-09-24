@@ -3110,7 +3110,10 @@
     "truth:117325992695243662",
     "https://www.trumpstruth.org/statuses/41861",
     "truth:117326000312372207",
-    "https://www.trumpstruth.org/statuses/41864"
+    "https://www.trumpstruth.org/statuses/41864",
+    "fp:I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! Preside",
+    "truth:117326000129865390",
+    "https://www.trumpstruth.org/statuses/41865"
   ],
   "posts": {
     "truth:117105409609794697": {
@@ -17290,6 +17293,24 @@
       "failure_reason": null,
       "truth_social_id": "117326000312372207",
       "translation": ""
+    },
+    "truth:117326000129865390": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41865",
+      "source_text": "<p>I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT</p>",
+      "published": "Thu, 24 Sep 2026 12:24:47 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-24T14:45:31.551013Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41865",
+      "first_seen": "2026-09-24T14:30:26.389972Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! Preside",
+      "truth_social_id": "117326000129865390",
+      "source_fingerprint": "fp:I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! Preside",
+      "media_identity": "attachment:117326000129865390:",
+      "translation": "昨日、飛行場で習主席と会った。彼は強く、活力があり、そして健康そうに見える。これまで以上だ。もちろん、彭麗媛夫人は美しい！大統領DJT"
     },
     "truth:117325694783376982": {
       "post_status": "DISCOVERED",
@@ -32284,22 +32305,6 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
-    },
-    "truth:117326000129865390": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41865",
-      "source_text": "<p>I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! President DJT</p>",
-      "published": "Thu, 24 Sep 2026 12:24:47 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T14:35:28.110112Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41865",
-      "first_seen": "2026-09-24T14:30:26.389972Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I met President Xi at the plane (Airport!) yesterday and he looks strong, vibrant, and fit - Better than ever. Madam Xi, of course, BEAUTIFUL! Preside",
-      "next_retry_at": "2026-09-24T14:45:28.110129Z",
-      "truth_social_id": "117326000129865390"
     },
     "truth:117326044871082645": {
       "post_status": "RETRY",
