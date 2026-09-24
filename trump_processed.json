@@ -3091,28 +3091,11 @@
     "truth:117323155721195611",
     "https://www.trumpstruth.org/statuses/41854",
     "truth:117323511508375196",
-    "https://www.trumpstruth.org/statuses/41856"
+    "https://www.trumpstruth.org/statuses/41856",
+    "truth:117325694783376982",
+    "https://www.trumpstruth.org/statuses/41857"
   ],
   "posts": {
-    "truth:117104914617209484": {
-      "post_status": "POSTED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/40890",
-      "source_text": "<p>Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT</p>",
-      "published": "Sun, 16 Aug 2026 11:19:50 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-16T11:25:41.660169Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40890",
-      "source_fingerprint": "fp:Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
-      "media_identity": "attachment:117104914617209484:b067a959faff6a30.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
-      "truth_social_id": "117104914617209484",
-      "allow_text_fallback": true,
-      "fallback_policy_version": 1,
-      "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/104/913/508/448/565/original/b067a959faff6a30.mp4",
-      "translation": "ジョージ、この素晴らしい軍事複合施設/バルルームに関するいくつかの素晴らしいアイデアをありがとう！大統領DJT"
-    },
     "truth:116947242320441506": {
       "post_status": "POSTED",
       "media_state": "INVALID",
@@ -17467,6 +17450,21 @@
       "source_fingerprint": "fp:The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridi",
       "media_identity": "attachment:117323155721195611:",
       "translation": "ホワイトハウスまたは私が、ワシントンD.C.のエイブラハム・リンカーン大統領が暗殺されたフォード劇場に自分の名前を付けたいという話は、ばかげた嘘だ。これはフェイクニュースだ！こんな悲劇的な場所に名前を付けたいと思う者がいるだろうか？民主党員たちは重篤なトランプせん妄症候群に苦しんでいる。彼らは嘘に嘘を重ねる低劣な敗者であり、このフォード劇場の詐欺的主張は、私を信用失墜させ、貶めようとする彼ら絶え間ない悪質な虚偽の単なる別の一例に過ぎない。この件へのご注視をいただき、ありがとうございます。ドナルド・J・トランプ大統領"
+    },
+    "truth:117325694783376982": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41857",
+      "source_text": "<p></p>",
+      "published": "Thu, 24 Sep 2026 11:07:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T12:30:38.394355Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41857",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117325694783376982:7071d8c321e91d1a.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117325694783376982",
+      "translation": ""
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32289,6 +32287,66 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-24T02:45:33.306939Z"
+    },
+    "truth:117325728133569564": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41858",
+      "source_text": "<p>The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who would want that? I don’t! It is FAKE NEWS started by MSDNC AND CNN.</p>",
+      "published": "Thu, 24 Sep 2026 11:15:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T12:30:35.916098Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41858"
+    },
+    "truth:117325763597478758": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41859",
+      "source_text": "<p>A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT</p>",
+      "published": "Thu, 24 Sep 2026 11:24:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T12:30:35.916032Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41859"
+    },
+    "truth:117325981350058861": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41860",
+      "source_text": "<p>The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “President Donald J. Trump.” Shouldn’t be allowed to happen. Our Country is desperately seeking a Free and Fair Press! President DJT</p>",
+      "published": "Thu, 24 Sep 2026 12:20:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T12:30:35.915961Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41860"
+    },
+    "truth:117325987378356876": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41863",
+      "source_text": "<p></p>",
+      "published": "Thu, 24 Sep 2026 12:21:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T12:30:35.915894Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41863"
+    },
+    "truth:117325988723052373": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41862",
+      "source_text": "<p></p>",
+      "published": "Thu, 24 Sep 2026 12:21:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T12:30:35.915806Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41862"
+    },
+    "truth:117325992695243662": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41861",
+      "source_text": "<p></p>",
+      "published": "Thu, 24 Sep 2026 12:22:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T12:30:35.915720Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41861"
     }
   }
 }
