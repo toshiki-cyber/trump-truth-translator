@@ -3106,69 +3106,11 @@
     "https://www.trumpstruth.org/statuses/41859",
     "fp:The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “Presiden",
     "truth:117325981350058861",
-    "https://www.trumpstruth.org/statuses/41860"
+    "https://www.trumpstruth.org/statuses/41860",
+    "truth:117325992695243662",
+    "https://www.trumpstruth.org/statuses/41861"
   ],
   "posts": {
-    "truth:117105403616486905": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40892",
-      "source_text": "<p>Trump wins legal battle to keep cheap imports subject to tariffs: <a href=\"https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/13/trump-de-</span><span class=\"invisible\">minimis-tariff-court</span></a></p>",
-      "published": "Sun, 16 Aug 2026 13:24:11 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-16T14:10:39.627543Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40892",
-      "first_seen": "2026-08-16T13:25:43.860501Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump wins legal battle to keep cheap imports subject to tariffs: \nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-      "truth_social_id": "117105403616486905",
-      "source_fingerprint": "fp:Trump wins legal battle to keep cheap imports subject to tariffs: \nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-      "media_identity": "attachment:117105403616486905:",
-      "translation": "トランプ、安価な輸入品への関税適用を維持する法廷戦で勝利：\nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bw4aqzkef",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt7bw4aqzkef",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ、安価な輸入品への関税適用を維持する法廷戦で勝利：\nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-        "createdAt": "2026-08-16T13:45:46.208054Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 88,
-              "byteEnd": 150
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-            "title": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bw4aqzkef",
-          "rkey": "3mt7bw4aqzkef"
-        }
-      ]
-    },
     "truth:117105409609794697": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17385,6 +17327,21 @@
       "source_fingerprint": "fp:The Ford’s Theatre Lie is just another example of how the Fake News Media and the Dumocrats conspire together to make up false stories about “Presiden",
       "media_identity": "attachment:117325981350058861:",
       "translation": "フォード劇場の嘘は、フェイクニュースメディアと民主党がドナルド・J・トランプ「大統領」について虚偽のストーリーを作り上げるために共謀する方法の、もう一つの典型例に過ぎない。こんなことが許されるべきではない。我が国は自由で公正なプレスを切望している!トランプ大統領"
+    },
+    "truth:117325992695243662": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41861",
+      "source_text": "<p></p>",
+      "published": "Thu, 24 Sep 2026 12:22:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-24T13:10:42.870724Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41861",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117325992695243662:212dc375559dd4f3-f3643fff8064.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117325992695243662",
+      "translation": ""
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32301,16 +32258,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-24T12:55:30.696919Z"
-    },
-    "truth:117325992695243662": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41861",
-      "source_text": "<p></p>",
-      "published": "Thu, 24 Sep 2026 12:22:54 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-24T12:30:35.915720Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41861"
     }
   }
 }
