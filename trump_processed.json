@@ -3127,77 +3127,12 @@
     "https://www.trumpstruth.org/statuses/41878",
     "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
     "truth:117327643319552969",
-    "https://www.trumpstruth.org/statuses/41877"
+    "https://www.trumpstruth.org/statuses/41877",
+    "fp:Silent Drill Platoon Review with the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=LliHi0rYUY0",
+    "truth:117327644146401995",
+    "https://www.trumpstruth.org/statuses/41876"
   ],
   "posts": {
-    "truth:117105416814805578": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40897",
-      "source_text": "<p>Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals: <a href=\"https://nypost.com/2026/08/12/us-news/feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/12/us-news/</span><span class=\"invisible\">feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/</span></a></p>",
-      "published": "Sun, 16 Aug 2026 13:27:33 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-16T14:50:55.922210Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40897",
-      "first_seen": "2026-08-16T13:35:42.365793Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals: \nhttps://nypost.com/2026/08/12/us-news/fed",
-      "truth_social_id": "117105416814805578",
-      "source_fingerprint": "fp:Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals: \nhttps://nypost.com/2026/08/12/us-news/fed",
-      "media_identity": "attachment:117105416814805578:",
-      "translation": "連邦当局がニューヨーク市の詐欺スキームを摘発、アメリカ人と中国籍者の間の数百件の偽装結婚を仲介していた：\nhttps://nypost.com/2026/08/12/us-news/feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c44cpwcig",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt7c44cpwcig",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "連邦当局がニューヨーク市の詐欺スキームを摘発、アメリカ人と中国籍者の間の数百件の偽装結婚を仲介していた：\nhttps://nypost.com/2026/08/12/us-news/feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/",
-        "createdAt": "2026-08-16T14:45:44.044911Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 157,
-              "byteEnd": 301
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://nypost.com/2026/08/12/us-news/feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://nypost.com/2026/08/12/us-news/feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/",
-            "title": "Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals",
-            "description": "Federal prosecutors announced charges Wednesday against 10 defendants accused of operating a decade-long marriage fraud scheme that resulted in around 1,000 sham weddings",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreighqho4encnmlygqfayfbo5gpbfnonqyrpm5og5xpnf4u63gjfeua"
-              },
-              "mimeType": "image/jpeg",
-              "size": 199417
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7c44cpwcig",
-          "rkey": "3mt7c44cpwcig"
-        }
-      ]
-    },
     "truth:117105414445736560": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17266,6 +17201,24 @@
       "source_fingerprint": "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
       "media_identity": "attachment:117327643319552969:",
       "translation": "トランプ大統領と中国の主席が演説を行う：\nhttps://www.youtube.com/watch?v=KroMEOZ8oFo"
+    },
+    "truth:117327644146401995": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41876",
+      "source_text": "<p>Silent Drill Platoon Review with the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=LliHi0rYUY0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=LliHi0rYUY</span><span class=\"invisible\">0</span></a></p>",
+      "published": "Thu, 24 Sep 2026 19:22:53 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-24T21:00:35.503337Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41876",
+      "first_seen": "2026-09-24T20:30:26.137864Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Silent Drill Platoon Review with the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=LliHi0rYUY0",
+      "truth_social_id": "117327644146401995",
+      "source_fingerprint": "fp:Silent Drill Platoon Review with the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=LliHi0rYUY0",
+      "media_identity": "attachment:117327644146401995:",
+      "translation": "中国の国家主席と彭麗媛夫人との静粛な儀仗隊の観閲：\nhttps://www.youtube.com/watch?v=LliHi0rYUY0"
     },
     "truth:117325694783376982": {
       "post_status": "DISCOVERED",
@@ -32260,22 +32213,6 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
-    },
-    "truth:117327644146401995": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41876",
-      "source_text": "<p>Silent Drill Platoon Review with the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=LliHi0rYUY0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=LliHi0rYUY</span><span class=\"invisible\">0</span></a></p>",
-      "published": "Thu, 24 Sep 2026 19:22:53 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T20:35:42.919575Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41876",
-      "first_seen": "2026-09-24T20:30:26.137864Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Silent Drill Platoon Review with the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=LliHi0rYUY0",
-      "next_retry_at": "2026-09-24T20:45:42.919593Z",
-      "truth_social_id": "117327644146401995"
     },
     "truth:117327644914730355": {
       "post_status": "RETRY",
