@@ -3100,69 +3100,12 @@
     "https://www.trumpstruth.org/statuses/41862",
     "fp:The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who woul",
     "truth:117325728133569564",
-    "https://www.trumpstruth.org/statuses/41858"
+    "https://www.trumpstruth.org/statuses/41858",
+    "fp:A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is C",
+    "truth:117325763597478758",
+    "https://www.trumpstruth.org/statuses/41859"
   ],
   "posts": {
-    "truth:117105405312110908": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40891",
-      "source_text": "<p>Michael Kratsios: The case for overhauling American science: <a href=\"https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">economist.com/by-invitation/20</span><span class=\"invisible\">26/08/13/the-case-for-overhauling-american-science</span></a></p>",
-      "published": "Sun, 16 Aug 2026 13:24:37 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-16T13:55:56.573655Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40891",
-      "first_seen": "2026-08-16T13:25:44.631856Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Michael Kratsios: The case for overhauling American science: \nhttps://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-sci",
-      "truth_social_id": "117105405312110908",
-      "source_fingerprint": "fp:Michael Kratsios: The case for overhauling American science: \nhttps://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-sci",
-      "media_identity": "attachment:117105405312110908:",
-      "translation": "マイケル・クラッツィオス：アメリカの科学を抜本的に改革する理由：\nhttps://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bwuwem2yx",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mt7bwuwem2yx",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "マイケル・クラッツィオス：アメリカの科学を抜本的に改革する理由：\nhttps://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-        "createdAt": "2026-08-16T13:50:40.556381Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 97,
-              "byteEnd": 189
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-            "title": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mt7bwuwem2yx",
-          "rkey": "3mt7bwuwem2yx"
-        }
-      ]
-    },
     "truth:117105406584026573": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17471,6 +17414,24 @@
       "source_fingerprint": "fp:The Dumocrats make up lie after lie. The new one is that I want Ford’s Theater named after me. That’s where Abraham Lincoln was assassinated. Who woul",
       "media_identity": "attachment:117325728133569564:",
       "translation": "ダム民主党員は次々と嘘をついている。新たな嘘は、私がフォード劇場を自分の名前に変えたいということだ。そこはエイブラハム・リンカーン大統領が暗殺された場所だ。誰がそんなことを望むだろうか？ 私は望まない！これはMSNBCとCNNが始めた偽のニュースだ。"
+    },
+    "truth:117325763597478758": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41859",
+      "source_text": "<p>A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT</p>",
+      "published": "Thu, 24 Sep 2026 11:24:38 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-24T13:00:32.964068Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41859",
+      "first_seen": "2026-09-24T12:35:29.321392Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is C",
+      "truth_social_id": "117325763597478758",
+      "source_fingerprint": "fp:A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is C",
+      "media_identity": "attachment:117325763597478758:",
+      "translation": "中国の習主席との大きな日だ。スーパーインテリジェンス（SI）は大きな議論の話題になるだろうが、私はそれを今のままにしておきたい。それが中国の立場でもある。我々のガードレールはDOJだ！大統領 DJT"
     },
     "truth:117286701272925228": {
       "post_status": "DISCOVERED",
@@ -32293,22 +32254,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-24T02:45:33.306939Z"
-    },
-    "truth:117325763597478758": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41859",
-      "source_text": "<p>A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is China’s position also. Our guardrail is the DOJ! President DJT</p>",
-      "published": "Thu, 24 Sep 2026 11:24:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T12:40:34.118347Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41859",
-      "first_seen": "2026-09-24T12:35:29.321392Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:A big day with President Xi of China. Super Intelligence (SI) will be a big topic of discussion, but I want to leave it exactly where it is. That is C",
-      "next_retry_at": "2026-09-24T12:50:34.118364Z",
-      "truth_social_id": "117325763597478758"
     },
     "truth:117325981350058861": {
       "post_status": "RETRY",
