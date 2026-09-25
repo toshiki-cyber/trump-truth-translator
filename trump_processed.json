@@ -32025,6 +32025,22 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
+    },
+    "truth:117331168888375355": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41882",
+      "source_text": "<p>God bless American Patriot and Warrior, James Copenhaver, and his incredible family. May he rest in peace!!! President DONALD J. TRUMP</p>",
+      "published": "Fri, 25 Sep 2026 10:19:16 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-25T10:30:27.555398Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41882",
+      "first_seen": "2026-09-25T10:30:27.555354Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:God bless American Patriot and Warrior, James Copenhaver, and his incredible family. May he rest in peace!!! President DONALD J. TRUMP",
+      "next_retry_at": "2026-09-25T10:35:27.555407Z",
+      "truth_social_id": "117331168888375355"
     }
   }
 }
