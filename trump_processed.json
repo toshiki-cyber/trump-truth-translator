@@ -32072,6 +32072,22 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
+    },
+    "truth:117328536706468024": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41881",
+      "source_text": "<p>Jim Copenhaver, a true American Patriot, has passed away — A tremendous loss! More than two years ago in Butler, Pennsylvania, a crazed gunman attempted to stifle our America First Movement. Instead, Jim and so many other wonderful Patriots who love our Country, stood united in defense of our shared values of Freedom, Liberty, and Justice. After being wounded while protecting his family, Jim showed tremendous bravery, courageously continuing to FIGHT, FIGHT, FIGHT, and maintaining a positive spirit despite unimaginable hardships. His indelible legacy of love and devotion will forever endure. Our hearts and prayers are with the Copenhaver family, especially his incredible wife Marianne. God bless you all! President DONALD J. TRUMP</p>",
+      "published": "Thu, 24 Sep 2026 23:09:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-25T00:30:32.384919Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41881",
+      "first_seen": "2026-09-25T00:30:32.384882Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Jim Copenhaver, a true American Patriot, has passed away — A tremendous loss! More than two years ago in Butler, Pennsylvania, a crazed gunman attempt",
+      "next_retry_at": "2026-09-25T00:35:32.384927Z",
+      "truth_social_id": "117328536706468024"
     }
   }
 }
