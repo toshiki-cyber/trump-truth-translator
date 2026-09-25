@@ -32052,6 +32052,54 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
+    },
+    "truth:117332704655075384": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41886",
+      "source_text": "<p>Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasury, and that’s where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP</p>",
+      "published": "Fri, 25 Sep 2026 16:49:50 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-25T18:30:24.953821Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41886",
+      "first_seen": "2026-09-25T18:30:24.953786Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn’t want to. Number Two, he’s doing such a great job at Treasur",
+      "next_retry_at": "2026-09-25T18:35:24.953830Z",
+      "truth_social_id": "117332704655075384"
+    },
+    "truth:117332812545704813": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41887",
+      "source_text": "<p>President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florida. Much has been, and will be, accomplished. I look forward to our next meeting! President DONALD J. TRUMP</p>",
+      "published": "Fri, 25 Sep 2026 17:17:16 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-25T18:30:25.294658Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41887",
+      "first_seen": "2026-09-25T18:30:25.294624Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U",
+      "next_retry_at": "2026-09-25T18:35:25.294667Z",
+      "truth_social_id": "117332812545704813"
+    },
+    "truth:117333027652824076": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41888",
+      "source_text": "<p>Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Party of New York State. Jerry is MAGA all the way, and has dedicated his life to the Conservative Party, and the ONCE GREAT STATE OF NEW YORK (IT CAN BE GREAT AGAIN!). I know Jerry will continue to do a fantastic job, and secure many Victories for New York Conservatives and Republicans in the 2026 Midterm Elections, and beyond. THANK YOU NEW YORK — MAGA2026! President DONALD J. TRUMP</p>",
+      "published": "Fri, 25 Sep 2026 18:11:59 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-25T18:30:25.637847Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41888",
+      "first_seen": "2026-09-25T18:30:25.637811Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanimous Re-Election as Chairman of the Conservative Pa",
+      "next_retry_at": "2026-09-25T18:35:25.637856Z",
+      "truth_social_id": "117333027652824076"
     }
   }
 }
