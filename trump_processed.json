@@ -32031,6 +32031,22 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
+    },
+    "truth:117331749278785253": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41885",
+      "source_text": "<p>Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT</p>",
+      "published": "Fri, 25 Sep 2026 12:46:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-25T14:30:30.039590Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41885",
+      "first_seen": "2026-09-25T14:30:30.039549Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to ",
+      "next_retry_at": "2026-09-25T14:35:30.039599Z",
+      "truth_social_id": "117331749278785253"
     }
   }
 }
