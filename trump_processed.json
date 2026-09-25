@@ -3145,27 +3145,12 @@
     "https://www.trumpstruth.org/statuses/41881",
     "fp:God bless American Patriot and Warrior, James Copenhaver, and his incredible family. May he rest in peace!!! President DONALD J. TRUMP",
     "truth:117331168888375355",
-    "https://www.trumpstruth.org/statuses/41882"
+    "https://www.trumpstruth.org/statuses/41882",
+    "fp:https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html",
+    "truth:117329471295010416",
+    "https://www.trumpstruth.org/statuses/41883"
   ],
   "posts": {
-    "truth:117107211893196124": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40906",
-      "source_text": "<p>Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middle East is coming together, and how Countries will finally be able to defend themselves in a more meaningful way. Congratulations to the Great Leadership of the three Nations mentioned. THIS IS A BIG, BOLD, AND IMPORTANT FIRST STEP — WOW! President DONALD J. TRUMP</p>",
-      "published": "Sun, 16 Aug 2026 21:04:03 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-16T21:50:42.858138Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40906",
-      "first_seen": "2026-08-16T21:05:40.480261Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middl",
-      "truth_social_id": "117107211893196124",
-      "source_fingerprint": "fp:Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middl",
-      "media_identity": "attachment:117107211893196124:",
-      "translation": "サウジアラビア、トルコ、パキスタンが最近になってようやくメッカ共同防衛協定に署名したことを見て非常に喜んでいる。中東がまとまりつつあり、各国がより実質的な方法で自らを防衛できるようになることを示している。言及した三カ国の偉大なリーダーシップに祝辞を送る。これは大きく、大胆で、極めて重要な第一歩である――素晴らしい！ドナルド・J・トランプ大統領"
-    },
     "truth:117108144716925846": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17034,6 +17019,24 @@
       "source_fingerprint": "fp:God bless American Patriot and Warrior, James Copenhaver, and his incredible family. May he rest in peace!!! President DONALD J. TRUMP",
       "media_identity": "attachment:117331168888375355:",
       "translation": "神はアメリカの愛国者にして戦士、ジェームス・コペンハーバーと彼の素晴らしい家族に祝福を与えよ。彼が安らかに眠らんことを！！！大統領 ドナルド・J・トランプ"
+    },
+    "truth:117329471295010416": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41884",
+      "source_text": "<p><a href=\"https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">census.gov/newsroom/press-rele</span><span class=\"invisible\">ases/2026/income-poverty-health-insurance-coverage.html</span></a></p>",
+      "published": "Fri, 25 Sep 2026 03:07:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-25T12:50:26.689632Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41883",
+      "first_seen": "2026-09-25T12:30:29.563890Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html",
+      "truth_social_id": "117329471295010416",
+      "source_fingerprint": "fp:https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html",
+      "media_identity": "attachment:117329471295010416:",
+      "translation": "https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html"
     },
     "truth:117325694783376982": {
       "post_status": "DISCOVERED",
@@ -32028,22 +32031,6 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
-    },
-    "truth:117329471295010416": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41884",
-      "source_text": "<p><a href=\"https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">census.gov/newsroom/press-rele</span><span class=\"invisible\">ases/2026/income-poverty-health-insurance-coverage.html</span></a></p>",
-      "published": "Fri, 25 Sep 2026 03:07:33 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-25T12:45:26.814181Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41883",
-      "first_seen": "2026-09-25T12:30:29.563890Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html",
-      "next_retry_at": "2026-09-25T12:45:29.674491Z",
-      "truth_social_id": "117329471295010416"
     }
   }
 }
