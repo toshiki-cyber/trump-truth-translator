@@ -3148,7 +3148,10 @@
     "https://www.trumpstruth.org/statuses/41882",
     "fp:https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html",
     "truth:117329471295010416",
-    "https://www.trumpstruth.org/statuses/41883"
+    "https://www.trumpstruth.org/statuses/41883",
+    "fp:Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to ",
+    "truth:117331749278785253",
+    "https://www.trumpstruth.org/statuses/41885"
   ],
   "posts": {
     "truth:117108144716925846": {
@@ -17019,6 +17022,24 @@
       "source_fingerprint": "fp:God bless American Patriot and Warrior, James Copenhaver, and his incredible family. May he rest in peace!!! President DONALD J. TRUMP",
       "media_identity": "attachment:117331168888375355:",
       "translation": "神はアメリカの愛国者にして戦士、ジェームス・コペンハーバーと彼の素晴らしい家族に祝福を与えよ。彼が安らかに眠らんことを！！！大統領 ドナルド・J・トランプ"
+    },
+    "truth:117331749278785253": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41885",
+      "source_text": "<p>Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT</p>",
+      "published": "Fri, 25 Sep 2026 12:46:52 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-25T14:50:30.527933Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41885",
+      "first_seen": "2026-09-25T14:30:30.039549Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to ",
+      "truth_social_id": "117331749278785253",
+      "source_fingerprint": "fp:Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to ",
+      "media_identity": "attachment:117331749278785253:",
+      "translation": "習主席との非常に生産的な会談があった。米国と中国の両国にとって極めて有益だ。途方もない成果が生まれるだろう。ほぼ全員と同様に、習主席も不正確で不十分に名付けられた人工知能を、より正確で重要な名前である「超知能」と呼ぶことに賛同していた。それは「素晴らしい」ということだ。昨夜も全員がこれに同意した。トランプ大統領より"
     },
     "truth:117329471295010416": {
       "post_status": "DISCOVERED",
@@ -32031,22 +32052,6 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
-    },
-    "truth:117331749278785253": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41885",
-      "source_text": "<p>Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accurate and important name, SUPER INTELLIGENCE. That would be “SUPER!” Everyone last night agreed, also. President DJT</p>",
-      "published": "Fri, 25 Sep 2026 12:46:52 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-25T14:35:32.879205Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41885",
-      "first_seen": "2026-09-25T14:30:30.039549Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to ",
-      "next_retry_at": "2026-09-25T14:45:32.879222Z",
-      "truth_social_id": "117331749278785253"
     }
   }
 }
