@@ -3162,27 +3162,11 @@
     "truth:117332812545704813",
     "https://www.trumpstruth.org/statuses/41887",
     "truth:117334093403653279",
-    "https://www.trumpstruth.org/statuses/41889"
+    "https://www.trumpstruth.org/statuses/41889",
+    "truth:117334536526706403",
+    "https://www.trumpstruth.org/statuses/41891"
   ],
   "posts": {
-    "truth:117110334410901963": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40914",
-      "source_text": "<p>The number one Goal is, and always will be, that Iran cannot have, in any way, shape, or form, a Nuclear Weapon. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Mon, 17 Aug 2026 10:18:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-17T10:45:45.445189Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40914",
-      "first_seen": "2026-08-17T10:20:43.069682Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:The number one Goal is, and always will be, that Iran cannot have, in any way, shape, or form, a Nuclear Weapon. Thank you for your attention to this ",
-      "truth_social_id": "117110334410901963",
-      "source_fingerprint": "fp:The number one Goal is, and always will be, that Iran cannot have, in any way, shape, or form, a Nuclear Weapon. Thank you for your attention to this ",
-      "media_identity": "attachment:117110334410901963:",
-      "translation": "イランが核兵器を保有することはできない、という目標が第一の目標であり、これからもずっとそうであり続ける。この重要な問題にご注目いただきありがとうございます！ドナルド・J・トランプ大統領"
-    },
     "truth:117110479507145029": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16928,6 +16912,21 @@
       "media_identity": "attachment:117334093403653279:312d3c62b2459957-75946b135ad8.mov",
       "failure_reason": null,
       "truth_social_id": "117334093403653279",
+      "translation": ""
+    },
+    "truth:117334536526706403": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41891",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:35:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:38.210479Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41891",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117334536526706403:6016062757dafae7-fc22d5f22f79.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117334536526706403",
       "translation": ""
     },
     "truth:117329471295010416": {
@@ -31941,6 +31940,176 @@
       "published": "Thu, 24 Sep 2026 13:18:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-09-24T14:30:25.488595Z"
+    },
+    "truth:117334539738676098": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41890",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:36:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.013872Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41890"
+    },
+    "truth:117334540969398393": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41893",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:36:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.013748Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41893"
+    },
+    "truth:117334553306774218": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41892",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:39:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.013627Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41892"
+    },
+    "truth:117334572312502332": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41895",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:44:48 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.013502Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41895"
+    },
+    "truth:117334581279782762": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41894",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:47:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.013349Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41894"
+    },
+    "truth:117334585893103406": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41897",
+      "source_text": "<p>This is where we send our Killers, Drug Dealers, and Thugs. It’s why Murder, and other Crimes in America, is at Record Lows! President DONALD J. TRUMP</p>",
+      "published": "Sat, 26 Sep 2026 00:48:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.013211Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41897"
+    },
+    "truth:117334592653744426": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41896",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:49:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.013083Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41896"
+    },
+    "truth:117334597869715991": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41900",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:51:18 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.012947Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41900"
+    },
+    "truth:117334600981102955": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41899",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:52:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.012775Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41899"
+    },
+    "truth:117334607798644557": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41898",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:53:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.012630Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41898"
+    },
+    "truth:117334612403862517": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41907",
+      "source_text": "<p>This is where we send our Killers, Drug Dealers, and Thugs. It’s why Murder, and other Crimes in America, is at Record Lows! President DONALD J. TRUMP</p>",
+      "published": "Sat, 26 Sep 2026 00:55:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.012505Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41907"
+    },
+    "truth:117334612644472968": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41906",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:55:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.012383Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41906"
+    },
+    "truth:117334613964287437": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41905",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:55:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.012260Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41905"
+    },
+    "truth:117334614580064997": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41904",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:55:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.012127Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41904"
+    },
+    "truth:117334615137251467": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41903",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:55:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.011981Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41903"
+    },
+    "truth:117334615895357863": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41902",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:55:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.011856Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41902"
+    },
+    "truth:117334616518733576": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41901",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 00:56:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T02:30:25.011724Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41901"
     }
   }
 }
