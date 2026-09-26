@@ -3225,27 +3225,11 @@
     "https://www.trumpstruth.org/statuses/41927",
     "fp:FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
     "truth:117337317276437965",
-    "https://www.trumpstruth.org/statuses/41926"
+    "https://www.trumpstruth.org/statuses/41926",
+    "truth:117337552716803527",
+    "https://www.trumpstruth.org/statuses/41937"
   ],
   "posts": {
-    "truth:117118656507718365": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40971",
-      "source_text": "<p>I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for the District of Alaska. Kyle is currently a Magistrate Judge on the Federal Court in Alaska, and previously worked for many years as a Federal Prosecutor in Alaska and California, and as a Judge Advocate in the U.S. Army JAG Corps. He is a Graduate of the University of Virginia School of Law and Centre College. The people of Alaska are lucky to have a Public Servant and Patriot like Kyle on the Bench. Congratulations Kyle! President DONALD J. TRUMP</p>",
-      "published": "Tue, 18 Aug 2026 21:34:34 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-18T22:25:53.737540Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40971",
-      "first_seen": "2026-08-18T21:35:38.993902Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for ",
-      "truth_social_id": "117118656507718365",
-      "source_fingerprint": "fp:I have wonderful news for the Great State of Alaska — I am honored to nominate Kyle Reardon to serve as Judge on the United States District Court for ",
-      "media_identity": "attachment:117118656507718365:",
-      "translation": "アラスカ州の皆さんに素晴らしいニュースがある。私はカイル・リアドンをアラスカ地区連邦地裁の判事に指名する栄誉に浴している。カイルは現在、アラスカの連邦地裁の判事補を務めており、以前はアラスカとカリフォルニアで長年連邦検察官として働き、米陸軍法務部隊で法務官として勤務していた。バージニア大学ロースクールとセントレ・カレッジの卒業生である。アラスカの人々はカイルのような公務員で愛国者がベンチにいることは幸運だ。おめでとう、カイル！ドナルド・J・トランプ大統領"
-    },
     "truth:117118710370504523": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16882,6 +16866,21 @@
       "media_identity": "attachment:117337317276437965:",
       "translation": "フェイクニュースはホワイトハウスで許可されるべきではない!!! 長すぎる間、続きすぎており、わが国に莫大な代償をもたらしている。トランプ大統領"
     },
+    "truth:117337552716803527": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41937",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 13:22:46 +0000",
+      "updated_at": "2026-09-26T18:01:08.118855Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41937",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117337552716803527:fea99eced9fc1c06-b26a95783c83.mov",
+      "truth_social_id": "117337552716803527",
+      "failure_reason": null,
+      "retry_count": 0,
+      "translation": ""
+    },
     "truth:117335091912879320": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16889,7 +16888,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T17:55:26.363212Z",
+      "updated_at": "2026-09-26T18:00:32.315184Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32208,21 +32207,6 @@
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/337/539/289/677/754/original/25056e0e631b3a63.mp4",
       "truth_social_id": "117337545332163657",
       "next_retry_at": "2026-09-26T18:15:28.282402Z"
-    },
-    "truth:117337552716803527": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41937",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 13:22:46 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-26T17:20:28.781901Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41937",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117337552716803527:fea99eced9fc1c06.mp4",
-      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/337/551/718/271/455/original/fea99eced9fc1c06.mp4",
-      "truth_social_id": "117337552716803527",
-      "next_retry_at": "2026-09-26T17:25:28.781920Z"
     },
     "truth:117337554252680986": {
       "post_status": "DISCOVERED",
