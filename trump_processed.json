@@ -31906,14 +31906,19 @@
       "next_retry_at": "2026-09-26T02:40:33.560285Z"
     },
     "truth:117334553306774218": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41892",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 00:39:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T02:30:25.013627Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41892"
+      "retry_count": 1,
+      "updated_at": "2026-09-26T02:45:35.954829Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41892",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117334553306774218:b69997ac79a88322-afde430f1a60.mov",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 353.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/334/544/951/617/092/original/b69997ac79a88322.mp4",
+      "truth_social_id": "117334553306774218",
+      "next_retry_at": "2026-09-26T02:50:35.954868Z"
     },
     "truth:117334572312502332": {
       "post_status": "DISCOVERED",
