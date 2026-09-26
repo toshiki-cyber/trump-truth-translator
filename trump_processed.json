@@ -3238,24 +3238,12 @@
     "truth:117337535044080608",
     "https://www.trumpstruth.org/statuses/41932",
     "truth:117338817881626356",
-    "https://www.trumpstruth.org/statuses/41946"
+    "https://www.trumpstruth.org/statuses/41946",
+    "fp:At the Tennessee vs. Texas Game! President DONALD J. TRUMP",
+    "truth:117338872385629287",
+    "https://www.trumpstruth.org/statuses/41948"
   ],
   "posts": {
-    "truth:117119023541992974": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40988",
-      "source_text": "<p></p>",
-      "published": "Tue, 18 Aug 2026 23:07:55 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-19T00:10:42.733485Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40988",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117119023541992974:763810e9aded1d00.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117119023541992974",
-      "translation": ""
-    },
     "truth:117119024196042249": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16863,6 +16851,22 @@
       "truth_social_id": "117338817881626356",
       "translation": ""
     },
+    "truth:117338872385629287": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41948",
+      "source_text": "<p>At the Tennessee vs. Texas Game! President DONALD J. TRUMP</p>",
+      "published": "Sat, 26 Sep 2026 18:58:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T20:40:35.051602Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41948",
+      "source_fingerprint": "fp:At the Tennessee vs. Texas Game! President DONALD J. TRUMP",
+      "media_identity": "attachment:117338872385629287:810735b1071d008e-2a3665be20e1.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:At the Tennessee vs. Texas Game! President DONALD J. TRUMP",
+      "truth_social_id": "117338872385629287",
+      "translation": "テネシー対テキサスの試合に参加中！ドナルド・J・トランプ大統領"
+    },
     "truth:117335091912879320": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16870,7 +16874,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T20:35:31.801717Z",
+      "updated_at": "2026-09-26T20:40:24.266793Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32264,16 +32268,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/337/560/717/692/878/original/21b3d515d18b0160.mp4",
       "truth_social_id": "117337563385196014",
       "next_retry_at": "2026-09-26T19:00:30.458955Z"
-    },
-    "truth:117338872385629287": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41948",
-      "source_text": "<p>At the Tennessee vs. Texas Game! President DONALD J. TRUMP</p>",
-      "published": "Sat, 26 Sep 2026 18:58:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T20:30:34.121200Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41948"
     },
     "truth:117338873310369293": {
       "post_status": "DISCOVERED",
