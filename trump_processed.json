@@ -16818,7 +16818,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T23:00:30.521877Z",
+      "updated_at": "2026-09-26T23:05:27.375906Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -31988,19 +31988,19 @@
       "next_retry_at": "2026-09-26T03:40:31.703567Z"
     },
     "truth:117335207360789365": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/41913",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 03:26:18 +0000",
-      "updated_at": "2026-09-26T23:00:30.521536Z",
+      "updated_at": "2026-09-26T23:05:33.053182Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41969",
       "source_fingerprint": null,
       "media_identity": "attachment:117335207360789365:7cd232417e4cbe9d-1b6683a2b795.mov",
       "truth_social_id": "117335207360789365",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 386.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/335/196/397/368/285/original/7cd232417e4cbe9d.mp4",
-      "retry_count": 0,
-      "next_retry_at": "2026-09-26T23:00:33.988777Z"
+      "retry_count": 1,
+      "next_retry_at": "2026-09-26T23:10:33.053196Z"
     },
     "truth:117337515298516566": {
       "post_status": "RETRY",
