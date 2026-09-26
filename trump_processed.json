@@ -16889,7 +16889,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T16:25:24.886945Z",
+      "updated_at": "2026-09-26T16:30:31.945083Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32165,14 +32165,19 @@
       "next_retry_at": "2026-09-26T16:40:34.698892Z"
     },
     "truth:117337541233609775": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41940",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 13:19:50 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T14:30:30.434819Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41940"
+      "retry_count": 1,
+      "updated_at": "2026-09-26T16:30:35.404014Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41940",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117337541233609775:128863f961845be2.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/337/536/619/397/578/original/128863f961845be2.mp4",
+      "truth_social_id": "117337541233609775",
+      "next_retry_at": "2026-09-26T16:35:35.404034Z"
     },
     "truth:117337544317575633": {
       "post_status": "DISCOVERED",
@@ -32283,6 +32288,16 @@
       "retry_count": 0,
       "updated_at": "2026-09-26T14:30:30.433418Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41941"
+    },
+    "truth:117338166998410817": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/41945",
+      "source_text": "<p>Another Fake Story is that a very close friend of mine, a man I endorsed very early, Byron Donalds, is taking me off his website and Campaign materials. I won Florida by Millions of Votes, getting the Highest Vote Tally in History — Three times! My numbers are better now than they were at the Election. The story started with the Woke and Dying USA Today, and then, of course, it permeated to CNN, The Washington Post, The Guardian, Newsweek, The New York Times, ABC, NBC, Forbes, and others — and I am more popular in Florida today, even more than I was in the last Record Breaking Election! This is the Corrupt Media Outlets trying to demean. Byron immediately put this picture out, and statements that it was not true, and greatly accelerated the fact that I have strongly Endorsed him. Two Rallies are already scheduled in Florida for Byron and, will be, as always, “SOLD OUT!” This was a Fake Story, with no sources, and the only justification for it is they want to stop my ever upward momentum. The Fake News Media been doing this for years, I call them out, but they should really be called out by the Courts, and should not be allowed to enter the White House premises, or Press Room, because they are CORRUPT and DISHONEST! It is amazing that I have succeeded so long in Politics. These are sick people that play the game, and it’s happening all over our Country. Something must be done about it. The Courts must allow us to stop this totally dishonest form of Politics. If America does not have a Free and Honest Press, it can never be truly Great Again, and I will make it my mission to call out the Hypocrisy, Dishonesty, and LIES that are being perpetrated upon the American Public! Byron Donalds has my Complete and Total Endorsement, and he is leading against a Failed and Totally Incompetent Dumocrat Candidate, David Jolly, a known Lefty Loser, and someone who does not stand for the Values of our Great Floridian Patriots. They are doing everything possible to make my beautiful “MAGA” hate Republicans when, actually, “MAGA” people are smart, and it’s just driving them closer to us! It is truly amazing that I have been able to survive for so many years, politically, getting actually more Votes (TOO BIG TO RIG!) than I even did in 2016 and 2020 (A totally Rigged Election!). God must be looking down on me! If Florida thought the story that Byron “dropped” me was true, he would lose the Election, and that would be a terrible thing because he’s going to be a fantastic Governor! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Sat, 26 Sep 2026 15:58:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-26T16:30:31.941970Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41945"
     }
   }
 }
