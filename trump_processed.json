@@ -3197,62 +3197,12 @@
     "https://www.trumpstruth.org/statuses/41916",
     "fp:Justice Department charges four aliens in Pennsylvania with election fraud: \nhttps://justthenews.com/government/federal-agencies/justice-department-ch",
     "truth:117336867875974840",
-    "https://www.trumpstruth.org/statuses/41914"
+    "https://www.trumpstruth.org/statuses/41914",
+    "fp:Fantastic news for America!\nSCOTUS reinstates Trump's voter citizenship verification rules: \nhttps://justthenews.com/government/courts-law/scotus-rein",
+    "truth:117336873800272630",
+    "https://www.trumpstruth.org/statuses/41922"
   ],
   "posts": {
-    "truth:117116198386080523": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40957",
-      "source_text": "<p></p>",
-      "published": "Tue, 18 Aug 2026 11:09:26 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-18T16:55:41.126495Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40957",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117116198386080523:96b2b0b1bf1a0511.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117116198386080523",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mte3cyt3ks4r",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mte3cyt3ks4r",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-18T16:45:44.283932Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreib3x7hbojtgjqvmrolj62g2ssfqx767nbgs266edfnq6ckmzugjuy"
-                },
-                "mimeType": "image/jpeg",
-                "size": 103336
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 808,
-                "height": 608
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mte3cyt3ks4r",
-          "rkey": "3mte3cyt3ks4r"
-        }
-      ]
-    },
     "truth:117117567655907376": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16988,6 +16938,24 @@
       "media_identity": "attachment:117336867875974840:",
       "translation": "司法省がペンシルベニア州の4人の外国人を選挙不正で起訴：\nhttps://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud"
     },
+    "truth:117336873800272630": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41922",
+      "source_text": "<p>Fantastic news for America!</p><p>SCOTUS reinstates Trump's voter citizenship verification rules: <a href=\"https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules</span></a></p>",
+      "published": "Sat, 26 Sep 2026 10:30:06 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-26T13:05:28.671540Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41922",
+      "first_seen": "2026-09-26T12:30:28.729786Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Fantastic news for America!\nSCOTUS reinstates Trump's voter citizenship verification rules: \nhttps://justthenews.com/government/courts-law/scotus-rein",
+      "truth_social_id": "117336873800272630",
+      "source_fingerprint": "fp:Fantastic news for America!\nSCOTUS reinstates Trump's voter citizenship verification rules: \nhttps://justthenews.com/government/courts-law/scotus-rein",
+      "media_identity": "attachment:117336873800272630:",
+      "translation": "アメリカにとって素晴らしいニュースだ！\n最高裁がトランプの投票者市民権確認ルールを復活させた：\nhttps://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules"
+    },
     "truth:117335091912879320": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16995,7 +16963,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T13:00:31.796617Z",
+      "updated_at": "2026-09-26T13:05:26.290946Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32193,22 +32161,6 @@
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/335/196/397/368/285/original/7cd232417e4cbe9d.mp4",
       "truth_social_id": "117335207360789365",
       "next_retry_at": "2026-09-26T15:55:28.814660Z"
-    },
-    "truth:117336873800272630": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41922",
-      "source_text": "<p>Fantastic news for America!</p><p>SCOTUS reinstates Trump's voter citizenship verification rules: <a href=\"https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules</span></a></p>",
-      "published": "Sat, 26 Sep 2026 10:30:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-26T12:35:29.562118Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41922",
-      "first_seen": "2026-09-26T12:30:28.729786Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Fantastic news for America!\nSCOTUS reinstates Trump's voter citizenship verification rules: \nhttps://justthenews.com/government/courts-law/scotus-rein",
-      "next_retry_at": "2026-09-26T12:45:29.562128Z",
-      "truth_social_id": "117336873800272630"
     },
     "truth:117336875720742753": {
       "post_status": "RETRY",
