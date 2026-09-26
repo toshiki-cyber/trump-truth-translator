@@ -16874,7 +16874,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T20:40:24.266793Z",
+      "updated_at": "2026-09-26T20:45:26.572886Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32270,24 +32270,36 @@
       "next_retry_at": "2026-09-26T19:00:30.458955Z"
     },
     "truth:117338873310369293": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41947",
       "source_text": "<p>The American People elected me to deliver HISTORIC Economic Results, and now, I have a new responsibility, reporting our incredible results because the Fake News refuses to do it.<br /> <br />S&amp;P Global reported this week that U.S. Business Growth is at its HIGHEST LEVEL IN MORE THAN FIVE YEARS and, if you take out the distorted COVID Reopening figures, the mark goes back even further.<br /> <br />What does that mean? MORE ORDERS, MORE OUTPUT, MORE AMERICAN WORKERS BEING HIRED. Manufacturing is growing, Businesses are expanding, and Demand is STRONG.<br /> <br />And there’s more: U.S. REAL MEDIAN HOUSEHOLD INCOME is now the HIGHEST EVER RECORDED. The United States Poverty Rate is at its LOWEST LEVEL ON RECORD. U.S. Goods Exports in 2026 are on pace for their HIGHEST LEVEL IN HISTORY, and Trillions and Trillions of Dollars of new Investments are pouring into the United States.<br /> <br />If anyone else were President, this would be all the Media would talk about. But because no one ever wants to give me credit, no one is talking about these Historic Numbers.<br /> <br />Business is growing. Americans are earning more money than ever before, Poverty is at its All Time Lowest Level, and Exports are surging!<br /> <br />The FAKE NEWS and DUMOCRATS hate these reports, and these Record Setting Numbers. They hate the TRUTH, and they hate the Great Success that our Country is having. Just look at the Numbers — THE BEST IN HISTORY. VOTE FOR REPUBLICAN AND “TRUMP” CANDIDATES IN THE MIDTERMS. WE HAVE ALREADY MADE AMERICA GREAT AGAIN, BUT NOW WE WILL REACH NEW LEVELS OF GREATNESS. IT IS MY HONOR TO BE YOUR PRESIDENT, DURING SUCH AN EXCITING TIME! President DONALD J. TRUMP</p>",
       "published": "Sat, 26 Sep 2026 18:58:36 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T20:30:34.121077Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41947"
+      "retry_count": 1,
+      "updated_at": "2026-09-26T20:45:27.463110Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41947",
+      "first_seen": "2026-09-26T20:45:27.463075Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The American People elected me to deliver HISTORIC Economic Results, and now, I have a new responsibility, reporting our incredible results because th",
+      "next_retry_at": "2026-09-26T20:50:27.463117Z",
+      "truth_social_id": "117338873310369293"
     },
     "truth:117338936999613227": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41949",
       "source_text": "<p>BIG DAY FOR AMERICAN AUTO WORKERS AND CAR BUYERS! I have just approved new Fuel Economy Standards that TERMINATE Sleepy Joe Biden and Pete Boot-EDGE-EDGE's ridiculous EV Mandate. The Dumocrats cost our Great Auto Manufacturers $Billions, forced Americans into cars they never wanted, and wasted Billions on Chargers that were never built.</p><p>These new Standards will take the waste out of building cars in America. That means LOWER PRICES, saving families thousands on a new, beautiful, and safe car — Far better than the Environmental Monsters that we were building heretofore. Every Manufacturer, from General Motors to Ford to Stellantis, has called me wanting to build here, and now they can!</p><p>Under my Administration, over 100 $Billion is being invested in American Autos, and that's just the beginning. The Plants are coming back, and Jobs are returning, to Michigan, Ohio, Indiana, South Carolina, and all over our Country. Thank you to our Great Secretaries of Transportation and Commerce, Sean Duffy and Howard Lutnick. AMERICA IS BACK. MAKE AMERICA GREAT AGAIN!!! President DONALD J. TRUMP</p>",
       "published": "Sat, 26 Sep 2026 19:14:48 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T20:30:34.120939Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41949"
+      "retry_count": 1,
+      "updated_at": "2026-09-26T20:45:28.066008Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41949",
+      "first_seen": "2026-09-26T20:45:28.065977Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:BIG DAY FOR AMERICAN AUTO WORKERS AND CAR BUYERS! I have just approved new Fuel Economy Standards that TERMINATE Sleepy Joe Biden and Pete Boot-EDGE-E",
+      "next_retry_at": "2026-09-26T20:50:28.066015Z",
+      "truth_social_id": "117338936999613227"
     }
   }
 }
