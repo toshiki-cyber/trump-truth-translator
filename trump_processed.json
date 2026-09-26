@@ -3188,27 +3188,12 @@
     "https://www.trumpstruth.org/statuses/41911",
     "fp:A MUST SEE ON THE CLIMATE HOAX. President DJT",
     "truth:117337288574793449",
-    "https://www.trumpstruth.org/statuses/41925"
+    "https://www.trumpstruth.org/statuses/41925",
+    "fp:Two-tiered justice: Local DAs shield noncitizens from immigration consequences: \nhttps://justthenews.com/nation/crime/two-tiered-justice-local-das-shi",
+    "truth:117336866629561228",
+    "https://www.trumpstruth.org/statuses/41915"
   ],
   "posts": {
-    "truth:117116752164653735": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/40962",
-      "source_text": "<p>There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. The Hormuz Strait is open and operating. All water mines have been removed or detonated. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Tue, 18 Aug 2026 13:30:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-18T13:55:48.865340Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40962",
-      "first_seen": "2026-08-18T13:35:43.523643Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. Th",
-      "truth_social_id": "117116752164653735",
-      "source_fingerprint": "fp:There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. Th",
-      "media_identity": "attachment:117116752164653735:",
-      "translation": "イランのイスラム共和国との話し合いや会談は進行中でもなく、予定されてもいない。海上封鎖は完全に有効のままである。ホルムズ海峡は開放され、運用されている。水中機雷はすべて撤去されるか爆破されている。この件についてのご関心をありがとう！大統領ドナルド・J・トランプ"
-    },
     "truth:117116872320047163": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16965,6 +16950,24 @@
       "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/337/286/321/580/378/original/e78b37c07c512095.mp4",
       "translation": "気候変動詐欺について必見だ。トランプ大統領"
     },
+    "truth:117336866629561228": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/41915",
+      "source_text": "<p>Two-tiered justice: Local DAs shield noncitizens from immigration consequences: <a href=\"https://justthenews.com/nation/crime/two-tiered-justice-local-das-shield-noncitizens-immigration-consequences\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/crime/t</span><span class=\"invisible\">wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences</span></a></p>",
+      "published": "Sat, 26 Sep 2026 10:28:17 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-26T12:50:33.190964Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41915",
+      "first_seen": "2026-09-26T12:30:28.133454Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Two-tiered justice: Local DAs shield noncitizens from immigration consequences: \nhttps://justthenews.com/nation/crime/two-tiered-justice-local-das-shi",
+      "truth_social_id": "117336866629561228",
+      "source_fingerprint": "fp:Two-tiered justice: Local DAs shield noncitizens from immigration consequences: \nhttps://justthenews.com/nation/crime/two-tiered-justice-local-das-shi",
+      "media_identity": "attachment:117336866629561228:",
+      "translation": "二重基準の司法制度：地方の地方検事が非市民を移民に関する結果から守る：\nhttps://justthenews.com/nation/crime/two-tiered-justice-local-das-shield-noncitizens-immigration-consequences"
+    },
     "truth:117335091912879320": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16972,7 +16975,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T12:45:30.343170Z",
+      "updated_at": "2026-09-26T12:50:30.794450Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32339,22 +32342,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-09-26T12:50:41.259325Z"
-    },
-    "truth:117336866629561228": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41915",
-      "source_text": "<p>Two-tiered justice: Local DAs shield noncitizens from immigration consequences: <a href=\"https://justthenews.com/nation/crime/two-tiered-justice-local-das-shield-noncitizens-immigration-consequences\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/crime/t</span><span class=\"invisible\">wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences</span></a></p>",
-      "published": "Sat, 26 Sep 2026 10:28:17 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-26T12:35:28.936604Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41915",
-      "first_seen": "2026-09-26T12:30:28.133454Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Two-tiered justice: Local DAs shield noncitizens from immigration consequences: \nhttps://justthenews.com/nation/crime/two-tiered-justice-local-das-shi",
-      "next_retry_at": "2026-09-26T12:45:28.936616Z",
-      "truth_social_id": "117336866629561228"
     },
     "truth:117336867875974840": {
       "post_status": "RETRY",
