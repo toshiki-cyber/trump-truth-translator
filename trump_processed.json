@@ -16889,7 +16889,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-26T14:55:29.614666Z",
+      "updated_at": "2026-09-26T15:00:27.602324Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32110,14 +32110,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/41932",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 13:18:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-26T14:45:30.832945Z",
+      "retry_count": 3,
+      "updated_at": "2026-09-26T15:00:30.760799Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41932",
       "source_fingerprint": null,
       "media_identity": "attachment:117337535044080608:1f2e20e4dfdfca75.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/337/533/317/942/141/original/1f2e20e4dfdfca75.mp4",
       "truth_social_id": "117337535044080608",
-      "next_retry_at": "2026-09-26T14:55:30.832958Z"
+      "next_retry_at": "2026-09-26T15:20:30.760810Z"
     },
     "truth:117337537057603991": {
       "post_status": "RETRY",
