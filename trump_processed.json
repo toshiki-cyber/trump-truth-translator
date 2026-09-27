@@ -3274,62 +3274,11 @@
     "truth:117339597349471940",
     "https://www.trumpstruth.org/statuses/41956",
     "truth:117339598059843086",
-    "https://www.trumpstruth.org/statuses/41955"
+    "https://www.trumpstruth.org/statuses/41955",
+    "truth:117339598713942230",
+    "https://www.trumpstruth.org/statuses/41954"
   ],
   "posts": {
-    "truth:117119206141856177": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/40992",
-      "source_text": "<p></p>",
-      "published": "Tue, 18 Aug 2026 23:54:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-19T03:21:48.681868Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/40992",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117119206141856177:143fe7a673e24871.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117119206141856177",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtfg2rgjbkam",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mtfg2rgjbkam",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-19T03:21:41.719491Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihwbaccumtv2ymojhvlps2wfnktwnxx3saqahemi4m6rqauauubdq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 175852
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1013,
-                "height": 1013
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtfg2rgjbkam",
-          "rkey": "3mtfg2rgjbkam"
-        }
-      ]
-    },
     "truth:117119206919334140": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16831,6 +16780,21 @@
         }
       ]
     },
+    "truth:117339598713942230": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41954",
+      "source_text": "<p></p>",
+      "published": "Sat, 26 Sep 2026 22:03:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-27T01:20:34.071049Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41954",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117339598713942230:b7c6fba6d0937249.png",
+      "failure_reason": null,
+      "truth_social_id": "117339598713942230",
+      "translation": ""
+    },
     "truth:117335091912879320": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16838,7 +16802,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-27T01:15:29.555718Z",
+      "updated_at": "2026-09-27T01:20:28.754156Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32008,18 +31972,18 @@
       "next_retry_at": "2026-09-26T03:40:31.703567Z"
     },
     "truth:117335207360789365": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41913",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 03:26:18 +0000",
-      "updated_at": "2026-09-27T01:15:34.033044Z",
+      "updated_at": "2026-09-27T01:20:28.753852Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41969",
       "source_fingerprint": null,
       "media_identity": "attachment:117335207360789365:7cd232417e4cbe9d-1b6683a2b795.mov",
       "truth_social_id": "117335207360789365",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 386.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/335/196/397/368/285/original/7cd232417e4cbe9d.mp4",
-      "retry_count": 1,
+      "retry_count": 0,
       "next_retry_at": "2026-09-27T01:20:34.033063Z"
     },
     "truth:117337515298516566": {
@@ -32264,16 +32228,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-09-26T22:45:39.321347Z"
-    },
-    "truth:117339598713942230": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41954",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 22:03:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T22:30:26.827717Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41954"
     },
     "truth:117339599342443326": {
       "post_status": "DISCOVERED",
