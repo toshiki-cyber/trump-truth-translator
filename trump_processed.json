@@ -3367,24 +3367,12 @@
     "truth:117348448650549090",
     "https://www.trumpstruth.org/statuses/42008",
     "truth:117348447516971896",
-    "https://www.trumpstruth.org/statuses/42009"
+    "https://www.trumpstruth.org/statuses/42009",
+    "fp:“The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, ho",
+    "truth:117348468544269011",
+    "https://www.trumpstruth.org/statuses/42012"
   ],
   "posts": {
-    "truth:117131390037719482": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41040",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 03:32:53 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-21T12:05:48.820186Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41040",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117131390037719482:b2aede9d649d9ec7.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117131390037719482",
-      "translation": ""
-    },
     "truth:117133120342300539": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16943,6 +16931,24 @@
           "rkey": "3mwl7roidvcyb"
         }
       ]
+    },
+    "truth:117348468544269011": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42012",
+      "source_text": "<p>“The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, however!!! President DJT</p>",
+      "published": "Mon, 28 Sep 2026 11:38:48 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-28T13:35:32.345875Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42012",
+      "first_seen": "2026-09-28T12:35:33.742357Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:“The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, ho",
+      "truth_social_id": "117348468544269011",
+      "source_fingerprint": "fp:“The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, ho",
+      "media_identity": "attachment:117348468544269011:",
+      "translation": "「アメリカは歴史上最高の雇用統計数字を持っている。」フォックスニュース。しかし、フェイクニュースメディアはこのかなり重要な発展を報道することを拒否している！！！大統領DJT"
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
@@ -32568,22 +32574,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
-    },
-    "truth:117348468544269011": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42012",
-      "source_text": "<p>“The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, however!!! President DJT</p>",
-      "published": "Mon, 28 Sep 2026 11:38:48 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-28T12:45:31.032291Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42012",
-      "first_seen": "2026-09-28T12:35:33.742357Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:“The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, ho",
-      "next_retry_at": "2026-09-28T12:55:31.032307Z",
-      "truth_social_id": "117348468544269011"
     },
     "truth:117348516464234551": {
       "post_status": "RETRY",
