@@ -32586,6 +32586,22 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
+    },
+    "truth:117350810719202305": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42018",
+      "source_text": "<p>Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP</p>",
+      "published": "Mon, 28 Sep 2026 21:34:27 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-28T22:30:31.863319Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42018",
+      "first_seen": "2026-09-28T22:30:31.863284Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like",
+      "next_retry_at": "2026-09-28T22:35:31.863328Z",
+      "truth_social_id": "117350810719202305"
     }
   }
 }
