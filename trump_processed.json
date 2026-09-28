@@ -3354,24 +3354,12 @@
     "truth:117346775410000482",
     "https://www.trumpstruth.org/statuses/42003",
     "truth:117346779325099881",
-    "https://www.trumpstruth.org/statuses/42002"
+    "https://www.trumpstruth.org/statuses/42002",
+    "fp:Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: \nhttps://justthenews.com/government/congress/fauci-ala",
+    "truth:117348443536619757",
+    "https://www.trumpstruth.org/statuses/42013"
   ],
   "posts": {
-    "truth:117130257407138275": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41036",
-      "source_text": "<p></p>",
-      "published": "Thu, 20 Aug 2026 22:44:50 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T08:55:52.815822Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41036",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117130257407138275:5fc7cd93e954f839.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117130257407138275",
-      "translation": ""
-    },
     "truth:117130287849451563": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16858,6 +16846,24 @@
           "rkey": "3mwki333xscoy"
         }
       ]
+    },
+    "truth:117348443536619757": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42013",
+      "source_text": "<p>Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: <a href=\"https://justthenews.com/government/congress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/con</span><span class=\"invisible\">gress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and</span></a></p>",
+      "published": "Mon, 28 Sep 2026 11:32:26 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-28T12:55:26.562629Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42013",
+      "first_seen": "2026-09-28T12:35:29.997319Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: \nhttps://justthenews.com/government/congress/fauci-ala",
+      "truth_social_id": "117348443536619757",
+      "source_fingerprint": "fp:Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: \nhttps://justthenews.com/government/congress/fauci-ala",
+      "media_identity": "attachment:117348443536619757:",
+      "translation": "ファウチの日記がエボラウイルスの空気感染化について米国が懸念していたことを明かす：「決してやるべきではなかったこと」：\nhttps://justthenews.com/government/congress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and"
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
@@ -32483,22 +32489,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
-    },
-    "truth:117348443536619757": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42013",
-      "source_text": "<p>Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: <a href=\"https://justthenews.com/government/congress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/con</span><span class=\"invisible\">gress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and</span></a></p>",
-      "published": "Mon, 28 Sep 2026 11:32:26 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-28T12:40:31.057267Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42013",
-      "first_seen": "2026-09-28T12:35:29.997319Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: ‘Never should have been done’: \nhttps://justthenews.com/government/congress/fauci-ala",
-      "next_retry_at": "2026-09-28T12:50:31.057282Z",
-      "truth_social_id": "117348443536619757"
     },
     "truth:117348445059479367": {
       "post_status": "RETRY",
