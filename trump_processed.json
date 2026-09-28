@@ -3340,77 +3340,11 @@
     "truth:117345281669990405",
     "https://www.trumpstruth.org/statuses/41999",
     "truth:117346090177597599",
-    "https://www.trumpstruth.org/statuses/42000"
+    "https://www.trumpstruth.org/statuses/42000",
+    "truth:117346763094750198",
+    "https://www.trumpstruth.org/statuses/42001"
   ],
   "posts": {
-    "truth:117125911763587334": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41024",
-      "source_text": "<p>Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: <a href=\"https://www.foxnews.com/video/6403476736112\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640347673611</span><span class=\"invisible\">2</span></a></p>",
-      "published": "Thu, 20 Aug 2026 04:19:41 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-20T04:45:58.186541Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41024",
-      "first_seen": "2026-08-20T04:20:40.089724Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: \nhttps://www.foxnews.com/video/6403476736112",
-      "truth_social_id": "117125911763587334",
-      "source_fingerprint": "fp:Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent: \nhttps://www.foxnews.com/video/6403476736112",
-      "media_identity": "attachment:117125911763587334:",
-      "translation": "トランプ支持が法執行機関を『力付ける』ことで国をより安全にする：元FBI捜査官 \nhttps://www.foxnews.com/video/6403476736112",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtife52x3cin",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtife52x3cin",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ支持が法執行機関を『力付ける』ことで国をより安全にする：元FBI捜査官 \nhttps://www.foxnews.com/video/6403476736112",
-        "createdAt": "2026-08-20T04:40:45.592728Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 113,
-              "byteEnd": 156
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.foxnews.com/video/6403476736112"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.foxnews.com/video/6403476736112",
-            "title": "Trump’s support ‘empowers’ law enforcement to make the country safer: Former FBI agent | Fox News Video",
-            "description": "Former FBI special agent Nicole Parker analyzes President Donald Trump’s efforts to decrease crime, arguing that the president ‘sets the tone’ for national safety, on ‘Fox Report.’",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreicekkik26sbvllyorxaorocdcxzh27cphoqwt277m3wyzs7ajdfzm"
-              },
-              "mimeType": "image/jpeg",
-              "size": 98853
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtife52x3cin",
-          "rkey": "3mtife52x3cin"
-        }
-      ]
-    },
     "truth:117128115633309906": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16838,6 +16772,21 @@
         }
       ]
     },
+    "truth:117346763094750198": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42001",
+      "source_text": "<p></p>",
+      "published": "Mon, 28 Sep 2026 04:25:05 +0000",
+      "updated_at": "2026-09-28T04:40:36.993360Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42001",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117346763094750198:d8b1380c22d4c5b4-bba0ffdddd47.mov",
+      "truth_social_id": "117346763094750198",
+      "failure_reason": null,
+      "retry_count": 0,
+      "translation": ""
+    },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16863,7 +16812,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-28T04:36:02.187166Z",
+      "updated_at": "2026-09-28T04:40:28.517091Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32033,18 +31982,18 @@
       "next_retry_at": "2026-09-26T03:40:31.703567Z"
     },
     "truth:117335207360789365": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41913",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 03:26:18 +0000",
-      "updated_at": "2026-09-28T04:36:04.568297Z",
+      "updated_at": "2026-09-28T04:40:28.516767Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41969",
       "source_fingerprint": null,
       "media_identity": "attachment:117335207360789365:7cd232417e4cbe9d-1b6683a2b795.mov",
       "truth_social_id": "117335207360789365",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 386.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/335/196/397/368/285/original/7cd232417e4cbe9d.mp4",
-      "retry_count": 1,
+      "retry_count": 0,
       "next_retry_at": "2026-09-28T04:41:04.568312Z"
     },
     "truth:117337515298516566": {
@@ -32447,21 +32396,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 120.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/343/818/646/908/379/original/b5891fdf0652e7b6.mp4",
       "truth_social_id": "117343820394720021",
       "next_retry_at": "2026-09-27T16:40:30.363366Z"
-    },
-    "truth:117346763094750198": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42001",
-      "source_text": "<p></p>",
-      "published": "Mon, 28 Sep 2026 04:25:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-28T04:30:28.338113Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42001",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117346763094750198:d8b1380c22d4c5b4.mp4",
-      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/346/762/199/223/405/original/d8b1380c22d4c5b4.mp4",
-      "truth_social_id": "117346763094750198",
-      "next_retry_at": "2026-09-28T04:35:28.338127Z"
     }
   }
 }
