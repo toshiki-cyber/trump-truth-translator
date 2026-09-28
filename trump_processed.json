@@ -3365,24 +3365,11 @@
     "truth:117348446365820888",
     "https://www.trumpstruth.org/statuses/42010",
     "truth:117348448650549090",
-    "https://www.trumpstruth.org/statuses/42008"
+    "https://www.trumpstruth.org/statuses/42008",
+    "truth:117348447516971896",
+    "https://www.trumpstruth.org/statuses/42009"
   ],
   "posts": {
-    "truth:117131409354478560": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41041",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 03:37:47 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T09:40:45.959390Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41041",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117131409354478560:a646efee6adc57f6.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117131409354478560",
-      "translation": ""
-    },
     "truth:117131390037719482": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16888,6 +16875,74 @@
       "source_fingerprint": "fp:Two-tiered justice: Local DAs shield noncitizens from immigration consequences: \nhttps://justthenews.com/nation/crime/two-tiered-justice-local-das-shi",
       "media_identity": "attachment:117348448650549090:",
       "translation": "二重の司法制度：地元の地方検事が非市民を移民関係の結果から保護している：\nhttps://justthenews.com/nation/crime/two-tiered-justice-local-das-shield-noncitizens-immigration-consequences"
+    },
+    "truth:117348447516971896": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42009",
+      "source_text": "<p>Justice Department charges four aliens in Pennsylvania with election fraud: <a href=\"https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud</span></a></p>",
+      "published": "Mon, 28 Sep 2026 11:33:27 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-28T13:30:31.473951Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42009",
+      "first_seen": "2026-09-28T12:35:31.593583Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Justice Department charges four aliens in Pennsylvania with election fraud: \nhttps://justthenews.com/government/federal-agencies/justice-department-ch",
+      "truth_social_id": "117348447516971896",
+      "source_fingerprint": "fp:Justice Department charges four aliens in Pennsylvania with election fraud: \nhttps://justthenews.com/government/federal-agencies/justice-department-ch",
+      "media_identity": "attachment:117348447516971896:",
+      "translation": "司法省がペンシルベニア州の不法移民4人を選挙詐欺で起訴：\nhttps://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwl7roidvcyb",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mwl7roidvcyb",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "司法省がペンシルベニア州の不法移民4人を選挙詐欺で起訴：\nhttps://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
+        "createdAt": "2026-09-28T13:20:32.055429Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 83,
+              "byteEnd": 203
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
+            "title": "Justice Department charges four aliens in Pennsylvania with election fraud",
+            "description": "The migrants have been identified as Mexican national Eduardo Gallardo Maldonado, Trinidad & Tobago national Sade Guppy, Dilea Ochoa-Perez, who is in the country illegally from Mexico, and Cliff Sanon an illegal migrant from Haiti.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiav2tmahtlorugwezwxg2w7smkw6drvg5ksgvjyshmmmjfqfqyxku"
+              },
+              "mimeType": "image/jpeg",
+              "size": 93038
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwl7roidvcyb",
+          "rkey": "3mwl7roidvcyb"
+        }
+      ]
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
@@ -32513,175 +32568,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
-    },
-    "truth:117348447516971896": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42009",
-      "source_text": "<p>Justice Department charges four aliens in Pennsylvania with election fraud: <a href=\"https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud</span></a></p>",
-      "published": "Mon, 28 Sep 2026 11:33:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-28T13:20:38.563158Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42009",
-      "first_seen": "2026-09-28T12:35:31.593583Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Justice Department charges four aliens in Pennsylvania with election fraud: \nhttps://justthenews.com/government/federal-agencies/justice-department-ch",
-      "truth_social_id": "117348447516971896",
-      "source_fingerprint": "fp:Justice Department charges four aliens in Pennsylvania with election fraud: \nhttps://justthenews.com/government/federal-agencies/justice-department-ch",
-      "media_identity": "attachment:117348447516971896:",
-      "translation": "司法省がペンシルベニア州の不法移民4人を選挙詐欺で起訴：\nhttps://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwl7roidvcyb",
-          "cid": "bafyreihlsqaxy6by2z4744bxytuxngvfzz6luhqvuxhqlwivcg3upke7zq"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwl7roidvcyb",
-          "cid": "bafyreihlsqaxy6by2z4744bxytuxngvfzz6luhqvuxhqlwivcg3upke7zq"
-        },
-        "next_index": 1,
-        "last_rkey": "3mwl7roidvcyb",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "司法省がペンシルベニア州の不法移民4人を選挙詐欺で起訴：\nhttps://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
-          "createdAt": "2026-09-28T13:20:32.055429Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 83,
-                "byteEnd": 203
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
-              "title": "Justice Department charges four aliens in Pennsylvania with election fraud",
-              "description": "The migrants have been identified as Mexican national Eduardo Gallardo Maldonado, Trinidad & Tobago national Sade Guppy, Dilea Ochoa-Perez, who is in the country illegally from Mexico, and Cliff Sanon an illegal migrant from Haiti.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiav2tmahtlorugwezwxg2w7smkw6drvg5ksgvjyshmmmjfqfqyxku"
-                },
-                "mimeType": "image/jpeg",
-                "size": 93038
-              }
-            }
-          }
-        },
-        "root_rkey": "3mwl7roidvcyb",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "司法省がペンシルベニア州の不法移民4人を選挙詐欺で起訴：\nhttps://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
-          "createdAt": "2026-09-28T13:20:32.055429Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 83,
-                "byteEnd": 203
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
-              "title": "Justice Department charges four aliens in Pennsylvania with election fraud",
-              "description": "The migrants have been identified as Mexican national Eduardo Gallardo Maldonado, Trinidad & Tobago national Sade Guppy, Dilea Ochoa-Perez, who is in the country illegally from Mexico, and Cliff Sanon an illegal migrant from Haiti.",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiav2tmahtlorugwezwxg2w7smkw6drvg5ksgvjyshmmmjfqfqyxku"
-                },
-                "mimeType": "image/jpeg",
-                "size": 93038
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwl7roidvcyb",
-            "rkey": "3mwl7roidvcyb"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwl7roidvcyb",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwl7roidvcyb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "司法省がペンシルベニア州の不法移民4人を選挙詐欺で起訴：\nhttps://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
-        "createdAt": "2026-09-28T13:20:32.055429Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 83,
-              "byteEnd": 203
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/federal-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
-            "title": "Justice Department charges four aliens in Pennsylvania with election fraud",
-            "description": "The migrants have been identified as Mexican national Eduardo Gallardo Maldonado, Trinidad & Tobago national Sade Guppy, Dilea Ochoa-Perez, who is in the country illegally from Mexico, and Cliff Sanon an illegal migrant from Haiti.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiav2tmahtlorugwezwxg2w7smkw6drvg5ksgvjyshmmmjfqfqyxku"
-              },
-              "mimeType": "image/jpeg",
-              "size": 93038
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwl7roidvcyb",
-          "rkey": "3mwl7roidvcyb"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-28T13:25:38.563173Z"
     },
     "truth:117348468544269011": {
       "post_status": "RETRY",
