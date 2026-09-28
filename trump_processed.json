@@ -3324,27 +3324,11 @@
     "truth:117345053471706888",
     "https://www.trumpstruth.org/statuses/41991",
     "truth:117345154385217283",
-    "https://www.trumpstruth.org/statuses/41996"
+    "https://www.trumpstruth.org/statuses/41996",
+    "truth:117345154924391841",
+    "https://www.trumpstruth.org/statuses/41995"
   ],
   "posts": {
-    "truth:117124650907675461": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41017",
-      "source_text": "<p>No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale. Their navy is gone, their air force is destroyed, their military factories are now rubble, their currency is worthless, and their country is hanging by a thread. Today, I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies — It all needs to stop NOW. You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide. IRAN WILL NEVER HAVE A NUCLEAR WEAPON. THANK YOU FOR YOUR ATTENTION TO THIS MATTER. President DONALD J. TRUMP</p>",
-      "published": "Wed, 19 Aug 2026 22:59:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-19T23:15:46.483640Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41017",
-      "first_seen": "2026-08-19T23:00:40.526009Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefo",
-      "truth_social_id": "117124650907675461",
-      "source_fingerprint": "fp:No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefo",
-      "media_identity": "attachment:117124650907675461:",
-      "translation": "イランのイスラム共和国に取引を成立させる機会をこれほど与えた者はいない。TRAGICALLY、彼らはそれを活かすことに失敗した。したがって、本日、私はいかなる国に対しても取られたことのない最も破壊的な経済作戦を発表する。これは前例のない規模の経済戦争と孤立化である。彼らの海軍は消滅し、空軍は破壊され、軍事工場は瓦礫と化し、通貨は無価値であり、国は一本の糸でかろうじて繋がっている。本日、私はまた、金融機関、企業、空港、または政府機関がイランに対していかなる種類の生命線も提供することを許可するいかなる国も、それ自体が莫大な経済的結果に直面することになると発表する。石油密輸、スワップライン、現金移送、両替所、船舶登録、ダミー企業―それすべてが今すぐ停止する必要がある。誰であるか知っている者たちへ言う。これは経済的D-DAYとなり、イラン脅威を孤立させ、打倒するために我々のすべての同盟国が米国と共に立つ必要がある。これらの狂信者たちは窮地に立っており、これらの歴史的措置は彼らとテロを世界中に投影する能力を麻痺させるだろう。イランは決して核兵器を保有しない。本件に対する貴殿の注意をいただきありがとうございます。ドナルド・J・トランプ大統領"
-    },
     "truth:117125320372310851": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16810,6 +16794,59 @@
       "truth_social_id": "117345154385217283",
       "translation": ""
     },
+    "truth:117345154924391841": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/41995",
+      "source_text": "<p></p>",
+      "published": "Sun, 27 Sep 2026 21:36:06 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-28T00:50:31.460414Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/41995",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117345154924391841:e8dd900121e5d6b8.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117345154924391841",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwjqyexgrc3h",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mwjqyexgrc3h",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-09-28T00:40:32.672274Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreias375yggryyajxjjtmovriepyc2izsrrrib2yhrxxq7rd5u6lq6e"
+                },
+                "mimeType": "image/jpeg",
+                "size": 190747
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1255,
+                "height": 818
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwjqyexgrc3h",
+          "rkey": "3mwjqyexgrc3h"
+        }
+      ]
+    },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -16835,7 +16872,7 @@
       "source_text": "<p>A beautiful evening at last nights incredible State Dinner hosted by President <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> and First Lady <span class=\"h-card\"><a href=\"https://truthsocial.com/@MelaniaTrump\" rel=\"nofollow\">@<span>MelaniaTrump</span></a></span>. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 </p><p>Hallelujah!!!</p>",
       "published": "Sat, 26 Sep 2026 02:56:57 +0000",
       "retry_count": 0,
-      "updated_at": "2026-09-28T00:45:25.653020Z",
+      "updated_at": "2026-09-28T00:50:27.092129Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41908",
       "source_fingerprint": "fp:A beautiful evening at last nights incredible State Dinner hosted by President \nhttps://truthsocial.com/@realDonaldTrump\n and First Lady \nhttps://trut",
       "media_identity": "attachment:117335091912879320:19315d4db9b47d40.mp4",
@@ -32005,18 +32042,18 @@
       "next_retry_at": "2026-09-26T03:40:31.703567Z"
     },
     "truth:117335207360789365": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/41913",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 03:26:18 +0000",
-      "updated_at": "2026-09-28T00:45:28.528058Z",
+      "updated_at": "2026-09-28T00:50:27.091820Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41969",
       "source_fingerprint": null,
       "media_identity": "attachment:117335207360789365:7cd232417e4cbe9d-1b6683a2b795.mov",
       "truth_social_id": "117335207360789365",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 386.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/335/196/397/368/285/original/7cd232417e4cbe9d.mp4",
-      "retry_count": 1,
+      "retry_count": 0,
       "next_retry_at": "2026-09-28T00:50:28.528075Z"
     },
     "truth:117337515298516566": {
@@ -32419,136 +32456,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 120.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/343/818/646/908/379/original/b5891fdf0652e7b6.mp4",
       "truth_social_id": "117343820394720021",
       "next_retry_at": "2026-09-27T16:40:30.363366Z"
-    },
-    "truth:117345154924391841": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41995",
-      "source_text": "<p></p>",
-      "published": "Sun, 27 Sep 2026 21:36:06 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-28T00:40:40.032751Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41995",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117345154924391841:e8dd900121e5d6b8.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "truth_social_id": "117345154924391841",
-      "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwjqyexgrc3h",
-          "cid": "bafyreifh7onltcqi4fh2ayj6p2zmu3tqnq4dsdk4putkijwc73mapoc3pq"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwjqyexgrc3h",
-          "cid": "bafyreifh7onltcqi4fh2ayj6p2zmu3tqnq4dsdk4putkijwc73mapoc3pq"
-        },
-        "next_index": 1,
-        "last_rkey": "3mwjqyexgrc3h",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-28T00:40:32.672274Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreias375yggryyajxjjtmovriepyc2izsrrrib2yhrxxq7rd5u6lq6e"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 190747
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1255,
-                  "height": 818
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mwjqyexgrc3h",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-28T00:40:32.672274Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreias375yggryyajxjjtmovriepyc2izsrrrib2yhrxxq7rd5u6lq6e"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 190747
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1255,
-                  "height": 818
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwjqyexgrc3h",
-            "rkey": "3mwjqyexgrc3h"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwjqyexgrc3h",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwjqyexgrc3h",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-28T00:40:32.672274Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreias375yggryyajxjjtmovriepyc2izsrrrib2yhrxxq7rd5u6lq6e"
-                },
-                "mimeType": "image/jpeg",
-                "size": 190747
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1255,
-                "height": 818
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwjqyexgrc3h",
-          "rkey": "3mwjqyexgrc3h"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-28T00:45:40.032767Z"
     },
     "truth:117345155558415047": {
       "post_status": "DISCOVERED",
