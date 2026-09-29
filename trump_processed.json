@@ -3384,109 +3384,12 @@
     "truth:117350810719202305",
     "https://www.trumpstruth.org/statuses/42018",
     "truth:117352093333913680",
-    "https://www.trumpstruth.org/statuses/42020"
+    "https://www.trumpstruth.org/statuses/42020",
+    "fp:The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it w",
+    "truth:117351985093810875",
+    "https://www.trumpstruth.org/statuses/42019"
   ],
   "posts": {
-    "truth:117134430528835875": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41052",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518</span></p>",
-      "published": "Fri, 21 Aug 2026 16:26:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T16:55:56.692339Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41052",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
-      "media_identity": "attachment:117134430528835875:8af974cc84808c78.png,a7d10996790ee4ba.png,ac742de47c13a045.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
-      "truth_social_id": "117134430528835875",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fzg57ss4",
-      "expected_embed": "images",
-      "expected_images": 3,
-      "root_rkey": "3mtm6fzg57ss4",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518",
-        "createdAt": "2026-08-21T16:55:49.395917Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 73
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117134429829202518"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiekz6ohditzqqfbquourx3b7dyg6d3ze7jjwjns2zaajdvkhnugsq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 113560
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 886,
-                "height": 538
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibiknxs2bgz5vl6ceto34khb55be6kdfudampcz662y4gownewp4i"
-                },
-                "mimeType": "image/jpeg",
-                "size": 157250
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 666,
-                "height": 859
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreie2bsdz5hbedanxa7dg24xt3vqgvybs6vczehcfozz2kf2znxpmui"
-                },
-                "mimeType": "image/jpeg",
-                "size": 172932
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 658,
-                "height": 860
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fzg57ss4",
-          "rkey": "3mtm6fzg57ss4"
-        }
-      ]
-    },
     "truth:117134308987004111": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16913,6 +16816,24 @@
       "failure_reason": null,
       "truth_social_id": "117352093333913680",
       "translation": ""
+    },
+    "truth:117351985093810875": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42019",
+      "source_text": "<p>The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it will save the colleges themselves. Congratulations to Randy Levine, President of the New York Yankees, and all of those who worked with him, on a job well done!</p>",
+      "published": "Tue, 29 Sep 2026 02:33:06 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-29T04:50:30.961287Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42019",
+      "first_seen": "2026-09-29T04:30:24.730649Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it w",
+      "truth_social_id": "117351985093810875",
+      "source_fingerprint": "fp:The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it w",
+      "media_identity": "attachment:117351985093810875:",
+      "translation": "米国上院で「大学スポーツ保護法」がたった今、77対22の投票で可決された。これは本当に大きなニュースだ。大学スポーツを救うだけでなく、大学そのものを救うことになる。ニューヨーク・ヤンキースの会長ランディ・レヴィンと彼と共に取り組んだすべての人々に、よくやったと祝辞を送る！"
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
@@ -32538,22 +32459,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
-    },
-    "truth:117351985093810875": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42019",
-      "source_text": "<p>The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it will save the colleges themselves. Congratulations to Randy Levine, President of the New York Yankees, and all of those who worked with him, on a job well done!</p>",
-      "published": "Tue, 29 Sep 2026 02:33:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-29T04:35:27.575518Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42019",
-      "first_seen": "2026-09-29T04:30:24.730649Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it w",
-      "next_retry_at": "2026-09-29T04:45:27.575533Z",
-      "truth_social_id": "117351985093810875"
     }
   }
 }
