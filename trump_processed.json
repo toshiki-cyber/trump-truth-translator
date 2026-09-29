@@ -3382,77 +3382,11 @@
     "https://www.trumpstruth.org/statuses/42017",
     "fp:Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like",
     "truth:117350810719202305",
-    "https://www.trumpstruth.org/statuses/42018"
+    "https://www.trumpstruth.org/statuses/42018",
+    "truth:117352093333913680",
+    "https://www.trumpstruth.org/statuses/42020"
   ],
   "posts": {
-    "truth:117134429829202518": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41053",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:25:56 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T16:45:45.275511Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41053",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117134429829202518:a7d10996790ee4ba.png,ac742de47c13a045.png",
-      "failure_reason": null,
-      "truth_social_id": "117134429829202518",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fpaeg26f",
-      "expected_embed": "images",
-      "expected_images": 2,
-      "root_rkey": "3mtm6fpaeg26f",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-21T16:35:47.235633Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibiknxs2bgz5vl6ceto34khb55be6kdfudampcz662y4gownewp4i"
-                },
-                "mimeType": "image/jpeg",
-                "size": 157250
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 666,
-                "height": 859
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreie2bsdz5hbedanxa7dg24xt3vqgvybs6vczehcfozz2kf2znxpmui"
-                },
-                "mimeType": "image/jpeg",
-                "size": 172932
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 658,
-                "height": 860
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6fpaeg26f",
-          "rkey": "3mtm6fpaeg26f"
-        }
-      ]
-    },
     "truth:117134430528835875": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16964,6 +16898,21 @@
       "source_fingerprint": "fp:Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like",
       "media_identity": "attachment:117350810719202305:",
       "translation": "アクシオスが「トランプがイランに制裁解除と凍結資金を提供した」という記事を発表した。これは事実ではない。私は彼らに何も提供していない！アクシオスの記事は他のほとんどの記事と同様に、トランプデリンジメントシンドロームを満たす目的でのみ使用される詐欺である。彼らはこの偽りの記事を直ちに取り下げるべきだ。ドナルド・J・トランプ大統領"
+    },
+    "truth:117352093333913680": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42020",
+      "source_text": "<p></p>",
+      "published": "Tue, 29 Sep 2026 03:00:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-29T04:30:37.084967Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42020",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117352093333913680:66f041dc08298d35-40c7a9f5027b.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117352093333913680",
+      "translation": ""
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
@@ -32589,6 +32538,22 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
+    },
+    "truth:117351985093810875": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42019",
+      "source_text": "<p>The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it will save the colleges themselves. Congratulations to Randy Levine, President of the New York Yankees, and all of those who worked with him, on a job well done!</p>",
+      "published": "Tue, 29 Sep 2026 02:33:06 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-29T04:30:24.730686Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42019",
+      "first_seen": "2026-09-29T04:30:24.730649Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it w",
+      "next_retry_at": "2026-09-29T04:35:24.730695Z",
+      "truth_social_id": "117351985093810875"
     }
   }
 }
