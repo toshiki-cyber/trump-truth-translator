@@ -32545,14 +32545,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42019",
       "source_text": "<p>The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it will save the colleges themselves. Congratulations to Randy Levine, President of the New York Yankees, and all of those who worked with him, on a job well done!</p>",
       "published": "Tue, 29 Sep 2026 02:33:06 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-29T04:30:24.730686Z",
+      "retry_count": 2,
+      "updated_at": "2026-09-29T04:35:27.575518Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42019",
       "first_seen": "2026-09-29T04:30:24.730649Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it w",
-      "next_retry_at": "2026-09-29T04:35:24.730695Z",
+      "next_retry_at": "2026-09-29T04:45:27.575533Z",
       "truth_social_id": "117351985093810875"
     }
   }
