@@ -3394,24 +3394,11 @@
     "truth:117355137125519227",
     "https://www.trumpstruth.org/statuses/42022",
     "truth:117356337184173252",
-    "https://www.trumpstruth.org/statuses/42024"
+    "https://www.trumpstruth.org/statuses/42024",
+    "truth:117356435739432952",
+    "https://www.trumpstruth.org/statuses/42025"
   ],
   "posts": {
-    "truth:117134435070312739": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41048",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:27:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T17:41:16.619891Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41048",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117134435070312739:2395e79129a001ff.png",
-      "failure_reason": null,
-      "truth_social_id": "117134435070312739",
-      "translation": ""
-    },
     "truth:117134434446472238": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16732,6 +16719,21 @@
       "media_identity": "attachment:117356337184173252:e234dfbee10abd07.jpg",
       "failure_reason": null,
       "truth_social_id": "117356337184173252",
+      "translation": ""
+    },
+    "truth:117356435739432952": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42025",
+      "source_text": "<p></p>",
+      "published": "Tue, 29 Sep 2026 21:24:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-29T22:35:31.688631Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42025",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117356435739432952:b209eb47b2729b10.jpg,f469ac2b8d8005a1.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117356435739432952",
       "translation": ""
     },
     "truth:117342927581199006": {
@@ -32360,24 +32362,20 @@
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
     },
     "truth:117356339820644146": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42023",
       "source_text": "<p>Iran Has Lost Control of the Strait: <a href=\"https://x.com/BurggrabenH/status/2104361288000221497\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/BurggrabenH/status/21043</span><span class=\"invisible\">61288000221497</span></a></p>",
       "published": "Tue, 29 Sep 2026 21:00:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-29T22:30:29.702608Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42023"
-    },
-    "truth:117356435739432952": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42025",
-      "source_text": "<p></p>",
-      "published": "Tue, 29 Sep 2026 21:24:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-29T22:30:29.702449Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42025"
+      "retry_count": 1,
+      "updated_at": "2026-09-29T22:35:29.504642Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42023",
+      "first_seen": "2026-09-29T22:35:29.504606Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Iran Has Lost Control of the Strait: \nhttps://x.com/BurggrabenH/status/2104361288000221497",
+      "next_retry_at": "2026-09-29T22:40:29.504651Z",
+      "truth_social_id": "117356339820644146"
     }
   }
 }
