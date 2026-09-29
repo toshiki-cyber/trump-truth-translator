@@ -32459,6 +32459,23 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
+    },
+    "truth:117354335756073765": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42021",
+      "source_text": "<p>From a great journalist! President DJT</p>",
+      "published": "Tue, 29 Sep 2026 12:30:54 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-09-29T14:31:08.658629Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42021",
+      "source_fingerprint": "fp:From a great journalist! President DJT",
+      "media_identity": "attachment:117354335756073765:f5882663df0ac5e5-c7c01be5033c.mov",
+      "failure_reason": "Claude拒否: 申し訳ございませんが、翻訳対象となる投稿テキストが「【原文】」の後に記載されていません。翻訳いただきたい投稿の本文をご提供ください。\n\n現在の記載は以下の通りです：\n- 「From a great journalist! President",
+      "fingerprint": "fp:From a great journalist! President DJT",
+      "truth_social_id": "117354335756073765",
+      "failure_stage": "TRANSLATION",
+      "next_retry_at": "2026-09-29T14:36:08.658643Z"
     }
   }
 }
