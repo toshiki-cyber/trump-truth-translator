@@ -3392,62 +3392,11 @@
     "truth:117354335756073765",
     "https://www.trumpstruth.org/statuses/42021",
     "truth:117355137125519227",
-    "https://www.trumpstruth.org/statuses/42022"
+    "https://www.trumpstruth.org/statuses/42022",
+    "truth:117356337184173252",
+    "https://www.trumpstruth.org/statuses/42024"
   ],
   "posts": {
-    "truth:117133920887750401": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41043",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 14:16:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T17:31:05.887514Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41043",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117133920887750401:d8f3aad3a9a89115.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117133920887750401",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtlx6b5z3c5a",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mtlx6b5z3c5a",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-21T17:22:05.837630Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid6swnpi2jztft4niehvkmbl6cwbgjjmydte5eggvc54tomjwzkkq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 192937
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 731,
-                "height": 1405
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtlx6b5z3c5a",
-          "rkey": "3mtlx6b5z3c5a"
-        }
-      ]
-    },
     "truth:117134435070312739": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16768,6 +16717,21 @@
       "media_identity": "attachment:117355137125519227:b6475643d39f4b3f.jpg",
       "failure_reason": null,
       "truth_social_id": "117355137125519227",
+      "translation": ""
+    },
+    "truth:117356337184173252": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42024",
+      "source_text": "<p></p>",
+      "published": "Tue, 29 Sep 2026 20:59:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-29T22:30:32.407919Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42024",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117356337184173252:e234dfbee10abd07.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117356337184173252",
       "translation": ""
     },
     "truth:117342927581199006": {
@@ -32394,6 +32358,26 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
+    },
+    "truth:117356339820644146": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42023",
+      "source_text": "<p>Iran Has Lost Control of the Strait: <a href=\"https://x.com/BurggrabenH/status/2104361288000221497\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">x.com/BurggrabenH/status/21043</span><span class=\"invisible\">61288000221497</span></a></p>",
+      "published": "Tue, 29 Sep 2026 21:00:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-29T22:30:29.702608Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42023"
+    },
+    "truth:117356435739432952": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42025",
+      "source_text": "<p></p>",
+      "published": "Tue, 29 Sep 2026 21:24:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-29T22:30:29.702449Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42025"
     }
   }
 }
