@@ -31883,15 +31883,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/41928",
       "source_text": "<p></p>",
       "published": "Sat, 26 Sep 2026 13:13:15 +0000",
-      "retry_count": 21,
-      "updated_at": "2026-09-30T08:50:29.324614Z",
+      "retry_count": 22,
+      "updated_at": "2026-09-30T14:55:30.413782Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/41928",
       "source_fingerprint": null,
       "media_identity": "attachment:117337515298516566:03d070077b4dec0f-b8f4161e3abc.mov",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dai4fhjom7bc73bnh420\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "truth_social_id": "117337515298516566",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-09-30T14:50:29.324633Z"
+      "next_retry_at": "2026-09-30T20:55:30.413802Z"
     },
     "truth:117337537057603991": {
       "post_status": "BLOCKED",
