@@ -3403,24 +3403,12 @@
     "truth:117357090030899348",
     "https://www.trumpstruth.org/statuses/42026",
     "truth:117360567091654673",
-    "https://www.trumpstruth.org/statuses/42027"
+    "https://www.trumpstruth.org/statuses/42027",
+    "fp:Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, o",
+    "truth:117360881299832502",
+    "https://www.trumpstruth.org/statuses/42028"
   ],
   "posts": {
-    "truth:117134439935650398": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41059",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:28:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T18:15:48.441990Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41059",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117134439935650398:61257045a8f2a6ed.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117134439935650398",
-      "translation": ""
-    },
     "truth:117134444832067768": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16669,6 +16657,24 @@
       "failure_reason": null,
       "truth_social_id": "117360567091654673",
       "translation": ""
+    },
+    "truth:117360881299832502": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42028",
+      "source_text": "<p>Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP</p>",
+      "published": "Wed, 30 Sep 2026 16:15:31 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-30T17:55:34.728236Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42028",
+      "first_seen": "2026-09-30T17:35:27.084770Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, o",
+      "truth_social_id": "117360881299832502",
+      "source_fingerprint": "fp:Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, o",
+      "media_identity": "attachment:117360881299832502:",
+      "translation": "なぜFoxNewsはいつもチャック・シューマー、ハキーム・ジェフリーズ、ジェシカ・タルロフ、そしてあらゆる民主党員を出演させて、共和党について、そしてもちろん私について悪いことを言わせるのか？実のところ、彼らはトランプ支持派の共和党員よりも多くの放送時間を得ていると思う。だからこそMAGAと本当の愛国者たちはFoxNewsを決して好きにならないのだ！彼らは完全にネガティブなナラティブを何度も繰り返す。そしてその後、素早い反論を得るだけだ。3つの選挙すべてに勝った私は本当に驚異的だ。反対勢力は巨大だが、戦いは続く！ドナルド・J・トランプ大統領"
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
@@ -32294,22 +32300,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
-    },
-    "truth:117360881299832502": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42028",
-      "source_text": "<p>Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me? I actually think they get more airtime than Pro Republicans. This is why MAGA, and REAL Patriots, will never like Fox! They repeat a completely negative narrative, on and on it goes, and then we get a quick retort. It’s truly amazing that I won all three Elections. The opposition is enormous, but the fight goes on! President DONALD J. TRUMP</p>",
-      "published": "Wed, 30 Sep 2026 16:15:31 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-30T17:45:28.945540Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42028",
-      "first_seen": "2026-09-30T17:35:27.084770Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, o",
-      "next_retry_at": "2026-09-30T17:55:28.945559Z",
-      "truth_social_id": "117360881299832502"
     },
     "truth:117361036176846921": {
       "post_status": "RETRY",
