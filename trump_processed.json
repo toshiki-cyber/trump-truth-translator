@@ -3406,25 +3406,12 @@
     "https://www.trumpstruth.org/statuses/42027",
     "fp:Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, o",
     "truth:117360881299832502",
-    "https://www.trumpstruth.org/statuses/42028"
+    "https://www.trumpstruth.org/statuses/42028",
+    "fp:Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media ref",
+    "truth:117361036176846921",
+    "https://www.trumpstruth.org/statuses/42029"
   ],
   "posts": {
-    "truth:117134444832067768": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41057",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584</span><a href=\"https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 16:29:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-21T18:26:13.551057Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41057",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
-      "media_identity": "attachment:117134444832067768:950904280ae35d88.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
-      "truth_social_id": "117134444832067768",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/"
-    },
     "truth:117134446457656698": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16675,6 +16662,24 @@
       "source_fingerprint": "fp:Why does FoxNews always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, o",
       "media_identity": "attachment:117360881299832502:",
       "translation": "なぜFoxNewsはいつもチャック・シューマー、ハキーム・ジェフリーズ、ジェシカ・タルロフ、そしてあらゆる民主党員を出演させて、共和党について、そしてもちろん私について悪いことを言わせるのか？実のところ、彼らはトランプ支持派の共和党員よりも多くの放送時間を得ていると思う。だからこそMAGAと本当の愛国者たちはFoxNewsを決して好きにならないのだ！彼らは完全にネガティブなナラティブを何度も繰り返す。そしてその後、素早い反論を得るだけだ。3つの選挙すべてに勝った私は本当に驚異的だ。反対勢力は巨大だが、戦いは続く！ドナルド・J・トランプ大統領"
+    },
+    "truth:117361036176846921": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42029",
+      "source_text": "<p>Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP</p>",
+      "published": "Wed, 30 Sep 2026 16:54:55 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-09-30T18:00:32.497338Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42029",
+      "first_seen": "2026-09-30T17:35:27.538984Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media ref",
+      "truth_social_id": "117361036176846921",
+      "source_fingerprint": "fp:Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media ref",
+      "media_identity": "attachment:117361036176846921:",
+      "translation": "我が国は本当に好調だ。多くの点で、かつてないほど良好な状況にある。しかし国民はこの好調さをまだ知らない。フェイクニュースメディアが我々の記録的な数字の発表を拒否しているからだ。だから自分自身で発信するために最善を尽くしている！大統領ドナルド・J・トランプ"
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
@@ -32300,22 +32305,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 121.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/348/365/480/274/162/original/4efe595dbc82f6bc.mp4",
       "truth_social_id": "117348369252080500",
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
-    },
-    "truth:117361036176846921": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42029",
-      "source_text": "<p>Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media refuses to disseminate our Record Setting Numbers, so I’m doing the best I can to do it myself! President DONALD J. TRUMP</p>",
-      "published": "Wed, 30 Sep 2026 16:54:55 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-30T17:45:29.491688Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42029",
-      "first_seen": "2026-09-30T17:35:27.538984Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Our Nation is doing really well, in many ways, better than ever before, but the Public just doesn’t know how well we’re doing. The Fake News Media ref",
-      "next_retry_at": "2026-09-30T17:55:29.491706Z",
-      "truth_social_id": "117361036176846921"
     },
     "truth:117361125172345134": {
       "post_status": "RETRY",
