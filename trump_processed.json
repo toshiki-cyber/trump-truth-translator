@@ -3415,7 +3415,9 @@
     "https://www.trumpstruth.org/statuses/42030",
     "fp:The Inspector General’s Report just came out on Jerome “Too Late” Powell’s “renovation” of the Federal Reserve Headquarters in Washington, D.C. The IG",
     "truth:117361716972225267",
-    "https://www.trumpstruth.org/statuses/42031"
+    "https://www.trumpstruth.org/statuses/42031",
+    "truth:117362505555047950",
+    "https://www.trumpstruth.org/statuses/42035"
   ],
   "posts": {
     "truth:117134450446438705": {
@@ -32318,78 +32320,19 @@
       "next_retry_at": "2026-09-28T12:35:35.472880Z"
     },
     "truth:117362505555047950": {
-      "post_status": "POST_VERIFY_PENDING",
+      "post_status": "RETRY",
       "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/42035",
       "source_text": "<p></p>",
       "published": "Wed, 30 Sep 2026 23:08:36 +0000",
       "retry_count": 1,
-      "updated_at": "2026-09-30T23:35:59.459206Z",
+      "updated_at": "2026-09-30T23:45:35.054571Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42035",
       "source_fingerprint": null,
       "media_identity": "attachment:117362505555047950:516f803dcf26c30c-2855d85f721e.mp4",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dauppi2llv6s73du327g\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "truth_social_id": "117362505555047950",
       "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrhkjugpk3h",
-          "cid": "bafyreig543mcug5gee6gqoexis6yjbkxzpo6vt6374emgelmbyscdv32ey"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrhkjugpk3h",
-          "cid": "bafyreig543mcug5gee6gqoexis6yjbkxzpo6vt6374emgelmbyscdv32ey"
-        },
-        "next_index": 1,
-        "last_rkey": "3mwrhkjugpk3h",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-30T23:35:51.490431Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigpnb23kazq2qjb36o42zkftzofnav7vpxvxbpoaisgdgovbuicra"
-              },
-              "mimeType": "video/mp4",
-              "size": 16961950
-            },
-            "alt": ""
-          }
-        },
-        "root_rkey": "3mwrhkjugpk3h",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-09-30T23:35:51.490431Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigpnb23kazq2qjb36o42zkftzofnav7vpxvxbpoaisgdgovbuicra"
-              },
-              "mimeType": "video/mp4",
-              "size": 16961950
-            },
-            "alt": ""
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrhkjugpk3h",
-            "rkey": "3mwrhkjugpk3h"
-          }
-        ]
-      },
       "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrhkjugpk3h",
       "expected_embed": "video",
       "expected_images": 0,
@@ -32420,8 +32363,8 @@
           "rkey": "3mwrhkjugpk3h"
         }
       ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-09-30T23:40:59.459223Z"
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-09-30T23:50:35.054586Z"
     },
     "truth:117362507109086060": {
       "post_status": "POST_VERIFY_PENDING",
