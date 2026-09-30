@@ -3399,62 +3399,11 @@
     "https://www.trumpstruth.org/statuses/42025",
     "fp:Iran Has Lost Control of the Strait: \nhttps://x.com/BurggrabenH/status/2104361288000221497",
     "truth:117356339820644146",
-    "https://www.trumpstruth.org/statuses/42023"
+    "https://www.trumpstruth.org/statuses/42023",
+    "truth:117357090030899348",
+    "https://www.trumpstruth.org/statuses/42026"
   ],
   "posts": {
-    "truth:117134436836934561": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41061",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:27:43 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T17:56:02.279046Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41061",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117134436836934561:f1c0ea42bd0e6c9c.png",
-      "failure_reason": null,
-      "truth_social_id": "117134436836934561",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6iv7lbc36",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mtm6iv7lbc36",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-21T17:55:55.291949Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreif63drcmeolgn6npsp6gejjqdyybu263yo2fkrzwd6qdv342kyweq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 175389
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 886,
-                "height": 1046
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtm6iv7lbc36",
-          "rkey": "3mtm6iv7lbc36"
-        }
-      ]
-    },
     "truth:117134437554179764": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16703,6 +16652,21 @@
       "source_fingerprint": "fp:Iran Has Lost Control of the Strait: \nhttps://x.com/BurggrabenH/status/2104361288000221497",
       "media_identity": "attachment:117356339820644146:",
       "translation": "イランは海峡の支配を失った：\nhttps://x.com/BurggrabenH/status/2104361288000221497"
+    },
+    "truth:117357090030899348": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42026",
+      "source_text": "<p></p>",
+      "published": "Wed, 30 Sep 2026 00:11:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-09-30T00:30:29.032091Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42026",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117357090030899348:5b36fe815a3a80bc.jpg,993bc6741ac7f2a8.jpg,ffa5a10b3c71fbc5.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117357090030899348",
+      "translation": ""
     },
     "truth:117342927581199006": {
       "post_status": "DISCOVERED",
