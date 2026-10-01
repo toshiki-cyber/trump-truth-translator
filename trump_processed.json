@@ -3453,69 +3453,12 @@
     "https://www.trumpstruth.org/statuses/42051",
     "fp:EXCLUSIVE: Jack Smith’s Team Ignored Attorney-Client And Speech Or Debate Privileges To Get Trump: \nhttps://thefederalist.com/2026/09/28/exclusive-jac",
     "truth:117363260871717815",
-    "https://www.trumpstruth.org/statuses/42050"
+    "https://www.trumpstruth.org/statuses/42050",
+    "fp:Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: \nhttps://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev",
+    "truth:117363264569974249",
+    "https://www.trumpstruth.org/statuses/42045"
   ],
   "posts": {
-    "truth:117134634331609267": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41084",
-      "source_text": "<p>Scott Bessent: Trump Fixed Biden's 'Mess' — Economy Is Rising: <a href=\"https://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/2026/08/14/id/1266109/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/newsmax-tv/scott-b</span><span class=\"invisible\">essent-donald-trump-biden-administration/2026/08/14/id/1266109/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:17:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T21:31:06.473653Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41084",
-      "first_seen": "2026-08-21T19:55:59.367470Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Scott Bessent: Trump Fixed Biden's 'Mess' — Economy Is Rising: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/202",
-      "truth_social_id": "117134634331609267",
-      "source_fingerprint": "fp:Scott Bessent: Trump Fixed Biden's 'Mess' — Economy Is Rising: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/202",
-      "media_identity": "attachment:117134634331609267:",
-      "translation": "スコット・ベッセント：トランプはバイデンの「混乱」を修正—経済は上昇している：\nhttps://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/2026/08/14/id/1266109/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbcp57nscv",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtmbcp57nscv",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "スコット・ベッセント：トランプはバイデンの「混乱」を修正—経済は上昇している：\nhttps://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/2026/08/14/id/1266109/",
-        "createdAt": "2026-08-21T21:31:00.015625Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 118,
-              "byteEnd": 223
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/2026/08/14/id/1266109/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/2026/08/14/id/1266109/",
-            "title": "https://www.newsmax.com/newsmax-tv/scott-bessent-donald-trump-biden-administration/2026/08/14/id/1266109/",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbcp57nscv",
-          "rkey": "3mtmbcp57nscv"
-        }
-      ]
-    },
     "truth:117134633473478901": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16884,6 +16827,24 @@
           "rkey": "3mwrsbz66g2q3"
         }
       ]
+    },
+    "truth:117363264569974249": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42045",
+      "source_text": "<p>Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: <a href=\"https://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailycaller.com/2026/09/28/tru</span><span class=\"invisible\">mp-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/</span></a></p>",
+      "published": "Thu, 01 Oct 2026 02:21:37 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-01T07:10:27.636139Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42045",
+      "first_seen": "2026-10-01T04:00:31.176302Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: \nhttps://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev",
+      "truth_social_id": "117363264569974249",
+      "source_fingerprint": "fp:Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: \nhttps://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev",
+      "media_identity": "attachment:117363264569974249:",
+      "translation": "トランプ政権がバイデンの燃費基準を廃止、新車は1,300ドル安くなると発表：\nhttps://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/"
     },
     "truth:117362870737690439": {
       "post_status": "DISCOVERED",
@@ -32733,35 +32694,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T07:05:57.517836Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T07:10:24.909671Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
       "next_retry_at": "2026-10-01T07:10:57.517854Z"
-    },
-    "truth:117363264569974249": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42045",
-      "source_text": "<p>Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: <a href=\"https://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dailycaller.com/2026/09/28/tru</span><span class=\"invisible\">mp-fuel-economy-standards-ev-mandate-duffy-nhtsa-steve-milloy-jason-isaac/</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:21:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-01T04:15:27.265108Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42045",
-      "first_seen": "2026-10-01T04:00:31.176302Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump Admin Kills Biden’s Fuel Economy Rules, Says New Cars Will Cost $1,300 Less: \nhttps://dailycaller.com/2026/09/28/trump-fuel-economy-standards-ev",
-      "next_retry_at": "2026-10-01T04:25:27.265123Z",
-      "truth_social_id": "117363264569974249"
     },
     "truth:117363266224228487": {
       "post_status": "RETRY",
