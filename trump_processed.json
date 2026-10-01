@@ -32797,13 +32797,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T23:10:30.994373Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T23:15:27.986381Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32874,14 +32874,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42072",
       "source_text": "<p>Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP</p>",
       "published": "Thu, 01 Oct 2026 18:38:20 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T22:30:28.389248Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-01T23:15:28.642765Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42072",
       "first_seen": "2026-10-01T22:30:28.389210Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrat",
-      "next_retry_at": "2026-10-01T22:35:28.389258Z",
+      "next_retry_at": "2026-10-01T23:25:28.642778Z",
       "truth_social_id": "117367105128831509"
     }
   }
