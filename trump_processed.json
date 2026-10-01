@@ -3475,25 +3475,12 @@
     "truth:117366233265033126",
     "https://www.trumpstruth.org/statuses/42060",
     "truth:117366844728020252",
-    "https://www.trumpstruth.org/statuses/42066"
+    "https://www.trumpstruth.org/statuses/42066",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252",
+    "truth:117366845448721312",
+    "https://www.trumpstruth.org/statuses/42065"
   ],
   "posts": {
-    "truth:117134593867089115": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41069",
-      "source_text": "<p>It Was a Great Scam While It Lasted: <a href=\"https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/08/13/opinion</span><span class=\"invisible\">/us-tariffs-economy-trade-transshipment-scam.html</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:07:39 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-08-21T22:20:43.728256Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41069",
-      "source_fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-      "media_identity": "attachment:117134593867089115:4883bc802d1967ce.jpg,5ab2d3517af4747f.jpg,8842feecf03f48ec.jpg,e3f2f59b0d45ad87.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
-      "truth_social_id": "117134593867089115",
-      "translation": "良い詐欺商法もいつかは終わる：\nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html"
-    },
     "truth:117134638780061079": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16911,6 +16898,22 @@
       "failure_reason": null,
       "retry_count": 0,
       "translation": ""
+    },
+    "truth:117366845448721312": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42065",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252</span></p>",
+      "published": "Thu, 01 Oct 2026 17:32:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T17:55:29.595348Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42065",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252",
+      "media_identity": "attachment:117366845448721312:4e04398859ae1e72.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252",
+      "truth_social_id": "117366845448721312",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32796,13 +32799,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T17:50:32.210382Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T17:55:27.250804Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32866,16 +32869,6 @@
       "fingerprint": "fp:I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Ma",
       "next_retry_at": "2026-10-01T17:55:29.201526Z",
       "truth_social_id": "117366588767807179"
-    },
-    "truth:117366845448721312": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42065",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252</span></p>",
-      "published": "Thu, 01 Oct 2026 17:32:17 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-01T17:35:31.954908Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42065"
     }
   }
 }
