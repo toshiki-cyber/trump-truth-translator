@@ -3478,27 +3478,12 @@
     "https://www.trumpstruth.org/statuses/42066",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252",
     "truth:117366845448721312",
-    "https://www.trumpstruth.org/statuses/42065"
+    "https://www.trumpstruth.org/statuses/42065",
+    "fp:I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi St",
+    "truth:117366396669364721",
+    "https://www.trumpstruth.org/statuses/42062"
   ],
   "posts": {
-    "truth:117134638780061079": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41079",
-      "source_text": "<p>Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: <a href=\"https://www.dailysignal.com/2026/08/18/department-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/08/18/dep</span><span class=\"invisible\">artment-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:19:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T22:25:49.616373Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41079",
-      "first_seen": "2026-08-21T19:56:02.155324Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: \nhttps://www.dailysignal.com/2026/08/1",
-      "truth_social_id": "117134638780061079",
-      "source_fingerprint": "fp:Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: \nhttps://www.dailysignal.com/2026/08/1",
-      "media_identity": "attachment:117134638780061079:",
-      "translation": "教育省が人種に基づいて差別する学校の懲罰方針の要求を廃止する：\nhttps://www.dailysignal.com/2026/08/18/department-education-no-longer-require-school-discipline-policies-that-discriminate-basis-race/"
-    },
     "truth:117134639829580841": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16914,6 +16899,24 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252",
       "truth_social_id": "117366845448721312",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117366844728020252"
+    },
+    "truth:117366396669364721": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42062",
+      "source_text": "<p>I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP</p>",
+      "published": "Thu, 01 Oct 2026 15:38:09 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-01T18:05:31.879031Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42062",
+      "first_seen": "2026-10-01T17:35:32.717295Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi St",
+      "truth_social_id": "117366396669364721",
+      "source_fingerprint": "fp:I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi St",
+      "media_identity": "attachment:117366396669364721:",
+      "translation": "トッド・バトラー氏をアメリカ合衆国控訴裁判所第5巡回区に指名することを発表できて嬉しい！ミシシッピ州立大学とミシシッピ法科大学院の卒業生であり、両校ともに首席で卒業した（!)、トッド氏は現在ミシシッピ州ジャクソンのフェルプス・ダンバー法律事務所のパートナーである。彼は第5巡回区の法廷で何度も口頭弁論を行い、尊敬される判事レスリー・サウスウィック氏の下で書記官を務め、キャリアを通じて法執行機関の強い支持者であった。トッド氏はロジャー・ウィッカー上院議員とシンディ・ハイド・スミス上院議員の揺るがぬ支持を得ている。偉大なミシシッピ州の素晴らしい人々（私のお気に入りの州の一つ!)と、第5巡回区の残りの地域の人々は、トッド氏が憲法と法の支配を守ることを確信できる。おめでとうトッド！ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32799,13 +32802,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T18:00:33.880456Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T18:05:26.810552Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32821,22 +32824,6 @@
       "published": "Thu, 01 Oct 2026 01:37:09 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-01T03:45:25.758491Z"
-    },
-    "truth:117366396669364721": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42062",
-      "source_text": "<p>I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunbar in Jackson, Mississippi. He has argued numerous times before the Fifth Circuit, previously clerked for highly respected Judge, Leslie Southwick, and has been a strong defender of Law Enforcement throughout his career. Todd has the unwavering support of Senators Roger Wicker and Cindy Hyde-Smith. The wonderful people of the Great State of Mississippi (one of my favorites!), and the rest of the Fifth Circuit, can count on Todd to protect the Constitution and the Rule of Law. Congratulations Todd! President DONALD J. TRUMP</p>",
-      "published": "Thu, 01 Oct 2026 15:38:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-01T17:45:28.170470Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42062",
-      "first_seen": "2026-10-01T17:35:32.717295Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi St",
-      "next_retry_at": "2026-10-01T17:55:28.170485Z",
-      "truth_social_id": "117366396669364721"
     },
     "truth:117366474576378383": {
       "post_status": "RETRY",
