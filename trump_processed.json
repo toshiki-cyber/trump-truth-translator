@@ -3429,62 +3429,12 @@
     "truth:117363088922196903",
     "https://www.trumpstruth.org/statuses/42039",
     "truth:117363277304148804",
-    "https://www.trumpstruth.org/statuses/42049"
+    "https://www.trumpstruth.org/statuses/42049",
+    "fp:Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: \nhttps://nypost.com/2026/0",
+    "truth:117363250174439013",
+    "https://www.trumpstruth.org/statuses/42055"
   ],
   "posts": {
-    "truth:117134849304439845": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41104",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 18:12:37 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T20:25:53.320103Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41104",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117134849304439845:ef964fa9adbb93f8.png",
-      "failure_reason": null,
-      "truth_social_id": "117134849304439845",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmeehfqf2xw",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mtmeehfqf2xw",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-08-21T20:25:46.540498Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicbp5idwo5o44vle3mletnfwn34o6g6m5jk7n6xrblhflcmyb5req"
-                },
-                "mimeType": "image/jpeg",
-                "size": 91614
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 892,
-                "height": 530
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmeehfqf2xw",
-          "rkey": "3mtmeehfqf2xw"
-        }
-      ]
-    },
     "truth:117134595100624861": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16703,6 +16653,24 @@
       "failure_reason": null,
       "truth_social_id": "117363277304148804",
       "translation": ""
+    },
+    "truth:117363250174439013": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42055",
+      "source_text": "<p>Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: <a href=\"https://nypost.com/2026/09/25/us-news/trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/25/us-news/</span><span class=\"invisible\">trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/</span></a></p>",
+      "published": "Thu, 01 Oct 2026 02:17:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-01T04:25:30.291103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42055",
+      "first_seen": "2026-10-01T04:00:26.664532Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: \nhttps://nypost.com/2026/0",
+      "truth_social_id": "117363250174439013",
+      "source_fingerprint": "fp:Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: \nhttps://nypost.com/2026/0",
+      "media_identity": "attachment:117363250174439013:",
+      "translation": "独占報道：トランプ大統領、新たな「ポケット」予算執行停止で違法移民および人種別プログラムへの約10億ドルの予算を廃止：\nhttps://nypost.com/2026/09/25/us-news/trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/"
     },
     "truth:117362870737690439": {
       "post_status": "DISCOVERED",
@@ -32552,35 +32520,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T04:20:30.257411Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T04:25:28.160650Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
       "next_retry_at": "2026-10-01T04:25:30.257426Z"
-    },
-    "truth:117363250174439013": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42055",
-      "source_text": "<p>Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: <a href=\"https://nypost.com/2026/09/25/us-news/trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/25/us-news/</span><span class=\"invisible\">trump-cancels-nearly-1b-in-funding-for-illegal-immigrants-and-race-focused-programs-in-new-pocket-rescission/</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:17:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-01T04:15:25.367715Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42055",
-      "first_seen": "2026-10-01T04:00:26.664532Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Exclusive: Trump Cancels Nearly $1B In Funding For Illegal Immigrants And Race-Focused Programs In New ‘Pocket’ Rescission: \nhttps://nypost.com/2026/0",
-      "next_retry_at": "2026-10-01T04:25:25.367728Z",
-      "truth_social_id": "117363250174439013"
     },
     "truth:117363251732231828": {
       "post_status": "RETRY",
