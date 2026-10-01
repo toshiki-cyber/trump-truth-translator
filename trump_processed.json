@@ -3441,27 +3441,12 @@
     "https://www.trumpstruth.org/statuses/42042",
     "fp:Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: \nhttps://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothin",
     "truth:117363254598194638",
-    "https://www.trumpstruth.org/statuses/42054"
+    "https://www.trumpstruth.org/statuses/42054",
+    "fp:US finalizes new lower fuel economy standards in boost for gas-powered vehicles: \nhttps://www.reuters.com/business/autos-transportation/us-finalizes-n",
+    "truth:117363255844500237",
+    "https://www.trumpstruth.org/statuses/42053"
   ],
   "posts": {
-    "truth:117134600045602327": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41064",
-      "source_text": "<p>Trump: US Has Total Control of Hormuz: <a href=\"https://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/world/globaltalk/t</span><span class=\"invisible\">rump-hormuz-iran/2026/08/12/id/1265856/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:09:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T20:45:52.886166Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41064",
-      "first_seen": "2026-08-21T19:55:56.987908Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump: US Has Total Control of Hormuz: \nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/",
-      "truth_social_id": "117134600045602327",
-      "source_fingerprint": "fp:Trump: US Has Total Control of Hormuz: \nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/",
-      "media_identity": "attachment:117134600045602327:",
-      "translation": "トランプ：米国はホルムズ海峡を完全に支配している：\nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/"
-    },
     "truth:117134622109680955": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16830,6 +16815,24 @@
           "rkey": "3mwrs75utykrb"
         }
       ]
+    },
+    "truth:117363255844500237": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42053",
+      "source_text": "<p>US finalizes new lower fuel economy standards in boost for gas-powered vehicles: <a href=\"https://www.reuters.com/business/autos-transportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/autos-tra</span><span class=\"invisible\">nsportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/</span></a></p>",
+      "published": "Thu, 01 Oct 2026 02:19:24 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-01T06:00:29.400579Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42053",
+      "first_seen": "2026-10-01T04:00:28.711372Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:US finalizes new lower fuel economy standards in boost for gas-powered vehicles: \nhttps://www.reuters.com/business/autos-transportation/us-finalizes-n",
+      "truth_social_id": "117363255844500237",
+      "source_fingerprint": "fp:US finalizes new lower fuel economy standards in boost for gas-powered vehicles: \nhttps://www.reuters.com/business/autos-transportation/us-finalizes-n",
+      "media_identity": "attachment:117363255844500237:",
+      "translation": "米国が新しい低い燃費基準を最終決定、ガソリン車向けの追い風となる：\nhttps://www.reuters.com/business/autos-transportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/"
     },
     "truth:117362870737690439": {
       "post_status": "DISCOVERED",
@@ -32679,35 +32682,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T05:55:41.454907Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T06:00:26.591975Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
       "next_retry_at": "2026-10-01T06:00:41.454928Z"
-    },
-    "truth:117363255844500237": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42053",
-      "source_text": "<p>US finalizes new lower fuel economy standards in boost for gas-powered vehicles: <a href=\"https://www.reuters.com/business/autos-transportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/business/autos-tra</span><span class=\"invisible\">nsportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:19:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-01T04:15:26.235714Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42053",
-      "first_seen": "2026-10-01T04:00:28.711372Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:US finalizes new lower fuel economy standards in boost for gas-powered vehicles: \nhttps://www.reuters.com/business/autos-transportation/us-finalizes-n",
-      "next_retry_at": "2026-10-01T04:25:26.235729Z",
-      "truth_social_id": "117363255844500237"
     },
     "truth:117363257382134049": {
       "post_status": "RETRY",
