@@ -32695,13 +32695,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T08:21:26.865288Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T08:25:27.352411Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32719,20 +32719,173 @@
       "updated_at": "2026-10-01T03:45:25.758491Z"
     },
     "truth:117363530938149737": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/42056",
       "source_text": "<p>Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: <a href=\"https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when</span></a></p>",
       "published": "Thu, 01 Oct 2026 03:29:22 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-01T07:45:32.169256Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-01T08:25:37.626653Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42056",
       "first_seen": "2026-10-01T07:35:27.841462Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: \nhttps://justthenews.com/government/white-house/first",
-      "next_retry_at": "2026-10-01T07:55:32.169281Z",
-      "truth_social_id": "117363530938149737"
+      "truth_social_id": "117363530938149737",
+      "source_fingerprint": "fp:Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: \nhttps://justthenews.com/government/white-house/first",
+      "media_identity": "attachment:117363530938149737:",
+      "translation": "トランプのCNN追放報道、ジャック・スミスのメディアスパイ活動が二重基準を露呈する：\nhttps://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrw4t5o4s3x",
+          "cid": "bafyreic3peyxbe7iy4gii64i2wmzgj3ktmmdt2rlpfha2luu4gnf4zwkye"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrw4t5o4s3x",
+          "cid": "bafyreic3peyxbe7iy4gii64i2wmzgj3ktmmdt2rlpfha2luu4gnf4zwkye"
+        },
+        "next_index": 1,
+        "last_rkey": "3mwrw4t5o4s3x",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "トランプのCNN追放報道、ジャック・スミスのメディアスパイ活動が二重基準を露呈する：\nhttps://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+          "createdAt": "2026-10-01T08:25:30.683589Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 121,
+                "byteEnd": 236
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+              "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard",
+              "description": "The records came from National Archives productions tied to 87 White House phones, capturing journalist-source exchanges as Smith’s team pursued Trump over the 2020 election and classified documents.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigvvtla6zekfp6wyogucmmop6v72bnaudzc2l662tufalcdhxkz5a"
+                },
+                "mimeType": "image/jpeg",
+                "size": 122347
+              }
+            }
+          }
+        },
+        "root_rkey": "3mwrw4t5o4s3x",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "トランプのCNN追放報道、ジャック・スミスのメディアスパイ活動が二重基準を露呈する：\nhttps://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+          "createdAt": "2026-10-01T08:25:30.683589Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 121,
+                "byteEnd": 236
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+              "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard",
+              "description": "The records came from National Archives productions tied to 87 White House phones, capturing journalist-source exchanges as Smith’s team pursued Trump over the 2020 election and classified documents.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigvvtla6zekfp6wyogucmmop6v72bnaudzc2l662tufalcdhxkz5a"
+                },
+                "mimeType": "image/jpeg",
+                "size": 122347
+              }
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrw4t5o4s3x",
+            "rkey": "3mwrw4t5o4s3x"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrw4t5o4s3x",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mwrw4t5o4s3x",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "トランプのCNN追放報道、ジャック・スミスのメディアスパイ活動が二重基準を露呈する：\nhttps://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+        "createdAt": "2026-10-01T08:25:30.683589Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 121,
+              "byteEnd": 236
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+            "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard",
+            "description": "The records came from National Archives productions tied to 87 White House phones, capturing journalist-source exchanges as Smith’s team pursued Trump over the 2020 election and classified documents.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigvvtla6zekfp6wyogucmmop6v72bnaudzc2l662tufalcdhxkz5a"
+              },
+              "mimeType": "image/jpeg",
+              "size": 122347
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrw4t5o4s3x",
+          "rkey": "3mwrw4t5o4s3x"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-01T08:30:37.626679Z"
     },
     "truth:117363810994521058": {
       "post_status": "RETRY",
