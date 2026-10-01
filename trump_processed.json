@@ -3487,27 +3487,12 @@
     "https://www.trumpstruth.org/statuses/42063",
     "fp:I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Ma",
     "truth:117366588767807179",
-    "https://www.trumpstruth.org/statuses/42064"
+    "https://www.trumpstruth.org/statuses/42064",
+    "fp:I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just ",
+    "truth:117366933918841897",
+    "https://www.trumpstruth.org/statuses/42067"
   ],
   "posts": {
-    "truth:117134641491790365": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41076",
-      "source_text": "<p>FBI: 2025 had biggest violent-crime drop in 90 years: <a href=\"https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/08/18/fbi-viole</span><span class=\"invisible\">nt-crime-drop-2025</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:19:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T22:40:58.292195Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41076",
-      "first_seen": "2026-08-21T19:56:04.112621Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:FBI: 2025 had biggest violent-crime drop in 90 years: \nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
-      "truth_social_id": "117134641491790365",
-      "source_fingerprint": "fp:FBI: 2025 had biggest violent-crime drop in 90 years: \nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025",
-      "media_identity": "attachment:117134641491790365:",
-      "translation": "FBI：2025年は90年で最大の暴力犯罪減少を記録：\nhttps://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025"
-    },
     "truth:117134432679930032": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16923,6 +16908,24 @@
       "source_fingerprint": "fp:I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Ma",
       "media_identity": "attachment:117366588767807179:",
       "translation": "ブライアン・マイヤーズ氏の北カロライナ東部地区連邦地裁への指名を発表できることを嬉しく思う！現在、同じ裁判所の判事補を務めているブライアン氏は、かつて北カロライナ東部地区の連邦検事補として10年以上務め、また米海兵隊の弁護士としても勤務していた。ブライアン氏はデビッドソン大学（大学野球で活躍！）およびリッチモンド大学ロースクールを卒業している。法務博士号取得前、ブライアン氏は故ジェシー・ヘルムス上院議員の下で勤務していた。ノースカロライナ州選出の両上院議員テッド・バッドおよびトム・ティリス、ならびに合衆国上院共和党候補で共和党前全国委員長のマイケル・ウェットレーの強い支持を受けて、ブライアン氏は連邦裁判所で憲法を強固に保護し擁護し続けるだろう。おめでとう、ブライアン！ドナルド・J・トランプ大統領"
+    },
+    "truth:117366933918841897": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42067",
+      "source_text": "<p>I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP</p>",
+      "published": "Thu, 01 Oct 2026 17:54:47 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-01T20:05:36.734430Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42067",
+      "first_seen": "2026-10-01T19:40:26.168073Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just ",
+      "truth_social_id": "117366933918841897",
+      "source_fingerprint": "fp:I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just ",
+      "media_identity": "attachment:117366933918841897:",
+      "translation": "私は、イランの核脅威を排除するには4～6週間かかると何度も述べていたが、1晩でやり遂げた！残りの時間は、それが続くようにするためだけだ。ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32808,13 +32811,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T20:00:33.410109Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T20:05:33.208519Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32830,22 +32833,6 @@
       "published": "Thu, 01 Oct 2026 01:37:09 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-01T03:45:25.758491Z"
-    },
-    "truth:117366933918841897": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42067",
-      "source_text": "<p>I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP</p>",
-      "published": "Thu, 01 Oct 2026 17:54:47 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-01T19:50:31.265554Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42067",
-      "first_seen": "2026-10-01T19:40:26.168073Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just ",
-      "next_retry_at": "2026-10-01T20:00:31.265570Z",
-      "truth_social_id": "117366933918841897"
     },
     "truth:117366981010865903": {
       "post_status": "RETRY",
