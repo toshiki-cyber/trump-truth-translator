@@ -3459,27 +3459,12 @@
     "https://www.trumpstruth.org/statuses/42045",
     "fp:Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: \nhttps://www.axios.com/2026/09/28/hegseth-elections-secur",
     "truth:117363266224228487",
-    "https://www.trumpstruth.org/statuses/42044"
+    "https://www.trumpstruth.org/statuses/42044",
+    "fp:Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: \nhttps://justthenews.com/accountability/political-ethics/th-us-sen",
+    "truth:117363528339371665",
+    "https://www.trumpstruth.org/statuses/42058"
   ],
   "posts": {
-    "truth:117134635572174687": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41083",
-      "source_text": "<p>Key House caucus leaders target Supreme Court, Senate filibuster: <a href=\"https://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotus-00973895\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">politico.com/live-updates/2026</span><span class=\"invisible\">/06/24/congress/dem-caucuses-target-scotus-00973895</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:18:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T21:41:12.065628Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41083",
-      "first_seen": "2026-08-21T19:55:59.828418Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Key House caucus leaders target Supreme Court, Senate filibuster: \nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotu",
-      "truth_social_id": "117134635572174687",
-      "source_fingerprint": "fp:Key House caucus leaders target Supreme Court, Senate filibuster: \nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotu",
-      "media_identity": "attachment:117134635572174687:",
-      "translation": "主要な下院院内総務指導者が最高裁判所と上院フィリバスター制度を標的にしている：\nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotus-00973895"
-    },
     "truth:117134598983433487": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16840,6 +16825,24 @@
           "rkey": "3mwrseh2n7cjn"
         }
       ]
+    },
+    "truth:117363528339371665": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42058",
+      "source_text": "<p>Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: <a href=\"https://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be</span></a></p>",
+      "published": "Thu, 01 Oct 2026 03:28:42 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-01T08:05:30.175032Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42058",
+      "first_seen": "2026-10-01T07:35:27.013299Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: \nhttps://justthenews.com/accountability/political-ethics/th-us-sen",
+      "truth_social_id": "117363528339371665",
+      "source_fingerprint": "fp:Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: \nhttps://justthenews.com/accountability/political-ethics/th-us-sen",
+      "media_identity": "attachment:117363528339371665:",
+      "translation": "ジャック・スミスを訴えた上院議員は、彼も刑事訴追されるべきだと考えていると述べた：\nhttps://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be"
     },
     "truth:117362870737690439": {
       "post_status": "DISCOVERED",
@@ -32689,13 +32692,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T08:00:36.224737Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T08:05:27.648878Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32711,22 +32714,6 @@
       "published": "Thu, 01 Oct 2026 01:37:09 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-01T03:45:25.758491Z"
-    },
-    "truth:117363528339371665": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42058",
-      "source_text": "<p>Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: <a href=\"https://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be</span></a></p>",
-      "published": "Thu, 01 Oct 2026 03:28:42 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-01T07:45:31.667167Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42058",
-      "first_seen": "2026-10-01T07:35:27.013299Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: \nhttps://justthenews.com/accountability/political-ethics/th-us-sen",
-      "next_retry_at": "2026-10-01T07:55:31.667181Z",
-      "truth_social_id": "117363528339371665"
     },
     "truth:117363529555626519": {
       "post_status": "RETRY",
