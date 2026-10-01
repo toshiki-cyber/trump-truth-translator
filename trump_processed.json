@@ -3422,7 +3422,10 @@
     "https://www.trumpstruth.org/statuses/42034",
     "fp:In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERI",
     "truth:117362870737690439",
-    "https://www.trumpstruth.org/statuses/42037"
+    "https://www.trumpstruth.org/statuses/42037",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903",
+    "truth:117363089683591337",
+    "https://www.trumpstruth.org/statuses/42047"
   ],
   "posts": {
     "truth:117134450446438705": {
@@ -16680,6 +16683,22 @@
       "source_fingerprint": "fp:The Inspector General’s Report just came out on Jerome “Too Late” Powell’s “renovation” of the Federal Reserve Headquarters in Washington, D.C. The IG",
       "media_identity": "attachment:117361716972225267:",
       "translation": "司法長官監察官のレポートが、ジェローム「遅すぎる」パウエルの連邦準備制度理事会ワシントンD.C.本部の「改修」についに発表された。監察官レポートは、改修プロジェクトの「管理における欠陥」があったと述べている。この建物は予算を大幅に超過しており、記録的なペースであり、最低限「遅すぎる」パウエルは理事会から辞任を強制されるべきだ。彼は建物さえ管理できないのに、ましてや彼の高金利政策（「トランプ」にだけ適用）を管理することなど許されるべきではない。私は司法長官トッド・ブランシュに、このレポートを検討し、予算から数十億ドル超過し、レポートによれば最低でも25億ドルかかることになり、終わりが見えない比較的小さな建物複合施設についてどうするかを判断するよう求めた。レポートは「理事会が建設マネージャーからプロジェクト費用見積もりを取得したのは2026年1月であり、これは建設開始から3年半後であり、理事会が20億ドルを超える建設費を承認した後であることに懸念を感じた」と述べている。2026年7月の時点で、建設開始から4年以上経過し、20億ドルが建設費として承認されたが、理事会はまだ「保証付き最大価格」を設定していない」――絶対に前代未聞の状況だ！――「したがって、理事会はまだ費用確実性を持たず、建設マネージャーに物質的リスクを移転していない」。実際のところ、私は25億ドルが35億ドルになり、完成時には40億ドルになるかもしれず、正しく建設されないかもしれないと考えている。防音処理や建物の他のすべての要素は、以前そこにあったものより劣るだろう。特に、雄大な美しさ、彫刻された天井と壁、そして連邦準備制度の建物を際立たせた多くの他の物事は、二度と再現されることはなく、退屈で平坦で二流以下の仕上げに置き換わるだけだ。私なら25百万ドルで遥かに優れた改修を行い、この構造物の素晴らしさを完全に保ちながら、お金を余らせることができた。彼らは完全にこの建物の美しさと栄光ある歴史を破壊した。これはジェローム・パウエルの責任であり、彼は直ちに辞任を強制されるべきだ！もし彼が辞任しなければ、彼は腐敗または無能のいずれかで、アメリカ合衆国政府によって最高レベルで訴えられるべきだ。両方とも完全に受け入れられない――そして、いや、この建物に私、ドナルド・J・トランプ大統領の名前をつけてほしくない！この問題への注意をありがとう。ドナルド・J・トランプ大統領"
+    },
+    "truth:117363089683591337": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42038",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903</span></p>",
+      "published": "Thu, 01 Oct 2026 01:37:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-01T03:40:29.911062Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42047",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903",
+      "media_identity": "attachment:117363089683591337:f1fcaf8a3c6ecf76.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903",
+      "truth_social_id": "117363089683591337",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117363088922196903"
     },
     "truth:117362870737690439": {
       "post_status": "DISCOVERED",
@@ -32572,16 +32591,6 @@
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-01T03:40:50.406169Z"
     },
-    "truth:117363089683591337": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42047",
-      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
-      "published": "Thu, 01 Oct 2026 02:25:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-01T03:35:27.688545Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42047"
-    },
     "truth:117363113783791267": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -32595,11 +32604,11 @@
     "truth:117363131054368093": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42046",
-      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
-      "published": "Thu, 01 Oct 2026 02:25:30 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/42040",
+      "source_text": "<p></p>",
+      "published": "Thu, 01 Oct 2026 01:47:40 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-01T03:35:27.688406Z",
+      "updated_at": "2026-10-01T03:40:26.219771Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046"
     },
     "truth:117363250174439013": {
