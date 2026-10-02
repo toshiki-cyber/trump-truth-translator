@@ -32800,19 +32800,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-02T01:30:26.133509Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-02T01:35:28.976638Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
-      "next_retry_at": "2026-10-02T01:30:30.107992Z"
+      "next_retry_at": "2026-10-02T01:40:28.976656Z"
     },
     "https://www.trumpstruth.org/statuses/42038": {
       "post_status": "DISCOVERED",
@@ -32885,6 +32885,26 @@
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/368/259/090/161/027/original/1b8284d8ac8444fe.mp4",
       "truth_social_id": "117368266436035432",
       "next_retry_at": "2026-10-02T01:45:28.669582Z"
+    },
+    "truth:117368288137760987": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42075",
+      "source_text": "<p>To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP</p>",
+      "published": "Thu, 01 Oct 2026 23:39:11 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T01:35:27.503310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42075"
+    },
+    "truth:117368375016362939": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42076",
+      "source_text": "<p>I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP</p>",
+      "published": "Fri, 02 Oct 2026 00:01:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T01:35:27.503165Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42076"
     }
   }
 }
