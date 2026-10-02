@@ -32747,13 +32747,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-02T20:35:30.191152Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T20:40:25.438687Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32792,15 +32792,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42071",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 18:11:23 +0000",
-      "retry_count": 9,
-      "updated_at": "2026-10-02T14:35:32.723738Z",
+      "retry_count": 10,
+      "updated_at": "2026-10-02T20:40:28.304434Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42071",
       "source_fingerprint": null,
       "media_identity": "attachment:117366999210250414:86e1bb0c8ffea0d1-5dbea85761dc.mp4",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"da7rt74ug6hs73avodgg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "truth_social_id": "117366999210250414",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-02T20:35:32.723757Z"
+      "next_retry_at": "2026-10-03T02:40:28.304455Z"
     },
     "truth:117367000302830501": {
       "post_status": "RETRY",
