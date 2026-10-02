@@ -3509,27 +3509,12 @@
     "https://www.trumpstruth.org/statuses/42077",
     "fp:America does not belong to those who hate it. America belongs to those who love it! President DONALD J. TRUMP",
     "truth:117369458827039533",
-    "https://www.trumpstruth.org/statuses/42078"
+    "https://www.trumpstruth.org/statuses/42078",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238",
+    "truth:117369900687288624",
+    "https://www.trumpstruth.org/statuses/42079"
   ],
   "posts": {
-    "truth:117134650935728888": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41098",
-      "source_text": "<p>This Is the Best 'Hard Goods' Boom in Decades: <a href=\"https://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">realclearpolitics.com/articles</span><span class=\"invisible\">/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:22:10 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-21T23:30:48.646531Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41098",
-      "first_seen": "2026-08-21T19:56:38.011227Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:This Is the Best 'Hard Goods' Boom in Decades: \nhttps://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_1544",
-      "truth_social_id": "117134650935728888",
-      "source_fingerprint": "fp:This Is the Best 'Hard Goods' Boom in Decades: \nhttps://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_1544",
-      "media_identity": "attachment:117134650935728888:",
-      "translation": "これは数十年で最高の「耐久消費財」ブームだ：\nhttps://www.realclearpolitics.com/articles/2026/08/20/this_is_the_best_hard_goods_boom_in_decades_154427.html"
-    },
     "truth:117134645458445535": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16903,6 +16888,22 @@
           "rkey": "3mwukejbzuch6"
         }
       ]
+    },
+    "truth:117369900687288624": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42079",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238</span></p>",
+      "published": "Fri, 02 Oct 2026 06:29:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T07:46:10.021275Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42079",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238",
+      "media_identity": "attachment:117369900687288624:0377b499b8c21291-0a7f34a0d0c4.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238",
+      "truth_social_id": "117369900687288624",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32788,13 +32789,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-02T07:40:28.994042Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T07:45:26.678595Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32873,16 +32874,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/368/259/090/161/027/original/1b8284d8ac8444fe.mp4",
       "retry_count": 1,
       "next_retry_at": "2026-10-02T02:05:31.906268Z"
-    },
-    "truth:117369900687288624": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42079",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117367780569149238</span></p>",
-      "published": "Fri, 02 Oct 2026 06:29:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-02T07:35:25.394116Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42079"
     }
   }
 }
