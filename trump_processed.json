@@ -32800,13 +32800,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-02T00:15:37.157636Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T00:20:29.105529Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32877,14 +32877,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42074",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 23:33:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-02T00:00:29.116426Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-02T00:20:31.529643Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42074",
       "source_fingerprint": null,
       "media_identity": "attachment:117368266436035432:1b8284d8ac8444fe.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/368/259/090/161/027/original/1b8284d8ac8444fe.mp4",
       "truth_social_id": "117368266436035432",
-      "next_retry_at": "2026-10-02T00:05:29.116447Z"
+      "next_retry_at": "2026-10-02T00:30:31.529657Z"
     }
   }
 }
