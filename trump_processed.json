@@ -3515,77 +3515,12 @@
     "https://www.trumpstruth.org/statuses/42079",
     "fp:I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oi",
     "truth:117371353802794328",
-    "https://www.trumpstruth.org/statuses/42080"
+    "https://www.trumpstruth.org/statuses/42080",
+    "fp:Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attenti",
+    "truth:117371677010048663",
+    "https://www.trumpstruth.org/statuses/42081"
   ],
   "posts": {
-    "truth:117134648247611471": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41101",
-      "source_text": "<p>Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: <a href=\"https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/08/20/us-news/</span><span class=\"invisible\">melania-trump-links-up-with-indycar-for-foster-kid-scholarships/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:29 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T23:50:45.707542Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41101",
-      "failure_reason": null,
-      "fingerprint": "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
-      "first_seen": "2026-08-21T20:16:19.850956Z",
-      "no_media_confirmations": 4,
-      "truth_social_id": "117134648247611471",
-      "source_fingerprint": "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
-      "media_identity": "attachment:117134648247611471:",
-      "translation": "メラニア・トランプがインディカーと提携し、里子向けの奨学金とスタイリッシュな新しいルックを実現 \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbizndw2c7",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtmbizndw2c7",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "メラニア・トランプがインディカーと提携し、里子向けの奨学金とスタイリッシュな新しいルックを実現 \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
-        "createdAt": "2026-08-21T23:41:17.154397Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 143,
-              "byteEnd": 245
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://nypost.com/2026/08/20/us-news/melania-trump-links-up-with-indycar-for-foster-kid-scholarships/",
-            "title": "Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look",
-            "description": "The sanctioning body for US auto racing will team up with the Trump administration and Indiana and Purdue universities to fund the investments, joining 24 other schools around the country. ",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreialx72hcjycervqxtzb3scjq4iw5kqve2fffqf6vuolr3y6ijtroe"
-              },
-              "mimeType": "image/jpeg",
-              "size": 212015
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbizndw2c7",
-          "rkey": "3mtmbizndw2c7"
-        }
-      ]
-    },
     "truth:117134651908743307": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16875,6 +16810,24 @@
           "rkey": "3mwvfcasuq2hx"
         }
       ]
+    },
+    "truth:117371677010048663": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42081",
+      "source_text": "<p>Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT</p>",
+      "published": "Fri, 02 Oct 2026 14:01:01 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-02T16:30:30.010851Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42081",
+      "first_seen": "2026-10-02T15:40:26.088380Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attenti",
+      "truth_social_id": "117371677010048663",
+      "source_fingerprint": "fp:Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attenti",
+      "media_identity": "attachment:117371677010048663:",
+      "translation": "ヨーロッパが大量の備蓄ディーゼル油の放出に合意したばかりだ。プロセスは直ちに開始される。この件についての注目をありがとう！トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32760,13 +32713,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-02T16:25:29.439948Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T16:30:27.539040Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32845,22 +32798,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/368/259/090/161/027/original/1b8284d8ac8444fe.mp4",
       "retry_count": 1,
       "next_retry_at": "2026-10-02T02:05:31.906268Z"
-    },
-    "truth:117371677010048663": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42081",
-      "source_text": "<p>Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attention to this matter! President DJT</p>",
-      "published": "Fri, 02 Oct 2026 14:01:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-02T16:05:31.733435Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42081",
-      "first_seen": "2026-10-02T15:40:26.088380Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately. Thank you for your attenti",
-      "next_retry_at": "2026-10-02T16:15:31.733451Z",
-      "truth_social_id": "117371677010048663"
     }
   }
 }
