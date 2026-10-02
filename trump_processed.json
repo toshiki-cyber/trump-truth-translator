@@ -32795,13 +32795,13 @@
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
       "retry_count": 1,
-      "updated_at": "2026-10-02T08:25:27.794430Z",
+      "updated_at": "2026-10-02T08:30:34.931204Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
-      "next_retry_at": "2026-10-02T08:30:27.794443Z"
+      "next_retry_at": "2026-10-02T08:35:34.931221Z"
     },
     "https://www.trumpstruth.org/statuses/42038": {
       "post_status": "DISCOVERED",
