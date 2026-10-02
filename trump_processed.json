@@ -3500,69 +3500,12 @@
     "https://www.trumpstruth.org/statuses/42072",
     "fp:To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to lan",
     "truth:117368288137760987",
-    "https://www.trumpstruth.org/statuses/42075"
+    "https://www.trumpstruth.org/statuses/42075",
+    "fp:I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
+    "truth:117368375016362939",
+    "https://www.trumpstruth.org/statuses/42076"
   ],
   "posts": {
-    "truth:117134644597189989": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41073",
-      "source_text": "<p>Radical Democrats gearing up for woke 2.0: <a href=\"https://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtontimes.com/news/2026/</span><span class=\"invisible\">aug/16/radical-democrats-gearing-woke-20/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:20:33 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-21T23:10:44.295222Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41073",
-      "first_seen": "2026-08-21T19:56:05.413806Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Radical Democrats gearing up for woke 2.0: \nhttps://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/",
-      "truth_social_id": "117134644597189989",
-      "source_fingerprint": "fp:Radical Democrats gearing up for woke 2.0: \nhttps://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/",
-      "media_identity": "attachment:117134644597189989:",
-      "translation": "過激な民主党員がウォーク2.0に向けて準備を整えている：\nhttps://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbhejifsaf",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtmbhejifsaf",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "過激な民主党員がウォーク2.0に向けて準備を整えている：\nhttps://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/",
-        "createdAt": "2026-08-21T23:01:21.330118Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 79,
-              "byteEnd": 162
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/",
-            "title": "https://www.washingtontimes.com/news/2026/aug/16/radical-democrats-gearing-woke-20/",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbhejifsaf",
-          "rkey": "3mtmbhejifsaf"
-        }
-      ]
-    },
     "truth:117134649080283243": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16918,6 +16861,24 @@
       "source_fingerprint": "fp:To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to lan",
       "media_identity": "attachment:117368288137760987:",
       "translation": "オクラホマの偉大な国民の皆さんへ、お楽しみに——間もなく現地に向かいます！大きな天候による遅延が発生し、飛行機とヘリコプターが着陸できなくなったため、テキサスから車で向かっています。関係者たちはイベントを延期するよう求めてきましたが、私は「絶対にダメだ、オクラホマに行く！」と言いました。「ザ・ビースト」はこれまでになないスピードで走っています。もうすぐ着きます。皆さんを愛しています！間もなくお会いしましょう。ドナルド・J・トランプ大統領"
+    },
+    "truth:117368375016362939": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42076",
+      "source_text": "<p>I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP</p>",
+      "published": "Fri, 02 Oct 2026 00:01:16 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-02T02:45:29.061025Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42076",
+      "first_seen": "2026-10-02T01:40:25.299658Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
+      "truth_social_id": "117368375016362939",
+      "source_fingerprint": "fp:I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
+      "media_identity": "attachment:117368375016362939:",
+      "translation": "もうすぐだオクラホマ州 — あと10分だ！大統領ドナルド・J・トランプ"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32803,13 +32764,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-02T02:40:28.462959Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T02:45:27.075719Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32888,22 +32849,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/368/259/090/161/027/original/1b8284d8ac8444fe.mp4",
       "retry_count": 1,
       "next_retry_at": "2026-10-02T02:05:31.906268Z"
-    },
-    "truth:117368375016362939": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42076",
-      "source_text": "<p>I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP</p>",
-      "published": "Fri, 02 Oct 2026 00:01:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-02T02:15:31.528864Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42076",
-      "first_seen": "2026-10-02T01:40:25.299658Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
-      "next_retry_at": "2026-10-02T02:25:31.528888Z",
-      "truth_social_id": "117368375016362939"
     }
   }
 }
