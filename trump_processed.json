@@ -32747,19 +32747,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-02T23:30:25.532183Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-02T23:35:26.002347Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
-      "next_retry_at": "2026-10-02T23:30:30.650119Z"
+      "next_retry_at": "2026-10-02T23:40:26.002369Z"
     },
     "https://www.trumpstruth.org/statuses/42038": {
       "post_status": "DISCOVERED",
@@ -32832,6 +32832,36 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/368/259/090/161/027/original/1b8284d8ac8444fe.mp4",
       "retry_count": 1,
       "next_retry_at": "2026-10-02T02:05:31.906268Z"
+    },
+    "truth:117373336850052625": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42085",
+      "source_text": "<p></p>",
+      "published": "Fri, 02 Oct 2026 21:03:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T23:35:24.310761Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42085"
+    },
+    "truth:117373388463106981": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42084",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625</span>Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?</p>",
+      "published": "Fri, 02 Oct 2026 21:16:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T23:35:24.310623Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42084"
+    },
+    "truth:117373586079029403": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42086",
+      "source_text": "<p>Thank you Oklahoma! President DONALD J. TRUMP</p>",
+      "published": "Fri, 02 Oct 2026 22:06:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T23:35:24.310474Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42086"
     }
   }
 }
