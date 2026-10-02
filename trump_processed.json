@@ -32713,19 +32713,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-02T19:30:26.426044Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-02T19:35:25.683314Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
-      "next_retry_at": "2026-10-02T19:30:28.362319Z"
+      "next_retry_at": "2026-10-02T19:40:25.683325Z"
     },
     "https://www.trumpstruth.org/statuses/42038": {
       "post_status": "DISCOVERED",
@@ -32798,6 +32798,26 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 152.5MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/368/259/090/161/027/original/1b8284d8ac8444fe.mp4",
       "retry_count": 1,
       "next_retry_at": "2026-10-02T02:05:31.906268Z"
+    },
+    "truth:117372766735299421": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42083",
+      "source_text": "<p></p>",
+      "published": "Fri, 02 Oct 2026 18:38:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T19:35:24.523215Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42083"
+    },
+    "truth:117372767454121009": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42082",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421</span></p>",
+      "published": "Fri, 02 Oct 2026 18:38:20 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-02T19:35:24.523076Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42082"
     }
   }
 }
