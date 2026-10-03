@@ -3536,77 +3536,12 @@
     "truth:117374601736336522",
     "https://www.trumpstruth.org/statuses/42087",
     "truth:117374605903305220",
-    "https://www.trumpstruth.org/statuses/42090"
+    "https://www.trumpstruth.org/statuses/42090",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220",
+    "truth:117374608656541990",
+    "https://www.trumpstruth.org/statuses/42089"
   ],
   "posts": {
-    "truth:117134656767200357": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41090",
-      "source_text": "<p>Illegal immigrant released under Biden accused of stabbing Virginia mother, dousing her in gasoline: <a href=\"https://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/biden-adm</span><span class=\"invisible\">in-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:23:39 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T00:55:45.131906Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41090",
-      "first_seen": "2026-08-21T19:56:55.566465Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Illegal immigrant released under Biden accused of stabbing Virginia mother, dousing her in gasoline: \nhttps://www.foxnews.com/politics/biden-admin-rel",
-      "truth_social_id": "117134656767200357",
-      "source_fingerprint": "fp:Illegal immigrant released under Biden accused of stabbing Virginia mother, dousing her in gasoline: \nhttps://www.foxnews.com/politics/biden-admin-rel",
-      "media_identity": "attachment:117134656767200357:",
-      "translation": "バイデン政権下で釈放された不法移民、バージニア州の母親を刺して揮発油をかけた容疑で告発される：\nhttps://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbmvmm2sn5",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtmbmvmm2sn5",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "バイデン政権下で釈放された不法移民、バージニア州の母親を刺して揮発油をかけた容疑で告発される：\nhttps://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother",
-        "createdAt": "2026-08-22T00:45:52.026023Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 142,
-              "byteEnd": 260
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother",
-            "title": "Illegal immigrant released under Biden accused of stabbing Virginia mother, dousing her in gasoline",
-            "description": "A federal source says the Fairfax County stabbing suspect is a Salvadoran illegal immigrant caught and released at the border during the Biden era.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiebp3yjoxeql7vxre2udty7yx2kmm4mhpxffjbq7euwhmpaahrf2u"
-              },
-              "mimeType": "image/jpeg",
-              "size": 177184
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbmvmm2sn5",
-          "rkey": "3mtmbmvmm2sn5"
-        }
-      ]
-    },
     "truth:117134660180705641": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16921,6 +16856,22 @@
           "rkey": "3mwwtj546x24v"
         }
       ]
+    },
+    "truth:117374608656541990": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42089",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220</span></p>",
+      "published": "Sat, 03 Oct 2026 02:26:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T04:30:36.897144Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42089",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220",
+      "media_identity": "attachment:117374608656541990:db3772f47ec1c4fe.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220",
+      "truth_social_id": "117374608656541990",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32806,13 +32757,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T04:25:35.593663Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T04:30:32.385345Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32915,16 +32866,6 @@
       "published": "Sat, 03 Oct 2026 02:41:55 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-03T03:35:31.441248Z"
-    },
-    "truth:117374608656541990": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42089",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220</span></p>",
-      "published": "Sat, 03 Oct 2026 02:26:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:35:31.441381Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42089"
     },
     "truth:117374710858193847": {
       "post_status": "DISCOVERED",
