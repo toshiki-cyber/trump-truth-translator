@@ -32671,19 +32671,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T11:30:27.187307Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-03T11:35:32.395090Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
-      "next_retry_at": "2026-10-03T11:30:28.842135Z"
+      "next_retry_at": "2026-10-03T11:40:32.395105Z"
     },
     "https://www.trumpstruth.org/statuses/42038": {
       "post_status": "DISCOVERED",
@@ -32831,6 +32831,16 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"db08sgt4lmhc73cuvij0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-03T05:25:30.896926Z"
+    },
+    "truth:117376675283821396": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42102",
+      "source_text": "<p>Roger Stone: Donald Trump is the Greatest Campaigner in the History of the Republican Party: <a href=\"https://rumble.com/v7gauli-roger-stone-donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rumble.com/v7gauli-roger-stone</span><span class=\"invisible\">-donald-trump-is-the-greatest-campaigner-in-the-history-of-the-r.html</span></a></p>",
+      "published": "Sat, 03 Oct 2026 11:12:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T11:35:30.925375Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42102"
     }
   }
 }
