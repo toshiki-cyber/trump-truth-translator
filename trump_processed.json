@@ -32729,13 +32729,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T05:05:27.739977Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T05:10:23.869483Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32840,44 +32840,159 @@
       "updated_at": "2026-10-03T03:35:31.441248Z"
     },
     "truth:117374724750816439": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42095",
       "source_text": "<p>It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!</p><p>As Chief Counsel to Alabama’s Attorney General, Katherine has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her wonderful State, and our Nation. As your next Attorney General, Katherine will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.</p><p>Katherine Robertson has my Complete and Total Endorsement to be the next Attorney General of Alabama — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
       "published": "Sat, 03 Oct 2026 02:56:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:35:31.440834Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42095"
+      "retry_count": 1,
+      "updated_at": "2026-10-03T05:10:24.604139Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42095",
+      "first_seen": "2026-10-03T05:10:24.604117Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and ",
+      "next_retry_at": "2026-10-03T05:15:24.604148Z",
+      "truth_social_id": "117374724750816439"
     },
     "truth:117374725939253690": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42094",
       "source_text": "<p>Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024!</p><p>Cindy has honorably served the Fantastic People of Oklahoma as State Auditor with a proven Record of SUCCESS, and I know she will continue doing a tremendous job as State Treasurer. A true MAGA Warrior, Cindy understands the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, and Protect our always under siege Second Amendment.</p><p>Cindy Byrd has my Complete and Total Endorsement to be the next State Treasurer of Oklahoma — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
       "published": "Sat, 03 Oct 2026 02:56:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:35:31.440699Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42094"
+      "retry_count": 1,
+      "updated_at": "2026-10-03T05:10:25.230335Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42094",
+      "first_seen": "2026-10-03T05:10:25.230314Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, w",
+      "next_retry_at": "2026-10-03T05:15:25.230343Z",
+      "truth_social_id": "117374725939253690"
     },
     "truth:117374727722154598": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42093",
       "source_text": "<p>I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significant amounts. This money will come from the Medicare Improvement Fund, a pointless “Slush Fund” that has only been used by Dumocrats in Congress to pay for the Waste, Fraud, and Abuse for their Special Interest friends, and drive up Healthcare costs. We are finally using this Fund, along with my Most Favored Nations Deals, to substantially LOWER costs for our Seniors. I pledged to protect and preserve Medicare and Social Security, which were on the verge of RUIN by Joe Biden, who foolishly and maliciously let tens of millions of Illegal Aliens into our Country, and we are doing just that for America’s Seniors. This is separate from the equally substantial Refund “Checks” we are sending to One Million Americans who were overcharged for their Unaffordable Care Act plans by Joe Biden.</p><p>Because I delivered on this very important issue for the American People, they can also rest assured the highly popular $5,000 Trump Dividend will be distributed to every U.S. Citizen if, and when, the Republicans win the Midterm Elections! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Sat, 03 Oct 2026 02:56:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:35:31.440563Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42093"
+      "retry_count": 1,
+      "updated_at": "2026-10-03T05:10:25.599101Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42093",
+      "first_seen": "2026-10-03T05:10:25.599081Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help ",
+      "next_retry_at": "2026-10-03T05:15:25.599108Z",
+      "truth_social_id": "117374727722154598"
     },
     "truth:117374748527788857": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/42099",
       "source_text": "<p>The Great Ballroom and Military Complex being built at the White House. Very exciting! When completed, it will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
       "published": "Sat, 03 Oct 2026 03:02:09 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:35:31.440427Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42099"
+      "retry_count": 1,
+      "updated_at": "2026-10-03T05:11:07.921934Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42099",
+      "source_fingerprint": "fp:The Great Ballroom and Military Complex being built at the White House. Very exciting! When completed, it will be the finest of its kind, anywhere in ",
+      "media_identity": "attachment:117374748527788857:ec3ad66060b53aad-afd803502226.mov",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "fingerprint": "fp:The Great Ballroom and Military Complex being built at the White House. Very exciting! When completed, it will be the finest of its kind, anywhere in ",
+      "truth_social_id": "117374748527788857",
+      "translation": "ホワイトハウスで建設中の素晴らしいバルルームと軍事複合施設だ。非常に興奮する！完成時には、世界のどこにもない最高のものになるだろう！大統領ドナルド・J・トランプ",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwvjykvhcpi",
+          "cid": "bafyreihd6agtp67qd4b4ukzdakbljzzl2vxcbxtfocs22niundhtziki2u"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwvjykvhcpi",
+          "cid": "bafyreihd6agtp67qd4b4ukzdakbljzzl2vxcbxtfocs22niundhtziki2u"
+        },
+        "next_index": 1,
+        "last_rkey": "3mwwvjykvhcpi",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ホワイトハウスで建設中の素晴らしいバルルームと軍事複合施設だ。非常に興奮する！完成時には、世界のどこにもない最高のものになるだろう！大統領ドナルド・J・トランプ",
+          "createdAt": "2026-10-03T05:11:00.372167Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.video",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicljlbgcabcbzrhplcvwzpxkr6bfkb7yisq6qbsrk435ijkwkvs3i"
+              },
+              "mimeType": "video/mp4",
+              "size": 14586245
+            },
+            "alt": ""
+          }
+        },
+        "root_rkey": "3mwwvjykvhcpi",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ホワイトハウスで建設中の素晴らしいバルルームと軍事複合施設だ。非常に興奮する！完成時には、世界のどこにもない最高のものになるだろう！大統領ドナルド・J・トランプ",
+          "createdAt": "2026-10-03T05:11:00.372167Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.video",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicljlbgcabcbzrhplcvwzpxkr6bfkb7yisq6qbsrk435ijkwkvs3i"
+              },
+              "mimeType": "video/mp4",
+              "size": 14586245
+            },
+            "alt": ""
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwvjykvhcpi",
+            "rkey": "3mwwvjykvhcpi"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwvjykvhcpi",
+      "expected_embed": "video",
+      "expected_images": 0,
+      "root_rkey": "3mwwvjykvhcpi",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ホワイトハウスで建設中の素晴らしいバルルームと軍事複合施設だ。非常に興奮する！完成時には、世界のどこにもない最高のものになるだろう！大統領ドナルド・J・トランプ",
+        "createdAt": "2026-10-03T05:11:00.372167Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicljlbgcabcbzrhplcvwzpxkr6bfkb7yisq6qbsrk435ijkwkvs3i"
+            },
+            "mimeType": "video/mp4",
+            "size": 14586245
+          },
+          "alt": ""
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwvjykvhcpi",
+          "rkey": "3mwwvjykvhcpi"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-03T05:16:07.921947Z"
     },
     "truth:117374767217423174": {
       "post_status": "DISCOVERED",
