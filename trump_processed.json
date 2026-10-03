@@ -3529,27 +3529,11 @@
     "https://www.trumpstruth.org/statuses/42086",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prose",
     "truth:117373388463106981",
-    "https://www.trumpstruth.org/statuses/42084"
+    "https://www.trumpstruth.org/statuses/42084",
+    "truth:117374600935041605",
+    "https://www.trumpstruth.org/statuses/42088"
   ],
   "posts": {
-    "truth:117134647345137602": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41102",
-      "source_text": "<p>Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: <a href=\"https://www.foxbusiness.com/economy/treasury-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxbusiness.com/economy/treasu</span><span class=\"invisible\">ry-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:21:15 +0000",
-      "retry_count": 4,
-      "updated_at": "2026-08-22T00:26:02.822890Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41102",
-      "first_seen": "2026-08-21T19:56:21.332378Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: \nhttps://www.foxbusiness.com/economy/treasury-department",
-      "truth_social_id": "117134647345137602",
-      "source_fingerprint": "fp:Treasury Department bars ESG funds from Trump Accounts, citing 'political activism' concerns: \nhttps://www.foxbusiness.com/economy/treasury-department",
-      "media_identity": "attachment:117134647345137602:",
-      "translation": "財務省がトランプ口座からESG投信を排除、「政治活動」への懸念を理由に挙げる：\nhttps://www.foxbusiness.com/economy/treasury-department-bars-esg-funds-from-trump-accounts-citing-political-activism-concerns"
-    },
     "truth:117134652986157363": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16838,6 +16822,21 @@
           "rkey": "3mwwc7izgiccc"
         }
       ]
+    },
+    "truth:117374600935041605": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42088",
+      "source_text": "<p></p>",
+      "published": "Sat, 03 Oct 2026 02:24:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:40:41.639023Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42088",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117374600935041605:6cf4b3a008cac188-c36fe00776fa.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117374600935041605",
+      "translation": ""
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32723,13 +32722,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T03:35:35.741613Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:40:23.773471Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32832,16 +32831,6 @@
       "published": "Sat, 03 Oct 2026 02:41:55 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-03T03:35:31.441248Z"
-    },
-    "truth:117374600935041605": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42088",
-      "source_text": "<p></p>",
-      "published": "Sat, 03 Oct 2026 02:24:36 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:35:31.441784Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42088"
     },
     "truth:117374601736336522": {
       "post_status": "DISCOVERED",
