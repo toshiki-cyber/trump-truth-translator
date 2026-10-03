@@ -3601,45 +3601,12 @@
     "https://www.trumpstruth.org/statuses/42113",
     "fp:Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER ",
     "truth:117377072350009409",
-    "https://www.trumpstruth.org/statuses/42115"
+    "https://www.trumpstruth.org/statuses/42115",
+    "fp:PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP",
+    "truth:117377074810245973",
+    "https://www.trumpstruth.org/statuses/42114"
   ],
   "posts": {
-    "truth:117150535825256760": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41151",
-      "source_text": "<p>IRAN IS COMPLETELY COLLAPSING!!! President DJT</p>",
-      "published": "Mon, 24 Aug 2026 12:41:54 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-24T13:15:37.451217Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41151",
-      "first_seen": "2026-08-24T12:45:39.848980Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:IRAN IS COMPLETELY COLLAPSING!!! President DJT",
-      "truth_social_id": "117150535825256760",
-      "source_fingerprint": "fp:IRAN IS COMPLETELY COLLAPSING!!! President DJT",
-      "media_identity": "attachment:117150535825256760:",
-      "translation": "イランは完全に崩壊している!!!\nトランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mttdbud7f2un",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mttdbud7f2un",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "イランは完全に崩壊している!!!\nトランプ大統領",
-        "createdAt": "2026-08-24T13:05:40.133157Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mttdbud7f2un",
-          "rkey": "3mttdbud7f2un"
-        }
-      ]
-    },
     "truth:117150758113256193": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16743,6 +16710,22 @@
       "fingerprint": "fp:Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER ",
       "truth_social_id": "117377072350009409",
       "translation": "グレッグ・カニンガムは、ニューメキシコ州第2下院地区の次期アメリカ下院議員として、私の完全かつ全面的な支持を得ている——彼は決してあなたたちを失望させることはない！ドナルド・J・トランプ大統領"
+    },
+    "truth:117377074810245973": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42114",
+      "source_text": "<p>PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 12:53:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:55:54.426426Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42114",
+      "source_fingerprint": "fp:PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP",
+      "media_identity": "attachment:117377074810245973:b96c4de58e19e79d-5df27b1aa11c.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP",
+      "truth_social_id": "117377074810245973",
+      "translation": "ペンシルベニア州 — 期日前投票が始まっている。今すぐ投票に行って共和党に投票しよう！ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32628,13 +32611,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T16:50:29.281875Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:55:27.997249Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32944,16 +32927,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 374.1MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/376/713/665/421/223/original/6bddd5741d9a8e91.mp4",
       "truth_social_id": "117376854745686677",
       "next_retry_at": "2026-10-03T16:10:31.872094Z"
-    },
-    "truth:117377074810245973": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42114",
-      "source_text": "<p>PENNSYLVANIA — Early Voting is UNDERWAY. Get out and VOTE REPUBLICAN! President DONALD J. TRUMP</p>",
-      "published": "Sat, 03 Oct 2026 12:53:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T13:35:27.783881Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42114"
     },
     "truth:117377086414457258": {
       "post_status": "DISCOVERED",
