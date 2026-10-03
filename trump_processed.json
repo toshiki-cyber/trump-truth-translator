@@ -3589,93 +3589,12 @@
     "truth:117376709448414660",
     "https://www.trumpstruth.org/statuses/42105",
     "truth:117376710253781330",
-    "https://www.trumpstruth.org/statuses/42104"
+    "https://www.trumpstruth.org/statuses/42104",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330",
+    "truth:117376711131261545",
+    "https://www.trumpstruth.org/statuses/42103"
   ],
   "posts": {
-    "truth:117134587500534715": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41070",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the fountain at Benjamin Banneker Park, which is named after the 18th century astronomer, mathematician, and surveyor. A free African American, Banneker assisted in surveying the boundaries for new federal capital, Washington, D.C. The park overlooks The Wharf in southwest DC.”</p>",
-      "published": "Fri, 21 Aug 2026 17:06:02 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T06:35:48.888598Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41070",
-      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
-      "media_identity": "attachment:117134587500534715:86bdc5e51c2eade4.jpg,8de4e43afdea780f.jpg,8e36b7a97d4814f3.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “Another fountain has been fixed! The National Park Service has repaired the founta",
-      "truth_social_id": "117134587500534715",
-      "translation": "内務省のグレッグ・ウィッシャーから：「また別の噴水が修理されました！国立公園局がベンジャミン・バナカー公園の噴水を修復しました。この公園は18世紀の天文学者、数学者、測量士であるバナカーの名にちなんでいます。自由身分のアフリカ系アメリカ人だったバナカーは、新しい連邦首都ワシントンD.C.の境界線の測量を支援しました。この公園はDC南西部のザ・ワーフを見下ろしています。」",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmanfnrrcjb",
-      "expected_embed": "images",
-      "expected_images": 3,
-      "root_rkey": "3mtmanfnrrcjb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "内務省のグレッグ・ウィッシャーから：「また別の噴水が修理されました！国立公園局がベンジャミン・バナカー公園の噴水を修復しました。この公園は18世紀の天文学者、数学者、測量士であるバナカーの名にちなんでいます。自由身分のアフリカ系アメリカ人だったバナカーは、新しい連邦首都ワシントンD.C.の境界線の測量を支援しました。この公園はDC南西部のザ・ワーフを見下ろしています。」",
-        "createdAt": "2026-08-22T06:25:48.756072Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreieyr5rcuzl6i45obihq7vrjmg4dbior4tzaaf32yvr4iwbk3plsl4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 289060
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibgn76qzlc3swzjmq7cs7pjh47cgv27se3ct7nrvpiza7jnpxafvi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 193643
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 828
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreietuscmxaia424msmhhpykwkch6dn3pn7f6wgsk7blyxyjw66bwga"
-                },
-                "mimeType": "image/jpeg",
-                "size": 287341
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmanfnrrcjb",
-          "rkey": "3mtmanfnrrcjb"
-        }
-      ]
-    },
     "truth:117136747897665850": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16795,6 +16714,22 @@
           "rkey": "3mwxrfppplszg"
         }
       ]
+    },
+    "truth:117376711131261545": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42103",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330</span></p>",
+      "published": "Sat, 03 Oct 2026 11:21:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T15:50:27.661032Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42103",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330",
+      "media_identity": "attachment:117376711131261545:4931a5820d80fd4f.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330",
+      "truth_social_id": "117376711131261545",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32680,13 +32615,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T15:45:27.387499Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T15:50:24.270427Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32981,16 +32916,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-03T15:45:33.275485Z"
-    },
-    "truth:117376711131261545": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42103",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330</span></p>",
-      "published": "Sat, 03 Oct 2026 11:21:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T13:35:27.784535Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42103"
     },
     "truth:117376854745686677": {
       "post_status": "DISCOVERED",
