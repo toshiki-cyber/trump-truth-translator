@@ -3598,25 +3598,12 @@
     "https://www.trumpstruth.org/statuses/42111",
     "fp:Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J.",
     "truth:117377066566644744",
-    "https://www.trumpstruth.org/statuses/42113"
+    "https://www.trumpstruth.org/statuses/42113",
+    "fp:Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER ",
+    "truth:117377072350009409",
+    "https://www.trumpstruth.org/statuses/42115"
   ],
   "posts": {
-    "truth:117139411859970862": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41119",
-      "source_text": "<p>Tremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House! Presidents have wanted this for 150 years, and so has everyone else. It will give the White House, and all of D.C., Great National Security. The Project is under budget, and ahead of schedule! The Ballroom will be paid for with ZERO Dollars of Taxpayer Money. Great American Patriots and Companies are footing the entire bill. President DONALD J. TRUMP</p>",
-      "published": "Sat, 22 Aug 2026 13:32:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-22T13:40:46.463310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41119",
-      "source_fingerprint": "fp:Tremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House! Presidents have wanted this ",
-      "media_identity": "attachment:117139411859970862:16a724c8d949a6d1.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Tremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House! Presidents have wanted this ",
-      "truth_social_id": "117139411859970862",
-      "translation": "ホワイトハウスの敷地内に建設されている壮大なバルルーム/ミリタリー・コンプレックスについて素晴らしい進展があった！150年間、歴代大統領が望んでいたことであり、誰もが望んでいたことだ。これはホワイトハウスと首都ワシントン全体に大きな国家安全保障をもたらすことになる。本プロジェクトは予算内に収まっており、スケジュールより前倒しで進んでいる！バルルームは納税者の金を1ドルもかけずに建設される。素晴らしいアメリカの愛国者と企業が全額負担している。ドナルド・J・トランプ大統領"
-    },
     "truth:117150535825256760": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16740,6 +16727,22 @@
       "fallback_policy_version": 1,
       "media_fallback_reason": "動画候補がすべて不正: 動画サイズ超過: 65.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/376/866/907/117/965/original/9b2eaa2383911872.mp4",
       "translation": "ニック・ベジッチは、アラスカ州下院議員としての再選に向けて、私の完全かつ全面的な支持を得ている――彼はけっしてお前たちを裏切らない！大統領ドナルド・J・トランプ"
+    },
+    "truth:117377072350009409": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42115",
+      "source_text": "<p>Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 12:53:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:45:50.640418Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42115",
+      "source_fingerprint": "fp:Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER ",
+      "media_identity": "attachment:117377072350009409:9937d2677f9b3a2f-42195f14638b.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER ",
+      "truth_social_id": "117377072350009409",
+      "translation": "グレッグ・カニンガムは、ニューメキシコ州第2下院地区の次期アメリカ下院議員として、私の完全かつ全面的な支持を得ている——彼は決してあなたたちを失望させることはない！ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32625,13 +32628,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T16:40:34.539299Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:45:28.323802Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32941,16 +32944,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 374.1MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/376/713/665/421/223/original/6bddd5741d9a8e91.mp4",
       "truth_social_id": "117376854745686677",
       "next_retry_at": "2026-10-03T16:10:31.872094Z"
-    },
-    "truth:117377072350009409": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42115",
-      "source_text": "<p>Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Sat, 03 Oct 2026 12:53:07 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T13:35:27.784010Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42115"
     },
     "truth:117377074810245973": {
       "post_status": "DISCOVERED",
