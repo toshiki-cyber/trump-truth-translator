@@ -3579,27 +3579,12 @@
     "truth:117376700640782000",
     "https://www.trumpstruth.org/statuses/42109",
     "truth:117376705404850468",
-    "https://www.trumpstruth.org/statuses/42108"
+    "https://www.trumpstruth.org/statuses/42108",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468",
+    "truth:117376706134428638",
+    "https://www.trumpstruth.org/statuses/42107"
   ],
   "posts": {
-    "truth:117135773042405247": {
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41112",
-      "source_text": "<p>I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 22:07:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-22T02:31:03.076203Z",
-      "first_seen": "2026-08-22T02:01:00.442473Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
-      "truth_social_id": "117135773042405247",
-      "source_fingerprint": "fp:I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darl",
-      "media_identity": "attachment:117135773042405247:",
-      "translation": "私は素晴らしいサウスカロライナ州に着陸する準備をしている。そこでリンジー・グラハムを称えるラリーを開催するが、彼の素晴らしい妹ダーリーンのためだ。長年彼女を知った後、私は彼女に合衆国上院に立候補し、リンジーの後任となるよう求めた。間もなく会おう！大統領 ドナルド・J・トランプ"
-    },
     "truth:117136835644298066": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16788,6 +16773,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924",
       "truth_social_id": "117376700640782000",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924"
+    },
+    "truth:117376706134428638": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42107",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468</span></p>",
+      "published": "Sat, 03 Oct 2026 11:19:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T14:35:28.053646Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42107",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468",
+      "media_identity": "attachment:117376706134428638:a512367dae9783fd.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468",
+      "truth_social_id": "117376706134428638",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32673,13 +32674,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T14:30:28.709836Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T14:35:24.339928Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32927,16 +32928,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-03T14:30:30.593201Z"
-    },
-    "truth:117376706134428638": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42107",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468</span></p>",
-      "published": "Sat, 03 Oct 2026 11:19:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T13:35:27.785048Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42107"
     },
     "truth:117376707058642062": {
       "post_status": "DISCOVERED",
