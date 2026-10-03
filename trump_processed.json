@@ -32723,19 +32723,19 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:30:27.784730Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-03T03:35:35.741613Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 180.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
-      "next_retry_at": "2026-10-03T03:30:30.970238Z"
+      "next_retry_at": "2026-10-03T03:40:35.741631Z"
     },
     "https://www.trumpstruth.org/statuses/42038": {
       "post_status": "DISCOVERED",
@@ -32823,6 +32823,135 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 56.3MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/373/330/865/008/482/original/31629e5d2f1b4d4b.mp4",
       "truth_social_id": "117373336850052625",
       "next_retry_at": "2026-10-02T23:50:28.680079Z"
+    },
+    "https://www.trumpstruth.org/statuses/42091": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42091",
+      "source_text": "<p>“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today: <a href=\"https://www.undeniablewindfalls.com\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span>undeniablewindfalls.com</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 03 Oct 2026 02:41:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.441248Z"
+    },
+    "truth:117374600935041605": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42088",
+      "source_text": "<p></p>",
+      "published": "Sat, 03 Oct 2026 02:24:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.441784Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42088"
+    },
+    "truth:117374601736336522": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42087",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374600935041605</span></p>",
+      "published": "Sat, 03 Oct 2026 02:24:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.441651Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42087"
+    },
+    "truth:117374605903305220": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42090",
+      "source_text": "<p></p>",
+      "published": "Sat, 03 Oct 2026 02:25:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.441518Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42090"
+    },
+    "truth:117374608656541990": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42089",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220</span></p>",
+      "published": "Sat, 03 Oct 2026 02:26:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.441381Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42089"
+    },
+    "truth:117374710858193847": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42092",
+      "source_text": "<p>Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, Newt has understood the power of “MAGA,” which is propelling our Country forward to achieve unprecedented results, in record time. Nothing is impossible when met by American Grit and Spirit — THE BEST IS YET TO COME! Preorder your copy today: <br /><a href=\"https://www.amazon.com/Americas-Golden-Age-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Americas-Golden-Age</span><span class=\"invisible\">-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0</span></a></p>",
+      "published": "Sat, 03 Oct 2026 02:52:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.441112Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42092"
+    },
+    "truth:117374723143795331": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42096",
+      "source_text": "<p>Dr. Marc Siegel has written a beautiful new book, “The Angels Among Us: How God’s Messengers Play a Role in Healing.” Through the power of individual stories, Marc puts “coincidences” into the proper perspective, and reminds us that there is a Higher Power behind the scenes, working all things together for GOOD. Preorder your copy today!<br /><a href=\"https://a.co/d/08KliTCr\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>a.co/d/08KliTCr</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 03 Oct 2026 02:55:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.440978Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42096"
+    },
+    "truth:117374724750816439": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42095",
+      "source_text": "<p>It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!</p><p>As Chief Counsel to Alabama’s Attorney General, Katherine has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her wonderful State, and our Nation. As your next Attorney General, Katherine will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.</p><p>Katherine Robertson has my Complete and Total Endorsement to be the next Attorney General of Alabama — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 02:56:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.440834Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42095"
+    },
+    "truth:117374725939253690": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42094",
+      "source_text": "<p>Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024!</p><p>Cindy has honorably served the Fantastic People of Oklahoma as State Auditor with a proven Record of SUCCESS, and I know she will continue doing a tremendous job as State Treasurer. A true MAGA Warrior, Cindy understands the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, and Protect our always under siege Second Amendment.</p><p>Cindy Byrd has my Complete and Total Endorsement to be the next State Treasurer of Oklahoma — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 02:56:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.440699Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42094"
+    },
+    "truth:117374727722154598": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42093",
+      "source_text": "<p>I am pleased to announce that my Administration will, immediately, begin sending “Checks” of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significant amounts. This money will come from the Medicare Improvement Fund, a pointless “Slush Fund” that has only been used by Dumocrats in Congress to pay for the Waste, Fraud, and Abuse for their Special Interest friends, and drive up Healthcare costs. We are finally using this Fund, along with my Most Favored Nations Deals, to substantially LOWER costs for our Seniors. I pledged to protect and preserve Medicare and Social Security, which were on the verge of RUIN by Joe Biden, who foolishly and maliciously let tens of millions of Illegal Aliens into our Country, and we are doing just that for America’s Seniors. This is separate from the equally substantial Refund “Checks” we are sending to One Million Americans who were overcharged for their Unaffordable Care Act plans by Joe Biden.</p><p>Because I delivered on this very important issue for the American People, they can also rest assured the highly popular $5,000 Trump Dividend will be distributed to every U.S. Citizen if, and when, the Republicans win the Midterm Elections! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 02:56:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.440563Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42093"
+    },
+    "truth:117374748527788857": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42099",
+      "source_text": "<p>The Great Ballroom and Military Complex being built at the White House. Very exciting! When completed, it will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 03:02:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.440427Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42099"
+    },
+    "truth:117374767217423174": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42097",
+      "source_text": "<p>The Democrat Social Agenda would cost Americans TRILLIONS of Dollars if they were elected to Office. America as we know it would be completely destroyed, and make us a Third World Country. We can’t let that happen. VOTE REPUBLICAN!  Find out all the details in a new report by the much respected Council of Economic Advisers: <a href=\"https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">whitehouse.gov/releases/2026/1</span><span class=\"invisible\">0/new-report-dsa-policies-would-cost-americans-trillions/</span></a></p>",
+      "published": "Sat, 03 Oct 2026 03:06:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.440291Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42097"
+    },
+    "truth:117374770773184530": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42098",
+      "source_text": "<p>DC CVS Stores Are No Longer Locking Up Items Thanks to President Trump's Crime Crackdown: <a href=\"https://townhall.com/news/amy-curtis/2026/09/28/dc-cvs-no-longer-locking-up-items-thanks-to-reduced-crime-n2683686\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">townhall.com/news/amy-curtis/2</span><span class=\"invisible\">026/09/28/dc-cvs-no-longer-locking-up-items-thanks-to-reduced-crime-n2683686</span></a></p>",
+      "published": "Sat, 03 Oct 2026 03:07:48 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T03:35:31.440146Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42098"
     }
   }
 }
