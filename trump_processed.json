@@ -3548,27 +3548,12 @@
     "https://www.trumpstruth.org/statuses/42096",
     "fp:The Great Ballroom and Military Complex being built at the White House. Very exciting! When completed, it will be the finest of its kind, anywhere in ",
     "truth:117374748527788857",
-    "https://www.trumpstruth.org/statuses/42099"
+    "https://www.trumpstruth.org/statuses/42099",
+    "fp:It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and ",
+    "truth:117374724750816439",
+    "https://www.trumpstruth.org/statuses/42095"
   ],
   "posts": {
-    "truth:117134659039628490": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41086",
-      "source_text": "<p>‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: <a href=\"https://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/policy/</span><span class=\"invisible\">defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:24:14 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-08-22T01:30:48.777266Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41086",
-      "first_seen": "2026-08-21T19:56:56.429205Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
-      "truth_social_id": "117134659039628490",
-      "source_fingerprint": "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
-      "media_identity": "attachment:117134659039628490:",
-      "translation": "「ジェットソンズが現実になってきている」：トランプ政権幹部がマルチフロント無人機イニシアティブをアピール：\nhttps://www.washingtonexaminer.com/policy/defense/4694450/drone-market-threat-requires-whole-government-approach/#google_vignette"
-    },
     "truth:117134845877719345": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16847,6 +16832,24 @@
           "rkey": "3mwwv6h6ki2pq"
         }
       ]
+    },
+    "truth:117374724750816439": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42095",
+      "source_text": "<p>It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!</p><p>As Chief Counsel to Alabama’s Attorney General, Katherine has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her wonderful State, and our Nation. As your next Attorney General, Katherine will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.</p><p>Katherine Robertson has my Complete and Total Endorsement to be the next Attorney General of Alabama — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 02:56:06 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-03T05:35:32.620169Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42095",
+      "first_seen": "2026-10-03T05:10:24.604117Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and ",
+      "truth_social_id": "117374724750816439",
+      "source_fingerprint": "fp:It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and ",
+      "media_identity": "attachment:117374724750816439:",
+      "translation": "アラバマ州の次期司法長官候補として立候補しているキャサリン・ロバートソンを支持することは、私の大きな名誉である。アラバマ州は私が愛する場所であり、2016年、2020年、2024年の予備選挙を含めて6度も大勝利を収めた州だ！\n\nアラバマ州司法長官の最高法律顧問として、キャサリンは彼女の素晴らしい州と我が国の信じられないほどの人々のために強い成果をもたらす勇気と英知を持つことを証明している。次期司法長官として、キャサリンは法と秩序を確保し、法執行機関と最初の対応者を支持し、我々の軍隊と退役軍人を支援し、選挙を保護し、国境をしっかり守り、移民犯罪を阻止し、憲法を維持し、常に危機にさらされている第二修正案を守るために、絶え間なく戦い続けるだろう。\n\nキャサリン・ロバートソンはアラバマ州の次期司法長官となるべく、私の完全で絶対的な支持を得ている。彼女があなたを失望させることはない！ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32732,13 +32735,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T05:31:01.304375Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T05:35:26.450067Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32842,22 +32845,6 @@
       "retry_count": 0,
       "updated_at": "2026-10-03T03:35:31.441248Z"
     },
-    "truth:117374724750816439": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42095",
-      "source_text": "<p>It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!</p><p>As Chief Counsel to Alabama’s Attorney General, Katherine has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her wonderful State, and our Nation. As your next Attorney General, Katherine will continue fighting tirelessly to Ensure LAW AND ORDER, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Protect our always under siege Second Amendment.</p><p>Katherine Robertson has my Complete and Total Endorsement to be the next Attorney General of Alabama — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Sat, 03 Oct 2026 02:56:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-03T05:20:24.887038Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42095",
-      "first_seen": "2026-10-03T05:10:24.604117Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and ",
-      "next_retry_at": "2026-10-03T05:30:24.887053Z",
-      "truth_social_id": "117374724750816439"
-    },
     "truth:117374725939253690": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -32960,6 +32947,26 @@
       "retry_count": 0,
       "updated_at": "2026-10-03T03:35:31.440146Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42098"
+    },
+    "truth:117374885656415148": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42101",
+      "source_text": "<p>MAGA miles: Babin proposes I-47 from Port Arthur to Montana in honor of President Trump: <a href=\"https://kfdm.com/news/local/maga-miles-babin-proposes-i-47-from-port-arthur-to-montana-in-honor-of-president-trump\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">kfdm.com/news/local/maga-miles</span><span class=\"invisible\">-babin-proposes-i-47-from-port-arthur-to-montana-in-honor-of-president-trump</span></a></p>",
+      "published": "Sat, 03 Oct 2026 03:37:01 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T05:35:26.446706Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42101"
+    },
+    "truth:117374886219696225": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42100",
+      "source_text": "<p>The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly confirmed Fed Chairman, Kevin Warsh, has announced an in depth, independent audit, and Attorney General Todd Blanche clearly stated that the Justice Department will investigate any and all evidence of wrongdoing. As this week’s Inspector General report detailed, this project is Hundreds of Millions of Dollars over budget, and way behind schedule, due to a total lack of leadership, oversight, and competence, of Jerome “Too Late” Powell. I look forward to learning the results of the professional audit and the DOJ investigation! Thank you for your attention to this matter. President DJT</p>",
+      "published": "Sat, 03 Oct 2026 03:37:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T05:35:26.446556Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42100"
     }
   }
 }
