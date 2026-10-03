@@ -3566,27 +3566,12 @@
     "https://www.trumpstruth.org/statuses/42098",
     "fp:MAGA miles: Babin proposes I-47 from Port Arthur to Montana in honor of President Trump: \nhttps://kfdm.com/news/local/maga-miles-babin-proposes-i-47-f",
     "truth:117374885656415148",
-    "https://www.trumpstruth.org/statuses/42101"
+    "https://www.trumpstruth.org/statuses/42101",
+    "fp:The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly con",
+    "truth:117374886219696225",
+    "https://www.trumpstruth.org/statuses/42100"
   ],
   "posts": {
-    "truth:117135361970854867": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41108",
-      "source_text": "<p>We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Fri, 21 Aug 2026 20:23:00 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-22T02:05:50.604531Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41108",
-      "first_seen": "2026-08-22T01:41:02.751309Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White Ho",
-      "truth_social_id": "117135361970854867",
-      "source_fingerprint": "fp:We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White Ho",
-      "media_identity": "attachment:117135361970854867:",
-      "translation": "米国最高裁判所の決定に感謝する。国家安全保障にとって極めて重要な、ホワイトハウスの神聖な敷地に建設中の軍事・舞踏会施設は、その種のものとしては最高のものになるだろう！これは150年間、大統領たちが望んできたものであり、過去100年間、軍部が求めてきたものである。彼らの願いはまもなく叶えられる！建設は予算内で、予定より前倒しで進行している。この件への注目に感謝する！大統領ドナルド・J・トランプ"
-    },
     "truth:117135790192886203": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16783,6 +16768,24 @@
           "rkey": "3mwwxie2fgkiw"
         }
       ]
+    },
+    "truth:117374886219696225": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42100",
+      "source_text": "<p>The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly confirmed Fed Chairman, Kevin Warsh, has announced an in depth, independent audit, and Attorney General Todd Blanche clearly stated that the Justice Department will investigate any and all evidence of wrongdoing. As this week’s Inspector General report detailed, this project is Hundreds of Millions of Dollars over budget, and way behind schedule, due to a total lack of leadership, oversight, and competence, of Jerome “Too Late” Powell. I look forward to learning the results of the professional audit and the DOJ investigation! Thank you for your attention to this matter. President DJT</p>",
+      "published": "Sat, 03 Oct 2026 03:37:10 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-03T07:25:29.011189Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42100",
+      "first_seen": "2026-10-03T06:25:30.113529Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly con",
+      "truth_social_id": "117374886219696225",
+      "source_fingerprint": "fp:The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly con",
+      "media_identity": "attachment:117374886219696225:",
+      "translation": "連邦準備制度理事会の建物の災禍的な改修調査に関する報道は、フェイクニュースの完全な嘘である。新たに確認されたケビン・ウォーシュFRB議長は、徹底的で独立した監査を発表し、トッド・ブランシュ司法長官は司法省がいかなる不正行為の証拠についても調査すると明確に述べた。今週のインスペクターゼネラル報告書が詳述したように、このプロジェクトは数億ドル予算超過であり、スケジュールから大幅に遅延しており、これはジェローム「Too Late」パウエルのリーダーシップ、監督、および能力の完全な欠如によるものである。専門家による監査とDOJ調査の結果を知ることを楽しみにしている。この問題にご注目いただきありがとうございます。大統領 DJT"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32668,13 +32671,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T07:20:30.757929Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T07:25:24.917471Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32828,22 +32831,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"db08sgt4lmhc73cuvij0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-03T05:25:30.896926Z"
-    },
-    "truth:117374886219696225": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42100",
-      "source_text": "<p>The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly confirmed Fed Chairman, Kevin Warsh, has announced an in depth, independent audit, and Attorney General Todd Blanche clearly stated that the Justice Department will investigate any and all evidence of wrongdoing. As this week’s Inspector General report detailed, this project is Hundreds of Millions of Dollars over budget, and way behind schedule, due to a total lack of leadership, oversight, and competence, of Jerome “Too Late” Powell. I look forward to learning the results of the professional audit and the DOJ investigation! Thank you for your attention to this matter. President DJT</p>",
-      "published": "Sat, 03 Oct 2026 03:37:10 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-03T06:35:26.256355Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42100",
-      "first_seen": "2026-10-03T06:25:30.113529Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly con",
-      "next_retry_at": "2026-10-03T06:45:26.256365Z",
-      "truth_social_id": "117374886219696225"
     }
   }
 }
