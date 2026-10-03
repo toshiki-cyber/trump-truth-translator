@@ -3539,77 +3539,12 @@
     "https://www.trumpstruth.org/statuses/42090",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220",
     "truth:117374608656541990",
-    "https://www.trumpstruth.org/statuses/42089"
+    "https://www.trumpstruth.org/statuses/42089",
+    "fp:Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, New",
+    "truth:117374710858193847",
+    "https://www.trumpstruth.org/statuses/42092"
   ],
   "posts": {
-    "truth:117134660180705641": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41082",
-      "source_text": "<p>Drone companies, admin leaders meet for first White House ‘Drone Dominance’ meeting: <a href=\"https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">breakingdefense.com/2026/08/dr</span><span class=\"invisible\">one-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/</span></a></p>",
-      "published": "Fri, 21 Aug 2026 17:24:31 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T01:15:56.044904Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41082",
-      "first_seen": "2026-08-21T19:56:56.777756Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Drone companies, admin leaders meet for first White House ‘Drone Dominance’ meeting: \nhttps://breakingdefense.com/2026/08/drone-companies-trump-admin-",
-      "truth_social_id": "117134660180705641",
-      "source_fingerprint": "fp:Drone companies, admin leaders meet for first White House ‘Drone Dominance’ meeting: \nhttps://breakingdefense.com/2026/08/drone-companies-trump-admin-",
-      "media_identity": "attachment:117134660180705641:",
-      "translation": "ドローン企業、政権幹部が初のホワイトハウス「ドローン優位」会議で会合：\nhttps://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbohc5ccjh",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtmbohc5ccjh",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ドローン企業、政権幹部が初のホワイトハウス「ドローン優位」会議で会合：\nhttps://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
-        "createdAt": "2026-08-22T01:06:24.484508Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 106,
-              "byteEnd": 228
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
-            "title": "Drone companies, admin leaders meet for first White House 'Drone Dominance' meeting - Breaking Defense",
-            "description": "“The cavalry arrived here to meet your cavalry in private industry to make sure that we are not drone sufficient, from parity, but drone dominant,” Pentagon R&E chief Emil Michaels said.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigijvoipglobowhjq5dfiss5kj3icty2nbk72iadulbhpbbobegei"
-              },
-              "mimeType": "image/jpeg",
-              "size": 464026
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmbohc5ccjh",
-          "rkey": "3mtmbohc5ccjh"
-        }
-      ]
-    },
     "truth:116946842010916767": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16872,6 +16807,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220",
       "truth_social_id": "117374608656541990",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117374605903305220"
+    },
+    "truth:117374710858193847": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42092",
+      "source_text": "<p>Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, Newt has understood the power of “MAGA,” which is propelling our Country forward to achieve unprecedented results, in record time. Nothing is impossible when met by American Grit and Spirit — THE BEST IS YET TO COME! Preorder your copy today: <br /><a href=\"https://www.amazon.com/Americas-Golden-Age-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Americas-Golden-Age</span><span class=\"invisible\">-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0</span></a></p>",
+      "published": "Sat, 03 Oct 2026 02:52:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T04:40:31.113474Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42092",
+      "source_fingerprint": "fp:Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, New",
+      "media_identity": "attachment:117374710858193847:e86264d74bc14361.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, New",
+      "truth_social_id": "117374710858193847",
+      "translation": "ニュート・ギングリッチが素晴らしい新著『アメリカの黄金時代：トランピズムと無限の可能性の時代』を執筆した。ニュートは当初から「MAGA」の力を理解しており、それが我が国を前へ推し進め、記録的な時間で前例のない成果を達成させている。アメリカンスピリットと気概に立ち向かうとき、不可能なことは何もない――最高はこれからだ！今日から予約注文できる：\nhttps://www.amazon.com/Americas-Golden-Age-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32757,13 +32708,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T04:35:29.497261Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T04:40:26.125862Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32866,16 +32817,6 @@
       "published": "Sat, 03 Oct 2026 02:41:55 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-03T03:35:31.441248Z"
-    },
-    "truth:117374710858193847": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42092",
-      "source_text": "<p>Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, Newt has understood the power of “MAGA,” which is propelling our Country forward to achieve unprecedented results, in record time. Nothing is impossible when met by American Grit and Spirit — THE BEST IS YET TO COME! Preorder your copy today: <br /><a href=\"https://www.amazon.com/Americas-Golden-Age-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Americas-Golden-Age</span><span class=\"invisible\">-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0</span></a></p>",
-      "published": "Sat, 03 Oct 2026 02:52:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:35:31.441112Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42092"
     },
     "truth:117374723143795331": {
       "post_status": "DISCOVERED",
