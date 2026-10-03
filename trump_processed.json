@@ -32627,13 +32627,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T19:45:32.293018Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T19:50:29.302343Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -33213,14 +33213,20 @@
       "next_retry_at": "2026-10-03T18:50:31.677768Z"
     },
     "truth:117378383081064996": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42124",
       "source_text": "<p>I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP</p>",
       "published": "Sat, 03 Oct 2026 18:26:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T19:35:26.136174Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42124"
+      "retry_count": 1,
+      "updated_at": "2026-10-03T19:50:30.200186Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42124",
+      "first_seen": "2026-10-03T19:50:30.200153Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, ",
+      "next_retry_at": "2026-10-03T19:55:30.200193Z",
+      "truth_social_id": "117378383081064996"
     }
   }
 }
