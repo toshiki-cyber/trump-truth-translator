@@ -3574,77 +3574,12 @@
     "truth:117376675283821396",
     "https://www.trumpstruth.org/statuses/42102",
     "truth:117376697000958924",
-    "https://www.trumpstruth.org/statuses/42110"
+    "https://www.trumpstruth.org/statuses/42110",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924",
+    "truth:117376700640782000",
+    "https://www.trumpstruth.org/statuses/42109"
   ],
   "posts": {
-    "truth:117135559489217035": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41110",
-      "source_text": "<p>EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: <a href=\"https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/politics/exclusive</span><span class=\"invisible\">-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis</span></a></p>",
-      "published": "Fri, 21 Aug 2026 21:13:13 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T02:20:57.348289Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41110",
-      "first_seen": "2026-08-22T01:45:45.092646Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: \nhttps://www.foxnews.com/politics/exclusive-fentanyl",
-      "truth_social_id": "117135559489217035",
-      "source_fingerprint": "fp:EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: \nhttps://www.foxnews.com/politics/exclusive-fentanyl",
-      "media_identity": "attachment:117135559489217035:",
-      "translation": "【翻訳】\n\n独占報道：フェンタニル関連死が22%急減、トランプ政権はそれぞれ致命的な薬物危機の取り締まりを宣伝している。\nhttps://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmohfxbjsgu",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mtmohfxbjsgu",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "【翻訳】\n\n独占報道：フェンタニル関連死が22%急減、トランプ政権はそれぞれ致命的な薬物危機の取り締まりを宣伝している。\nhttps://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis",
-        "createdAt": "2026-08-22T02:15:46.508708Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 171,
-              "byteEnd": 292
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis",
-            "title": "EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis",
-            "description": "The Trump White House says synthetic opioid deaths fell from 48,913 to 38,084 in one year, crediting its border crackdown and ICE fentanyl arrests.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreig6jstvhor7rkfslhyvo5jejw522dxxszida36u4aiaa676hco4n4"
-              },
-              "mimeType": "image/jpeg",
-              "size": 185996
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmohfxbjsgu",
-          "rkey": "3mtmohfxbjsgu"
-        }
-      ]
-    },
     "truth:117135773042405247": {
       "feed_post_id": "https://www.trumpstruth.org/statuses/41113",
       "post_status": "POSTED",
@@ -16835,6 +16770,22 @@
           "rkey": "3mwxqw6klscbs"
         }
       ]
+    },
+    "truth:117376700640782000": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42109",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924</span></p>",
+      "published": "Sat, 03 Oct 2026 11:18:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T14:05:27.277099Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42109",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924",
+      "media_identity": "attachment:117376700640782000:93b761681bd6da94.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924",
+      "truth_social_id": "117376700640782000",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32720,13 +32671,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T14:00:30.818726Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T14:05:24.345215Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32927,16 +32878,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-03T13:50:34.162044Z"
-    },
-    "truth:117376700640782000": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42109",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376697000958924</span></p>",
-      "published": "Sat, 03 Oct 2026 11:18:35 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T13:35:27.785315Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42109"
     },
     "truth:117376705404850468": {
       "post_status": "DISCOVERED",
