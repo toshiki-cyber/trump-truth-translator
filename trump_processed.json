@@ -3592,25 +3592,12 @@
     "https://www.trumpstruth.org/statuses/42104",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330",
     "truth:117376711131261545",
-    "https://www.trumpstruth.org/statuses/42103"
+    "https://www.trumpstruth.org/statuses/42103",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677",
+    "truth:117376855501150171",
+    "https://www.trumpstruth.org/statuses/42111"
   ],
   "posts": {
-    "truth:117136747897665850": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41117",
-      "source_text": "<p>Today we brought another American home! Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave Americans behind, unlike Sleepy Joe and Obama, because we are America First. Today I invited Kevin, his lovely wife, father and beautiful children, to the White House to see the Oval Office, and meet our dedicated hostage recovery team. Welcome back home Kevin — It was an Honor to help you! President DONALD J. TRUMP</p>",
-      "published": "Sat, 22 Aug 2026 02:15:27 +0000",
-      "retry_count": 6,
-      "updated_at": "2026-08-22T08:20:46.050558Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41117",
-      "source_fingerprint": "fp:Today we brought another American home! Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave",
-      "media_identity": "attachment:117136747897665850:7577478a144b278e.jpg,b8f56df9600da5a5.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Today we brought another American home! Kevin Rideout, a brave Christian missionary, was held hostage by ISIS Jihadists for ten months! We never leave",
-      "truth_social_id": "117136747897665850",
-      "translation": "本日、別のアメリカ人を帰国させた！勇敢なキリスト教宣教師ケビン・ライダウトは、ISISのジハード主義者に10ヶ月間人質に拘束されていた！我々は眠れるジョーとオバマと違い、アメリカ第一主義だからアメリカ人を決して見捨てない。本日、ケビン、彼の素敵な妻、父親、そして美しい子どもたちをホワイトハウスに招待し、オーバルオフィスを見学してもらい、我々の献身的な人質救出チームと面会してもらった。ようこそ帰宅ケビン――あなたを支援できたのは光栄だ！大統領ドナルド・J・トランプ"
-    },
     "truth:117134443801937584": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16730,6 +16717,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330",
       "truth_social_id": "117376711131261545",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376710253781330"
+    },
+    "truth:117376855501150171": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42111",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677</span></p>",
+      "published": "Sat, 03 Oct 2026 11:57:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:15:29.441345Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42111",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677",
+      "media_identity": "attachment:117376855501150171:611785f9cd3ae074.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677",
+      "truth_social_id": "117376855501150171",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32615,13 +32618,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T16:10:31.730972Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:15:26.351216Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32931,16 +32934,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 374.1MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/376/713/665/421/223/original/6bddd5741d9a8e91.mp4",
       "truth_social_id": "117376854745686677",
       "next_retry_at": "2026-10-03T16:10:31.872094Z"
-    },
-    "truth:117376855501150171": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42111",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677</span></p>",
-      "published": "Sat, 03 Oct 2026 11:57:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T13:35:27.784281Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42111"
     },
     "truth:117377066566644744": {
       "post_status": "DISCOVERED",
