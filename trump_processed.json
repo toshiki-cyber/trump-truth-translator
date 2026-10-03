@@ -3595,24 +3595,12 @@
     "https://www.trumpstruth.org/statuses/42103",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677",
     "truth:117376855501150171",
-    "https://www.trumpstruth.org/statuses/42111"
+    "https://www.trumpstruth.org/statuses/42111",
+    "fp:Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J.",
+    "truth:117377066566644744",
+    "https://www.trumpstruth.org/statuses/42113"
   ],
   "posts": {
-    "truth:117134443801937584": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41058",
-      "source_text": "<p></p>",
-      "published": "Fri, 21 Aug 2026 16:29:29 +0000",
-      "retry_count": 8,
-      "updated_at": "2026-08-22T11:30:52.781012Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41058",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117134443801937584:b30cc3598f626ad0.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117134443801937584",
-      "translation": ""
-    },
     "truth:117139411859970862": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16733,6 +16721,25 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677",
       "truth_social_id": "117376855501150171",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376854745686677"
+    },
+    "truth:117377066566644744": {
+      "post_status": "POSTED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/42113",
+      "source_text": "<p>Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 12:51:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:35:31.313643Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42113",
+      "source_fingerprint": "fp:Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J.",
+      "media_identity": "attachment:117377066566644744:9b2eaa2383911872-e2d079d4f1cc.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J.",
+      "truth_social_id": "117377066566644744",
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画候補がすべて不正: 動画サイズ超過: 65.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/376/866/907/117/965/original/9b2eaa2383911872.mp4",
+      "translation": "ニック・ベジッチは、アラスカ州下院議員としての再選に向けて、私の完全かつ全面的な支持を得ている――彼はけっしてお前たちを裏切らない！大統領ドナルド・J・トランプ"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32618,13 +32625,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T16:30:29.505155Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T16:35:26.103022Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32934,16 +32941,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 374.1MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/376/713/665/421/223/original/6bddd5741d9a8e91.mp4",
       "truth_social_id": "117376854745686677",
       "next_retry_at": "2026-10-03T16:10:31.872094Z"
-    },
-    "truth:117377066566644744": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42113",
-      "source_text": "<p>Nick Begich has my Complete and Total Endorsement for Re-Election as U.S. Representative from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Sat, 03 Oct 2026 12:51:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T13:35:27.784152Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42113"
     },
     "truth:117377072350009409": {
       "post_status": "DISCOVERED",
