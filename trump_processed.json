@@ -3551,78 +3551,12 @@
     "https://www.trumpstruth.org/statuses/42099",
     "fp:It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and ",
     "truth:117374724750816439",
-    "https://www.trumpstruth.org/statuses/42095"
+    "https://www.trumpstruth.org/statuses/42095",
+    "fp:Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, w",
+    "truth:117374725939253690",
+    "https://www.trumpstruth.org/statuses/42094"
   ],
   "posts": {
-    "truth:117134845877719345": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41105",
-      "source_text": "<p>Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”</p>",
-      "published": "Fri, 21 Aug 2026 18:11:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-22T01:35:49.514020Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41105",
-      "source_fingerprint": "fp:Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good",
-      "media_identity": "attachment:117134845877719345:69233eeb055baa10.jpg,9878c08e19871c79.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good",
-      "truth_social_id": "117134845877719345",
-      "translation": "セバスチャン・ゴルカ博士：「ISISに拘束されたキリスト教宣教師のケビン・ライドアウトが妻と再会した。下記の写真を参照。彼は非常に元気そうで、トランプ大統領にどれほど感謝しているかを言い続けている。（彼は帰宅することが分かった時、頭の中で『アメリカ人であることを誇りに思う』という歌を歌い続けていたと話していた。」",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmecvjzv2vo",
-      "expected_embed": "images",
-      "expected_images": 2,
-      "root_rkey": "3mtmecvjzv2vo",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "セバスチャン・ゴルカ博士：「ISISに拘束されたキリスト教宣教師のケビン・ライドアウトが妻と再会した。下記の写真を参照。彼は非常に元気そうで、トランプ大統領にどれほど感謝しているかを言い続けている。（彼は帰宅することが分かった時、頭の中で『アメリカ人であることを誇りに思う』という歌を歌い続けていたと話していた。」",
-        "createdAt": "2026-08-22T01:26:08.760479Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiggdcvgv54lswc5ufapdbzqopzgazzxfl4vfj6v6kavvi4k4l7awu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 161715
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 980,
-                "height": 653
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreie42mtsp3sibrxd247r5nyzw3ys2o6l554v4hwdyj6hxm7zl7vpcy"
-                },
-                "mimeType": "image/jpeg",
-                "size": 181459
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 877,
-                "height": 1170
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mtmecvjzv2vo",
-          "rkey": "3mtmecvjzv2vo"
-        }
-      ]
-    },
     "truth:117135561220383573": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16850,6 +16784,24 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and ",
       "media_identity": "attachment:117374724750816439:",
       "translation": "アラバマ州の次期司法長官候補として立候補しているキャサリン・ロバートソンを支持することは、私の大きな名誉である。アラバマ州は私が愛する場所であり、2016年、2020年、2024年の予備選挙を含めて6度も大勝利を収めた州だ！\n\nアラバマ州司法長官の最高法律顧問として、キャサリンは彼女の素晴らしい州と我が国の信じられないほどの人々のために強い成果をもたらす勇気と英知を持つことを証明している。次期司法長官として、キャサリンは法と秩序を確保し、法執行機関と最初の対応者を支持し、我々の軍隊と退役軍人を支援し、選挙を保護し、国境をしっかり守り、移民犯罪を阻止し、憲法を維持し、常に危機にさらされている第二修正案を守るために、絶え間なく戦い続けるだろう。\n\nキャサリン・ロバートソンはアラバマ州の次期司法長官となるべく、私の完全で絶対的な支持を得ている。彼女があなたを失望させることはない！ドナルド・J・トランプ大統領"
+    },
+    "truth:117374725939253690": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42094",
+      "source_text": "<p>Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024!</p><p>Cindy has honorably served the Fantastic People of Oklahoma as State Auditor with a proven Record of SUCCESS, and I know she will continue doing a tremendous job as State Treasurer. A true MAGA Warrior, Cindy understands the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, and Protect our always under siege Second Amendment.</p><p>Cindy Byrd has my Complete and Total Endorsement to be the next State Treasurer of Oklahoma — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 02:56:24 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-03T05:45:31.125258Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42094",
+      "first_seen": "2026-10-03T05:10:25.230314Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, w",
+      "truth_social_id": "117374725939253690",
+      "source_fingerprint": "fp:Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, w",
+      "media_identity": "attachment:117374725939253690:",
+      "translation": "【日本語訳】\n\n高く尊敬され、非常に人気のあるオクラホマ州監査官シンディ・バード氏が、次のオクラホマ州財務官を目指して立候補している。オクラホマは私が愛する州であり、2016年、2020年、2024年に77郡全てで大勝利を収めた州だ！\n\nシンディ氏は州監査官としてオクラホマの素晴らしい人民に名誉ある奉仕をしており、成功の実績を持っている。州財務官としても素晴らしい仕事を継続するだろうと確信している。真のMAGA戦士であるシンディ氏は、経済成長、素晴らしい雇用創出、減税と規制緩和、アメリカ製品推進、アメリカンエネルギーの支配確立、国境の安全保障維持、常に脅威にさらされている憲法修正第2条の保護に必要なアメリカ第一政策を理解している。\n\nシンディ・バード氏は、オクラホマ州次期財務官として、私の完全かつ全面的な支持を得ている――彼女は絶対にあなたを失望させない！ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32735,13 +32687,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T05:40:26.399108Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-03T05:45:24.866050Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -32844,22 +32796,6 @@
       "published": "Sat, 03 Oct 2026 02:41:55 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-03T03:35:31.441248Z"
-    },
-    "truth:117374725939253690": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42094",
-      "source_text": "<p>Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024!</p><p>Cindy has honorably served the Fantastic People of Oklahoma as State Auditor with a proven Record of SUCCESS, and I know she will continue doing a tremendous job as State Treasurer. A true MAGA Warrior, Cindy understands the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, and Protect our always under siege Second Amendment.</p><p>Cindy Byrd has my Complete and Total Endorsement to be the next State Treasurer of Oklahoma — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Sat, 03 Oct 2026 02:56:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-03T05:20:25.203850Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42094",
-      "first_seen": "2026-10-03T05:10:25.230314Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, w",
-      "next_retry_at": "2026-10-03T05:30:25.203865Z",
-      "truth_social_id": "117374725939253690"
     },
     "truth:117374727722154598": {
       "post_status": "RETRY",
