@@ -3656,27 +3656,11 @@
     "truth:117383719532678103",
     "https://www.trumpstruth.org/statuses/42152",
     "truth:117383720639661747",
-    "https://www.trumpstruth.org/statuses/42151"
+    "https://www.trumpstruth.org/statuses/42151",
+    "truth:117383721995142736",
+    "https://www.trumpstruth.org/statuses/42150"
   ],
   "posts": {
-    "truth:117161576325328403": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41217",
-      "source_text": "<p>I supported and ENDORSED two so-called “underdogs” yesterday, one from South Carolina, and the other from Oklahoma, and they BOTH WON. Two great people!!! President DJT</p>",
-      "published": "Wed, 26 Aug 2026 11:29:39 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T13:20:39.182191Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41217",
-      "first_seen": "2026-08-26T12:50:37.433218Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I supported and ENDORSED two so-called “underdogs” yesterday, one from South Carolina, and the other from Oklahoma, and they BOTH WON. Two great peopl",
-      "truth_social_id": "117161576325328403",
-      "source_fingerprint": "fp:I supported and ENDORSED two so-called “underdogs” yesterday, one from South Carolina, and the other from Oklahoma, and they BOTH WON. Two great peopl",
-      "media_identity": "attachment:117161576325328403:",
-      "translation": "私は昨日、サウスカロライナ州から1人、オクラホマ州から1人の、いわゆる「アンダードッグ」の2人を支持し、推薦した。そして彼らは両者とも勝利した。2人の素晴らしい人物だ!!!\nトランプ大統領"
-    },
     "truth:117161589385228268": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16803,6 +16787,21 @@
       "media_identity": "attachment:117383720639661747:f8b9b500171c1d7f.jpg",
       "failure_reason": null,
       "truth_social_id": "117383720639661747",
+      "translation": ""
+    },
+    "truth:117383721995142736": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42150",
+      "source_text": "<p></p>",
+      "published": "Sun, 04 Oct 2026 17:04:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T17:55:30.902413Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42150",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117383721995142736:bafc2dbca6f8a908.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117383721995142736",
       "translation": ""
     },
     "truth:117363810994521058": {
@@ -33304,16 +33303,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117383721995142736": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42150",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:04:13 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T17:35:32.552872Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42150"
     },
     "truth:117383723154946782": {
       "post_status": "DISCOVERED",
