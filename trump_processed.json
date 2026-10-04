@@ -3703,45 +3703,12 @@
     "https://www.trumpstruth.org/statuses/42159",
     "fp:Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: \nhttps://justthenews.com/government/white-house/trump-credits-tariffs-",
     "truth:117383899651030960",
-    "https://www.trumpstruth.org/statuses/42158"
+    "https://www.trumpstruth.org/statuses/42158",
+    "fp:Thank you Mehek! President DJT",
+    "truth:117384609805773432",
+    "https://www.trumpstruth.org/statuses/42161"
   ],
   "posts": {
-    "truth:117169851902805924": {
-      "post_status": "POSTED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/41295",
-      "source_text": "<p>Just arrived in the Great State of Texas! President DJT</p>",
-      "published": "Thu, 27 Aug 2026 22:34:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T00:50:36.693690Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41295",
-      "first_seen": "2026-08-28T00:00:44.226684Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Just arrived in the Great State of Texas! President DJT",
-      "truth_social_id": "117169851902805924",
-      "source_fingerprint": "fp:Just arrived in the Great State of Texas! President DJT",
-      "media_identity": "attachment:117169851902805924:",
-      "translation": "テキサス州に到着したばかりだ！大統領 DJT",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu3vrsaqqceq",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mu3vrsaqqceq",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "テキサス州に到着したばかりだ！大統領 DJT",
-        "createdAt": "2026-08-28T00:40:37.909669Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu3vrsaqqceq",
-          "rkey": "3mu3vrsaqqceq"
-        }
-      ]
-    },
     "truth:117170489559297133": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17047,6 +17014,22 @@
           "rkey": "3mx2xlgwpr222"
         }
       ]
+    },
+    "truth:117384609805773432": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42161",
+      "source_text": "<p>Thank you Mehek! President DJT</p>",
+      "published": "Sun, 04 Oct 2026 20:50:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T23:36:30.948373Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42161",
+      "source_fingerprint": "fp:Thank you Mehek! President DJT",
+      "media_identity": "attachment:117384609805773432:be3eb119226fba00-a9497f599bd4.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Thank you Mehek! President DJT",
+      "truth_social_id": "117384609805773432",
+      "translation": "ありがとう、Mehek！大統領DJT"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33547,6 +33530,16 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
+    },
+    "truth:117384612085223868": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42160",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432</span></p>",
+      "published": "Sun, 04 Oct 2026 20:50:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T23:35:25.440874Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42160"
     }
   }
 }
