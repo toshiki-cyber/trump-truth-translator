@@ -3649,25 +3649,12 @@
     "https://www.trumpstruth.org/statuses/42135",
     "fp:Deranged Jack Smith is a Crooked Prosecutor! President DJT\nEx-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People F",
     "truth:117383040827830000",
-    "https://www.trumpstruth.org/statuses/42134"
+    "https://www.trumpstruth.org/statuses/42134",
+    "fp:The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of ",
+    "truth:117383043797111826",
+    "https://www.trumpstruth.org/statuses/42133"
   ],
   "posts": {
-    "truth:117156926105160416": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41209",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291</span></p>",
-      "published": "Tue, 25 Aug 2026 15:47:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-25T17:40:39.029159Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41209",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
-      "media_identity": "attachment:117156926105160416:7bb99cd6a368ee08.jpg,8b429cf93eaa56fb.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
-      "truth_social_id": "117156926105160416",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291"
-    },
     "truth:117157578446470768": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16801,6 +16788,24 @@
           "rkey": "3mx2levfyuknn"
         }
       ]
+    },
+    "truth:117383043797111826": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42133",
+      "source_text": "<p>The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMP</p><p>From Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”</p>",
+      "published": "Sun, 04 Oct 2026 14:11:44 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-04T16:35:31.826784Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42133",
+      "first_seen": "2026-10-04T15:45:29.379877Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of ",
+      "truth_social_id": "117383043797111826",
+      "source_fingerprint": "fp:The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of ",
+      "media_identity": "attachment:117383043797111826:",
+      "translation": "世論調査は常にMAGAを過小評価してきた。彼らは投票を抑圧しようとするが、俺は7つのスウィングステートすべて、全国民投票、86%の郡、そして今年のプライマリーの99%で勝利した。俺は投票用紙に載っている！ドナルド・J・トランプ大統領\n\nディック・モリスより：「2025年11月以来、マクラフリンによる月次世論調査では、あなたの職務承認率は常に47～50%の間にある。50年間の世論調査人生で、私はこのようなことを見たことがない。ほぼすべての政治家は毎月数字が上下するが、あなたはそうではない。あなたは2024年の選挙に全国民投票の49.8%で勝利し、今月実施された最新のマクラフリン・ポールでは職務承認率が49%であり、これはあなたの得票率と全く同じだ。他のどの政治的人物もこのレベルの一貫性を評価で達成したことはない。イラン戦争を通じて、ガソリン価格の上下を通じて、あなたの職務承認率は同じままだ。それは決して変わらない。そして49%は勝つのに十分だ。その水準の得票が2024年でどのように勝ったかを見てみろ！同じマクラフリン・ポールで、無党派層投票は民主党50対共和党48だ。これもまた下院共和党の維持に十分だ。過去の歴史は、民主党が4ポイント未満の差は共和党の下院勝利を示す可能性が高いことを示している。そしてほぼすべての世論調査が無党派層投票で共和党が伸びていることを示している。」"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32686,13 +32691,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T16:31:04.858307Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T16:35:25.690930Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -33300,22 +33305,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117383043797111826": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42133",
-      "source_text": "<p>The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMP</p><p>From Dick Morris: “Since November of 2025 in monthly polls by McLaughlin, your job approval rating has always been between 47 and 50 percent. I have never seen anything like that in fifty years of polling. Almost every politician sees his numbers rise and fall each month but not you. You won the election in 2024 with 49.8 percent of the popular vote and the latest McLaughlin Poll, taken this month, has your job approval at 49% - the exact same as your vote share. No other political figure has ever had this level of consistency in his ratings. Through the Iran War and gas price rises and falls, your job approval is the same. It never changes. And 49% is enough to win - look at how that level of vote won in 2024! In the same Mclaughlin Poll, the generic ballot is 50-48 Democrat. That is also enough to keep the House Republican. Past history indicates that anything less than a four point margin for Democrats likely points to a Republican House victory. And almost all polls are showing Republican gains in the generic ballot.”</p>",
-      "published": "Sun, 04 Oct 2026 14:11:44 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-04T16:05:28.761029Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42133",
-      "first_seen": "2026-10-04T15:45:29.379877Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of ",
-      "next_retry_at": "2026-10-04T16:15:28.761071Z",
-      "truth_social_id": "117383043797111826"
     }
   }
 }
