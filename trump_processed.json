@@ -3682,25 +3682,12 @@
     "truth:117383739007489519",
     "https://www.trumpstruth.org/statuses/42138",
     "truth:117383737641173276",
-    "https://www.trumpstruth.org/statuses/42139"
+    "https://www.trumpstruth.org/statuses/42139",
+    "fp:The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radic",
+    "truth:117383740615004316",
+    "https://www.trumpstruth.org/statuses/42137"
   ],
   "posts": {
-    "truth:117165035778371306": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41265",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967</span></p>",
-      "published": "Thu, 27 Aug 2026 02:09:26 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T03:00:36.988519Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41265",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
-      "media_identity": "attachment:117165035778371306:080da739cb0f615f.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
-      "truth_social_id": "117165035778371306",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967"
-    },
     "truth:117168493690794979": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16878,6 +16865,22 @@
           "rkey": "3mx2vbreyykwq"
         }
       ]
+    },
+    "truth:117383740615004316": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42137",
+      "source_text": "<p>The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP</p>",
+      "published": "Sun, 04 Oct 2026 17:08:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T19:30:30.874436Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42137",
+      "source_fingerprint": "fp:The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radic",
+      "media_identity": "attachment:117383740615004316:4d2337cb4d932dab.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radic",
+      "truth_social_id": "117383740615004316",
+      "translation": "ケネディセンターは崩壊状態にあり、中に入る者にとって大きな危険だ。長年この状態が続いており、左翼的な判事とその反トランプ弁護士の妻がやるべきことをさせなければ、さらに悪化するだけだ！大統領ドナルド・J・トランプ"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33378,16 +33381,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117383740615004316": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42137",
-      "source_text": "<p>The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It’s been this way for years, and will only get worse unless the Radical Left Judge, with his Trump Hating lawyer wife, allows me to do what must be done! President DONALD J. TRUMP</p>",
-      "published": "Sun, 04 Oct 2026 17:08:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T17:35:32.551142Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42137"
     },
     "truth:117383742409715196": {
       "post_status": "DISCOVERED",
