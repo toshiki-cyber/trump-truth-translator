@@ -3678,27 +3678,11 @@
     "truth:117383736804723494",
     "https://www.trumpstruth.org/statuses/42140",
     "truth:117383734948790684",
-    "https://www.trumpstruth.org/statuses/42141"
+    "https://www.trumpstruth.org/statuses/42141",
+    "truth:117383739007489519",
+    "https://www.trumpstruth.org/statuses/42138"
   ],
   "posts": {
-    "truth:117162770901385526": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41255",
-      "source_text": "<p>How about Roger Clemens not being in the National Baseball Hall of Fame and Museum in Cooperstown, New York, all because a bunch of jealous people with far less Talent, voted that he shouldn’t be there. He was also not convicted, or admitted, to taking Drugs. Roger is easily one of the few Greatest Pitchers of All Time, winning 354 Games, 7 Cy Young Awards (A Record, by 3!), and played in three World Series, winning two! He was third in most Strike-Outs. The Commissioner told me he was going to approve Pete Rose, but he waited long enough until Pete died. No wonder Baseball is in trouble! President DONALD J. TRUMP</p>",
-      "published": "Wed, 26 Aug 2026 16:33:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-26T21:00:42.728582Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41255",
-      "first_seen": "2026-08-26T20:30:36.026002Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:How about Roger Clemens not being in the National Baseball Hall of Fame and Museum in Cooperstown, New York, all because a bunch of jealous people wit",
-      "truth_social_id": "117162770901385526",
-      "source_fingerprint": "fp:How about Roger Clemens not being in the National Baseball Hall of Fame and Museum in Cooperstown, New York, all because a bunch of jealous people wit",
-      "media_identity": "attachment:117162770901385526:",
-      "translation": "ロジャー・クレメンスが野球殿堂入りしていないことについてだが、これはニューヨーク州クーパーズタウンにある全米野球殿堂博物館に入っていない。すべては嫉妬深い人間たちで、才能ははるかに劣る人物たちが、彼は入るべきではないと投票したからだ。彼はまた、薬物使用について有罪判決を受けたわけでもなく、認めたわけでもない。ロジャーは明らかに史上最高のピッチャーのうちの一人で、354勝、7度のサイ・ヤング賞受賞（記録で3差をつけた！）、そして3度のワールドシリーズに出場して2度優勝している！奪三振数では3番目だ。コミッショナーは俺にピート・ローズを承認すると言ったが、ピートが死ぬまで十分に待った。野球が困っているのも当たり前だ！ドナルド・J・トランプ大統領"
-    },
     "truth:117163377375423640": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16839,6 +16823,21 @@
       "media_identity": "attachment:117383736804723494:440179e9ade8e408.jpg",
       "failure_reason": null,
       "truth_social_id": "117383736804723494",
+      "translation": ""
+    },
+    "truth:117383739007489519": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42138",
+      "source_text": "<p></p>",
+      "published": "Sun, 04 Oct 2026 17:08:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T19:20:29.215766Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42138",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117383739007489519:267f09b629807a10.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117383739007489519",
       "translation": ""
     },
     "truth:117363810994521058": {
@@ -33470,16 +33469,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-04T19:20:36.384814Z"
-    },
-    "truth:117383739007489519": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42138",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:08:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T17:35:32.551291Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42138"
     },
     "truth:117383740615004316": {
       "post_status": "DISCOVERED",
