@@ -3654,27 +3654,11 @@
     "truth:117383043797111826",
     "https://www.trumpstruth.org/statuses/42133",
     "truth:117383719532678103",
-    "https://www.trumpstruth.org/statuses/42152"
+    "https://www.trumpstruth.org/statuses/42152",
+    "truth:117383720639661747",
+    "https://www.trumpstruth.org/statuses/42151"
   ],
   "posts": {
-    "truth:117161536085670834": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41218",
-      "source_text": "<p>Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,<br />Dumocrat and, doing fantastically well. Mike has my Complete and Total Endorsement. He will NEVER let you down! President DJT</p>",
-      "published": "Wed, 26 Aug 2026 11:19:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T13:15:39.613167Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41218",
-      "first_seen": "2026-08-26T12:50:37.109421Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,\nDumocrat and, ",
-      "truth_social_id": "117161536085670834",
-      "source_fingerprint": "fp:Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,\nDumocrat and, ",
-      "media_identity": "attachment:117161536085670834:",
-      "translation": "マリアBでマイク・リペトリによる素晴らしいインタビューを今朝見た。彼はニューヨークで増税推進で犯罪に甘い民主党員に対して下院選に出馬しており、素晴らしい成績を上げている。マイクは私の完全かつ全面的な支持を得ている。彼は絶対に君たちを失望させることはない！大統領 DJT"
-    },
     "truth:117161576325328403": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16804,6 +16788,21 @@
       "media_identity": "attachment:117383719532678103:4d16d3fa1bad1203.jpg",
       "failure_reason": null,
       "truth_social_id": "117383719532678103",
+      "translation": ""
+    },
+    "truth:117383720639661747": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42151",
+      "source_text": "<p></p>",
+      "published": "Sun, 04 Oct 2026 17:03:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T17:50:30.384361Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42151",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117383720639661747:f8b9b500171c1d7f.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117383720639661747",
       "translation": ""
     },
     "truth:117363810994521058": {
@@ -33305,16 +33304,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117383720639661747": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42151",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:03:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T17:35:32.553002Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42151"
     },
     "truth:117383721995142736": {
       "post_status": "DISCOVERED",
