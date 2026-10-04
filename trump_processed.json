@@ -3689,25 +3689,11 @@
     "truth:117383742409715196",
     "https://www.trumpstruth.org/statuses/42136",
     "truth:117383743484621823",
-    "https://www.trumpstruth.org/statuses/42154"
+    "https://www.trumpstruth.org/statuses/42154",
+    "truth:117383744306306629",
+    "https://www.trumpstruth.org/statuses/42153"
   ],
   "posts": {
-    "truth:117169587997925219": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41289",
-      "source_text": "<p>BREAKING NEWS!</p><p>TO: Office of the Secretary, Department of the Interior <br />FROM: Director, U.S. Geological Survey<br />RE: Lake America rename <br /> <br />Sir, <br /> <br />As of 4:30 pm today the U.S. Geological Survey has officially designated the former Lake Ontario to be renamed as Lake America in all official USGS electronic documents.<br /> <br />The change will begin occurring in printed documents over the next several days.  <br /> <br />This change has also been made official in the Geographic Names Information System.<br /> <br />Should you have any further questions please contact me for clarification.<br /> <br />Thank you  <br />Ned<br /> <br />Dr. Ned Mamula<br />Director, U.S. Geological Survey<br />United States Department of the Interior</p>",
-      "published": "Thu, 27 Aug 2026 21:27:07 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-27T23:20:42.413336Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41289",
-      "source_fingerprint": "fp:BREAKING NEWS!\nTO: Office of the Secretary, Department of the Interior \nFROM: Director, U.S. Geological Survey\nRE: Lake America rename \n \nSir, \n \nAs o",
-      "media_identity": "attachment:117169587997925219:20ddacc7653e98dc.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:BREAKING NEWS!\nTO: Office of the Secretary, Department of the Interior \nFROM: Director, U.S. Geological Survey\nRE: Lake America rename \n \nSir, \n \nAs o",
-      "truth_social_id": "117169587997925219",
-      "translation": "速報！\n宛先：内務省事務次官\n差出人：米国地質調査所長\n件名：アメリカ湖への改称\n\n事務次官へ\n\n本日午後4時30分をもって、米国地質調査所は、かつてのオンタリオ湖を、すべての公式USGS電子文書においてアメリカ湖に改称することを正式に指定いたしました。\n\nこの変更は、今後数日間のうちに印刷物でも適用されます。\n\nこの変更は地理名情報システムにも正式に記録されております。\n\nご質問やご不明な点がございましたら、ご遠慮なくお問い合わせください。\n\nよろしくお願いいたします\nネッド\n\nネッド・マムラ博士\n米国地質調査所長\n米国内務省"
-    },
     "truth:117169685597690201": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16878,6 +16864,21 @@
       "media_identity": "attachment:117383743484621823:7703381e9705fadf.jpg",
       "failure_reason": null,
       "truth_social_id": "117383743484621823",
+      "translation": ""
+    },
+    "truth:117383744306306629": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42153",
+      "source_text": "<p></p>",
+      "published": "Sun, 04 Oct 2026 17:09:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T19:45:28.883253Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42153",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117383744306306629:16810724cc53bb0a.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117383744306306629",
       "translation": ""
     },
     "truth:117363810994521058": {
@@ -33379,16 +33380,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117383744306306629": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42153",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:09:53 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T17:35:32.550737Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42153"
     },
     "truth:117383854962700677": {
       "post_status": "DISCOVERED",
