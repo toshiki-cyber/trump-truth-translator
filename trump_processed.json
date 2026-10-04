@@ -32695,15 +32695,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42046",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
       "published": "Thu, 01 Oct 2026 02:25:30 +0000",
-      "updated_at": "2026-10-04T17:35:36.817193Z",
+      "updated_at": "2026-10-04T17:45:33.292090Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b.mp4",
       "truth_social_id": "117363131054368093",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/363/127/818/717/979/original/68c5c1914293f78b.mp4",
-      "retry_count": 1,
+      "retry_count": 2,
       "fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
-      "next_retry_at": "2026-10-04T17:40:36.817233Z"
+      "next_retry_at": "2026-10-04T17:55:33.292104Z"
     },
     "https://www.trumpstruth.org/statuses/42038": {
       "post_status": "DISCOVERED",
