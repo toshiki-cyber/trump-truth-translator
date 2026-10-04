@@ -3658,27 +3658,11 @@
     "truth:117383720639661747",
     "https://www.trumpstruth.org/statuses/42151",
     "truth:117383721995142736",
-    "https://www.trumpstruth.org/statuses/42150"
+    "https://www.trumpstruth.org/statuses/42150",
+    "truth:117383723154946782",
+    "https://www.trumpstruth.org/statuses/42149"
   ],
   "posts": {
-    "truth:117161589385228268": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41219",
-      "source_text": "<p>Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT</p>",
-      "published": "Wed, 26 Aug 2026 11:32:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-26T13:25:39.603096Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41219",
-      "first_seen": "2026-08-26T12:50:37.743808Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT",
-      "truth_social_id": "117161589385228268",
-      "source_fingerprint": "fp:Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT",
-      "media_identity": "attachment:117161589385228268:",
-      "translation": "下院議長マイク・ジョンソンは素晴らしい。やり遂げる能力がある！！！ 大統領 DJT"
-    },
     "truth:117162569163470489": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16802,6 +16786,21 @@
       "media_identity": "attachment:117383721995142736:bafc2dbca6f8a908.jpg",
       "failure_reason": null,
       "truth_social_id": "117383721995142736",
+      "translation": ""
+    },
+    "truth:117383723154946782": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42149",
+      "source_text": "<p></p>",
+      "published": "Sun, 04 Oct 2026 17:04:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T18:05:33.472338Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42149",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117383723154946782:91dd12d55abebf2f.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117383723154946782",
       "translation": ""
     },
     "truth:117363810994521058": {
@@ -33303,16 +33302,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117383723154946782": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42149",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:04:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T17:35:32.552742Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42149"
     },
     "truth:117383724226313929": {
       "post_status": "DISCOVERED",
