@@ -3625,27 +3625,12 @@
     "https://www.trumpstruth.org/statuses/42123",
     "fp:I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, ",
     "truth:117378383081064996",
-    "https://www.trumpstruth.org/statuses/42124"
+    "https://www.trumpstruth.org/statuses/42124",
+    "fp:HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columb",
+    "truth:117379305275420977",
+    "https://www.trumpstruth.org/statuses/42125"
   ],
   "posts": {
-    "truth:117155789874645152": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41183",
-      "source_text": "<p>The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business with Ontario any longer. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Tue, 25 Aug 2026 10:58:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-25T11:15:56.792683Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41183",
-      "first_seen": "2026-08-25T11:00:38.213941Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
-      "truth_social_id": "117155789874645152",
-      "source_fingerprint": "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
-      "media_identity": "attachment:117155789874645152:",
-      "translation": "米国はオンタリオ州との商取引をもはや期待していないため、オンタリオ湖の名称をアメリカ湖に変更することを真摯に検討している。本件へのご関心をありがとう！ドナルド・J・トランプ大統領"
-    },
     "truth:117155835599867728": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16745,6 +16730,24 @@
       "source_fingerprint": "fp:I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, ",
       "media_identity": "attachment:117378383081064996:",
       "translation": "私は他の人のことは知らないが、非常に優れた人々でいっぱいのテーブルが、義務的な時間変更の直後に夜間に家に帰る—そして暗い—ことを大嫌いだと私に言ったばかりだ。気分が沈む！その紳士の一人は、「暗闇の中で家に帰るのが本当に嫌だ」と述べた。また、犯罪多発の民主党支配州では、暗い中を歩いて家に帰ることはずっと危険でもある！ドナルド・J・トランプ大統領"
+    },
+    "truth:117379305275420977": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42125",
+      "source_text": "<p>HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP</p>",
+      "published": "Sat, 03 Oct 2026 22:20:59 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-04T00:00:32.651288Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42125",
+      "first_seen": "2026-10-03T23:40:28.830713Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columb",
+      "truth_social_id": "117379305275420977",
+      "source_fingerprint": "fp:HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columb",
+      "media_identity": "attachment:117379305275420977:",
+      "translation": "オハイオ州にとって大ニュースだ。今から向かうところだ！バイエルがコロンバス近郊に22億ドルの真新しい医薬品製造キャンパスを発表した。オハイオ州民のために高度製造業、科学研究、建設など多くの分野で数千人の雇用を生み出すことになる。この巨大なオンショアリングの勝利は、私の強力な医薬品関税のおかげであり、それは6000億ドル以上の新しい医薬品産業投資をもたらし、より低い（最恵国待遇）医薬品価格につながっている。企業は至るところでアメリカで建設している。アメリカで製造しろ、アメリカ人労働者を雇え、アメリカ国民のために公正に医薬品を価格設定しろ。さもなければ代償を払え。私はオハイオ州を愛している！\n\nドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -32630,13 +32633,13 @@
       "next_retry_at": "2026-10-01T03:55:27.755478Z"
     },
     "truth:117363131054368093": {
-      "post_status": "BLOCKED",
-      "media_state": "INVALID",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42040",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 01:47:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T23:55:31.680164Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-04T00:00:27.988997Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42046",
       "source_fingerprint": null,
       "media_identity": "attachment:117363131054368093:68c5c1914293f78b-dde03484d958.mp4",
@@ -33214,22 +33217,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-03T18:50:31.677768Z"
-    },
-    "truth:117379305275420977": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42125",
-      "source_text": "<p>HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP</p>",
-      "published": "Sat, 03 Oct 2026 22:20:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-03T23:50:26.072399Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42125",
-      "first_seen": "2026-10-03T23:40:28.830713Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columb",
-      "next_retry_at": "2026-10-04T00:00:26.072412Z",
-      "truth_social_id": "117379305275420977"
     }
   }
 }
