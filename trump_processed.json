@@ -3721,25 +3721,12 @@
     "https://www.trumpstruth.org/statuses/42164",
     "fp:Pictures attached! President DJT",
     "truth:117389589417251241",
-    "https://www.trumpstruth.org/statuses/42165"
+    "https://www.trumpstruth.org/statuses/42165",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241The Ohio Arena was already full to the brim — And yet these people were s",
+    "truth:117389593495407380",
+    "https://www.trumpstruth.org/statuses/42166"
   ],
   "posts": {
-    "truth:117173823863567245": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41308",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are photos of the in-progress cleaning of the Union General George Thomas statue located northeast of the White House.”</p>",
-      "published": "Fri, 28 Aug 2026 15:24:21 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-08-28T17:55:43.206866Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41308",
-      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are",
-      "media_identity": "attachment:117173823863567245:46b102bdf5026707.jpg,6c329e1f0b2a69a0.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are",
-      "truth_social_id": "117173823863567245",
-      "translation": "内務省のグレッグ・ウィシャーから：「これまでのところ、83体の彫像、記念碑、慰霊碑が清掃・修復されている。ホワイトハウスの北東に位置するユニオン将軍ジョージ・トーマス像の清掃作業中の写真がここにある。」"
-    },
     "truth:117173826597377945": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17125,6 +17112,22 @@
           "rkey": "3mx5igtwlrswz"
         }
       ]
+    },
+    "truth:117389593495407380": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42166",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241</span>The Ohio Arena was already full to the brim — And yet these people were still trying to get in. The New York Times said, “There were empty seats” when, in fact, there were none, and thousands of people had to be turned away. The New York Times, and many other Artificial Media Outlets, should be arrested for their dishonesty and disservice to our Country. When Bernie Sanders has 500 to 1,000 people, they make it sound like it’s the biggest event that ever took place. When PRESIDENT DONALD J. TRUMP has 50,000 people, they make it sound like nobody showed up! President DONALD J. TRUMP</p>",
+      "published": "Mon, 05 Oct 2026 17:57:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-05T21:30:49.046831Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42166",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241The Ohio Arena was already full to the brim — And yet these people were s",
+      "media_identity": "attachment:117389593495407380:67b76b87a867c6a7-812c89db506d.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241The Ohio Arena was already full to the brim — And yet these people were s",
+      "truth_social_id": "117389593495407380",
+      "translation": "【翻訳】\n\nRT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241The オハイオのアリーナはすでに満員だった。それなのに、まだ中に入ろうとしている人たちがいた。ニューヨーク・タイムズは「空席があった」と言ったが、実際には1席もなく、何千人もの人が入場を断られた。ニューヨーク・タイムズと他の多くの人工メディア企業は、その不誠実さと我が国への背信行為について逮捕されるべきだ。バーニー・サンダースが500人から1,000人を集めるとき、彼らはそれを史上最大のイベントのように聞こえさせる。大統領ドナルド・J・トランプが50,000人を集めるとき、彼らは誰も現れなかったようにそれを聞こえさせるのだ！大統領ドナルド・J・トランプ"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33625,16 +33628,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117389593495407380": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42166",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241</span>The Ohio Arena was already full to the brim — And yet these people were still trying to get in. The New York Times said, “There were empty seats” when, in fact, there were none, and thousands of people had to be turned away. The New York Times, and many other Artificial Media Outlets, should be arrested for their dishonesty and disservice to our Country. When Bernie Sanders has 500 to 1,000 people, they make it sound like it’s the biggest event that ever took place. When PRESIDENT DONALD J. TRUMP has 50,000 people, they make it sound like nobody showed up! President DONALD J. TRUMP</p>",
-      "published": "Mon, 05 Oct 2026 17:57:25 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-05T19:51:38.938624Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42166"
     },
     "truth:117389597190725188": {
       "post_status": "DISCOVERED",
