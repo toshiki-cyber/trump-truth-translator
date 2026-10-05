@@ -33531,6 +33531,22 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
+    },
+    "truth:117386191183722432": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42162",
+      "source_text": "<p>125 Million People  voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate.  Voting in America is CORRUPT!!! President DJT</p>",
+      "published": "Mon, 05 Oct 2026 03:32:10 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-05T03:35:26.015011Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42162",
+      "first_seen": "2026-10-05T03:35:26.014978Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:125 Million People  voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME D",
+      "next_retry_at": "2026-10-05T03:40:26.015020Z",
+      "truth_social_id": "117386191183722432"
     }
   }
 }
