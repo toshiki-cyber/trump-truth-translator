@@ -33052,15 +33052,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42070",
       "source_text": "<p></p>",
       "published": "Thu, 01 Oct 2026 18:11:40 +0000",
-      "retry_count": 20,
-      "updated_at": "2026-10-05T11:10:30.478454Z",
+      "retry_count": 21,
+      "updated_at": "2026-10-05T17:15:28.787361Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42070",
       "source_fingerprint": null,
       "media_identity": "attachment:117367000302830501:2475468b480d3e84-40c7a9f5027b.mp4",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"datjtoj1tfmc7383okjg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "truth_social_id": "117367000302830501",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-05T17:10:30.478468Z"
+      "next_retry_at": "2026-10-05T23:15:28.787379Z"
     },
     "truth:117368266436035432": {
       "post_status": "BLOCKED",
