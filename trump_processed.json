@@ -3718,27 +3718,12 @@
     "https://www.trumpstruth.org/statuses/42163",
     "fp:What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the w",
     "truth:117389259991976695",
-    "https://www.trumpstruth.org/statuses/42164"
+    "https://www.trumpstruth.org/statuses/42164",
+    "fp:Pictures attached! President DJT",
+    "truth:117389589417251241",
+    "https://www.trumpstruth.org/statuses/42165"
   ],
   "posts": {
-    "truth:117173818491619185": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41314",
-      "source_text": "<p>WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream &amp; Attack All You Want. You Can’t Stop It. It’s Foolproof. Here are the Facts: <a href=\"https://www.thegatewaypundit.com/2026/08/wayne-root-liberal-media-goes-insane-rage-my/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegatewaypundit.com/2026/08/w</span><span class=\"invisible\">ayne-root-liberal-media-goes-insane-rage-my/</span></a></p>",
-      "published": "Fri, 28 Aug 2026 15:23:00 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-28T17:45:44.306432Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41314",
-      "first_seen": "2026-08-28T16:50:44.899783Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream & Attack All You Wan",
-      "truth_social_id": "117173818491619185",
-      "source_fingerprint": "fp:WAYNE ROOT: Liberal Media Goes Insane with Rage Over My Idea for “National Security Emergency for Elections.” My Response: Scream & Attack All You Wan",
-      "media_identity": "attachment:117173818491619185:",
-      "translation": "ウェイン・ルート：「選挙国家安全保障上の緊急事態」という私のアイデアについて、リベラルメディアは怒り狂っている。私の回答はこうだ。叫んで攻撃しろ。やりたいようにやれ。お前たちはそれを止められない。それは完璧だ。ここに事実がある：\nhttps://www.thegatewaypundit.com/2026/08/wayne-root-liberal-media-goes-insane-rage-my/"
-    },
     "truth:117173823863567245": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17056,6 +17041,90 @@
       "source_fingerprint": "fp:What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the w",
       "media_identity": "attachment:117389259991976695:",
       "translation": "ガソリン高騰の原因はもはやホルムズ海峡ではない。なぜなら、記録的な数のバレル油が毎日のようにほぼ連続して産出されているからだ。だが問題は「精製所」という言葉にある。ロシアの精製所はウクライナに爆撃され、一方、われわれの精製所はカリフォルニアなどの民主党州で民主党員どもによって閉鎖されている。ドナルド・J・トランプ大統領"
+    },
+    "truth:117389589417251241": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42165",
+      "source_text": "<p>Pictures attached! President DJT</p>",
+      "published": "Mon, 05 Oct 2026 17:56:23 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-05T20:26:24.354144Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42165",
+      "source_fingerprint": "fp:Pictures attached! President DJT",
+      "media_identity": "attachment:117389589417251241:16afd2067bab10a8.jpg,849c8816c860d61d.jpg,cb3ee3066cbf2c4c.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Pictures attached! President DJT",
+      "truth_social_id": "117389589417251241",
+      "translation": "画像を添付しています！大統領DJT",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
+      "expected_embed": "images",
+      "expected_images": 3,
+      "root_rkey": "3mx5igtwlrswz",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "画像を添付しています！大統領DJT",
+        "createdAt": "2026-10-05T20:08:02.536409Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicdutoebaspgz2oycllrd47zfiq5sftpiyye4wzqeiuhpqfhe6dim"
+                },
+                "mimeType": "image/jpeg",
+                "size": 166399
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 827
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibdqqemopy2prwjxves5vjk4lpbe6bvfw7wspjuaxogviy5sgkouq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 247521
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 827
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigjvonxphm3p4nnk2npbyhbwptahgdn7jug7pb37uj5lqbxsj7i7m"
+                },
+                "mimeType": "image/jpeg",
+                "size": 350794
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1241,
+                "height": 827
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
+          "rkey": "3mx5igtwlrswz"
+        }
+      ]
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33556,227 +33625,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117389589417251241": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42165",
-      "source_text": "<p>Pictures attached! President DJT</p>",
-      "published": "Mon, 05 Oct 2026 17:56:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-05T20:08:09.656022Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42165",
-      "source_fingerprint": "fp:Pictures attached! President DJT",
-      "media_identity": "attachment:117389589417251241:16afd2067bab10a8.jpg,849c8816c860d61d.jpg,cb3ee3066cbf2c4c.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Pictures attached! President DJT",
-      "truth_social_id": "117389589417251241",
-      "failure_stage": "VERIFY",
-      "translation": "画像を添付しています！大統領DJT",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
-          "cid": "bafyreielcrxypexzmadk5iju7ll43vonit3v26p5g7mjgfddet3w6we6hi"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
-          "cid": "bafyreielcrxypexzmadk5iju7ll43vonit3v26p5g7mjgfddet3w6we6hi"
-        },
-        "next_index": 1,
-        "last_rkey": "3mx5igtwlrswz",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "画像を添付しています！大統領DJT",
-          "createdAt": "2026-10-05T20:08:02.536409Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicdutoebaspgz2oycllrd47zfiq5sftpiyye4wzqeiuhpqfhe6dim"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 166399
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibdqqemopy2prwjxves5vjk4lpbe6bvfw7wspjuaxogviy5sgkouq"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 247521
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreigjvonxphm3p4nnk2npbyhbwptahgdn7jug7pb37uj5lqbxsj7i7m"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 350794
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mx5igtwlrswz",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "画像を添付しています！大統領DJT",
-          "createdAt": "2026-10-05T20:08:02.536409Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicdutoebaspgz2oycllrd47zfiq5sftpiyye4wzqeiuhpqfhe6dim"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 166399
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibdqqemopy2prwjxves5vjk4lpbe6bvfw7wspjuaxogviy5sgkouq"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 247521
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              },
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreigjvonxphm3p4nnk2npbyhbwptahgdn7jug7pb37uj5lqbxsj7i7m"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 350794
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1241,
-                  "height": 827
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
-            "rkey": "3mx5igtwlrswz"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
-      "expected_embed": "images",
-      "expected_images": 3,
-      "root_rkey": "3mx5igtwlrswz",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "画像を添付しています！大統領DJT",
-        "createdAt": "2026-10-05T20:08:02.536409Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicdutoebaspgz2oycllrd47zfiq5sftpiyye4wzqeiuhpqfhe6dim"
-                },
-                "mimeType": "image/jpeg",
-                "size": 166399
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibdqqemopy2prwjxves5vjk4lpbe6bvfw7wspjuaxogviy5sgkouq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 247521
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigjvonxphm3p4nnk2npbyhbwptahgdn7jug7pb37uj5lqbxsj7i7m"
-                },
-                "mimeType": "image/jpeg",
-                "size": 350794
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
-          "rkey": "3mx5igtwlrswz"
-        }
-      ],
-      "next_retry_at": "2026-10-05T20:13:09.656036Z"
     },
     "truth:117389593495407380": {
       "post_status": "DISCOVERED",
