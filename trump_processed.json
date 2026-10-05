@@ -3727,93 +3727,12 @@
     "https://www.trumpstruth.org/statuses/42166",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389593495407380The Fake News New York Times “reported” on my Great, PACKED Rally in Ohio",
     "truth:117389597190725188",
-    "https://www.trumpstruth.org/statuses/42167"
+    "https://www.trumpstruth.org/statuses/42167",
+    "fp:The New York Times, in writing a story about one of the finest and most successful resorts anywhere in the World, Trump National Doral, in Miami, post",
+    "truth:117390214220913462",
+    "https://www.trumpstruth.org/statuses/42168"
   ],
   "posts": {
-    "truth:117173824844529572": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41307",
-      "source_text": "<p>Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP</p>",
-      "published": "Fri, 28 Aug 2026 15:24:36 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-28T18:10:38.778544Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41307",
-      "source_fingerprint": "fp:Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP",
-      "media_identity": "attachment:117173824844529572:607217a606933309.jpg,b2989273ddb83da7.jpg,ba0d47a24afb5adb.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP",
-      "truth_social_id": "117173824844529572",
-      "translation": "ホワイトハウス北側入口の花崗岩の清掃と再目地処理を行っている。63年ぶりのことだ。完璧な仕事だ。大統領 ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5oai5v32ni",
-      "expected_embed": "images",
-      "expected_images": 3,
-      "root_rkey": "3mu5oai5v32ni",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ホワイトハウス北側入口の花崗岩の清掃と再目地処理を行っている。63年ぶりのことだ。完璧な仕事だ。大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-08-28T18:00:49.714628Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreib42yxo4rt7o3nz6fd4z2uqhbe4ldelrbmdncl7bzmwohl2xzdbju"
-                },
-                "mimeType": "image/jpeg",
-                "size": 530340
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 878,
-                "height": 1170
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid23tkci7vmptbmod7z57j6sy3w2zuv6ml37esc36jijh7dn333le"
-                },
-                "mimeType": "image/jpeg",
-                "size": 454248
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1170,
-                "height": 878
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreickpitlcy33liryca6js6qnvy2yaw6zxnwern6nadqc4dh4xokkby"
-                },
-                "mimeType": "image/jpeg",
-                "size": 405654
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1170,
-                "height": 877
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mu5oai5v32ni",
-          "rkey": "3mu5oai5v32ni"
-        }
-      ]
-    },
     "truth:117173835662782534": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17131,6 +17050,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389593495407380The Fake News New York Times “reported” on my Great, PACKED Rally in Ohio",
       "truth_social_id": "117389597190725188",
       "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/117389593495407380The フェイクニュースのニューヨークタイムズが、オハイオでの素晴らしい満員のラリーについて「会場は満員ではなかった。上層部のセクションはほぼ完全に空いていた」と「報道」した。実際のところ、数千人の人々が入場できなかった。アリーナは完全に満杯であり、上層部のセクションを含むすべてが満杯だった。私のすべての売上ラリーで起こることは、上層部のセクションの人々がメインフロアに下りてくることだ。この「移動」プロセスはいつも起こる。タイムズはこれを知っており、他の誰もが知っている。私は決して空席を持たない。これまで持ったことはなく、これからも持つことはない。彼らの不誠実さのために、私は映画制作者を派遣して、私が演説する様々なアリーナを撮影させている。フェイクニュースの一部は不正直に嘘と根拠のないことを報道するのが好きだからだ。実際のところ、優秀な共和党政治家のための私のイベントは、これまで以上に混雑しているだろう。空席はない。ここ数年、空席はなかったし、これからもない。ラリーはこれまで以上に「熱い」。それらはすべて「起こりごと」であり、これまでは起こったことがなく、二度と複製されることはない。しかし、ネットワークは、いかなる状況においても、群衆を映すことを拒否している。だが、あなたは轟音のような拍手を聞くことができ、それが数千人、数千人の人々を表していることを知ることができる。たとえば、今夜、素晴らしきネブラスカ州で見よ。私はすぐに向かう。また後でな。ドナルド・J・トランプ大統領"
+    },
+    "truth:117390214220913462": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42168",
+      "source_text": "<p>The New York Times, in writing a story about one of the finest and most successful resorts anywhere in the World, Trump National Doral, in Miami, posted a picture where the facade has been blackened and denigrated by them in order to make it look shoddy, filthy, and just plain BAD. They want World Leaders to see this, knowing it is not the “TRUMP” way. The actual facade looks like the second picture posted, rather than the one doctored by The Times. Its Blue Monster Golf Course, home of the Cadillac Championship, is considered one of the Best, and Toughest, anywhere in the World! This is what I have to deal with on a constant basis — Artificial News! The Times is a CROOKED outfit that caters to Lunatics who want to see our Country fail. Its numbers are way down due to lack of credibility, and this posting is just a small sample of what I have had to put up with, each and every day, for many years! Guys like Liddle’ Peter Baker, and Maggot HAGerman, are Third Rate Reporters, who I haven’t spoken to in years, but who write about me constantly, never fact checking, or caring, about whether or not their story is true. Some day in the not too distant future The Times will be forced to close its dirty doors, and that will be a Great Day for America! President DONALD J. TRUMP</p>",
+      "published": "Mon, 05 Oct 2026 20:35:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-05T21:40:37.683240Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42168",
+      "source_fingerprint": "fp:The New York Times, in writing a story about one of the finest and most successful resorts anywhere in the World, Trump National Doral, in Miami, post",
+      "media_identity": "attachment:117390214220913462:0823c90afcf6cdb5.jpg,daf7dd12035b8adb.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:The New York Times, in writing a story about one of the finest and most successful resorts anywhere in the World, Trump National Doral, in Miami, post",
+      "truth_social_id": "117390214220913462",
+      "translation": "ニューヨーク・タイムズは、世界で最も優れた最も成功したリゾートの一つであるマイアミのトランプ・ナショナル・ドーラルに関する記事を書くにあたって、外観を黒くし貶める写真を掲載した。それは見苦しく、汚く、まさに悪く見えるようにするためだ。彼らは世界の指導者がこれを見ることを望んでいるが、それは「トランプ」流ではないことを知っている。実際の外観は、タイムズによって改ざんされた写真ではなく、掲載されている二番目の写真のようなものだ。キャディラック・チャンピオンシップの本拠地であるブルー・モンスター・ゴルフコースは、世界中のどこにおいても最高の、そして最も難しいコースの一つと考えられている。これが私が常に対処しなければならないことだ——人工ニュースだ！タイムズは、我が国の衰退を望む狂人たちに媒介する曲がった組織だ。その部数は信頼性の欠如のため大幅に低下している。この掲載は、私が長年にわたって毎日対処してきたものの小さなサンプルに過ぎない。リドル・ピーター・ベイカーやマゴット・ハガーマンのような奴らは三流記者で、私は数年間彼らと話していないが、彼らは私について絶えず書いている。事実確認をすることも、その話が真実かどうか気にかけることもない。遠からぬ将来、タイムズは汚い扉を閉じることを余儀なくされるだろう。それはアメリカにとって素晴らしい日になるだろう。ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33631,16 +33566,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
-    },
-    "truth:117390214220913462": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42168",
-      "source_text": "<p>The New York Times, in writing a story about one of the finest and most successful resorts anywhere in the World, Trump National Doral, in Miami, posted a picture where the facade has been blackened and denigrated by them in order to make it look shoddy, filthy, and just plain BAD. They want World Leaders to see this, knowing it is not the “TRUMP” way. The actual facade looks like the second picture posted, rather than the one doctored by The Times. Its Blue Monster Golf Course, home of the Cadillac Championship, is considered one of the Best, and Toughest, anywhere in the World! This is what I have to deal with on a constant basis — Artificial News! The Times is a CROOKED outfit that caters to Lunatics who want to see our Country fail. Its numbers are way down due to lack of credibility, and this posting is just a small sample of what I have had to put up with, each and every day, for many years! Guys like Liddle’ Peter Baker, and Maggot HAGerman, are Third Rate Reporters, who I haven’t spoken to in years, but who write about me constantly, never fact checking, or caring, about whether or not their story is true. Some day in the not too distant future The Times will be forced to close its dirty doors, and that will be a Great Day for America! President DONALD J. TRUMP</p>",
-      "published": "Mon, 05 Oct 2026 20:35:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-05T21:35:38.907369Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42168"
     },
     "truth:117390404347091382": {
       "post_status": "DISCOVERED",
