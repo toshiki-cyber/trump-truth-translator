@@ -230,6 +230,16 @@ class NormalizeImageForBlueskyTests(unittest.TestCase):
         self.assertNotIn("schedule:", workflow)
         self.assertIn("workflow_dispatch:", workflow)
 
+    def test_workflow_syncs_latest_state_before_translator(self):
+        with open(".github/workflows/translate.yml") as file:
+            workflow = file.read()
+
+        sync = 'name: Sync latest processed state'
+        run = 'name: Run translator'
+        self.assertIn(sync, workflow)
+        self.assertIn('git pull --rebase origin main', workflow)
+        self.assertLess(workflow.index(sync), workflow.index(run))
+
     @patch("trump_truth_translator.anthropic.DefaultHttpxClient")
     @patch("trump_truth_translator.anthropic.Anthropic")
     def test_translation_uses_sdk_compatible_http_client(
