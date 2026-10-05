@@ -33556,6 +33556,43 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/380/493/691/798/908/original/96b04bdfe35ad2c2.mp4",
       "truth_social_id": "117382611962645893",
       "next_retry_at": "2026-10-04T14:10:26.677100Z"
+    },
+    "truth:117389589417251241": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42165",
+      "source_text": "<p>Pictures attached! President DJT</p>",
+      "published": "Mon, 05 Oct 2026 17:56:23 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-05T19:51:43.943709Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42165",
+      "source_fingerprint": "fp:Pictures attached! President DJT",
+      "media_identity": "attachment:117389589417251241:16afd2067bab10a8.jpg,849c8816c860d61d.jpg,cb3ee3066cbf2c4c.jpg",
+      "failure_reason": "Claude拒否: 申し訳ありませんが、提示されている原文は「Pictures attached! President DJT」という短い文字列のみで、具体的な文脈や内容がありません。\n\nこの文字列を日本語に訳すなら：\n\n「写真を添付しました！トランプ大統領」",
+      "fingerprint": "fp:Pictures attached! President DJT",
+      "truth_social_id": "117389589417251241",
+      "failure_stage": "TRANSLATION",
+      "next_retry_at": "2026-10-05T19:56:43.943721Z"
+    },
+    "truth:117389593495407380": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42166",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389589417251241</span>The Ohio Arena was already full to the brim — And yet these people were still trying to get in. The New York Times said, “There were empty seats” when, in fact, there were none, and thousands of people had to be turned away. The New York Times, and many other Artificial Media Outlets, should be arrested for their dishonesty and disservice to our Country. When Bernie Sanders has 500 to 1,000 people, they make it sound like it’s the biggest event that ever took place. When PRESIDENT DONALD J. TRUMP has 50,000 people, they make it sound like nobody showed up! President DONALD J. TRUMP</p>",
+      "published": "Mon, 05 Oct 2026 17:57:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-05T19:51:38.938624Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42166"
+    },
+    "truth:117389597190725188": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42167",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389593495407380</span>The Fake News New York Times “reported” on my Great, PACKED Rally in Ohio that, “the place was not full. Some upper sections were almost completely empty.” In actuality, thousands of people were unable to get in. The Arena was totally MAXED OUT, including all upper sections. What does happen at all of my SOLD OUT Rallies, is that the people in the upper sections tend to migrate down to the Main Floor — The “migration” process always happens! The Times knows this, and so does everyone else. I never have empty seats — Never have, and never will! Because of their dishonesty, I have cinematographers shooting the various Arenas where I speak, in that some of the Fake News likes to dishonestly report lies and untruths. In actuality, my Events for very good Republican Politicians are probably more crowded than ever. There are no empty seats, there haven’t been for years, and there never will be. The Rallies are “HOTTER” than ever. They are all “happenings,” and they never happened before, and will never be duplicated again. The Networks refuse, however, under any circumstances, to show the Crowds, but you can hear the thunderous applause, and know that it represents thousands and thousands of people. Watch tonight, for example, in the Great State of Nebraska, where I’ll be heading soon. See you later! President DONALD J. TRUMP</p>",
+      "published": "Mon, 05 Oct 2026 17:58:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-05T19:51:38.938459Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42167"
     }
   }
 }
