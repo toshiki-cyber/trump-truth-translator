@@ -3757,79 +3757,12 @@
     "https://www.trumpstruth.org/statuses/42178",
     "fp:Watchdog concludes Biden risked security by letting millions overstay visas, including threats: \nhttps://justthenews.com/government/security/tuewatchd",
     "truth:117393803999487824",
-    "https://www.trumpstruth.org/statuses/42179"
+    "https://www.trumpstruth.org/statuses/42179",
+    "fp:My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows ",
+    "truth:117393995402609279",
+    "https://www.trumpstruth.org/statuses/42177"
   ],
   "posts": {
-    "truth:117179353983440485": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41365",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954</span></p>",
-      "published": "Sat, 29 Aug 2026 14:50:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-29T17:05:44.457239Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41365",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954",
-      "media_identity": "attachment:117179353983440485:135ea36d5f0a6df2.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954",
-      "truth_social_id": "117179353983440485",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mua4stptvcea",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mua4stptvcea",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954",
-        "createdAt": "2026-08-29T16:55:40.283772Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 73
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicnn63rm5f22tayy7ssfp7i5txl2nbt7vhim2xce2gistwh5thw7m"
-                },
-                "mimeType": "image/jpeg",
-                "size": 70999
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1120,
-                "height": 414
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mua4stptvcea",
-          "rkey": "3mua4stptvcea"
-        }
-      ]
-    },
     "truth:117179455037482321": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17107,6 +17040,24 @@
           "rkey": "3mx7edg6eq225"
         }
       ]
+    },
+    "truth:117393995402609279": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42177",
+      "source_text": "<p>My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT</p>",
+      "published": "Tue, 06 Oct 2026 12:36:53 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-06T14:11:29.382950Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42177",
+      "first_seen": "2026-10-06T13:36:20.471764Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows ",
+      "truth_social_id": "117393995402609279",
+      "source_fingerprint": "fp:My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows ",
+      "media_identity": "attachment:117393995402609279:",
+      "translation": "わが集会の群衆と熱気は信じられないほどだ！これまでこのようなものは誰も見たことがない。われわれは全国至るところで選挙戦を覆している。フェイクニュースはそれを知っているが、視聴者に対して真実を述べたくないのだ。すべてが起きている！民主党員どもはこれを予想していなかった。集会を完全に報道してくれる素晴らしいネットワークに感謝する。彼らは大きな視聴率で報われている。「中間選挙サプライズ」に注目してほしい！大統領 DJT"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33616,22 +33567,6 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
-    },
-    "truth:117393995402609279": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42177",
-      "source_text": "<p>My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT</p>",
-      "published": "Tue, 06 Oct 2026 12:36:53 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-06T13:41:26.480111Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42177",
-      "first_seen": "2026-10-06T13:36:20.471764Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows ",
-      "next_retry_at": "2026-10-06T13:51:26.480125Z",
-      "truth_social_id": "117393995402609279"
     }
   }
 }
