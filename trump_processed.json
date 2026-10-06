@@ -3766,63 +3766,12 @@
     "https://www.trumpstruth.org/statuses/42181",
     "fp:FoxNews spends more time covering the Jihadist and Dumocrat candidates than they do the good old fashioned Republicans, the people that have saved Ame",
     "truth:117394284349556435",
-    "https://www.trumpstruth.org/statuses/42180"
+    "https://www.trumpstruth.org/statuses/42180",
+    "fp:FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebra",
+    "truth:117394338110958110",
+    "https://www.trumpstruth.org/statuses/42182"
   ],
   "posts": {
-    "truth:117180270499874239": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41373",
-      "source_text": "<p>NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP</p>",
-      "published": "Sat, 29 Aug 2026 18:43:49 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-29T19:10:43.510501Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41373",
-      "source_fingerprint": "fp:NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J.",
-      "media_identity": "attachment:117180270499874239:49589bb8bc4a0328.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J.",
-      "truth_social_id": "117180270499874239",
-      "translation": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3muajtms3324k",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "NASA長官ジャレッド・アイザックマン、教育長官リンダ・マクマホン、ステファニー・マクマホン、およびトリプルHがケネディ宇宙センターに！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-08-29T19:00:41.502962Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicyapadhospdyqnsqcb2ozxqb5fwhwl6eu3ygvtd3ub2brsx543mi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 248009
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muajtms3324k",
-          "rkey": "3muajtms3324k"
-        }
-      ]
-    },
     "truth:117184581053116309": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17048,6 +16997,24 @@
           "rkey": "3mx7l5u6t5ck3"
         }
       ]
+    },
+    "truth:117394338110958110": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42182",
+      "source_text": "<p>FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The “other side” doesn’t give our people any positive exposure or airtime. It is a miracle that I won, the last by a landslide, three Presidential Races! President DJT</p>",
+      "published": "Tue, 06 Oct 2026 14:04:02 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-06T16:11:26.581529Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42182",
+      "first_seen": "2026-10-06T15:36:20.759967Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebra",
+      "truth_social_id": "117394338110958110",
+      "source_fingerprint": "fp:FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebra",
+      "media_identity": "attachment:117394338110958110:",
+      "translation": "フォックスニュースが今、ネブラスカ州の我々の素晴らしい共和党上院議員ピート・リケッツに対して立候補している下劣な奴ダン・オズボーンのロングフォームインタビューをやっている。なぜこんなことをするんだ？？？「反対派」は我々の国民に対して何のプラスの露出も放映時間も与えない。最後に大差で勝利した、三度の大統領選挙で勝利した俺が勝ったのは奇跡だ！大統領 DJT"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33557,22 +33524,6 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
-    },
-    "truth:117394338110958110": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42182",
-      "source_text": "<p>FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The “other side” doesn’t give our people any positive exposure or airtime. It is a miracle that I won, the last by a landslide, three Presidential Races! President DJT</p>",
-      "published": "Tue, 06 Oct 2026 14:04:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-06T15:46:23.634995Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42182",
-      "first_seen": "2026-10-06T15:36:20.759967Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebra",
-      "next_retry_at": "2026-10-06T15:56:23.635010Z",
-      "truth_social_id": "117394338110958110"
     },
     "truth:117394656543560911": {
       "post_status": "RETRY",
