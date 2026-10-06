@@ -33578,6 +33578,54 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
+    },
+    "truth:117393803999487824": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42179",
+      "source_text": "<p>Watchdog concludes Biden risked security by letting millions overstay visas, including threats: <a href=\"https://justthenews.com/government/security/tuewatchdog-concludes-biden-risked-security-letting-millions-overstay-visas\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/sec</span><span class=\"invisible\">urity/tuewatchdog-concludes-biden-risked-security-letting-millions-overstay-visas</span></a></p>",
+      "published": "Tue, 06 Oct 2026 11:48:12 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-06T13:36:19.266676Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42179",
+      "first_seen": "2026-10-06T13:36:19.266643Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Watchdog concludes Biden risked security by letting millions overstay visas, including threats: \nhttps://justthenews.com/government/security/tuewatchd",
+      "next_retry_at": "2026-10-06T13:41:19.266684Z",
+      "truth_social_id": "117393803999487824"
+    },
+    "truth:117393952565404870": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42178",
+      "source_text": "<p>Chicago is suffering an unprecedented and particularly violent crime wave that is getting worse by the day. The Federal Government can extinguish it quickly and completely, but the Mayor of Chicago, or the Governor of Illinois, must ask for our help. What is wrong with them? Why aren’t they asking? TIME IS OF THE ESSENCE! President DJT</p>",
+      "published": "Tue, 06 Oct 2026 12:25:59 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-06T13:36:19.933292Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42178",
+      "first_seen": "2026-10-06T13:36:19.933258Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Chicago is suffering an unprecedented and particularly violent crime wave that is getting worse by the day. The Federal Government can extinguish it q",
+      "next_retry_at": "2026-10-06T13:41:19.933300Z",
+      "truth_social_id": "117393952565404870"
+    },
+    "truth:117393995402609279": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42177",
+      "source_text": "<p>My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT</p>",
+      "published": "Tue, 06 Oct 2026 12:36:53 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-06T13:36:20.471797Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42177",
+      "first_seen": "2026-10-06T13:36:20.471764Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows ",
+      "next_retry_at": "2026-10-06T13:41:20.471804Z",
+      "truth_social_id": "117393995402609279"
     }
   }
 }
