@@ -33540,6 +33540,22 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
+    },
+    "truth:117401043822124853": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42193",
+      "source_text": "<p>Steve Witkoff keeps the light on: <a href=\"https://www.washingtonexaminer.com/opinion/columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exchange/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/opinion</span><span class=\"invisible\">/columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exchange/</span></a></p>",
+      "published": "Wed, 07 Oct 2026 18:29:23 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-07T20:01:19.507195Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42193",
+      "first_seen": "2026-10-07T20:01:19.507163Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Steve Witkoff keeps the light on: \nhttps://www.washingtonexaminer.com/opinion/columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exch",
+      "next_retry_at": "2026-10-07T20:06:19.507200Z",
+      "truth_social_id": "117401043822124853"
     }
   }
 }
