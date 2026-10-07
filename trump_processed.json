@@ -33531,6 +33531,22 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
+    },
+    "truth:117399931237063983": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42190",
+      "source_text": "<p>We Can’t Trust Annie Andrews: <a href=\"https://www.youtube.com/watch?v=hNsGcNiCJ3U\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=hNsGcNiCJ3</span><span class=\"invisible\">U</span></a></p>",
+      "published": "Wed, 07 Oct 2026 13:46:26 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-07T14:01:22.379949Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42190",
+      "first_seen": "2026-10-07T14:01:22.379897Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:We Can’t Trust Annie Andrews: \nhttps://www.youtube.com/watch?v=hNsGcNiCJ3U",
+      "next_retry_at": "2026-10-07T14:06:22.379957Z",
+      "truth_social_id": "117399931237063983"
     }
   }
 }
