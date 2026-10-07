@@ -33536,14 +33536,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42184",
       "source_text": "<p>Jack Smith Spied on Trump Staffer’s Communications and 20+ Lawyers: Report: <a href=\"https://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">usajournal.news/2026/10/05/jac</span><span class=\"invisible\">k-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/</span></a></p>",
       "published": "Wed, 07 Oct 2026 02:12:02 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-07T03:36:20.363507Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-07T03:46:15.296933Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42184",
       "first_seen": "2026-10-07T03:36:20.363469Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Jack Smith Spied on Trump Staffer’s Communications and 20+ Lawyers: Report: \nhttps://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-",
-      "next_retry_at": "2026-10-07T03:41:20.363516Z",
+      "next_retry_at": "2026-10-07T03:56:15.296947Z",
       "truth_social_id": "117397200762855537"
     }
   }
