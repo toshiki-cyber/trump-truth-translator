@@ -3780,27 +3780,11 @@
     "https://www.trumpstruth.org/statuses/42189",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399303994327712",
     "truth:117399304671862654",
-    "https://www.trumpstruth.org/statuses/42188"
+    "https://www.trumpstruth.org/statuses/42188",
+    "truth:117399305601073573",
+    "https://www.trumpstruth.org/statuses/42187"
   ],
   "posts": {
-    "truth:117185823993660126": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41397",
-      "source_text": "<p>When I announced that I was running in the 2024 Presidential Election, right at the beginning, Ford was getting ready to close their Big Factory, in Detroit. Then, because I was leading in the Polls, they figured they would leave it open a little longer to see what happened. Now it’s running 24/7, and it’s one of the most profitable Car Plants in the World! There are many other examples, for both Ford, General Motors, and others. I’ve revived, and indeed saved, the Automobile Business in our America. That’s because of what I’ve done with TARIFFS. One of the Worst Abusers is Canada. I don’t want Canadian cars, I don’t want Canadian parts, I don’t want Canadian anything. They’ve been ripping us off for decades, and it’s going to stop. This should have happened long ago with other Presidents, just as stopping Iran should have happened long ago. They want to be treated like a State, but they aren’t one. I deal with the Leadership of many Countries, but I find Canada to be the worst. They are entitled no longer! President DONALD J. TRUMP</p>",
-      "published": "Sun, 30 Aug 2026 18:16:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T19:10:43.514310Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41397",
-      "first_seen": "2026-08-30T18:50:34.822147Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:When I announced that I was running in the 2024 Presidential Election, right at the beginning, Ford was getting ready to close their Big Factory, in D",
-      "truth_social_id": "117185823993660126",
-      "source_fingerprint": "fp:When I announced that I was running in the 2024 Presidential Election, right at the beginning, Ford was getting ready to close their Big Factory, in D",
-      "media_identity": "attachment:117185823993660126:",
-      "translation": "2024年の大統領選挙に立候補することを発表した時、デトロイトのフォードの大規模工場は閉鎖の準備をしていた。その後、私が世論調査でリードしていることが分かると、彼らは様子を見るためにもう少し長く操業を続けることにした。今ではその工場は24時間体制で稼働しており、世界で最も収益性の高い自動車工場の一つになっている！フォード、ゼネラルモーターズ、その他多くの企業についても、同様の例は数多くある。私は米国の自動車産業を復活させ、実際に救ってきた。それは私が行った関税政策による成果だ。最悪の濫用者の一つはカナダである。カナダ車は要らない、カナダ製の部品は要らない、カナダのものは何も要らない。彼らは何十年も我々を搾取してきた。それはこれで終わりだ。このようなことは過去の大統領の下でずっと前に起きているべきだった。イランに対する対抗と同様にだ。彼らは州のように扱われたいと考えているが、彼らは州ではない。私は多くの国の指導部と付き合っているが、カナダが最悪だと分かった。彼らはもはや優遇されるべきではない！ドナルド・J・トランプ大統領"
-    },
     "truth:117185864353206503": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17037,6 +17021,21 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399303994327712",
       "truth_social_id": "117399304671862654",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117399303994327712"
+    },
+    "truth:117399305601073573": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42187",
+      "source_text": "<p></p>",
+      "published": "Wed, 07 Oct 2026 11:07:20 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-07T11:46:30.333524Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42187",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117399305601073573:150818115dd96f0e-b11deacf4177.mp4",
+      "failure_reason": null,
+      "truth_social_id": "117399305601073573",
+      "translation": ""
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33546,16 +33545,6 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
-    },
-    "truth:117399305601073573": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42187",
-      "source_text": "<p></p>",
-      "published": "Wed, 07 Oct 2026 11:07:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-07T11:36:18.517149Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42187"
     },
     "truth:117399306525636867": {
       "post_status": "DISCOVERED",
