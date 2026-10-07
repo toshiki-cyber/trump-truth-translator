@@ -33534,6 +33534,22 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
+    },
+    "truth:117400280030146024": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42191",
+      "source_text": "<p>I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I will be approving 17.9 Million Dollars for the Severe Storms and Tornadoes that Wisconsin has experienced. The people are tough and smart, and will come back stronger than ever — 18 Million Dollars should help, A LOT. See you soon Wisconsin — I LOVE YOU ALL! President DONALD J. TRUMP</p>",
+      "published": "Wed, 07 Oct 2026 15:15:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-07T16:01:27.524287Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42191",
+      "first_seen": "2026-10-07T16:01:27.524246Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I wi",
+      "next_retry_at": "2026-10-07T16:06:27.524296Z",
+      "truth_social_id": "117400280030146024"
     }
   }
 }
