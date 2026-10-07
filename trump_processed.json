@@ -33553,8 +33553,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/42185",
       "source_text": "<p></p>",
       "published": "Wed, 07 Oct 2026 11:07:39 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-07T12:06:18.975068Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-07T12:11:20.076470Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42185",
       "source_fingerprint": null,
       "media_identity": "attachment:117399306894086851:d3837c4282cf254d.jpg",
@@ -33675,7 +33675,7 @@
         }
       ],
       "failure_stage": "LOGIN",
-      "next_retry_at": "2026-10-07T12:11:18.975081Z"
+      "next_retry_at": "2026-10-07T12:21:20.076480Z"
     }
   }
 }
