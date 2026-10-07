@@ -3799,45 +3799,12 @@
     "https://www.trumpstruth.org/statuses/42192",
     "fp:Steve Witkoff keeps the light on: \nhttps://www.washingtonexaminer.com/opinion/columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exch",
     "truth:117401043822124853",
-    "https://www.trumpstruth.org/statuses/42193"
+    "https://www.trumpstruth.org/statuses/42193",
+    "fp:Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and ch",
+    "truth:117401732253982693",
+    "https://www.trumpstruth.org/statuses/42194"
   ],
   "posts": {
-    "truth:117187484009660027": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41406",
-      "source_text": "<p>Being interviewed by Trey Gowdy, NOW!</p>",
-      "published": "Mon, 31 Aug 2026 01:18:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-31T03:25:39.923704Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41406",
-      "first_seen": "2026-08-31T02:50:37.062477Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Being interviewed by Trey Gowdy, NOW!",
-      "truth_social_id": "117187484009660027",
-      "source_fingerprint": "fp:Being interviewed by Trey Gowdy, NOW!",
-      "media_identity": "attachment:117187484009660027:",
-      "translation": "トレイ・ガウディのインタビューを受けている。今、まさに！",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mudqdx6cx2nz",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mudqdx6cx2nz",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トレイ・ガウディのインタビューを受けている。今、まさに！",
-        "createdAt": "2026-08-31T03:15:44.269661Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mudqdx6cx2nz",
-          "rkey": "3mudqdx6cx2nz"
-        }
-      ]
-    },
     "truth:117192227146628279": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17083,6 +17050,24 @@
           "rkey": "3mxcl7phjesqc"
         }
       ]
+    },
+    "truth:117401732253982693": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42194",
+      "source_text": "<p>Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and children were murdered, kidnapped, and subjected to unimaginable horrors at the hands of Hamas TERRORISTS.</p><p>Today, we remember every innocent life taken, honor the survivors and their families, and remember the hostages who endured the unthinkable. I fought relentlessly to bring the hostages home, and reunite them with their loved ones, and I did, both the living and the dead!</p><p>We will NEVER forget October 7th. We will NEVER forget the victims. And we will always stand against the forces of Terror and Evil. President DONALD J. TRUMP</p>",
+      "published": "Wed, 07 Oct 2026 21:24:28 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-07T22:21:27.985749Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42194",
+      "first_seen": "2026-10-07T22:01:20.036745Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and ch",
+      "truth_social_id": "117401732253982693",
+      "source_fingerprint": "fp:Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and ch",
+      "media_identity": "attachment:117401732253982693:",
+      "translation": "3年前の今日、10月7日、世界はイスラエルの歴史における最も暗く最も邪悪な日の一つを目撃した。罪のない男性、女性、子どもたちがハマステロリストの手によって殺害され、誘拐され、想像を絶する恐怖にさらされた。\n\n本日、奪われたすべての無実の命を悼み、生き残った者たちと彼らの家族に敬意を表し、耐え難いことを耐えた人質たちを偲ぶ。私は人質たちを家に帰すため、彼らを愛する者たちと再会させるため、絶え間なく戦った。そして私はそれを成し遂げた。生きている者も死んだ者も！\n\n我々は決して10月7日を忘れない。我々は決して犠牲者たちを忘れない。そして我々は常にテロと邪悪の勢力に対抗する。ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33592,22 +33577,6 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
-    },
-    "truth:117401732253982693": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42194",
-      "source_text": "<p>Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and children were murdered, kidnapped, and subjected to unimaginable horrors at the hands of Hamas TERRORISTS.</p><p>Today, we remember every innocent life taken, honor the survivors and their families, and remember the hostages who endured the unthinkable. I fought relentlessly to bring the hostages home, and reunite them with their loved ones, and I did, both the living and the dead!</p><p>We will NEVER forget October 7th. We will NEVER forget the victims. And we will always stand against the forces of Terror and Evil. President DONALD J. TRUMP</p>",
-      "published": "Wed, 07 Oct 2026 21:24:28 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-07T22:06:21.655347Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42194",
-      "first_seen": "2026-10-07T22:01:20.036745Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and ch",
-      "next_retry_at": "2026-10-07T22:16:21.655363Z",
-      "truth_social_id": "117401732253982693"
     }
   }
 }
