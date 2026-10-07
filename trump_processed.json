@@ -3782,27 +3782,12 @@
     "truth:117399304671862654",
     "https://www.trumpstruth.org/statuses/42188",
     "truth:117399305601073573",
-    "https://www.trumpstruth.org/statuses/42187"
+    "https://www.trumpstruth.org/statuses/42187",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573",
+    "truth:117399306525636867",
+    "https://www.trumpstruth.org/statuses/42186"
   ],
   "posts": {
-    "truth:117185864353206503": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41398",
-      "source_text": "<p>Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP</p>",
-      "published": "Sun, 30 Aug 2026 18:26:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-08-30T19:15:38.546650Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41398",
-      "first_seen": "2026-08-30T18:50:35.184112Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out year",
-      "truth_social_id": "117185864353206503",
-      "source_fingerprint": "fp:Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out year",
-      "media_identity": "attachment:117185864353206503:",
-      "translation": "すべてのアメリカとビジネスを行っているカナダ企業は、すぐさまアメリカに移転せよ。その多くは、愚かなアメリカの指導部のせいで数年前に出ていった企業だ。戻ってくれば、関税はかからない！大統領 ドナルド・J・トランプ"
-    },
     "truth:117187163336215939": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17036,6 +17021,22 @@
       "failure_reason": null,
       "truth_social_id": "117399305601073573",
       "translation": ""
+    },
+    "truth:117399306525636867": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42186",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573</span></p>",
+      "published": "Wed, 07 Oct 2026 11:07:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-07T11:51:26.294497Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42186",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573",
+      "media_identity": "attachment:117399306525636867:1058086858050614.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573",
+      "truth_social_id": "117399306525636867",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33545,16 +33546,6 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
-    },
-    "truth:117399306525636867": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42186",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573</span></p>",
-      "published": "Wed, 07 Oct 2026 11:07:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-07T11:36:18.517041Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42186"
     },
     "truth:117399306894086851": {
       "post_status": "DISCOVERED",
