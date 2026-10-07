@@ -3785,79 +3785,11 @@
     "https://www.trumpstruth.org/statuses/42187",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573",
     "truth:117399306525636867",
-    "https://www.trumpstruth.org/statuses/42186"
+    "https://www.trumpstruth.org/statuses/42186",
+    "truth:117399306894086851",
+    "https://www.trumpstruth.org/statuses/42185"
   ],
   "posts": {
-    "truth:117187163336215939": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41403",
-      "source_text": "<p>A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy now: <a href=\"https://www.amazon.com/dp/B0GXNLZ6W8?lv=shuf&amp;channelId=500&amp;plpRedirect=mhFallback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/dp/B0GXNLZ6W8?lv=sh</span><span class=\"invisible\">uf&amp;channelId=500&amp;plpRedirect=mhFallback</span></a></p>",
-      "published": "Sun, 30 Aug 2026 23:56:46 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-08-31T01:00:42.335050Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41403",
-      "source_fingerprint": "fp:A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s ri",
-      "media_identity": "attachment:117187163336215939:9312bc5d9e511dfa.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s ri",
-      "truth_social_id": "117187163336215939",
-      "translation": "テッド・クルーズによる素晴らしい新著が出版されたばかりだ。偉大な最高裁判事クラレンス・トーマスについての本である！本書はトーマス判事の躍進と、彼がアメリカのためにしてきた素晴らしいことすべてについての真実の物語を描いている。必読の一冊だ！今すぐコピーを手に入れよう：\nhttps://www.amazon.com/dp/B0GXNLZ6W8?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mudls4r4p222",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mudls4r4p222",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "テッド・クルーズによる素晴らしい新著が出版されたばかりだ。偉大な最高裁判事クラレンス・トーマスについての本である！本書はトーマス判事の躍進と、彼がアメリカのためにしてきた素晴らしいことすべてについての真実の物語を描いている。必読の一冊だ！今すぐコピーを手に入れよう：\nhttps://www.amazon.com/dp/B0GXNLZ6W8?lv=shuf&channelId=500&plpRedirect=mhFallback",
-        "createdAt": "2026-08-31T00:50:39.386756Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 400,
-              "byteEnd": 481
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.amazon.com/dp/B0GXNLZ6W8?lv=shuf&channelId=500&plpRedirect=mhFallback"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifful2kwvspf6eqo7ffkcvtpgkeq5cgw2hdfaalpi3kgrbrphurue"
-                },
-                "mimeType": "image/jpeg",
-                "size": 235174
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 824,
-                "height": 1245
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mudls4r4p222",
-          "rkey": "3mudls4r4p222"
-        }
-      ]
-    },
     "truth:117186955648564622": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17037,6 +16969,59 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573",
       "truth_social_id": "117399306525636867",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573"
+    },
+    "truth:117399306894086851": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42185",
+      "source_text": "<p></p>",
+      "published": "Wed, 07 Oct 2026 11:07:39 +0000",
+      "retry_count": 3,
+      "updated_at": "2026-10-07T12:46:19.093969Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42185",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117399306894086851:d3837c4282cf254d.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117399306894086851",
+      "translation": "",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mxbsjtteb2na",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "",
+        "createdAt": "2026-10-07T11:56:20.889090Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreib76nwy67nz5njcfuzrehe4otepdwnftpwzyymszfbukijng4tvby"
+                },
+                "mimeType": "image/jpeg",
+                "size": 172738
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 830,
+                "height": 1237
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
+          "rkey": "3mxbsjtteb2na"
+        }
+      ]
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33546,136 +33531,6 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
-    },
-    "truth:117399306894086851": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42185",
-      "source_text": "<p></p>",
-      "published": "Wed, 07 Oct 2026 11:07:39 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-10-07T12:21:21.619167Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42185",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117399306894086851:d3837c4282cf254d.jpg",
-      "failure_reason": "Blueskyログイン失敗: 502 Server Error: Bad Gateway for url: https://bsky.social/xrpc/com.atproto.server.createSession",
-      "truth_social_id": "117399306894086851",
-      "translation": "",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
-          "cid": "bafyreicgz2ftjvdd3aztckoz2nzi5sjo543m62bjjswlbjhfdazznvyhcq"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
-          "cid": "bafyreicgz2ftjvdd3aztckoz2nzi5sjo543m62bjjswlbjhfdazznvyhcq"
-        },
-        "next_index": 1,
-        "last_rkey": "3mxbsjtteb2na",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-10-07T11:56:20.889090Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreib76nwy67nz5njcfuzrehe4otepdwnftpwzyymszfbukijng4tvby"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 172738
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 830,
-                  "height": 1237
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mxbsjtteb2na",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "",
-          "createdAt": "2026-10-07T11:56:20.889090Z",
-          "langs": [
-            "ja"
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreib76nwy67nz5njcfuzrehe4otepdwnftpwzyymszfbukijng4tvby"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 172738
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 830,
-                  "height": 1237
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
-            "rkey": "3mxbsjtteb2na"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxbsjtteb2na",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-07T11:56:20.889090Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreib76nwy67nz5njcfuzrehe4otepdwnftpwzyymszfbukijng4tvby"
-                },
-                "mimeType": "image/jpeg",
-                "size": 172738
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 830,
-                "height": 1237
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
-          "rkey": "3mxbsjtteb2na"
-        }
-      ],
-      "failure_stage": "LOGIN",
-      "next_retry_at": "2026-10-07T12:41:21.619181Z"
     }
   }
 }
