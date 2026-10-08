@@ -3813,27 +3813,12 @@
     "truth:117403140590234301",
     "https://www.trumpstruth.org/statuses/42197",
     "truth:117403266875935747",
-    "https://www.trumpstruth.org/statuses/42199"
+    "https://www.trumpstruth.org/statuses/42199",
+    "fp:The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super I",
+    "truth:117406176604364910",
+    "https://www.trumpstruth.org/statuses/42201"
   ],
   "posts": {
-    "truth:117195910590067180": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41443",
-      "source_text": "<p>Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once great industry BACK TO AMERICA. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 13:01:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T15:40:40.079887Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41443",
-      "first_seen": "2026-09-01T15:20:37.412281Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
-      "truth_social_id": "117195910590067180",
-      "source_fingerprint": "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
-      "media_identity": "attachment:117195910590067180:",
-      "translation": "議会における映画・テレビ・エンターテインメント産業活性化法案に対する素晴らしい超党派的な反応と支持がある。われわれはかつて偉大だったこの産業をアメリカに戻す。この問題への注視に感謝する！ドナルド・J・トランプ大統領"
-    },
     "truth:117196703402255872": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17042,6 +17027,24 @@
       "failure_reason": null,
       "truth_social_id": "117403266875935747",
       "translation": ""
+    },
+    "truth:117406176604364910": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42201",
+      "source_text": "<p>The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super Intelligence,” THE ENEMY! President DONALD J. TRUMP</p>",
+      "published": "Thu, 08 Oct 2026 16:14:43 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-08T18:26:18.596092Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42201",
+      "first_seen": "2026-10-08T18:01:24.936186Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super I",
+      "truth_social_id": "117406176604364910",
+      "source_fingerprint": "fp:The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super I",
+      "media_identity": "attachment:117406176604364910:",
+      "translation": "ホワイトハウスは、広く受け入れられている新しいより正確な用語である「スーパーインテリジェンス」に対して「人工知能」という言葉を使う者を敵と見なしている！ドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33581,22 +33584,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
       "truth_social_id": "117405289555366837",
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
-    },
-    "truth:117406176604364910": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42201",
-      "source_text": "<p>The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super Intelligence,” THE ENEMY! President DONALD J. TRUMP</p>",
-      "published": "Thu, 08 Oct 2026 16:14:43 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-08T18:11:22.302656Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42201",
-      "first_seen": "2026-10-08T18:01:24.936186Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super I",
-      "next_retry_at": "2026-10-08T18:21:22.302674Z",
-      "truth_social_id": "117406176604364910"
     },
     "truth:117406186276133332": {
       "post_status": "RETRY",
