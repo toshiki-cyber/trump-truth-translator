@@ -33581,6 +33581,54 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
       "truth_social_id": "117405289555366837",
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
+    },
+    "truth:117406176604364910": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42201",
+      "source_text": "<p>The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super Intelligence,” THE ENEMY! President DONALD J. TRUMP</p>",
+      "published": "Thu, 08 Oct 2026 16:14:43 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-08T18:01:24.936226Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42201",
+      "first_seen": "2026-10-08T18:01:24.936186Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super I",
+      "next_retry_at": "2026-10-08T18:06:24.936236Z",
+      "truth_social_id": "117406176604364910"
+    },
+    "truth:117406186276133332": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42202",
+      "source_text": "<p>We are having productive discussions with the Islamic Republic of Iran. I want to make it clear to everybody that, while Iran is in very bad condition, both Economically and Militarily, and while the Blockade will remain in full force and effect, with Oil flowing in Record Numbers of Barrels through the Hormuz Strait (22 Million Barrels, last night alone, with not one barrel coming from, or going to, Iran!), we will not be attacking Iran at any time prior to the Midterm Elections to be held in the United States on November 3rd. IRAN WILL NOT HAVE A NUCLEAR WEAPON! President DONALD J. TRUMP</p>",
+      "published": "Thu, 08 Oct 2026 16:17:11 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-08T18:01:25.535113Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42202",
+      "first_seen": "2026-10-08T18:01:25.535069Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:We are having productive discussions with the Islamic Republic of Iran. I want to make it clear to everybody that, while Iran is in very bad condition",
+      "next_retry_at": "2026-10-08T18:06:25.535124Z",
+      "truth_social_id": "117406186276133332"
+    },
+    "truth:117406359223020085": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42203",
+      "source_text": "<p>TalaFREAKo has been missing for 12 days! Now, after looking for him throughout all of Texas, and beyond, probably even weirder places than anyone would think possible, he put out a statement that he has the “flu.” 12 days is a long time to rid yourself of the so-called flu bug. What’s going on? We need a Senator that’s a proven Champion like one that has been, without question, the Greatest Attorney General in the History of Texas, and one of the Greatest in the U.S.A. His name is Ken Paxton, and he will never let you down! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 08 Oct 2026 17:01:09 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-08T18:01:26.196548Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42203",
+      "first_seen": "2026-10-08T18:01:26.196508Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:TalaFREAKo has been missing for 12 days! Now, after looking for him throughout all of Texas, and beyond, probably even weirder places than anyone woul",
+      "next_retry_at": "2026-10-08T18:06:26.196558Z",
+      "truth_social_id": "117406359223020085"
     }
   }
 }
