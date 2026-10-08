@@ -3822,25 +3822,12 @@
     "https://www.trumpstruth.org/statuses/42203",
     "fp:We are having productive discussions with the Islamic Republic of Iran. I want to make it clear to everybody that, while Iran is in very bad condition",
     "truth:117406186276133332",
-    "https://www.trumpstruth.org/statuses/42202"
+    "https://www.trumpstruth.org/statuses/42202",
+    "fp:The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was t",
+    "truth:117406823254412991",
+    "https://www.trumpstruth.org/statuses/42204"
   ],
   "posts": {
-    "truth:117197596651722690": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41465",
-      "source_text": "<p>Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 20:10:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-01T21:05:37.450607Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41465",
-      "source_fingerprint": "fp:Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
-      "media_identity": "attachment:117197596651722690:9843bb07f3362d5a.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
-      "truth_social_id": "117197596651722690",
-      "translation": "ジョン・ボイトがアメリカの映画・テレビ産業を支援するためにホワイトハウスに立ち寄った！大統領ドナルド・J・トランプ"
-    },
     "truth:117197573240600580": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17071,6 +17058,24 @@
           "rkey": "3mxeuc7zbj2i2"
         }
       ]
+    },
+    "truth:117406823254412991": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42204",
+      "source_text": "<p>The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was talking about was that a temporary increase in the price of Gasoline is a small price to pay for Iran not having a Nuclear Weapon and, if you want to see a big price, can you imagine what it would be like if they bombed San Diego and/or Los Angeles? All I was doing was making a comparison between paying a little more, for a short time, for Gasoline, versus the bombing of our Major Cities. Everybody knew that, the Fake News knew it as well, but they continue to go out and say that I am asking the enemy to bomb two Cities that I love. It’s totally clear what I say but, these people are Degenerates, and think they can continuously get away with Fake News! President DONALD J. TRUMP</p>",
+      "published": "Thu, 08 Oct 2026 18:59:10 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-08T20:21:31.991064Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42204",
+      "first_seen": "2026-10-08T20:01:24.842752Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was t",
+      "truth_social_id": "117406823254412991",
+      "source_fingerprint": "fp:The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was t",
+      "media_identity": "attachment:117406823254412991:",
+      "translation": "虚偽で人工的なニュースが出回っており、俺がサンディエゴとロサンゼルスへの爆撃を敵に呼びかけていると言おうとしているが、実際のところ、俺が話していたのは、ガソリン価格の一時的な上昇はイランが核兵器を保有しないための小さな代価であり、もし大きな代価を見たいのなら、サンディエゴやロサンゼルスが爆撃されたら何になるかを想像できるか、ということだった。俺がやっていたことはすべて、短期間のガソリン価格の上昇をわずかに多く払うことと、我が国の主要都市への爆撃を比較することだ。誰もがそれを知っていた、虚偽ニュース側もそれを知っていたが、彼らは出続けて、俺が俺が愛する二つの都市への爆撃を敵に求めていると言い続ける。俺が言うことはまったく明確だが、こいつらは下劣であり、虚偽ニュースで継続的に逃げ切れると思っている！\n\nドナルド・J・トランプ大統領"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33610,22 +33615,6 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
       "truth_social_id": "117405289555366837",
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
-    },
-    "truth:117406823254412991": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42204",
-      "source_text": "<p>The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was talking about was that a temporary increase in the price of Gasoline is a small price to pay for Iran not having a Nuclear Weapon and, if you want to see a big price, can you imagine what it would be like if they bombed San Diego and/or Los Angeles? All I was doing was making a comparison between paying a little more, for a short time, for Gasoline, versus the bombing of our Major Cities. Everybody knew that, the Fake News knew it as well, but they continue to go out and say that I am asking the enemy to bomb two Cities that I love. It’s totally clear what I say but, these people are Degenerates, and think they can continuously get away with Fake News! President DONALD J. TRUMP</p>",
-      "published": "Thu, 08 Oct 2026 18:59:10 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-08T20:11:14.812755Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42204",
-      "first_seen": "2026-10-08T20:01:24.842752Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was t",
-      "next_retry_at": "2026-10-08T20:21:14.812764Z",
-      "truth_social_id": "117406823254412991"
     }
   }
 }
