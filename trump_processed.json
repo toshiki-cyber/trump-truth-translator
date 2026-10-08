@@ -33566,6 +33566,21 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 58.3MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/403/152/573/216/382/original/e51af81b0e0dd7f6.mp4",
       "truth_social_id": "117403159101992814",
       "next_retry_at": "2026-10-08T04:06:28.152426Z"
+    },
+    "truth:117405289555366837": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/42200",
+      "source_text": "<p></p>",
+      "published": "Thu, 08 Oct 2026 12:29:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-08T14:01:21.731000Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42200",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117405289555366837:e2abcc0449ec64a0-bd12a322eb35.mp4",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
+      "truth_social_id": "117405289555366837",
+      "next_retry_at": "2026-10-08T14:06:21.731015Z"
     }
   }
 }
