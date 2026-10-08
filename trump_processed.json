@@ -33610,6 +33610,22 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
       "truth_social_id": "117405289555366837",
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
+    },
+    "truth:117406823254412991": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42204",
+      "source_text": "<p>The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was talking about was that a temporary increase in the price of Gasoline is a small price to pay for Iran not having a Nuclear Weapon and, if you want to see a big price, can you imagine what it would be like if they bombed San Diego and/or Los Angeles? All I was doing was making a comparison between paying a little more, for a short time, for Gasoline, versus the bombing of our Major Cities. Everybody knew that, the Fake News knew it as well, but they continue to go out and say that I am asking the enemy to bomb two Cities that I love. It’s totally clear what I say but, these people are Degenerates, and think they can continuously get away with Fake News! President DONALD J. TRUMP</p>",
+      "published": "Thu, 08 Oct 2026 18:59:10 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-08T20:01:24.842786Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42204",
+      "first_seen": "2026-10-08T20:01:24.842752Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Fake and Artificial News is out there trying to say that I’m inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was t",
+      "next_retry_at": "2026-10-08T20:06:24.842794Z",
+      "truth_social_id": "117406823254412991"
     }
   }
 }
