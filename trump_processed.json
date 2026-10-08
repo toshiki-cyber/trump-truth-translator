@@ -3808,63 +3808,12 @@
     "https://www.trumpstruth.org/statuses/42195",
     "fp:Mohammed El-Sayed is a terrible Candidate for the Dumocrats. While his opponent, Mike Rogers, is an extremely good one, Mohammed goes back to the days",
     "truth:117403103962951852",
-    "https://www.trumpstruth.org/statuses/42196"
+    "https://www.trumpstruth.org/statuses/42196",
+    "fp:Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No on",
+    "truth:117403140590234301",
+    "https://www.trumpstruth.org/statuses/42197"
   ],
   "posts": {
-    "truth:117193480976456985": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41439",
-      "source_text": "<p>A great Senator and a great golfer!!! President DJT</p>",
-      "published": "Tue, 01 Sep 2026 02:43:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-01T05:00:36.787696Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41439",
-      "source_fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
-      "media_identity": "attachment:117193480976456985:f78f8138c8fa8c35.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:A great Senator and a great golfer!!! President DJT",
-      "truth_social_id": "117193480976456985",
-      "translation": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mugfl2jlis2u",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "素晴らしい上院議員だ。そして素晴らしいゴルファーだ！！！ トランプ大統領",
-        "createdAt": "2026-09-01T04:50:42.421184Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreie6ti66qymg7mrs5oqxwnwxnbmqicljqt2hakhnpb7gvxvh5c4fnm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 201155
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 828
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mugfl2jlis2u",
-          "rkey": "3mugfl2jlis2u"
-        }
-      ]
-    },
     "truth:117194670372847111": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17076,6 +17025,24 @@
       "source_fingerprint": "fp:Mohammed El-Sayed is a terrible Candidate for the Dumocrats. While his opponent, Mike Rogers, is an extremely good one, Mohammed goes back to the days",
       "media_identity": "attachment:117403103962951852:",
       "translation": "モハメド・エル・セイドは民主党の恐ろしい候補者である。彼の対立候補であるマイク・ロジャースが極めて優秀である一方、モハメドはジハドの時代へさかのぼる。彼は過激派テロリスト、テロシンパであり、親友でアメリカを憎むハサン・ピカーと何ら変わらない。フランスはどうしているのか？モハメドの価値観はミシガン州民の価値観とも、我が偉大なアメリカ合衆国の価値観とも全く異なっている！彼はミシガン州にとって間違っており、アメリカにとって間違っている。マイク・ロジャースに投票しろ――彼は私の完全かつ全面的な支持を得ており、絶対に君たちを裏切ることはない！このことへの君たちの注目に感謝する。ドナルド・J・トランプ大統領"
+    },
+    "truth:117403140590234301": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42197",
+      "source_text": "<p>Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No one has seen him for an extended period of time. Where is he? What is wrong with him? Bad rumors are coming out. He should immediately report to a Debate Stage against Ken Paxton, who is ready, willing, and able, one of the best Attorney Generals in the Country, and will soon be, hopefully, a United States Senator representing the Great People of Texas! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 08 Oct 2026 03:22:37 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-08T04:31:23.801202Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42197",
+      "first_seen": "2026-10-08T04:01:26.662043Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No on",
+      "truth_social_id": "117403140590234301",
+      "source_fingerprint": "fp:Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No on",
+      "media_identity": "attachment:117403140590234301:",
+      "translation": "皆さんへ。情報と信念に基づくところ、テキサス州で米国上院議員選に立候補しているジェームス・タラフレアコが行方不明になっている！長期間にわたって誰も彼を見ていない。彼はどこにいるのか？何が彼に起きたのか？悪い噂が出ている。彼は直ちに、用意ができており、進んで立ち向かう準備ができている、そして国最高の司法長官の一人であり、間もなく、うまくいけば、テキサス州の偉大な人民を代表する米国上院議員となるだろうケン・パクストンとの討論会に出席すべきだ！本件へのご関心をいただきありがとうございます。大統領ドナルド・J・トランプ"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33585,22 +33552,6 @@
       "published": "Mon, 05 Oct 2026 22:00:51 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-05T23:35:28.853813Z"
-    },
-    "truth:117403140590234301": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42197",
-      "source_text": "<p>Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No one has seen him for an extended period of time. Where is he? What is wrong with him? Bad rumors are coming out. He should immediately report to a Debate Stage against Ken Paxton, who is ready, willing, and able, one of the best Attorney Generals in the Country, and will soon be, hopefully, a United States Senator representing the Great People of Texas! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Thu, 08 Oct 2026 03:22:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-08T04:11:22.916628Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42197",
-      "first_seen": "2026-10-08T04:01:26.662043Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No on",
-      "next_retry_at": "2026-10-08T04:21:22.916644Z",
-      "truth_social_id": "117403140590234301"
     },
     "truth:117403159101992814": {
       "post_status": "BLOCKED",
