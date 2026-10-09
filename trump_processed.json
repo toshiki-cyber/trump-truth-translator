@@ -33573,20 +33573,173 @@
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
     },
     "truth:117408209620927226": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/42207",
       "source_text": "<p>How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: <a href=\"https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/08/opinion/</span><span class=\"invisible\">how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/</span></a></p>",
       "published": "Fri, 09 Oct 2026 00:51:44 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-09T02:06:21.367268Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-09T02:21:34.287150Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42207",
       "first_seen": "2026-10-09T02:01:19.598572Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: \nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-p",
-      "next_retry_at": "2026-10-09T02:16:21.367280Z",
-      "truth_social_id": "117408209620927226"
+      "truth_social_id": "117408209620927226",
+      "source_fingerprint": "fp:How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: \nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-p",
+      "media_identity": "attachment:117408209620927226:",
+      "translation": "トランプが「専門家」に逆らい、国連を10月7日以降の平和へ向かわせた方法：\nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfr2dklzsyb",
+          "cid": "bafyreiffgmyk3eraujamwj7msrpn3ufn64vljomolkghzu3kuwha4ibjpq"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfr2dklzsyb",
+          "cid": "bafyreiffgmyk3eraujamwj7msrpn3ufn64vljomolkghzu3kuwha4ibjpq"
+        },
+        "next_index": 1,
+        "last_rkey": "3mxfr2dklzsyb",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "トランプが「専門家」に逆らい、国連を10月7日以降の平和へ向かわせた方法：\nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+          "createdAt": "2026-10-09T02:21:27.444261Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 106,
+                "byteEnd": 211
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+              "title": "How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace",
+              "description": "Thanks to President Donald Trump, the same UN that was part of the problem in 2023 now has an opportunity — indeed, a mandate — to be part of the solution.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreievfncilntiqei237tmewjc5byljraiwmp4k72clxmj33jxzo6eu4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 196050
+              }
+            }
+          }
+        },
+        "root_rkey": "3mxfr2dklzsyb",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "トランプが「専門家」に逆らい、国連を10月7日以降の平和へ向かわせた方法：\nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+          "createdAt": "2026-10-09T02:21:27.444261Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 106,
+                "byteEnd": 211
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+              "title": "How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace",
+              "description": "Thanks to President Donald Trump, the same UN that was part of the problem in 2023 now has an opportunity — indeed, a mandate — to be part of the solution.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreievfncilntiqei237tmewjc5byljraiwmp4k72clxmj33jxzo6eu4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 196050
+              }
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfr2dklzsyb",
+            "rkey": "3mxfr2dklzsyb"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfr2dklzsyb",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mxfr2dklzsyb",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "トランプが「専門家」に逆らい、国連を10月7日以降の平和へ向かわせた方法：\nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+        "createdAt": "2026-10-09T02:21:27.444261Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 106,
+              "byteEnd": 211
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+            "title": "How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace",
+            "description": "Thanks to President Donald Trump, the same UN that was part of the problem in 2023 now has an opportunity — indeed, a mandate — to be part of the solution.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreievfncilntiqei237tmewjc5byljraiwmp4k72clxmj33jxzo6eu4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 196050
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfr2dklzsyb",
+          "rkey": "3mxfr2dklzsyb"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-09T02:26:34.287163Z"
     },
     "truth:117408226875989984": {
       "post_status": "RETRY",
