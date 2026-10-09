@@ -33680,6 +33680,22 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
       "truth_social_id": "117405289555366837",
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
+    },
+    "truth:117408959105269388": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42211",
+      "source_text": "<p>Mike Rogers, the great American Patriot and Republican Candidate for the U.S.Senate from Michigan, completely obliterated Mohammad El-Sayed in the big debate tonight. If this was a fight they would have stopped it. Mohammad is a Jihadist lunatic who hates our Country, the Black People of Detroit, and wants to see the U.S. fail. Short on Stature, Patriotism, and Truth, Mohammed’s statements have been loaded up with lies and deceit. I won Michigan BIG, and know that Mike Rogers, a total winner, is the man for you!!! President DJT</p>",
+      "published": "Fri, 09 Oct 2026 04:02:21 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-09T06:01:34.305632Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42211",
+      "first_seen": "2026-10-09T06:01:34.305599Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Mike Rogers, the great American Patriot and Republican Candidate for the U.S.Senate from Michigan, completely obliterated Mohammad El-Sayed in the big",
+      "next_retry_at": "2026-10-09T06:06:34.305641Z",
+      "truth_social_id": "117408959105269388"
     }
   }
 }
