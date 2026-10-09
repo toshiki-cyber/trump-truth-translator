@@ -3834,27 +3834,12 @@
     "https://www.trumpstruth.org/statuses/42206",
     "fp:The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
     "truth:117408281179466427",
-    "https://www.trumpstruth.org/statuses/42210"
+    "https://www.trumpstruth.org/statuses/42210",
+    "fp:Trump’s men at the United Nations: \nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
+    "truth:117408226875989984",
+    "https://www.trumpstruth.org/statuses/42209"
   ],
   "posts": {
-    "truth:117197418352887408": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41446",
-      "source_text": "<p>Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!<br /> <br />A true MAGA Warrior, who has been with us from the very beginning, Brenna knows the Wisdom and Courage it takes to ensure LAW AND ORDER, advocate for our Heroes in Law Enforcement, and strongly support our Military and Veterans. Brenna is also relentlessly focused on helping us to Grow the Economy, Promote our Amazing Farmers and Ranchers, Advance Election Integrity, Stop Migrant Crime, Keep Men out of Women’s Sports, and Protect our always under siege Second Amendment.<br /> <br />Brenna Bird has my Complete and Total Endorsement for Re-Election – SHE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Tue, 01 Sep 2026 19:24:45 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T21:25:40.785425Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41446",
-      "first_seen": "2026-09-01T20:50:47.193129Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
-      "truth_social_id": "117197418352887408",
-      "source_fingerprint": "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
-      "media_identity": "attachment:117197418352887408:",
-      "translation": "ブレンナ・バードはアイオワ州の素晴らしい司法長官だ。アイオワは私が愛する州であり、2016年、2020年、2024年に大きく勝利した場所だ！\n\n最初からずっと我々と共にいた真の「MAGA戦士」であるブレンナは、法と秩序を確保し、法執行機関の英雄たちを擁護し、軍と退役軍人を強く支持するために必要な知恵と勇気を備えている。ブレンナはまた、経済を成長させ、素晴らしい農民と牧場主を推進し、選挙の完全性を進め、移民犯罪を止め、女性スポーツから男性を排除し、常に包囲されている我々の修正第2条を守ることに絶えず焦点を当てている。\n\nブレンナ・バードは再選に向けて私の完全かつ全的な支持を得ている――彼女はあなたを決して失望させない！"
-    },
     "truth:117197420901183128": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17032,6 +17017,24 @@
       "fingerprint": "fp:The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
       "truth_social_id": "117408281179466427",
       "translation": "ダモクラッツはペテン師だ。これが本当の事実だ！！！大統領 DJT"
+    },
+    "truth:117408226875989984": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42209",
+      "source_text": "<p>Trump’s men at the United Nations: <a href=\"https://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/magazin</span><span class=\"invisible\">e-features/4684766/trump-administration-push-reform-united-nations/</span></a></p>",
+      "published": "Fri, 09 Oct 2026 00:56:08 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-09T02:26:20.343275Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42209",
+      "first_seen": "2026-10-09T02:01:20.161831Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump’s men at the United Nations: \nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
+      "truth_social_id": "117408226875989984",
+      "source_fingerprint": "fp:Trump’s men at the United Nations: \nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
+      "media_identity": "attachment:117408226875989984:",
+      "translation": "国連でのトランプの陣営：\nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33740,22 +33743,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-09T02:26:34.287163Z"
-    },
-    "truth:117408226875989984": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42209",
-      "source_text": "<p>Trump’s men at the United Nations: <a href=\"https://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/magazin</span><span class=\"invisible\">e-features/4684766/trump-administration-push-reform-united-nations/</span></a></p>",
-      "published": "Fri, 09 Oct 2026 00:56:08 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-09T02:06:21.560368Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42209",
-      "first_seen": "2026-10-09T02:01:20.161831Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump’s men at the United Nations: \nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
-      "next_retry_at": "2026-10-09T02:16:21.560382Z",
-      "truth_social_id": "117408226875989984"
     },
     "truth:117408228489272278": {
       "post_status": "RETRY",
