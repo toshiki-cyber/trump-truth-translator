@@ -3831,27 +3831,12 @@
     "https://www.trumpstruth.org/statuses/42205",
     "fp:Can you believe that Alaska, a State I love, and won BIG, all three times, has three Republicans running against one Dumocrat for Governor? What is th",
     "truth:117407758597840565",
-    "https://www.trumpstruth.org/statuses/42206"
+    "https://www.trumpstruth.org/statuses/42206",
+    "fp:The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
+    "truth:117408281179466427",
+    "https://www.trumpstruth.org/statuses/42210"
   ],
   "posts": {
-    "truth:117197413810898126": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41447",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!<br /> <br />As a Sixth Generation Iowan, and a very successful Businessman, Zach knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. As a Family Farmer, Zach is an incredibly effective Voice for Iowa Agriculture, our amazing Farmers and Ranchers, and Making America Healthy Again! As your next Governor, Zach will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Zach Lahn has my Complete and Total Endorsement to be the next Governor of Iowa — HE WILL NEVER LET YOU DOWN!</p>",
-      "published": "Tue, 01 Sep 2026 19:23:36 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-01T21:20:49.988407Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41447",
-      "first_seen": "2026-09-01T20:50:46.714021Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iow",
-      "truth_social_id": "117197413810898126",
-      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iow",
-      "media_identity": "attachment:117197413810898126:",
-      "translation": "素晴らしいアイオワ州の次期知事候補として立候補している素晴らしい候補者で、アメリカ・ファースト愛国者のザック・ラーンを推薦できるのは、私の大きな栄誉である。私は2016年、2020年、2024年にこの州で大勝利を収めた。\n\n6代目のアイオワ州民であり、非常に成功した実業家であるザックは、経済を成長させ、素晴らしい雇用を創出し、税金と規制を削減し、アメリカ製を推進し、アメリカン・エネルギーの優位性を解放するために必要なアメリカ・ファースト政策を知っている。農家として、ザックはアイオワの農業、素晴らしい農民と牧場主、そしてアメリカを再び健康にすることの信じられないほど効果的な声である。次期知事として、ザックは選挙を守り、国境を厳重に保護し、移民犯罪を止め、法と秩序を確保し、信じられない軍と退役軍人を強化し、常に攻撃を受けている修正第2条を守るために、たゆまず努力するだろう。\n\nザック・ラーンはアイオワ州の次期知事になるための私の完全かつ全面的な推薦を得ている。彼はお前たちを失望させることは決してない！"
-    },
     "truth:117197418352887408": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17031,6 +17016,22 @@
       "source_fingerprint": "fp:Can you believe that Alaska, a State I love, and won BIG, all three times, has three Republicans running against one Dumocrat for Governor? What is th",
       "media_identity": "attachment:117407758597840565:",
       "translation": "私が愛するアラスカ州、そして3度にわたって大勝利を収めた州で、民主党候補1人に対して共和党候補が3人も立候補しているなんて、信じられるか？これはいったい何だ？こんなことをするほど我々は愚かなのか？その上、この国では認められるべきではない腐敗した順位選択投票制度がある。11月の投票で廃止されることを望む！いずれにせよ、米国上院に立候補している素晴らしい候補者が1人いる。彼の名前はダン・サリバンで、現職議員であり、素晴らしい仕事をしている。米国の歴史の中で、どの議員よりもアラスカにより多くのビジネスをもたらしている。アラスカには上院議員ダン・サリバンが必要であり、下院議員ニック・ベギッチも必要だ。これは素晴らしいチームだ。投票に行け！私はすぐにアラスカに向かう。投票することを確認するために、皆さんにお会いすることを楽しみにしている。期日前投票は10月19日から始まる。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領"
+    },
+    "truth:117408281179466427": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42210",
+      "source_text": "<p>The Dumocrats are Scammers. These are the real FACTS!!! President DJT</p>",
+      "published": "Fri, 09 Oct 2026 01:09:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-09T02:01:24.185705Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42210",
+      "source_fingerprint": "fp:The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
+      "media_identity": "attachment:117408281179466427:ec2f9c154a11c21e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
+      "truth_social_id": "117408281179466427",
+      "translation": "ダモクラッツはペテン師だ。これが本当の事実だ！！！大統領 DJT"
     },
     "truth:117363810994521058": {
       "post_status": "DISCOVERED",
@@ -33570,6 +33571,54 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
       "truth_social_id": "117405289555366837",
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
+    },
+    "truth:117408209620927226": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42207",
+      "source_text": "<p>How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: <a href=\"https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/08/opinion/</span><span class=\"invisible\">how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/</span></a></p>",
+      "published": "Fri, 09 Oct 2026 00:51:44 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-09T02:01:19.598613Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42207",
+      "first_seen": "2026-10-09T02:01:19.598572Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: \nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-p",
+      "next_retry_at": "2026-10-09T02:06:19.598622Z",
+      "truth_social_id": "117408209620927226"
+    },
+    "truth:117408226875989984": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42209",
+      "source_text": "<p>Trump’s men at the United Nations: <a href=\"https://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/magazin</span><span class=\"invisible\">e-features/4684766/trump-administration-push-reform-united-nations/</span></a></p>",
+      "published": "Fri, 09 Oct 2026 00:56:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-09T02:01:20.161874Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42209",
+      "first_seen": "2026-10-09T02:01:20.161831Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Trump’s men at the United Nations: \nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
+      "next_retry_at": "2026-10-09T02:06:20.161884Z",
+      "truth_social_id": "117408226875989984"
+    },
+    "truth:117408228489272278": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42208",
+      "source_text": "<p>Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: <a href=\"https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/03/02/us-news/</span><span class=\"invisible\">melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/</span></a></p>",
+      "published": "Fri, 09 Oct 2026 00:56:32 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-09T02:01:20.855026Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42208",
+      "first_seen": "2026-10-09T02:01:20.854980Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: \nhttps://nypost.com/2026/03/02/us-news/melania-trump-ma",
+      "next_retry_at": "2026-10-09T02:06:20.855035Z",
+      "truth_social_id": "117408228489272278"
     }
   }
 }
