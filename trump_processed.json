@@ -33701,6 +33701,38 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 95.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/405/285/675/634/652/original/e2abcc0449ec64a0.mp4",
       "truth_social_id": "117405289555366837",
       "next_retry_at": "2026-10-08T14:06:21.731015Z"
+    },
+    "truth:117410832645522999": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42212",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Schoenlaw\" rel=\"nofollow\">@<span>Schoenlaw</span></a></span>Today the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN’s Navi Pillay.  Pillay is an unabashed hater of America and Israel.  In her position she celebrated terrorists and rewarded Hamas.  She conducted a phony “investigation” claiming to find that Israel committed genocide and urging prosecution.  She has no credibility in any normal sphere and has never done a thing to foster peace.  Just the opposite.  But what could be expected from a committee that previously gave the once coveted peace prize to Yasser Arafat?                   <br />President Trump gave us the Abraham Accords, which the world said would be impossible and is now expanding them!   He brought home the hostages when all seemed hopeless!  He is making best efforts to end the Russia/Ukraine war, to stop Iran, the number one sponsor of international terrorism, and he is trying to rebuild Gaza despite the terrorists’ best efforts to control it.  The list goes on and on.  These are the kinds of things the Nobel Peace Prize was intended to recognize and reward!!! <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p>",
+      "published": "Fri, 09 Oct 2026 13:25:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-09T15:26:26.833842Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42212",
+      "first_seen": "2026-10-09T15:26:27.588359Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Today the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN’s Navi Pillay.  Pillay is a",
+      "next_retry_at": "2026-10-09T15:31:27.588402Z",
+      "truth_social_id": "117410832645522999"
+    },
+    "truth:117411241255928585": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42214",
+      "source_text": "<p>Ex-NY prosecutor claims AG Letitia James pushed Trump probe despite investigators finding nothing: ‘What Tish wanted, Tish got’: <a href=\"https://nypost.com/2026/10/08/us-news/ex-ny-prosecutor-claims-letitia-james-pushed-trump-probe-despite-investigators-finding-nothing/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/08/us-news/</span><span class=\"invisible\">ex-ny-prosecutor-claims-letitia-james-pushed-trump-probe-despite-investigators-finding-nothing/</span></a></p>",
+      "published": "Fri, 09 Oct 2026 13:42:43 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-09T15:26:28.397691Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42214",
+      "first_seen": "2026-10-09T15:26:28.397654Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Ex-NY prosecutor claims AG Letitia James pushed Trump probe despite investigators finding nothing: ‘What Tish wanted, Tish got’: \nhttps://nypost.com/2",
+      "next_retry_at": "2026-10-09T15:31:28.397700Z",
+      "truth_social_id": "117411241255928585"
     }
   }
 }
