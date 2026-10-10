@@ -3887,27 +3887,11 @@
     "truth:117415100317957299",
     "https://www.trumpstruth.org/statuses/42225",
     "truth:117415099623593260",
-    "https://www.trumpstruth.org/statuses/42226"
+    "https://www.trumpstruth.org/statuses/42226",
+    "truth:117415103139674344",
+    "https://www.trumpstruth.org/statuses/42224"
   ],
   "posts": {
-    "truth:117198120605224547": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41471",
-      "source_text": "<p>I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts after the severe storms, winds, and flooding they have recently experienced. The people of Missouri are tough, smart, and truly Great Patriots — I will never let you down! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 22:23:20 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-02T00:00:39.954142Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41471",
-      "first_seen": "2026-09-01T23:15:40.424929Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts afte",
-      "truth_social_id": "117198120605224547",
-      "source_fingerprint": "fp:I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts afte",
-      "media_identity": "attachment:117198120605224547:",
-      "translation": "マイク・キーホー知事に対して、ミズーリ州が最近経験した激しい嵐、強風、洪水からの復旧支援のため、素晴らしきミズーリ州に1,990万ドルの承認を与えることを今し方通知した。ミズーリ州の人々は強靭で、頭脳明晰で、真の愛国者だ。私は絶対に君たちを失望させない！大統領 ドナルド・J・トランプ"
-    },
     "truth:117198143393658444": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17257,6 +17241,21 @@
           "rkey": "3mxisxkc432us"
         }
       ]
+    },
+    "truth:117415103139674344": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42224",
+      "source_text": "<p></p>",
+      "published": "Sat, 10 Oct 2026 06:04:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-10T08:31:18.214957Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42224",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117415103139674344:b223facb653a9d92.jpg",
+      "failure_reason": null,
+      "truth_social_id": "117415103139674344",
+      "translation": ""
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -33940,16 +33939,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-10T07:41:23.145164Z"
-    },
-    "truth:117415103139674344": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42224",
-      "source_text": "<p></p>",
-      "published": "Sat, 10 Oct 2026 06:04:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-10T07:26:16.253446Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42224"
     },
     "truth:117415103765536680": {
       "post_status": "DISCOVERED",
