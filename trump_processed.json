@@ -3876,63 +3876,12 @@
     "truth:117415074068275147",
     "https://www.trumpstruth.org/statuses/42231",
     "truth:117415076555675844",
-    "https://www.trumpstruth.org/statuses/42230"
+    "https://www.trumpstruth.org/statuses/42230",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844",
+    "truth:117415078732569242",
+    "https://www.trumpstruth.org/statuses/42229"
   ],
   "posts": {
-    "truth:117197726086943631": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41466",
-      "source_text": "<p>Kathy Hochul, considered the Worst Governor in the Country, in a recent picture working hard to get the Arab Vote, even though they can’t stand her! Congestion Pricing in Manhattan is hurting her with everybody, but especially the people for whom she wears the hijab. The whole thing is CRAZY! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 20:43:00 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-01T23:20:43.324983Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41466",
-      "source_fingerprint": "fp:Kathy Hochul, considered the Worst Governor in the Country, in a recent picture working hard to get the Arab Vote, even though they can’t stand her! C",
-      "media_identity": "attachment:117197726086943631:2d02810cecafd84f.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Kathy Hochul, considered the Worst Governor in the Country, in a recent picture working hard to get the Arab Vote, even though they can’t stand her! C",
-      "truth_social_id": "117197726086943631",
-      "translation": "キャシー・ホッカル、国最悪の知事と言われているが、最近の写真ではアラブ票を必死に獲得しようとしている。彼らは彼女が大嫌いなのに！マンハッタンの混雑料金制は彼女を傷つけている。みんなに、特にヒジャブを被る彼女のために投票する人々に。全くもってCRAZYだ！大統領 ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muibviz7ocrh",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3muibviz7ocrh",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "キャシー・ホッカル、国最悪の知事と言われているが、最近の写真ではアラブ票を必死に獲得しようとしている。彼らは彼女が大嫌いなのに！マンハッタンの混雑料金制は彼女を傷つけている。みんなに、特にヒジャブを被る彼女のために投票する人々に。全くもってCRAZYだ！大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-09-01T23:10:45.869768Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibux7gphbduhfe6vjuulvrmmooh4cm6fhdl6h4cqxtvceqfojxami"
-                },
-                "mimeType": "image/jpeg",
-                "size": 115352
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 872,
-                "height": 1134
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muibviz7ocrh",
-          "rkey": "3muibviz7ocrh"
-        }
-      ]
-    },
     "truth:117198000150017380": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17182,6 +17131,22 @@
       "failure_reason": null,
       "truth_social_id": "117415076555675844",
       "translation": ""
+    },
+    "truth:117415078732569242": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42229",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844</span></p>",
+      "published": "Sat, 10 Oct 2026 05:58:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-10T07:51:23.836041Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42229",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844",
+      "media_identity": "attachment:117415078732569242:b9614df9768558a4.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844",
+      "truth_social_id": "117415078732569242",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -33865,16 +33830,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-10T07:41:23.145164Z"
-    },
-    "truth:117415078732569242": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42229",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844</span></p>",
-      "published": "Sat, 10 Oct 2026 05:58:39 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-10T07:26:16.253973Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42229"
     },
     "truth:117415083676141519": {
       "post_status": "DISCOVERED",
