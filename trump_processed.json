@@ -3908,27 +3908,12 @@
     "https://www.trumpstruth.org/statuses/42236",
     "fp:Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: \nhttps://www.dallasnews.com/news/",
     "truth:117417140250778882",
-    "https://www.trumpstruth.org/statuses/42237"
+    "https://www.trumpstruth.org/statuses/42237",
+    "fp:I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP",
+    "truth:117418068661995353",
+    "https://www.trumpstruth.org/statuses/42239"
   ],
   "posts": {
-    "truth:117202132375758936": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41486",
-      "source_text": "<p>Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ever before! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Wed, 02 Sep 2026 15:23:35 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-02T16:56:17.554826Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41486",
-      "first_seen": "2026-09-02T16:36:14.119946Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ev",
-      "truth_social_id": "117202132375758936",
-      "source_fingerprint": "fp:Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ev",
-      "media_identity": "attachment:117202132375758936:",
-      "translation": "米国の管理下に置かれた今、ホルムズ海峡の名称をトランプ海峡に変更すべきではないか？米国そのものと同様に、かつてないほど「ホット」になるだろう！この件へのご注目ありがとうございます。ドナルド・J・トランプ大統領"
-    },
     "truth:117203256670423247": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17331,6 +17316,24 @@
           "rkey": "3mxjpxjd6w2zm"
         }
       ]
+    },
+    "truth:117418068661995353": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42239",
+      "source_text": "<p>I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Sat, 10 Oct 2026 18:39:01 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-10T19:51:23.839201Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42239",
+      "first_seen": "2026-10-10T19:26:17.548867Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP",
+      "truth_social_id": "117418068661995353",
+      "source_fingerprint": "fp:I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP",
+      "media_identity": "attachment:117418068661995353:",
+      "translation": "テネシー州に間もなく到着する。いつもそうだが、信じられないほどの人出だ。大きな愛情をもらっている。すぐに会おう！大統領ドナルド・J・トランプ"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34087,22 +34090,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-10T19:51:30.019897Z"
-    },
-    "truth:117418068661995353": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42239",
-      "source_text": "<p>I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Sat, 10 Oct 2026 18:39:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-10T19:31:21.904598Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42239",
-      "first_seen": "2026-10-10T19:26:17.548867Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP",
-      "next_retry_at": "2026-10-10T19:41:21.904617Z",
-      "truth_social_id": "117418068661995353"
     },
     "truth:117418148236895862": {
       "post_status": "RETRY",
