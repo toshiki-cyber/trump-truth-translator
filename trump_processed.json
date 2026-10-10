@@ -33969,6 +33969,22 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-10T07:41:23.145164Z"
+    },
+    "truth:117417140250778882": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42237",
+      "source_text": "<p>Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: <a href=\"https://www.dallasnews.com/news/faith/article/robert-jeffress-death-penalty-22470214.php\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dallasnews.com/news/faith/arti</span><span class=\"invisible\">cle/robert-jeffress-death-penalty-22470214.php</span></a></p>",
+      "published": "Sat, 10 Oct 2026 14:42:55 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-10T15:26:20.084226Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42237",
+      "first_seen": "2026-10-10T15:26:20.084193Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: \nhttps://www.dallasnews.com/news/",
+      "next_retry_at": "2026-10-10T15:31:20.084233Z",
+      "truth_social_id": "117417140250778882"
     }
   }
 }
