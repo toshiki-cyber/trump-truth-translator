@@ -3893,45 +3893,12 @@
     "truth:117415103765536680",
     "https://www.trumpstruth.org/statuses/42223",
     "truth:117415109515983885",
-    "https://www.trumpstruth.org/statuses/42222"
+    "https://www.trumpstruth.org/statuses/42222",
+    "fp:https://truthsocial.com/@realDonaldTrump/117411241255928585\n  Prosecutorial Misconduct!",
+    "truth:117416527037598151",
+    "https://www.trumpstruth.org/statuses/42233"
   ],
   "posts": {
-    "truth:117198196070322926": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41474",
-      "source_text": "<p>I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5 Million Dollars to assist recovery efforts from the severe storms, winds, tornadoes, and flooding that hit them hard. Texas is a special place, and I will be back soon to support Governor Abbott, Lieutenant Governor Dan Patrick, Ken Paxton for U.S. Senate, and the entire ticket of Republican Candidates, who have my Complete and Total Endorsement. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Tue, 01 Sep 2026 22:42:32 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-02T00:25:37.670961Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41474",
-      "first_seen": "2026-09-01T23:15:42.017775Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5",
-      "truth_social_id": "117198196070322926",
-      "source_fingerprint": "fp:I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5",
-      "media_identity": "attachment:117198196070322926:",
-      "translation": "テキサス州の素晴らしい州知事グレッグ・アボット氏（再選に向けて私の完全かつ全面的な支持を得ている！）に、激しい嵐、暴風、竜巻、洪水からの復興支援のために5050万ドルを送ることを伝えたばかりだ。テキサスは特別な場所であり、州知事アボット、副州知事ダン・パトリック、下院議員ケン・パクストン、そして私の完全かつ全面的な支持を得ている共和党候補者全員を支援するため、間もなく戻ってくる。近いうちに会おう！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muiila6bjkbr",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3muiila6bjkbr",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "テキサス州の素晴らしい州知事グレッグ・アボット氏（再選に向けて私の完全かつ全面的な支持を得ている！）に、激しい嵐、暴風、竜巻、洪水からの復興支援のために5050万ドルを送ることを伝えたばかりだ。テキサスは特別な場所であり、州知事アボット、副州知事ダン・パトリック、下院議員ケン・パクストン、そして私の完全かつ全面的な支持を得ている共和党候補者全員を支援するため、間もなく戻ってくる。近いうちに会おう！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-09-02T00:15:41.159412Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muiila6bjkbr",
-          "rkey": "3muiila6bjkbr"
-        }
-      ]
-    },
     "truth:117198246813661789": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17292,6 +17259,24 @@
           "rkey": "3mxit42ambkrh"
         }
       ]
+    },
+    "truth:117416527037598151": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42233",
+      "source_text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117411241255928585\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117411241255928585</span></a>  Prosecutorial Misconduct!</p>",
+      "published": "Sat, 10 Oct 2026 12:06:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-10T13:51:24.796254Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42233",
+      "first_seen": "2026-10-10T13:26:22.285041Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117411241255928585\n  Prosecutorial Misconduct!",
+      "truth_social_id": "117416527037598151",
+      "source_fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117411241255928585\n  Prosecutorial Misconduct!",
+      "media_identity": "attachment:117416527037598151:",
+      "translation": "https://truthsocial.com/@realDonaldTrump/117411241255928585\n  検察の違法行為だ！"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34048,22 +34033,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-10T13:51:28.242407Z"
-    },
-    "truth:117416527037598151": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42233",
-      "source_text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117411241255928585\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117411241255928585</span></a>  Prosecutorial Misconduct!</p>",
-      "published": "Sat, 10 Oct 2026 12:06:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-10T13:36:16.699738Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42233",
-      "first_seen": "2026-10-10T13:26:22.285041Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117411241255928585\n  Prosecutorial Misconduct!",
-      "next_retry_at": "2026-10-10T13:46:16.699752Z",
-      "truth_social_id": "117416527037598151"
     },
     "truth:117416561047667860": {
       "post_status": "RETRY",
