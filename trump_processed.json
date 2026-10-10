@@ -34014,6 +34014,54 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-10T07:41:23.145164Z"
+    },
+    "truth:117418053695775945": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42238",
+      "source_text": "<p>Doug Schoen, a Third Rate Political Hack, who does nothing but cater to the Fake News Media, has been proven wrong so many times that he shouldn’t even be allowed on Television. The guy is a TRUMP DERANGED, STONE COLD LOSER! President DONALD J. TRUMP</p>",
+      "published": "Sat, 10 Oct 2026 18:35:13 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-10T19:26:17.026796Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42238",
+      "first_seen": "2026-10-10T19:26:17.026760Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Doug Schoen, a Third Rate Political Hack, who does nothing but cater to the Fake News Media, has been proven wrong so many times that he shouldn’t eve",
+      "next_retry_at": "2026-10-10T19:31:17.026804Z",
+      "truth_social_id": "117418053695775945"
+    },
+    "truth:117418068661995353": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42239",
+      "source_text": "<p>I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Sat, 10 Oct 2026 18:39:01 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-10T19:26:17.548898Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42239",
+      "first_seen": "2026-10-10T19:26:17.548867Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP",
+      "next_retry_at": "2026-10-10T19:31:17.548908Z",
+      "truth_social_id": "117418068661995353"
+    },
+    "truth:117418148236895862": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42240",
+      "source_text": "<p>The Dumocrats, along with their partners in crime, the Fake News Media, are trying to create the false narrative that, Donald Trump is so “unpopular,” the Republicans are going to lose. Actually, it's just the opposite. I'm so “popular,” that the Republicans are going to WIN, and that's being proven by the Record Setting Rallies we're doing (including the one in Tennessee where I'll be in a short while — See you soon!). President DONALD J. TRUMP</p>",
+      "published": "Sat, 10 Oct 2026 18:59:16 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-10T19:26:17.878783Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42240",
+      "first_seen": "2026-10-10T19:26:17.878746Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Dumocrats, along with their partners in crime, the Fake News Media, are trying to create the false narrative that, Donald Trump is so “unpopular,”",
+      "next_retry_at": "2026-10-10T19:31:17.878792Z",
+      "truth_social_id": "117418148236895862"
     }
   }
 }
