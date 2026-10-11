@@ -34083,14 +34083,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42253",
       "source_text": "<p>I just want to pay my respect and thanks to Karoline Leavitt for the fantastic job she has done as White House Press Secretary — Could not have been better! President DONALD J. TRUMP</p>",
       "published": "Sun, 11 Oct 2026 21:05:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-11T21:26:20.394076Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-11T21:36:15.939866Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42253",
       "first_seen": "2026-10-11T21:26:20.394043Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I just want to pay my respect and thanks to Karoline Leavitt for the fantastic job she has done as White House Press Secretary — Could not have been b",
-      "next_retry_at": "2026-10-11T21:31:20.394083Z",
+      "next_retry_at": "2026-10-11T21:46:15.939882Z",
       "truth_social_id": "117424308243914403"
     }
   }
