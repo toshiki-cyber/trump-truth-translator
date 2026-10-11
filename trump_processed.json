@@ -3917,27 +3917,11 @@
     "https://www.trumpstruth.org/statuses/42238",
     "fp:The Dumocrats, along with their partners in crime, the Fake News Media, are trying to create the false narrative that, Donald Trump is so “unpopular,”",
     "truth:117418148236895862",
-    "https://www.trumpstruth.org/statuses/42240"
+    "https://www.trumpstruth.org/statuses/42240",
+    "truth:117419344133655598",
+    "https://www.trumpstruth.org/statuses/42243"
   ],
   "posts": {
-    "truth:117206881233100864": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41493",
-      "source_text": "<p>Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!</p>",
-      "published": "Thu, 03 Sep 2026 11:31:17 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-03T16:10:40.176226Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41493",
-      "first_seen": "2026-09-03T15:45:45.344285Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
-      "truth_social_id": "117206881233100864",
-      "source_fingerprint": "fp:Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
-      "media_identity": "attachment:117206881233100864:",
-      "translation": "ルットニック長官は誰も殺されなかったと言ったとき、ベネズエラのことを念頭に置いていたのだ。イランでは18人が殺されたのだ！"
-    },
     "truth:117207685733693672": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17304,6 +17288,21 @@
       "source_fingerprint": "fp:The Dumocrats, along with their partners in crime, the Fake News Media, are trying to create the false narrative that, Donald Trump is so “unpopular,”",
       "media_identity": "attachment:117418148236895862:",
       "translation": "ダモクラット（民主党員）は、その犯罪パートナーである偽りのニュースメディアと一緒に、ドナルド・トランプはとても「不人気」なので共和党は敗北するという虚偽の物語を作ろうとしている。実際のところ、まったく逆だ。私はとても「人気がある」ので、共和党は勝利する、そしてそれは我々が行っている記録的規模の集会によって証明されている（テネシー州での集会も含まれており、そこに私はすぐに向かう — またすぐに会おう！）。ドナルド・J・トランプ大統領"
+    },
+    "truth:117419344133655598": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42243",
+      "source_text": "<p></p>",
+      "published": "Sun, 11 Oct 2026 00:03:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-11T01:26:28.731650Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42243",
+      "source_fingerprint": null,
+      "media_identity": "attachment:117419344133655598:27f14134757a9f34-f98a83842ff5.mov",
+      "failure_reason": null,
+      "truth_social_id": "117419344133655598",
+      "translation": ""
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -33987,6 +33986,32 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-10T07:41:23.145164Z"
+    },
+    "truth:117419271924268127": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42241",
+      "source_text": "<p>I am proud to announce that I have just appointed Katie Bailey as Director of the Office of Legislative Affairs. Katie is currently the Deputy Director of Legislative Affairs for the United States Senate, and has already delivered strong results, assisting in the confirmations of members of our Cabinet, including Secretary of Homeland Security, Markwayne Mullin, Director of National Intelligence, Jay Clayton, and Secretary of Labor, Keith Sonderling. After previously working on Capitol Hill, Katie understands how the Executive and Legislative Branches of Government can most effectively work together to achieve Great Success for the American People. Katie will take the place of James Braid, my longest tenured Legislative Affairs Director, who has done a fabulous job, and is now going into the private sector, where he will be very successful. I know Katie will be fantastic, and work tirelessly with Congress to pass Bills that help, MAKE AMERICA GREAT AGAIN, GREATER THAN EVER BEFORE. Good luck Katie! President DONALD J. TRUMP</p>",
+      "published": "Sat, 10 Oct 2026 23:45:02 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-11T01:26:15.486003Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42241",
+      "first_seen": "2026-10-11T01:26:15.485968Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I am proud to announce that I have just appointed Katie Bailey as Director of the Office of Legislative Affairs. Katie is currently the Deputy Directo",
+      "next_retry_at": "2026-10-11T01:31:15.486010Z",
+      "truth_social_id": "117419271924268127"
+    },
+    "truth:117419345256359809": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42242",
+      "source_text": "<p></p>",
+      "published": "Sun, 11 Oct 2026 00:03:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-11T01:26:14.829155Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42242"
     }
   }
 }
