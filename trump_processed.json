@@ -3926,27 +3926,12 @@
     "truth:117419271924268127",
     "https://www.trumpstruth.org/statuses/42241",
     "truth:117419806852030114",
-    "https://www.trumpstruth.org/statuses/42244"
+    "https://www.trumpstruth.org/statuses/42244",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/11741980685203011499% Approval Rating, highest ever. The Fake News never learns!",
+    "truth:117419813539563711",
+    "https://www.trumpstruth.org/statuses/42245"
   ],
   "posts": {
-    "truth:117210339497817224": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41504",
-      "source_text": "<p>I can’t believe Maria Bartiromo is no longer going to have her great show(s) on FoxNews/Business. Three different shows, always number one. Maria is a total professional, and a true warrior. Her fans, of which there are many, will not be happy. God bless you, Maria! President DONALD J. TRUMP</p>",
-      "published": "Fri, 04 Sep 2026 02:10:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-04T03:15:34.820390Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41504",
-      "first_seen": "2026-09-04T02:30:38.288860Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I can’t believe Maria Bartiromo is no longer going to have her great show(s) on FoxNews/Business. Three different shows, always number one. Maria is a",
-      "truth_social_id": "117210339497817224",
-      "source_fingerprint": "fp:I can’t believe Maria Bartiromo is no longer going to have her great show(s) on FoxNews/Business. Three different shows, always number one. Maria is a",
-      "media_identity": "attachment:117210339497817224:",
-      "translation": "マリア・バルティロモがフォックスニュース/ビジネスで彼女の素晴らしい番組を放送しなくなるというのが信じられない。3つの異なる番組、常にナンバーワンだった。マリアは本物のプロであり、真の戦士だ。彼女のファンは多いが、皆満足しないだろう。マリア、神の祝福を祈る！大統領 ドナルド・J・トランプ"
-    },
     "truth:117213056648777213": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17304,6 +17289,22 @@
       "failure_reason": null,
       "truth_social_id": "117419806852030114",
       "translation": ""
+    },
+    "truth:117419813539563711": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42245",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419806852030114</span>99% Approval Rating, highest ever. The Fake News never learns!</p>",
+      "published": "Sun, 11 Oct 2026 02:02:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-11T03:31:15.222552Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42245",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/11741980685203011499% Approval Rating, highest ever. The Fake News never learns!",
+      "media_identity": "attachment:117419813539563711:68170adeed486e0a.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/11741980685203011499% Approval Rating, highest ever. The Fake News never learns!",
+      "truth_social_id": "117419813539563711",
+      "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/11741980685203011499% 支持率、過去最高。フェイクニュースは学ばない！"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -33987,16 +33988,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-10T07:41:23.145164Z"
-    },
-    "truth:117419813539563711": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42245",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419806852030114</span>99% Approval Rating, highest ever. The Fake News never learns!</p>",
-      "published": "Sun, 11 Oct 2026 02:02:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-11T03:26:14.591452Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42245"
     }
   }
 }
