@@ -3929,27 +3929,12 @@
     "https://www.trumpstruth.org/statuses/42244",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/11741980685203011499% Approval Rating, highest ever. The Fake News never learns!",
     "truth:117419813539563711",
-    "https://www.trumpstruth.org/statuses/42245"
+    "https://www.trumpstruth.org/statuses/42245",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg",
+    "truth:117422903045682248",
+    "https://www.trumpstruth.org/statuses/42248"
   ],
   "posts": {
-    "truth:117213056648777213": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41509",
-      "source_text": "<p>Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,000 JOB IN AUGUST. Lower the interest rates because the U.S.A. is a much stronger credit than it was just a short time ago! A STRONG COUNTRY MEANS A LOWER INTEREST RATE - IT’S A BETTER CREDIT…Very simple! We should have the LOWEST RATE of any country in the World, like “the old days.” Without the United States agreeing to allow them their big surpluses, and we could stop that immediately, they would no longer be considered financially ELITE! LOWER THE RATE OR I’LL STOP TRADING WITH COUNTRIES WITH WHICH WE HAVE A DEFICIT, which the U.S. Supreme Court, in its ridiculous and very costly Tariff decision, strongly acknowledged “the President” has an absolute right to do. IT’S BETTER THAN TARIFFS! The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change. High interest rates put the U.S.A. at a very unfair disadvantage, and I won’t allow that to happen! President DONALD J. TRUMP</p>",
-      "published": "Fri, 04 Sep 2026 13:41:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-04T14:55:45.451541Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41509",
-      "first_seen": "2026-09-04T14:25:46.997117Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
-      "truth_social_id": "117213056648777213",
-      "source_fingerprint": "fp:Great jobs number just announced, breaking all estimates (except mine!) by double and triple - And you haven’t seen anything yet! EMPLOYERS ADDED 162,",
-      "media_identity": "attachment:117213056648777213:",
-      "translation": "素晴らしい雇用統計が発表されたばかりだ。すべての予想を倍、三倍も上回っている（私の予想を除いて！）。これからが本当だ！雇用主は8月に162,000人の雇用を追加した。米国は少し前よりもはるかに強い信用力を持つ国だから金利を引き下げろ！強い国は低い金利を意味する。それはより良い信用だ…非常にシンプルだ！我々は世界中のどの国よりも最低金利を持つべきだ。まるで「昔の日子」のようにな。米国が彼らの大幅な黒字を認めることなくなれば、そして我々はそれを直ちに止めることができるなら、彼らはもはや財務的にエリートとは見なされないだろう！金利を引き下げろ。さもなくば私は貿易赤字を抱える国との取引を止める。米国最高裁判所はその馬鹿げた、非常に高くつく関税判決で、「大統領」が絶対的な権利を持つことを強く認めている。それは関税より良い！新しい優れた指導者率いるFRB理事会は賢くなれ。この際、愛国者になれ。高い金利は米国を非常に不公正な不利な立場に置く。そして私はそれを許さない！ドナルド・J・トランプ大統領"
-    },
     "truth:117213082608751521": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17305,6 +17290,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/11741980685203011499% Approval Rating, highest ever. The Fake News never learns!",
       "truth_social_id": "117419813539563711",
       "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/11741980685203011499% 支持率、過去最高。フェイクニュースは学ばない！"
+    },
+    "truth:117422903045682248": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42248",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg\">View image</a></p>",
+      "published": "Sun, 11 Oct 2026 15:08:28 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-11T15:26:17.897569Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42248",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg",
+      "media_identity": "attachment:117422903045682248:9ba86832f3d375da.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg",
+      "truth_social_id": "117422903045682248",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -33988,6 +33989,84 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-10T07:41:23.145164Z"
+    },
+    "truth:117422699218841250": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42246",
+      "source_text": "<p>Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Sun, 11 Oct 2026 14:16:38 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-11T15:26:14.234293Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42246",
+      "first_seen": "2026-10-11T15:26:14.234260Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it! Thank you for yo",
+      "next_retry_at": "2026-10-11T15:31:14.234299Z",
+      "truth_social_id": "117422699218841250"
+    },
+    "truth:117422767694140491": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42247",
+      "source_text": "<p>HAPPY COLUMBUS DAY TO ALL, in particular our great Italian American Community which was forced to suffer as the Radical Left Dumocrats, Socialists, and Communists rampaged through our cities and towns ripping down almost all of the beautiful statues of Christopher Columbus. Well, those days of plunder are over, and the statues are back, more magnificent than ever. This is a big day for our great Italian American Community, and the Country of Italy itself, maybe the biggest. Congratulations! President DONALD J. TRUMP</p>",
+      "published": "Sun, 11 Oct 2026 14:34:03 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-11T15:26:14.856947Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42247",
+      "first_seen": "2026-10-11T15:26:14.856899Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:HAPPY COLUMBUS DAY TO ALL, in particular our great Italian American Community which was forced to suffer as the Radical Left Dumocrats, Socialists, an",
+      "next_retry_at": "2026-10-11T15:31:14.856954Z",
+      "truth_social_id": "117422767694140491"
+    },
+    "truth:117422897092397528": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42249",
+      "source_text": "<p>If Mamdani can play nice with Trump, why can’t Schumer and Jeffries?<br /><a href=\"https://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-learn-mamdani/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/09/24/what-schumer-jeffries-could-learn-mamdani/</span></a></p>",
+      "published": "Sun, 11 Oct 2026 15:06:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-11T15:26:15.397103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42249",
+      "first_seen": "2026-10-11T15:26:15.397071Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:If Mamdani can play nice with Trump, why can’t Schumer and Jeffries?\nhttps://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-le",
+      "next_retry_at": "2026-10-11T15:31:15.397109Z",
+      "truth_social_id": "117422897092397528"
+    },
+    "truth:117422907738688355": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42250",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419806852030114</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18447/237edfaf551e3c18-b18bd7cc6de5.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42244\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18444/5ede25f20c8ecb39-5f5e32828ddf.mp4\">View video</a></p></blockquote>",
+      "published": "Sun, 11 Oct 2026 15:09:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-11T15:26:13.574898Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42250"
+    },
+    "truth:117422953300698902": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42252",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/422/951/953/696/979/original/d90b166da4d32ade.mp4\">View video</a></p>",
+      "published": "Sun, 11 Oct 2026 15:21:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-11T15:26:13.574821Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42252"
+    },
+    "truth:117422954113878348": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42251",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/422/953/871/120/149/original/5dd6a95e3233d962.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42252\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/422/951/953/696/979/original/d90b166da4d32ade.mp4\">View video</a></p></blockquote>",
+      "published": "Sun, 11 Oct 2026 15:21:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-11T15:26:13.574735Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42251"
     }
   }
 }
