@@ -34086,14 +34086,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42254",
       "source_text": "<p>I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the Press Briefing Room in the White House. Katie has been with me, in spirit, from the very beginning, and will do a fantastic job! President DONALD J. TRUMP</p>",
       "published": "Sun, 11 Oct 2026 21:37:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-11T23:26:20.048261Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-11T23:31:21.210572Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42254",
       "first_seen": "2026-10-11T23:26:20.048222Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory N",
-      "next_retry_at": "2026-10-11T23:31:20.048270Z",
+      "next_retry_at": "2026-10-11T23:41:21.210588Z",
       "truth_social_id": "117424431971621400"
     },
     "truth:117424510700770095": {
@@ -34102,14 +34102,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42255",
       "source_text": "<p>My Rallies, legendary they have already become, have made a tremendous difference with the enthusiasm of the Republican Party. They have been waiting for them to happen, even though I never thought I’d have to be doing Rallies again. The good news is, I love them, the music, and the incredible enthusiasm, and will always be in favor of what’s good for America — and that means the Republican Party. Next stop, tomorrow, Youngstown, Ohio, for our Great Senator Jon Husted, and my friend, Vivek Ramaswamy for Governor, where the Crowds are already waiting in line — and then Alaska, for the Re-Election of one of the Greatest Senators in America, Dan S. Sullivan, and Congressman Nick Begich, who has a Big Future in Alaska. See you there! President DONALD J. TRUMP</p>",
       "published": "Sun, 11 Oct 2026 21:57:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-11T23:26:20.572204Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-11T23:31:21.598345Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42255",
       "first_seen": "2026-10-11T23:26:20.572163Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:My Rallies, legendary they have already become, have made a tremendous difference with the enthusiasm of the Republican Party. They have been waiting ",
-      "next_retry_at": "2026-10-11T23:31:20.572215Z",
+      "next_retry_at": "2026-10-11T23:41:21.598359Z",
       "truth_social_id": "117424510700770095"
     }
   }
