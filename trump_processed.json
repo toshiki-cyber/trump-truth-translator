@@ -4025,93 +4025,12 @@
     "https://www.trumpstruth.org/statuses/42281",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
     "truth:117427676752098246",
-    "https://www.trumpstruth.org/statuses/42280"
+    "https://www.trumpstruth.org/statuses/42280",
+    "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4",
+    "truth:117427679576446625",
+    "https://www.trumpstruth.org/statuses/42278"
   ],
   "posts": {
-    "truth:117230166833967697": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41603",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was recently repaired and beautified. The fountain’s nozzles and controllers were all replaced, and the plaza surrounding the fountain was also rehabilitated, including cleaning of the George Mason statue and masonry work, as well as repairing and painting of the pergola. The first photo below shows the fountain, which is located on the north end of East Potomac Park. In the second photo below, the Washington Monument is in the background, and in the third photo below, the statue of George Mason is in the background.”</p>",
-      "published": "Mon, 07 Sep 2026 14:13:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T14:41:42.063657Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41603",
-      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was r",
-      "media_identity": "attachment:117230166833967697:5c462c45f8880f76.jpg,60d21c7457f9c8b0.jpg,97c0bc282928df8b.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “After eight years since its last repairs, the George Mason Memorial fountain was r",
-      "truth_social_id": "117230166833967697",
-      "translation": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
-      "expected_embed": "images",
-      "expected_images": 3,
-      "root_rkey": "3muwovtzahc5u",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "内務省のグレッグ・ウィッシャーから：「8年ぶりにジョージ・メイソン・メモリアル噴水が最近、修復・美化されました。噴水のノズルとコントローラーはすべて交換され、噴水周辺の広場も修復されました。ジョージ・メイソン像と石造部分の清掃、ペルゴラの修復と塗装が行われています。以下の最初の写真は、イースト・ポトマック・パークの北端に位置する噴水です。2枚目の写真には背景にワシントン記念塔が、3枚目の写真には背景にジョージ・メイソン像が映っています。」",
-        "createdAt": "2026-09-07T14:41:35.164756Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibmwc5mfzr57wm33fnm2okhsgqavc5zfx4frvbtw6ctf4epxrrlpu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 171994
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1024,
-                "height": 684
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicwn3qw65vt4pi3djf5o5opvvvrqacdapesphfe2f7plnmmqhtvtm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 161215
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1024,
-                "height": 684
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiebhydbvnplcrd7efvx5a5izkecebe6jduf3anaoevkvk5puuxjx4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 193244
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1024,
-                "height": 684
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwovtzahc5u",
-          "rkey": "3muwovtzahc5u"
-        }
-      ]
-    },
     "truth:117230118021363013": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17546,6 +17465,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
       "truth_social_id": "117427676752098246",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/676/575/081/857/original/c1b2ab003b7618ce.pngQuoted\nhttps://www.trumpstruth.org/statuses/42281https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/675/803/327/560/original/79ff141477f37ab0.mp4"
+    },
+    "truth:117427679576446625": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42278",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4\">View video</a></p>",
+      "published": "Mon, 12 Oct 2026 11:23:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T13:16:38.464261Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42278",
+      "source_fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4",
+      "media_identity": "attachment:117427679576446625:7ed474041dfe5a76-4abe1cd75e5f.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4",
+      "truth_social_id": "117427679576446625",
+      "translation": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34569,16 +34504,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-12T13:16:27.285604Z"
-    },
-    "truth:117427679576446625": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42278",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4\">View video</a></p>",
-      "published": "Mon, 12 Oct 2026 11:23:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T11:26:12.000254Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42278"
     },
     "truth:117427680349862484": {
       "post_status": "DISCOVERED",
