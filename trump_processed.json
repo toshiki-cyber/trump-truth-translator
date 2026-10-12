@@ -4070,45 +4070,12 @@
     "https://www.trumpstruth.org/statuses/42296",
     "fp:Look what happened in Ohio since my last Rally, and I have another one today. It’s The Golden Age of America! President DONALD J. TRUMP\nhttps://static",
     "truth:117429568546648987",
-    "https://www.trumpstruth.org/statuses/42299"
+    "https://www.trumpstruth.org/statuses/42299",
+    "fp:Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio",
+    "truth:117429478167142246",
+    "https://www.trumpstruth.org/statuses/42297"
   ],
   "posts": {
-    "truth:117238047671794766": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41639",
-      "source_text": "<p>Wow! The Populist Party in Germany just had a really big night. They finally got tired of the absolutely horrible Immigration rules and regulations which have hurt Germany so badly. THEY ARE ON THE RISE, and not going to take it anymore! MGGA!!! President DJT</p>",
-      "published": "Tue, 08 Sep 2026 23:37:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-09T01:00:48.166089Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41639",
-      "first_seen": "2026-09-09T00:25:38.929535Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Wow! The Populist Party in Germany just had a really big night. They finally got tired of the absolutely horrible Immigration rules and regulations wh",
-      "truth_social_id": "117238047671794766",
-      "source_fingerprint": "fp:Wow! The Populist Party in Germany just had a really big night. They finally got tired of the absolutely horrible Immigration rules and regulations wh",
-      "media_identity": "attachment:117238047671794766:",
-      "translation": "わお！ドイツのポピュリスト政党は本当に大きな夜を過ごしたばかりだ。彼らはついに、ドイツに多大な損害を与えた絶対にひどい移民ルールと規制に疲れ果てた。彼らは上昇中であり、もう我慢しないつもりだ！MGGA!!! 大統領DJT",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv26vncd7sx7",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mv26vncd7sx7",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "わお！ドイツのポピュリスト政党は本当に大きな夜を過ごしたばかりだ。彼らはついに、ドイツに多大な損害を与えた絶対にひどい移民ルールと規制に疲れ果てた。彼らは上昇中であり、もう我慢しないつもりだ！MGGA!!! 大統領DJT",
-        "createdAt": "2026-09-09T00:50:41.500059Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv26vncd7sx7",
-          "rkey": "3mv26vncd7sx7"
-        }
-      ]
-    },
     "truth:117238301091179131": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17577,6 +17544,24 @@
           "rkey": "3mxpalatgxclp"
         }
       ]
+    },
+    "truth:117429478167142246": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42297",
+      "source_text": "<p>Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio! President DONALD J. TRUMP</p>",
+      "published": "Mon, 12 Oct 2026 19:00:37 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-12T19:51:19.663279Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42297",
+      "first_seen": "2026-10-12T19:26:22.023143Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio",
+      "truth_social_id": "117429478167142246",
+      "source_fingerprint": "fp:Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio",
+      "media_identity": "attachment:117429478167142246:",
+      "translation": "オハイオ州での集会は大盛況だった。左翼の急進的社会主義者、共産主義者、狂信者どもが我が国を乗っ取ろうとしていることに対する反応は素晴らしかった。またな、オハイオ！ ドナルド・J・トランプ大統領より"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34470,22 +34455,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18482/cbf61e9140717520-14535a485b9c.mov",
       "truth_social_id": "117428397676414199",
       "next_retry_at": "2026-10-12T16:11:21.983865Z"
-    },
-    "truth:117429478167142246": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42297",
-      "source_text": "<p>Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio! President DONALD J. TRUMP</p>",
-      "published": "Mon, 12 Oct 2026 19:00:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-12T19:36:22.361244Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42297",
-      "first_seen": "2026-10-12T19:26:22.023143Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio",
-      "next_retry_at": "2026-10-12T19:46:22.361259Z",
-      "truth_social_id": "117429478167142246"
     },
     "truth:117429543347855465": {
       "post_status": "RETRY",
