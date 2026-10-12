@@ -3983,25 +3983,12 @@
     "https://www.trumpstruth.org/statuses/42273",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427645405102306https://truth-archive.us-iad-1.linodeobjects.com/attachments/18464/2a8c3f",
     "truth:117427646339985366",
-    "https://www.trumpstruth.org/statuses/42272"
+    "https://www.trumpstruth.org/statuses/42272",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4",
+    "truth:117427648373823913",
+    "https://www.trumpstruth.org/statuses/42270"
   ],
   "posts": {
-    "truth:117225573075568466": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41543",
-      "source_text": "<p>Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while crying uncontrollably. She couldn’t believe I would do such a nice thing! Since then, she says nothing but bad about your favorite President, ME! Every time I see that Third Rate Loser ripping me, I’m amazed, because I’m a loyal person, I don’t do things like that but, that’s OK — It’s Politics. However, it shouldn’t be that way! President DONALD J. TRUMP</p>",
-      "published": "Sun, 06 Sep 2026 18:44:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-06T21:06:26.356229Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41543",
-      "source_fingerprint": "fp:Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while cry",
-      "media_identity": "attachment:117225573075568466:cff849aa232a3ddb.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Upon his death, I gave Congressman John Dingell, the Royal Sendoff, MAXED OUT! His wife, Debbie Dingbat, called me and thanked me profusely, while cry",
-      "truth_social_id": "117225573075568466",
-      "translation": "ジョン・ディンジェル下院議員の逝去時、私は彼に最高級のお別れの式典を与えた。MAXed OUT（最高レベル）だ！彼の妻デビー・ディンジェットは私に電話して、コントロールできないほど泣きながら何度も何度も感謝した。私がこんなに素晴らしいことをするなんて信じられないと言っていた！それ以来、彼女は君たちが大好きな大統領、つまり私についてばかり悪口を言うようになった。あのThird Rate Loser（三流の敗者）が私を叩くのを見るたびに、私は驚く。なぜなら私は忠実な人間だからだ。私はそんなことはしない。しかし、それでいい――それが政治というものだ。だが、そうあるべきではないのだ！大統領 ドナルド・J・トランプ"
-    },
     "truth:117225659119998401": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17461,6 +17448,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427645405102306https://truth-archive.us-iad-1.linodeobjects.com/attachments/18464/2a8c3f",
       "truth_social_id": "117427646339985366",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117427645405102306https://truth-archive.us-iad-1.linodeobjects.com/attachments/18464/2a8c3f148307721c-9b8c8c034070.pngQuoted\nhttps://www.trumpstruth.org/statuses/42273https://truth-archive.us-iad-1.linodeobjects.com/attachments/18465/cee89dd4715771dc-e4c2625dff7c.mp4"
+    },
+    "truth:117427648373823913": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42270",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4\">View video</a></p>",
+      "published": "Mon, 12 Oct 2026 11:15:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T11:52:13.073415Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42270",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4",
+      "media_identity": "attachment:117427648373823913:d02327ea2feea879-d1a22289d694.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4",
+      "truth_social_id": "117427648373823913",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34332,16 +34335,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-12T11:51:42.517512Z"
-    },
-    "truth:117427648373823913": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42270",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4\">View video</a></p>",
-      "published": "Mon, 12 Oct 2026 11:15:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T11:26:12.001447Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42270"
     },
     "truth:117427649486575663": {
       "post_status": "DISCOVERED",
