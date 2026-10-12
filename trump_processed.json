@@ -4064,25 +4064,12 @@
     "https://www.trumpstruth.org/statuses/42294",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg",
     "truth:117428474535365465",
-    "https://www.trumpstruth.org/statuses/42293"
+    "https://www.trumpstruth.org/statuses/42293",
+    "fp:Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it",
+    "truth:117428604395341775",
+    "https://www.trumpstruth.org/statuses/42296"
   ],
   "posts": {
-    "truth:117237982286038819": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41637",
-      "source_text": "<p>Happy Birthday Mary, Queen of Victories!</p>",
-      "published": "Tue, 08 Sep 2026 23:20:41 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-09T00:20:51.418458Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41637",
-      "source_fingerprint": "fp:Happy Birthday Mary, Queen of Victories!",
-      "media_identity": "attachment:117237982286038819:e07cfe77ae3f9879.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Happy Birthday Mary, Queen of Victories!",
-      "truth_social_id": "117237982286038819",
-      "translation": "メリー、勝利の女王様、お誕生日おめでとうございます！"
-    },
     "truth:117238012867967338": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17519,6 +17506,22 @@
           "rkey": "3mxoqzququk5o"
         }
       ]
+    },
+    "truth:117428604395341775": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42296",
+      "source_text": "<p>Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it in a story! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18486/3ce55fb79f7c45a7-f350f65f97bb.jpg\">View image</a></p>",
+      "published": "Mon, 12 Oct 2026 15:18:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T16:36:20.290514Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42296",
+      "source_fingerprint": "fp:Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it",
+      "media_identity": "attachment:117428604395341775:3ce55fb79f7c45a7.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it",
+      "truth_social_id": "117428604395341775",
+      "translation": "ニューヨークタイムズが俺の素晴らしいドーラルにやったことを見ろ！奴らは写真を改ざんした。記事でそれについて言及する際に、建物全体に人工的にカビを付け加えたんだ！大統領ドナルド・J・トランプ\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18486/3ce55fb79f7c45a7-f350f65f97bb.jpg"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34412,16 +34415,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18482/cbf61e9140717520-14535a485b9c.mov",
       "truth_social_id": "117428397676414199",
       "next_retry_at": "2026-10-12T16:11:21.983865Z"
-    },
-    "truth:117428604395341775": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42296",
-      "source_text": "<p>Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it in a story! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18486/3ce55fb79f7c45a7-f350f65f97bb.jpg\">View image</a></p>",
-      "published": "Mon, 12 Oct 2026 15:18:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T15:26:20.322296Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42296"
     }
   }
 }
