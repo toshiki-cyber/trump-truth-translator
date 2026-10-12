@@ -3962,25 +3962,12 @@
     "https://www.trumpstruth.org/statuses/42256",
     "fp:Exclusive: Jack Smith’s Office Bent Its Own Rules to Rush Software Purchase Days Before Indicting Trump: \nhttps://www.breitbart.com/politics/2026/09/2",
     "truth:117425202496358926",
-    "https://www.trumpstruth.org/statuses/42257"
+    "https://www.trumpstruth.org/statuses/42257",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18451/50d9d3",
+    "truth:117425646154828945",
+    "https://www.trumpstruth.org/statuses/42259"
   ],
   "posts": {
-    "truth:117216174863509674": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41526",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764</span></p>",
-      "published": "Sat, 05 Sep 2026 02:54:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-05T04:25:33.712482Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41526",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764",
-      "media_identity": "attachment:117216174863509674:7dd77a7db6958da0.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764",
-      "truth_social_id": "117216174863509674",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764"
-    },
     "truth:117216176558934084": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17462,6 +17449,22 @@
           "rkey": "3mxncjsgu7cfs"
         }
       ]
+    },
+    "truth:117425646154828945": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42259",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18451/50d9d3f666e0b67e-05885f44a0fd.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42260\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18452/70425f015ed21b1c-5f5e32828ddf.mp4\">View video</a></p></blockquote>",
+      "published": "Mon, 12 Oct 2026 02:46:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T03:31:21.750105Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42259",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18451/50d9d3",
+      "media_identity": "attachment:117425646154828945:50d9d3f666e0b67e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18451/50d9d3",
+      "truth_social_id": "117425646154828945",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18451/50d9d3f666e0b67e-05885f44a0fd.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42260https://truth-archive.us-iad-1.linodeobjects.com/attachments/18452/70425f015ed21b1c-5f5e32828ddf.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34178,16 +34181,6 @@
       "truth_social_id": "117425645180673184",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-12T03:31:28.499676Z"
-    },
-    "truth:117425646154828945": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42259",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18451/50d9d3f666e0b67e-05885f44a0fd.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42260\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18452/70425f015ed21b1c-5f5e32828ddf.mp4\">View video</a></p></blockquote>",
-      "published": "Mon, 12 Oct 2026 02:46:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T03:26:22.646520Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42259"
     },
     "truth:117425650086544713": {
       "post_status": "DISCOVERED",
