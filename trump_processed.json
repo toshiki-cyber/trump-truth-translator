@@ -4022,25 +4022,12 @@
     "https://www.trumpstruth.org/statuses/42282",
     "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/675/803/327/560/original/79ff141477f37ab0.mp4",
     "truth:117427675917483713",
-    "https://www.trumpstruth.org/statuses/42281"
+    "https://www.trumpstruth.org/statuses/42281",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
+    "truth:117427676752098246",
+    "https://www.trumpstruth.org/statuses/42280"
   ],
   "posts": {
-    "truth:117230133235298185": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41600",
-      "source_text": "<p>From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Park in Washington, D.C. The statue depicts the Italian poet Dante Aligheri holding his most well-known work, ‘The Divine Comedy,’ which was finished in 1321. The statue was cleaned and waxed.”</p>",
-      "published": "Mon, 07 Sep 2026 14:04:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T14:36:23.483085Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41600",
-      "source_fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Par",
-      "media_identity": "attachment:117230133235298185:b8726f2b871ea914.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:From Greg Wischer at the United States Department of the Interior: “The National Park Service has beautified the Dante Memorial Statue in Meridian Par",
-      "truth_social_id": "117230133235298185",
-      "translation": "内務省のグレッグ・ウィッシャーからのコメント：「国立公園局がワシントンD.C.のメリディアン・パークのダンテ記念像を美化した。この像はイタリアの詩人ダンテ・アリギエーリが1321年に完成させた彼の最も有名な作品『神曲』を持っている姿を描いている。像は清掃され、ワックスがけされた。」"
-    },
     "truth:117230166833967697": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17543,6 +17530,22 @@
       "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/675/803/327/560/original/79ff141477f37ab0.mp4",
       "truth_social_id": "117427675917483713",
       "translation": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/675/803/327/560/original/79ff141477f37ab0.mp4"
+    },
+    "truth:117427676752098246": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42280",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/676/575/081/857/original/c1b2ab003b7618ce.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42281\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/675/803/327/560/original/79ff141477f37ab0.mp4\">View video</a></p></blockquote>",
+      "published": "Mon, 12 Oct 2026 11:22:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T13:06:27.028465Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42280",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
+      "media_identity": "attachment:117427676752098246:c1b2ab003b7618ce.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
+      "truth_social_id": "117427676752098246",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/676/575/081/857/original/c1b2ab003b7618ce.pngQuoted\nhttps://www.trumpstruth.org/statuses/42281https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/675/803/327/560/original/79ff141477f37ab0.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34387,16 +34390,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-12T12:56:24.655430Z"
-    },
-    "truth:117427676752098246": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42280",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/676/575/081/857/original/c1b2ab003b7618ce.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42281\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/675/803/327/560/original/79ff141477f37ab0.mp4\">View video</a></p></blockquote>",
-      "published": "Mon, 12 Oct 2026 11:22:29 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T11:26:12.000416Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42280"
     },
     "truth:117427677603580538": {
       "post_status": "DISCOVERED",
