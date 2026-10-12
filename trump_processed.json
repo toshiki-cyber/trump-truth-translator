@@ -4001,28 +4001,12 @@
     "https://www.trumpstruth.org/statuses/42268",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18458/a664b243c167d21e-b752b993f725.jpg",
     "truth:117427652640882667",
-    "https://www.trumpstruth.org/statuses/42266"
+    "https://www.trumpstruth.org/statuses/42266",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18457/760714",
+    "truth:117427654675329853",
+    "https://www.trumpstruth.org/statuses/42265"
   ],
   "posts": {
-    "truth:117227309601803941": {
-      "post_status": "POSTED",
-      "media_state": "INVALID",
-      "status_url": "https://trumpstruth.org/statuses/41592",
-      "source_text": "<p>Part 2: Donald Trump is the Counter Revolution:</p>",
-      "published": "Mon, 07 Sep 2026 02:06:29 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T03:05:54.570119Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41592",
-      "source_fingerprint": "fp:Part 2: Donald Trump is the Counter Revolution:",
-      "media_identity": "attachment:117227309601803941:ce7b3757c3a6311f.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:Part 2: Donald Trump is the Counter Revolution:",
-      "truth_social_id": "117227309601803941",
-      "allow_text_fallback": true,
-      "fallback_policy_version": 1,
-      "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/227/259/100/592/930/original/ce7b3757c3a6311f.mp4",
-      "translation": "Part 2: ドナルド・トランプは反革命である："
-    },
     "truth:117227044833224999": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17533,6 +17517,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18458/a664b243c167d21e-b752b993f725.jpg",
       "truth_social_id": "117427652640882667",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18458/a664b243c167d21e-b752b993f725.jpg"
+    },
+    "truth:117427654675329853": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42265",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18457/7607145b872c510a-77158944b27c.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42260\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18452/70425f015ed21b1c-5f5e32828ddf.mp4\">View video</a></p></blockquote>",
+      "published": "Mon, 12 Oct 2026 11:16:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T12:26:22.482726Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42265",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18457/760714",
+      "media_identity": "attachment:117427654675329853:7607145b872c510a.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18457/760714",
+      "truth_social_id": "117427654675329853",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18457/7607145b872c510a-77158944b27c.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42260https://truth-archive.us-iad-1.linodeobjects.com/attachments/18452/70425f015ed21b1c-5f5e32828ddf.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34313,16 +34313,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-12T12:01:32.206678Z"
-    },
-    "truth:117427654675329853": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42265",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18457/7607145b872c510a-77158944b27c.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42260\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18452/70425f015ed21b1c-5f5e32828ddf.mp4\">View video</a></p></blockquote>",
-      "published": "Mon, 12 Oct 2026 11:16:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T11:26:12.001034Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42265"
     },
     "truth:117427655526336876": {
       "post_status": "DISCOVERED",
