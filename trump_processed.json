@@ -34367,14 +34367,20 @@
       "next_retry_at": "2026-10-12T14:07:17.460147Z"
     },
     "truth:117427876216740071": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42286",
       "source_text": "<p>Former Governor Roy Cooper, of North Carolina, let out 83 murderers, 51 were serving life sentences, and 25 immediately committed murders after being let out of penitentiaries across the State. They were released by him because he didn’t want them to catch COVID while in prison. There has never been a Governor with such a bad record on Crime, and there never will be! Governor Michael Dukakis lost his insurmountable lead in the 1988 Presidential Race because he released Willie Horton, who went on to immediately rape and kill three women. What Former Governor Roy Cooper did is, believe it or not, far more consequential. VOTE FOR MICHAEL WHATLEY TO BE THE NEXT U.S. SENATOR FROM THE GREAT STATE OF NORTH CAROLINA! President DONALD J. TRUMP</p>",
       "published": "Mon, 12 Oct 2026 12:13:13 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T13:26:20.685731Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42286"
+      "retry_count": 1,
+      "updated_at": "2026-10-12T13:56:18.534651Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42286",
+      "first_seen": "2026-10-12T13:56:18.534608Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Former Governor Roy Cooper, of North Carolina, let out 83 murderers, 51 were serving life sentences, and 25 immediately committed murders after being ",
+      "next_retry_at": "2026-10-12T14:01:18.534662Z",
+      "truth_social_id": "117427876216740071"
     }
   }
 }
