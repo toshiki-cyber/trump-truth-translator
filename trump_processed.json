@@ -4037,45 +4037,12 @@
     "https://www.trumpstruth.org/statuses/42277",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427680732518150https://truth-archive.us-iad-1.linodeobjects.com/attachments/18467/1bfa7d",
     "truth:117427681942936822",
-    "https://www.trumpstruth.org/statuses/42275"
+    "https://www.trumpstruth.org/statuses/42275",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18466/1aa14e9bb516119e-2e5767d1617f.jpg",
+    "truth:117427686051222174",
+    "https://www.trumpstruth.org/statuses/42274"
   ],
   "posts": {
-    "truth:117230298017100144": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://trumpstruth.org/statuses/41616",
-      "source_text": "<p>Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Deranged People, after fighting for 10 years, should finally acknowledge that your Favorite President (ME!), knows how to WIN! They should be exhausted by now but, sadly, they’re not. They’re going to give it one last shot at ruining America, but we’re not going to let that happen. We’re going to win the Midterms, BIG, and SAVE AMERICA! President DONALD J. TRUMP</p>",
-      "published": "Mon, 07 Sep 2026 14:46:29 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-07T18:41:20.888689Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41616",
-      "first_seen": "2026-09-07T18:01:31.574614Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Der",
-      "truth_social_id": "117230298017100144",
-      "source_fingerprint": "fp:Happy Labor Day to all, including the Radical Left Lunatics, Communists, and Dumocrats who will do anything possible to destroy our Country. These Der",
-      "media_identity": "attachment:117230298017100144:",
-      "translation": "労働節おめでとう。過激左翼の狂信者、共産主義者、民主党員ども、つまり我が国を破壊するためなら何でもやる連中にも言っておく。この頭のおかしい連中は10年間戦った挙句、お前らの好きな大統領（俺だ！）が勝ち方を知っていることをようやく認めるべきだ。今頃は疲れ果ててもいいはずだが、残念ながら連中は違う。アメリカを台無しにするために最後の一撃を加えようとしているが、そんなことは許さない。我々は中間選挙で大勝利を収め、アメリカを救う！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwqriy4q243",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3muwqriy4q243",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "労働節おめでとう。過激左翼の狂信者、共産主義者、民主党員ども、つまり我が国を破壊するためなら何でもやる連中にも言っておく。この頭のおかしい連中は10年間戦った挙句、お前らの好きな大統領（俺だ！）が勝ち方を知っていることをようやく認めるべきだ。今頃は疲れ果ててもいいはずだが、残念ながら連中は違う。アメリカを台無しにするために最後の一撃を加えようとしているが、そんなことは許さない。我々は中間選挙で大勝利を収め、アメリカを救う！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-09-07T18:31:30.585129Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3muwqriy4q243",
-          "rkey": "3muwqriy4q243"
-        }
-      ]
-    },
     "truth:117230978314061095": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17522,6 +17489,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427680732518150https://truth-archive.us-iad-1.linodeobjects.com/attachments/18467/1bfa7d",
       "truth_social_id": "117427681942936822",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117427680732518150https://truth-archive.us-iad-1.linodeobjects.com/attachments/18467/1bfa7dddc7be4b67-761fc6728a2d.pngQuoted\nhttps://www.trumpstruth.org/statuses/42276https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/673/103/098/981/original/63da54492ea29f08.mp4"
+    },
+    "truth:117427686051222174": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42274",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18466/1aa14e9bb516119e-2e5767d1617f.jpg\">View image</a></p>",
+      "published": "Mon, 12 Oct 2026 11:24:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T13:51:21.681047Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42274",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18466/1aa14e9bb516119e-2e5767d1617f.jpg",
+      "media_identity": "attachment:117427686051222174:1aa14e9bb516119e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18466/1aa14e9bb516119e-2e5767d1617f.jpg",
+      "truth_social_id": "117427686051222174",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18466/1aa14e9bb516119e-2e5767d1617f.jpg"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34382,16 +34365,6 @@
       "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/673/103/098/981/original/63da54492ea29f08.mp4",
       "truth_social_id": "117427680732518150",
       "next_retry_at": "2026-10-12T14:07:17.460147Z"
-    },
-    "truth:117427686051222174": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42274",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/685/893/017/775/original/1aa14e9bb516119e.jpg\">View image</a></p>",
-      "published": "Mon, 12 Oct 2026 11:24:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T11:26:11.999912Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42274"
     },
     "truth:117427876216740071": {
       "post_status": "DISCOVERED",
