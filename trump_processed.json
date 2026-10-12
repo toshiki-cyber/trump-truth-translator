@@ -4043,25 +4043,12 @@
     "https://www.trumpstruth.org/statuses/42274",
     "fp:Former Governor Roy Cooper, of North Carolina, let out 83 murderers, 51 were serving life sentences, and 25 immediately committed murders after being ",
     "truth:117427876216740071",
-    "https://www.trumpstruth.org/statuses/42286"
+    "https://www.trumpstruth.org/statuses/42286",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18480/042df4b731583d4a-63ab759ecf98.mp4",
+    "truth:117428368910182859",
+    "https://www.trumpstruth.org/statuses/42290"
   ],
   "posts": {
-    "truth:117231833977439431": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://trumpstruth.org/statuses/41621",
-      "source_text": "<p>Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most important Entrances to a Building in D.C. I did this in Honor of the Italian American Community — Industrious, brilliant, wonderful people. It is something that they have greatly appreciated! President DONALD J. TRUMP</p>",
-      "published": "Mon, 07 Sep 2026 21:17:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-07T22:21:19.017363Z",
-      "feed_post_id": "https://trumpstruth.org/statuses/41621",
-      "source_fingerprint": "fp:Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most",
-      "media_identity": "attachment:117231833977439431:73f016f4b9e65ab9.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most",
-      "truth_social_id": "117231833977439431",
-      "translation": "クリストファー・コロンブスの像がアイゼンハワー・エグゼクティブ・オフィス・ビルの入口に堂々と立っている。ホワイトハウスの真隣にあり、ワシントンD.C.で最も重要な建物の入口の一つだ。私はイタリア系アメリカ人コミュニティーへの敬意を表してこれを行った。勤勉で、聡明で、素晴らしい人々だ。彼らは大いに感謝してくれている。大統領ドナルド・J・トランプ"
-    },
     "truth:117231955365539795": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17508,6 +17495,22 @@
       "source_fingerprint": "fp:Former Governor Roy Cooper, of North Carolina, let out 83 murderers, 51 were serving life sentences, and 25 immediately committed murders after being ",
       "media_identity": "attachment:117427876216740071:",
       "translation": "ノースカロライナ州の元知事ロイ・クーパーは殺人犯83人を釈放した。そのうち51人は終身刑で服役していた者であり、刑務所から釈放された後、25人が直ちに殺人を犯した。彼が彼らを釈放したのは、獄中でCOVIDに感染することを望まなかったからである。犯罪記録においてこれほど悪い知事は過去に存在しなかったし、今後も存在することはないだろう。知事マイケル・デュカキスは1988年の大統領選挙で圧倒的有利な状況から敗北したが、これはウィリー・ホートンを釈放したからである。彼は直ちに3人の女性を強姦し殺害した。元知事ロイ・クーパーがしたことは、信じがたいことに、はるかに深刻な結果をもたらしたのである。ノースカロライナという偉大な州の次期米国上院議員としてマイケル・ホートリーに投票せよ。ドナルド・J・トランプ大統領"
+    },
+    "truth:117428368910182859": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42290",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18480/042df4b731583d4a-63ab759ecf98.mp4\">View video</a></p>",
+      "published": "Mon, 12 Oct 2026 14:18:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:33.592466Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42290",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18480/042df4b731583d4a-63ab759ecf98.mp4",
+      "media_identity": "attachment:117428368910182859:042df4b731583d4a-63ab759ecf98.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18480/042df4b731583d4a-63ab759ecf98.mp4",
+      "truth_social_id": "117428368910182859",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18480/042df4b731583d4a-63ab759ecf98.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34368,6 +34371,102 @@
       "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 370.6MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/673/103/098/981/original/63da54492ea29f08.mp4",
       "retry_count": 1,
       "next_retry_at": "2026-10-12T15:01:24.657367Z"
+    },
+    "truth:117428329406671403": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42287",
+      "source_text": "<p>The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn’t want to get near that story. I made the right choice for the American People — ALWAYS, AMERICA FIRST! President DONALD J. TRUMP</p>",
+      "published": "Mon, 12 Oct 2026 14:08:28 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-12T15:26:20.975486Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42287",
+      "first_seen": "2026-10-12T15:26:20.975445Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn’t want to get near that story. I made the right choice fo",
+      "next_retry_at": "2026-10-12T15:31:20.975495Z",
+      "truth_social_id": "117428329406671403"
+    },
+    "truth:117428369622170561": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42289",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18479/171cac0637b5f0c2-d7604889f940.mp4\">View video</a></p>",
+      "published": "Mon, 12 Oct 2026 14:18:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.323375Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42289"
+    },
+    "truth:117428370387823846": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42288",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18478/browser-safe.mp4\">View video</a></p>",
+      "published": "Mon, 12 Oct 2026 14:18:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.323222Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42288"
+    },
+    "truth:117428389638648768": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42291",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18481/1c4a9afd2619da0f-d39d5ae34c5f.mp4\">View video</a></p>",
+      "published": "Mon, 12 Oct 2026 14:23:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.323071Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42291"
+    },
+    "truth:117428397676414199": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42292",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18482/cbf61e9140717520-14535a485b9c.mov\">View video</a></p>",
+      "published": "Mon, 12 Oct 2026 14:25:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.322923Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42292"
+    },
+    "truth:117428473356154223": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42295",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18485/fa40ac32d7a94fa1-244d908f7637.jpg\">View image</a></p>",
+      "published": "Mon, 12 Oct 2026 14:45:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.322764Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42295"
+    },
+    "truth:117428474040306695": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42294",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18484/b9808f79bc312bb2-b9af873508c6.jpg\">View image</a></p>",
+      "published": "Mon, 12 Oct 2026 14:45:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.322616Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42294"
+    },
+    "truth:117428474535365465": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42293",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg\">View image</a></p>",
+      "published": "Mon, 12 Oct 2026 14:45:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.322466Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42293"
+    },
+    "truth:117428604395341775": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42296",
+      "source_text": "<p>Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it in a story! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18486/3ce55fb79f7c45a7-f350f65f97bb.jpg\">View image</a></p>",
+      "published": "Mon, 12 Oct 2026 15:18:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-12T15:26:20.322296Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42296"
     }
   }
 }
