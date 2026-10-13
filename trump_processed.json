@@ -4097,27 +4097,12 @@
     "https://www.trumpstruth.org/statuses/42306",
     "fp:Jon Husted, who was a Great Football Player in College, had Record Setting numbers of interceptions. In fact, he was known as “Interception Jon.” I fo",
     "truth:117435176179992905",
-    "https://www.trumpstruth.org/statuses/42307"
+    "https://www.trumpstruth.org/statuses/42307",
+    "fp:Don’t ever mess with nature! President DJT\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18494/98bf6e8266e6ae0a-895fbbee9253.mp4",
+    "truth:117435353994630003",
+    "https://www.trumpstruth.org/statuses/42310"
   ],
   "posts": {
-    "truth:117246638551007424": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41666",
-      "source_text": "<p><a href=\"https://truthsocial.com/@mazurikl/117184504303118220\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@mazurikl/1171</span><span class=\"invisible\">84504303118220</span></a></p>",
-      "published": "Thu, 10 Sep 2026 12:02:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-10T13:20:46.259375Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41666",
-      "first_seen": "2026-09-10T12:20:48.772427Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:https://truthsocial.com/@mazurikl/117184504303118220",
-      "truth_social_id": "117246638551007424",
-      "source_fingerprint": "fp:https://truthsocial.com/@mazurikl/117184504303118220",
-      "media_identity": "attachment:117246638551007424:",
-      "translation": "https://truthsocial.com/@mazurikl/117184504303118220"
-    },
     "truth:117246637585560757": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17527,6 +17512,22 @@
       "fingerprint": "fp:Jon Husted, who was a Great Football Player in College, had Record Setting numbers of interceptions. In fact, he was known as “Interception Jon.” I fo",
       "truth_social_id": "117435176179992905",
       "translation": "ジョン・ハステッドは大学時代に素晴らしいフットボール選手であり、インターセプション（パスカット）の記録を樹立していた。実際、彼は「インターセプション・ジョン」として知られていた。ジョン・グルーデンが我々の最初のオハイオ集会で演説した時に分かった。コーチに「ジョン、お前ここに何しに来てるんだ？」と聞いたら、彼は「オハイオ州上院議員候補の同僚を応援に来たんです」と言い、私は「同僚？ジョン・ハステッドはフットボールをやってたのか？」と聞いた。すると、ジョン・グルーデンが「ああ、我々は素晴らしいチームだった。彼が飛び抜けて最高の選手だ。セーフティをプレーして、インターセプションを17本。記録だ！」と言った。私は「へえ、ジョンのことそんなに知らなかったよ」と言った。彼は「そうなんです。彼は素晴らしい選手でしたが、こういう男だから、謙虚で、他の人たちがやるみたいに自分で触れ回ったりしないんです」と言った。素晴らしいストーリーだ！オハイオよ、ジョン・ハステッドにアメリカ合衆国上院議員投票を―彼は勝者であり、チャンピオンであり、素晴らしい男だ。彼は絶対にお前たちを裏切らないだろう！ドナルド・J・トランプ大統領\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18492/1af772ad71947187-823412e41728.jpg"
+    },
+    "truth:117435353994630003": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42310",
+      "source_text": "<p>Don’t ever mess with nature! President DJT</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18494/98bf6e8266e6ae0a-895fbbee9253.mp4\">View video</a></p>",
+      "published": "Tue, 13 Oct 2026 19:54:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-13T21:26:29.226848Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42310",
+      "source_fingerprint": "fp:Don’t ever mess with nature! President DJT\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18494/98bf6e8266e6ae0a-895fbbee9253.mp4",
+      "media_identity": "attachment:117435353994630003:98bf6e8266e6ae0a-895fbbee9253.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:Don’t ever mess with nature! President DJT\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18494/98bf6e8266e6ae0a-895fbbee9253.mp4",
+      "truth_social_id": "117435353994630003",
+      "translation": "自然をいじるな！決して！大統領DJT\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18494/98bf6e8266e6ae0a-895fbbee9253.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34501,6 +34502,26 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
+    },
+    "truth:117435356165640404": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42309",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18493/82ccc7b919f1fa75-6cff2e44958b.mp4\">View video</a></p>",
+      "published": "Tue, 13 Oct 2026 19:55:28 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-13T21:26:15.519121Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42309"
+    },
+    "truth:117435475991175132": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42308",
+      "source_text": "<p>Why did Ilhan Omar report a Net Worth of up to 30 Million Dollars just a short time ago, and then immediately say, “Oh, I made a mistake! It’s really $100,000.” Could it be that her highly paid accountant actually reported the money that was stolen from her fraudulent activities in Minnesota? Would something like that be possible? Do you think the accountant actually gave the right number the first time, 30 Million Dollars, and then she was forced to disavow because she never would have been able to report where that much money came from? She must have freaked out when she saw that money! Where did her house come from, where did her cars come from, and what about her lovely place in Washington, D.C.? I didn’t know that Congressmen and women made that kind of money, but I do know her husband, according to information and belief, makes almost nothing, so it couldn’t have come from him. How many people did she illegally bring into our Country from Somalia? America wants answers, and we want them, NOW! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 20:25:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-13T21:26:15.518969Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42308"
     }
   }
 }
