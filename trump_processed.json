@@ -34528,6 +34528,38 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
+    },
+    "truth:117434416172660722": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42305",
+      "source_text": "<p>Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes referred to as the Blockade) in the Hormuz Strait is another Historic Achievement, one of many. HAPPY BIRTHDAY U.S. NAVY! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 15:56:25 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-13T17:26:19.674473Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42305",
+      "first_seen": "2026-10-13T17:26:19.674443Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes",
+      "next_retry_at": "2026-10-13T17:31:19.674481Z",
+      "truth_social_id": "117434416172660722"
+    },
+    "truth:117434446535757477": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42306",
+      "source_text": "<p>The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped. They’ve been silent for a long time, but now they’ve emerged again, probably at the behest of Iran, which is a Failing Nation, with No Navy, No Airforce, the World’s Worst Economy, and 301% Inflation, in a very nasty way, hitting Saudi Arabia, and purposefully trying to drive up Oil Prices, probably prior to the U.S. Elections — NOT NICE. Somebody should explain to them that I’m not running in the Elections, I’ve already won, IN A MASSIVE LANDSLIDE, but I’ll be there after the Elections, and I will never forget! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 16:04:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-13T17:26:20.409174Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42306",
+      "first_seen": "2026-10-13T17:26:20.409145Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped",
+      "next_retry_at": "2026-10-13T17:31:20.409183Z",
+      "truth_social_id": "117434446535757477"
     }
   }
 }
