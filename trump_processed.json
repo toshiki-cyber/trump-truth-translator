@@ -34471,14 +34471,20 @@
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
     },
     "truth:117435475991175132": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42308",
       "source_text": "<p>Why did Ilhan Omar report a Net Worth of up to 30 Million Dollars just a short time ago, and then immediately say, “Oh, I made a mistake! It’s really $100,000.” Could it be that her highly paid accountant actually reported the money that was stolen from her fraudulent activities in Minnesota? Would something like that be possible? Do you think the accountant actually gave the right number the first time, 30 Million Dollars, and then she was forced to disavow because she never would have been able to report where that much money came from? She must have freaked out when she saw that money! Where did her house come from, where did her cars come from, and what about her lovely place in Washington, D.C.? I didn’t know that Congressmen and women made that kind of money, but I do know her husband, according to information and belief, makes almost nothing, so it couldn’t have come from him. How many people did she illegally bring into our Country from Somalia? America wants answers, and we want them, NOW! President DONALD J. TRUMP</p>",
       "published": "Tue, 13 Oct 2026 20:25:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-13T21:26:15.518969Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42308"
+      "retry_count": 1,
+      "updated_at": "2026-10-13T21:36:23.155121Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42308",
+      "first_seen": "2026-10-13T21:36:23.155090Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Why did Ilhan Omar report a Net Worth of up to 30 Million Dollars just a short time ago, and then immediately say, “Oh, I made a mistake! It’s really ",
+      "next_retry_at": "2026-10-13T21:41:23.155129Z",
+      "truth_social_id": "117435475991175132"
     }
   }
 }
