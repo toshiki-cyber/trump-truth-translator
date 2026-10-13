@@ -4085,45 +4085,12 @@
     "https://www.trumpstruth.org/statuses/42303",
     "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/433/336/640/254/316/original/fcbfd1008baaa9e3.mp4",
     "truth:117433339316911783",
-    "https://www.trumpstruth.org/statuses/42302"
+    "https://www.trumpstruth.org/statuses/42302",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0",
+    "truth:117433340099512802",
+    "https://www.trumpstruth.org/statuses/42301"
   ],
   "posts": {
-    "truth:117246607022445743": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41664",
-      "source_text": "<p>The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possible. It was really something, streaming all over the place, and really big numbers, despite going up against the NFL. The overall numbers beat the NFL. The Arena, which was really nice, beat its own attendance records. The place was packed! There were thousands of people outside who couldn’t get in. Screens were provided. I guess people LOVE TRUMP POLITICS! I’ll be there again tonight to close out the show. Exciting “Stuff!” MAKE AMERICA GREAT AGAIN!!!</p>",
-      "published": "Thu, 10 Sep 2026 11:54:04 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-10T12:50:58.486296Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41664",
-      "first_seen": "2026-09-10T12:20:45.537652Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possibl",
-      "truth_social_id": "117246607022445743",
-      "source_fingerprint": "fp:The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possibl",
-      "media_identity": "attachment:117246607022445743:",
-      "translation": "昨夜ダラスで開催された共和党の中間選挙大会は、大きな成功となり、完売した。誰もが予想していたより、はるかに大きく、より優れており、より重要だった。本当に素晴らしいものだった。あらゆるところでストリーミングされ、NFLと競合しているにもかかわらず、本当に大きな数字を記録した。全体の視聴数はNFLを上回った。本当に素敵なアリーナは、独自の入場記録を更新した。会場は満杯だった！入場できなかった数千人が外にいた。スクリーンが設置された。人々はトランプ政治が大好きだと思うようだ！ 今夜も出演して、ショーを締めくくる。興奮する「イベント」だ！アメリカを再び偉大にしよう！",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv5yjyakvc2j",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mv5yjyakvc2j",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "昨夜ダラスで開催された共和党の中間選挙大会は、大きな成功となり、完売した。誰もが予想していたより、はるかに大きく、より優れており、より重要だった。本当に素晴らしいものだった。あらゆるところでストリーミングされ、NFLと競合しているにもかかわらず、本当に大きな数字を記録した。全体の視聴数はNFLを上回った。本当に素敵なアリーナは、独自の入場記録を更新した。会場は満杯だった！入場できなかった数千人が外にいた。スクリーンが設置された。人々はトランプ政治が大好きだと思うようだ！ 今夜も出演して、ショーを締めくくる。興奮する「イベント」だ！アメリカを再び偉大にしよう！",
-        "createdAt": "2026-09-10T12:40:57.809327Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv5yjyakvc2j",
-          "rkey": "3mv5yjyakvc2j"
-        }
-      ]
-    },
     "truth:117246615793515891": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17571,6 +17538,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433335383227958https://truth-archive.us-iad-1.linodeobjects.com/attachments/18490/020b0f",
       "truth_social_id": "117433336229580757",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117433335383227958https://truth-archive.us-iad-1.linodeobjects.com/attachments/18490/020b0f2b455d3840-e378bb541244.pngQuoted\nhttps://www.trumpstruth.org/statuses/42304https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/433/334/952/530/746/original/4e60fdf50cc49b37.mp4"
+    },
+    "truth:117433340099512802": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42301",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0f8fcab9c13-1fe30a667e85.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42302\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/433/336/640/254/316/original/fcbfd1008baaa9e3.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 13 Oct 2026 11:22:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-13T11:56:20.710560Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42301",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0",
+      "media_identity": "attachment:117433340099512802:8c1ee0f8fcab9c13.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0",
+      "truth_social_id": "117433340099512802",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0f8fcab9c13-1fe30a667e85.pngQuoted\nhttps://www.trumpstruth.org/statuses/42302https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/433/336/640/254/316/original/fcbfd1008baaa9e3.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34545,16 +34528,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
-    },
-    "truth:117433340099512802": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42301",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0f8fcab9c13-1fe30a667e85.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42302\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/433/336/640/254/316/original/fcbfd1008baaa9e3.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 13 Oct 2026 11:22:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-13T11:26:20.553551Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42301"
     }
   }
 }
