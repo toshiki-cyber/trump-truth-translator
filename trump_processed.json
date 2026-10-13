@@ -4088,61 +4088,12 @@
     "https://www.trumpstruth.org/statuses/42302",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0",
     "truth:117433340099512802",
-    "https://www.trumpstruth.org/statuses/42301"
+    "https://www.trumpstruth.org/statuses/42301",
+    "fp:Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes",
+    "truth:117434416172660722",
+    "https://www.trumpstruth.org/statuses/42305"
   ],
   "posts": {
-    "truth:117246615793515891": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41665",
-      "source_text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117183895840900319\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117183895840900319</span></a></p>",
-      "published": "Thu, 10 Sep 2026 11:56:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-10T13:01:09.614835Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41665",
-      "first_seen": "2026-09-10T12:20:46.644222Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117183895840900319",
-      "truth_social_id": "117246615793515891",
-      "source_fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117183895840900319",
-      "media_identity": "attachment:117246615793515891:",
-      "translation": "https://truthsocial.com/@realDonaldTrump/117183895840900319",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv5ynxuw4ctx",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mv5ynxuw4ctx",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/@realDonaldTrump/117183895840900319",
-        "createdAt": "2026-09-10T12:55:44.297473Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 59
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/@realDonaldTrump/117183895840900319"
-              }
-            ]
-          }
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv5ynxuw4ctx",
-          "rkey": "3mv5ynxuw4ctx"
-        }
-      ]
-    },
     "truth:117246634356317272": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17554,6 +17505,24 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0",
       "truth_social_id": "117433340099512802",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117433339316911783https://truth-archive.us-iad-1.linodeobjects.com/attachments/18488/8c1ee0f8fcab9c13-1fe30a667e85.pngQuoted\nhttps://www.trumpstruth.org/statuses/42302https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/433/336/640/254/316/original/fcbfd1008baaa9e3.mp4"
+    },
+    "truth:117434416172660722": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42305",
+      "source_text": "<p>Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes referred to as the Blockade) in the Hormuz Strait is another Historic Achievement, one of many. HAPPY BIRTHDAY U.S. NAVY! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 15:56:25 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-13T17:46:28.720603Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42305",
+      "first_seen": "2026-10-13T17:26:19.674443Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes",
+      "truth_social_id": "117434416172660722",
+      "source_fingerprint": "fp:Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes",
+      "media_identity": "attachment:117434416172660722:",
+      "translation": "米国海軍へお誕生日おめでとう！古くからの勝利と新しい勝利により、今年で251年だ。ホルムズ海峡において難攻不落の鋼鉄の壁（時にはブロッケード（海上封鎖）と呼ばれる）で成し遂げたことは、また別の歴史的成就であり、数多くの成就の中の一つだ。米国海軍にお誕生日おめでとう！大統領ドナルド・J・トランプより"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34528,22 +34497,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
-    },
-    "truth:117434416172660722": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42305",
-      "source_text": "<p>Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes referred to as the Blockade) in the Hormuz Strait is another Historic Achievement, one of many. HAPPY BIRTHDAY U.S. NAVY! President DONALD J. TRUMP</p>",
-      "published": "Tue, 13 Oct 2026 15:56:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-13T17:31:24.579926Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42305",
-      "first_seen": "2026-10-13T17:26:19.674443Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes",
-      "next_retry_at": "2026-10-13T17:41:24.579941Z",
-      "truth_social_id": "117434416172660722"
     },
     "truth:117434446535757477": {
       "post_status": "RETRY",
