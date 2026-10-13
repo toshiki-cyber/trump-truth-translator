@@ -34440,6 +34440,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18482/cbf61e9140717520-14535a485b9c.mov",
       "truth_social_id": "117428397676414199",
       "next_retry_at": "2026-10-12T16:11:21.983865Z"
+    },
+    "truth:117431307261297275": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42300",
+      "source_text": "<p>I see so many comments from the Radical Left Morons and Lunatics that China and Russia are helping the “wonderful” Islamic Republic of Iran. If they are, it’s at a very low level, but I don’t believe they are at all. They have too much to lose, and we would know about it, and know about it very fast! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 02:45:46 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-13T03:26:21.235782Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42300",
+      "first_seen": "2026-10-13T03:26:21.235752Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I see so many comments from the Radical Left Morons and Lunatics that China and Russia are helping the “wonderful” Islamic Republic of Iran. If they a",
+      "next_retry_at": "2026-10-13T03:31:21.235790Z",
+      "truth_social_id": "117431307261297275"
     }
   }
 }
