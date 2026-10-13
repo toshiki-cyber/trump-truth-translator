@@ -4091,27 +4091,12 @@
     "https://www.trumpstruth.org/statuses/42301",
     "fp:Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes",
     "truth:117434416172660722",
-    "https://www.trumpstruth.org/statuses/42305"
+    "https://www.trumpstruth.org/statuses/42305",
+    "fp:The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped",
+    "truth:117434446535757477",
+    "https://www.trumpstruth.org/statuses/42306"
   ],
   "posts": {
-    "truth:117246634356317272": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41669",
-      "source_text": "<p><a href=\"https://truthsocial.com/@realDonaldTrump/117184422478750334\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@realDonaldTru</span><span class=\"invisible\">mp/117184422478750334</span></a></p>",
-      "published": "Thu, 10 Sep 2026 12:01:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-10T13:05:42.890308Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41669",
-      "first_seen": "2026-09-10T12:20:47.108073Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117184422478750334",
-      "truth_social_id": "117246634356317272",
-      "source_fingerprint": "fp:https://truthsocial.com/@realDonaldTrump/117184422478750334",
-      "media_identity": "attachment:117246634356317272:",
-      "translation": "https://truthsocial.com/@realDonaldTrump/117184422478750334"
-    },
     "truth:117246636000400057": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17523,6 +17508,24 @@
       "source_fingerprint": "fp:Happy Birthday to the United States Navy! It is now 251 years of Victories, Old and New. What they’ve done with the impenetrable Steel Wall (Sometimes",
       "media_identity": "attachment:117434416172660722:",
       "translation": "米国海軍へお誕生日おめでとう！古くからの勝利と新しい勝利により、今年で251年だ。ホルムズ海峡において難攻不落の鋼鉄の壁（時にはブロッケード（海上封鎖）と呼ばれる）で成し遂げたことは、また別の歴史的成就であり、数多くの成就の中の一つだ。米国海軍にお誕生日おめでとう！大統領ドナルド・J・トランプより"
+    },
+    "truth:117434446535757477": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42306",
+      "source_text": "<p>The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped. They’ve been silent for a long time, but now they’ve emerged again, probably at the behest of Iran, which is a Failing Nation, with No Navy, No Airforce, the World’s Worst Economy, and 301% Inflation, in a very nasty way, hitting Saudi Arabia, and purposefully trying to drive up Oil Prices, probably prior to the U.S. Elections — NOT NICE. Somebody should explain to them that I’m not running in the Elections, I’ve already won, IN A MASSIVE LANDSLIDE, but I’ll be there after the Elections, and I will never forget! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 16:04:08 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-13T17:51:25.065182Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42306",
+      "first_seen": "2026-10-13T17:26:20.409145Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped",
+      "truth_social_id": "117434446535757477",
+      "source_fingerprint": "fp:The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped",
+      "media_identity": "attachment:117434446535757477:",
+      "translation": "フーシ派は非常に悪い行動をしている。1年前に我々が奴らを徹底的に爆撃し、奴らからの要請で停止した時点で教訓を学んだものだと思っていたが。長い間沈黙していたが、今や再び姿を現した。おそらくイランの指示下にあるのだろう。イランは失敗国家であり、海軍もなく、空軍もなく、世界最悪の経済と301%のインフレを抱えている。非常に厄介なやり方で、サウジアラビアを攻撃し、意図的に石油価格を引き上げようとしている。おそらく米国選挙の前にだ。最低だ。誰かが奴らに説明してやるべきだ。私は選挙に立候補していない。私はすでに圧倒的大差で勝った。だが選挙後も私はそこにいる。そして私は決して忘れない！ドナルド・J・トランプ大統領"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34497,22 +34500,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
-    },
-    "truth:117434446535757477": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42306",
-      "source_text": "<p>The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped. They’ve been silent for a long time, but now they’ve emerged again, probably at the behest of Iran, which is a Failing Nation, with No Navy, No Airforce, the World’s Worst Economy, and 301% Inflation, in a very nasty way, hitting Saudi Arabia, and purposefully trying to drive up Oil Prices, probably prior to the U.S. Elections — NOT NICE. Somebody should explain to them that I’m not running in the Elections, I’ve already won, IN A MASSIVE LANDSLIDE, but I’ll be there after the Elections, and I will never forget! President DONALD J. TRUMP</p>",
-      "published": "Tue, 13 Oct 2026 16:04:08 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-13T17:31:24.832102Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42306",
-      "first_seen": "2026-10-13T17:26:20.409145Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped",
-      "next_retry_at": "2026-10-13T17:41:24.832120Z",
-      "truth_social_id": "117434446535757477"
     }
   }
 }
