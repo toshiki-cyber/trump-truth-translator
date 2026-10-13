@@ -4106,24 +4106,12 @@
     "https://www.trumpstruth.org/statuses/42309",
     "fp:Why did Ilhan Omar report a Net Worth of up to 30 Million Dollars just a short time ago, and then immediately say, “Oh, I made a mistake! It’s really ",
     "truth:117435475991175132",
-    "https://www.trumpstruth.org/statuses/42308"
+    "https://www.trumpstruth.org/statuses/42308",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18495/84346737786a7f40-5ddaeaf06f43.jpg",
+    "truth:117436047401681071",
+    "https://www.trumpstruth.org/statuses/42316"
   ],
   "posts": {
-    "truth:117246804565502433": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41676",
-      "source_text": "<p></p>",
-      "published": "Thu, 10 Sep 2026 12:44:19 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-10T15:02:29.819288Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41676",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117246804565502433:c08c1f97fcd66d26-f4bfb6ffc2de.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117246804565502433",
-      "translation": ""
-    },
     "truth:117246805783562499": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17448,6 +17436,22 @@
       "source_fingerprint": "fp:Why did Ilhan Omar report a Net Worth of up to 30 Million Dollars just a short time ago, and then immediately say, “Oh, I made a mistake! It’s really ",
       "media_identity": "attachment:117435475991175132:",
       "translation": "なぜイルハン・オマルは、つい先ほど純資産が最大3000万ドルだと報告したのに、すぐに「あ、間違えた！本当は10万ドルだ」と言ったのか。もしかして、彼女の高給を取る会計士は、ミネソタでの詐欺的活動から盗まれた金を実際に報告したのではないか。そんなことが起こり得るだろうか。会計士が最初に3000万ドルという正しい数字を実際に報告したのに、彼女はそんなに多くの金がどこから来たのか報告できないはずだから否定を強要されたのではないか。その金を見たときに彼女はパニックになったに違いない。彼女の家はどこから来たのか、彼女の車はどこから来たのか、ワシントンD.C.の素敵な家はどうなのか。議員たちがそんな金を稼ぐとは知らなかったが、彼女の夫は情報と信念によれば、ほぼ何も稼いでいないので、彼から来たはずはない。彼女は何人の人間をソマリアから違法に我が国に連れ込んだのか。アメリカは答えを求めており、我々は今すぐそれを求めている。ドナルド・J・トランプ大統領"
+    },
+    "truth:117436047401681071": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42316",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18495/84346737786a7f40-5ddaeaf06f43.jpg\">View image</a></p>",
+      "published": "Tue, 13 Oct 2026 22:51:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-13T23:30:41.914179Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42316",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18495/84346737786a7f40-5ddaeaf06f43.jpg",
+      "media_identity": "attachment:117436047401681071:84346737786a7f40.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18495/84346737786a7f40-5ddaeaf06f43.jpg",
+      "truth_social_id": "117436047401681071",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18495/84346737786a7f40-5ddaeaf06f43.jpg"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34665,16 +34669,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-13T23:30:54.032784Z"
-    },
-    "truth:117436047401681071": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42316",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18495/84346737786a7f40-5ddaeaf06f43.jpg\">View image</a></p>",
-      "published": "Tue, 13 Oct 2026 22:51:15 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-13T23:25:41.610485Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42316"
     },
     "truth:117436050104659116": {
       "post_status": "DISCOVERED",
