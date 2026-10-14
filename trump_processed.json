@@ -34765,14 +34765,20 @@
       "next_retry_at": "2026-10-14T06:50:45.456579Z"
     },
     "truth:117437568444285020": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42333",
       "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/374/931/592/733/original/62f2185bfe6dc769.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 05:18:04 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-14T05:25:36.813413Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42333"
+      "retry_count": 1,
+      "updated_at": "2026-10-14T06:45:37.679364Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42333",
+      "source_fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/374/931/592/733/original/62f2185bfe6dc769.mp4",
+      "media_identity": "attachment:117437568444285020:62f2185bfe6dc769.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/374/931/592/733/original/62f2185bfe6dc769.mp4",
+      "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/374/931/592/733/original/62f2185bfe6dc769.mp4",
+      "truth_social_id": "117437568444285020",
+      "next_retry_at": "2026-10-14T06:50:37.679387Z"
     },
     "truth:117437575496539011": {
       "post_status": "DISCOVERED",
