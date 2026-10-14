@@ -4151,25 +4151,12 @@
     "https://www.trumpstruth.org/statuses/42324",
     "fp:THIS IS WHERE WE SEND OUR KILLERS, DRUG DEALERS & THUGS.\n \nTHIS IS WHY MURDER AND OTHER CRIMES IN AMERICA ARE AT RECORD LOWS.\nhttps://truth-archive.us",
     "truth:117437334882480153",
-    "https://www.trumpstruth.org/statuses/42326"
+    "https://www.trumpstruth.org/statuses/42326",
+    "fp:Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amo",
+    "truth:117437330273528673",
+    "https://www.trumpstruth.org/statuses/42327"
   ],
   "posts": {
-    "truth:117247527370149354": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41686",
-      "source_text": "<p>Last night at the Convention — A packed house! President DONALD J. TRUMP</p>",
-      "published": "Thu, 10 Sep 2026 15:48:08 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-10T16:46:28.407027Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41686",
-      "source_fingerprint": "fp:Last night at the Convention — A packed house! President DONALD J. TRUMP",
-      "media_identity": "attachment:117247527370149354:213cedd320e08b0d-f45bdd38920d.mov",
-      "failure_reason": null,
-      "fingerprint": "fp:Last night at the Convention — A packed house! President DONALD J. TRUMP",
-      "truth_social_id": "117247527370149354",
-      "translation": "昨夜の全国委員会――満員盛況！大統領ドナルド・J・トランプ"
-    },
     "truth:117253628890078139": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17509,6 +17496,24 @@
       "fallback_policy_version": 1,
       "media_fallback_reason": "動画候補がすべて不正: 動画サイズ超過: 70.3MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/304/236/776/251/original/ef13ee9fac2e0222.mp4",
       "translation": "ここが我々が殺人鬼、麻薬密売人、ならず者を送る場所だ。\n\nこれがアメリカの殺人と他の犯罪が記録的な低水準にある理由だ。\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18505/ef13ee9fac2e0222-b6db07c1cca8.mp4"
+    },
+    "truth:117437330273528673": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42327",
+      "source_text": "<p>Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amount of easily available Oil is far greater than that of almost any land, anywhere in the World and, even more importantly, from a Security Purpose in the Defense and Offense of both the United States of America, and Europe, is second to none. Any future attack on the United States will have to come across Greenland, where our Defense will routinely knock down drones, missiles, or any other form of weapon not yet even conceived. It gives us time, location, and sightline, like nowhere else in the World! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Wed, 14 Oct 2026 04:17:30 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-14T06:15:46.342851Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42327",
+      "first_seen": "2026-10-14T05:50:37.739191Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amo",
+      "truth_social_id": "117437330273528673",
+      "source_fingerprint": "fp:Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amo",
+      "media_identity": "attachment:117437330273528673:",
+      "translation": "大規模な石油、ガス、および鉱物資源の採掘が、我々の新しく美しいグリーンランドで始まろうとしている！専門家たちは、容易に入手可能な石油の量が世界中のほぼあらゆる土地よりも遥かに多いと述べており、さらに重要なことに、アメリカ合衆国とヨーロッパの防衛と攻撃の観点からのセキュリティ目的においては、他の追随を許さないものだ。アメリカへの今後の攻撃はグリーンランドを横切って来なければならず、そこで我々の防衛は日常的にドローン、ミサイル、あるいはまだ想像もされていないあらゆる形態の兵器を撃ち落とすことになる。それは世界中のどこにも類を見ない時間、場所、および視線を与えてくれるのだ！この件へのご注意をありがとうございます。ドナルド・J・トランプ大統領"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34708,22 +34713,6 @@
       "truth_social_id": "117437320767757116",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-14T06:25:44.963145Z"
-    },
-    "truth:117437330273528673": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42327",
-      "source_text": "<p>Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amount of easily available Oil is far greater than that of almost any land, anywhere in the World and, even more importantly, from a Security Purpose in the Defense and Offense of both the United States of America, and Europe, is second to none. Any future attack on the United States will have to come across Greenland, where our Defense will routinely knock down drones, missiles, or any other form of weapon not yet even conceived. It gives us time, location, and sightline, like nowhere else in the World! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Wed, 14 Oct 2026 04:17:30 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-14T06:00:40.384445Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42327",
-      "first_seen": "2026-10-14T05:50:37.739191Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amo",
-      "next_retry_at": "2026-10-14T06:10:40.384463Z",
-      "truth_social_id": "117437330273528673"
     },
     "truth:117437345548758242": {
       "post_status": "RETRY",
