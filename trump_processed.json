@@ -34698,13 +34698,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T13:21:07.796328Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T13:25:39.256472Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34917,8 +34917,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/42341",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18519/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 05:43:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-14T13:10:45.946849Z",
+      "retry_count": 3,
+      "updated_at": "2026-10-14T13:25:46.949298Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42341",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18519/browser-safe.mp4",
       "media_identity": "attachment:117437670326309038:101ec06a209416af-b8f4161e3abc.mov",
@@ -34926,7 +34926,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18519/browser-safe.mp4",
       "truth_social_id": "117437670326309038",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-14T13:20:45.946868Z"
+      "next_retry_at": "2026-10-14T13:45:46.949317Z"
     },
     "truth:117437698786662264": {
       "post_status": "DISCOVERED",
@@ -34987,6 +34987,56 @@
       "retry_count": 0,
       "updated_at": "2026-10-14T07:25:38.204419Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42349"
+    },
+    "truth:117439106238163149": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42354",
+      "source_text": "<p>Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': <a href=\"https://justthenews.com/government/courts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization</span></a></p>",
+      "published": "Wed, 14 Oct 2026 11:49:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T13:25:39.255736Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42354"
+    },
+    "truth:117439109117320192": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42353",
+      "source_text": "<p>Trump proves he can undo Biden’s energy damage in Alaska in short order: <a href=\"https://justthenews.com/government/white-house/trump-proves-alaska-he-can-undo-bidens-energy-damage-half-time\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-proves-alaska-he-can-undo-bidens-energy-damage-half-time</span></a></p>",
+      "published": "Wed, 14 Oct 2026 11:49:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T13:25:39.255617Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42353"
+    },
+    "truth:117439113014880144": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42350",
+      "source_text": "<p>Majority of voters concerned about socialists running for office, poll finds: <a href=\"https://justthenews.com/nation/states/center-square/poll-majority-voters-concerned-about-socialists-running-office\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/states/</span><span class=\"invisible\">center-square/poll-majority-voters-concerned-about-socialists-running-office</span></a></p>",
+      "published": "Wed, 14 Oct 2026 11:50:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T13:25:39.255509Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42350"
+    },
+    "truth:117439118252449992": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42352",
+      "source_text": "<p>Trump’s job-creation juggernaut stops in Ohio to unveil massive submarine repair facility: <a href=\"https://justthenews.com/politics-policy/all-things-trump/trumps-job-creation-juggernaut-stops-ohio-unveil-massive-submarine\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trumps-job-creation-juggernaut-stops-ohio-unveil-massive-submarine</span></a></p>",
+      "published": "Wed, 14 Oct 2026 11:52:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T13:25:39.255399Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42352"
+    },
+    "truth:117439121961898835": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42351",
+      "source_text": "<p>Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability</span></a></p>",
+      "published": "Wed, 14 Oct 2026 11:53:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T13:25:39.255277Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42351"
     }
   }
 }
