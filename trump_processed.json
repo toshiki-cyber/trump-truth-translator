@@ -4118,24 +4118,12 @@
     "https://www.trumpstruth.org/statuses/42311",
     "fp:Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fan",
     "truth:117435868809210676",
-    "https://www.trumpstruth.org/statuses/42312"
+    "https://www.trumpstruth.org/statuses/42312",
+    "fp:Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deservi",
+    "truth:117435878855345862",
+    "https://www.trumpstruth.org/statuses/42314"
   ],
   "posts": {
-    "truth:117246831473522530": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41683",
-      "source_text": "<p></p>",
-      "published": "Thu, 10 Sep 2026 12:51:09 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-10T15:51:41.997526Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41683",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117246831473522530:6d7332e2081eb04b-4ab4449e5db2.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117246831473522530",
-      "translation": ""
-    },
     "truth:117246828361684716": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17501,6 +17489,24 @@
           "rkey": "3mxryuwew22oh"
         }
       ]
+    },
+    "truth:117435878855345862": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42314",
+      "source_text": "<p>Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deserving of it. I then asked him to get out of the Race, and he agreed! I said, “Too many Republicans, three, are running against one Dumocrat, and you won’t be able to win!” He agreed to get out, but three days later, without notification, quickly jumped back in, along with a third “Republican” Candidate, who I never heard of, named Treg Taylor. Bernadette Wilson is outstanding. She will make a GREAT Governor. She easily won the Race, and all Bronson and Taylor will do is take away Votes from the Candidate that has, by far, the best chance of winning. Now is the time for all Republicans to unite behind Bernadette to ensure she has a tremendous Victory in November! The Dumocrats have a bad Radical Left Candidate, and we have a GREAT one! Bernadette Wilson is a FANTASTIC choice to replace my friend, Governor Mike Dunleavy, and will work tirelessly to Grow the Economy, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. Bernadette Wilson truly deserves to WIN, and has my Complete and Total Endorsement to be the next Governor of Alaska — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 22:08:23 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-14T00:05:53.896912Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42314",
+      "first_seen": "2026-10-13T23:25:43.473623Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deservi",
+      "truth_social_id": "117435878855345862",
+      "source_fingerprint": "fp:Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deservi",
+      "media_identity": "attachment:117435878855345862:",
+      "translation": "アラスカ州のデイブ・ブロンソンは私に支援と推薦を懇願してきたが、彼は予備選挙に勝たなかったため、それに値しないとして私はそれを拒否した。その後、私は彼にレースから降りるよう求め、彼は同意した。私は「共和党員3人が1人の民主党員に対抗して立候補しており、君は勝つことはできない」と言った。彼は降りることに同意したが、3日後、通知なく急に戻ってきた。さらに、私が聞いたことのない第3の「共和党」候補者トレグ・テイラーも一緒に立候補した。バーナデット・ウィルソンは傑出している。彼女は偉大な知事になるだろう。彼女はレースを圧倒的に勝利した。ブロンソンとテイラーがすることといえば、はるかに最も勝つ可能性が高い候補者から票を奪い取ることだけだ。今こそ、すべての共和党員がバーナデットの背後に結集し、11月の大勝利を確保する時だ。民主党側には悪い急進左翼の候補者がいるが、我々には素晴らしい候補者がいる。バーナデット・ウィルソンは私の友人マイク・ダンリービー知事に代わる素晴らしい選択であり、経済成長、アメリカンエネルギーの支配の解放、減税と規制撤廃、メイド・イン・ザ・USAの推進、国境の厳格化、移民犯罪の阻止、法と秩序の確保、勇敢な軍人、退役軍人、法執行機関の支援、選挙の保全、常に脅威にさらされている修正第2条の保護のために倦まずたゆまず活動するだろう。バーナデット・ウィルソンは本当に勝つに値し、アラスカ州次期知事となるための私の完全かつ全面的な推薦を得ている。彼女は絶対に諸君を失望させない。ドナルド・J・トランプ大統領"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34475,22 +34481,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
-    },
-    "truth:117435878855345862": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42314",
-      "source_text": "<p>Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deserving of it. I then asked him to get out of the Race, and he agreed! I said, “Too many Republicans, three, are running against one Dumocrat, and you won’t be able to win!” He agreed to get out, but three days later, without notification, quickly jumped back in, along with a third “Republican” Candidate, who I never heard of, named Treg Taylor. Bernadette Wilson is outstanding. She will make a GREAT Governor. She easily won the Race, and all Bronson and Taylor will do is take away Votes from the Candidate that has, by far, the best chance of winning. Now is the time for all Republicans to unite behind Bernadette to ensure she has a tremendous Victory in November! The Dumocrats have a bad Radical Left Candidate, and we have a GREAT one! Bernadette Wilson is a FANTASTIC choice to replace my friend, Governor Mike Dunleavy, and will work tirelessly to Grow the Economy, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. Bernadette Wilson truly deserves to WIN, and has my Complete and Total Endorsement to be the next Governor of Alaska — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Tue, 13 Oct 2026 22:08:23 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-13T23:35:41.990797Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42314",
-      "first_seen": "2026-10-13T23:25:43.473623Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deservi",
-      "next_retry_at": "2026-10-13T23:45:41.990813Z",
-      "truth_social_id": "117435878855345862"
     },
     "truth:117435892060051892": {
       "post_status": "RETRY",
