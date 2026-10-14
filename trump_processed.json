@@ -34704,7 +34704,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-14T07:55:37.119061Z",
+      "updated_at": "2026-10-14T08:00:41.880035Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34803,15 +34803,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42331",
       "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/369/142/135/590/original/7e840fff0dd68b70.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 05:19:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-14T07:40:45.528831Z",
+      "retry_count": 3,
+      "updated_at": "2026-10-14T08:00:47.333160Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42331",
       "source_fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/369/142/135/590/original/7e840fff0dd68b70.mp4",
       "media_identity": "attachment:117437575966465465:7e840fff0dd68b70.mp4",
       "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/369/142/135/590/original/7e840fff0dd68b70.mp4",
       "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/369/142/135/590/original/7e840fff0dd68b70.mp4",
       "truth_social_id": "117437575966465465",
-      "next_retry_at": "2026-10-14T07:50:45.528847Z"
+      "next_retry_at": "2026-10-14T08:20:47.333178Z"
     },
     "truth:117437579429730828": {
       "post_status": "DISCOVERED",
