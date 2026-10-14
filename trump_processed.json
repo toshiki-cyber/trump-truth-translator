@@ -4169,25 +4169,12 @@
     "https://www.trumpstruth.org/statuses/42350",
     "fp:Trump’s job-creation juggernaut stops in Ohio to unveil massive submarine repair facility: \nhttps://justthenews.com/politics-policy/all-things-trump/t",
     "truth:117439118252449992",
-    "https://www.trumpstruth.org/statuses/42352"
+    "https://www.trumpstruth.org/statuses/42352",
+    "fp:Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: \nhttps://justthenews.com/podcasts/john-solomon-reports/washingtons-rec",
+    "truth:117439121961898835",
+    "https://www.trumpstruth.org/statuses/42351"
   ],
   "posts": {
-    "truth:117255718355537976": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41696",
-      "source_text": "<p>So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026.</p><p>Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington.</p><p>Then, as soon as it is ready, install a 30-foot Washington Colossus where “Infinity” stands today.</p><p>Replace a sculpture that says nothing about America with the man who, more than anyone else, says everything about America.</p><p>This is how we should begin to honor George Washington in the lead-up to his 300th birthday in 2032. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Sat, 12 Sep 2026 02:31:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-12T04:21:05.286673Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41696",
-      "source_fingerprint": "fp:So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’",
-      "media_identity": "attachment:117255718355537976:862dff864571b002.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’",
-      "truth_social_id": "117255718355537976",
-      "translation": "だから、私はスミソニアン博物館に対し、最近のフリーダム250グランプリレースで展示された11フィートのワシントン像をフラッグホールに設置し、2026年9月17日の憲法記念日に献納することを求めている。\n\n直ちにジョージ・ワシントンの生涯、犠牲、そして貢献にふさわしい5年間の特別展示をデザインして展示すること。\n\nその後、準備ができ次第、現在「インフィニティ」が立っている場所に30フィートのワシントン・コロッサスを設置すること。\n\nアメリカについて何も語らない彫刻を、誰よりもアメリカのすべてを象徴する人物に置き換えるのだ。\n\nこれが2032年のワシントン生誕300年に向けた彼を敬う始まり方である。この件についてのご対応をありがとう！大統領 ドナルド・J・トランプ"
-    },
     "truth:117255720319253709": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17635,6 +17622,24 @@
           "rkey": "3mxtibxdqz2xb"
         }
       ]
+    },
+    "truth:117439121961898835": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42351",
+      "source_text": "<p>Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability</span></a></p>",
+      "published": "Wed, 14 Oct 2026 11:53:09 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-14T19:15:41.116388Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42351",
+      "first_seen": "2026-10-14T16:15:46.817765Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: \nhttps://justthenews.com/podcasts/john-solomon-reports/washingtons-rec",
+      "truth_social_id": "117439121961898835",
+      "source_fingerprint": "fp:Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: \nhttps://justthenews.com/podcasts/john-solomon-reports/washingtons-rec",
+      "media_identity": "attachment:117439121961898835:",
+      "translation": "ワシントンの清算：ジャック・スミス、イルハン・オマル、そして説明責任への圧力：\nhttps://justthenews.com/podcasts/john-solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34819,13 +34824,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T19:10:44.490675Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T19:15:37.926102Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35128,22 +35133,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18524/a796408c7c59e7c1-3e6e373457f6.mov",
       "truth_social_id": "117437777341803533",
       "next_retry_at": "2026-10-14T16:10:41.697946Z"
-    },
-    "truth:117439121961898835": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42351",
-      "source_text": "<p>Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: <a href=\"https://justthenews.com/podcasts/john-solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/podcasts/john-</span><span class=\"invisible\">solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability</span></a></p>",
-      "published": "Wed, 14 Oct 2026 11:53:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-14T17:00:48.830882Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42351",
-      "first_seen": "2026-10-14T16:15:46.817765Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: \nhttps://justthenews.com/podcasts/john-solomon-reports/washingtons-rec",
-      "next_retry_at": "2026-10-14T17:10:48.830892Z",
-      "truth_social_id": "117439121961898835"
     },
     "truth:117440207836405365": {
       "post_status": "DISCOVERED",
