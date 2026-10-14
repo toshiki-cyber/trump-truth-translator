@@ -4124,25 +4124,12 @@
     "https://www.trumpstruth.org/statuses/42314",
     "fp:Why would black people vote for Mohammed El-Sayed when he openly scorns them, mocks them, and disrespects them? THEY WON’T! President DJT",
     "truth:117435892060051892",
-    "https://www.trumpstruth.org/statuses/42313"
+    "https://www.trumpstruth.org/statuses/42313",
+    "fp:Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP\nGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story",
+    "truth:117436050104659116",
+    "https://www.trumpstruth.org/statuses/42315"
   ],
   "posts": {
-    "truth:117246832167965887": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41682",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530</span></p>",
-      "published": "Thu, 10 Sep 2026 12:51:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-10T16:01:25.161388Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41682",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530",
-      "media_identity": "attachment:117246832167965887:3a2b900eb63ba543.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530",
-      "truth_social_id": "117246832167965887",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117246831473522530"
-    },
     "truth:117246833197264572": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17475,6 +17462,24 @@
       "source_fingerprint": "fp:Why would black people vote for Mohammed El-Sayed when he openly scorns them, mocks them, and disrespects them? THEY WON’T! President DJT",
       "media_identity": "attachment:117435892060051892:",
       "translation": "黒人たちがなぜモハメド・エル・セイドに投票するのか。彼は黒人たちを露骨に軽蔑し、嘲笑し、不尊重にしているではないか。彼らは投票しないだろう！大統領 DJT"
+    },
+    "truth:117436050104659116": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42315",
+      "source_text": "<p>Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP</p><p>GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: <a href=\"https://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/gregg-jarr</span><span class=\"invisible\">ett-trump-framed-russia-collusion-hoax-story-exposed</span></a></p>",
+      "published": "Tue, 13 Oct 2026 22:51:56 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-14T00:30:42.563167Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42315",
+      "first_seen": "2026-10-13T23:40:40.186480Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP\nGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story",
+      "truth_social_id": "117436050104659116",
+      "source_fingerprint": "fp:Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP\nGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story",
+      "media_identity": "attachment:117436050104659116:",
+      "translation": "グレッグ・ジャレット素晴らしい — 必ず見るべき！大統領 ドナルド・J・トランプ\nグレッグ・ジャレット：トランプはロシア共謀詐欺によって陥れられた。今、真実の全貌が明かされている：\nhttps://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34449,22 +34454,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
-    },
-    "truth:117436050104659116": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42315",
-      "source_text": "<p>Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP</p><p>GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: <a href=\"https://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/gregg-jarr</span><span class=\"invisible\">ett-trump-framed-russia-collusion-hoax-story-exposed</span></a></p>",
-      "published": "Tue, 13 Oct 2026 22:51:56 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-14T00:15:39.603329Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42315",
-      "first_seen": "2026-10-13T23:40:40.186480Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP\nGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story",
-      "next_retry_at": "2026-10-14T00:25:39.603345Z",
-      "truth_social_id": "117436050104659116"
     }
   }
 }
