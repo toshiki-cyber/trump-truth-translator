@@ -4127,24 +4127,12 @@
     "https://www.trumpstruth.org/statuses/42313",
     "fp:Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP\nGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story",
     "truth:117436050104659116",
-    "https://www.trumpstruth.org/statuses/42315"
+    "https://www.trumpstruth.org/statuses/42315",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092https://truth-archive.us-iad-1.linodeobjects.com/attachments/18499/409bd6",
+    "truth:117436213910457560",
+    "https://www.trumpstruth.org/statuses/42320"
   ],
   "posts": {
-    "truth:117246833197264572": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41681",
-      "source_text": "<p></p>",
-      "published": "Thu, 10 Sep 2026 12:51:36 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-10T16:06:31.064464Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41681",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117246833197264572:17573f96c77c13fc-fe2b612c0373.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117246833197264572",
-      "translation": ""
-    },
     "truth:117246833816059029": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17480,6 +17468,22 @@
       "source_fingerprint": "fp:Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP\nGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story",
       "media_identity": "attachment:117436050104659116:",
       "translation": "グレッグ・ジャレット素晴らしい — 必ず見るべき！大統領 ドナルド・J・トランプ\nグレッグ・ジャレット：トランプはロシア共謀詐欺によって陥れられた。今、真実の全貌が明かされている：\nhttps://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed"
+    },
+    "truth:117436213910457560": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42320",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18499/409bd6c848da0851-0c21176de267.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42321\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18500/c3c65a83c7fc4e52-b6ec364435e0.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 13 Oct 2026 23:33:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T01:30:42.091960Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42320",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092https://truth-archive.us-iad-1.linodeobjects.com/attachments/18499/409bd6",
+      "media_identity": "attachment:117436213910457560:409bd6c848da0851.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092https://truth-archive.us-iad-1.linodeobjects.com/attachments/18499/409bd6",
+      "truth_social_id": "117436213910457560",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092https://truth-archive.us-iad-1.linodeobjects.com/attachments/18499/409bd6c848da0851-0c21176de267.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42321https://truth-archive.us-iad-1.linodeobjects.com/attachments/18500/c3c65a83c7fc4e52-b6ec364435e0.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34609,16 +34613,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-14T01:31:09.589103Z"
-    },
-    "truth:117436213910457560": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42320",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18499/409bd6c848da0851-0c21176de267.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42321\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18500/c3c65a83c7fc4e52-b6ec364435e0.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 13 Oct 2026 23:33:36 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-14T01:25:37.176159Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42320"
     },
     "truth:117436230839875415": {
       "post_status": "DISCOVERED",
