@@ -4112,95 +4112,15 @@
     "https://www.trumpstruth.org/statuses/42316",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18496/8b49e9811a72fcbe-19d5407fe875.jpg",
     "truth:117436046490491993",
-    "https://www.trumpstruth.org/statuses/42317"
+    "https://www.trumpstruth.org/statuses/42317",
+    "fp:How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP h",
+    "truth:117435782267938403",
+    "https://www.trumpstruth.org/statuses/42311",
+    "fp:Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fan",
+    "truth:117435868809210676",
+    "https://www.trumpstruth.org/statuses/42312"
   ],
   "posts": {
-    "truth:117246807924826850": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41673",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408</span></p>",
-      "published": "Thu, 10 Sep 2026 12:45:10 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-10T15:26:21.520558Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41673",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408",
-      "media_identity": "attachment:117246807924826850:7b4d3d4fcc985d52.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408",
-      "truth_social_id": "117246807924826850",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv63fdqzm2ee",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mv63fdqzm2ee",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408",
-        "createdAt": "2026-09-10T15:16:18.578664Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 73
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreig32nhe6qlwyqm3y5d6lkmtrcndzejfd4ifb6betcjsf7czwpvkqe"
-                },
-                "mimeType": "image/jpeg",
-                "size": 53949
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1006,
-                "height": 254
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mv63fdqzm2ee",
-          "rkey": "3mv63fdqzm2ee"
-        }
-      ]
-    },
-    "truth:117246811740992892": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41671",
-      "source_text": "<p><span class=\"quote-inline\"><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647</span></p>",
-      "published": "Thu, 10 Sep 2026 12:46:08 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-10T15:36:07.462609Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41671",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647",
-      "media_identity": "attachment:117246811740992892:b5f455a43eae2f92.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647",
-      "truth_social_id": "117246811740992892",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647"
-    },
     "truth:117246831473522530": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17507,6 +17427,78 @@
         {
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs4n3d4p23z",
           "rkey": "3mxs4n3d4p23z"
+        }
+      ]
+    },
+    "truth:117435868809210676": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42312",
+      "source_text": "<p>Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fantastic Warrior and Advocate for everything that is important for Alaska, and Bernadette Wilson, who is running for Governor, unfortunately, against two lesser Candidates, who she beat in the Primary, making it difficult in that three Republicans are running against one weak, Radical Left Dumocrat, but threesomes always make it hard to win — Very unfair! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 22:05:50 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-13T23:55:49.492541Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42312",
+      "first_seen": "2026-10-13T23:25:42.808940Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fan",
+      "truth_social_id": "117435868809210676",
+      "source_fingerprint": "fp:Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fan",
+      "media_identity": "attachment:117435868809210676:",
+      "translation": "アラスカに向かい、ワシントンで最高かつ最も尊敬される上院議員の一人であるダン・サリヴァン上院議員、アラスカにとって重要なすべてのもののための素晴らしい戦士であり擁護者であるニック・ベジッチ下院議員、そして知事選に出馬するバーナデット・ウィルソンのために大規模な集会を開く。残念なことに、彼女は予備選で打ち負かした二人の劣った候補者に対して走っており、三人の共和党員が一人の弱々しく急進的左派のダモクラット（民主党員）に対抗して走っているため状況を難しくしており、しかし三人での対決は常に勝つのを難しくするのだ — 非常に不公正である！ドナルド・J・トランプ大統領",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs24bpthszp",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mxs24bpthszp",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "アラスカに向かい、ワシントンで最高かつ最も尊敬される上院議員の一人であるダン・サリヴァン上院議員、アラスカにとって重要なすべてのもののための素晴らしい戦士であり擁護者であるニック・ベジッチ下院議員、そして知事選に出馬するバーナデット・ウィルソンのために大規模な集会を開く。残念なことに、彼女は予備選で打ち負かした二人の劣った候補者に対して走っており、三人の共和党員が一人の弱々しく急進的左派のダモクラット（民主党員）に対抗して走っているため状況を難しくしており、しかし三人での対決は常に勝つのを難しくするのだ — 非常に不公正である！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-10-13T23:55:42.541652Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs24bpthszp",
+          "rkey": "3mxs24bpthszp"
+        }
+      ]
+    },
+    "truth:117435782267938403": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42311",
+      "source_text": "<p>How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP herself, and has ZERO credibility? Any decision will be appealed by her mere presence on this case. The stench of Letitia James will greatly add to the anguish that everybody feels in viewing how this case is being handled. The Governor should take James off this case, IMMEDIATELY, and replace her with somebody who is not a Third Rate, Crooked Politician! President DONALD J. TRUMP</p>",
+      "published": "Tue, 13 Oct 2026 21:43:50 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-14T00:01:05.433640Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42311",
+      "first_seen": "2026-10-13T23:25:42.227530Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP h",
+      "truth_social_id": "117435782267938403",
+      "source_fingerprint": "fp:How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP h",
+      "media_identity": "attachment:117435782267938403:",
+      "translation": "「ニューヨーク州司法長官」レティーシャ・ジェームスが、汚い嫌らしい警察官であり、信用がゼロである自分自身が、コーネル大学の強姦スキャンダルを調査することを許されるだろうか？彼女の単なる関与により、あらゆる決定が上訴されるだろう。レティーシャ・ジェームスの悪臭は、このケースがどのように処理されているかを見ることで誰もが感じている苦悩を大きく増加させるだろう。知事は、ジェームスをこのケースから直ちに外し、三流で腐った政治家ではない誰かと彼女を交代させるべきだ！大統領ドナルド・J・トランプ",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxryuwew22oh",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mxryuwew22oh",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "「ニューヨーク州司法長官」レティーシャ・ジェームスが、汚い嫌らしい警察官であり、信用がゼロである自分自身が、コーネル大学の強姦スキャンダルを調査することを許されるだろうか？彼女の単なる関与により、あらゆる決定が上訴されるだろう。レティーシャ・ジェームスの悪臭は、このケースがどのように処理されているかを見ることで誰もが感じている苦悩を大きく増加させるだろう。知事は、ジェームスをこのケースから直ちに外し、三流で腐った政治家ではない誰かと彼女を交代させるべきだ！大統領ドナルド・J・トランプ",
+        "createdAt": "2026-10-13T23:50:43.731323Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxryuwew22oh",
+          "rkey": "3mxryuwew22oh"
         }
       ]
     },
@@ -34483,152 +34475,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-13T11:56:23.240481Z"
-    },
-    "truth:117435782267938403": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42311",
-      "source_text": "<p>How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP herself, and has ZERO credibility? Any decision will be appealed by her mere presence on this case. The stench of Letitia James will greatly add to the anguish that everybody feels in viewing how this case is being handled. The Governor should take James off this case, IMMEDIATELY, and replace her with somebody who is not a Third Rate, Crooked Politician! President DONALD J. TRUMP</p>",
-      "published": "Tue, 13 Oct 2026 21:43:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-13T23:50:50.205527Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42311",
-      "first_seen": "2026-10-13T23:25:42.227530Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP h",
-      "truth_social_id": "117435782267938403",
-      "source_fingerprint": "fp:How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP h",
-      "media_identity": "attachment:117435782267938403:",
-      "translation": "「ニューヨーク州司法長官」レティーシャ・ジェームスが、汚い嫌らしい警察官であり、信用がゼロである自分自身が、コーネル大学の強姦スキャンダルを調査することを許されるだろうか？彼女の単なる関与により、あらゆる決定が上訴されるだろう。レティーシャ・ジェームスの悪臭は、このケースがどのように処理されているかを見ることで誰もが感じている苦悩を大きく増加させるだろう。知事は、ジェームスをこのケースから直ちに外し、三流で腐った政治家ではない誰かと彼女を交代させるべきだ！大統領ドナルド・J・トランプ",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxryuwew22oh",
-          "cid": "bafyreiduczejxwjb2omboj4j5vwl5zszq6x2cbju353wol7inc3b6x7ylm"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxryuwew22oh",
-          "cid": "bafyreiduczejxwjb2omboj4j5vwl5zszq6x2cbju353wol7inc3b6x7ylm"
-        },
-        "next_index": 1,
-        "last_rkey": "3mxryuwew22oh",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "「ニューヨーク州司法長官」レティーシャ・ジェームスが、汚い嫌らしい警察官であり、信用がゼロである自分自身が、コーネル大学の強姦スキャンダルを調査することを許されるだろうか？彼女の単なる関与により、あらゆる決定が上訴されるだろう。レティーシャ・ジェームスの悪臭は、このケースがどのように処理されているかを見ることで誰もが感じている苦悩を大きく増加させるだろう。知事は、ジェームスをこのケースから直ちに外し、三流で腐った政治家ではない誰かと彼女を交代させるべきだ！大統領ドナルド・J・トランプ",
-          "createdAt": "2026-10-13T23:50:43.731323Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mxryuwew22oh",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "「ニューヨーク州司法長官」レティーシャ・ジェームスが、汚い嫌らしい警察官であり、信用がゼロである自分自身が、コーネル大学の強姦スキャンダルを調査することを許されるだろうか？彼女の単なる関与により、あらゆる決定が上訴されるだろう。レティーシャ・ジェームスの悪臭は、このケースがどのように処理されているかを見ることで誰もが感じている苦悩を大きく増加させるだろう。知事は、ジェームスをこのケースから直ちに外し、三流で腐った政治家ではない誰かと彼女を交代させるべきだ！大統領ドナルド・J・トランプ",
-          "createdAt": "2026-10-13T23:50:43.731323Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxryuwew22oh",
-            "rkey": "3mxryuwew22oh"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxryuwew22oh",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxryuwew22oh",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "「ニューヨーク州司法長官」レティーシャ・ジェームスが、汚い嫌らしい警察官であり、信用がゼロである自分自身が、コーネル大学の強姦スキャンダルを調査することを許されるだろうか？彼女の単なる関与により、あらゆる決定が上訴されるだろう。レティーシャ・ジェームスの悪臭は、このケースがどのように処理されているかを見ることで誰もが感じている苦悩を大きく増加させるだろう。知事は、ジェームスをこのケースから直ちに外し、三流で腐った政治家ではない誰かと彼女を交代させるべきだ！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-10-13T23:50:43.731323Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxryuwew22oh",
-          "rkey": "3mxryuwew22oh"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-13T23:55:50.205544Z"
-    },
-    "truth:117435868809210676": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42312",
-      "source_text": "<p>Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fantastic Warrior and Advocate for everything that is important for Alaska, and Bernadette Wilson, who is running for Governor, unfortunately, against two lesser Candidates, who she beat in the Primary, making it difficult in that three Republicans are running against one weak, Radical Left Dumocrat, but threesomes always make it hard to win — Very unfair! President DONALD J. TRUMP</p>",
-      "published": "Tue, 13 Oct 2026 22:05:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-13T23:55:49.492541Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42312",
-      "first_seen": "2026-10-13T23:25:42.808940Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fan",
-      "truth_social_id": "117435868809210676",
-      "source_fingerprint": "fp:Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fan",
-      "media_identity": "attachment:117435868809210676:",
-      "translation": "アラスカに向かい、ワシントンで最高かつ最も尊敬される上院議員の一人であるダン・サリヴァン上院議員、アラスカにとって重要なすべてのもののための素晴らしい戦士であり擁護者であるニック・ベジッチ下院議員、そして知事選に出馬するバーナデット・ウィルソンのために大規模な集会を開く。残念なことに、彼女は予備選で打ち負かした二人の劣った候補者に対して走っており、三人の共和党員が一人の弱々しく急進的左派のダモクラット（民主党員）に対抗して走っているため状況を難しくしており、しかし三人での対決は常に勝つのを難しくするのだ — 非常に不公正である！ドナルド・J・トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs24bpthszp",
-          "cid": "bafyreietegmnin5csuntxfu6ph52ykobav43vitvseffrqh37bjnetblse"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs24bpthszp",
-          "cid": "bafyreietegmnin5csuntxfu6ph52ykobav43vitvseffrqh37bjnetblse"
-        },
-        "next_index": 1,
-        "last_rkey": "3mxs24bpthszp",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "アラスカに向かい、ワシントンで最高かつ最も尊敬される上院議員の一人であるダン・サリヴァン上院議員、アラスカにとって重要なすべてのもののための素晴らしい戦士であり擁護者であるニック・ベジッチ下院議員、そして知事選に出馬するバーナデット・ウィルソンのために大規模な集会を開く。残念なことに、彼女は予備選で打ち負かした二人の劣った候補者に対して走っており、三人の共和党員が一人の弱々しく急進的左派のダモクラット（民主党員）に対抗して走っているため状況を難しくしており、しかし三人での対決は常に勝つのを難しくするのだ — 非常に不公正である！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-10-13T23:55:42.541652Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mxs24bpthszp",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "アラスカに向かい、ワシントンで最高かつ最も尊敬される上院議員の一人であるダン・サリヴァン上院議員、アラスカにとって重要なすべてのもののための素晴らしい戦士であり擁護者であるニック・ベジッチ下院議員、そして知事選に出馬するバーナデット・ウィルソンのために大規模な集会を開く。残念なことに、彼女は予備選で打ち負かした二人の劣った候補者に対して走っており、三人の共和党員が一人の弱々しく急進的左派のダモクラット（民主党員）に対抗して走っているため状況を難しくしており、しかし三人での対決は常に勝つのを難しくするのだ — 非常に不公正である！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-10-13T23:55:42.541652Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs24bpthszp",
-            "rkey": "3mxs24bpthszp"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs24bpthszp",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxs24bpthszp",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "アラスカに向かい、ワシントンで最高かつ最も尊敬される上院議員の一人であるダン・サリヴァン上院議員、アラスカにとって重要なすべてのもののための素晴らしい戦士であり擁護者であるニック・ベジッチ下院議員、そして知事選に出馬するバーナデット・ウィルソンのために大規模な集会を開く。残念なことに、彼女は予備選で打ち負かした二人の劣った候補者に対して走っており、三人の共和党員が一人の弱々しく急進的左派のダモクラット（民主党員）に対抗して走っているため状況を難しくしており、しかし三人での対決は常に勝つのを難しくするのだ — 非常に不公正である！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-13T23:55:42.541652Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs24bpthszp",
-          "rkey": "3mxs24bpthszp"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-14T00:00:49.492554Z"
     },
     "truth:117435878855345862": {
       "post_status": "RETRY",
