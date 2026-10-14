@@ -34698,13 +34698,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T10:45:47.658692Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T10:50:40.074431Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34863,14 +34863,20 @@
       "next_retry_at": "2026-10-14T10:55:40.536531Z"
     },
     "truth:117437597137000936": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42336",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18514/7265835d5c66df41-23a6ddd73729.mov\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 05:25:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-14T07:25:38.205896Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42336"
+      "retry_count": 1,
+      "updated_at": "2026-10-14T10:50:44.053637Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42336",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18514/7265835d5c66df41-23a6ddd73729.mov",
+      "media_identity": "attachment:117437597137000936:7265835d5c66df41-23a6ddd73729.mov",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 330.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/418/143/559/724/original/7265835d5c66df41.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18514/7265835d5c66df41-23a6ddd73729.mov",
+      "truth_social_id": "117437597137000936",
+      "next_retry_at": "2026-10-14T10:55:44.053655Z"
     },
     "truth:117437640229772482": {
       "post_status": "DISCOVERED",
