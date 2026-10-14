@@ -34544,6 +34544,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18498/d25162fe6a702bba-78c422afbdf2.mov",
       "truth_social_id": "117436230839875415",
       "next_retry_at": "2026-10-14T01:45:39.998512Z"
+    },
+    "truth:117437094956438218": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42322",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18501/6e053fd225686557-9f3243f551f6.mp4\">View video</a></p>",
+      "published": "Wed, 14 Oct 2026 03:17:40 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-14T03:25:38.774896Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42322",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18501/6e053fd225686557-9f3243f551f6.mp4",
+      "media_identity": "attachment:117437094956438218:6e053fd225686557.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/090/932/516/040/original/6e053fd225686557.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18501/6e053fd225686557-9f3243f551f6.mp4",
+      "truth_social_id": "117437094956438218",
+      "next_retry_at": "2026-10-14T03:30:38.774910Z"
     }
   }
 }
