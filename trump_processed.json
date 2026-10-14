@@ -34781,14 +34781,21 @@
       "next_retry_at": "2026-10-14T07:10:41.319159Z"
     },
     "truth:117437575496539011": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/42332",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18510/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 05:19:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-14T05:25:36.813276Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42332"
+      "retry_count": 1,
+      "updated_at": "2026-10-14T07:05:47.257110Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42332",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18510/browser-safe.mp4",
+      "media_identity": "attachment:117437575496539011:270342b10e9305aa-b26a95783c83.mov",
+      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"das0ghchembs73980fk0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18510/browser-safe.mp4",
+      "truth_social_id": "117437575496539011",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-10-14T07:10:47.257127Z"
     },
     "truth:117437575966465465": {
       "post_status": "DISCOVERED",
