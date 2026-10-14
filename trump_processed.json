@@ -34881,13 +34881,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T23:50:51.846393Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T23:55:41.738905Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35192,14 +35192,20 @@
       "next_retry_at": "2026-10-14T16:10:41.697946Z"
     },
     "truth:117441698269818123": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42359",
       "source_text": "<p>I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you soon! President DONALD J. TRUMP</p>",
       "published": "Wed, 14 Oct 2026 22:48:21 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-14T23:25:38.448341Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42359"
+      "retry_count": 1,
+      "updated_at": "2026-10-14T23:55:43.300687Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42359",
+      "first_seen": "2026-10-14T23:55:43.300646Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you ",
+      "next_retry_at": "2026-10-15T00:00:43.300694Z",
+      "truth_social_id": "117441698269818123"
     }
   }
 }
