@@ -4157,24 +4157,12 @@
     "https://www.trumpstruth.org/statuses/42327",
     "fp:Democrats are banking on voters forgetting how terrible they are: \nhttps://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters",
     "truth:117437808637530181",
-    "https://www.trumpstruth.org/statuses/42349"
+    "https://www.trumpstruth.org/statuses/42349",
+    "fp:Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': \nhttps://justthenews.com/government/courts-law/democrat",
+    "truth:117439106238163149",
+    "https://www.trumpstruth.org/statuses/42354"
   ],
   "posts": {
-    "truth:117253911992549646": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41690",
-      "source_text": "<p></p>",
-      "published": "Fri, 11 Sep 2026 18:51:49 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-11T20:21:30.819325Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41690",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117253911992549646:7c588eeb9c8cfb2e-5582a5f77742.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117253911992549646",
-      "translation": ""
-    },
     "truth:117253978301857789": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17570,6 +17558,24 @@
           "rkey": "3mxsvofwrskw3"
         }
       ]
+    },
+    "truth:117439106238163149": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42354",
+      "source_text": "<p>Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': <a href=\"https://justthenews.com/government/courts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization</span></a></p>",
+      "published": "Wed, 14 Oct 2026 11:49:09 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-14T18:20:46.660671Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42354",
+      "first_seen": "2026-10-14T16:15:42.102496Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': \nhttps://justthenews.com/government/courts-law/democrat",
+      "truth_social_id": "117439106238163149",
+      "source_fingerprint": "fp:Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': \nhttps://justthenews.com/government/courts-law/democrat",
+      "media_identity": "attachment:117439106238163149:",
+      "translation": "民主党員は2022年のマー・ア・ラゴ強制捜査を歓声で迎えたが、今はオマルの自宅捜査を「権力の濫用」と呼んでいる：\nhttps://justthenews.com/government/courts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34754,13 +34760,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T18:16:02.916530Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T18:20:42.099774Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35063,22 +35069,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18524/a796408c7c59e7c1-3e6e373457f6.mov",
       "truth_social_id": "117437777341803533",
       "next_retry_at": "2026-10-14T16:10:41.697946Z"
-    },
-    "truth:117439106238163149": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42354",
-      "source_text": "<p>Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': <a href=\"https://justthenews.com/government/courts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization</span></a></p>",
-      "published": "Wed, 14 Oct 2026 11:49:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-14T17:00:45.698308Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42354",
-      "first_seen": "2026-10-14T16:15:42.102496Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': \nhttps://justthenews.com/government/courts-law/democrat",
-      "next_retry_at": "2026-10-14T17:10:45.698320Z",
-      "truth_social_id": "117439106238163149"
     },
     "truth:117439109117320192": {
       "post_status": "RETRY",
