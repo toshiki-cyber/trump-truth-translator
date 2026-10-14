@@ -4175,62 +4175,12 @@
     "https://www.trumpstruth.org/statuses/42351",
     "fp:I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History— The Alaska LNG Project. This 50 Billion Dollar Infrastruct",
     "truth:117440207836405365",
-    "https://www.trumpstruth.org/statuses/42355"
+    "https://www.trumpstruth.org/statuses/42355",
+    "fp:ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary H",
+    "truth:117440248541514637",
+    "https://www.trumpstruth.org/statuses/42356"
   ],
   "posts": {
-    "truth:117256041596508411": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41698",
-      "source_text": "<p></p>",
-      "published": "Sat, 12 Sep 2026 03:53:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-12T04:41:27.496306Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41698",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117256041596508411:4f8265ba2c7f16fe.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117256041596508411",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvc6mdehc2pt",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mvc6mdehc2pt",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-12T04:35:59.957581Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicuh5eysj6yxd7ru3hu4bnbrdhl5o3gcc3xec2o7hebnajwx5637m"
-                },
-                "mimeType": "image/jpeg",
-                "size": 264502
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1447,
-                "height": 709
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvc6mdehc2pt",
-          "rkey": "3mvc6mdehc2pt"
-        }
-      ]
-    },
     "truth:117257273512193853": {
       "post_status": "POSTED",
       "media_state": "INVALID",
@@ -17645,6 +17595,24 @@
       "source_fingerprint": "fp:I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History— The Alaska LNG Project. This 50 Billion Dollar Infrastruct",
       "media_identity": "attachment:117440207836405365:",
       "translation": "アラスカ州の歴史上最大のエネルギーインフラプロジェクトであるアラスカLNGプロジェクトを立ち上げるためアラスカに行ってきた。この500億ドルのインフラ投資は大韓民国からのもので、私との貿易・投資取引の一部である。本日、私の商務長官ハワード・ルトニックが、台湾からのアラスカLNGに対する700億～800億ドルの引き取り契約を確保したことを発表する。これはパイプラインの30％を今後20年間にわたるものだ。これは歴史上最大の引き取り契約である。さらに台湾は、本プロジェクトがいまや米国連邦政府プロジェクトとなり、必要なすべての許認可が確保され、すべての必要な認可が下りており、実行準備完了であるため、プロジェクトへの44億ドルのエクイティ投資を行うことに同意した。これはアラスカ州の歴史上最大のプロジェクトであり、このようなことが起こるのは私がホワイトハウスにいるときだけである。この件への皆様のご注視をありがとう。ドナルド・J・トランプ大統領"
+    },
+    "truth:117440248541514637": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42356",
+      "source_text": "<p>ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!</p><p>Today, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary Howard Lutnick announced a MASSIVE 21 BILLION INVESTMENT to build 2 giant new Semiconductor Manufacturing Facilities in Malta, New York.</p><p>This DEAL will create 27,000 high paying Construction and Supply Chain Jobs and over 1,000 additional highly skilled Manufacturing Jobs in New York.</p><p>Under my direction, JAPAN WILL PROVIDE THE CAPITAL for the 21 Billion Dollar Investment. This DEAL is a result of my HISTORIC TRADE DEALS to REVITALIZE the American Industrial Base, create HUNDREDS OF THOUSANDS OF GREAT AMERICAN JOBS, and strengthen our National and Economic Security.</p><p>We are turning the Investment commitments from Japan, Korea and Taiwan into HUGE Construction Projects. These are TRANSFORMATIONAL AND GENERATIONAL DEALS FOR AMERICA — More Semiconductors, more Power, more Energy Security, and more Jobs for the U.S.A.</p><p>As I showed with our massive WIN with INTEL, my Administration's Commerce Department is the first to ever earn money for America.  I am announcing an additional agreement with GlobalFoundries where the U.S. Taxpayer will receive shares in GlobalFoundries. My Commerce Department will invest 955 Million Dollars in Silicon Photonics, Silicon Germanium, and Advanced Packaging. This brings our total Investments to 1.63 Billion Dollars, and now, the U.S. Government’s stake is worth over 2 Billion Dollars. We are the first Administration ever to turn Grants into money for America. Your great Businessman President running the Greatest Economy in the World — AN ALL-AROUND HUGE WIN FOR AMERICA! President DONALD J. TRUMP</p>",
+      "published": "Wed, 14 Oct 2026 16:39:39 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-14T20:45:50.989445Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42356",
+      "first_seen": "2026-10-14T19:25:38.229167Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary H",
+      "truth_social_id": "117440248541514637",
+      "source_fingerprint": "fp:ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary H",
+      "media_identity": "attachment:117440248541514637:",
+      "translation": "アメリカへの巨大な210億ドル投資がまた決定した！\n\n本日、私の指導下において、グローバルファウンドリーズと私の商務省（ハワード・ルトニック長官率いる）が、ニューヨーク州マルタに2つの巨大な半導体製造施設を建設するための巨大な210億ドルの投資を発表した。\n\nこのディールはニューヨーク州で27,000の高給建設・サプライチェーン雇用と1,000以上の熟練製造業雇用を創出する。\n\n私の指示の下で、日本が210億ドル投資の資本を提供する。このディールは、アメリカの産業基盤を復興させ、数十万の素晴らしいアメリカ雇用を創出し、我が国の安全保障と経済安全保障を強化するという私の歴史的な通商ディールの成果である。\n\n日本、韓国、台湾からの投資コミットメントを巨大な建設プロジェクトに転換している。これらはアメリカにとって変革的で世代を超えたディールである——より多くの半導体、より強大な力、より充実したエネルギー安全保障、そしてアメリカのためのより多くの雇用。\n\nインテルとの巨大な勝利で示したように、私の政権の商務省は、アメリカのために金を稼いだ最初の政府である。グローバルファウンドリーズとの追加協定を発表する。この協定では、米国納税者がグローバルファウンドリーズの株式を受け取る。私の商務省はシリコン・フォトニクス、シリコン・ゲルマニウム、および先端パッケージング技術に9億5,500万ドルを投資する。これにより総投資額は16億3,000万ドルになり、米国政府の株式価値は20億ドルを超えている。助成金を金に変えた最初の政権は私たちである。世界最高の経済を運営する素晴らしいビジネスマン大統領——アメリカにとって全面的に巨大な勝利である！ドナルド・J・トランプ大統領"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34829,13 +34797,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T20:40:44.978948Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-14T20:45:41.860277Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35138,22 +35106,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18524/a796408c7c59e7c1-3e6e373457f6.mov",
       "truth_social_id": "117437777341803533",
       "next_retry_at": "2026-10-14T16:10:41.697946Z"
-    },
-    "truth:117440248541514637": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42356",
-      "source_text": "<p>ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!</p><p>Today, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary Howard Lutnick announced a MASSIVE 21 BILLION INVESTMENT to build 2 giant new Semiconductor Manufacturing Facilities in Malta, New York.</p><p>This DEAL will create 27,000 high paying Construction and Supply Chain Jobs and over 1,000 additional highly skilled Manufacturing Jobs in New York.</p><p>Under my direction, JAPAN WILL PROVIDE THE CAPITAL for the 21 Billion Dollar Investment. This DEAL is a result of my HISTORIC TRADE DEALS to REVITALIZE the American Industrial Base, create HUNDREDS OF THOUSANDS OF GREAT AMERICAN JOBS, and strengthen our National and Economic Security.</p><p>We are turning the Investment commitments from Japan, Korea and Taiwan into HUGE Construction Projects. These are TRANSFORMATIONAL AND GENERATIONAL DEALS FOR AMERICA — More Semiconductors, more Power, more Energy Security, and more Jobs for the U.S.A.</p><p>As I showed with our massive WIN with INTEL, my Administration's Commerce Department is the first to ever earn money for America.  I am announcing an additional agreement with GlobalFoundries where the U.S. Taxpayer will receive shares in GlobalFoundries. My Commerce Department will invest 955 Million Dollars in Silicon Photonics, Silicon Germanium, and Advanced Packaging. This brings our total Investments to 1.63 Billion Dollars, and now, the U.S. Government’s stake is worth over 2 Billion Dollars. We are the first Administration ever to turn Grants into money for America. Your great Businessman President running the Greatest Economy in the World — AN ALL-AROUND HUGE WIN FOR AMERICA! President DONALD J. TRUMP</p>",
-      "published": "Wed, 14 Oct 2026 16:39:39 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-14T20:15:41.430542Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42356",
-      "first_seen": "2026-10-14T19:25:38.229167Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary H",
-      "next_retry_at": "2026-10-14T20:25:41.430555Z",
-      "truth_social_id": "117440248541514637"
     },
     "truth:117440852087340473": {
       "post_status": "RETRY",
