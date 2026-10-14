@@ -34704,7 +34704,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-14T08:30:40.822648Z",
+      "updated_at": "2026-10-14T08:35:37.696371Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34830,14 +34830,20 @@
       "next_retry_at": "2026-10-14T08:25:43.261826Z"
     },
     "truth:117437585370714227": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42338",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18516/980d51883d6513da-0b507b6f5862.mov\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 05:22:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-14T07:25:38.206184Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42338"
+      "retry_count": 1,
+      "updated_at": "2026-10-14T08:35:42.651266Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42338",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18516/980d51883d6513da-0b507b6f5862.mov",
+      "media_identity": "attachment:117437585370714227:980d51883d6513da-0b507b6f5862.mov",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 360.3MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/437/355/185/369/691/original/980d51883d6513da.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18516/980d51883d6513da-0b507b6f5862.mov",
+      "truth_social_id": "117437585370714227",
+      "next_retry_at": "2026-10-14T08:40:42.651285Z"
     },
     "truth:117437596490163622": {
       "post_status": "DISCOVERED",
