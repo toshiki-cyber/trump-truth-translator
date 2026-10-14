@@ -4178,62 +4178,12 @@
     "https://www.trumpstruth.org/statuses/42355",
     "fp:ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary H",
     "truth:117440248541514637",
-    "https://www.trumpstruth.org/statuses/42356"
+    "https://www.trumpstruth.org/statuses/42356",
+    "fp:https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
+    "truth:117440852087340473",
+    "https://www.trumpstruth.org/statuses/42357"
   ],
   "posts": {
-    "truth:117257273512193853": {
-      "post_status": "POSTED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41699",
-      "source_text": "<p>Such a great golfer. Too bad I have very little time to play!!!</p>",
-      "published": "Sat, 12 Sep 2026 09:06:42 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-12T10:31:07.807138Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41699",
-      "source_fingerprint": "fp:Such a great golfer. Too bad I have very little time to play!!!",
-      "media_identity": "attachment:117257273512193853:b53a5f0680834206-4fe4c58a4f1e.mov",
-      "failure_reason": null,
-      "fingerprint": "fp:Such a great golfer. Too bad I have very little time to play!!!",
-      "truth_social_id": "117257273512193853",
-      "allow_text_fallback": true,
-      "fallback_policy_version": 1,
-      "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"daf06uesg45s73c4cteg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
-      "translation": "こんな素晴らしいゴルファーだ。残念ながら僕は本当にプレーする時間が少ないんだ!!!",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvcq4k3vvk3w",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvcq4k3vvk3w",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "こんな素晴らしいゴルファーだ。残念ながら僕は本当にプレーする時間が少ないんだ!!!\n\n動画はこちら：https://truthsocial.com/@realDonaldTrump/posts/117257273512193853",
-        "createdAt": "2026-09-12T10:21:27.132619Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 140,
-              "byteEnd": 205
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/@realDonaldTrump/posts/117257273512193853"
-              }
-            ]
-          }
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvcq4k3vvk3w",
-          "rkey": "3mvcq4k3vvk3w"
-        }
-      ]
-    },
     "truth:117246836238536386": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17613,6 +17563,66 @@
       "source_fingerprint": "fp:ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!\nToday, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary H",
       "media_identity": "attachment:117440248541514637:",
       "translation": "アメリカへの巨大な210億ドル投資がまた決定した！\n\n本日、私の指導下において、グローバルファウンドリーズと私の商務省（ハワード・ルトニック長官率いる）が、ニューヨーク州マルタに2つの巨大な半導体製造施設を建設するための巨大な210億ドルの投資を発表した。\n\nこのディールはニューヨーク州で27,000の高給建設・サプライチェーン雇用と1,000以上の熟練製造業雇用を創出する。\n\n私の指示の下で、日本が210億ドル投資の資本を提供する。このディールは、アメリカの産業基盤を復興させ、数十万の素晴らしいアメリカ雇用を創出し、我が国の安全保障と経済安全保障を強化するという私の歴史的な通商ディールの成果である。\n\n日本、韓国、台湾からの投資コミットメントを巨大な建設プロジェクトに転換している。これらはアメリカにとって変革的で世代を超えたディールである——より多くの半導体、より強大な力、より充実したエネルギー安全保障、そしてアメリカのためのより多くの雇用。\n\nインテルとの巨大な勝利で示したように、私の政権の商務省は、アメリカのために金を稼いだ最初の政府である。グローバルファウンドリーズとの追加協定を発表する。この協定では、米国納税者がグローバルファウンドリーズの株式を受け取る。私の商務省はシリコン・フォトニクス、シリコン・ゲルマニウム、および先端パッケージング技術に9億5,500万ドルを投資する。これにより総投資額は16億3,000万ドルになり、米国政府の株式価値は20億ドルを超えている。助成金を金に変えた最初の政権は私たちである。世界最高の経済を運営する素晴らしいビジネスマン大統領——アメリカにとって全面的に巨大な勝利である！ドナルド・J・トランプ大統領"
+    },
+    "truth:117440852087340473": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42357",
+      "source_text": "<p><a href=\"https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/3bbk6X8FoJE?s</span><span class=\"invisible\">i=zhVgVgfpgzuu_rTi</span></a></p>",
+      "published": "Wed, 14 Oct 2026 19:13:09 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-14T20:55:50.876324Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42357",
+      "first_seen": "2026-10-14T19:25:38.678369Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
+      "truth_social_id": "117440852087340473",
+      "source_fingerprint": "fp:https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
+      "media_identity": "attachment:117440852087340473:",
+      "translation": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxuawfxje2bn",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mxuawfxje2bn",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
+        "createdAt": "2026-10-14T20:55:43.826625Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 60
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
+            "title": "- YouTube",
+            "description": ""
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxuawfxje2bn",
+          "rkey": "3mxuawfxje2bn"
+        }
+      ]
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34797,13 +34807,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-14T21:00:41.001338Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-14T21:05:47.818059Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34811,7 +34821,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "truth_social_id": "117437320767757116",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-14T20:55:49.287691Z"
+      "next_retry_at": "2026-10-14T21:10:47.818079Z"
     },
     "truth:117437345548758242": {
       "post_status": "RETRY",
@@ -35106,151 +35116,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18524/a796408c7c59e7c1-3e6e373457f6.mov",
       "truth_social_id": "117437777341803533",
       "next_retry_at": "2026-10-14T16:10:41.697946Z"
-    },
-    "truth:117440852087340473": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42357",
-      "source_text": "<p><a href=\"https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/3bbk6X8FoJE?s</span><span class=\"invisible\">i=zhVgVgfpgzuu_rTi</span></a></p>",
-      "published": "Wed, 14 Oct 2026 19:13:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T20:55:50.876324Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42357",
-      "first_seen": "2026-10-14T19:25:38.678369Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-      "truth_social_id": "117440852087340473",
-      "source_fingerprint": "fp:https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-      "media_identity": "attachment:117440852087340473:",
-      "translation": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxuawfxje2bn",
-          "cid": "bafyreia3b6fp46e4xi2jfqaijqx6cxp7uflidu5xlqndvucr7lgzx6zz6a"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxuawfxje2bn",
-          "cid": "bafyreia3b6fp46e4xi2jfqaijqx6cxp7uflidu5xlqndvucr7lgzx6zz6a"
-        },
-        "next_index": 1,
-        "last_rkey": "3mxuawfxje2bn",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-          "createdAt": "2026-10-14T20:55:43.826625Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 60
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-              "title": "- YouTube",
-              "description": ""
-            }
-          }
-        },
-        "root_rkey": "3mxuawfxje2bn",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-          "createdAt": "2026-10-14T20:55:43.826625Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 60
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-              "title": "- YouTube",
-              "description": ""
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxuawfxje2bn",
-            "rkey": "3mxuawfxje2bn"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxuawfxje2bn",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxuawfxje2bn",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-        "createdAt": "2026-10-14T20:55:43.826625Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 60
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.youtube.com/live/3bbk6X8FoJE?si=zhVgVgfpgzuu_rTi",
-            "title": "- YouTube",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxuawfxje2bn",
-          "rkey": "3mxuawfxje2bn"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-14T21:00:50.876344Z"
     }
   }
 }
