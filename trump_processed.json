@@ -4235,45 +4235,12 @@
     "https://www.trumpstruth.org/statuses/42374",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4",
     "truth:117445467010481436",
-    "https://www.trumpstruth.org/statuses/42373"
+    "https://www.trumpstruth.org/statuses/42373",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4",
+    "truth:117445800565005016",
+    "https://www.trumpstruth.org/statuses/42376"
   ],
   "posts": {
-    "truth:117270114981057392": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41715",
-      "source_text": "<p>The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Mon, 14 Sep 2026 15:32:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-14T17:16:00.992940Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41715",
-      "first_seen": "2026-09-14T16:31:07.338924Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of ",
-      "truth_social_id": "117270114981057392",
-      "source_fingerprint": "fp:The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of ",
-      "media_identity": "attachment:117270114981057392:",
-      "translation": "イラン衰退国家が急いで、そして必死に取引をしたいと望んでいる。米国が関与することを選ぶかどうかを決めるのは私だ―その概念については我々はオープンである。このことにご注目いただきありがとうございます！大統領ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvigm62tqs32",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvigm62tqs32",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "イラン衰退国家が急いで、そして必死に取引をしたいと望んでいる。米国が関与することを選ぶかどうかを決めるのは私だ―その概念については我々はオープンである。このことにご注目いただきありがとうございます！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-09-14T17:06:01.629484Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvigm62tqs32",
-          "rkey": "3mvigm62tqs32"
-        }
-      ]
-    },
     "truth:117270313550921566": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17622,6 +17589,22 @@
           "rkey": "3mxwcizwl7sfv"
         }
       ]
+    },
+    "truth:117445800565005016": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42376",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4\">View video</a></p>",
+      "published": "Thu, 15 Oct 2026 16:11:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T17:25:51.759831Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42376",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4",
+      "media_identity": "attachment:117445800565005016:c1f9d78793e0054d-6cc7399fc0fd.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4",
+      "truth_social_id": "117445800565005016",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34853,13 +34836,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T17:20:40.362305Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T17:25:36.142963Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35306,6 +35289,16 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-15T16:20:37.205444Z"
+    },
+    "truth:117445802849453813": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42377",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18545/49e2e807c990ed77-f8f20042cf6f.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42376\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 15 Oct 2026 16:12:11 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T17:25:36.140576Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42377"
     }
   }
 }
