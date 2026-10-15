@@ -34824,13 +34824,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-15T15:20:30.034411Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-15T15:25:40.376537Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34838,7 +34838,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "truth_social_id": "117437320767757116",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-15T15:20:40.654467Z"
+      "next_retry_at": "2026-10-15T15:30:40.376555Z"
     },
     "truth:117437345548758242": {
       "post_status": "RETRY",
@@ -35213,6 +35213,66 @@
       "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/445/085/909/554/391/original/d85c974d9b260f9e.mp4",
       "truth_social_id": "117445092838800174",
       "next_retry_at": "2026-10-15T13:50:35.294712Z"
+    },
+    "truth:117445238705160805": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42371",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18540/948f7dbf809e7097-823d9c1e4ad1.mp4\">View video</a></p>",
+      "published": "Thu, 15 Oct 2026 13:48:43 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T15:25:29.587253Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42371"
+    },
+    "truth:117445238986898595": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42370",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18539/bfecc31b0ebd6b7f-78830bda3131.mp4\">View video</a></p>",
+      "published": "Thu, 15 Oct 2026 13:48:48 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T15:25:29.587106Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42370"
+    },
+    "truth:117445309638266855": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42372",
+      "source_text": "<p>Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama’s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration’s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 15 Oct 2026 14:06:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T15:25:29.586965Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42372"
+    },
+    "truth:117445465162088586": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42375",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18543/9bb8bfb58c3684d7-6662fba9f7f5.mp4\">View video</a></p>",
+      "published": "Thu, 15 Oct 2026 14:46:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T15:25:29.586822Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42375"
+    },
+    "truth:117445466418139918": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42374",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4\">View video</a></p>",
+      "published": "Thu, 15 Oct 2026 14:46:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T15:25:29.586677Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42374"
+    },
+    "truth:117445467010481436": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42373",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4\">View video</a></p>",
+      "published": "Thu, 15 Oct 2026 14:46:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T15:25:29.586523Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42373"
     }
   }
 }
