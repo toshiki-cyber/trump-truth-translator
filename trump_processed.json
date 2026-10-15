@@ -34830,15 +34830,15 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
       "retry_count": 1,
-      "updated_at": "2026-10-15T17:00:51.727706Z",
+      "updated_at": "2026-10-15T17:06:56.599632Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
-      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 503): {\"did\":\"\",\"error\":\"Server does not have enough capacity to handle uploads, try again in a little bit\",\"jobId\":\"\",\"state\":\"\"}\n",
+      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"das15ir1tfmc73ecu0i0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "truth_social_id": "117437320767757116",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-15T17:05:51.727722Z"
+      "next_retry_at": "2026-10-15T17:11:56.599648Z"
     },
     "truth:117437345548758242": {
       "post_status": "RETRY",
