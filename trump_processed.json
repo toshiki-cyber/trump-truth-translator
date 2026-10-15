@@ -34819,13 +34819,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-15T19:50:31.496908Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-15T19:55:33.946577Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34833,7 +34833,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "truth_social_id": "117437320767757116",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-15T19:50:34.401657Z"
+      "next_retry_at": "2026-10-15T20:00:33.946593Z"
     },
     "truth:117437345548758242": {
       "post_status": "RETRY",
