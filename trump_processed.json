@@ -17601,7 +17601,7 @@
       "status_url": "https://www.trumpstruth.org/statuses/42328",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 04:15:05 +0000",
-      "updated_at": "2026-10-15T23:30:27.014745Z",
+      "updated_at": "2026-10-15T23:35:28.853051Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42345",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpReposted \nhttps://www.trumpstruth.org/statuses/42328https://truth-archive.us-iad-1.linodeobjects.com/attac",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f.mp4",
@@ -35288,14 +35288,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42379",
       "source_text": "<p>Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political Candidate (for any Office!), on Thursday, October 22nd, and Sunday, November 1st. The reason I’ll be there is to get truly fantastic Warriors elected, including Ashley Hinson for U.S. Senate, Zach Lahn for Governor, Mariannette Miller-Meeks for Iowa’s 1st Congressional District, Joe Mitchell for the 2nd District, Zach Nunn for the 3rd District, and Chris McGowan for the 4th District — They are all spectacular people, and have my Complete and Total Endorsement. I will see you on October 22nd, and again on November 1st, where we will have two spectacular Rallies honoring all of the above — and more. THANK YOU IOWA FOR YOUR GREAT SUPPORT — I WILL NEVER LET YOU DOWN, AND NEITHER WILL ANY OF OUR GREAT REPUBLICAN CANDIDATES! President DONALD J. TRUMP</p>",
       "published": "Thu, 15 Oct 2026 23:17:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T23:25:32.337852Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-15T23:35:29.347063Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42379",
       "first_seen": "2026-10-15T23:25:32.337814Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political",
-      "next_retry_at": "2026-10-15T23:30:32.337861Z",
+      "next_retry_at": "2026-10-15T23:45:29.347084Z",
       "truth_social_id": "117447474430342324"
     }
   }
