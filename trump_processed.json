@@ -4205,25 +4205,12 @@
     "https://www.trumpstruth.org/statuses/42364",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg",
     "truth:117443148049952515",
-    "https://www.trumpstruth.org/statuses/42363"
+    "https://www.trumpstruth.org/statuses/42363",
+    "fp:Gross Output Signals an Economic Surge: \nhttps://www.wsj.com/opinion/gross-output-signals-an-economic-surge-ee8e462ehttps://truth-archive.us-iad-1.lin",
+    "truth:117443188503232131",
+    "https://www.trumpstruth.org/statuses/42365"
   ],
   "posts": {
-    "truth:117266420132610360": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41707",
-      "source_text": "<p>First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On budget, and ahead of schedule! President DONALD J. TRUMP</p>",
-      "published": "Sun, 13 Sep 2026 23:52:48 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-14T04:51:08.740810Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41707",
-      "source_fingerprint": "fp:First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On bu",
-      "media_identity": "attachment:117266420132610360:508cdf7de37ba540.jpg,58931e3bb3e5fbed.jpg,efd63abb6ac2b100.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On bu",
-      "truth_social_id": "117266420132610360",
-      "translation": "ホワイトハウスの新しい壮大なボールルームの最初の内部レンダリング。非常に高額だが、アメリカの納税者は完全に無料。予算通り、予定より前倒しで完了！ドナルド・J・トランプ大統領"
-    },
     "truth:117266146923128186": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17608,6 +17595,22 @@
           "rkey": "3mxvbkimh4kwe"
         }
       ]
+    },
+    "truth:117443188503232131": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42365",
+      "source_text": "<p>Gross Output Signals an Economic Surge: <a href=\"https://www.wsj.com/opinion/gross-output-signals-an-economic-surge-ee8e462e\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/gross-output-s</span><span class=\"invisible\">ignals-an-economic-surge-ee8e462e</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18533/f44d97d4c14e7025-ffa559f986ea.jpg\">View image</a></p>",
+      "published": "Thu, 15 Oct 2026 05:07:20 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T06:35:42.322602Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42365",
+      "source_fingerprint": "fp:Gross Output Signals an Economic Surge: \nhttps://www.wsj.com/opinion/gross-output-signals-an-economic-surge-ee8e462ehttps://truth-archive.us-iad-1.lin",
+      "media_identity": "attachment:117443188503232131:f44d97d4c14e7025.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Gross Output Signals an Economic Surge: \nhttps://www.wsj.com/opinion/gross-output-signals-an-economic-surge-ee8e462ehttps://truth-archive.us-iad-1.lin",
+      "truth_social_id": "117443188503232131",
+      "translation": "総産出が経済急伸を示唆：\nhttps://www.wsj.com/opinion/gross-output-signals-an-economic-surge-ee8e462ehttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18533/f44d97d4c14e7025-ffa559f986ea.jpg"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34839,13 +34842,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T06:30:41.017121Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T06:35:36.730250Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35212,16 +35215,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-15T03:50:43.526899Z"
-    },
-    "truth:117443188503232131": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42365",
-      "source_text": "<p>Gross Output Signals an Economic Surge: <a href=\"https://www.wsj.com/opinion/gross-output-signals-an-economic-surge-ee8e462e\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/gross-output-s</span><span class=\"invisible\">ignals-an-economic-surge-ee8e462e</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18533/f44d97d4c14e7025-ffa559f986ea.jpg\">View image</a></p>",
-      "published": "Thu, 15 Oct 2026 05:07:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-15T05:25:39.115479Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42365"
     }
   }
 }
