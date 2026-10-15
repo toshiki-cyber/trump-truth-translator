@@ -34917,7 +34917,7 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
       "retry_count": 1,
-      "updated_at": "2026-10-15T05:20:35.422120Z",
+      "updated_at": "2026-10-15T05:25:45.452826Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -34925,7 +34925,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "truth_social_id": "117437320767757116",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-15T05:25:35.422141Z"
+      "next_retry_at": "2026-10-15T05:30:45.452844Z"
     },
     "truth:117437345548758242": {
       "post_status": "RETRY",
@@ -35284,6 +35284,46 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-15T03:50:43.526899Z"
+    },
+    "truth:117443139790546115": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42362",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18527/b078bf01a6d4223d-cc71becdc18a.jpg\">View image</a></p>",
+      "published": "Thu, 15 Oct 2026 04:54:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T05:25:39.115919Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42362"
+    },
+    "truth:117443144788808814": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42364",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117443139790546115</span>Actual pictures of our fully renovated White House facade, facing South, with the new South Entrance, and Heliport! Over the years, the facade, both North and South, suffered tremendous wear, tear, and damage. The exterior walls and ornamentation, both missing and in bad condition, has been fully restored to the Highest Level, giving the White House many decades of additional life! It had to be done, and I am very proud to be the President who did it! Likewise, the Ballroom and Military Complex, is on time, and on budget, and will make an unbelievably beautiful addition, the first since the West Wing in 1901, to the White House. President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18529/8aae475102599ef3-d4a51ac1d96b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18530/fc74fd8835c50f31-cc71becdc18a.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18531/965ddc7279f635a2-8b025442a7b9.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18532/2aba289e73eafe98-da58d7530a7e.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42362\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18527/b078bf01a6d4223d-cc71becdc18a.jpg\">View image</a></p></blockquote>",
+      "published": "Thu, 15 Oct 2026 04:56:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T05:25:39.115781Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42364"
+    },
+    "truth:117443148049952515": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42363",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg\">View image</a></p>",
+      "published": "Thu, 15 Oct 2026 04:57:02 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T05:25:39.115641Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42363"
+    },
+    "truth:117443188503232131": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42365",
+      "source_text": "<p>Gross Output Signals an Economic Surge: <a href=\"https://www.wsj.com/opinion/gross-output-signals-an-economic-surge-ee8e462e\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wsj.com/opinion/gross-output-s</span><span class=\"invisible\">ignals-an-economic-surge-ee8e462e</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18533/f44d97d4c14e7025-ffa559f986ea.jpg\">View image</a></p>",
+      "published": "Thu, 15 Oct 2026 05:07:20 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T05:25:39.115479Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42365"
     }
   }
 }
