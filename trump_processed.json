@@ -4238,45 +4238,12 @@
     "https://www.trumpstruth.org/statuses/42373",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4",
     "truth:117445800565005016",
-    "https://www.trumpstruth.org/statuses/42376"
+    "https://www.trumpstruth.org/statuses/42376",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016https://truth-archive.us-iad-1.linodeobjects.com/attachments/18545/49e2e8",
+    "truth:117445802849453813",
+    "https://www.trumpstruth.org/statuses/42377"
   ],
   "posts": {
-    "truth:117270313550921566": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41716",
-      "source_text": "<p>I’ve just received a Report that the United States is producing more Exquisite and Elite Weapons than at any time in our History. They are being delivered on a daily basis to our Forces in the Middle East, and beyond. Our Defense Company Factories are moving 24/7, while at the same time building, on average, 4 to 5 largescale brand new Plants, each! A primary focus of this production has been Patriots, THAAD Systems, Tomahawks, and other Standard Missile Systems, of which we already have large numbers in stock. President DONALD J. TRUMP</p>",
-      "published": "Mon, 14 Sep 2026 16:22:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-14T17:21:01.670463Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41716",
-      "first_seen": "2026-09-14T16:31:07.905144Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:I’ve just received a Report that the United States is producing more Exquisite and Elite Weapons than at any time in our History. They are being deliv",
-      "truth_social_id": "117270313550921566",
-      "source_fingerprint": "fp:I’ve just received a Report that the United States is producing more Exquisite and Elite Weapons than at any time in our History. They are being deliv",
-      "media_identity": "attachment:117270313550921566:",
-      "translation": "米国が史上最高水準の洗練された最先端兵器を生産しているとのレポートを受け取ったばかりだ。これらは毎日、中東およびその周辺地域の米軍部隊に配送されている。防衛関連企業の工場は24時間体制で稼働しており、同時に平均して4～5つの大規模な新設プラントをそれぞれ建設している。この生産の主要な焦点はパトリオット、THAAD システム、トマホーク、およびその他の標準ミサイルシステムであり、われわれはすでにこれらの大量の備蓄を有している。",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvijghn4nkj2",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvijghn4nkj2",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "米国が史上最高水準の洗練された最先端兵器を生産しているとのレポートを受け取ったばかりだ。これらは毎日、中東およびその周辺地域の米軍部隊に配送されている。防衛関連企業の工場は24時間体制で稼働しており、同時に平均して4～5つの大規模な新設プラントをそれぞれ建設している。この生産の主要な焦点はパトリオット、THAAD システム、トマホーク、およびその他の標準ミサイルシステムであり、われわれはすでにこれらの大量の備蓄を有している。",
-        "createdAt": "2026-09-14T17:11:04.833702Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvijghn4nkj2",
-          "rkey": "3mvijghn4nkj2"
-        }
-      ]
-    },
     "truth:117270324606038555": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17605,6 +17572,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4",
       "truth_social_id": "117445800565005016",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4"
+    },
+    "truth:117445802849453813": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42377",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18545/49e2e807c990ed77-f8f20042cf6f.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42376\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 15 Oct 2026 16:12:11 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T17:40:32.322546Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42377",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016https://truth-archive.us-iad-1.linodeobjects.com/attachments/18545/49e2e8",
+      "media_identity": "attachment:117445802849453813:49e2e807c990ed77.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016https://truth-archive.us-iad-1.linodeobjects.com/attachments/18545/49e2e8",
+      "truth_social_id": "117445802849453813",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016https://truth-archive.us-iad-1.linodeobjects.com/attachments/18545/49e2e807c990ed77-f8f20042cf6f.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42376https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34836,13 +34819,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T17:35:39.581443Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T17:40:29.216921Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35289,16 +35272,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-15T16:20:37.205444Z"
-    },
-    "truth:117445802849453813": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42377",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18545/49e2e807c990ed77-f8f20042cf6f.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42376\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18544/c1f9d78793e0054d-6cc7399fc0fd.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 15 Oct 2026 16:12:11 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-15T17:25:36.140576Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42377"
     }
   }
 }
