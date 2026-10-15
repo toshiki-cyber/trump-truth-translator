@@ -4211,62 +4211,12 @@
     "https://www.trumpstruth.org/statuses/42365",
     "fp:Jon Husted, who is running for the Senate in the Great State of Ohio, is an ALL AMERICAN FOOTBALL PLAYER! He played Safety and, in one season, had 17 ",
     "truth:117443397258891596",
-    "https://www.trumpstruth.org/statuses/42366"
+    "https://www.trumpstruth.org/statuses/42366",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18537/7f108eb3261cb2d8-683bbcc855a3.jpg",
+    "truth:117443637733783253",
+    "https://www.trumpstruth.org/statuses/42368"
   ],
   "posts": {
-    "truth:117266432742201277": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41708",
-      "source_text": "<p></p>",
-      "published": "Sun, 13 Sep 2026 23:56:01 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-14T05:15:59.541391Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41708",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117266432742201277:c8342302b6be9ccd.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117266432742201277",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvgsbogqycm2",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mvgsbogqycm2",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-14T05:05:59.852653Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigcdnegsbq74mjjn42kmfjynojupyzjxxku7k7lf7lit6n2vsxmje"
-                },
-                "mimeType": "image/jpeg",
-                "size": 224946
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1169,
-                "height": 816
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvgsbogqycm2",
-          "rkey": "3mvgsbogqycm2"
-        }
-      ]
-    },
     "truth:117266645297015166": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17570,6 +17520,22 @@
       "fingerprint": "fp:Jon Husted, who is running for the Senate in the Great State of Ohio, is an ALL AMERICAN FOOTBALL PLAYER! He played Safety and, in one season, had 17 ",
       "truth_social_id": "117443397258891596",
       "translation": "ジョン・ハステッド。素晴らしいオハイオ州の上院議員候補は、本物のアメリカンフットボール選手だ！彼はセーフティとしてプレーし、ある1シーズンで17回のインターセプションを記録し、これは記録だ。誰もが知っている通り、彼は、そしていつまでも、私の完全かつ全面的な支持を得ている！ジョンはオハイオ州の歴史の中で最高の選手の一人であり、3年前に国民に排除された男、シェロッド・ブラウンを倒して、素晴らしい上院議員になるだろう。彼は今では素晴らしい上院議員であるバーニー・モレノに敗れた。ジョン・ハステッドに投票に行け！彼はオハイオを誇りに思わせるだろう。ちょうど彼がジョン・グルーデンと彼のチームメイトを誇りに思わせたように、デイトンが多くのフットボールの試合に勝つのを助けた。その中には、不可能だと言われた試合もある―ジョン・ハステッドの素晴らしいプレーを除いて。政治の世界では、彼はフットボールよりもさらに良くなるだろう。繰り返すが、ジョン・ハステッドは私の完全かつ全面的な支持を得ている―彼は絶対にお前たちを失望させないだろう！ドナルド・J・トランプ大統領\n\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18534/42fd015400108864-1587d9540123.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18535/dcc61d3caa133231-fe98c58f3b7f.jpg"
+    },
+    "truth:117443637733783253": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42368",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18537/7f108eb3261cb2d8-683bbcc855a3.jpg\">View image</a></p>",
+      "published": "Thu, 15 Oct 2026 07:01:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T07:40:41.440646Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42368",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18537/7f108eb3261cb2d8-683bbcc855a3.jpg",
+      "media_identity": "attachment:117443637733783253:7f108eb3261cb2d8.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18537/7f108eb3261cb2d8-683bbcc855a3.jpg",
+      "truth_social_id": "117443637733783253",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18537/7f108eb3261cb2d8-683bbcc855a3.jpg"
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34801,13 +34767,13 @@
       "next_retry_at": "2026-10-14T05:45:45.932918Z"
     },
     "truth:117437320767757116": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42345",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T07:35:39.087193Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-15T07:40:36.611889Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
@@ -35174,16 +35140,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-15T03:50:43.526899Z"
-    },
-    "truth:117443637733783253": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42368",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18537/7f108eb3261cb2d8-683bbcc855a3.jpg\">View image</a></p>",
-      "published": "Thu, 15 Oct 2026 07:01:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-15T07:25:34.887469Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42368"
     },
     "truth:117443638283999228": {
       "post_status": "DISCOVERED",
