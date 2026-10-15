@@ -4229,27 +4229,12 @@
     "https://www.trumpstruth.org/statuses/42375",
     "fp:Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, ",
     "truth:117445309638266855",
-    "https://www.trumpstruth.org/statuses/42372"
+    "https://www.trumpstruth.org/statuses/42372",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
+    "truth:117445466418139918",
+    "https://www.trumpstruth.org/statuses/42374"
   ],
   "posts": {
-    "truth:117270077932428072": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41714",
-      "source_text": "<p>The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden Goose! President DONALD J. TRUMP</p>",
-      "published": "Mon, 14 Sep 2026 15:23:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-14T16:56:03.277107Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41714",
-      "first_seen": "2026-09-14T16:31:06.632382Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden",
-      "truth_social_id": "117270077932428072",
-      "source_fingerprint": "fp:The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden",
-      "media_identity": "attachment:117270077932428072:",
-      "translation": "AI・データセンターの急成長が起きているのは、米国が他のすべての国を大きく引き離してリードしているからに他ならない。金の生卵を産む鶏を殺すな！ドナルド・J・トランプ大統領"
-    },
     "truth:117270009579288120": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17546,6 +17531,68 @@
       "source_fingerprint": "fp:Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, ",
       "media_identity": "attachment:117445309638266855:",
       "translation": "ニダール・マリク・ハサンは元米陸軍少佐で裏切り者だ。妊娠中の兵士を含む13人を殺害し、その兵士は生まれていない息子とともに亡くなった。さらに32人の罪のない人々に極めて深刻な負傷を負わせた非常に悪質で邪悪な男だ。バラク・フセイン・オバマのFBI（連邦捜査局）はハサンとイエメン系アメリカ人の過激派聖職者アンワル・アルアウラキの間の電子通信を傍受した。FBI テロ対策タスクフォースによる検証の際、捜査官たちはハサンのメールは脅威ではないと結論づけた。オバマ政権の行動に関するこの評価は、その後、重大な情報失敗と考えられるようになった。全てのことを考慮すると、執行をストリーミング配信して全員が目撃できるようにすることは、世界にハサンのようなテロリストとクズにアメリカがどう対処するかを見せるための強い抑止力となったかもしれないと思う。しかし、非常に誠実で善意の多くの人々はストリーミングまたはその他の視覚的手段を通じて彼が死ぬのを見たくないと考えている。彼は予定通り銃殺隊による処刑で死ぬが、この事件はストリーミング配信されない。とはいえ、被害者の直近の家族が望むのであれば、処刑を直接目撃することは可能だ。彼らは正義の実行を目撃する資格がある。この件への関心をありがとう。ドナルド・J・トランプ大統領"
+    },
+    "truth:117445466418139918": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42374",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4\">View video</a></p>",
+      "published": "Thu, 15 Oct 2026 14:46:38 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-15T16:51:12.949707Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42374",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
+      "media_identity": "attachment:117445466418139918:fd781c7a95c2d663-057dd0815a21.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
+      "truth_social_id": "117445466418139918",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
+      "expected_embed": "video",
+      "expected_images": 0,
+      "root_rkey": "3mxwcircr2cmb",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
+        "createdAt": "2026-10-15T16:51:03.537722Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiaqvab2ytpitp5tg2bep7ya6boennwfpgu3z4wy5kivi6cj7n2eyi"
+            },
+            "mimeType": "video/mp4",
+            "size": 47956882
+          },
+          "alt": ""
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
+          "rkey": "3mxwcircr2cmb"
+        }
+      ]
     },
     "truth:117412899117853172": {
       "post_status": "DISCOVERED",
@@ -34783,15 +34830,15 @@
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42328\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p></blockquote><p>Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.</p>",
       "published": "Wed, 14 Oct 2026 05:57:22 +0000",
       "retry_count": 1,
-      "updated_at": "2026-10-15T16:55:34.938190Z",
+      "updated_at": "2026-10-15T17:00:51.727706Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42348",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f-525f291d9c9f.mp4",
-      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"das15ir1tfmc73ecu0i0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
+      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 503): {\"did\":\"\",\"error\":\"Server does not have enough capacity to handle uploads, try again in a little bit\",\"jobId\":\"\",\"state\":\"\"}\n",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4",
       "truth_social_id": "117437320767757116",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-15T17:00:34.938210Z"
+      "next_retry_at": "2026-10-15T17:05:51.727722Z"
     },
     "truth:117437345548758242": {
       "post_status": "RETRY",
@@ -35230,161 +35277,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-15T16:20:37.205444Z"
-    },
-    "truth:117445466418139918": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42374",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4\">View video</a></p>",
-      "published": "Thu, 15 Oct 2026 14:46:38 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T16:51:12.949707Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42374",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-      "media_identity": "attachment:117445466418139918:fd781c7a95c2d663-057dd0815a21.mp4",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-      "truth_social_id": "117445466418139918",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
-          "cid": "bafyreie33wfhawznadncygtpxv4u2wergcy34iwriatpem5a6phywul37y"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
-          "cid": "bafyreie33wfhawznadncygtpxv4u2wergcy34iwriatpem5a6phywul37y"
-        },
-        "next_index": 1,
-        "last_rkey": "3mxwcircr2cmb",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-          "createdAt": "2026-10-15T16:51:03.537722Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiaqvab2ytpitp5tg2bep7ya6boennwfpgu3z4wy5kivi6cj7n2eyi"
-              },
-              "mimeType": "video/mp4",
-              "size": 47956882
-            },
-            "alt": ""
-          }
-        },
-        "root_rkey": "3mxwcircr2cmb",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-          "createdAt": "2026-10-15T16:51:03.537722Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiaqvab2ytpitp5tg2bep7ya6boennwfpgu3z4wy5kivi6cj7n2eyi"
-              },
-              "mimeType": "video/mp4",
-              "size": 47956882
-            },
-            "alt": ""
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
-            "rkey": "3mxwcircr2cmb"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3mxwcircr2cmb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-        "createdAt": "2026-10-15T16:51:03.537722Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreiaqvab2ytpitp5tg2bep7ya6boennwfpgu3z4wy5kivi6cj7n2eyi"
-            },
-            "mimeType": "video/mp4",
-            "size": 47956882
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
-          "rkey": "3mxwcircr2cmb"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-15T16:56:12.949719Z"
     },
     "truth:117445467010481436": {
       "post_status": "DISCOVERED",
