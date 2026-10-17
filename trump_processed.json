@@ -17641,7 +17641,7 @@
       "status_url": "https://www.trumpstruth.org/statuses/42328",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 04:15:05 +0000",
-      "updated_at": "2026-10-17T01:01:04.907655Z",
+      "updated_at": "2026-10-17T01:06:00.053985Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42345",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpReposted \nhttps://www.trumpstruth.org/statuses/42328https://truth-archive.us-iad-1.linodeobjects.com/attac",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f.mp4",
@@ -35510,6 +35510,215 @@
       "truth_social_id": "117452164793600610",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-17T03:16:07.508934Z"
+    },
+    "truth:117453413930971351": {
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42392",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg\">View image</a></p>",
+      "published": "Sat, 17 Oct 2026 00:27:47 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-17T01:06:12.517484Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42392",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg",
+      "media_identity": "attachment:117453413930971351:74da4a0fe123533a.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg",
+      "truth_social_id": "117453413930971351",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxztgutsxsh4",
+          "cid": "bafyreigkcvfx5bzdgllxryxb3ix23dhl3z2yxi42p3o7q75dp4mvdubnfy"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxztgutsxsh4",
+          "cid": "bafyreigkcvfx5bzdgllxryxb3ix23dhl3z2yxi42p3o7q75dp4mvdubnfy"
+        },
+        "next_index": 1,
+        "last_rkey": "3mxztgutsxsh4",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg",
+          "createdAt": "2026-10-17T01:06:05.612579Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 100
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihc5twf3k7gnh3xmasuzvvyb5y5zzlif555777ave53fd7m6e7wfu"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 280702
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 687,
+                  "height": 1494
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3mxztgutsxsh4",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg",
+          "createdAt": "2026-10-17T01:06:05.612579Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 100
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihc5twf3k7gnh3xmasuzvvyb5y5zzlif555777ave53fd7m6e7wfu"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 280702
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 687,
+                  "height": 1494
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxztgutsxsh4",
+            "rkey": "3mxztgutsxsh4"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxztgutsxsh4",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mxztgutsxsh4",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg",
+        "createdAt": "2026-10-17T01:06:05.612579Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreihc5twf3k7gnh3xmasuzvvyb5y5zzlif555777ave53fd7m6e7wfu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 280702
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 687,
+                "height": 1494
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxztgutsxsh4",
+          "rkey": "3mxztgutsxsh4"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-17T01:11:12.517498Z"
+    },
+    "truth:117453415283228242": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42393",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117453413930971351</span>They will all go to jail for a long period of time!!!</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18553/b8682ba1dd6f7e45-ba5e192bfbb9.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42392\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18552/74da4a0fe123533a-188b177c6c9c.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 17 Oct 2026 00:28:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-17T01:06:00.051223Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42393"
+    },
+    "truth:117453447477979909": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42395",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18555/4f121443541274c3-0d47ecc7e0c6.mov\">View video</a></p>",
+      "published": "Sat, 17 Oct 2026 00:36:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-17T01:06:00.051144Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42395"
+    },
+    "truth:117453450275734603": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42394",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117453447477979909</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18554/b83fad3c3a8e5792-d3a5b73d01aa.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42395\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18555/4f121443541274c3-0d47ecc7e0c6.mov\">View video</a></p></blockquote>",
+      "published": "Sat, 17 Oct 2026 00:37:02 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-17T01:06:00.051055Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42394"
     }
   }
 }
