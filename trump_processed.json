@@ -4283,45 +4283,12 @@
     "https://www.trumpstruth.org/statuses/42394",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18557/05b26f81218c942b-3f7e3fa18f3c.pnghttps://truth-archive.us-iad-1.linodeobjects.com/a",
     "truth:117454291461915390",
-    "https://www.trumpstruth.org/statuses/42397"
+    "https://www.trumpstruth.org/statuses/42397",
+    "fp:Best in History!\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18556/e9c8f0673df961f2-20222c41b3bc.jpg",
+    "truth:117454292438977074",
+    "https://www.trumpstruth.org/statuses/42396"
   ],
   "posts": {
-    "truth:117272045197172717": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41725",
-      "source_text": "<p>Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily because, for almost 10 years, I beat back and won against so many of the people and things that he wanted and espoused. Why does FoxNews and the WSJ keep his RINO Voice alive. The guy is a stone cold loser!</p>",
-      "published": "Mon, 14 Sep 2026 23:43:20 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-15T01:01:02.975860Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41725",
-      "first_seen": "2026-09-15T00:31:05.461509Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily beca",
-      "truth_social_id": "117272045197172717",
-      "source_fingerprint": "fp:Karl Rove is so bad for the Republican Party, and completely wrong so often. He suffers from a major case of Trump Derangement Syndrome primarily beca",
-      "media_identity": "attachment:117272045197172717:",
-      "translation": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvjbzwfqoszv",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "カール・ローブは共和党にとって非常に悪い存在であり、頻繁に完全に間違っている。彼は主にトランプ・デランジメント・シンドロームの重症患者だ。というのも、ほぼ10年間、私は彼が望んでいた多くの人物や事柄に対して打ち勝ち、勝利を重ねてきたからだ。なぜフォックスニュースとWSJは彼の共和党内左派的な声を生かし続けるのか。あいつは徹頭徹尾の敗北者だ！",
-        "createdAt": "2026-09-15T00:51:07.297201Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvjbzwfqoszv",
-          "rkey": "3mvjbzwfqoszv"
-        }
-      ]
-    },
     "truth:117272091671686232": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17646,13 +17613,29 @@
       "truth_social_id": "117454291461915390",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18557/05b26f81218c942b-3f7e3fa18f3c.pnghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18558/896a86b018e4051a-ac8d290c6555.pnghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18559/db931a35910d8081-ab50db53b067.png"
     },
+    "truth:117454292438977074": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42396",
+      "source_text": "<p>Best in History!</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18556/e9c8f0673df961f2-20222c41b3bc.jpg\">View image</a></p>",
+      "published": "Sat, 17 Oct 2026 04:11:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-17T05:11:08.091141Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42396",
+      "source_fingerprint": "fp:Best in History!\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18556/e9c8f0673df961f2-20222c41b3bc.jpg",
+      "media_identity": "attachment:117454292438977074:e9c8f0673df961f2.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:Best in History!\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18556/e9c8f0673df961f2-20222c41b3bc.jpg",
+      "truth_social_id": "117454292438977074",
+      "translation": "歴史上最高だ！\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18556/e9c8f0673df961f2-20222c41b3bc.jpg"
+    },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42328",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 04:15:05 +0000",
-      "updated_at": "2026-10-17T05:05:59.213303Z",
+      "updated_at": "2026-10-17T05:11:04.419132Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42345",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpReposted \nhttps://www.trumpstruth.org/statuses/42328https://truth-archive.us-iad-1.linodeobjects.com/attac",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f.mp4",
@@ -35537,16 +35520,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18555/4f121443541274c3-0d47ecc7e0c6.mov",
       "truth_social_id": "117453447477979909",
       "next_retry_at": "2026-10-17T01:26:07.822456Z"
-    },
-    "truth:117454292438977074": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42396",
-      "source_text": "<p>Best in History!</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18556/e9c8f0673df961f2-20222c41b3bc.jpg\">View image</a></p>",
-      "published": "Sat, 17 Oct 2026 04:11:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-17T05:05:59.210423Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42396"
     }
   }
 }
