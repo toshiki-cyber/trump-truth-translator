@@ -17478,7 +17478,7 @@
       "status_url": "https://www.trumpstruth.org/statuses/42328",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 04:15:05 +0000",
-      "updated_at": "2026-10-18T15:05:31.850089Z",
+      "updated_at": "2026-10-18T15:10:33.313919Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42345",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpReposted \nhttps://www.trumpstruth.org/statuses/42328https://truth-archive.us-iad-1.linodeobjects.com/attac",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f.mp4",
@@ -35432,14 +35432,20 @@
       "next_retry_at": "2026-10-17T19:21:05.044533Z"
     },
     "truth:117462292255470282": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42408",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18565/c1a088909d87a607-afcdf98a29e7.mp4\">View video</a></p>",
       "published": "Sun, 18 Oct 2026 14:05:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-18T15:05:31.843967Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42408"
+      "retry_count": 1,
+      "updated_at": "2026-10-18T15:10:35.034512Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42408",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18565/c1a088909d87a607-afcdf98a29e7.mp4",
+      "media_identity": "attachment:117462292255470282:c1a088909d87a607-afcdf98a29e7.mp4",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 109.8MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/462/276/438/489/239/original/c1a088909d87a607.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18565/c1a088909d87a607-afcdf98a29e7.mp4",
+      "truth_social_id": "117462292255470282",
+      "next_retry_at": "2026-10-18T15:15:35.034526Z"
     },
     "truth:117462306089931035": {
       "post_status": "DISCOVERED",
