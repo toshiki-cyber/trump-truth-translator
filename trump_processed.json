@@ -4331,79 +4331,12 @@
     "https://www.trumpstruth.org/statuses/42415",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117463319181671522https://truth-archive.us-iad-1.linodeobjects.com/attachments/18568/3d8b91",
     "truth:117463320034402295",
-    "https://www.trumpstruth.org/statuses/42414"
+    "https://www.trumpstruth.org/statuses/42414",
+    "fp:My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anyth",
+    "truth:117463828588421761",
+    "https://www.trumpstruth.org/statuses/42416"
   ],
   "posts": {
-    "truth:117276640394053011": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41745",
-      "source_text": "<p>“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today: <a href=\"https://www.undeniablewindfalls.com\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span>undeniablewindfalls.com</span><span class=\"invisible\"></span></a></p>",
-      "published": "Tue, 15 Sep 2026 19:11:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-15T20:41:05.814916Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41745",
-      "source_fingerprint": "fp:“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professi",
-      "media_identity": "attachment:117276640394053011:0896b51cef5c7d7c.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professi",
-      "truth_social_id": "117276640394053011",
-      "translation": "「否定できない棚ぼた利益：1つの株があなたの人生を変える方法」。FoxNewsの偉大なるチャールズ・ペイン著による素晴らしい新刊だ。チャールズは真の専門家であり、成功を収めるために何が必要か理解しており、アメリカン・ドリームを解き放つ。それより重要性は低いが、彼は素晴らしい人物でもある！今日あなたのコピーを手に入れろ：\nhttps://www.undeniablewindfalls.com",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvlddld27snn",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mvlddld27snn",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "「否定できない棚ぼた利益：1つの株があなたの人生を変える方法」。FoxNewsの偉大なるチャールズ・ペイン著による素晴らしい新刊だ。チャールズは真の専門家であり、成功を収めるために何が必要か理解しており、アメリカン・ドリームを解き放つ。それより重要性は低いが、彼は素晴らしい人物でもある！今日あなたのコピーを手に入れろ：\nhttps://www.undeniablewindfalls.com",
-        "createdAt": "2026-09-15T20:31:07.238394Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 465,
-              "byteEnd": 500
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.undeniablewindfalls.com"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreia42otpwch2utw2whxhfm5et4d2t3xvytdhija3dfoelhesbrdoba"
-                },
-                "mimeType": "image/jpeg",
-                "size": 175902
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 842,
-                "height": 1220
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvlddld27snn",
-          "rkey": "3mvlddld27snn"
-        }
-      ]
-    },
     "truth:117276573235915643": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17503,13 +17436,31 @@
       "truth_social_id": "117463320034402295",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117463319181671522https://truth-archive.us-iad-1.linodeobjects.com/attachments/18568/3d8b91f460feef58-4a177804cfbc.pngQuoted\nhttps://www.trumpstruth.org/statuses/42415https://truth-archive.us-iad-1.linodeobjects.com/attachments/18569/617574936fd4ef77-97d8a2e78c27.mp4"
     },
+    "truth:117463828588421761": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42416",
+      "source_text": "<p>My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table. Great progress is being made, and that includes current hostage negotiations! Signing that document at this time will do that, and I can sign it later, or any time that I want! Perhaps more importantly, Russia is doing very little, if anything, to help the Islamic Republic of Iran, compared to what they could be doing, and I want to keep it that way, and will, unless stupid people get in the way. Lastly, Zelenskyy is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States. Farmers, ranchers, and businesses of all kinds are suffering greatly from this, but Russia is, nevertheless, sending, at a low price, millions of barrels of diesel to the World. Zelenskyy doesn’t care, and frankly, with all of the money that Europe is famously giving him, and that Crooked Joe Biden gave him in the past, he doesn’t want to end this war, and probably never did. He could have made a better deal two years ago than he can now. His country is in shambles, a large portion of his land is lost, his oceans and seas are gone, and his male population is low, wounded, and/or dead. I WANT THIS WAR END! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Sun, 18 Oct 2026 20:36:22 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-18T21:35:46.718600Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42416",
+      "first_seen": "2026-10-18T21:10:37.864179Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anyth",
+      "truth_social_id": "117463828588421761",
+      "source_fingerprint": "fp:My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anyth",
+      "media_identity": "attachment:117463828588421761:",
+      "translation": "ロシアに関する私の決定は非常にシンプルなものだ。私はロシアとウクライナの戦争における平和交渉の過程にあり、愚かにもロシアを交渉のテーブルから遠ざけるような行動はしたくない。大きな進展が起きており、それは現在の人質交渉も含まれている！この時点でそのドキュメントに署名することはそうした行動になり、私は後で、あるいは好きな時にいつでも署名できる！おそらくより重要なことに、ロシアはイラン・イスラム共和国を助けるために、彼らができることに比べればほとんど何もしていない。私はそれをこのままにしておきたいし、そうするつもりだ。馬鹿な人間が邪魔に入らない限り。最後に、ゼレンスキーはロシア国内のディーゼル精製所を標的にしている。これらの攻撃がアメリカ合衆国を含む世界中のディーゼル市場に深刻な損害を与えていることを知りながらだ。農民、牧場経営者、あらゆる種類の事業者が大きな苦しみを被っているが、ロシアは依然として、低価格で、何百万バレルものディーゼルを世界に送っている。ゼレンスキーは気にせず、率直に言って、ヨーロッパが有名なほど彼に与えている全ての金銭と、腐敗したジョー・バイデンが過去に彼に与えた金銭の全てで、彼はこの戦争を終わらせたくないし、おそらく最初からそうだったのだ。彼は2年前の方が今より良い取引ができたはずだ。彼の国は荒廃し、領土の大部分を失い、海や海岸を失い、男性人口は少なく、負傷し、あるいは死んでいる。この戦争を終わらせたいのだ！この件への注意をありがとう。ドナルド・J・トランプ大統領"
+    },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42328",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 04:15:05 +0000",
-      "updated_at": "2026-10-18T21:30:33.801452Z",
+      "updated_at": "2026-10-18T21:35:36.212815Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42345",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpReposted \nhttps://www.trumpstruth.org/statuses/42328https://truth-archive.us-iad-1.linodeobjects.com/attac",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f.mp4",
@@ -35567,22 +35518,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-18T19:30:34.633078Z"
-    },
-    "truth:117463828588421761": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42416",
-      "source_text": "<p>My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table. Great progress is being made, and that includes current hostage negotiations! Signing that document at this time will do that, and I can sign it later, or any time that I want! Perhaps more importantly, Russia is doing very little, if anything, to help the Islamic Republic of Iran, compared to what they could be doing, and I want to keep it that way, and will, unless stupid people get in the way. Lastly, Zelenskyy is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States. Farmers, ranchers, and businesses of all kinds are suffering greatly from this, but Russia is, nevertheless, sending, at a low price, millions of barrels of diesel to the World. Zelenskyy doesn’t care, and frankly, with all of the money that Europe is famously giving him, and that Crooked Joe Biden gave him in the past, he doesn’t want to end this war, and probably never did. He could have made a better deal two years ago than he can now. His country is in shambles, a large portion of his land is lost, his oceans and seas are gone, and his male population is low, wounded, and/or dead. I WANT THIS WAR END! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Sun, 18 Oct 2026 20:36:22 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-18T21:25:34.432446Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42416",
-      "first_seen": "2026-10-18T21:10:37.864179Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anyth",
-      "next_retry_at": "2026-10-18T21:35:34.432463Z",
-      "truth_social_id": "117463828588421761"
     }
   }
 }
