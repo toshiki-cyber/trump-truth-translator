@@ -4359,77 +4359,12 @@
     "truth:117466809182909023",
     "https://www.trumpstruth.org/statuses/42424",
     "truth:117466841292482027",
-    "https://www.trumpstruth.org/statuses/42425"
+    "https://www.trumpstruth.org/statuses/42425",
+    "fp:The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf co",
+    "truth:117467023218108167",
+    "https://www.trumpstruth.org/statuses/42426"
   ],
   "posts": {
-    "truth:117283767428386257": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41754",
-      "source_text": "<p>National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: <a href=\"https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/nat</span><span class=\"invisible\">ional-weather-service-begins-changing-lake-ontario-lake-america-maps-weather</span></a></p>",
-      "published": "Thu, 17 Sep 2026 01:24:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-17T02:56:01.874514Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41754",
-      "first_seen": "2026-09-17T02:30:57.875122Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
-      "truth_social_id": "117283767428386257",
-      "source_fingerprint": "fp:National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts: \nhttps://justthenews.com/government/national-wea",
-      "media_identity": "attachment:117283767428386257:",
-      "translation": "米国国立気象局、気象予報図で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvoimld24chq",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvoimld24chq",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "米国国立気象局、気象予報図で「オンタリオ湖」を「アメリカ湖」に変更し始める：\nhttps://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-        "createdAt": "2026-09-17T02:46:12.420651Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 115,
-              "byteEnd": 229
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/national-weather-service-begins-changing-lake-ontario-lake-america-maps-weather",
-            "title": "National Weather Service begins changing 'Lake Ontario' to 'Lake America' on maps, weather forecasts",
-            "description": "The change is expected to impact the NWS' open waters forecasts, forecasts for the Niagara River and the surrounding region in New York.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreid4flk2mq5ganz7skjb47sbnnmlufdec2e3sqq2bu2kwyt56bdsxe"
-              },
-              "mimeType": "image/jpeg",
-              "size": 91891
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvoimld24chq",
-          "rkey": "3mvoimld24chq"
-        }
-      ]
-    },
     "truth:117284047193618070": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17468,6 +17403,24 @@
       "source_fingerprint": "fp:How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: \nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-p",
       "media_identity": "attachment:117466841292482027:",
       "translation": "トランプがいかに「専門家」に逆らい、国連を10月7日以降の平和へと押し進めたか：\nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/"
+    },
+    "truth:117467023218108167": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42426",
+      "source_text": "<p>The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf course. They have an absolute right to do so. It’s as simple as that! The judge on the case is a crazed lunatic whose courthouse tapes will reveal, may be insane? The tapes have been blocked from usage by the judge. The random golfer bringing the ridiculous lawsuit has ZERO STANDING! The experts at “Interior” are allowed to do this First Class renovation “as of right.” They do not need an approval. Work is scheduled to begin IMMEDIATELY! The finished product will be World Class, and bring income and great prestige back to D.C. Thank you for your attention to this matter! President DJT</p>",
+      "published": "Mon, 19 Oct 2026 10:08:49 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T11:45:40.493884Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42426",
+      "first_seen": "2026-10-19T11:05:39.443637Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf co",
+      "truth_social_id": "117467023218108167",
+      "source_fingerprint": "fp:The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf co",
+      "media_identity": "attachment:117467023218108167:",
+      "translation": "米国内務省は、ひどくて非常に危険なゴルフコースを、素晴らしく、安全で、名高いゴルフコースにしたいと考えている。彼らにはそうする絶対的な権利がある。それだけのことだ！この事件の判事は狂った基地外で、その裁判所の録音テープは明かすことになるだろう、もしかして気がおかしいのか？テープは判事によって使用が禁止されている。このくだらない訴訟を起こしたランダムなゴルファーは権利がまったくない！「内務省」の専門家たちは、この第一級の改修工事を「当然の権利として」実行することが認められている。彼らは承認を必要としない。工事は直ちに開始される予定だ！完成品はワールドクラスであり、ワシントンD.C.に収入と素晴らしい威信をもたらすだろう。この問題にご注意いただきありがとうございます！トランプ前大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35661,22 +35614,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117467023218108167": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42426",
-      "source_text": "<p>The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf course. They have an absolute right to do so. It’s as simple as that! The judge on the case is a crazed lunatic whose courthouse tapes will reveal, may be insane? The tapes have been blocked from usage by the judge. The random golfer bringing the ridiculous lawsuit has ZERO STANDING! The experts at “Interior” are allowed to do this First Class renovation “as of right.” They do not need an approval. Work is scheduled to begin IMMEDIATELY! The finished product will be World Class, and bring income and great prestige back to D.C. Thank you for your attention to this matter! President DJT</p>",
-      "published": "Mon, 19 Oct 2026 10:08:49 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T11:15:40.732522Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42426",
-      "first_seen": "2026-10-19T11:05:39.443637Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf co",
-      "next_retry_at": "2026-10-19T11:25:40.732540Z",
-      "truth_social_id": "117467023218108167"
     },
     "truth:117467191755462147": {
       "post_status": "RETRY",
