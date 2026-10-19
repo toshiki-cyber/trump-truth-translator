@@ -4416,45 +4416,12 @@
     "https://www.trumpstruth.org/statuses/42441",
     "fp:A BIG THANK YOU to our legendary friend, Elon Musk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUM",
     "truth:117469511233475082",
-    "https://www.trumpstruth.org/statuses/42444"
+    "https://www.trumpstruth.org/statuses/42444",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
+    "truth:117469732763891097",
+    "https://www.trumpstruth.org/statuses/42446"
   ],
   "posts": {
-    "truth:117289429489598640": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41773",
-      "source_text": "<p>Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got the fraudsters running for shelter. They are bringing in Billions of Dollars - LONG PRISON SENTENCES. Thank you to Charlie Hurt for a great interview! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 01:24:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-18T03:01:00.478029Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41773",
-      "first_seen": "2026-09-18T02:30:57.403067Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got t",
-      "truth_social_id": "117289429489598640",
-      "source_fingerprint": "fp:Andrew Ferguson, Fraud Task Force Vice Chairman, was FANTASTIC tonight on FoxNews. He and his group, headed up by wonderful V.P., JD Vance, have got t",
-      "media_identity": "attachment:117289429489598640:",
-      "translation": "アンドリュー・ファーガソン不正対策特別委員会副委員長は、今夜のフォックスニュースで実に素晴らしかった。彼と素晴らしいJ・D・ヴァンス副大統領が率いるグループは、詐欺師どもを逃げ場へ追い込んでいる。彼らは何十億ドルもの回収をもたらし、長期の懲役刑を科している。チャーリー・ハートによる素晴らしいインタビューに感謝する！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvqz3f5qakdu",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mvqz3f5qakdu",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "アンドリュー・ファーガソン不正対策特別委員会副委員長は、今夜のフォックスニュースで実に素晴らしかった。彼と素晴らしいJ・D・ヴァンス副大統領が率いるグループは、詐欺師どもを逃げ場へ追い込んでいる。彼らは何十億ドルもの回収をもたらし、長期の懲役刑を科している。チャーリー・ハートによる素晴らしいインタビューに感謝する！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-09-18T02:51:09.318035Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvqz3f5qakdu",
-          "rkey": "3mvqz3f5qakdu"
-        }
-      ]
-    },
     "truth:117289658560181496": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17505,6 +17472,76 @@
       "source_fingerprint": "fp:A BIG THANK YOU to our legendary friend, Elon Musk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUM",
       "media_identity": "attachment:117469511233475082:",
       "translation": "我々の伝説的な友人、イーロン・マスクに大きな感謝を捧げる。彼がTRUMP ACCOUNTSを通じて、何百万人ものアメリカの子どもたちにSpaceXの株を与えてくれた信じられない寛大さに対してだ！これはまさにTRUMP ACCOUNTSを創設した時に想定していたものだ。素晴らしい民間セクター、イーロンをはじめ多くの企業が一堂に集い、我々の最大にして最も重要な資産である子どもたちに投資し、全てのアメリカの子どもたちにアメリカン・ドリームの一片を与える。ありがとうイーロン！大統領ドナルド・J・トランプ"
+    },
+    "truth:117469732763891097": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42446",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg\">View image</a></p>",
+      "published": "Mon, 19 Oct 2026 21:37:53 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-19T23:15:42.813717Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42446",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
+      "media_identity": "attachment:117469732763891097:e252c3be687cb215.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
+      "truth_social_id": "117469732763891097",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myb3dt4kk2ne",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3myb3dt4kk2ne",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
+        "createdAt": "2026-10-19T23:05:39.372296Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreihunc2wtimwvuelmchs7o3dfng3vletk5dla6ytwcosyqpv23ewuy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 88869
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1163,
+                "height": 883
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myb3dt4kk2ne",
+          "rkey": "3myb3dt4kk2ne"
+        }
+      ]
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35721,194 +35758,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42447",
       "source_text": "<p>🚨 NEVADA!</p><p>Early Voting, in-person, opened in the Great State of Nevada this past weekend. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Nevada, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/nevada/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/nevada/</span><span class=\"invisible\"></span></a></p>",
       "published": "Mon, 19 Oct 2026 21:20:36 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T23:05:36.527522Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T23:15:39.365641Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42447",
       "first_seen": "2026-10-19T23:05:36.527487Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:🚨 NEVADA!\nEarly Voting, in-person, opened in the Great State of Nevada this past weekend. If you have a mail-in ballot, return it immediately and, if ",
-      "next_retry_at": "2026-10-19T23:10:36.527530Z",
+      "next_retry_at": "2026-10-19T23:25:39.365658Z",
       "truth_social_id": "117469664819644244"
-    },
-    "truth:117469732763891097": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42446",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg\">View image</a></p>",
-      "published": "Mon, 19 Oct 2026 21:37:53 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T23:05:46.330058Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42446",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
-      "media_identity": "attachment:117469732763891097:e252c3be687cb215.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
-      "truth_social_id": "117469732763891097",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myb3dt4kk2ne",
-          "cid": "bafyreiahke5nmie3hpiohllt6hkxcty4p2v2zkrxeefal5bqboxdeahgta"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myb3dt4kk2ne",
-          "cid": "bafyreiahke5nmie3hpiohllt6hkxcty4p2v2zkrxeefal5bqboxdeahgta"
-        },
-        "next_index": 1,
-        "last_rkey": "3myb3dt4kk2ne",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
-          "createdAt": "2026-10-19T23:05:39.372296Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihunc2wtimwvuelmchs7o3dfng3vletk5dla6ytwcosyqpv23ewuy"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 88869
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1163,
-                  "height": 883
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3myb3dt4kk2ne",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
-          "createdAt": "2026-10-19T23:05:39.372296Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreihunc2wtimwvuelmchs7o3dfng3vletk5dla6ytwcosyqpv23ewuy"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 88869
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1163,
-                  "height": 883
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myb3dt4kk2ne",
-            "rkey": "3myb3dt4kk2ne"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myb3dt4kk2ne",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3myb3dt4kk2ne",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg",
-        "createdAt": "2026-10-19T23:05:39.372296Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18584/e252c3be687cb215-66a9485d1233.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihunc2wtimwvuelmchs7o3dfng3vletk5dla6ytwcosyqpv23ewuy"
-                },
-                "mimeType": "image/jpeg",
-                "size": 88869
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1163,
-                "height": 883
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myb3dt4kk2ne",
-          "rkey": "3myb3dt4kk2ne"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-19T23:10:46.330071Z"
     },
     "truth:117469733486272683": {
       "post_status": "POST_VERIFY_PENDING",
