@@ -35625,14 +35625,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42433",
       "source_text": "<p>FBI smash huge voter fraud ring in California — days after feds issued ultimatum to state: <a href=\"https://nypost.com/2026/10/19/us-news/fbi-smash-huge-california-voter-fraud-ring-in-los-angeles-days-after-feds-issued-ultimatum-to-state/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">fbi-smash-huge-california-voter-fraud-ring-in-los-angeles-days-after-feds-issued-ultimatum-to-state/</span></a></p>",
       "published": "Mon, 19 Oct 2026 14:01:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T15:25:39.365380Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T15:31:17.396209Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42433",
       "first_seen": "2026-10-19T15:25:39.365344Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:FBI smash huge voter fraud ring in California — days after feds issued ultimatum to state: \nhttps://nypost.com/2026/10/19/us-news/fbi-smash-huge-calif",
-      "next_retry_at": "2026-10-19T15:30:39.365386Z",
+      "next_retry_at": "2026-10-19T15:41:17.396223Z",
       "truth_social_id": "117467938827717672"
     }
   }
