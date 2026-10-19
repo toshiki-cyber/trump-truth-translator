@@ -4410,24 +4410,12 @@
     "https://www.trumpstruth.org/statuses/42443",
     "fp:New Mexico should immediately change its name to New America. We are not Mexico, we are the United States of America! The name would add great value a",
     "truth:117469138178317492",
-    "https://www.trumpstruth.org/statuses/42442"
+    "https://www.trumpstruth.org/statuses/42442",
+    "fp:A big WIN for Massapequa and DJT!\nNY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/u",
+    "truth:117469140644731762",
+    "https://www.trumpstruth.org/statuses/42441"
   ],
   "posts": {
-    "truth:117289625653769278": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41774",
-      "source_text": "<p></p>",
-      "published": "Fri, 18 Sep 2026 02:14:17 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T02:37:15.656079Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41774",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117289625653769278:02aa2f1d2735e879-8b7f367f5edb.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117289625653769278",
-      "translation": ""
-    },
     "truth:117289646853203408": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17493,6 +17481,24 @@
       "source_fingerprint": "fp:New Mexico should immediately change its name to New America. We are not Mexico, we are the United States of America! The name would add great value a",
       "media_identity": "attachment:117469138178317492:",
       "translation": "ニューメキシコ州は直ちに州名をニューアメリカに変更すべきだ。われわれはメキシコではなく、アメリカ合衆国である！この州名変更は州に大きな価値と名誉をもたらすだろう！住宅価格と所得が上昇し、美しきアメリカ国旗に敬礼する際、さらに誇りを感じるようになるだろう！ニューメキシコが知られている不正な選挙さえも、ひょっとしたら正直なものに戻るかもしれない！\n\nドナルド・J・トランプ大統領"
+    },
+    "truth:117469140644731762": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42441",
+      "source_text": "<p>A big WIN for Massapequa and DJT!</p><p>NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: <a href=\"https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/</span></a></p>",
+      "published": "Mon, 19 Oct 2026 19:07:18 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T21:45:39.087758Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42441",
+      "first_seen": "2026-10-19T21:10:37.271528Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:A big WIN for Massapequa and DJT!\nNY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/u",
+      "truth_social_id": "117469140644731762",
+      "source_fingerprint": "fp:A big WIN for Massapequa and DJT!\nNY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/u",
+      "media_identity": "attachment:117469140644731762:",
+      "translation": "マサペクアとトランプにとって大きな勝利だ！\nニューヨーク州がネイティブアメリカンロゴ禁止の一部を撤回する「マサペクアにとって大勝利」となる：\nhttps://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35686,22 +35692,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117469140644731762": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42441",
-      "source_text": "<p>A big WIN for Massapequa and DJT!</p><p>NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: <a href=\"https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/</span></a></p>",
-      "published": "Mon, 19 Oct 2026 19:07:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T21:25:35.693390Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42441",
-      "first_seen": "2026-10-19T21:10:37.271528Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:A big WIN for Massapequa and DJT!\nNY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/u",
-      "next_retry_at": "2026-10-19T21:35:35.693406Z",
-      "truth_social_id": "117469140644731762"
     },
     "truth:117469511233475082": {
       "post_status": "RETRY",
