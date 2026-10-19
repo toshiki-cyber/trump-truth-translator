@@ -17523,7 +17523,7 @@
       "status_url": "https://www.trumpstruth.org/statuses/42328",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 04:15:05 +0000",
-      "updated_at": "2026-10-19T09:25:33.363885Z",
+      "updated_at": "2026-10-19T09:30:32.614900Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42345",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpReposted \nhttps://www.trumpstruth.org/statuses/42328https://truth-archive.us-iad-1.linodeobjects.com/attac",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f.mp4",
@@ -34805,16 +34805,16 @@
       "status_url": "https://www.trumpstruth.org/statuses/42334",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18512/86014e7f68adc0be-9a1c967aa061.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 05:16:33 +0000",
-      "updated_at": "2026-10-19T03:25:40.201141Z",
+      "updated_at": "2026-10-19T09:30:35.831705Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42334",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18512/86014e7f68adc0be-9a1c967aa061.mp4",
       "media_identity": "attachment:117437562454435234:86014e7f68adc0be-9a1c967aa061.mp4",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18512/86014e7f68adc0be-9a1c967aa061.mp4",
       "truth_social_id": "117437562454435234",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dauprs2hha5s73dkrbg0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
-      "retry_count": 25,
+      "retry_count": 26,
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-19T09:25:40.201158Z"
+      "next_retry_at": "2026-10-19T15:30:35.831732Z"
     },
     "truth:117437568444285020": {
       "post_status": "BLOCKED",
