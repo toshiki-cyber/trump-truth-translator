@@ -35679,44 +35679,68 @@
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
     },
     "truth:117469132662412438": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42443",
       "source_text": "<p>The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screaming,<br />\"AFFORDABILITY.\" They are the ones that created the Affordability Crisis. I'm the one who created the Greatest Economy, and am bringing the prices down. It's just another Fake News CON JOB! President DONALD J. TRUMP</p>",
       "published": "Mon, 19 Oct 2026 19:05:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-19T21:05:33.754560Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42443"
+      "retry_count": 1,
+      "updated_at": "2026-10-19T21:10:35.839512Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42443",
+      "first_seen": "2026-10-19T21:10:35.839473Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screamin",
+      "next_retry_at": "2026-10-19T21:15:35.839522Z",
+      "truth_social_id": "117469132662412438"
     },
     "truth:117469138178317492": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42442",
       "source_text": "<p>New Mexico should immediately change its name to New America. We are not Mexico, we are the United States of America! The name would add great value and prestige to the State! Home Values and Incomes would rise, and you would be even prouder while saluting our beautiful American Flag! Maybe even the Crooked Elections, that New Mexico is known for, would become honest again!<br />President DONALD J. TRUMP</p>",
       "published": "Mon, 19 Oct 2026 19:06:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-19T21:05:33.754455Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42442"
+      "retry_count": 1,
+      "updated_at": "2026-10-19T21:10:36.563477Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42442",
+      "first_seen": "2026-10-19T21:10:36.563436Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:New Mexico should immediately change its name to New America. We are not Mexico, we are the United States of America! The name would add great value a",
+      "next_retry_at": "2026-10-19T21:15:36.563489Z",
+      "truth_social_id": "117469138178317492"
     },
     "truth:117469140644731762": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42441",
       "source_text": "<p>A big WIN for Massapequa and DJT!</p><p>NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: <a href=\"https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/</span></a></p>",
       "published": "Mon, 19 Oct 2026 19:07:18 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-19T21:05:33.754334Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42441"
+      "retry_count": 1,
+      "updated_at": "2026-10-19T21:10:37.271564Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42441",
+      "first_seen": "2026-10-19T21:10:37.271528Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:A big WIN for Massapequa and DJT!\nNY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/u",
+      "next_retry_at": "2026-10-19T21:15:37.271573Z",
+      "truth_social_id": "117469140644731762"
     },
     "truth:117469511233475082": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42444",
       "source_text": "<p>A BIG THANK YOU to our legendary friend, Elon Musk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon and so many more, to invest in our children, by far our greatest and most important asset, and give every American Child a piece of the American Dream. Thank you Elon! President DONALD J. TRUMP</p>",
       "published": "Mon, 19 Oct 2026 20:41:33 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-19T21:05:33.754212Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42444"
+      "retry_count": 1,
+      "updated_at": "2026-10-19T21:10:37.949622Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42444",
+      "first_seen": "2026-10-19T21:10:37.949587Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:A BIG THANK YOU to our legendary friend, Elon Musk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUM",
+      "next_retry_at": "2026-10-19T21:15:37.949631Z",
+      "truth_social_id": "117469511233475082"
     }
   }
 }
