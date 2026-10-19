@@ -4374,24 +4374,12 @@
     "https://www.trumpstruth.org/statuses/42429",
     "fp:The migrants have taken over France. They must CLOSE THE BORDERS, FAST! President DJT",
     "truth:117467289367307836",
-    "https://www.trumpstruth.org/statuses/42430"
+    "https://www.trumpstruth.org/statuses/42430",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4",
+    "truth:117467751425482695",
+    "https://www.trumpstruth.org/statuses/42432"
   ],
   "posts": {
-    "truth:117287760638060322": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41763",
-      "source_text": "<p></p>",
-      "published": "Thu, 17 Sep 2026 18:19:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-17T18:35:58.056264Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41763",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117287760638060322:4424d710a580b78b.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117287760638060322",
-      "translation": ""
-    },
     "truth:117287545147440255": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17420,6 +17408,22 @@
           "rkey": "3my7ymozeasoe"
         }
       ]
+    },
+    "truth:117467751425482695": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42432",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4\">View video</a></p>",
+      "published": "Mon, 19 Oct 2026 13:14:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-19T15:06:09.308030Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42432",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4",
+      "media_identity": "attachment:117467751425482695:04295a9c646952ba-167e069a23c8.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4",
+      "truth_social_id": "117467751425482695",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35613,6 +35617,26 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
+    },
+    "truth:117467752358533474": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42431",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117467751425482695</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18576/1b3cbc1fdf83e1db-96acf1b67329.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42432\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4\">View video</a></p></blockquote>",
+      "published": "Mon, 19 Oct 2026 13:14:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-19T15:05:33.556274Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42431"
+    },
+    "truth:117467938827717672": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42433",
+      "source_text": "<p>FBI smash huge voter fraud ring in California — days after feds issued ultimatum to state: <a href=\"https://nypost.com/2026/10/19/us-news/fbi-smash-huge-california-voter-fraud-ring-in-los-angeles-days-after-feds-issued-ultimatum-to-state/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">fbi-smash-huge-california-voter-fraud-ring-in-los-angeles-days-after-feds-issued-ultimatum-to-state/</span></a></p>",
+      "published": "Mon, 19 Oct 2026 14:01:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-19T15:05:33.556118Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42433"
     }
   }
 }
