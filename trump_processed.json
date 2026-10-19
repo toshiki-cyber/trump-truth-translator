@@ -4365,62 +4365,12 @@
     "https://www.trumpstruth.org/statuses/42426",
     "fp:I’m going to the Great State of Kansas today to Rally support for Roger Marshall, one of the absolutely best Senators in the U.S. Senate. His opponent",
     "truth:117467191755462147",
-    "https://www.trumpstruth.org/statuses/42427"
+    "https://www.trumpstruth.org/statuses/42427",
+    "fp:Big crowds today in Kansas. See you later! President DJT",
+    "truth:117467262597886072",
+    "https://www.trumpstruth.org/statuses/42428"
   ],
   "posts": {
-    "truth:117284233667661974": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41758",
-      "source_text": "<p></p>",
-      "published": "Thu, 17 Sep 2026 03:23:01 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-17T05:01:08.847461Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41758",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117284233667661974:efac85a71d341970.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117284233667661974",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvopalylxsrm",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mvopalylxsrm",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-17T04:51:00.583548Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifsujqmfgaxupc7ctqupzvm5xdm3wksdpe3d3ab7fqvpfbg26tixe"
-                },
-                "mimeType": "image/jpeg",
-                "size": 206473
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1260,
-                "height": 816
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvopalylxsrm",
-          "rkey": "3mvopalylxsrm"
-        }
-      ]
-    },
     "truth:117286503878102441": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17407,6 +17357,24 @@
           "rkey": "3my7xaclby26y"
         }
       ]
+    },
+    "truth:117467262597886072": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42428",
+      "source_text": "<p>Big crowds today in Kansas. See you later! President DJT</p>",
+      "published": "Mon, 19 Oct 2026 11:09:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T13:25:38.155025Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42428",
+      "first_seen": "2026-10-19T13:05:33.641997Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Big crowds today in Kansas. See you later! President DJT",
+      "truth_social_id": "117467262597886072",
+      "source_fingerprint": "fp:Big crowds today in Kansas. See you later! President DJT",
+      "media_identity": "attachment:117467262597886072:",
+      "translation": "カンザス州で今日は大きな群衆だ。また後で！大統領より DJT"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35673,22 +35641,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-19T13:25:45.157390Z"
-    },
-    "truth:117467262597886072": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42428",
-      "source_text": "<p>Big crowds today in Kansas. See you later! President DJT</p>",
-      "published": "Mon, 19 Oct 2026 11:09:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T13:10:34.046024Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42428",
-      "first_seen": "2026-10-19T13:05:33.641997Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Big crowds today in Kansas. See you later! President DJT",
-      "next_retry_at": "2026-10-19T13:20:34.046039Z",
-      "truth_social_id": "117467262597886072"
     },
     "truth:117467289367307836": {
       "post_status": "RETRY",
