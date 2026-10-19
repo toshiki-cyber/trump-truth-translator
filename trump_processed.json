@@ -4392,24 +4392,12 @@
     "https://www.trumpstruth.org/statuses/42436",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117468708319503157https://truth-archive.us-iad-1.linodeobjects.com/attachments/18579/11d8d3",
     "truth:117468712199708572",
-    "https://www.trumpstruth.org/statuses/42435"
+    "https://www.trumpstruth.org/statuses/42435",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18582/b8d41370ef42e9e0-f777879d67a6.mp4",
+    "truth:117468926113371267",
+    "https://www.trumpstruth.org/statuses/42438"
   ],
   "posts": {
-    "truth:117288669331309351": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41767",
-      "source_text": "<p></p>",
-      "published": "Thu, 17 Sep 2026 22:11:04 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-17T22:40:58.548793Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41767",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117288669331309351:c5fe102256c8b885.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117288669331309351",
-      "translation": ""
-    },
     "truth:117288682914955882": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17487,6 +17475,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117468708319503157https://truth-archive.us-iad-1.linodeobjects.com/attachments/18579/11d8d3",
       "truth_social_id": "117468712199708572",
       "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/117468708319503157https://truth-archive.us-iad-1.linodeobjects.com/attachments/18579/11d8d3f51425f62c-b466a5bdaa55.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42436Washington’s 美しいリフレクティング・プール。破壊行為により大きく傷つけられたが、D.C. 検事局の極左の人間による馬鹿げた報告書では誤った内容が書かれており、その者は明らかに調査も、証人尋問も、添付されたテープも見ておらず、すべてを説明したインスピレーショナルなジェシー・ウォーターズ・ショーも見ておらず、切り傷や裂け目で覆われた広大なプール表面の検査も、「86 47」という数字が高さ90フィートの巨大なフォントで公園全体の幅を占めるように刻まれ、毒で傷つけられた草地の検査も行わなかった（その草地は完全に新しい草に交換されている）。修復後、プールは現在70パーセントまで水が満たされており、良い状態になっている。興味深いことに、リフレクティング・プールは1922年の建造以来、ずっと正常に機能していない。常に漏水していたのだ。今度は異なるだろう。だが、この点を別の方法で立証しようとする破壊行為者は、刑務所に行くことになる。我々は非常に注視しており、セキュリティカメラが設置されている。報告では美しく見えており、破壊行為がなければ、時間をかけてさらに良くなるだろう。この件への注意をいただきありがとうございます。ドナルド・J・トランプ大統領\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18580/browser-safe.mp4"
+    },
+    "truth:117468926113371267": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42438",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18582/b8d41370ef42e9e0-f777879d67a6.mp4\">View video</a></p>",
+      "published": "Mon, 19 Oct 2026 18:12:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-19T19:16:10.419334Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42438",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18582/b8d41370ef42e9e0-f777879d67a6.mp4",
+      "media_identity": "attachment:117468926113371267:b8d41370ef42e9e0-f777879d67a6.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18582/b8d41370ef42e9e0-f777879d67a6.mp4",
+      "truth_social_id": "117468926113371267",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18582/b8d41370ef42e9e0-f777879d67a6.mp4"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35680,16 +35684,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117468926113371267": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42438",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18582/b8d41370ef42e9e0-f777879d67a6.mp4\">View video</a></p>",
-      "published": "Mon, 19 Oct 2026 18:12:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-19T19:05:35.133473Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42438"
     },
     "truth:117468927432881624": {
       "post_status": "DISCOVERED",
