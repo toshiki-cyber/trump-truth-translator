@@ -4398,24 +4398,12 @@
     "https://www.trumpstruth.org/statuses/42438",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18581/a1db21d1937448eb-3d39f06750d0.mp4",
     "truth:117468927432881624",
-    "https://www.trumpstruth.org/statuses/42437"
+    "https://www.trumpstruth.org/statuses/42437",
+    "fp:I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an",
+    "truth:117469037934097385",
+    "https://www.trumpstruth.org/statuses/42440"
   ],
   "posts": {
-    "truth:117288829666075555": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41769",
-      "source_text": "<p></p>",
-      "published": "Thu, 17 Sep 2026 22:51:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T00:31:50.907072Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41769",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117288829666075555:9de7f0519ad3a066-dd37d8333628.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117288829666075555",
-      "translation": ""
-    },
     "truth:117289151255093709": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17457,6 +17445,24 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18581/a1db21d1937448eb-3d39f06750d0.mp4",
       "truth_social_id": "117468927432881624",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18581/a1db21d1937448eb-3d39f06750d0.mp4"
+    },
+    "truth:117469037934097385": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42440",
+      "source_text": "<p>I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an Assistant U.S. Attorney, where he has done an incredible job protecting Public Safety, and promoting Law and Order. Joe is a graduate of Yale Law School and the University of Notre Dame, and previously clerked for three esteemed Jurists, Chief Justice of the United States Supreme Court, John Roberts, Judge Thomas Griffith of the D.C. Circuit, and Judge Dabney Friedrich of The United States District Court for the District of Columbia. He is also a Marine Corps Veteran and Pat Tillman Scholar. Joe will strongly protect our cherished Constitution and Rule of Law in this important new role. Congratulations Joe! President DONALD J. TRUMP</p>",
+      "published": "Mon, 19 Oct 2026 18:41:11 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T19:50:38.407549Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42440",
+      "first_seen": "2026-10-19T19:25:39.391030Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an",
+      "truth_social_id": "117469037934097385",
+      "source_fingerprint": "fp:I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an",
+      "media_identity": "attachment:117469037934097385:",
+      "translation": "インディアナ州北部地区連邦地方裁判所の判事として職務を行うジョセフ・ファルヴェイを指名できることを喜ばしく思う。ジョーは現在、米国司法長官代理として、公共の安全を守り、法と秩序を推進する素晴らしい仕事をしている。ジョーはエール法科大学院およびノートルダム大学の卒業生であり、以前は三人の高名な判事—ジョン・ロバーツ最高裁判事、D.C.巡回区のトマス・グリフィス判事、コロンビア特別地区連邦地方裁判所のダブニー・フリードリッヒ判事—の法廷書記官を務めていた。また、海兵隊退役軍人であり、パット・ティルマン奨学生でもある。ジョーはこの重要な新しい職務において、我々が大切にしている憲法と法の支配を強く守る。おめでとう、ジョー！ドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35723,22 +35729,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-19T19:50:51.188943Z"
-    },
-    "truth:117469037934097385": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42440",
-      "source_text": "<p>I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an Assistant U.S. Attorney, where he has done an incredible job protecting Public Safety, and promoting Law and Order. Joe is a graduate of Yale Law School and the University of Notre Dame, and previously clerked for three esteemed Jurists, Chief Justice of the United States Supreme Court, John Roberts, Judge Thomas Griffith of the D.C. Circuit, and Judge Dabney Friedrich of The United States District Court for the District of Columbia. He is also a Marine Corps Veteran and Pat Tillman Scholar. Joe will strongly protect our cherished Constitution and Rule of Law in this important new role. Congratulations Joe! President DONALD J. TRUMP</p>",
-      "published": "Mon, 19 Oct 2026 18:41:11 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T19:35:34.051437Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42440",
-      "first_seen": "2026-10-19T19:25:39.391030Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an",
-      "next_retry_at": "2026-10-19T19:45:34.051453Z",
-      "truth_social_id": "117469037934097385"
     }
   }
 }
