@@ -4404,27 +4404,12 @@
     "https://www.trumpstruth.org/statuses/42440",
     "fp:I am pleased to nominate Eric Hamilton to serve as Judge on the United States District Court for the District of Nebraska. Eric has done a phenomenal ",
     "truth:117469027191542871",
-    "https://www.trumpstruth.org/statuses/42439"
+    "https://www.trumpstruth.org/statuses/42439",
+    "fp:The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screamin",
+    "truth:117469132662412438",
+    "https://www.trumpstruth.org/statuses/42443"
   ],
   "posts": {
-    "truth:117289176463500141": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41771",
-      "source_text": "<p>Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. </p><p>John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. </p><p>John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!</p>",
-      "published": "Fri, 18 Sep 2026 00:20:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-18T01:01:03.639853Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41771",
-      "first_seen": "2026-09-18T00:36:01.445210Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy ",
-      "truth_social_id": "117289176463500141",
-      "source_fingerprint": "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. \nJohn bravely served our Great Country as a U.S. Navy ",
-      "media_identity": "attachment:117289176463500141:",
-      "translation": "ジョン・マッギュア下院議員はバージニア州第5選挙区のアメリカ・ファースト・ウォーリアーだ。ジョンは米海軍シールズの一員として我が偉大なる国に勇敢に仕えており、農村地帯のバージニア州民のために戦う素晴らしい仕事をしている。彼は経済を成長させ、素晴らしい雇用を創出し、米国エネルギーの支配権を確立し、我々の国境を守り、軍と退役軍人を強化し、常に攻撃にさらされている第二修正憲法を守り、力による平和を回復するために全力で取り組んでいる。\n\nジョンはずっとMAGAであり、最初からずっと我々と共にいる。ジョン・マッギュアは私の完全かつ絶対的な支持を得ている。彼は決してお前たちを失望させないだろう！"
-    },
     "truth:117289624164356202": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17484,6 +17469,24 @@
           "rkey": "3myarcxosv2ea"
         }
       ]
+    },
+    "truth:117469132662412438": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42443",
+      "source_text": "<p>The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screaming,<br />\"AFFORDABILITY.\" They are the ones that created the Affordability Crisis. I'm the one who created the Greatest Economy, and am bringing the prices down. It's just another Fake News CON JOB! President DONALD J. TRUMP</p>",
+      "published": "Mon, 19 Oct 2026 19:05:16 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T21:35:42.531966Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42443",
+      "first_seen": "2026-10-19T21:10:35.839473Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screamin",
+      "truth_social_id": "117469132662412438",
+      "source_fingerprint": "fp:The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screamin",
+      "media_identity": "attachment:117469132662412438:",
+      "translation": "民主党は歴史上最高のインフレーションと、それに伴う最高の物価をもたらし、そして私が就任するやいなや、彼らは叫び始めた、「アフォーダビリティ（購買力）だ」と。アフォーダビリティの危機を作り出したのは彼らだ。最高の経済を作り出し、物価を引き下げているのは私だ。これはまたもやフェイクニュースによる詐欺的キャンペーンだ！ドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35677,22 +35680,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117469132662412438": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42443",
-      "source_text": "<p>The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screaming,<br />\"AFFORDABILITY.\" They are the ones that created the Affordability Crisis. I'm the one who created the Greatest Economy, and am bringing the prices down. It's just another Fake News CON JOB! President DONALD J. TRUMP</p>",
-      "published": "Mon, 19 Oct 2026 19:05:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T21:25:34.934330Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42443",
-      "first_seen": "2026-10-19T21:10:35.839473Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screamin",
-      "next_retry_at": "2026-10-19T21:35:34.934346Z",
-      "truth_social_id": "117469132662412438"
     },
     "truth:117469138178317492": {
       "post_status": "RETRY",
