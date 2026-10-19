@@ -4377,27 +4377,12 @@
     "https://www.trumpstruth.org/statuses/42430",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4",
     "truth:117467751425482695",
-    "https://www.trumpstruth.org/statuses/42432"
+    "https://www.trumpstruth.org/statuses/42432",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117467751425482695https://truth-archive.us-iad-1.linodeobjects.com/attachments/18576/1b3cbc",
+    "truth:117467752358533474",
+    "https://www.trumpstruth.org/statuses/42431"
   ],
   "posts": {
-    "truth:117287545147440255": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41760",
-      "source_text": "<p>GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. Army base in Poland. If this happens, the location will be announced very soon. This will be a historic step for our Great U.S./Polish Alliance. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Thu, 17 Sep 2026 17:25:11 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-17T18:51:09.566421Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41760",
-      "first_seen": "2026-09-17T18:30:58.291772Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. A",
-      "truth_social_id": "117287545147440255",
-      "source_fingerprint": "fp:GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major progress is being made toward establishing a U.S. A",
-      "media_identity": "attachment:117287545147440255:",
-      "translation": "朗報だ！ポーランド大統領で私の友人であるカロル・ナヴロツキの大胆なリーダーシップのおかげで、ポーランドへの米陸軍基地設置に向けた大きな進展が図られている。これが実現すれば、その場所は近く発表されるだろう。これは偉大な米国・ポーランド同盟にとって歴史的な一歩となるだろう。この問題への関心をありがとう。ドナルド・J・トランプ大統領"
-    },
     "truth:117287739238891727": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17424,6 +17409,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4",
       "truth_social_id": "117467751425482695",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4"
+    },
+    "truth:117467752358533474": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42431",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117467751425482695</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18576/1b3cbc1fdf83e1db-96acf1b67329.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42432\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4\">View video</a></p></blockquote>",
+      "published": "Mon, 19 Oct 2026 13:14:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-19T15:20:50.153061Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42431",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117467751425482695https://truth-archive.us-iad-1.linodeobjects.com/attachments/18576/1b3cbc",
+      "media_identity": "attachment:117467752358533474:1b3cbc1fdf83e1db.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117467751425482695https://truth-archive.us-iad-1.linodeobjects.com/attachments/18576/1b3cbc",
+      "truth_social_id": "117467752358533474",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117467751425482695https://truth-archive.us-iad-1.linodeobjects.com/attachments/18576/1b3cbc1fdf83e1db-96acf1b67329.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42432https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35617,16 +35618,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117467752358533474": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42431",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117467751425482695</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18576/1b3cbc1fdf83e1db-96acf1b67329.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42432\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18577/04295a9c646952ba-167e069a23c8.mp4\">View video</a></p></blockquote>",
-      "published": "Mon, 19 Oct 2026 13:14:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-19T15:05:33.556274Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42431"
     },
     "truth:117467938827717672": {
       "post_status": "DISCOVERED",
