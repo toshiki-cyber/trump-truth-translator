@@ -4343,25 +4343,12 @@
     "https://www.trumpstruth.org/statuses/42418",
     "fp:Governor Roy Cooper released this man, who then killed beautiful Iryna Zarutska. He then released 83 other murderers, so they wouldn’t catch COVID whi",
     "truth:117464705630282037",
-    "https://www.trumpstruth.org/statuses/42419"
+    "https://www.trumpstruth.org/statuses/42419",
+    "fp:https://events.gop.com/events/midterm-rally-in-park-city-kansas-president-donald-j-trump-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachment",
+    "truth:117464867147953620",
+    "https://www.trumpstruth.org/statuses/42422"
   ],
   "posts": {
-    "truth:117282617360268122": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41749",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397</span></p>",
-      "published": "Wed, 16 Sep 2026 20:31:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-16T22:36:00.772101Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41749",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
-      "media_identity": "attachment:117282617360268122:62a9c1b1b46a61c8.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
-      "truth_social_id": "117282617360268122",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397"
-    },
     "truth:117282768740023694": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17471,13 +17458,29 @@
         }
       ]
     },
+    "truth:117464867147953620": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42422",
+      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-park-city-kansas-president-donald-j-trump-ks\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-park-city-kansas-president-donald-j-trump-ks</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18574/b9043137b02693e7-8c4ec237e172.jpg\">View image</a></p>",
+      "published": "Mon, 19 Oct 2026 01:00:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-19T03:15:40.940601Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42422",
+      "source_fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-park-city-kansas-president-donald-j-trump-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachment",
+      "media_identity": "attachment:117464867147953620:b9043137b02693e7.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-park-city-kansas-president-donald-j-trump-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachment",
+      "truth_social_id": "117464867147953620",
+      "translation": "https://events.gop.com/events/midterm-rally-in-park-city-kansas-president-donald-j-trump-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18574/b9043137b02693e7-8c4ec237e172.jpg"
+    },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42328",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18506/56490bbea44af14f-525f291d9c9f.mp4\">View video</a></p>",
       "published": "Wed, 14 Oct 2026 04:15:05 +0000",
-      "updated_at": "2026-10-19T03:10:37.606555Z",
+      "updated_at": "2026-10-19T03:15:33.484089Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42345",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpReposted \nhttps://www.trumpstruth.org/statuses/42328https://truth-archive.us-iad-1.linodeobjects.com/attac",
       "media_identity": "attachment:117437320767757116:56490bbea44af14f.mp4",
@@ -35778,16 +35781,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-19T03:15:53.214111Z"
-    },
-    "truth:117464867147953620": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42422",
-      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-park-city-kansas-president-donald-j-trump-ks\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-park-city-kansas-president-donald-j-trump-ks</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18574/b9043137b02693e7-8c4ec237e172.jpg\">View image</a></p>",
-      "published": "Mon, 19 Oct 2026 01:00:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-19T03:05:34.867383Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42422"
     },
     "truth:117464943162220490": {
       "post_status": "DISCOVERED",
