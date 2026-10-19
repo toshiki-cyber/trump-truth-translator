@@ -35596,14 +35596,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42430",
       "source_text": "<p>The migrants have taken over France. They must CLOSE THE BORDERS, FAST! President DJT</p>",
       "published": "Mon, 19 Oct 2026 11:16:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T13:05:34.189942Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T13:35:35.280392Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42430",
       "first_seen": "2026-10-19T13:05:34.189903Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The migrants have taken over France. They must CLOSE THE BORDERS, FAST! President DJT",
-      "next_retry_at": "2026-10-19T13:10:34.189950Z",
+      "next_retry_at": "2026-10-19T13:45:35.280404Z",
       "truth_social_id": "117467289367307836"
     }
   }
