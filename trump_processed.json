@@ -4355,27 +4355,11 @@
     "https://www.trumpstruth.org/statuses/42420",
     "fp:A must read! Newt Gingrich, \nhttps://truthsocial.com/tags/1\n New York Times Bestselling Author, has a new book, just out, that is spectacular! Entitle",
     "truth:117464943162220490",
-    "https://www.trumpstruth.org/statuses/42421"
+    "https://www.trumpstruth.org/statuses/42421",
+    "truth:117466809182909023",
+    "https://www.trumpstruth.org/statuses/42424"
   ],
   "posts": {
-    "truth:117282972517655406": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41752",
-      "source_text": "<p>First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: <a href=\"https://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/09</span><span class=\"invisible\">/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/</span></a></p>",
-      "published": "Wed, 16 Sep 2026 22:02:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-16T23:11:00.525383Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41752",
-      "first_seen": "2026-09-16T22:45:56.426500Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: \nhttps://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-ove",
-      "truth_social_id": "117282972517655406",
-      "source_fingerprint": "fp:First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: \nhttps://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-ove",
-      "media_identity": "attachment:117282972517655406:",
-      "translation": "初の中間選挙RNC、ライブストリーム視聴数が1億回を超える：\nhttps://www.breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/"
-    },
     "truth:117283156339074391": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17516,6 +17500,24 @@
           "rkey": "3my6xbrahlkyv"
         }
       ]
+    },
+    "truth:117466809182909023": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42424",
+      "source_text": "<p>Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: <a href=\"https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/03/02/us-news/</span><span class=\"invisible\">melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/</span></a></p>",
+      "published": "Mon, 19 Oct 2026 09:14:23 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T11:30:34.249870Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42424",
+      "first_seen": "2026-10-19T11:05:38.132423Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: \nhttps://nypost.com/2026/03/02/us-news/melania-trump-ma",
+      "truth_social_id": "117466809182909023",
+      "source_fingerprint": "fp:Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: \nhttps://nypost.com/2026/03/02/us-news/melania-trump-ma",
+      "media_identity": "attachment:117466809182909023:",
+      "translation": "メラニア・トランプがUN安全保障理事会を統率して歴史を作る――イラン戦争の死者について言及する：\nhttps://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35709,22 +35711,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117466809182909023": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42424",
-      "source_text": "<p>Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: <a href=\"https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/03/02/us-news/</span><span class=\"invisible\">melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/</span></a></p>",
-      "published": "Mon, 19 Oct 2026 09:14:23 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T11:15:40.027244Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42424",
-      "first_seen": "2026-10-19T11:05:38.132423Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: \nhttps://nypost.com/2026/03/02/us-news/melania-trump-ma",
-      "next_retry_at": "2026-10-19T11:25:40.027262Z",
-      "truth_social_id": "117466809182909023"
     },
     "truth:117466841292482027": {
       "post_status": "RETRY",
