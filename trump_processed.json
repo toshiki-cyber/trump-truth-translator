@@ -4422,79 +4422,12 @@
     "https://www.trumpstruth.org/statuses/42446",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18583/6df1da7cfef0cbf3-f8f261b50238.jpg",
     "truth:117469733486272683",
-    "https://www.trumpstruth.org/statuses/42445"
+    "https://www.trumpstruth.org/statuses/42445",
+    "fp:🚨 TEXAS!\nEarly Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if ",
+    "truth:117469660815396195",
+    "https://www.trumpstruth.org/statuses/42448"
   ],
   "posts": {
-    "truth:117290107011309524": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41779",
-      "source_text": "<p>Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJT</p><p>What the disloyal leaks about Iran prove about Trump: <a href=\"https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/</span></a></p>",
-      "published": "Fri, 18 Sep 2026 04:16:42 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-18T04:41:10.181910Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41779",
-      "source_fingerprint": "fp:Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJT\nWhat the disloyal leaks abo",
-      "media_identity": "attachment:117290107011309524:6362ede9c6326f9c.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Very interesting. A must read! Keep on leaking you dirty dogs! When we find you, you will pay a big price!!! President DJT\nWhat the disloyal leaks abo",
-      "truth_social_id": "117290107011309524",
-      "translation": "非常に興味深い。必読だ！リークを続けろ、この汚い奴らめ！お前たちを見つけたら、大きな代償を払うことになるぞ!!!  大統領 DJT\n\nトランプについてのイランリークが証明すること：\nhttps://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvrcpifelsri",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mvrcpifelsri",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "非常に興味深い。必読だ！リークを続けろ、この汚い奴らめ！お前たちを見つけたら、大きな代償を払うことになるぞ!!!  大統領 DJT\n\nトランプについてのイランリークが証明すること：\nhttps://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/",
-        "createdAt": "2026-09-18T04:31:01.099191Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 249,
-              "byteEnd": 359
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.washingtonpost.com/opinions/2026/08/27/iran-trump-took-an-enemy-its-word-if-only-past-leaders-had/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicqiw2fszixkrfcg7vt64rmtwztxw6rfz4uvsd2lcxbqiigwe4a34"
-                },
-                "mimeType": "image/jpeg",
-                "size": 73019
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1013,
-                "height": 1013
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvrcpifelsri",
-          "rkey": "3mvrcpifelsri"
-        }
-      ]
-    },
     "truth:117292378116430890": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17600,6 +17533,24 @@
           "rkey": "3myb3e5mx6slv"
         }
       ]
+    },
+    "truth:117469660815396195": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42448",
+      "source_text": "<p>🚨 TEXAS!</p><p>Early Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Texas, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 19 Oct 2026 21:19:35 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-19T23:25:40.090860Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42448",
+      "first_seen": "2026-10-19T23:05:35.869333Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 TEXAS!\nEarly Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if ",
+      "truth_social_id": "117469660815396195",
+      "source_fingerprint": "fp:🚨 TEXAS!\nEarly Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if ",
+      "media_identity": "attachment:117469660815396195:",
+      "translation": "🚨 テキサス州へ！\n10月19日、素晴らしきテキサス州で期日前投票（対面投票）が本日開始された。郵便投票の投票用紙を受け取った場合は直ちに返送し、受け取っていない場合は今すぐ投票所に行って投票してくれ。そして知人全員に、投票用紙の上から下まで全ての選挙で共和党候補に投票するよう促してくれ！\n早期投票、不在者投票、郵便投票、対面投票のいずれの方法であれ、共和党員は大規模な投票率で過激左翼民主党員を圧倒しなければならない！テキサス州では10月30日まで対面での期日前投票が可能だ。極めて重要だ―投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35793,22 +35744,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117469660815396195": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42448",
-      "source_text": "<p>🚨 TEXAS!</p><p>Early Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Texas, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 19 Oct 2026 21:19:35 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T23:10:36.372243Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42448",
-      "first_seen": "2026-10-19T23:05:35.869333Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 TEXAS!\nEarly Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if ",
-      "next_retry_at": "2026-10-19T23:20:36.372256Z",
-      "truth_social_id": "117469660815396195"
     },
     "truth:117469664819644244": {
       "post_status": "RETRY",
