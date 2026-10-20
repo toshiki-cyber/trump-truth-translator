@@ -4545,27 +4545,12 @@
     "https://www.trumpstruth.org/statuses/42491",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg",
     "truth:117471358881172616",
-    "https://www.trumpstruth.org/statuses/42490"
+    "https://www.trumpstruth.org/statuses/42490",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18600/3af629765f398f28-b1cd519b14c2.jpg",
+    "truth:117471359599978358",
+    "https://www.trumpstruth.org/statuses/42489"
   ],
   "posts": {
-    "truth:117310364553695688": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41832",
-      "source_text": "<p>We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 18:08:27 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T18:55:20.990046Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41832",
-      "first_seen": "2026-09-21T18:30:22.878702Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
-      "truth_social_id": "117310364553695688",
-      "source_fingerprint": "fp:We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of ",
-      "media_identity": "attachment:117310364553695688:",
-      "translation": "ホワイトハウスの敷地をちょうど出発したところだ。新たに建設された非常に美しいヘリポートからの処女飛行だ！ロッキード・マーティンの最高経営責任者ジム・タイケルトに感謝したい。彼は我が国に対するこの貴重な貢献を実現してくれた。我が政府は25年間このことを考えていたが、決して成し遂げることができなかった。私が物事を成し遂げる！また、最も重要なことだが、ワシントンD.C.地域の偉大な建設労働者と石工の皆さんに心からの感謝を捧げたい。彼らは非常に特別なものを創り出した。そしてクラーク・コンストラクションの素晴らしい監督業務にも感謝する。神よ、アメリカを祝福してくれ！大統領 ドナルド・J・トランプ"
-    },
     "truth:117310502008279319": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17991,6 +17976,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg",
       "truth_social_id": "117471358881172616",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg"
+    },
+    "truth:117471359599978358": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42489",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18600/3af629765f398f28-b1cd519b14c2.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T07:05:38.738975Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42489",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18600/3af629765f398f28-b1cd519b14c2.jpg",
+      "media_identity": "attachment:117471359599978358:3af629765f398f28.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18600/3af629765f398f28-b1cd519b14c2.jpg",
+      "truth_social_id": "117471359599978358",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18600/3af629765f398f28-b1cd519b14c2.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36345,16 +36346,6 @@
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
     },
-    "truth:117471359599978358": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42489",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18600/3af629765f398f28-b1cd519b14c2.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:31:37 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.884250Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42489"
-    },
     "truth:117471360268089782": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -36544,6 +36535,36 @@
       "retry_count": 0,
       "updated_at": "2026-10-20T05:05:31.881397Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42506"
+    },
+    "truth:117471491419200330": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42511",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18633/44826f4afe7fd60e-e57120e200d8.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18634/3becc1025321f494-32e2f2fd84f1.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18635/1ae7789210d8bb6e-6ad9fea300bd.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18636/2f0d876cdb3ce3f3-5580330934e2.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 05:05:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T07:05:33.740581Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42511"
+    },
+    "truth:117471494164657339": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42510",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471491419200330</span>Collapsing Sea Wall — Very dangerous to one's health! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18632/e43fffb436d9b87e-306c6fa65a2d.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42511\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18633/44826f4afe7fd60e-e57120e200d8.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18634/3becc1025321f494-32e2f2fd84f1.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18635/1ae7789210d8bb6e-6ad9fea300bd.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18636/2f0d876cdb3ce3f3-5580330934e2.jpg\">View image</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 05:05:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T07:05:33.740426Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42510"
+    },
+    "truth:117471498052081961": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42512",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471474650381574</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18637/ae6e35d7a56228d3-7cb1aafc7ab9.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18638/e4100d73ad01f476-7ef7a7b5ffab.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18639/360d5e57ac9bf090-9927df9da5b2.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18640/f1e690aaac498d0e-6bf6167a8bd1.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42506\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471471550327950</span>Here are pictures of Trash Island for the Judge to study. This is just a small area, and better than some! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18617/7f682840d161a8c8-30946f0c26b6.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18618/ab7e317020030b41-e67342103f99.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18619/d746e35bfd00fc70-8901c475ab9c.jpg\">View image</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 05:06:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T07:05:33.740265Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42512"
     }
   }
 }
