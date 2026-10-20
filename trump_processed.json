@@ -4506,25 +4506,12 @@
     "https://www.trumpstruth.org/statuses/42476",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471278326631542https://truth-archive.us-iad-1.linodeobjects.com/attachments/18593/ec41b9",
     "truth:117471280136066596",
-    "https://www.trumpstruth.org/statuses/42481"
+    "https://www.trumpstruth.org/statuses/42481",
+    "fp:“Trash Island,” Washington, D.C., the nickname for the broken and dilapidated Golf Course that is the subject of frivolous litigation in the United St",
+    "truth:117471169697500011",
+    "https://www.trumpstruth.org/statuses/42473"
   ],
   "posts": {
-    "truth:117306342307545273": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41819",
-      "source_text": "<p>Hitting balls with Bryson D.</p>",
-      "published": "Mon, 21 Sep 2026 01:05:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-21T02:31:14.456377Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41819",
-      "source_fingerprint": "fp:Hitting balls with Bryson D.",
-      "media_identity": "attachment:117306342307545273:7debda68df316938-8de0bc37abeb.mov",
-      "failure_reason": null,
-      "fingerprint": "fp:Hitting balls with Bryson D.",
-      "truth_social_id": "117306342307545273",
-      "translation": "ブライソン・デシャンボーとボールを打っている。"
-    },
     "truth:117306567834657729": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17810,6 +17797,24 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471278326631542https://truth-archive.us-iad-1.linodeobjects.com/attachments/18593/ec41b9",
       "truth_social_id": "117471280136066596",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117471278326631542https://truth-archive.us-iad-1.linodeobjects.com/attachments/18593/ec41b9a85732dd17-f67f0ad99748.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42476https://truth-archive.us-iad-1.linodeobjects.com/attachments/18588/0495af90a3af9d7b-2b12028c10b7.mp4"
+    },
+    "truth:117471169697500011": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42473",
+      "source_text": "<p>“Trash Island,” Washington, D.C., the nickname for the broken and dilapidated Golf Course that is the subject of frivolous litigation in the United States Court System, before a judge that seems not to want Greatness for our Capital or our Nation (but who knows?), has been badly managed for so many decades that it is a completely nonviable and unsafe Project. Our Plan, developed to the Highest Levels and Standards of Golf, will turn Trash Island into an Island of Beauty and Success! It will be one of the Most Wonderful and Spectacular Golf Courses anywhere in the World. The United States Department of the Interior, and its Experts, are so proud of what has been designed that any delay would be sad, both for them and the Public, which is anxiously waiting for something that is really special! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 03:43:19 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T05:40:43.568038Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42473",
+      "first_seen": "2026-10-20T05:15:37.365738Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:“Trash Island,” Washington, D.C., the nickname for the broken and dilapidated Golf Course that is the subject of frivolous litigation in the United St",
+      "truth_social_id": "117471169697500011",
+      "source_fingerprint": "fp:“Trash Island,” Washington, D.C., the nickname for the broken and dilapidated Golf Course that is the subject of frivolous litigation in the United St",
+      "media_identity": "attachment:117471169697500011:",
+      "translation": "「ゴミの島」ことワシントンD.C.の荒れ果てたゴルフコースは、アメリカの裁判制度で些末な訴訟の対象となっており、われわれの首都と国家の繁栄を望まないように見える判事の下にある（だが誰が知るか）。数十年間ひどい管理により、このプロジェクトは完全に実行不可能で危険な状態だ。最高レベルと基準で開発された我々の計画は、ゴミの島を美しさと成功の島に変えるだろう。世界中どこにでもあるような最も素晴らしく壮大なゴルフコースの一つになる。アメリカ内務省とその専門家たちは、設計されたものを非常に誇りに思っており、遅延は彼らにとっても、本当に特別なものを待ち望んでいる国民にとっても悲しいことになるだろう。ドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36067,22 +36072,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-20T03:20:45.907201Z"
-    },
-    "truth:117471169697500011": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42473",
-      "source_text": "<p>“Trash Island,” Washington, D.C., the nickname for the broken and dilapidated Golf Course that is the subject of frivolous litigation in the United States Court System, before a judge that seems not to want Greatness for our Capital or our Nation (but who knows?), has been badly managed for so many decades that it is a completely nonviable and unsafe Project. Our Plan, developed to the Highest Levels and Standards of Golf, will turn Trash Island into an Island of Beauty and Success! It will be one of the Most Wonderful and Spectacular Golf Courses anywhere in the World. The United States Department of the Interior, and its Experts, are so proud of what has been designed that any delay would be sad, both for them and the Public, which is anxiously waiting for something that is really special! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 03:43:19 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T05:25:42.720540Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42473",
-      "first_seen": "2026-10-20T05:15:37.365738Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:“Trash Island,” Washington, D.C., the nickname for the broken and dilapidated Golf Course that is the subject of frivolous litigation in the United St",
-      "next_retry_at": "2026-10-20T05:35:42.720556Z",
-      "truth_social_id": "117471169697500011"
     },
     "truth:117471239022307669": {
       "post_status": "RETRY",
