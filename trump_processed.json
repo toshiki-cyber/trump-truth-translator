@@ -4494,24 +4494,12 @@
     "https://www.trumpstruth.org/statuses/42469",
     "fp:We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to ru",
     "truth:117470630578550684",
-    "https://www.trumpstruth.org/statuses/42468"
+    "https://www.trumpstruth.org/statuses/42468",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18586/browser-safe.mp4",
+    "truth:117471024745207734",
+    "https://www.trumpstruth.org/statuses/42471"
   ],
   "posts": {
-    "truth:117305110887067544": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41815",
-      "source_text": "<p></p>",
-      "published": "Sun, 20 Sep 2026 19:52:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-20T20:40:58.607621Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41815",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117305110887067544:5776d00aa53867af.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117305110887067544",
-      "translation": ""
-    },
     "truth:117305110118463243": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17779,6 +17767,22 @@
       "source_fingerprint": "fp:We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to ru",
       "media_identity": "attachment:117470630578550684:",
       "translation": "我々はクレイジーなシンディ・ホルシャーを打ち負かし、次期カンザス州知事としてタイ・マスターソンを当選させなければならない。シンディ・ホルシャーはカンザス州知事選に立候補した最も過激な候補者だ。ローラ・ケリーさえもホルシャーは極端すぎると言っている。シンディ・ホルシャーは固定資産税の引き上げを支持し、親の親権を剥奪することを支持している。彼女は女性スポーツへの男性参加に投票し、女子ロッカールームへの男性出入りに投票した。彼女はイエスはゲイでトランスジェンダーだと述べ、知事としての役モデルはギャビン・ニューサムになるだろうと言っている。これはホームレス、汚職、高い犯罪率、高いコストを意味する。タイ・マスターソンに投票するために外出しよう！ドナルド・J・トランプ大統領"
+    },
+    "truth:117471024745207734": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42471",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18586/browser-safe.mp4\">View video</a></p>",
+      "published": "Tue, 20 Oct 2026 03:06:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:06:32.201565Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42471",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18586/browser-safe.mp4",
+      "media_identity": "attachment:117471024745207734:b4626511183b6aaf-ad73af5fab13.mov",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18586/browser-safe.mp4",
+      "truth_social_id": "117471024745207734",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18586/browser-safe.mp4"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36036,6 +36040,386 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-20T03:20:45.907201Z"
+    },
+    "truth:117471040549784543": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42472",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18587/1b07b9c72cfc1e60-ffe4dd6965c1.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 03:10:28 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.886939Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42472"
+    },
+    "truth:117471169697500011": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42473",
+      "source_text": "<p>“Trash Island,” Washington, D.C., the nickname for the broken and dilapidated Golf Course that is the subject of frivolous litigation in the United States Court System, before a judge that seems not to want Greatness for our Capital or our Nation (but who knows?), has been badly managed for so many decades that it is a completely nonviable and unsafe Project. Our Plan, developed to the Highest Levels and Standards of Golf, will turn Trash Island into an Island of Beauty and Success! It will be one of the Most Wonderful and Spectacular Golf Courses anywhere in the World. The United States Department of the Interior, and its Experts, are so proud of what has been designed that any delay would be sad, both for them and the Public, which is anxiously waiting for something that is really special! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 03:43:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.886788Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42473"
+    },
+    "truth:117471239022307669": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42474",
+      "source_text": "<p>59 Cities throughout the World have a Triumphal Arch. Washington, D.C., is the only one that doesn’t. With the Arc de Triomphe, in Paris, under siege by the Radical Left Lunatics who have taken over the country, we will assume only 58 remain! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 04:00:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.886641Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42474"
+    },
+    "truth:117471257185488161": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42475",
+      "source_text": "<p>Trump's Kansas Crowd 'Blew the Roof Off the Arena': <a href=\"https://www.breitbart.com/politics/2026/10/19/trumps-kansas-crowd-blew-roof-off-arena/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/10</span><span class=\"invisible\">/19/trumps-kansas-crowd-blew-roof-off-arena/</span></a></p>",
+      "published": "Tue, 20 Oct 2026 04:05:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.886494Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42475"
+    },
+    "truth:117471278326631542": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42476",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18588/0495af90a3af9d7b-2b12028c10b7.mp4\">View video</a></p>",
+      "published": "Tue, 20 Oct 2026 04:10:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.886344Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42476"
+    },
+    "truth:117471280136066596": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42481",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471278326631542</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18593/ec41b9a85732dd17-f67f0ad99748.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42476\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18588/0495af90a3af9d7b-2b12028c10b7.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 04:11:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.886186Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42481"
+    },
+    "truth:117471292631052381": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42480",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18592/d1cc2fe2e76a56cf-8f7dabcab39a.mp4\">View video</a></p>",
+      "published": "Tue, 20 Oct 2026 04:14:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.886039Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42480"
+    },
+    "truth:117471306807375633": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42479",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471292631052381</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18591/8fde510be4a1da4e-3f48666ff4a8.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42480\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18592/d1cc2fe2e76a56cf-8f7dabcab39a.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 04:18:11 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.885893Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42479"
+    },
+    "truth:117471308305608337": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42478",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov\">View video</a></p>",
+      "published": "Tue, 20 Oct 2026 04:18:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.885748Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42478"
+    },
+    "truth:117471316261088736": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42477",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471308305608337</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18589/5c3a325861334a2e-e105101e7e30.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42478\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov\">View video</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 04:20:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.885602Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42477"
+    },
+    "truth:117471344462712217": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42482",
+      "source_text": "<p>Trump says voters should ‘look at France’ to see ‘what’s at stake’ in midterm elections: <a href=\"https://nypost.com/2026/10/19/us-news/trump-says-voters-should-look-at-france-to-see-whats-at-stake-in-midterm-elections/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">trump-says-voters-should-look-at-france-to-see-whats-at-stake-in-midterm-elections/</span></a></p>",
+      "published": "Tue, 20 Oct 2026 04:27:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.885457Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42482"
+    },
+    "truth:117471355631906922": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42496",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18607/f2dc597a542e32c7-0179f9a85176.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:30:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.885310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42496"
+    },
+    "truth:117471356128867722": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42495",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18606/72cbffbfa0928ca8-d08de9b97803.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:30:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.885149Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42495"
+    },
+    "truth:117471356670966028": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42494",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18605/2921ccd5dc35d19e-8474570432f2.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:30:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.885002Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42494"
+    },
+    "truth:117471357170544761": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42493",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:30:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.884854Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42493"
+    },
+    "truth:117471357743666922": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42492",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18603/fcd6c24d2be727a3-10c9eee501fb.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.884706Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42492"
+    },
+    "truth:117471358193071652": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42491",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18602/2cdbed4331fb959b-97bb76c50581.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.884559Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42491"
+    },
+    "truth:117471358881172616": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42490",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:26 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.884411Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42490"
+    },
+    "truth:117471359599978358": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42489",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18600/3af629765f398f28-b1cd519b14c2.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.884250Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42489"
+    },
+    "truth:117471360268089782": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42488",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18599/736d219f2a7de2ea-62d70d622997.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.884105Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42488"
+    },
+    "truth:117471361001952422": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42487",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.883957Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42487"
+    },
+    "truth:117471361607280244": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42486",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:32:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.883810Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42486"
+    },
+    "truth:117471362206459899": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42485",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:32:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.883662Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42485"
+    },
+    "truth:117471363070884444": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42484",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18595/0b274a41fe1b47f5-e67914bee2e5.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:32:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.883515Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42484"
+    },
+    "truth:117471363594788735": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42483",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18594/c5c566875cf7fa49-dff62004140f.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:32:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.883368Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42483"
+    },
+    "truth:117471385009015527": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42498",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18609/ae6779b0a932c7b4-3dbf4208aa66.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:38:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.883207Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42498"
+    },
+    "truth:117471391375312350": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42497",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18608/2419ec264687a370-f9e46c23b02d.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:39:41 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.883061Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42497"
+    },
+    "truth:117471406675997939": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42503",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18614/14862587fbacee93-3b5a0914dfd8.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:43:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.882914Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42503"
+    },
+    "truth:117471407473494348": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42502",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:43:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.882766Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42502"
+    },
+    "truth:117471408098918545": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42501",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:43:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.882615Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42501"
+    },
+    "truth:117471408571404047": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42500",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:44:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.882469Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42500"
+    },
+    "truth:117471411972850232": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42499",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18610/a2392a8f6d6ad313-bc4778d0fda1.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:44:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.882320Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42499"
+    },
+    "truth:117471412913926533": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42504",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18615/405d94b4c3b44288-65339a2cb8d0.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:45:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.882159Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42504"
+    },
+    "truth:117471449851979312": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42505",
+      "source_text": "<p>Trace Gallagher, of FoxNews, is a very talented journalist, and a wonderful guy. He also happens to be “street smart,” and wise! His new book, “Turns Out They Were Right All Along,” which is a Top Seller, is FANTASTIC. Get it now! President DONALD J. TRUMP<br /><a href=\"https://www.amazon.com/Turns-They-Were-Right-Along/dp/0063568837/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;dib_tag=se&amp;dib=eyJ2IjoiMSJ9.F-JrVSzqQIIKYluT3i1Wgo-RoXiInSCDZR7oSgQaf6pafoqTgR-6cOY28LxMjFsdZ-axDrVHYcIpPTZQIXyQtDhDYNP3GtVMOWcYYVmcs1FBompACQiaR7D9QPjCl8PM.o30oeuwSb3BE4RF_aXcfIVkWP21fWRaE5Miq1LsK98c&amp;qid=1792470890&amp;sr=8-1\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Turns-They-Were-Rig</span><span class=\"invisible\">ht-Along/dp/0063568837/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;dib_tag=se&amp;dib=eyJ2IjoiMSJ9.F-JrVSzqQIIKYluT3i1Wgo-RoXiInSCDZR7oSgQaf6pafoqTgR-6cOY28LxMjFsdZ-axDrVHYcIpPTZQIXyQtDhDYNP3GtVMOWcYYVmcs1FBompACQiaR7D9QPjCl8PM.o30oeuwSb3BE4RF_aXcfIVkWP21fWRaE5Miq1LsK98c&amp;qid=1792470890&amp;sr=8-1</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18616/f8ebe35b8e300b26-8618638bdd43.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:54:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.882012Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42505"
+    },
+    "truth:117471464480692811": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42509",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/174/964/548/original/685949427ee97a8f.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/174/964/549/original/3e51b4841a99417b.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/175/088/388/original/9ad39b2adeed148b.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/175/109/625/original/ef8d7f0e7b38a3ec.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:58:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.881857Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42509"
+    },
+    "truth:117471466710724607": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42508",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/711/744/original/03d902cb7ebf3cbe.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/797/473/original/bbf10dc3552b7600.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/797/474/original/7ba256cf5f027d61.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/711/743/original/72dcf60888d285f0.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:58:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.881705Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42508"
+    },
+    "truth:117471471550327950": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42507",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471466710724607</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18620/79d9bc39df58705c-2713b39324a2.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/468/329/807/878/original/bd4d860405540111.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/468/329/807/877/original/b3287912eada8f3f.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/468/330/055/464/original/ebb41a82658e0b3c.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42508\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/711/744/original/03d902cb7ebf3cbe.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/797/473/original/bbf10dc3552b7600.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/797/474/original/7ba256cf5f027d61.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/711/743/original/72dcf60888d285f0.jpg\">View image</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 05:00:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.881554Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42507"
+    },
+    "truth:117471474650381574": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42506",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471471550327950</span>Here are pictures of Trash Island for the Judge to study. This is just a small area, and better than some! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18617/7f682840d161a8c8-30946f0c26b6.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18618/ab7e317020030b41-e67342103f99.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18619/d746e35bfd00fc70-8901c475ab9c.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42507\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471466710724607</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18620/79d9bc39df58705c-2713b39324a2.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/468/329/807/878/original/bd4d860405540111.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/468/329/807/877/original/b3287912eada8f3f.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/468/330/055/464/original/ebb41a82658e0b3c.jpg\">View image</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 05:00:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T05:05:31.881397Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42506"
     }
   }
 }
