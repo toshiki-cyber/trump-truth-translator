@@ -4560,69 +4560,12 @@
     "https://www.trumpstruth.org/statuses/42485",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
     "truth:117471361607280244",
-    "https://www.trumpstruth.org/statuses/42486"
+    "https://www.trumpstruth.org/statuses/42486",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18594/c5c566875cf7fa49-dff62004140f.jpg",
+    "truth:117471363594788735",
+    "https://www.trumpstruth.org/statuses/42483"
   ],
   "posts": {
-    "truth:117312693997244079": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41841",
-      "source_text": "<p>Thanks Johnny. You are a total winner! President DJT</p><p>SPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: <a href=\"https://www.miamiherald.com/sports/article317314631.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">miamiherald.com/sports/article</span><span class=\"invisible\">317314631.html</span></a></p>",
-      "published": "Tue, 22 Sep 2026 04:00:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-22T05:10:18.702250Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41841",
-      "first_seen": "2026-09-22T04:30:22.608220Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
-      "truth_social_id": "117312693997244079",
-      "source_fingerprint": "fp:Thanks Johnny. You are a total winner! President DJT\nSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: \nhttps://",
-      "media_identity": "attachment:117312693997244079:",
-      "translation": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mw3douccxc7g",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ジョニーへ感謝する。お前は最高の勝者だ！大統領ドナルド・トランプ\n\nスポーツ MLB の伝説ジョニー・デイモン トランプ大統領についての意見を謝罪することを拒否：\nhttps://www.miamiherald.com/sports/article317314631.html",
-        "createdAt": "2026-09-22T05:00:36.895525Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 228,
-              "byteEnd": 284
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.miamiherald.com/sports/article317314631.html"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.miamiherald.com/sports/article317314631.html",
-            "title": "https://www.miamiherald.com/sports/article317314631.html",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw3douccxc7g",
-          "rkey": "3mw3douccxc7g"
-        }
-      ]
-    },
     "truth:117314399826449877": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18160,6 +18103,22 @@
           "rkey": "3mybsijvuqkko"
         }
       ]
+    },
+    "truth:117471363594788735": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42483",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18594/c5c566875cf7fa49-dff62004140f.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:32:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T07:50:41.970017Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42483",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18594/c5c566875cf7fa49-dff62004140f.jpg",
+      "media_identity": "attachment:117471363594788735:c5c566875cf7fa49.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18594/c5c566875cf7fa49-dff62004140f.jpg",
+      "truth_social_id": "117471363594788735",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18594/c5c566875cf7fa49-dff62004140f.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36692,16 +36651,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-20T07:50:47.305143Z"
-    },
-    "truth:117471363594788735": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42483",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18594/c5c566875cf7fa49-dff62004140f.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:32:37 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.883368Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42483"
     },
     "truth:117471385009015527": {
       "post_status": "DISCOVERED",
