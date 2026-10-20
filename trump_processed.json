@@ -4488,62 +4488,12 @@
     "https://www.trumpstruth.org/statuses/42458",
     "fp:On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD ",
     "truth:117470606096661361",
-    "https://www.trumpstruth.org/statuses/42457"
+    "https://www.trumpstruth.org/statuses/42457",
+    "fp:Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endors",
+    "truth:117470610998962876",
+    "https://www.trumpstruth.org/statuses/42469"
   ],
   "posts": {
-    "truth:117304284426928910": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41814",
-      "source_text": "<p></p>",
-      "published": "Sun, 20 Sep 2026 16:22:12 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-20T16:40:59.641623Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41814",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117304284426928910:5a5996d1edc8710a.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117304284426928910",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvxm6mwynk2n",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mvxm6mwynk2n",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-20T16:31:02.345921Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreieovv3x5z6vcbhsqczmkv5qufrggxj4uvdwltlkvwdd6dillxvqpa"
-                },
-                "mimeType": "image/jpeg",
-                "size": 141126
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 933,
-                "height": 560
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mvxm6mwynk2n",
-          "rkey": "3mvxm6mwynk2n"
-        }
-      ]
-    },
     "truth:117305109272193640": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17805,6 +17755,24 @@
       "source_fingerprint": "fp:On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD ",
       "media_identity": "attachment:117470606096661361:",
       "translation": "選挙の夜、カンザス州はアメリカが、それを憎む者たちのものではなく、それを愛する者たちのものであることを証明するだろう！大統領ドナルド・J・トランプ"
+    },
+    "truth:117470610998962876": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42469",
+      "source_text": "<p>Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endorsed by the N.R.A. and the Kansas Farm Bureau. He will vote for Low Taxes, Less Regulations, a thriving Kansas Oil and Gas Industry, and NO Illegal Immigration! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 01:21:14 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T04:55:40.666942Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42469",
+      "first_seen": "2026-10-20T03:05:41.055249Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endors",
+      "truth_social_id": "117470610998962876",
+      "source_fingerprint": "fp:Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endors",
+      "media_identity": "attachment:117470610998962876:",
+      "translation": "ロジャー・マーシャルはカンザス州の人々と共産主義者がアメリカ合衆国上院を支配することの間に立つ唯一の存在だ。アダム・ハミルトンと異なり、彼はNRA（全米ライフル協会）とカンザス農業局に支持されている。彼は低い税金、少ない規制、繁栄するカンザスの石油・ガス産業、そして不法移民ゼロに投票する。ドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35998,22 +35966,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117470610998962876": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42469",
-      "source_text": "<p>Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endorsed by the N.R.A. and the Kansas Farm Bureau. He will vote for Low Taxes, Less Regulations, a thriving Kansas Oil and Gas Industry, and NO Illegal Immigration! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 01:21:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T03:15:40.620772Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42469",
-      "first_seen": "2026-10-20T03:05:41.055249Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endors",
-      "next_retry_at": "2026-10-20T03:25:40.620781Z",
-      "truth_social_id": "117470610998962876"
     },
     "truth:117470630578550684": {
       "post_status": "RETRY",
