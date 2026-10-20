@@ -35809,20 +35809,77 @@
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
     },
     "truth:117470380723173497": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/42452",
       "source_text": "<p>The Dumocrat Agenda is a plan to extinguish Western Civilization. They want to open the Borders, shut down the Power Plants, set loose the Criminals, turn your Children transgender, confiscate your money, and raise up the Palestinian Flag, while they defile the American Flag. All of us here tonight represent the Greatest Nation in World History, with the most extraordinary People, the most incredible Art, most Advanced Technology, the most Exceptional Culture ever to exist and, perhaps most importantly, the Greatest Military in the World — and we will not let anyone take it away! President DONALD J. TRUMP</p>",
       "published": "Tue, 20 Oct 2026 00:22:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T01:15:33.122246Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-20T01:40:45.599974Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42452",
       "first_seen": "2026-10-20T01:05:35.866076Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:The Dumocrat Agenda is a plan to extinguish Western Civilization. They want to open the Borders, shut down the Power Plants, set loose the Criminals, ",
-      "next_retry_at": "2026-10-20T01:25:33.122262Z",
-      "truth_social_id": "117470380723173497"
+      "truth_social_id": "117470380723173497",
+      "source_fingerprint": "fp:The Dumocrat Agenda is a plan to extinguish Western Civilization. They want to open the Borders, shut down the Power Plants, set loose the Criminals, ",
+      "media_identity": "attachment:117470380723173497:",
+      "translation": "民主党のアジェンダは西洋文明を消滅させる計画だ。彼らは国境を開放し、発電所を閉鎖し、犯罪者を野放しにし、お前たちの子どもをトランスジェンダーに変え、お前たちの金を没収し、パレスチナの旗を掲げる一方で、アメリカの国旗を汚す。今夜ここにいる私たちは皆、世界史上最高の国家を代表している。最も並外れた国民、最も素晴らしい芸術、最も先進的な技術、かつて存在したことのない最も例外的な文化、そして恐らく最も重要なことに、世界で最も偉大な軍隊を持つ国だ。そして私たちは誰にもそれを奪わせない！ドナルド・J・トランプ大統領",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybeki64ak55",
+          "cid": "bafyreido7km76iuzk3hlb33hgqdfqt3kjapyze7bevrhwfajpn4rqbpb2e"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybeki64ak55",
+          "cid": "bafyreido7km76iuzk3hlb33hgqdfqt3kjapyze7bevrhwfajpn4rqbpb2e"
+        },
+        "next_index": 1,
+        "last_rkey": "3mybeki64ak55",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "民主党のアジェンダは西洋文明を消滅させる計画だ。彼らは国境を開放し、発電所を閉鎖し、犯罪者を野放しにし、お前たちの子どもをトランスジェンダーに変え、お前たちの金を没収し、パレスチナの旗を掲げる一方で、アメリカの国旗を汚す。今夜ここにいる私たちは皆、世界史上最高の国家を代表している。最も並外れた国民、最も素晴らしい芸術、最も先進的な技術、かつて存在したことのない最も例外的な文化、そして恐らく最も重要なことに、世界で最も偉大な軍隊を持つ国だ。そして私たちは誰にもそれを奪わせない！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-10-20T01:40:38.674174Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "root_rkey": "3mybeki64ak55",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "民主党のアジェンダは西洋文明を消滅させる計画だ。彼らは国境を開放し、発電所を閉鎖し、犯罪者を野放しにし、お前たちの子どもをトランスジェンダーに変え、お前たちの金を没収し、パレスチナの旗を掲げる一方で、アメリカの国旗を汚す。今夜ここにいる私たちは皆、世界史上最高の国家を代表している。最も並外れた国民、最も素晴らしい芸術、最も先進的な技術、かつて存在したことのない最も例外的な文化、そして恐らく最も重要なことに、世界で最も偉大な軍隊を持つ国だ。そして私たちは誰にもそれを奪わせない！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-10-20T01:40:38.674174Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybeki64ak55",
+            "rkey": "3mybeki64ak55"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybeki64ak55",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mybeki64ak55",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "民主党のアジェンダは西洋文明を消滅させる計画だ。彼らは国境を開放し、発電所を閉鎖し、犯罪者を野放しにし、お前たちの子どもをトランスジェンダーに変え、お前たちの金を没収し、パレスチナの旗を掲げる一方で、アメリカの国旗を汚す。今夜ここにいる私たちは皆、世界史上最高の国家を代表している。最も並外れた国民、最も素晴らしい芸術、最も先進的な技術、かつて存在したことのない最も例外的な文化、そして恐らく最も重要なことに、世界で最も偉大な軍隊を持つ国だ。そして私たちは誰にもそれを奪わせない！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-10-20T01:40:38.674174Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybeki64ak55",
+          "rkey": "3mybeki64ak55"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-20T01:45:45.599992Z"
     },
     "truth:117470395373605336": {
       "post_status": "RETRY",
