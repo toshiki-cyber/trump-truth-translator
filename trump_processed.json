@@ -4533,27 +4533,12 @@
     "https://www.trumpstruth.org/statuses/42495",
     "fp:Trump says voters should ‘look at France’ to see ‘what’s at stake’ in midterm elections: \nhttps://nypost.com/2026/10/19/us-news/trump-says-voters-shou",
     "truth:117471344462712217",
-    "https://www.trumpstruth.org/statuses/42482"
+    "https://www.trumpstruth.org/statuses/42482",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg",
+    "truth:117471357170544761",
+    "https://www.trumpstruth.org/statuses/42493"
   ],
   "posts": {
-    "truth:117309573610238654": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41828",
-      "source_text": "<p>The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than we are currently paying to Canada, very good news for our Farmers and Ranchers. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 14:47:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T16:50:27.256319Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41828",
-      "first_seen": "2026-09-21T16:30:25.445545Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than w",
-      "truth_social_id": "117309573610238654",
-      "source_fingerprint": "fp:The United States is working on a massive Deal with respect to the purchase of Potash from Belarus. The pricing would be for substantially less than w",
-      "media_identity": "attachment:117309573610238654:",
-      "translation": "米国はベラルーシからのカリ塩化物購入に関する大規模な取引に取り組んでいる。現在カナダに支払っている価格よりも大幅に低い価格設定となり、我々の農民と牧場主にとって非常に朗報である。この件への注目をいただきありがとう！大統領 ドナルド・J・トランプ"
-    },
     "truth:117309799376551907": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17987,6 +17972,22 @@
       "source_fingerprint": "fp:Trump says voters should ‘look at France’ to see ‘what’s at stake’ in midterm elections: \nhttps://nypost.com/2026/10/19/us-news/trump-says-voters-shou",
       "media_identity": "attachment:117471344462712217:",
       "translation": "トランプは有権者が中間選挙で「何が危機に瀕しているか」を見るために「フランスを見ろ」と述べている：\nhttps://nypost.com/2026/10/19/us-news/trump-says-voters-should-look-at-france-to-see-whats-at-stake-in-midterm-elections/"
+    },
+    "truth:117471357170544761": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42493",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:30:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T06:45:37.984450Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42493",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg",
+      "media_identity": "attachment:117471357170544761:c8cd947c60f32f7e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg",
+      "truth_social_id": "117471357170544761",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36340,16 +36341,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471357170544761": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42493",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:30:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.884854Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42493"
     },
     "truth:117471357743666922": {
       "post_status": "DISCOVERED",
