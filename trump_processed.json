@@ -4593,24 +4593,12 @@
     "https://www.trumpstruth.org/statuses/42504",
     "fp:Trace Gallagher, of FoxNews, is a very talented journalist, and a wonderful guy. He also happens to be “street smart,” and wise! His new book, “Turns ",
     "truth:117471449851979312",
-    "https://www.trumpstruth.org/statuses/42505"
+    "https://www.trumpstruth.org/statuses/42505",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+    "truth:117471464480692811",
+    "https://www.trumpstruth.org/statuses/42509"
   ],
   "posts": {
-    "truth:117322092055919832": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41853",
-      "source_text": "<p></p>",
-      "published": "Wed, 23 Sep 2026 19:50:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-23T20:35:29.104883Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41853",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117322092055919832:5b7c50844c6f358f.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117322092055919832",
-      "translation": ""
-    },
     "truth:117323148147220269": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18311,6 +18299,22 @@
       "fingerprint": "fp:Trace Gallagher, of FoxNews, is a very talented journalist, and a wonderful guy. He also happens to be “street smart,” and wise! His new book, “Turns ",
       "truth_social_id": "117471449851979312",
       "translation": "トレース・ギャラハーはフォックスニュースの非常に才能あるジャーナリストで、素晴らしい男だ。彼はまた「街中での知恵」があり、賢い！彼の新著『結局、彼らは最初から正しかったのだ』はベストセラーとなっているが、素晴らしい本だ。今すぐ手に入れろ！ドナルド・J・トランプ大統領\nhttps://www.amazon.com/Turns-They-Were-Right-Along/dp/0063568837/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.F-JrVSzqQIIKYluT3i1Wgo-RoXiInSCDZR7oSgQaf6pafoqTgR-6cOY28LxMjFsdZ-axDrVHYcIpPTZQIXyQtDhDYNP3GtVMOWcYYVmcs1FBompACQiaR7D9QPjCl8PM.o30oeuwSb3BE4RF_aXcfIVkWP21fWRaE5Miq1LsK98c&qid=1792470890&sr=8-1https://truth-archive.us-iad-1.linodeobjects.com/attachments/18616/f8ebe35b8e300b26-8618638bdd43.jpg"
+    },
+    "truth:117471464480692811": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42509",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18629/3e51b4841a99417b-b91e29e9053d.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18630/9ad39b2adeed148b-8c4c886b1084.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18631/ef8d7f0e7b38a3ec-9f6af328bc75.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:58:17 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T09:00:37.819740Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42509",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "media_identity": "attachment:117471464480692811:3e51b4841a99417b.jpg,685949427ee97a8f.jpg,9ad39b2adeed148b.jpg,ef8d7f0e7b38a3ec.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "truth_social_id": "117471464480692811",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18629/3e51b4841a99417b-b91e29e9053d.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18630/9ad39b2adeed148b-8c4c886b1084.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18631/ef8d7f0e7b38a3ec-9f6af328bc75.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36664,16 +36668,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471464480692811": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42509",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/174/964/548/original/685949427ee97a8f.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/174/964/549/original/3e51b4841a99417b.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/175/088/388/original/9ad39b2adeed148b.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/463/175/109/625/original/ef8d7f0e7b38a3ec.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:58:17 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.881857Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42509"
     },
     "truth:117471466710724607": {
       "post_status": "DISCOVERED",
