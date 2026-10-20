@@ -4596,27 +4596,12 @@
     "https://www.trumpstruth.org/statuses/42505",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
     "truth:117471464480692811",
-    "https://www.trumpstruth.org/statuses/42509"
+    "https://www.trumpstruth.org/statuses/42509",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811https://truth-archive.us-iad-1.linodeobjects.com/attachments/18624/03d902",
+    "truth:117471466710724607",
+    "https://www.trumpstruth.org/statuses/42508"
   ],
   "posts": {
-    "truth:117323148147220269": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41855",
-      "source_text": "<p>BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP</p>",
-      "published": "Thu, 24 Sep 2026 00:19:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T00:50:31.274800Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41855",
-      "first_seen": "2026-09-24T00:31:00.454380Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 mor",
-      "truth_social_id": "117323148147220269",
-      "source_fingerprint": "fp:BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 mor",
-      "media_identity": "attachment:117323148147220269:",
-      "translation": "ボーイングとアメリカ製造業にとってビッグデーだ！本日、ハワード・ルトニックと商務省のサポートに続いて、トルコとバングラデシュがボーイング航空機111機の購入を発表した。さらに50機のオプション付きだ。数百億ドルの売上、そして膨大なアメリカの輸出品だ。国中で数万のアメリカ人労働者の雇用を支えている。市場がずっと前からボーイングと私が知っていたことを認識している。アメリカで製造し、アメリカから輸出し、アメリカ人労働者を支援すれば、企業はより強くなるということだ。ボーイングと素晴らしい労働力の皆さんに祝辞を送る！ドナルド・J・トランプ大統領"
-    },
     "truth:117323155721195611": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18315,6 +18300,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
       "truth_social_id": "117471464480692811",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18628/685949427ee97a8f-6c1a11dc5b7e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18629/3e51b4841a99417b-b91e29e9053d.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18630/9ad39b2adeed148b-8c4c886b1084.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18631/ef8d7f0e7b38a3ec-9f6af328bc75.jpg"
+    },
+    "truth:117471466710724607": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42508",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18624/03d902cb7ebf3cbe-fda834426371.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18625/bbf10dc3552b7600-8d964a4ad3df.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18626/7ba256cf5f027d61-6c963fb1bf1b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18627/72dcf60888d285f0-3b812bcba61b.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:58:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T09:05:34.773627Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42508",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811https://truth-archive.us-iad-1.linodeobjects.com/attachments/18624/03d902",
+      "media_identity": "attachment:117471466710724607:03d902cb7ebf3cbe.jpg,72dcf60888d285f0.jpg,7ba256cf5f027d61.jpg,bbf10dc3552b7600.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811https://truth-archive.us-iad-1.linodeobjects.com/attachments/18624/03d902",
+      "truth_social_id": "117471466710724607",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811https://truth-archive.us-iad-1.linodeobjects.com/attachments/18624/03d902cb7ebf3cbe-fda834426371.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18625/bbf10dc3552b7600-8d964a4ad3df.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18626/7ba256cf5f027d61-6c963fb1bf1b.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18627/72dcf60888d285f0-3b812bcba61b.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36668,16 +36669,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471466710724607": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42508",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471464480692811</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/711/744/original/03d902cb7ebf3cbe.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/797/473/original/bbf10dc3552b7600.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/797/474/original/7ba256cf5f027d61.jpg\">View image</a></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/471/465/337/711/743/original/72dcf60888d285f0.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:58:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.881705Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42508"
     },
     "truth:117471471550327950": {
       "post_status": "DISCOVERED",
