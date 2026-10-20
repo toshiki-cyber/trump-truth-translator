@@ -4611,27 +4611,12 @@
     "https://www.trumpstruth.org/statuses/42511",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471491419200330Collapsing Sea Wall — Very dangerous to one's health! President DONALD J.",
     "truth:117471494164657339",
-    "https://www.trumpstruth.org/statuses/42510"
+    "https://www.trumpstruth.org/statuses/42510",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471474650381574https://truth-archive.us-iad-1.linodeobjects.com/attachments/18637/ae6e35",
+    "truth:117471498052081961",
+    "https://www.trumpstruth.org/statuses/42512"
   ],
   "posts": {
-    "truth:117326044871082645": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41872",
-      "source_text": "<p>Midterm Fact Check: Don’t believe the economic doomers: <a href=\"https://www.foxnews.com/video/6405515361112\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/video/640551536111</span><span class=\"invisible\">2</span></a></p>",
-      "published": "Thu, 24 Sep 2026 12:36:10 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T14:55:27.716279Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41872",
-      "first_seen": "2026-09-24T14:35:28.733949Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Midterm Fact Check: Don’t believe the economic doomers: \nhttps://www.foxnews.com/video/6405515361112",
-      "truth_social_id": "117326044871082645",
-      "source_fingerprint": "fp:Midterm Fact Check: Don’t believe the economic doomers: \nhttps://www.foxnews.com/video/6405515361112",
-      "media_identity": "attachment:117326044871082645:",
-      "translation": "中間選挙ファクトチェック：経済的な悲観論者の言うことを信じるな：\nhttps://www.foxnews.com/video/6405515361112"
-    },
     "truth:117326047233268228": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18326,6 +18311,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471491419200330Collapsing Sea Wall — Very dangerous to one's health! President DONALD J.",
       "truth_social_id": "117471494164657339",
       "translation": "転送：https://truthsocial.com/users/realDonaldTrump/statuses/117471491419200330Collapsing 防潮堤—健康に非常に危険だ！ドナルド・J・トランプ大統領\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18632/e43fffb436d9b87e-306c6fa65a2d.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42511https://truth-archive.us-iad-1.linodeobjects.com/attachments/18633/44826f4afe7fd60e-e57120e200d8.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18634/3becc1025321f494-32e2f2fd84f1.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18635/1ae7789210d8bb6e-6ad9fea300bd.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18636/2f0d876cdb3ce3f3-5580330934e2.jpg"
+    },
+    "truth:117471498052081961": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42512",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471474650381574</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18637/ae6e35d7a56228d3-7cb1aafc7ab9.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18638/e4100d73ad01f476-7ef7a7b5ffab.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18639/360d5e57ac9bf090-9927df9da5b2.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18640/f1e690aaac498d0e-6bf6167a8bd1.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42506\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471471550327950</span>Here are pictures of Trash Island for the Judge to study. This is just a small area, and better than some! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18617/7f682840d161a8c8-30946f0c26b6.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18618/ab7e317020030b41-e67342103f99.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18619/d746e35bfd00fc70-8901c475ab9c.jpg\">View image</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 05:06:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T09:30:45.922814Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42512",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471474650381574https://truth-archive.us-iad-1.linodeobjects.com/attachments/18637/ae6e35",
+      "media_identity": "attachment:117471498052081961:360d5e57ac9bf090.jpg,ae6e35d7a56228d3.jpg,e4100d73ad01f476.jpg,f1e690aaac498d0e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471474650381574https://truth-archive.us-iad-1.linodeobjects.com/attachments/18637/ae6e35",
+      "truth_social_id": "117471498052081961",
+      "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471474650381574https://truth-archive.us-iad-1.linodeobjects.com/attachments/18637/ae6e35d7a56228d3-7cb1aafc7ab9.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18638/e4100d73ad01f476-7ef7a7b5ffab.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18639/360d5e57ac9bf090-9927df9da5b2.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18640/f1e690aaac498d0e-6bf6167a8bd1.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42506RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471471550327950Hereは裁判官が研究するための「ゴミの島」の写真だ。ここはほんの小さなエリアで、いくつかよりはましなくらいだ！大統領 ドナルド・J・トランプ\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18617/7f682840d161a8c8-30946f0c26b6.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18618/ab7e317020030b41-e67342103f99.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18619/d746e35bfd00fc70-8901c475ab9c.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36679,16 +36680,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471498052081961": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42512",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471474650381574</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18637/ae6e35d7a56228d3-7cb1aafc7ab9.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18638/e4100d73ad01f476-7ef7a7b5ffab.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18639/360d5e57ac9bf090-9927df9da5b2.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18640/f1e690aaac498d0e-6bf6167a8bd1.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42506\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471471550327950</span>Here are pictures of Trash Island for the Judge to study. This is just a small area, and better than some! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18617/7f682840d161a8c8-30946f0c26b6.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18618/ab7e317020030b41-e67342103f99.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18619/d746e35bfd00fc70-8901c475ab9c.jpg\">View image</a></p></blockquote>",
-      "published": "Tue, 20 Oct 2026 05:06:49 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T07:05:33.740265Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42512"
     }
   }
 }
