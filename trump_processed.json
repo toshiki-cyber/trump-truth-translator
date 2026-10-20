@@ -4554,27 +4554,12 @@
     "https://www.trumpstruth.org/statuses/42488",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg",
     "truth:117471361001952422",
-    "https://www.trumpstruth.org/statuses/42487"
+    "https://www.trumpstruth.org/statuses/42487",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg",
+    "truth:117471362206459899",
+    "https://www.trumpstruth.org/statuses/42485"
   ],
   "posts": {
-    "truth:117310775870715938": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41837",
-      "source_text": "<p>While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 19:53:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T21:25:21.414960Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41837",
-      "first_seen": "2026-09-21T20:55:21.077089Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with som",
-      "truth_social_id": "117310775870715938",
-      "source_fingerprint": "fp:While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with som",
-      "media_identity": "attachment:117310775870715938:",
-      "translation": "ニューヨーク市にいるが、世界でも好きな場所の一つであるグレイシー・マンションに向かっているところだ。長年にわたってそこで多くの時間を過ごしてきた。優れた市長もいれば、平均的な市長もいた。悪い市長もいた。マムダニ市長に招待されて、今がどのような状態になっているか見るのは興味深いだろう。楽しみにしている。ニューヨーク市を再び偉大にしよう！ドナルド・J・トランプ大統領"
-    },
     "truth:117312531137546490": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18104,6 +18089,22 @@
           "rkey": "3mybsib3yactk"
         }
       ]
+    },
+    "truth:117471362206459899": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42485",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:32:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T07:35:45.311006Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42485",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg",
+      "media_identity": "attachment:117471362206459899:028c0d107d316af3.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg",
+      "truth_social_id": "117471362206459899",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36636,16 +36637,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-20T07:35:48.433831Z"
-    },
-    "truth:117471362206459899": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42485",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:32:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.883662Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42485"
     },
     "truth:117471363070884444": {
       "post_status": "DISCOVERED",
