@@ -4491,24 +4491,12 @@
     "https://www.trumpstruth.org/statuses/42457",
     "fp:Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endors",
     "truth:117470610998962876",
-    "https://www.trumpstruth.org/statuses/42469"
+    "https://www.trumpstruth.org/statuses/42469",
+    "fp:We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to ru",
+    "truth:117470630578550684",
+    "https://www.trumpstruth.org/statuses/42468"
   ],
   "posts": {
-    "truth:117305109272193640": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41817",
-      "source_text": "<p></p>",
-      "published": "Sun, 20 Sep 2026 19:51:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-20T20:31:00.685975Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41817",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117305109272193640:6b5a767d7045385d.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117305109272193640",
-      "translation": ""
-    },
     "truth:117305110887067544": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17773,6 +17761,24 @@
       "source_fingerprint": "fp:Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endors",
       "media_identity": "attachment:117470610998962876:",
       "translation": "ロジャー・マーシャルはカンザス州の人々と共産主義者がアメリカ合衆国上院を支配することの間に立つ唯一の存在だ。アダム・ハミルトンと異なり、彼はNRA（全米ライフル協会）とカンザス農業局に支持されている。彼は低い税金、少ない規制、繁栄するカンザスの石油・ガス産業、そして不法移民ゼロに投票する。ドナルド・J・トランプ大統領"
+    },
+    "truth:117470630578550684": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42468",
+      "source_text": "<p>We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to run for Kansas Governor. Even Laura Kelly said Holscher is too extreme. Cindy Holscher supported RAISING your Property Taxes, and stripping Parents of their Parental Rights. She voted for Men in Women’s Sports, and Men in Girls’ Locker Rooms. She said that Jesus was gay and transgender, and that her role model, as Governor, would be Gavin Newscum, which means Homelessness, Corruption, High Crime, and High Costs. GET OUT AND VOTE FOR TY MASTERSON! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 01:26:13 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T05:00:42.758852Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42468",
+      "first_seen": "2026-10-20T03:05:41.766837Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to ru",
+      "truth_social_id": "117470630578550684",
+      "source_fingerprint": "fp:We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to ru",
+      "media_identity": "attachment:117470630578550684:",
+      "translation": "我々はクレイジーなシンディ・ホルシャーを打ち負かし、次期カンザス州知事としてタイ・マスターソンを当選させなければならない。シンディ・ホルシャーはカンザス州知事選に立候補した最も過激な候補者だ。ローラ・ケリーさえもホルシャーは極端すぎると言っている。シンディ・ホルシャーは固定資産税の引き上げを支持し、親の親権を剥奪することを支持している。彼女は女性スポーツへの男性参加に投票し、女子ロッカールームへの男性出入りに投票した。彼女はイエスはゲイでトランスジェンダーだと述べ、知事としての役モデルはギャビン・ニューサムになるだろうと言っている。これはホームレス、汚職、高い犯罪率、高いコストを意味する。タイ・マスターソンに投票するために外出しよう！ドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35966,22 +35972,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117470630578550684": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42468",
-      "source_text": "<p>We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to run for Kansas Governor. Even Laura Kelly said Holscher is too extreme. Cindy Holscher supported RAISING your Property Taxes, and stripping Parents of their Parental Rights. She voted for Men in Women’s Sports, and Men in Girls’ Locker Rooms. She said that Jesus was gay and transgender, and that her role model, as Governor, would be Gavin Newscum, which means Homelessness, Corruption, High Crime, and High Costs. GET OUT AND VOTE FOR TY MASTERSON! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 01:26:13 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T03:15:41.083722Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42468",
-      "first_seen": "2026-10-20T03:05:41.766837Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:We must defeat Crazy Cindy Holscher, and elect Ty Masterson to be the next Governor of Kansas. Cindy Holscher is the Most Radical Candidate ever to ru",
-      "next_retry_at": "2026-10-20T03:25:41.083732Z",
-      "truth_social_id": "117470630578550684"
     },
     "truth:117470919606451999": {
       "post_status": "RETRY",
