@@ -4581,28 +4581,12 @@
     "https://www.trumpstruth.org/statuses/42502",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg",
     "truth:117471408098918545",
-    "https://www.trumpstruth.org/statuses/42501"
+    "https://www.trumpstruth.org/statuses/42501",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg",
+    "truth:117471408571404047",
+    "https://www.trumpstruth.org/statuses/42500"
   ],
   "posts": {
-    "truth:117320581360547091": {
-      "post_status": "POSTED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41851",
-      "source_text": "<p>Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP</p>",
-      "published": "Wed, 23 Sep 2026 13:26:43 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-23T14:35:27.902144Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41851",
-      "source_fingerprint": "fp:Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
-      "media_identity": "attachment:117320581360547091:51f2c075b0d1f0cd-b1b702687688.mov",
-      "failure_reason": null,
-      "fingerprint": "fp:Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
-      "truth_social_id": "117320581360547091",
-      "allow_text_fallback": true,
-      "fallback_policy_version": 1,
-      "media_fallback_reason": "動画候補がすべて不正: 動画サイズ超過: 104.7MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/320/579/923/621/982/original/51f2c075b0d1f0cd.mp4",
-      "translation": "ヴィクター・デイヴィス・ハンソンがカナダについて語る — 必見だ！ドナルド・J・トランプ大統領"
-    },
     "truth:117320385350427395": {
       "post_status": "POSTED",
       "media_state": "INVALID",
@@ -18341,6 +18325,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg",
       "truth_social_id": "117471408098918545",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg"
+    },
+    "truth:117471408571404047": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42500",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:44:04 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T08:40:42.366673Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42500",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg",
+      "media_identity": "attachment:117471408571404047:9f2a66fc024bf729.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg",
+      "truth_social_id": "117471408571404047",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36694,16 +36694,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471408571404047": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42500",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:44:04 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.882469Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42500"
     },
     "truth:117471411972850232": {
       "post_status": "DISCOVERED",
