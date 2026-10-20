@@ -4578,27 +4578,12 @@
     "https://www.trumpstruth.org/statuses/42503",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg",
     "truth:117471407473494348",
-    "https://www.trumpstruth.org/statuses/42502"
+    "https://www.trumpstruth.org/statuses/42502",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg",
+    "truth:117471408098918545",
+    "https://www.trumpstruth.org/statuses/42501"
   ],
   "posts": {
-    "truth:117318371569831036": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41845",
-      "source_text": "<p>Ruddy: 'A Rising Trump Lifts All Boats': <a href=\"https://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/ruddy/ruddy-donald</span><span class=\"invisible\">-trump-economy/2026/09/13/id/1269294/</span></a></p>",
-      "published": "Wed, 23 Sep 2026 04:04:44 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-23T05:10:18.958246Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41845",
-      "first_seen": "2026-09-23T04:35:24.490184Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
-      "truth_social_id": "117318371569831036",
-      "source_fingerprint": "fp:Ruddy: 'A Rising Trump Lifts All Boats': \nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/",
-      "media_identity": "attachment:117318371569831036:",
-      "translation": "ラディ：『トランプの台頭はすべての舟を持ち上げる』\nhttps://www.newsmax.com/ruddy/ruddy-donald-trump-economy/2026/09/13/id/1269294/"
-    },
     "truth:117320581360547091": {
       "post_status": "POSTED",
       "media_state": "INVALID",
@@ -18340,6 +18325,22 @@
           "rkey": "3mybt5fdypcsu"
         }
       ]
+    },
+    "truth:117471408098918545": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42501",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:43:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T08:35:36.191114Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42501",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg",
+      "media_identity": "attachment:117471408098918545:d2fb0f4ae52c4191.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg",
+      "truth_social_id": "117471408098918545",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36693,16 +36694,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471408098918545": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42501",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18612/d2fb0f4ae52c4191-ff984b77ac95.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:43:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.882615Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42501"
     },
     "truth:117471408571404047": {
       "post_status": "DISCOVERED",
