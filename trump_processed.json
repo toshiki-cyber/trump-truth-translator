@@ -4464,25 +4464,12 @@
     "https://www.trumpstruth.org/statuses/42465",
     "fp:We inherited the Worst Border in American History, and we turned it into the Strongest and Most Secure Border in the History of our Country. In the pa",
     "truth:117470592459221432",
-    "https://www.trumpstruth.org/statuses/42466"
+    "https://www.trumpstruth.org/statuses/42466",
+    "fp:Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LARGEST TAX CUTS IN AMERICAN HISTORY. We gave you NO TAX ON TIP",
+    "truth:117470594815032154",
+    "https://www.trumpstruth.org/statuses/42464"
   ],
   "posts": {
-    "truth:117294485458402353": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41804",
-      "source_text": "<p>TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:</p>",
-      "published": "Fri, 18 Sep 2026 22:50:11 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-19T00:41:00.270602Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41804",
-      "source_fingerprint": "fp:TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
-      "media_identity": "attachment:117294485458402353:aafc3b496b3b349a.jpg,e3c9278a523e9474.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:TOP 25 TRUMP ACCOMPLISHMENTS OF TERM THREE:",
-      "truth_social_id": "117294485458402353",
-      "translation": "トランプ大統領のTruth Social投稿の日本語翻訳：\n\n第3期トランプの実績TOP25："
-    },
     "truth:117298413844042212": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17704,6 +17691,24 @@
           "rkey": "3mybhkrdfjkz4"
         }
       ]
+    },
+    "truth:117470594815032154": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42464",
+      "source_text": "<p>Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LARGEST TAX CUTS IN AMERICAN HISTORY. We gave you NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY for our Great Seniors! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 01:17:07 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T03:55:36.945528Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42464",
+      "first_seen": "2026-10-20T03:05:36.537059Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LARGEST TAX CUTS IN AMERICAN HISTORY. We gave you NO TAX ON TIP",
+      "truth_social_id": "117470594815032154",
+      "source_fingerprint": "fp:Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LARGEST TAX CUTS IN AMERICAN HISTORY. We gave you NO TAX ON TIP",
+      "media_identity": "attachment:117470594815032154:",
+      "translation": "共和党議会のおかげで、私はTHE GREAT BIG BEAUTIFUL BILLに署名し、アメリカ史上最大の減税を実現させた。チップへの課税なし、残業代への課税なし、そして素晴らしい高齢者たちの社会保障への課税なしを提供したのだ！\n\nドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35897,22 +35902,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117470594815032154": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42464",
-      "source_text": "<p>Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LARGEST TAX CUTS IN AMERICAN HISTORY. We gave you NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY for our Great Seniors! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 01:17:07 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T03:15:37.102383Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42464",
-      "first_seen": "2026-10-20T03:05:36.537059Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LARGEST TAX CUTS IN AMERICAN HISTORY. We gave you NO TAX ON TIP",
-      "next_retry_at": "2026-10-20T03:25:37.102393Z",
-      "truth_social_id": "117470594815032154"
     },
     "truth:117470595904971292": {
       "post_status": "RETRY",
