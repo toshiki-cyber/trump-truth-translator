@@ -4584,62 +4584,12 @@
     "https://www.trumpstruth.org/statuses/42501",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg",
     "truth:117471408571404047",
-    "https://www.trumpstruth.org/statuses/42500"
+    "https://www.trumpstruth.org/statuses/42500",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18610/a2392a8f6d6ad313-bc4778d0fda1.jpg",
+    "truth:117471411972850232",
+    "https://www.trumpstruth.org/statuses/42499"
   ],
   "posts": {
-    "truth:117320385350427395": {
-      "post_status": "POSTED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41849",
-      "source_text": "<p>Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP</p>",
-      "published": "Wed, 23 Sep 2026 12:36:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-23T14:40:27.716950Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41849",
-      "source_fingerprint": "fp:Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
-      "media_identity": "attachment:117320385350427395:72924393611df8f4-619827c0c64e.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
-      "truth_social_id": "117320385350427395",
-      "allow_text_fallback": true,
-      "fallback_policy_version": 1,
-      "media_fallback_reason": "動画候補がすべて不正: 動画サイズ超過: 139.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/320/383/467/154/855/original/72924393611df8f4.mp4",
-      "translation": "素晴らしいロバート・グリーンウェイとジェシーに感謝する。彼らは理解している！ドナルド・J・トランプ大統領より",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw6qyi7qpcyn",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mw6qyi7qpcyn",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "素晴らしいロバート・グリーンウェイとジェシーに感謝する。彼らは理解している！ドナルド・J・トランプ大統領より\n\n動画はこちら：https://truthsocial.com/@realDonaldTrump/posts/117320385350427395",
-        "createdAt": "2026-09-23T14:30:27.294527Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 183,
-              "byteEnd": 248
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/@realDonaldTrump/posts/117320385350427395"
-              }
-            ]
-          }
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mw6qyi7qpcyn",
-          "rkey": "3mw6qyi7qpcyn"
-        }
-      ]
-    },
     "truth:117320509296515188": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18341,6 +18291,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg",
       "truth_social_id": "117471408571404047",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18611/9f2a66fc024bf729-645ddb4fbcf7.jpg"
+    },
+    "truth:117471411972850232": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42499",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18610/a2392a8f6d6ad313-bc4778d0fda1.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:44:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T08:45:46.363308Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42499",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18610/a2392a8f6d6ad313-bc4778d0fda1.jpg",
+      "media_identity": "attachment:117471411972850232:a2392a8f6d6ad313.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18610/a2392a8f6d6ad313-bc4778d0fda1.jpg",
+      "truth_social_id": "117471411972850232",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18610/a2392a8f6d6ad313-bc4778d0fda1.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36694,16 +36660,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471411972850232": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42499",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18610/a2392a8f6d6ad313-bc4778d0fda1.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:44:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.882320Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42499"
     },
     "truth:117471412913926533": {
       "post_status": "DISCOVERED",
