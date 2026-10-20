@@ -4524,27 +4524,12 @@
     "https://www.trumpstruth.org/statuses/42477",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18607/f2dc597a542e32c7-0179f9a85176.jpg",
     "truth:117471355631906922",
-    "https://www.trumpstruth.org/statuses/42496"
+    "https://www.trumpstruth.org/statuses/42496",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18605/2921ccd5dc35d19e-8474570432f2.jpg",
+    "truth:117471356670966028",
+    "https://www.trumpstruth.org/statuses/42494"
   ],
   "posts": {
-    "truth:117307292070204943": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41824",
-      "source_text": "<p><a href=\"https://truthsocial.com/@breitbartnews/117305295296594991\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@breitbartnews</span><span class=\"invisible\">/117305295296594991</span></a></p>",
-      "published": "Mon, 21 Sep 2026 05:07:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T07:10:18.393467Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41824",
-      "first_seen": "2026-09-21T06:30:59.559527Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
-      "truth_social_id": "117307292070204943",
-      "source_fingerprint": "fp:https://truthsocial.com/@breitbartnews/117305295296594991",
-      "media_identity": "attachment:117307292070204943:",
-      "translation": "https://truthsocial.com/@breitbartnews/117305295296594991"
-    },
     "truth:117308930224398545": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17946,6 +17931,22 @@
           "rkey": "3mybsfsxepcc7"
         }
       ]
+    },
+    "truth:117471356670966028": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42494",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18605/2921ccd5dc35d19e-8474570432f2.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:30:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T06:35:42.815939Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42494",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18605/2921ccd5dc35d19e-8474570432f2.jpg",
+      "media_identity": "attachment:117471356670966028:2921ccd5dc35d19e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18605/2921ccd5dc35d19e-8474570432f2.jpg",
+      "truth_social_id": "117471356670966028",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18605/2921ccd5dc35d19e-8474570432f2.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36494,16 +36495,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-20T06:35:49.660840Z"
-    },
-    "truth:117471356670966028": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42494",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18605/2921ccd5dc35d19e-8474570432f2.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:30:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.885002Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42494"
     },
     "truth:117471357170544761": {
       "post_status": "DISCOVERED",
