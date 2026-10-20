@@ -4458,25 +4458,12 @@
     "https://www.trumpstruth.org/statuses/42456",
     "fp:The choice in this Election is very simple. You can vote for the Radical Left Dumocrat Communists to loot your Wealth, raise your Taxes by 5 Trillion ",
     "truth:117470591632121393",
-    "https://www.trumpstruth.org/statuses/42467"
+    "https://www.trumpstruth.org/statuses/42467",
+    "fp:Since I took Office, we achieved the largest drop in Violent Crime EVER RECORDED. The Murder Rate is at the lowest level in 125 years, since the year ",
+    "truth:117470593220109602",
+    "https://www.trumpstruth.org/statuses/42465"
   ],
   "posts": {
-    "truth:117293999250317993": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41802",
-      "source_text": "<p>Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 20:46:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T22:31:35.041010Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41802",
-      "source_fingerprint": "fp:Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "media_identity": "attachment:117293999250317993:c273520999064e70-47a574930732.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:Ashley Hinson has my Complete and Total Endorsement to be the next U.S. Senator from Iowa — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "truth_social_id": "117293999250317993",
-      "translation": "アシュレイ・ヒンソンは、アイオワ州の次期アメリカ合衆国上院議員となるための私の完全かつ全面的な支持を得ている。彼女は決してあなたを失望させることはない！ドナルド・J・トランプ大統領"
-    },
     "truth:117294126158197822": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17678,6 +17665,24 @@
       "source_fingerprint": "fp:The choice in this Election is very simple. You can vote for the Radical Left Dumocrat Communists to loot your Wealth, raise your Taxes by 5 Trillion ",
       "media_identity": "attachment:117470591632121393:",
       "translation": "この選挙における選択は非常にシンプルだ。過激左翼の民主党共産主義者に投票して、お前たちの富を略奪させ、税金を5兆ドル引き上げさせ、国境を完全に破壊させ、カンザス州の農場を壊滅させ、子どもたちを傷つけさせ、2,500万人の不法移民に恩赦と投票権を与えるか。それとも、民主党共産主義者を打ち破り、お前たちのポケットにもっと多くの金を入れるために、家族のためのより大きな給料、低い税金、より少ない犯罪、繁栄するカンザス州経済、そして不法移民への恩赦なしのために投票するか。お前たちは共和党に投票しなければならない。ドナルド・J・トランプ大統領"
+    },
+    "truth:117470593220109602": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42465",
+      "source_text": "<p>Since I took Office, we achieved the largest drop in Violent Crime EVER RECORDED. The Murder Rate is at the lowest level in 125 years, since the year 1900! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 01:16:42 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T03:45:35.999181Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42465",
+      "first_seen": "2026-10-20T03:05:35.818559Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Since I took Office, we achieved the largest drop in Violent Crime EVER RECORDED. The Murder Rate is at the lowest level in 125 years, since the year ",
+      "truth_social_id": "117470593220109602",
+      "source_fingerprint": "fp:Since I took Office, we achieved the largest drop in Violent Crime EVER RECORDED. The Murder Rate is at the lowest level in 125 years, since the year ",
+      "media_identity": "attachment:117470593220109602:",
+      "translation": "俺が大統領に就任して以来、我々は記録上最大の暴力犯罪の減少を達成した。殺人発生率は125年間で最も低い水準、1900年以来の低さだ。大統領ドナルド・J・トランプ"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35944,22 +35949,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-20T03:45:45.858888Z"
-    },
-    "truth:117470593220109602": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42465",
-      "source_text": "<p>Since I took Office, we achieved the largest drop in Violent Crime EVER RECORDED. The Murder Rate is at the lowest level in 125 years, since the year 1900! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 01:16:42 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T03:15:36.583451Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42465",
-      "first_seen": "2026-10-20T03:05:35.818559Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Since I took Office, we achieved the largest drop in Violent Crime EVER RECORDED. The Murder Rate is at the lowest level in 125 years, since the year ",
-      "next_retry_at": "2026-10-20T03:25:36.583461Z",
-      "truth_social_id": "117470593220109602"
     },
     "truth:117470594815032154": {
       "post_status": "RETRY",
