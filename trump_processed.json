@@ -4623,27 +4623,12 @@
     "https://www.trumpstruth.org/statuses/42513",
     "fp:Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, ",
     "truth:117474337843871362",
-    "https://www.trumpstruth.org/statuses/42515"
+    "https://www.trumpstruth.org/statuses/42515",
+    "fp:🚨 MAINE!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Maine. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
+    "truth:117474902194097867",
+    "https://www.trumpstruth.org/statuses/42519"
   ],
   "posts": {
-    "truth:117327643319552969": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41877",
-      "source_text": "<p>President Trump and the President of China Deliver Remarks: <a href=\"https://www.youtube.com/watch?v=KroMEOZ8oFo\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=KroMEOZ8oF</span><span class=\"invisible\">o</span></a></p>",
-      "published": "Thu, 24 Sep 2026 19:22:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T20:55:26.329544Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41877",
-      "first_seen": "2026-09-24T20:30:25.826008Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
-      "truth_social_id": "117327643319552969",
-      "source_fingerprint": "fp:President Trump and the President of China Deliver Remarks: \nhttps://www.youtube.com/watch?v=KroMEOZ8oFo",
-      "media_identity": "attachment:117327643319552969:",
-      "translation": "トランプ大統領と中国の主席が演説を行う：\nhttps://www.youtube.com/watch?v=KroMEOZ8oFo"
-    },
     "truth:117327644146401995": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18459,6 +18444,24 @@
           "rkey": "3myd4rxtzm2au"
         }
       ]
+    },
+    "truth:117474902194097867": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42519",
+      "source_text": "<p>🚨 MAINE!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Maine. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Maine, you can cast your early Vote, in-person, all the way through October 29th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/maine/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/maine/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Tue, 20 Oct 2026 19:32:32 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T21:30:36.360738Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42519",
+      "first_seen": "2026-10-20T21:05:36.528745Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 MAINE!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Maine. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
+      "truth_social_id": "117474902194097867",
+      "source_fingerprint": "fp:🚨 MAINE!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Maine. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
+      "media_identity": "attachment:117474902194097867:",
+      "translation": "🚨 メイン州よ！\n早期投票は、素晴らしきメイン州で今まさに進行中だ。郵送投票用紙を持っているなら直ちに返送し、持っていなければ今すぐ投票所に行って投票しろ。そして知り合い全員に、投票用紙の全ての欄で共和党候補に投票するよう促せ！\n\n早期投票、不在者投票、郵送投票、直接投票のいずれであれ、共和党員は大量投票で過激な左翼民主党を圧倒しなければならない！メイン州では、10月29日まで直接投票所での早期投票ができる。極めて重要だ — どうか投票に行ってくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票所はここで探せ：\nhttps://swampthevoteusa.com/maine/"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36981,22 +36984,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-20T21:31:03.590834Z"
-    },
-    "truth:117474902194097867": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42519",
-      "source_text": "<p>🚨 MAINE!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Maine. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Maine, you can cast your early Vote, in-person, all the way through October 29th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/maine/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/maine/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Tue, 20 Oct 2026 19:32:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T21:10:38.705311Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42519",
-      "first_seen": "2026-10-20T21:05:36.528745Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 MAINE!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Maine. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
-      "next_retry_at": "2026-10-20T21:20:38.705328Z",
-      "truth_social_id": "117474902194097867"
     },
     "truth:117474904278478680": {
       "post_status": "RETRY",
