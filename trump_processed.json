@@ -4485,27 +4485,12 @@
     "https://www.trumpstruth.org/statuses/42459",
     "fp:We achieved more in two years than any other presidency in the History of our Country, but now, the Radical Left Dumocrats want to burn it all down. E",
     "truth:117470605435315443",
-    "https://www.trumpstruth.org/statuses/42458"
+    "https://www.trumpstruth.org/statuses/42458",
+    "fp:On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD ",
+    "truth:117470606096661361",
+    "https://www.trumpstruth.org/statuses/42457"
   ],
   "posts": {
-    "truth:117303573478102353": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41812",
-      "source_text": "<p>“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Therefore, we are going to take “Supreme Intelligence” OUT, deleting it as a qualifier, and let you vote for the Final Two: Superior Intelligence, or Extreme Intelligence. A fresh Vote begins now! President DONALD J. TRUMP</p>",
-      "published": "Sun, 20 Sep 2026 13:21:23 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-20T14:50:58.450380Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41812",
-      "first_seen": "2026-09-20T14:30:57.619279Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Ther",
-      "truth_social_id": "117303573478102353",
-      "source_fingerprint": "fp:“Supreme Intelligence,” probably because of its relationship to the Supreme Court, is losing badly to both “Superior” and “Extreme Intelligence.” Ther",
-      "media_identity": "attachment:117303573478102353:",
-      "translation": "「最高知能」はおそらく最高裁判所との関係から、「卓越知能」と「極度知能」の両方に大きく負けている。したがって、我々は「最高知能」を削除し、修飾語として外すことにする。そして最終2つについて投票させる：卓越知能か極度知能か。新しい投票が今始まる！ドナルド・J・トランプ大統領"
-    },
     "truth:117304284426928910": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17802,6 +17787,24 @@
           "rkey": "3mybhqo5twcps"
         }
       ]
+    },
+    "truth:117470606096661361": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42457",
+      "source_text": "<p>On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 01:19:59 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T04:50:41.053877Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42457",
+      "first_seen": "2026-10-20T03:05:40.501897Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD ",
+      "truth_social_id": "117470606096661361",
+      "source_fingerprint": "fp:On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD ",
+      "media_identity": "attachment:117470606096661361:",
+      "translation": "選挙の夜、カンザス州はアメリカが、それを憎む者たちのものではなく、それを愛する者たちのものであることを証明するだろう！大統領ドナルド・J・トランプ"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35995,22 +35998,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-19T03:45:36.908885Z"
-    },
-    "truth:117470606096661361": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42457",
-      "source_text": "<p>On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 01:19:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T03:15:40.090401Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42457",
-      "first_seen": "2026-10-20T03:05:40.501897Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:On Election Night, Kansas is going to prove that America does not belong to those who HATE IT, America belongs to those who LOVE IT! President DONALD ",
-      "next_retry_at": "2026-10-20T03:25:40.090411Z",
-      "truth_social_id": "117470606096661361"
     },
     "truth:117470610998962876": {
       "post_status": "RETRY",
