@@ -4557,27 +4557,12 @@
     "https://www.trumpstruth.org/statuses/42487",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg",
     "truth:117471362206459899",
-    "https://www.trumpstruth.org/statuses/42485"
+    "https://www.trumpstruth.org/statuses/42485",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
+    "truth:117471361607280244",
+    "https://www.trumpstruth.org/statuses/42486"
   ],
   "posts": {
-    "truth:117312531137546490": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41838",
-      "source_text": "<p>Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: <a href=\"https://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse</span></a></p>",
-      "published": "Tue, 22 Sep 2026 03:19:27 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-22T04:55:19.727864Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41838",
-      "first_seen": "2026-09-22T04:30:21.813052Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
-      "truth_social_id": "117312531137546490",
-      "source_fingerprint": "fp:Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: \nhttps://justthenews.com/government/federal-agencies/",
-      "media_identity": "attachment:117312531137546490:",
-      "translation": "電気をつけたままに、ビッグ・ブラザーは脇に置け：トランプのEPA廃止は利用者に3,100億ドルを節約させる可能性がある：\nhttps://justthenews.com/government/federal-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse"
-    },
     "truth:117312693997244079": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18105,6 +18090,76 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg",
       "truth_social_id": "117471362206459899",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18596/028c0d107d316af3-addd47dc1972.jpg"
+    },
+    "truth:117471361607280244": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42486",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:32:07 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-20T07:40:40.716249Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42486",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
+      "media_identity": "attachment:117471361607280244:b496484629a6a783.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
+      "truth_social_id": "117471361607280244",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3mybsijvuqkko",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
+        "createdAt": "2026-10-20T07:30:41.599713Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicjtmpf6taobn4y7xej7zn7fyfq3o737mfy6hyzvvmzsdalzyfbve"
+                },
+                "mimeType": "image/jpeg",
+                "size": 33971
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 986,
+                "height": 268
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
+          "rkey": "3mybsijvuqkko"
+        }
+      ]
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36458,185 +36513,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471361607280244": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42486",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:32:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T07:30:48.433817Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42486",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-      "media_identity": "attachment:117471361607280244:b496484629a6a783.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-      "truth_social_id": "117471361607280244",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
-          "cid": "bafyreicxuusuh3fau4z4hwqz7e4pmmspj22w7w6qzxik7gg2dzeanen4s4"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
-          "cid": "bafyreicxuusuh3fau4z4hwqz7e4pmmspj22w7w6qzxik7gg2dzeanen4s4"
-        },
-        "next_index": 1,
-        "last_rkey": "3mybsijvuqkko",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-          "createdAt": "2026-10-20T07:30:41.599713Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicjtmpf6taobn4y7xej7zn7fyfq3o737mfy6hyzvvmzsdalzyfbve"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 33971
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 986,
-                  "height": 268
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3mybsijvuqkko",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-          "createdAt": "2026-10-20T07:30:41.599713Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreicjtmpf6taobn4y7xej7zn7fyfq3o737mfy6hyzvvmzsdalzyfbve"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 33971
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 986,
-                  "height": 268
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
-            "rkey": "3mybsijvuqkko"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybsijvuqkko",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-        "createdAt": "2026-10-20T07:30:41.599713Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicjtmpf6taobn4y7xej7zn7fyfq3o737mfy6hyzvvmzsdalzyfbve"
-                },
-                "mimeType": "image/jpeg",
-                "size": 33971
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 986,
-                "height": 268
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
-          "rkey": "3mybsijvuqkko"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-20T07:35:48.433831Z"
     },
     "truth:117471363070884444": {
       "post_status": "DISCOVERED",
