@@ -4536,27 +4536,12 @@
     "https://www.trumpstruth.org/statuses/42482",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg",
     "truth:117471357170544761",
-    "https://www.trumpstruth.org/statuses/42493"
+    "https://www.trumpstruth.org/statuses/42493",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18603/fcd6c24d2be727a3-10c9eee501fb.jpg",
+    "truth:117471357743666922",
+    "https://www.trumpstruth.org/statuses/42492"
   ],
   "posts": {
-    "truth:117309799376551907": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41829",
-      "source_text": "<p>Which name do we like for the new phenomena — SUPER INTELLIGENCE VS. SUPERIOR INTELLIGENCE? President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 15:44:43 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T16:55:19.912010Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41829",
-      "first_seen": "2026-09-21T16:30:26.055375Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Which name do we like for the new phenomena — SUPER INTELLIGENCE VS. SUPERIOR INTELLIGENCE? President DONALD J. TRUMP",
-      "truth_social_id": "117309799376551907",
-      "source_fingerprint": "fp:Which name do we like for the new phenomena — SUPER INTELLIGENCE VS. SUPERIOR INTELLIGENCE? President DONALD J. TRUMP",
-      "media_identity": "attachment:117309799376551907:",
-      "translation": "新しい現象についてどちらの名前が好きか――スーパー・インテリジェンスか、それともスペリア・インテリジェンスか？大統領 ドナルド・J・トランプ"
-    },
     "truth:117309814170246776": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17988,6 +17973,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg",
       "truth_social_id": "117471357170544761",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg"
+    },
+    "truth:117471357743666922": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42492",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18603/fcd6c24d2be727a3-10c9eee501fb.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T06:50:46.366003Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42492",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18603/fcd6c24d2be727a3-10c9eee501fb.jpg",
+      "media_identity": "attachment:117471357743666922:fcd6c24d2be727a3.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18603/fcd6c24d2be727a3-10c9eee501fb.jpg",
+      "truth_social_id": "117471357743666922",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18603/fcd6c24d2be727a3-10c9eee501fb.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36341,16 +36342,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471357743666922": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42492",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18603/fcd6c24d2be727a3-10c9eee501fb.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:31:08 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.884706Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42492"
     },
     "truth:117471358193071652": {
       "post_status": "DISCOVERED",
