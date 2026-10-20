@@ -4542,27 +4542,12 @@
     "https://www.trumpstruth.org/statuses/42492",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18602/2cdbed4331fb959b-97bb76c50581.jpg",
     "truth:117471358193071652",
-    "https://www.trumpstruth.org/statuses/42491"
+    "https://www.trumpstruth.org/statuses/42491",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg",
+    "truth:117471358881172616",
+    "https://www.trumpstruth.org/statuses/42490"
   ],
   "posts": {
-    "truth:117310166479352147": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41831",
-      "source_text": "<p>If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
-      "published": "Mon, 21 Sep 2026 17:18:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T18:50:23.382109Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41831",
-      "first_seen": "2026-09-21T18:30:22.275023Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
-      "truth_social_id": "117310166479352147",
-      "source_fingerprint": "fp:If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican Pres",
-      "media_identity": "attachment:117310166479352147:",
-      "translation": "上院共和党員がフィリバスター制度を廃止しなければ、民主党がそれをやり、私は党がいかに好調であろうとも、最後の共和党大統領となるだろう！民主党はプエルトリコ（共和党投票率4%）とワシントンD.C.（共和党投票率3%）で投票を行い、上院議員4名、下院議員8名を獲得し、膨大な数の一般投票と選挙人投票を手に入れ、さらに重要なことに、アメリカ全土の投票メカニズムと投票システムの支配権を、合法的および非合法的に掌握するだろう。共和党がもう二度と選挙に勝つことは不可能となるだろう。言い換えれば、それはアメリカの終わりだ！この問題についてのご注目に感謝する。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領"
-    },
     "truth:117310364553695688": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17990,6 +17975,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18602/2cdbed4331fb959b-97bb76c50581.jpg",
       "truth_social_id": "117471358193071652",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18602/2cdbed4331fb959b-97bb76c50581.jpg"
+    },
+    "truth:117471358881172616": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42490",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg\">View image</a></p>",
+      "published": "Tue, 20 Oct 2026 04:31:26 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T07:00:39.840590Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42490",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg",
+      "media_identity": "attachment:117471358881172616:cc5045ffb0c0c201.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg",
+      "truth_social_id": "117471358881172616",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36343,16 +36344,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471358881172616": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42490",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18601/cc5045ffb0c0c201-354749bc092b.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:31:26 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.884411Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42490"
     },
     "truth:117471359599978358": {
       "post_status": "DISCOVERED",
