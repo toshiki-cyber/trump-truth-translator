@@ -36793,20 +36793,77 @@
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
     },
     "truth:117474337843871362": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/42515",
       "source_text": "<p>Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in our Country’s History, I have spent, or will be spending, over 400 Million Dollars by Election Day. More than 300 Million Dollars has already been spent on Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity, and more. It is my Great Honor to do so on behalf of the Republican Party, which has done so much to bring our Country back from the Edge of Oblivion. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
       "published": "Tue, 20 Oct 2026 17:09:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T19:15:32.809156Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-20T19:25:51.720043Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42515",
       "first_seen": "2026-10-20T19:05:35.593483Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, ",
-      "next_retry_at": "2026-10-20T19:25:32.809172Z",
-      "truth_social_id": "117474337843871362"
+      "truth_social_id": "117474337843871362",
+      "source_fingerprint": "fp:Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, ",
+      "media_identity": "attachment:117474337843871362:",
+      "translation": "共和党に対する私の信念、そして私たちのあらゆる政策と原則、特にフランスおよびヨーロッパ全域で起きていることを目撃した後、私は喜んで発表する。わが国の歴史において最も重要な中間選挙に関連して、投票日までに4億ドル以上を支出したか、支出することになる。既に3億ドル以上が広告、直接および間接的な有権者接触、集会、集会会場、テレラリー、投票促進プログラム、選挙の完全性などに支出されている。わが国を破滅の縁から取り戻すために多大な貢献をしてきた共和党を代表してこうすることは、私にとって大きな栄誉である。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myd4rxtzm2au",
+          "cid": "bafyreiaettgninzlsh6lvsnrmnjgl4nvaldox5obc627kavwuja75fluu4"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myd4rxtzm2au",
+          "cid": "bafyreiaettgninzlsh6lvsnrmnjgl4nvaldox5obc627kavwuja75fluu4"
+        },
+        "next_index": 1,
+        "last_rkey": "3myd4rxtzm2au",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "共和党に対する私の信念、そして私たちのあらゆる政策と原則、特にフランスおよびヨーロッパ全域で起きていることを目撃した後、私は喜んで発表する。わが国の歴史において最も重要な中間選挙に関連して、投票日までに4億ドル以上を支出したか、支出することになる。既に3億ドル以上が広告、直接および間接的な有権者接触、集会、集会会場、テレラリー、投票促進プログラム、選挙の完全性などに支出されている。わが国を破滅の縁から取り戻すために多大な貢献をしてきた共和党を代表してこうすることは、私にとって大きな栄誉である。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-10-20T19:25:45.230913Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "root_rkey": "3myd4rxtzm2au",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "共和党に対する私の信念、そして私たちのあらゆる政策と原則、特にフランスおよびヨーロッパ全域で起きていることを目撃した後、私は喜んで発表する。わが国の歴史において最も重要な中間選挙に関連して、投票日までに4億ドル以上を支出したか、支出することになる。既に3億ドル以上が広告、直接および間接的な有権者接触、集会、集会会場、テレラリー、投票促進プログラム、選挙の完全性などに支出されている。わが国を破滅の縁から取り戻すために多大な貢献をしてきた共和党を代表してこうすることは、私にとって大きな栄誉である。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-10-20T19:25:45.230913Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myd4rxtzm2au",
+            "rkey": "3myd4rxtzm2au"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myd4rxtzm2au",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3myd4rxtzm2au",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "共和党に対する私の信念、そして私たちのあらゆる政策と原則、特にフランスおよびヨーロッパ全域で起きていることを目撃した後、私は喜んで発表する。わが国の歴史において最も重要な中間選挙に関連して、投票日までに4億ドル以上を支出したか、支出することになる。既に3億ドル以上が広告、直接および間接的な有権者接触、集会、集会会場、テレラリー、投票促進プログラム、選挙の完全性などに支出されている。わが国を破滅の縁から取り戻すために多大な貢献をしてきた共和党を代表してこうすることは、私にとって大きな栄誉である。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-10-20T19:25:45.230913Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myd4rxtzm2au",
+          "rkey": "3myd4rxtzm2au"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-20T19:30:51.720059Z"
     }
   }
 }
