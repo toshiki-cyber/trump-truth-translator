@@ -36791,6 +36791,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
+    },
+    "truth:117474337843871362": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42515",
+      "source_text": "<p>Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in our Country’s History, I have spent, or will be spending, over 400 Million Dollars by Election Day. More than 300 Million Dollars has already been spent on Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity, and more. It is my Great Honor to do so on behalf of the Republican Party, which has done so much to bring our Country back from the Edge of Oblivion. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 17:09:01 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-20T19:05:35.593507Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42515",
+      "first_seen": "2026-10-20T19:05:35.593483Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, ",
+      "next_retry_at": "2026-10-20T19:10:35.593514Z",
+      "truth_social_id": "117474337843871362"
     }
   }
 }
