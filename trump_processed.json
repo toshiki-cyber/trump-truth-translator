@@ -4473,27 +4473,12 @@
     "https://www.trumpstruth.org/statuses/42462",
     "fp:To protect Family Farms, we ended the unfair Estate Tax, or Death Tax. My Administration also announced the Highest Biofuel Production Targets in Hist",
     "truth:117470595904971292",
-    "https://www.trumpstruth.org/statuses/42463"
+    "https://www.trumpstruth.org/statuses/42463",
+    "fp:Just today, I signed a Historic Executive Order on Women’s Health, supported by our incredible First Lady. With Melania’s leadership, we are creating ",
+    "truth:117470599886832710",
+    "https://www.trumpstruth.org/statuses/42460"
   ],
   "posts": {
-    "truth:117298741939724787": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41807",
-      "source_text": "<p>Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, political, and ridiculous decisions on TARIFFS and Birthright Citizenship, they have cost the United States of America Trillions of Dollars, and forever damaged the way people become Citizens of our great Country. It has been a sad chapter in the life and times of America, but we will prevail! President DONALD J. TRUMP</p>",
-      "published": "Sat, 19 Sep 2026 16:52:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-19T18:56:04.213541Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41807",
-      "first_seen": "2026-09-19T18:30:59.100735Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, politica",
-      "truth_social_id": "117298741939724787",
-      "source_fingerprint": "fp:Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, politica",
-      "media_identity": "attachment:117298741939724787:",
-      "translation": "残念ながら、アメリカ合衆国最高裁判所は「アメリカを再び偉大にする」という勇気を欠いている。過去6ヶ月間、関税と出生地主義に関する欠陥のある政治的で馬鹿げた判断を通じて、彼らはアメリカ合衆国に何兆ドルもの損失をもたらし、国民が我が国の市民になる方法を永遠に損なわせた。これはアメリカの歴史における悲しい章であるが、我々は勝利するであろう！ドナルド・J・トランプ大統領"
-    },
     "truth:117298821562014906": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17736,6 +17721,24 @@
           "rkey": "3mybhmdhxa2li"
         }
       ]
+    },
+    "truth:117470599886832710": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42460",
+      "source_text": "<p>Just today, I signed a Historic Executive Order on Women’s Health, supported by our incredible First Lady. With Melania’s leadership, we are creating a new Women’s Health Division at our National Institutes of Health, to promote new Research, Technology, and Treatments, and ensure American Women have access to the Best Healthcare anywhere in the World! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 01:18:24 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T04:20:43.303277Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42460",
+      "first_seen": "2026-10-20T03:05:38.341239Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Just today, I signed a Historic Executive Order on Women’s Health, supported by our incredible First Lady. With Melania’s leadership, we are creating ",
+      "truth_social_id": "117470599886832710",
+      "source_fingerprint": "fp:Just today, I signed a Historic Executive Order on Women’s Health, supported by our incredible First Lady. With Melania’s leadership, we are creating ",
+      "media_identity": "attachment:117470599886832710:",
+      "translation": "本日、私は素晴らしいファーストレディの支持を受けて、女性の健康に関する歴史的な大統領令に署名した。メラニアのリーダーシップにより、我々は国立衛生研究所に新しい女性の健康部門を設置し、新たな研究、技術、治療を促進し、アメリカの女性が世界中のどこにもない最高の医療へのアクセスを確保する。ドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36002,22 +36005,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-20T04:20:42.795553Z"
-    },
-    "truth:117470599886832710": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42460",
-      "source_text": "<p>Just today, I signed a Historic Executive Order on Women’s Health, supported by our incredible First Lady. With Melania’s leadership, we are creating a new Women’s Health Division at our National Institutes of Health, to promote new Research, Technology, and Treatments, and ensure American Women have access to the Best Healthcare anywhere in the World! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 01:18:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T03:15:38.632854Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42460",
-      "first_seen": "2026-10-20T03:05:38.341239Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Just today, I signed a Historic Executive Order on Women’s Health, supported by our incredible First Lady. With Melania’s leadership, we are creating ",
-      "next_retry_at": "2026-10-20T03:25:38.632863Z",
-      "truth_social_id": "117470599886832710"
     },
     "truth:117470600629608396": {
       "post_status": "RETRY",
