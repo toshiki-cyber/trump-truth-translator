@@ -4437,28 +4437,12 @@
     "https://www.trumpstruth.org/statuses/42451",
     "fp:15 days from now, the People of Kansas are going to RE-ELECT the great ROGER MARSHALL to the United States Senate, elect Ty Masterson as your next Gov",
     "truth:117470368203080253",
-    "https://www.trumpstruth.org/statuses/42450"
+    "https://www.trumpstruth.org/statuses/42450",
+    "fp:The Dumocrats are the Party of Abdul Mohammed al-Sayed, Ilhan Omar, Rashida Tlaib, A.O.C., James TalaFREAKO, Elizabeth “Pocahontas” Warren, Maxine Wat",
+    "truth:117470395373605336",
+    "https://www.trumpstruth.org/statuses/42453"
   ],
   "posts": {
-    "truth:117293414375817043": {
-      "post_status": "POSTED",
-      "media_state": "INVALID",
-      "status_url": "https://www.trumpstruth.org/statuses/41786",
-      "source_text": "<p>Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Fri, 18 Sep 2026 18:17:48 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-18T19:02:15.919519Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41786",
-      "source_fingerprint": "fp:Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "media_identity": "attachment:117293414375817043:421afe02d5ce6749-450088de2481.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:Mike Rogers has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "truth_social_id": "117293414375817043",
-      "allow_text_fallback": true,
-      "fallback_policy_version": 1,
-      "media_fallback_reason": "動画アップロード失敗: HTTPSConnectionPool(host='video.bsky.app', port=443): Read timed out. (read timeout=30)",
-      "translation": "マイク・ロジャースは、ミシガン州の次期合衆国上院議員として私の完全かつ全面的な支持を得ている。彼は決して君たちを裏切らない!ドナルド・J・トランプ大統領"
-    },
     "truth:117293443739276008": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17614,6 +17598,24 @@
           "rkey": "3mybeerxyrcbo"
         }
       ]
+    },
+    "truth:117470395373605336": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42453",
+      "source_text": "<p>The Dumocrats are the Party of Abdul Mohammed al-Sayed, Ilhan Omar, Rashida Tlaib, A.O.C., James TalaFREAKO, Elizabeth “Pocahontas” Warren, Maxine Waters, Chuck Schumer, and Nancy Pelosi, representing all the Fraudsters, Thieves, and Thugs driving around in luxury cars, while receiving welfare checks paid for by American Taxpayers. A vote for ANY Democrat this year is a vote to let that small and dangerous group of Extremists hold all of America hostage. In 15 days, we are going to re-elect Roger Marshall, and DEFEAT the Communists, Jihadists, and corrupt anti-American Lunatics once and for all! President DONALD J. TRUMP</p>",
+      "published": "Tue, 20 Oct 2026 00:26:24 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T01:45:43.137623Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42453",
+      "first_seen": "2026-10-20T01:05:36.547477Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Dumocrats are the Party of Abdul Mohammed al-Sayed, Ilhan Omar, Rashida Tlaib, A.O.C., James TalaFREAKO, Elizabeth “Pocahontas” Warren, Maxine Wat",
+      "truth_social_id": "117470395373605336",
+      "source_fingerprint": "fp:The Dumocrats are the Party of Abdul Mohammed al-Sayed, Ilhan Omar, Rashida Tlaib, A.O.C., James TalaFREAKO, Elizabeth “Pocahontas” Warren, Maxine Wat",
+      "media_identity": "attachment:117470395373605336:",
+      "translation": "民主党員どもは、アブドゥル・モハンメド・アル・サイード、イルハン・オマル、ラシーダ・タレイブ、AOC、ジェームス・タラフリーク、エリザベス「ポカホンタス」ウォーレン、マクシーヌ・ウォーターズ、チャック・シューマー、ナンシー・ペロシの党だ。米国納税者が払った福祉小切手を受け取りながら、高級車を乗り回す詐欺師、泥棒、暴力団のすべてを代表している。今年、どの民主党員に投票することも、アメリカ全体を人質に取るこの小さく危険な極左集団に権力を握らせることに投票することだ。15日後、われわれはロジャー・マーシャルを再選し、共産主義者、ジハード主義者、そして腐敗した反米キチガイどもを一度で全て打ち負かす！ドナルド・J・トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -35880,22 +35882,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-20T01:45:45.599992Z"
-    },
-    "truth:117470395373605336": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42453",
-      "source_text": "<p>The Dumocrats are the Party of Abdul Mohammed al-Sayed, Ilhan Omar, Rashida Tlaib, A.O.C., James TalaFREAKO, Elizabeth “Pocahontas” Warren, Maxine Waters, Chuck Schumer, and Nancy Pelosi, representing all the Fraudsters, Thieves, and Thugs driving around in luxury cars, while receiving welfare checks paid for by American Taxpayers. A vote for ANY Democrat this year is a vote to let that small and dangerous group of Extremists hold all of America hostage. In 15 days, we are going to re-elect Roger Marshall, and DEFEAT the Communists, Jihadists, and corrupt anti-American Lunatics once and for all! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 00:26:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T01:15:33.557909Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42453",
-      "first_seen": "2026-10-20T01:05:36.547477Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Dumocrats are the Party of Abdul Mohammed al-Sayed, Ilhan Omar, Rashida Tlaib, A.O.C., James TalaFREAKO, Elizabeth “Pocahontas” Warren, Maxine Wat",
-      "next_retry_at": "2026-10-20T01:25:33.557925Z",
-      "truth_social_id": "117470395373605336"
     },
     "truth:117470441097872597": {
       "post_status": "RETRY",
