@@ -4518,27 +4518,12 @@
     "https://www.trumpstruth.org/statuses/42475",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471292631052381https://truth-archive.us-iad-1.linodeobjects.com/attachments/18591/8fde51",
     "truth:117471306807375633",
-    "https://www.trumpstruth.org/statuses/42479"
+    "https://www.trumpstruth.org/statuses/42479",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471308305608337https://truth-archive.us-iad-1.linodeobjects.com/attachments/18589/5c3a32",
+    "truth:117471316261088736",
+    "https://www.trumpstruth.org/statuses/42477"
   ],
   "posts": {
-    "truth:117307260504631667": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41821",
-      "source_text": "<p>Trump bans CNN, MSNOW, and Politico from White House: <a href=\"https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house</span></a></p>",
-      "published": "Mon, 21 Sep 2026 04:59:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-21T07:00:24.492659Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41821",
-      "first_seen": "2026-09-21T06:30:58.612067Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump bans CNN, MSNOW, and Politico from White House: \nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-whit",
-      "truth_social_id": "117307260504631667",
-      "source_fingerprint": "fp:Trump bans CNN, MSNOW, and Politico from White House: \nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-whit",
-      "media_identity": "attachment:117307260504631667:",
-      "translation": "トランプ、CNNとMSNBC、ポリティコをホワイトハウスから出入り禁止に：\nhttps://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house"
-    },
     "truth:117307289681145880": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17890,6 +17875,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471292631052381https://truth-archive.us-iad-1.linodeobjects.com/attachments/18591/8fde51",
       "truth_social_id": "117471306807375633",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117471292631052381https://truth-archive.us-iad-1.linodeobjects.com/attachments/18591/8fde510be4a1da4e-3f48666ff4a8.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42480https://truth-archive.us-iad-1.linodeobjects.com/attachments/18592/d1cc2fe2e76a56cf-8f7dabcab39a.mp4"
+    },
+    "truth:117471316261088736": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42477",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471308305608337</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18589/5c3a325861334a2e-e105101e7e30.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42478\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov\">View video</a></p></blockquote>",
+      "published": "Tue, 20 Oct 2026 04:20:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-20T06:15:39.249078Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42477",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471308305608337https://truth-archive.us-iad-1.linodeobjects.com/attachments/18589/5c3a32",
+      "media_identity": "attachment:117471316261088736:5c3a325861334a2e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471308305608337https://truth-archive.us-iad-1.linodeobjects.com/attachments/18589/5c3a32",
+      "truth_social_id": "117471316261088736",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117471308305608337https://truth-archive.us-iad-1.linodeobjects.com/attachments/18589/5c3a325861334a2e-e105101e7e30.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42478https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36243,16 +36244,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117471316261088736": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42477",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117471308305608337</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18589/5c3a325861334a2e-e105101e7e30.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42478\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov\">View video</a></p></blockquote>",
-      "published": "Tue, 20 Oct 2026 04:20:35 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T05:05:31.885602Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42477"
     },
     "truth:117471344462712217": {
       "post_status": "DISCOVERED",
