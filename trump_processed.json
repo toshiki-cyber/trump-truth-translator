@@ -4629,27 +4629,12 @@
     "https://www.trumpstruth.org/statuses/42519",
     "fp:🚨 IOWA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Iowa. If you have a mail-in ballot, return it immediately and, if not, GO VOTE ",
     "truth:117474900035235218",
-    "https://www.trumpstruth.org/statuses/42516"
+    "https://www.trumpstruth.org/statuses/42516",
+    "fp:🚨 NORTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of North Carolina. If you have a mail-in ballot, return it immediately a",
+    "truth:117474904278478680",
+    "https://www.trumpstruth.org/statuses/42518"
   ],
   "posts": {
-    "truth:117327644914730355": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41875",
-      "source_text": "<p>Military Review with the President of China and Madame Peng: <a href=\"https://www.youtube.com/watch?v=lUe8vwhnjbk\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=lUe8vwhnjb</span><span class=\"invisible\">k</span></a></p>",
-      "published": "Thu, 24 Sep 2026 19:23:04 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-24T21:05:28.405182Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41875",
-      "first_seen": "2026-09-24T20:30:26.524804Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Military Review with the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=lUe8vwhnjbk",
-      "truth_social_id": "117327644914730355",
-      "source_fingerprint": "fp:Military Review with the President of China and Madame Peng: \nhttps://www.youtube.com/watch?v=lUe8vwhnjbk",
-      "media_identity": "attachment:117327644914730355:",
-      "translation": "中国の主席および彭麗媛夫人との軍事レビュー：\nhttps://www.youtube.com/watch?v=lUe8vwhnjbk"
-    },
     "truth:117327681306671844": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18515,6 +18500,24 @@
           "rkey": "3mydermsrcsob"
         }
       ]
+    },
+    "truth:117474904278478680": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42518",
+      "source_text": "<p>🚨 NORTH CAROLINA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of North Carolina. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In North Carolina, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Tue, 20 Oct 2026 19:33:04 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-20T21:40:39.409294Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42518",
+      "first_seen": "2026-10-20T21:05:37.535267Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 NORTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of North Carolina. If you have a mail-in ballot, return it immediately a",
+      "truth_social_id": "117474904278478680",
+      "source_fingerprint": "fp:🚨 NORTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of North Carolina. If you have a mail-in ballot, return it immediately a",
+      "media_identity": "attachment:117474904278478680:",
+      "translation": "🚨 ノースカロライナ州！\n期日前投票が現在、素晴らしきノースカロライナ州で実施中だ。郵便投票用紙を持っている場合は直ちに返送し、持っていなければ、今すぐ投票所に行って投票しろ。そして知り合い全員に、あらゆる選挙で共和党候補に投票するよう説得しろ！\n期日前投票、不在者投票、郵便投票、または直接投票のいずれであれ、共和党は大投票率で過激な左翼民主党を圧倒せねばならない！ノースカロライナ州では10月31日までの間、いつでも直接期日前投票ができる。非常に重要だ — どうか投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所を検索：\nhttps://swampthevoteusa.com/north-carolina/"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -36868,22 +36871,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18590/3731d37ebb8ea29b-ad8cb96138f8.mov",
       "truth_social_id": "117471308305608337",
       "next_retry_at": "2026-10-20T06:15:47.096981Z"
-    },
-    "truth:117474904278478680": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42518",
-      "source_text": "<p>🚨 NORTH CAROLINA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of North Carolina. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In North Carolina, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Tue, 20 Oct 2026 19:33:04 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T21:10:39.083761Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42518",
-      "first_seen": "2026-10-20T21:05:37.535267Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 NORTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of North Carolina. If you have a mail-in ballot, return it immediately a",
-      "next_retry_at": "2026-10-20T21:20:39.083774Z",
-      "truth_social_id": "117474904278478680"
     },
     "truth:117474908315721936": {
       "post_status": "RETRY",
