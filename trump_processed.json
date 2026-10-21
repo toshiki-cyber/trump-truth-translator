@@ -37172,6 +37172,54 @@
       "truth_social_id": "117476372995585848",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-21T14:15:40.706205Z"
+    },
+    "truth:117478575893014344": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42537",
+      "source_text": "<p>The Democrats have run California, Illinois, and New York into the ground! President DJT</p>",
+      "published": "Wed, 21 Oct 2026 11:06:48 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T13:05:40.378164Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42537",
+      "first_seen": "2026-10-21T13:05:40.378129Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Democrats have run California, Illinois, and New York into the ground! President DJT",
+      "next_retry_at": "2026-10-21T13:10:40.378172Z",
+      "truth_social_id": "117478575893014344"
+    },
+    "truth:117478593489864840": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42538",
+      "source_text": "<p>I will be heading to South Carolina for a BIG Rally this evening. Darline Graham is GREAT! President DJT</p>",
+      "published": "Wed, 21 Oct 2026 11:11:17 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T13:05:41.383002Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42538",
+      "first_seen": "2026-10-21T13:05:41.382967Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I will be heading to South Carolina for a BIG Rally this evening. Darline Graham is GREAT! President DJT",
+      "next_retry_at": "2026-10-21T13:10:41.383011Z",
+      "truth_social_id": "117478593489864840"
+    },
+    "truth:117478842004893362": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42539",
+      "source_text": "<p>Great news for the wealth and prosperity of the United Kingdom, and the wonderful region of Aberdeen. The U.K. has started drilling in the North Sea, one of the greatest and most prosperous areas of OIL in the World. They should go FULL BLAST!!! This will make the U.K. very wealthy again. TAKE DOWN THE COSTLY AND RIDICULOUS WINDMILLS! President DJT</p>",
+      "published": "Wed, 21 Oct 2026 12:14:29 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T13:05:42.165956Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42539",
+      "first_seen": "2026-10-21T13:05:42.165921Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Great news for the wealth and prosperity of the United Kingdom, and the wonderful region of Aberdeen. The U.K. has started drilling in the North Sea, ",
+      "next_retry_at": "2026-10-21T13:10:42.165964Z",
+      "truth_social_id": "117478842004893362"
     }
   }
 }
