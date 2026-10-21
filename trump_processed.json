@@ -4692,7 +4692,10 @@
     "https://www.trumpstruth.org/statuses/42539",
     "fp:I will be heading to South Carolina for a BIG Rally this evening. Darline Graham is GREAT! President DJT",
     "truth:117478593489864840",
-    "https://www.trumpstruth.org/statuses/42538"
+    "https://www.trumpstruth.org/statuses/42538",
+    "fp:'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: \nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-",
+    "truth:117479077625297841",
+    "https://www.trumpstruth.org/statuses/42544"
   ],
   "posts": {
     "truth:117336866629561228": {
@@ -18661,6 +18664,24 @@
           "rkey": "3myezb7nmyc6e"
         }
       ]
+    },
+    "truth:117479077625297841": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42544",
+      "source_text": "<p>'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: <a href=\"https://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-wichita-area-rally-support-marshall/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kctv5.com/video/2026/10/20/i-l</span><span class=\"invisible\">ove-you-kansas-trump-visits-wichita-area-rally-support-marshall/</span></a></p>",
+      "published": "Wed, 21 Oct 2026 13:14:24 +0000",
+      "retry_count": 5,
+      "updated_at": "2026-10-21T22:35:34.565583Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42544",
+      "first_seen": "2026-10-21T15:05:38.313684Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: \nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-",
+      "truth_social_id": "117479077625297841",
+      "source_fingerprint": "fp:'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: \nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-",
+      "media_identity": "attachment:117479077625297841:",
+      "translation": "『私はあなたたちを愛している、カンザス州』：トランプ、マーシャルを支援するためウィチタ地域でラリーを開催\nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-wichita-area-rally-support-marshall/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37149,22 +37170,6 @@
       "truth_social_id": "117476372995585848",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T04:30:43.857093Z"
-    },
-    "truth:117479077625297841": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42544",
-      "source_text": "<p>'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: <a href=\"https://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-wichita-area-rally-support-marshall/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kctv5.com/video/2026/10/20/i-l</span><span class=\"invisible\">ove-you-kansas-trump-visits-wichita-area-rally-support-marshall/</span></a></p>",
-      "published": "Wed, 21 Oct 2026 13:14:24 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-10-21T16:25:42.072805Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42544",
-      "first_seen": "2026-10-21T15:05:38.313684Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: 403 Client Error: Forbidden for url: https://www.trumpstruth.org/statuses/42544",
-      "fingerprint": "fp:'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: \nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-",
-      "next_retry_at": "2026-10-21T17:45:42.072831Z",
-      "truth_social_id": "117479077625297841"
     },
     "truth:117479079767228837": {
       "post_status": "RETRY",
