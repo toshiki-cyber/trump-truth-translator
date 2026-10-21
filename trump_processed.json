@@ -37212,6 +37212,54 @@
       "truth_social_id": "117476372995585848",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-21T14:15:40.706205Z"
+    },
+    "truth:117478460769539937": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42534",
+      "source_text": "<p>Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week. Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return - an unprecedented situation for Russia. There was no “swap” necessary for this release. This major return should have taken place long ago through the Biden Administration, which got nowhere in its negotiations with the Kremlin. Stephen is on his way back home. “Welcome home Stephen, it’s great to have you back,” stated President Trump.</p>",
+      "published": "Wed, 21 Oct 2026 10:37:32 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T11:05:32.334608Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42534",
+      "first_seen": "2026-10-21T11:05:32.334584Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. ",
+      "next_retry_at": "2026-10-21T11:10:32.334615Z",
+      "truth_social_id": "117478460769539937"
+    },
+    "truth:117478508731391744": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42535",
+      "source_text": "<p>Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know that he was negotiating the release of Stephen Hubbard, a truly big  and important deal for the U.S. If sanctions would have been placed, certainly those negotiations would have come to a complete and total halt.</p>",
+      "published": "Wed, 21 Oct 2026 10:49:44 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T11:05:33.092607Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42535",
+      "first_seen": "2026-10-21T11:05:33.092584Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know t",
+      "next_retry_at": "2026-10-21T11:10:33.092615Z",
+      "truth_social_id": "117478508731391744"
+    },
+    "truth:117478544626833616": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42536",
+      "source_text": "<p>Biden should have done the Hubbard release long ago! What a difference a President makes!</p>",
+      "published": "Wed, 21 Oct 2026 10:58:51 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T11:05:33.602018Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42536",
+      "first_seen": "2026-10-21T11:05:33.601995Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Biden should have done the Hubbard release long ago! What a difference a President makes!",
+      "next_retry_at": "2026-10-21T11:10:33.602025Z",
+      "truth_social_id": "117478544626833616"
     }
   }
 }
