@@ -4707,27 +4707,12 @@
     "https://www.trumpstruth.org/statuses/42541",
     "fp:🚨 VIRGINIA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and, i",
     "truth:117479085659195617",
-    "https://www.trumpstruth.org/statuses/42540"
+    "https://www.trumpstruth.org/statuses/42540",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
+    "truth:117479422656960213",
+    "https://www.trumpstruth.org/statuses/42552"
   ],
   "posts": {
-    "truth:117336873800272630": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/41922",
-      "source_text": "<p>Fantastic news for America!</p><p>SCOTUS reinstates Trump's voter citizenship verification rules: <a href=\"https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/cou</span><span class=\"invisible\">rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules</span></a></p>",
-      "published": "Sat, 26 Sep 2026 10:30:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-09-26T13:05:28.671540Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41922",
-      "first_seen": "2026-09-26T12:30:28.729786Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Fantastic news for America!\nSCOTUS reinstates Trump's voter citizenship verification rules: \nhttps://justthenews.com/government/courts-law/scotus-rein",
-      "truth_social_id": "117336873800272630",
-      "source_fingerprint": "fp:Fantastic news for America!\nSCOTUS reinstates Trump's voter citizenship verification rules: \nhttps://justthenews.com/government/courts-law/scotus-rein",
-      "media_identity": "attachment:117336873800272630:",
-      "translation": "アメリカにとって素晴らしいニュースだ！\n最高裁がトランプの投票者市民権確認ルールを復活させた：\nhttps://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules"
-    },
     "truth:117336875720742753": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18662,6 +18647,68 @@
       "source_fingerprint": "fp:🚨 VIRGINIA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and, i",
       "media_identity": "attachment:117479085659195617:",
       "translation": "🚨 バージニア州！\n素晴らしきバージニア州コモンウェルスでは今、早期投票の対面投票が進行中だ。郵便投票用紙を持っている者は直ちに返送し、持っていない者は今すぐ投票所に行って投票しろ。そして知り合い全員に、投票用紙の上から下まで、すべてのレースで共和党候補に投票するよう促せ！\n\n早期投票、不在者投票、郵便投票、対面投票のいずれで投票するにせよ、共和党員は大規模な投票率で過激左翼民主党員を圧倒しなければならない！バージニア州では、10月31日まで対面による早期投票を行える。極めて重要だ――投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/virginia/"
+    },
+    "truth:117479422656960213": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42552",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4\">View video</a></p>",
+      "published": "Wed, 21 Oct 2026 14:42:09 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T23:46:02.313989Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42552",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
+      "media_identity": "attachment:117479422656960213:6e4cc81b27e0eae7-10827f9a0b97.mov",
+      "truth_social_id": "117479422656960213",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myff2bmmqkb3",
+      "expected_embed": "video",
+      "expected_images": 0,
+      "root_rkey": "3myff2bmmqkb3",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
+        "createdAt": "2026-10-21T23:45:53.226686Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 83
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiefabdeiexo256bdjwivzc2qfy5dzpjjectgx5pqjctbutaudd5rm"
+            },
+            "mimeType": "video/mp4",
+            "size": 17305689
+          },
+          "alt": ""
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myff2bmmqkb3",
+          "rkey": "3myff2bmmqkb3"
+        }
+      ]
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37174,16 +37221,16 @@
       "status_url": "https://www.trumpstruth.org/statuses/42547",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18650/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 21 Oct 2026 14:37:05 +0000",
-      "updated_at": "2026-10-21T23:30:46.619693Z",
+      "updated_at": "2026-10-21T23:55:37.962808Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42547",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18650/browser-safe.mp4",
       "media_identity": "attachment:117479402753999437:a2cc235eb19d2b01-5676c8cd72ff.mov",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18650/browser-safe.mp4",
       "truth_social_id": "117479402753999437",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbc2o1joidrs73b6c33g\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
-      "retry_count": 3,
+      "retry_count": 4,
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-21T23:50:46.619711Z"
+      "next_retry_at": "2026-10-22T00:35:37.962824Z"
     },
     "truth:117479403384414491": {
       "post_status": "RETRY",
@@ -37218,161 +37265,6 @@
       "truth_social_id": "117479404058364292",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-21T23:45:36.536376Z"
-    },
-    "truth:117479422656960213": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42552",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4\">View video</a></p>",
-      "published": "Wed, 21 Oct 2026 14:42:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T23:46:02.313989Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42552",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
-      "media_identity": "attachment:117479422656960213:6e4cc81b27e0eae7-10827f9a0b97.mov",
-      "truth_social_id": "117479422656960213",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myff2bmmqkb3",
-          "cid": "bafyreiflfofkzxkn7ynjsamvz5bijmnt65w3iupwqib6phc2i6rr7u62qq"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myff2bmmqkb3",
-          "cid": "bafyreiflfofkzxkn7ynjsamvz5bijmnt65w3iupwqib6phc2i6rr7u62qq"
-        },
-        "next_index": 1,
-        "last_rkey": "3myff2bmmqkb3",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
-          "createdAt": "2026-10-21T23:45:53.226686Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 83
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiefabdeiexo256bdjwivzc2qfy5dzpjjectgx5pqjctbutaudd5rm"
-              },
-              "mimeType": "video/mp4",
-              "size": 17305689
-            },
-            "alt": ""
-          }
-        },
-        "root_rkey": "3myff2bmmqkb3",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
-          "createdAt": "2026-10-21T23:45:53.226686Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 83
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiefabdeiexo256bdjwivzc2qfy5dzpjjectgx5pqjctbutaudd5rm"
-              },
-              "mimeType": "video/mp4",
-              "size": 17305689
-            },
-            "alt": ""
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myff2bmmqkb3",
-            "rkey": "3myff2bmmqkb3"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myff2bmmqkb3",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3myff2bmmqkb3",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
-        "createdAt": "2026-10-21T23:45:53.226686Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 83
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreiefabdeiexo256bdjwivzc2qfy5dzpjjectgx5pqjctbutaudd5rm"
-            },
-            "mimeType": "video/mp4",
-            "size": 17305689
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myff2bmmqkb3",
-          "rkey": "3myff2bmmqkb3"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-21T23:51:02.314002Z"
     },
     "truth:117479427326984993": {
       "post_status": "RETRY",
