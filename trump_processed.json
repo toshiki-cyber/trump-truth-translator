@@ -4695,7 +4695,10 @@
     "https://www.trumpstruth.org/statuses/42538",
     "fp:'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: \nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-",
     "truth:117479077625297841",
-    "https://www.trumpstruth.org/statuses/42544"
+    "https://www.trumpstruth.org/statuses/42544",
+    "fp:🚨 ALASKA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Alaska. If you have a mail-in ballot, return it immediately and, if not, GO V",
+    "truth:117479079767228837",
+    "https://www.trumpstruth.org/statuses/42543"
   ],
   "posts": {
     "truth:117336866629561228": {
@@ -18682,6 +18685,24 @@
       "source_fingerprint": "fp:'I love you, Kansas': Trump visits Wichita area for rally to support Marshall: \nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-",
       "media_identity": "attachment:117479077625297841:",
       "translation": "『私はあなたたちを愛している、カンザス州』：トランプ、マーシャルを支援するためウィチタ地域でラリーを開催\nhttps://www.kctv5.com/video/2026/10/20/i-love-you-kansas-trump-visits-wichita-area-rally-support-marshall/"
+    },
+    "truth:117479079767228837": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42543",
+      "source_text": "<p>🚨 ALASKA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Alaska. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Alaska, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/alaska/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/alaska/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Wed, 21 Oct 2026 13:14:57 +0000",
+      "retry_count": 5,
+      "updated_at": "2026-10-21T22:40:38.103846Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42543",
+      "first_seen": "2026-10-21T15:05:38.975398Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 ALASKA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Alaska. If you have a mail-in ballot, return it immediately and, if not, GO V",
+      "truth_social_id": "117479079767228837",
+      "source_fingerprint": "fp:🚨 ALASKA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Alaska. If you have a mail-in ballot, return it immediately and, if not, GO V",
+      "media_identity": "attachment:117479079767228837:",
+      "translation": "🚨 アラスカ州！\n素晴らしきアラスカ州で現地投票が今すぐに始まっている。郵送投票用紙を持っている者は直ちにこれを返送し、まだの者は今すぐ投票所に行き、投票してくれ。そして知人全員に、あらゆる選挙でREPUBLICAN（共和党候補）に投票するよう促せ！\n\n早期投票であれ、不在者投票であれ、郵送であれ、現地投票であれ、共和党員は急進左翼のDumocrats（民主党）に対し、圧倒的な投票率で勝利しなければならない！アラスカ州では11月2日まで現地での早期投票ができる。極めて重要だ――投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/alaska/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37170,22 +37191,6 @@
       "truth_social_id": "117476372995585848",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T04:30:43.857093Z"
-    },
-    "truth:117479079767228837": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42543",
-      "source_text": "<p>🚨 ALASKA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Alaska. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Alaska, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/alaska/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/alaska/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Wed, 21 Oct 2026 13:14:57 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-10-21T16:25:42.366426Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42543",
-      "first_seen": "2026-10-21T15:05:38.975398Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "ミラーのメディア確認失敗: 403 Client Error: Forbidden for url: https://www.trumpstruth.org/statuses/42543",
-      "fingerprint": "fp:🚨 ALASKA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Alaska. If you have a mail-in ballot, return it immediately and, if not, GO V",
-      "next_retry_at": "2026-10-21T17:45:42.366451Z",
-      "truth_social_id": "117479079767228837"
     },
     "truth:117479081625461199": {
       "post_status": "RETRY",
