@@ -4662,24 +4662,12 @@
     "https://www.trumpstruth.org/statuses/42530",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18645/4f56cff106c4d005-9fb34fde3ba6.mov",
     "truth:117476367455300194",
-    "https://www.trumpstruth.org/statuses/42529"
+    "https://www.trumpstruth.org/statuses/42529",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
+    "truth:117476371905344581",
+    "https://www.trumpstruth.org/statuses/42528"
   ],
   "posts": {
-    "truth:117334536526706403": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41891",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 00:35:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T02:30:38.210479Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41891",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117334536526706403:6016062757dafae7-fc22d5f22f79.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117334536526706403",
-      "translation": ""
-    },
     "truth:117334540969398393": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18663,6 +18651,68 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18645/4f56cff106c4d005-9fb34fde3ba6.mov",
       "truth_social_id": "117476367455300194",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18645/4f56cff106c4d005-9fb34fde3ba6.mov"
+    },
+    "truth:117476371905344581": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42528",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4\">View video</a></p>",
+      "published": "Wed, 21 Oct 2026 01:46:18 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T03:15:54.074857Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42528",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
+      "media_identity": "attachment:117476371905344581:e3a75feb5420c87b-d306b12240bf.mov",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
+      "truth_social_id": "117476371905344581",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzoxdpjsta",
+      "expected_embed": "video",
+      "expected_images": 0,
+      "root_rkey": "3mydzoxdpjsta",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
+        "createdAt": "2026-10-21T03:15:46.445684Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 83
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigdhw6v7nqvg754lbm7ne6entqtwrfjn7mvhbprtkyondm3ddkr4u"
+            },
+            "mimeType": "video/mp4",
+            "size": 6507166
+          },
+          "alt": ""
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzoxdpjsta",
+          "rkey": "3mydzoxdpjsta"
+        }
+      ]
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -37082,51 +37132,37 @@
       "next_retry_at": "2026-10-20T23:20:36.916886Z"
     },
     "truth:117476365886992522": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/42531",
       "source_text": "<p>Cook Political Report shifts Minnesota Senate race toward GOP: <a href=\"https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/cook-political-report-shifts-minnesota-senate-race-toward-gop</span></a></p>",
       "published": "Wed, 21 Oct 2026 01:44:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-21T03:15:34.937446Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-21T03:25:48.997309Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42531",
       "first_seen": "2026-10-21T03:05:38.710901Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Cook Political Report shifts Minnesota Senate race toward GOP: \nhttps://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-",
-      "next_retry_at": "2026-10-21T03:25:34.937459Z",
-      "truth_social_id": "117476365886992522"
-    },
-    "truth:117476371905344581": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42528",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4\">View video</a></p>",
-      "published": "Wed, 21 Oct 2026 01:46:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T03:15:54.074857Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42528",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
-      "media_identity": "attachment:117476371905344581:e3a75feb5420c87b-d306b12240bf.mov",
+      "no_media_confirmations": 3,
       "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
-      "truth_social_id": "117476371905344581",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
+      "fingerprint": "fp:Cook Political Report shifts Minnesota Senate race toward GOP: \nhttps://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-",
+      "truth_social_id": "117476365886992522",
+      "source_fingerprint": "fp:Cook Political Report shifts Minnesota Senate race toward GOP: \nhttps://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-",
+      "media_identity": "attachment:117476365886992522:",
+      "translation": "クック・ポリティカル・レポートがミネソタ州上院選挙をGOP寄りにシフト：\nhttps://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
       "thread_checkpoint": {
         "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzoxdpjsta",
-          "cid": "bafyreid2rooubpizi72ze2m4zzvnbizgu5vqvwlrtz26kpsb5yy4mkuerm"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzm7r6uka7",
+          "cid": "bafyreico6hdwd66jrckqptkkaybal4orndbagdddv4bd7pnlb2zygt2eri"
         },
         "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzoxdpjsta",
-          "cid": "bafyreid2rooubpizi72ze2m4zzvnbizgu5vqvwlrtz26kpsb5yy4mkuerm"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzm7r6uka7",
+          "cid": "bafyreico6hdwd66jrckqptkkaybal4orndbagdddv4bd7pnlb2zygt2eri"
         },
         "next_index": 1,
-        "last_rkey": "3mydzoxdpjsta",
+        "last_rkey": "3mydzm7r6uka7",
         "last_record": {
           "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
-          "createdAt": "2026-10-21T03:15:46.445684Z",
+          "text": "クック・ポリティカル・レポートがミネソタ州上院選挙をGOP寄りにシフト：\nhttps://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
+          "createdAt": "2026-10-21T03:25:42.188236Z",
           "langs": [
             "ja"
           ],
@@ -37135,35 +37171,39 @@
               "$type": "app.bsky.richtext.facet",
               "index": {
                 "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 83
+                "byteStart": 103,
+                "byteEnd": 204
               },
               "features": [
                 {
                   "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4"
+                  "uri": "https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop"
                 }
               ]
             }
           ],
           "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigdhw6v7nqvg754lbm7ne6entqtwrfjn7mvhbprtkyondm3ddkr4u"
-              },
-              "mimeType": "video/mp4",
-              "size": 6507166
-            },
-            "alt": ""
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
+              "title": "Cook Political Report shifts Minnesota Senate race toward GOP",
+              "description": "Polling shows a close race, with Flanagan posting a 3.2% average lead, according to RealClearPolitics.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreictd54j2kx7rwxuv5wrtspl3isypmo5r4amq5oyij7j4oy33jqrwe"
+                },
+                "mimeType": "image/jpeg",
+                "size": 92609
+              }
+            }
           }
         },
-        "root_rkey": "3mydzoxdpjsta",
+        "root_rkey": "3mydzm7r6uka7",
         "root_record": {
           "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
-          "createdAt": "2026-10-21T03:15:46.445684Z",
+          "text": "クック・ポリティカル・レポートがミネソタ州上院選挙をGOP寄りにシフト：\nhttps://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
+          "createdAt": "2026-10-21T03:25:42.188236Z",
           "langs": [
             "ja"
           ],
@@ -37172,45 +37212,49 @@
               "$type": "app.bsky.richtext.facet",
               "index": {
                 "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 83
+                "byteStart": 103,
+                "byteEnd": 204
               },
               "features": [
                 {
                   "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4"
+                  "uri": "https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop"
                 }
               ]
             }
           ],
           "embed": {
-            "$type": "app.bsky.embed.video",
-            "video": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigdhw6v7nqvg754lbm7ne6entqtwrfjn7mvhbprtkyondm3ddkr4u"
-              },
-              "mimeType": "video/mp4",
-              "size": 6507166
-            },
-            "alt": ""
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
+              "title": "Cook Political Report shifts Minnesota Senate race toward GOP",
+              "description": "Polling shows a close race, with Flanagan posting a 3.2% average lead, according to RealClearPolitics.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreictd54j2kx7rwxuv5wrtspl3isypmo5r4amq5oyij7j4oy33jqrwe"
+                },
+                "mimeType": "image/jpeg",
+                "size": 92609
+              }
+            }
           }
         },
         "created_records": [
           {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzoxdpjsta",
-            "rkey": "3mydzoxdpjsta"
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzm7r6uka7",
+            "rkey": "3mydzm7r6uka7"
           }
         ]
       },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzoxdpjsta",
-      "expected_embed": "video",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzm7r6uka7",
+      "expected_embed": "none",
       "expected_images": 0,
-      "root_rkey": "3mydzoxdpjsta",
+      "root_rkey": "3mydzm7r6uka7",
       "root_record": {
         "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4",
-        "createdAt": "2026-10-21T03:15:46.445684Z",
+        "text": "クック・ポリティカル・レポートがミネソタ州上院選挙をGOP寄りにシフト：\nhttps://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
+        "createdAt": "2026-10-21T03:25:42.188236Z",
         "langs": [
           "ja"
         ],
@@ -37219,38 +37263,42 @@
             "$type": "app.bsky.richtext.facet",
             "index": {
               "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 83
+              "byteStart": 103,
+              "byteEnd": 204
             },
             "features": [
               {
                 "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18644/browser-safe.mp4"
+                "uri": "https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop"
               }
             ]
           }
         ],
         "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreigdhw6v7nqvg754lbm7ne6entqtwrfjn7mvhbprtkyondm3ddkr4u"
-            },
-            "mimeType": "video/mp4",
-            "size": 6507166
-          },
-          "alt": ""
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
+            "title": "Cook Political Report shifts Minnesota Senate race toward GOP",
+            "description": "Polling shows a close race, with Flanagan posting a 3.2% average lead, according to RealClearPolitics.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreictd54j2kx7rwxuv5wrtspl3isypmo5r4amq5oyij7j4oy33jqrwe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 92609
+            }
+          }
         }
       },
       "created_records": [
         {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzoxdpjsta",
-          "rkey": "3mydzoxdpjsta"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydzm7r6uka7",
+          "rkey": "3mydzm7r6uka7"
         }
       ],
       "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-21T03:20:54.074871Z"
+      "next_retry_at": "2026-10-21T03:30:48.997322Z"
     },
     "truth:117476372995585848": {
       "post_status": "RETRY",
