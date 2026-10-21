@@ -4683,24 +4683,12 @@
     "https://www.trumpstruth.org/statuses/42535",
     "fp:Biden should have done the Hubbard release long ago! What a difference a President makes!",
     "truth:117478544626833616",
-    "https://www.trumpstruth.org/statuses/42536"
+    "https://www.trumpstruth.org/statuses/42536",
+    "fp:The Democrats have run California, Illinois, and New York into the ground! President DJT",
+    "truth:117478575893014344",
+    "https://www.trumpstruth.org/statuses/42537"
   ],
   "posts": {
-    "truth:117334616518733576": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41901",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 00:56:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-26T04:10:24.732065Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41901",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117334616518733576:fe695a12e81d966f.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117334616518733576",
-      "translation": ""
-    },
     "truth:117335133781136092": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18738,6 +18726,24 @@
           "rkey": "3myeykylyrkqu"
         }
       ]
+    },
+    "truth:117478575893014344": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42537",
+      "source_text": "<p>The Democrats have run California, Illinois, and New York into the ground! President DJT</p>",
+      "published": "Wed, 21 Oct 2026 11:06:48 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-21T13:25:34.255877Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42537",
+      "first_seen": "2026-10-21T13:05:40.378129Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Democrats have run California, Illinois, and New York into the ground! President DJT",
+      "truth_social_id": "117478575893014344",
+      "source_fingerprint": "fp:The Democrats have run California, Illinois, and New York into the ground! President DJT",
+      "media_identity": "attachment:117478575893014344:",
+      "translation": "民主党はカリフォルニア、イリノイ、ニューヨークを台無しにしてきたのだ！トランプ大統領"
     },
     "truth:117437320767757116": {
       "post_status": "DISCOVERED",
@@ -37172,22 +37178,6 @@
       "truth_social_id": "117476372995585848",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-21T14:15:40.706205Z"
-    },
-    "truth:117478575893014344": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42537",
-      "source_text": "<p>The Democrats have run California, Illinois, and New York into the ground! President DJT</p>",
-      "published": "Wed, 21 Oct 2026 11:06:48 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-21T13:15:31.005088Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42537",
-      "first_seen": "2026-10-21T13:05:40.378129Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Democrats have run California, Illinois, and New York into the ground! President DJT",
-      "next_retry_at": "2026-10-21T13:25:31.005099Z",
-      "truth_social_id": "117478575893014344"
     },
     "truth:117478593489864840": {
       "post_status": "RETRY",
