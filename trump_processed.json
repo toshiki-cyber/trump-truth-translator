@@ -37268,12 +37268,12 @@
       "status_url": "https://www.trumpstruth.org/statuses/42546",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18649/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 21 Oct 2026 14:37:15 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T15:40:35.024984Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-21T15:50:35.720957Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42546",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18649/browser-safe.mp4",
-      "next_retry_at": "2026-10-21T15:45:35.025002Z"
+      "next_retry_at": "2026-10-21T16:00:35.720972Z"
     },
     "url:https://www.trumpstruth.org/statuses/42545": {
       "post_status": "RETRY",
@@ -37281,12 +37281,12 @@
       "status_url": "https://www.trumpstruth.org/statuses/42545",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18648/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 21 Oct 2026 14:37:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T15:40:35.215860Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-21T15:50:35.835941Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42545",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18648/browser-safe.mp4",
-      "next_retry_at": "2026-10-21T15:45:35.215881Z"
+      "next_retry_at": "2026-10-21T16:00:35.835956Z"
     },
     "url:https://www.trumpstruth.org/statuses/42552": {
       "post_status": "RETRY",
@@ -37294,12 +37294,12 @@
       "status_url": "https://www.trumpstruth.org/statuses/42552",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 21 Oct 2026 14:42:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T15:40:35.365154Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-21T15:50:35.960295Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42552",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18655/browser-safe.mp4",
-      "next_retry_at": "2026-10-21T15:45:35.365171Z"
+      "next_retry_at": "2026-10-21T16:00:35.960309Z"
     },
     "url:https://www.trumpstruth.org/statuses/42551": {
       "post_status": "RETRY",
@@ -37307,12 +37307,12 @@
       "status_url": "https://www.trumpstruth.org/statuses/42551",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18654/6fcf9bdf56022147-b60d1456719b.png\">View image</a></p>",
       "published": "Wed, 21 Oct 2026 14:43:20 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T15:40:35.509667Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-21T15:50:36.073931Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42551",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18654/6fcf9bdf56022147-b60d1456719b.png",
-      "next_retry_at": "2026-10-21T15:45:35.509686Z"
+      "next_retry_at": "2026-10-21T16:00:36.073945Z"
     },
     "url:https://www.trumpstruth.org/statuses/42550": {
       "post_status": "RETRY",
@@ -37320,12 +37320,12 @@
       "status_url": "https://www.trumpstruth.org/statuses/42550",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18653/87ca6af8083774a5-3cb71ec7ed33.mp4\">View video</a></p>",
       "published": "Wed, 21 Oct 2026 14:43:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T15:40:35.639310Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-21T15:50:36.206113Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42550",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18653/87ca6af8083774a5-3cb71ec7ed33.mp4",
-      "next_retry_at": "2026-10-21T15:45:35.639325Z"
+      "next_retry_at": "2026-10-21T16:00:36.206127Z"
     },
     "url:https://www.trumpstruth.org/statuses/42549": {
       "post_status": "RETRY",
@@ -37333,12 +37333,12 @@
       "status_url": "https://www.trumpstruth.org/statuses/42549",
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479428956407249</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18652/403dcefa411617b0-2723f48744db.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42550\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18653/87ca6af8083774a5-3cb71ec7ed33.mp4\">View video</a></p></blockquote>",
       "published": "Wed, 21 Oct 2026 14:43:58 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-21T15:40:35.779388Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-21T15:50:36.368062Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42549",
       "failure_reason": "Truth Social投稿IDを取得できず、メディア有無が不明",
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479428956407249https://truth-archive.us-iad-1.linodeobjects.com/attachments/18652/403dce",
-      "next_retry_at": "2026-10-21T15:45:35.779407Z"
+      "next_retry_at": "2026-10-21T16:00:36.368077Z"
     }
   }
 }
