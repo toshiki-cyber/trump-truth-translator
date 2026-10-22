@@ -4884,24 +4884,12 @@
     "https://www.trumpstruth.org/statuses/42612",
     "fp:Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and every",
     "truth:117485314798987090",
-    "https://www.trumpstruth.org/statuses/42611"
+    "https://www.trumpstruth.org/statuses/42611",
+    "fp:THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”",
+    "truth:117485317207546802",
+    "https://www.trumpstruth.org/statuses/42610"
   ],
   "posts": {
-    "truth:117345157682476645": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41998",
-      "source_text": "<p></p>",
-      "published": "Sun, 27 Sep 2026 21:36:48 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-28T01:30:35.218287Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41998",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117345157682476645:6823b5676de121b5.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117345157682476645",
-      "translation": ""
-    },
     "truth:117345157982014484": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -19082,6 +19070,24 @@
       "source_fingerprint": "fp:Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and every",
       "media_identity": "attachment:117485314798987090:",
       "translation": "イランは米国の中間選挙前に油価を引き上げるためにあらゆることをしている。彼らは偽りの攻撃、機雷、その他あらゆることまで作り出している。なぜなら、紛争の開始前よりも今、ホルムズ海峡を通じてより多くの石油が流れているからだ。彼らは抗議者たちや、たまたま彼らの邪魔になる者たちを殺し続けている。本当に邪悪な体制だ。アメリカ国民と世界がいかに邪悪であるかを理解することを望むだけだ。75,000人の抗議者が7ヶ月未満で死んでいる。世界と民主党がこれを気にかけないように見えるのは衝撃的だ。イランは核兵器を持つことはできない。彼らは核兵器を持つことはない！ドナルド・J・トランプ大統領"
+    },
+    "truth:117485317207546802": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42610",
+      "source_text": "<p>THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”</p>",
+      "published": "Thu, 22 Oct 2026 15:41:13 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T19:25:34.898887Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42610",
+      "first_seen": "2026-10-22T18:55:36.261427Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”",
+      "truth_social_id": "117485317207546802",
+      "source_fingerprint": "fp:THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”",
+      "media_identity": "attachment:117485317207546802:",
+      "translation": "ウォール・ストリート・ジャーナル：「ペルシャ湾から産出される石油は、イラン戦争前より増加している」"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37911,22 +37917,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T19:55:38.240795Z"
-    },
-    "truth:117485317207546802": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42610",
-      "source_text": "<p>THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”</p>",
-      "published": "Thu, 22 Oct 2026 15:41:13 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T19:00:37.164032Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42610",
-      "first_seen": "2026-10-22T18:55:36.261427Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”",
-      "next_retry_at": "2026-10-22T19:10:37.164046Z",
-      "truth_social_id": "117485317207546802"
     },
     "truth:117485878480801847": {
       "post_status": "RETRY",
