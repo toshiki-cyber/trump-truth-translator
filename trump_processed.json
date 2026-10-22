@@ -4887,24 +4887,12 @@
     "https://www.trumpstruth.org/statuses/42611",
     "fp:THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”",
     "truth:117485317207546802",
-    "https://www.trumpstruth.org/statuses/42610"
+    "https://www.trumpstruth.org/statuses/42610",
+    "fp:The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for political reasons, we will see it go! President DO",
+    "truth:117485881463015989",
+    "https://www.trumpstruth.org/statuses/42613"
   ],
   "posts": {
-    "truth:117345157982014484": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41997",
-      "source_text": "<p></p>",
-      "published": "Sun, 27 Sep 2026 21:36:53 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-28T01:45:32.102682Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41997",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117345157982014484:ce0ec0eb2d17f3f2.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117345157982014484",
-      "translation": ""
-    },
     "truth:117345281669990405": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -19088,6 +19076,24 @@
       "source_fingerprint": "fp:THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”",
       "media_identity": "attachment:117485317207546802:",
       "translation": "ウォール・ストリート・ジャーナル：「ペルシャ湾から産出される石油は、イラン戦争前より増加している」"
+    },
+    "truth:117485881463015989": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42613",
+      "source_text": "<p>The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for political reasons, we will see it go! President DONALD J. TRUMP</p>",
+      "published": "Thu, 22 Oct 2026 18:04:43 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T19:45:39.696248Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42613",
+      "first_seen": "2026-10-22T19:10:36.501495Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for political reasons, we will see it go! President DO",
+      "truth_social_id": "117485881463015989",
+      "source_fingerprint": "fp:The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for political reasons, we will see it go! President DO",
+      "media_identity": "attachment:117485881463015989:",
+      "translation": "ニューヨークシティの馬車は、ニューヨークを象徴する体験だ。政治的な理由で、それが消えてしまうことになるのは非常に残念だ！ドナルド・J・トランプ大統領"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37990,22 +37996,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-22T19:45:52.101793Z"
-    },
-    "truth:117485881463015989": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42613",
-      "source_text": "<p>The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for political reasons, we will see it go! President DONALD J. TRUMP</p>",
-      "published": "Thu, 22 Oct 2026 18:04:43 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T19:30:34.028985Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42613",
-      "first_seen": "2026-10-22T19:10:36.501495Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for political reasons, we will see it go! President DO",
-      "next_retry_at": "2026-10-22T19:40:34.029004Z",
-      "truth_social_id": "117485881463015989"
     },
     "truth:117486013862752010": {
       "post_status": "RETRY",
