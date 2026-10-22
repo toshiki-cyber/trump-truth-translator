@@ -37667,8 +37667,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/42545",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18648/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 21 Oct 2026 14:37:25 +0000",
-      "retry_count": 8,
-      "updated_at": "2026-10-22T11:05:37.992701Z",
+      "retry_count": 9,
+      "updated_at": "2026-10-22T17:10:41.561730Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42545",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbbv7gs9aa9c73dg8790\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18648/browser-safe.mp4",
@@ -37676,7 +37676,7 @@
       "media_identity": "attachment:117479404058364292:c90ce9d0f56832e6-ceaa420d1b7b.mov",
       "truth_social_id": "117479404058364292",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-22T17:05:37.992719Z"
+      "next_retry_at": "2026-10-22T23:10:41.561751Z"
     },
     "truth:117484741288465425": {
       "post_status": "RETRY",
@@ -37851,6 +37851,66 @@
       "retry_count": 0,
       "updated_at": "2026-10-22T15:10:38.629920Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42605"
+    },
+    "truth:117485228002980983": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42609",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18693/046273a46e45d0dc-ccbbf9730d4b.mp4\">View video</a></p>",
+      "published": "Thu, 22 Oct 2026 15:18:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T17:10:32.452922Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42609"
+    },
+    "truth:117485228824342638": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42608",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117485228002980983</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18692/75c2b4db1520092c-921a73872b39.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42609\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18693/046273a46e45d0dc-ccbbf9730d4b.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 15:18:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T17:10:32.452838Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42608"
+    },
+    "truth:117485231398355728": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42607",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18691/308eccd622df80e1-fe77e7bb6c56.jpg\">View image</a></p>",
+      "published": "Thu, 22 Oct 2026 15:19:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T17:10:32.452753Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42607"
+    },
+    "truth:117485314798987090": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42611",
+      "source_text": "<p>Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now than it did even prior to the beginning of the Conflict. They continue to kill protestors, and anyone else that happens to be in their way. It is truly an Evil Regime, and I can only hope the American Public, and the World, understands how EVIL they are! 75,000 protestors lie dead in less than seven months. It is shocking how the World, and the Dumocrat Party, seem not to care. IRAN CAN NEVER HAVE A NUCLEAR WEAPON, AND THEY WILL NEVER A NUCLEAR WEAPON! President DONALD J. TRUMP</p>",
+      "published": "Thu, 22 Oct 2026 15:40:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T17:10:32.452668Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42611"
+    },
+    "truth:117485317207546802": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42610",
+      "source_text": "<p>THE WALL STREET JOURNAL: “More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.”</p>",
+      "published": "Thu, 22 Oct 2026 15:41:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T17:10:32.452583Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42610"
+    },
+    "truth:117485480701878421": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42612",
+      "source_text": "<p>While listening to our National Anthem, LeBron James disrespects our Country! I said right from the beginning that he’s no good, a TOTAL DISGRACE. LeBron James should apologize to all of those Great American Warriors and Heroes who died for the American Flag, and all that our Country stands for! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18694/c04a8070354edb54-1c6b5070b23a.mp4\">View video</a></p>",
+      "published": "Thu, 22 Oct 2026 16:22:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T17:10:32.452487Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42612"
     }
   }
 }
