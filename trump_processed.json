@@ -4797,62 +4797,12 @@
     "https://www.trumpstruth.org/statuses/42582",
     "fp:🚨 COLORADO!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Colorado. If you have a mail-in ballot, return it immediately and, if not, ",
     "truth:117484616158082454",
-    "https://www.trumpstruth.org/statuses/42593"
+    "https://www.trumpstruth.org/statuses/42593",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n– Andy Biggs for Go",
+    "truth:117484624470584315",
+    "https://www.trumpstruth.org/statuses/42594"
   ],
   "posts": {
-    "truth:117339597349471940": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41956",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 22:02:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-27T00:55:32.729568Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41956",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117339597349471940:13339a2e6821fb8b.png",
-      "failure_reason": null,
-      "truth_social_id": "117339597349471940",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwhbz3lxgk2m",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwhbz3lxgk2m",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-27T00:45:33.145314Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreia6tt5xrg6xgg4wo2wctdq6ylijduafyuufnqkdygtwkoavwl5u2e"
-                },
-                "mimeType": "image/jpeg",
-                "size": 26818
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 878,
-                "height": 220
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwhbz3lxgk2m",
-          "rkey": "3mwhbz3lxgk2m"
-        }
-      ]
-    },
     "truth:117339598059843086": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -19022,6 +18972,24 @@
       "source_fingerprint": "fp:🚨 COLORADO!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Colorado. If you have a mail-in ballot, return it immediately and, if not, ",
       "media_identity": "attachment:117484616158082454:",
       "translation": "🚨 コロラド州へ！\nコロラド州で期日前投票（直接投票）が今始まっている。郵送投票用紙を受け取った者は直ちに返送すること。まだなら、今すぐ投票所に行って投票し、知り合い全員に、投票用紙全体で共和党候補に投票するよう促すこと！\n\n早期投票、不在者投票、郵送投票、直接投票のいずれの方法であれ、共和党は左翼的な民主党員どもを圧倒的な投票数で打ち負かさねばならない！コロラド州では11月2日まで期日前投票（直接投票）が可能だ。極めて重要だ——投票に行くことを強く促す。MAGA！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/colorado/"
+    },
+    "truth:117484624470584315": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42594",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238</span>TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:</p><p>– Andy Biggs for Governor<br />– Warren Petersen for Attorney General<br />– Alexander Kolodin for Secretary of State<br />– Jay Feely for U.S. Congress (AZ-01)<br />– Eli Crane for U.S. Congress (AZ-02)<br />– Mark Lamb for U.S. Congress (AZ-05)<br />– Juan Ciscomani for U.S. Congress (AZ-06)<br />– Abraham Hamadeh for U.S. Congress (AZ-08)<br />– Paul Gosar for U.S. Congress (AZ-09)</p><p>These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP</p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42595\">Donald J. Trump</a></p><blockquote><p>🚨 ARIZONA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Arizona, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/arizona/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/arizona/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 12:45:02 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T15:40:48.760793Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42594",
+      "first_seen": "2026-10-22T15:10:40.702236Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n– Andy Biggs for Go",
+      "truth_social_id": "117484624470584315",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n– Andy Biggs for Go",
+      "media_identity": "attachment:117484624470584315:",
+      "translation": "【翻訳】\n\nリツイート: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO アリゾナの偉大なる人々よ、投票に行き、以下の候補者に投票してくれ：\n– 知事：アンディ・ビッグス\n– 司法長官：ウォーレン・ピーターセン\n– 州務長官：アレクサンダー・コロディン\n– 下院議員（アリゾナ州第1区）：ジェイ・フィーリー\n– 下院議員（アリゾナ州第2区）：イライ・クレーン\n– 下院議員（アリゾナ州第5区）：マーク・ラム\n– 下院議員（アリゾナ州第6区）：ファン・シスコマニ\n– 下院議員（アリゾナ州第8区）：エイブラハム・ハマデー\n– 下院議員（アリゾナ州第9区）：ポール・ゴーサー\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\n\n引用元\nhttps://www.trumpstruth.org/statuses/42595🚨 アリゾナ州！\n早期投票（対面投票）が今、偉大なるアリゾナ州で進行中だ。郵便投票用紙を持っているなら、すぐに返送してくれ。持っていないなら、今すぐ投票所に行き、投票してくれ。知り合い全員に投票するよう促してくれ！\n早期投票、不在者投票、郵便投票、対面投票、どの方法で投票するにせよ、共和党員たちは急進左翼の民主党員どもを大量投票で圧倒しなければならない！アリゾナ州では10月30日まで、対面での早期投票ができる。極めて重要だ。投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/arizona/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37578,22 +37546,6 @@
       "truth_social_id": "117479404058364292",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T17:05:37.992719Z"
-    },
-    "truth:117484624470584315": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42594",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238</span>TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:</p><p>– Andy Biggs for Governor<br />– Warren Petersen for Attorney General<br />– Alexander Kolodin for Secretary of State<br />– Jay Feely for U.S. Congress (AZ-01)<br />– Eli Crane for U.S. Congress (AZ-02)<br />– Mark Lamb for U.S. Congress (AZ-05)<br />– Juan Ciscomani for U.S. Congress (AZ-06)<br />– Abraham Hamadeh for U.S. Congress (AZ-08)<br />– Paul Gosar for U.S. Congress (AZ-09)</p><p>These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP</p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42595\">Donald J. Trump</a></p><blockquote><p>🚨 ARIZONA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Arizona, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/arizona/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/arizona/</span><span class=\"invisible\"></span></a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 12:45:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T15:20:37.847354Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42594",
-      "first_seen": "2026-10-22T15:10:40.702236Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n– Andy Biggs for Go",
-      "next_retry_at": "2026-10-22T15:30:37.847373Z",
-      "truth_social_id": "117484624470584315"
     },
     "truth:117484627270559441": {
       "post_status": "RETRY",
