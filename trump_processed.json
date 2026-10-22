@@ -4800,62 +4800,12 @@
     "https://www.trumpstruth.org/statuses/42593",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n– Andy Biggs for Go",
     "truth:117484624470584315",
-    "https://www.trumpstruth.org/statuses/42594"
+    "https://www.trumpstruth.org/statuses/42594",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484616158082454TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:\n \n– Jeff Hurd for ",
+    "truth:117484627270559441",
+    "https://www.trumpstruth.org/statuses/42592"
   ],
   "posts": {
-    "truth:117339598059843086": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41955",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 22:02:55 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-27T01:05:39.739741Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41955",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117339598059843086:108ec0fc835c74d6.png",
-      "failure_reason": null,
-      "truth_social_id": "117339598059843086",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwhbzfwqfc27",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwhbzfwqfc27",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-27T01:05:32.462971Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiae3wr36z6cdfvrn2h3hihahc5slzo6526kmm5wtydsibhe3wgfry"
-                },
-                "mimeType": "image/jpeg",
-                "size": 24967
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 878,
-                "height": 242
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwhbzfwqfc27",
-          "rkey": "3mwhbzfwqfc27"
-        }
-      ]
-    },
     "truth:117339598713942230": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18990,6 +18940,24 @@
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n– Andy Biggs for Go",
       "media_identity": "attachment:117484624470584315:",
       "translation": "【翻訳】\n\nリツイート: https://truthsocial.com/users/realDonaldTrump/statuses/117484613863994238TO アリゾナの偉大なる人々よ、投票に行き、以下の候補者に投票してくれ：\n– 知事：アンディ・ビッグス\n– 司法長官：ウォーレン・ピーターセン\n– 州務長官：アレクサンダー・コロディン\n– 下院議員（アリゾナ州第1区）：ジェイ・フィーリー\n– 下院議員（アリゾナ州第2区）：イライ・クレーン\n– 下院議員（アリゾナ州第5区）：マーク・ラム\n– 下院議員（アリゾナ州第6区）：ファン・シスコマニ\n– 下院議員（アリゾナ州第8区）：エイブラハム・ハマデー\n– 下院議員（アリゾナ州第9区）：ポール・ゴーサー\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\n\n引用元\nhttps://www.trumpstruth.org/statuses/42595🚨 アリゾナ州！\n早期投票（対面投票）が今、偉大なるアリゾナ州で進行中だ。郵便投票用紙を持っているなら、すぐに返送してくれ。持っていないなら、今すぐ投票所に行き、投票してくれ。知り合い全員に投票するよう促してくれ！\n早期投票、不在者投票、郵便投票、対面投票、どの方法で投票するにせよ、共和党員たちは急進左翼の民主党員どもを大量投票で圧倒しなければならない！アリゾナ州では10月30日まで、対面での早期投票ができる。極めて重要だ。投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/arizona/"
+    },
+    "truth:117484627270559441": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42592",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484616158082454</span>TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:<br /> <br />– Jeff Hurd for U.S. Congress (CO-03)<br />– Lauren Boebert for U.S. Congress (CO-04)<br />– Jeff Crank for U.S. Congress (CO-05)<br />– Gabe Evans for U.S. Congress (CO-08)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42593\">Donald J. Trump</a></p><blockquote><p>🚨 COLORADO!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Colorado. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Colorado, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 12:45:45 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T15:45:48.948947Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42592",
+      "first_seen": "2026-10-22T15:10:41.244307Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484616158082454TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:\n \n– Jeff Hurd for ",
+      "truth_social_id": "117484627270559441",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484616158082454TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:\n \n– Jeff Hurd for ",
+      "media_identity": "attachment:117484627270559441:",
+      "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/117484616158082454TO コロラド州の偉大なる人民よ、投票に行って以下の候補者に投票するんだ：\n\n– ジェフ・ハード（下院議員候補 CO-03区）\n– ローレン・ボーバート（下院議員候補 CO-04区）\n– ジェフ・クランク（下院議員候補 CO-05区）\n– ゲイブ・エバンス（下院議員候補 CO-08区）\n\nこれらの偉大な愛国者たちは私の完全かつ絶対的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/colorado/Quoted\nhttps://www.trumpstruth.org/statuses/42593🚨 コロラド州よ！\n\nコロラド州というこの偉大な州で期日前投票が今すでに進行中だ。郵便投票用紙を持っているなら今すぐに返送しろ。そうでなければ、今すぐ投票所に行って投票しろ。そして知り合い全員に、あらゆる選挙で共和党に投票するよう呼びかけるんだ！\n\n期日前投票、不在者投票、郵便投票、投票所での投票、どの方法であれ、共和党員は過激派左翼民主党員たちを圧倒的な投票数で打ちのめさなければならない！コロラド州では11月2日まで期日前投票を投票所で行うことができる。非常に重要だ。投票に行ってくれ。アメリカを偉大に！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/colorado/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37546,22 +37514,6 @@
       "truth_social_id": "117479404058364292",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T17:05:37.992719Z"
-    },
-    "truth:117484627270559441": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42592",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484616158082454</span>TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:<br /> <br />– Jeff Hurd for U.S. Congress (CO-03)<br />– Lauren Boebert for U.S. Congress (CO-04)<br />– Jeff Crank for U.S. Congress (CO-05)<br />– Gabe Evans for U.S. Congress (CO-08)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42593\">Donald J. Trump</a></p><blockquote><p>🚨 COLORADO!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Colorado. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Colorado, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 12:45:45 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T15:20:38.319576Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42592",
-      "first_seen": "2026-10-22T15:10:41.244307Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484616158082454TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:\n \n– Jeff Hurd for ",
-      "next_retry_at": "2026-10-22T15:30:38.319592Z",
-      "truth_social_id": "117484627270559441"
     },
     "truth:117484629450934515": {
       "post_status": "RETRY",
