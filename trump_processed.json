@@ -4788,24 +4788,12 @@
     "https://www.trumpstruth.org/statuses/42583",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18676/0f812083006b6dad-9cde6cb620c1.mp4",
     "truth:117484741288465425",
-    "https://www.trumpstruth.org/statuses/42584"
+    "https://www.trumpstruth.org/statuses/42584",
+    "fp:🚨 ARIZONA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO",
+    "truth:117484613863994238",
+    "https://www.trumpstruth.org/statuses/42595"
   ],
   "posts": {
-    "truth:117339595344002712": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41959",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 22:02:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-27T00:15:32.459866Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41959",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117339595344002712:00a7f9eb4d5d3774.png",
-      "failure_reason": null,
-      "truth_social_id": "117339595344002712",
-      "translation": ""
-    },
     "truth:117339595987738159": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18952,6 +18940,24 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e",
       "truth_social_id": "117484742039933383",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e1a33ebb822-68353e5da04c.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42584https://truth-archive.us-iad-1.linodeobjects.com/attachments/18676/0f812083006b6dad-9cde6cb620c1.mp4"
+    },
+    "truth:117484613863994238": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42595",
+      "source_text": "<p>🚨 ARIZONA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Arizona, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/arizona/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/arizona/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 12:42:21 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T15:30:43.960806Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42595",
+      "first_seen": "2026-10-22T15:10:39.533683Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 ARIZONA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO",
+      "truth_social_id": "117484613863994238",
+      "source_fingerprint": "fp:🚨 ARIZONA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO",
+      "media_identity": "attachment:117484613863994238:",
+      "translation": "🚨 アリゾナ州へ！\nアリゾナ州での期日前投票（投票所での投票）が今、進行中だ。郵送投票用紙を持っている者は直ちに返送し、持っていない者はただちに投票所に行って投票するんだ。そして知人全員に、すべての選挙で共和党候補に投票するよう呼びかけろ！\n\n共和党員たちよ、投票が早期だろうが不在者投票だろうが郵送だろうが投票所での投票だろうが、極左のバカ左翼民主党員どもを圧倒的な投票数で叩きのめせ！アリゾナ州では10月30日を通じて投票所での期日前投票が可能だ。極めて重要だ——投票に行くんだ。MAGA！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/arizona/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37508,22 +37514,6 @@
       "truth_social_id": "117479404058364292",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T17:05:37.992719Z"
-    },
-    "truth:117484613863994238": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42595",
-      "source_text": "<p>🚨 ARIZONA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Arizona, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/arizona/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/arizona/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Thu, 22 Oct 2026 12:42:21 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T15:15:39.956260Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42595",
-      "first_seen": "2026-10-22T15:10:39.533683Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 ARIZONA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO",
-      "next_retry_at": "2026-10-22T15:25:39.956277Z",
-      "truth_social_id": "117484613863994238"
     },
     "truth:117484616158082454": {
       "post_status": "RETRY",
