@@ -37422,8 +37422,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/42545",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18648/browser-safe.mp4\">View video</a></p>",
       "published": "Wed, 21 Oct 2026 14:37:25 +0000",
-      "retry_count": 5,
-      "updated_at": "2026-10-22T01:30:48.186117Z",
+      "retry_count": 6,
+      "updated_at": "2026-10-22T02:55:33.162363Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42545",
       "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbbv7gs9aa9c73dg8790\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18648/browser-safe.mp4",
@@ -37431,7 +37431,7 @@
       "media_identity": "attachment:117479404058364292:c90ce9d0f56832e6-ceaa420d1b7b.mov",
       "truth_social_id": "117479404058364292",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-22T02:50:48.186133Z"
+      "next_retry_at": "2026-10-22T05:35:33.162380Z"
     }
   }
 }
