@@ -4836,24 +4836,12 @@
     "https://www.trumpstruth.org/statuses/42590",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484788448196895https://truth-archive.us-iad-1.linodeobjects.com/attachments/18678/041b49",
     "truth:117484789178664222",
-    "https://www.trumpstruth.org/statuses/42589"
+    "https://www.trumpstruth.org/statuses/42589",
+    "fp:RT \nhttps://truthsocial.com/@RealRogerStoneDonald Trump is a force of nature.\nHe loves campaigning and gets strength from the American people.\nHe is t",
+    "truth:117484810285466543",
+    "https://www.trumpstruth.org/statuses/42587"
   ],
   "posts": {
-    "truth:117344975198365396": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41990",
-      "source_text": "<p></p>",
-      "published": "Sun, 27 Sep 2026 20:50:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-27T22:35:31.964696Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41990",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117344975198365396:79bf385d0ad0d310.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117344975198365396",
-      "translation": ""
-    },
     "truth:117344976000779585": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -19114,6 +19102,25 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484788448196895https://truth-archive.us-iad-1.linodeobjects.com/attachments/18678/041b49",
       "truth_social_id": "117484789178664222",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117484788448196895https://truth-archive.us-iad-1.linodeobjects.com/attachments/18678/041b4911339ff855-7466d232b29b.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42590https://truth-archive.us-iad-1.linodeobjects.com/attachments/18679/73ec0d32b9239f6b-f530db617da7.mp4"
+    },
+    "truth:117484810285466543": {
+      "post_status": "POSTED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/42587",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@RealRogerStone\" rel=\"nofollow\">@<span>RealRogerStone</span></a></span>Donald Trump is a force of nature.</p><p>He loves campaigning and gets strength from the American people.</p><p>He is the GREATEST campaigner in our party since Theodore Roosevelt.</p><p>He’s particularly adept at turning out marginal, lower-propensity voters.</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42588\">Roger Stone</a></p><blockquote><p>Donald Trump is a force of nature.</p><p>He loves campaigning and gets strength from the American people.</p><p>He is the GREATEST campaigner in our party since Theodore Roosevelt.</p><p>He’s particularly adept at turning out marginal, lower-propensity voters.</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18677/7e342eaad4a8c371-8d4419ed24ad.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 13:35:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T17:05:40.600543Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42587",
+      "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@RealRogerStoneDonald Trump is a force of nature.\nHe loves campaigning and gets strength from the American people.\nHe is t",
+      "media_identity": "attachment:117484810285466543:7e342eaad4a8c371.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:RT \nhttps://truthsocial.com/@RealRogerStoneDonald Trump is a force of nature.\nHe loves campaigning and gets strength from the American people.\nHe is t",
+      "truth_social_id": "117484810285466543",
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/484/810/146/380/568/original/7e342eaad4a8c371.mp4",
+      "translation": "トランプは自然界の力だ。\n彼はキャンペーンを愛し、アメリカ国民から力を得ている。\n彼はセオドア・ルーズベルト以来、我が党における最高のキャンペーナーだ。\n彼は特に、周辺的で投票可能性の低い有権者を投票に駆り立てることに長けている。\nリポスト\nhttps://www.trumpstruth.org/statuses/42588Donald トランプは自然界の力だ。\n彼はキャンペーンを愛し、アメリカ国民から力を得ている。\n彼はセオドア・ルーズベルト以来、我が党における最高のキャンペーナーだ。\n彼は特に、周辺的で投票可能性の低い有権者を投票に駆り立てることに長けている。\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18677/7e342eaad4a8c371-8d4419ed24ad.mp4"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37734,16 +37741,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T15:25:48.322069Z"
-    },
-    "truth:117484810285466543": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42587",
-      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@RealRogerStone\" rel=\"nofollow\">@<span>RealRogerStone</span></a></span>Donald Trump is a force of nature.</p><p>He loves campaigning and gets strength from the American people.</p><p>He is the GREATEST campaigner in our party since Theodore Roosevelt.</p><p>He’s particularly adept at turning out marginal, lower-propensity voters.</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42588\">Roger Stone</a></p><blockquote><p>Donald Trump is a force of nature.</p><p>He loves campaigning and gets strength from the American people.</p><p>He is the GREATEST campaigner in our party since Theodore Roosevelt.</p><p>He’s particularly adept at turning out marginal, lower-propensity voters.</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18677/7e342eaad4a8c371-8d4419ed24ad.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 13:35:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-22T15:10:38.631661Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42587"
     },
     "truth:117484963129105736": {
       "post_status": "DISCOVERED",
