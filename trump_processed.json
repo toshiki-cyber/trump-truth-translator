@@ -4776,62 +4776,12 @@
     "https://www.trumpstruth.org/statuses/42573",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484047984542655https://truth-archive.us-iad-1.linodeobjects.com/attachments/18665/6097ae",
     "truth:117484048745552518",
-    "https://www.trumpstruth.org/statuses/42571"
+    "https://www.trumpstruth.org/statuses/42571",
+    "fp:🚨 SOUTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of South Carolina. If you have a mail-in ballot, return it immediately a",
+    "truth:117484620681663989",
+    "https://www.trumpstruth.org/statuses/42574"
   ],
   "posts": {
-    "truth:117339592897068385": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41962",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 22:01:36 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-26T23:40:30.006466Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41962",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117339592897068385:8c766b4d1cc99b2a.png",
-      "failure_reason": null,
-      "truth_social_id": "117339592897068385",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwhbx2smqsqm",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwhbx2smqsqm",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-26T23:30:30.181234Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreia3grshyuminjjzc5ze755gwss5i2cr5usmcggs4xsy4qwlovjzaq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 25856
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 886,
-                "height": 192
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwhbx2smqsqm",
-          "rkey": "3mwhbx2smqsqm"
-        }
-      ]
-    },
     "truth:117339593802451277": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18959,6 +18909,24 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484047984542655https://truth-archive.us-iad-1.linodeobjects.com/attachments/18665/6097ae",
       "truth_social_id": "117484048745552518",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117484047984542655https://truth-archive.us-iad-1.linodeobjects.com/attachments/18665/6097aedbd565b3dc-d5a77a634177.pngQuoted\nhttps://www.trumpstruth.org/statuses/42572https://truth-archive.us-iad-1.linodeobjects.com/attachments/18666/dd28a456fc38689a-de5ce17f1d03.mp4"
+    },
+    "truth:117484620681663989": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42574",
+      "source_text": "<p>🚨 SOUTH CAROLINA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of South Carolina. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In South Carolina, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/south-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/south-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Thu, 22 Oct 2026 12:44:05 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T13:35:43.210018Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42574",
+      "first_seen": "2026-10-22T13:10:31.584490Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 SOUTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of South Carolina. If you have a mail-in ballot, return it immediately a",
+      "truth_social_id": "117484620681663989",
+      "source_fingerprint": "fp:🚨 SOUTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of South Carolina. If you have a mail-in ballot, return it immediately a",
+      "media_identity": "attachment:117484620681663989:",
+      "translation": "🚨 サウスカロライナ州よ！\nサウスカロライナ州で期日前投票（対面投票）が今まさに実施中だ。郵便投票の投票用紙を持っている者は直ちに投函し、そうでない者は今すぐ投票所に投票しに行け。そして知人全員に共和党に投票するよう説得しろ。全ての選挙で共和党候補に投票するんだ！\n\n早期投票、不在者投票、郵便投票、対面投票のどの方法で投票するにせよ、共和党は大規模な投票率で過激左翼民主党を圧倒しなくてはならない！サウスカロライナ州では10月31日まで対面での期日前投票ができる。非常に重要だ——投票に行ってくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/south-carolina/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37684,22 +37652,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-22T13:35:51.344181Z"
-    },
-    "truth:117484620681663989": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42574",
-      "source_text": "<p>🚨 SOUTH CAROLINA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of South Carolina. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In South Carolina, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/south-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/south-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Thu, 22 Oct 2026 12:44:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T13:15:37.094699Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42574",
-      "first_seen": "2026-10-22T13:10:31.584490Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 SOUTH CAROLINA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of South Carolina. If you have a mail-in ballot, return it immediately a",
-      "next_retry_at": "2026-10-22T13:25:37.094714Z",
-      "truth_social_id": "117484620681663989"
     }
   }
 }
