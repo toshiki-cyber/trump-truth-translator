@@ -4908,54 +4908,12 @@
     "https://www.trumpstruth.org/statuses/42617",
     "fp:🚨 CALIFORNIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of California. If you have a mail-in ballot, return it immediately and, if",
     "truth:117486696016576666",
-    "https://www.trumpstruth.org/statuses/42616"
+    "https://www.trumpstruth.org/statuses/42616",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486696016576666TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton",
+    "truth:117486846918588006",
+    "https://www.trumpstruth.org/statuses/42620"
   ],
   "posts": {
-    "truth:117346773878574094": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42004",
-      "source_text": "<p></p>",
-      "published": "Mon, 28 Sep 2026 04:27:49 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-28T07:15:46.295743Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42004",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117346773878574094:4bcda3674cd73602-06a5e6414625.mov",
-      "failure_reason": null,
-      "truth_social_id": "117346773878574094",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwkhyltqmkov",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3mwkhyltqmkov",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-28T07:15:38.778902Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreig73hg3kxmqqzdgul5zrfkyhi7cyj3qkkevxl36gckjwkovb3xaoe"
-            },
-            "mimeType": "video/mp4",
-            "size": 18100178
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwkhyltqmkov",
-          "rkey": "3mwkhyltqmkov"
-        }
-      ]
-    },
     "truth:117346775410000482": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -19080,6 +19038,24 @@
       "source_fingerprint": "fp:🚨 CALIFORNIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of California. If you have a mail-in ballot, return it immediately and, if",
       "media_identity": "attachment:117486696016576666:",
       "translation": "🚨 カリフォルニア州へ！\n\n素晴らしきカリフォルニア州での期日前投票（本人投票）が今始まっている。郵便投票用紙を持っている者は直ちに返送し、持っていない者は今すぐ投票所に行って投票してくれ。そして知人全員に、投票用紙のあらゆる欄でREPUBLICAN（共和党）に投票するよう促してくれ！\n\n早期投票、不在者投票、郵便投票、本人投票のいずれの方法であれ、共和党員は大量投票でラディカル左翼のDumocrats（民主党）を圧倒しなければならない！カリフォルニア州では11月2日までずっと期日前投票を本人投票で行うことができる。極めて重要だ――投票に行ってくれ。MAGA！\n\nドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/california/"
+    },
+    "truth:117486846918588006": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42620",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486696016576666</span>TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:<br /> <br />– Steve Hilton for Governor<br />– James Gallagher for U.S. Congress (CA-01)<br />– Tom McClintock for U.S. Congress (CA-05)<br />– Kevin Lincoln for U.S. Congress (CA-13)<br />– Vince Fong for U.S. Congress (CA-20)<br />– Jay Obernolte for U.S. Congress (CA-23)<br />– Jim Desmond for U.S. Congress (CA-48)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/california/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/california</span><span class=\"invisible\">/</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42616\">Donald J. Trump</a></p><blockquote><p>🚨 CALIFORNIA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of California. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In California, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/california/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/california</span><span class=\"invisible\">/</span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:10:14 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T23:50:34.623542Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42620",
+      "first_seen": "2026-10-22T23:10:28.225411Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486696016576666TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton",
+      "truth_social_id": "117486846918588006",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486696016576666TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton",
+      "media_identity": "attachment:117486846918588006:",
+      "translation": "【翻訳】\nRT: https://truthsocial.com/users/realDonaldTrump/statuses/117486696016576666TO カリフォルニアの偉大な人々よ、以下の候補者に投票するために投票所へ行け：\n\n– 知事候補：スティーブ・ヒルトン\n– 米国下院議員（カリフォルニア州第1区）：ジェームス・ギャラガー\n– 米国下院議員（カリフォルニア州第5区）：トム・マクリントック\n– 米国下院議員（カリフォルニア州第13区）：ケビン・リンカーン\n– 米国下院議員（カリフォルニア州第20区）：ヴィンス・フォング\n– 米国下院議員（カリフォルニア州第23区）：ジェイ・オーバーノルテ\n– 米国下院議員（カリフォルニア州第48区）：ジム・デスモンド\n\nこれらの偉大な愛国者は私の完全かつ全面的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/california/Quoted\nhttps://www.trumpstruth.org/statuses/42616🚨 カリフォルニア！\n\nカリフォルニア州の期日前投票が今、実施されている。郵便投票用紙を持っている場合は直ちに返送せよ。持っていない場合は、今すぐ投票所に行って投票しろ。そして知人全員に投票するよう促せ。全ての選挙で共和党員に投票しろ！\n\n早期投票、不在者投票、郵便投票、当日投票のどの方法を選ぼうとも、共和党員は急進左翼民主党員を大規模な投票率で圧倒しなければならない！カリフォルニア州では11月2日を通じて期日前投票ができる。極めて重要だ。投票所へ行って投票してくれ。MAGA！\nドナルド・J・トランプ大統領\n\n投票所の場所を確認する：\nhttps://swampthevoteusa.com/california/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37909,22 +37885,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T00:00:33.057759Z"
-    },
-    "truth:117486846918588006": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42620",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486696016576666</span>TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:<br /> <br />– Steve Hilton for Governor<br />– James Gallagher for U.S. Congress (CA-01)<br />– Tom McClintock for U.S. Congress (CA-05)<br />– Kevin Lincoln for U.S. Congress (CA-13)<br />– Vince Fong for U.S. Congress (CA-20)<br />– Jay Obernolte for U.S. Congress (CA-23)<br />– Jim Desmond for U.S. Congress (CA-48)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/california/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/california</span><span class=\"invisible\">/</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42616\">Donald J. Trump</a></p><blockquote><p>🚨 CALIFORNIA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of California. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In California, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/california/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/california</span><span class=\"invisible\">/</span></a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 22:10:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T23:20:27.230318Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42620",
-      "first_seen": "2026-10-22T23:10:28.225411Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486696016576666TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton",
-      "next_retry_at": "2026-10-22T23:30:27.230334Z",
-      "truth_social_id": "117486846918588006"
     },
     "truth:117486849387226781": {
       "post_status": "RETRY",
