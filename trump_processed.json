@@ -4782,24 +4782,12 @@
     "https://www.trumpstruth.org/statuses/42574",
     "fp:🚨 GEORGIA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Georgia. If you have a mail-in ballot, return it immediately and, if not, GO",
     "truth:117484618730589847",
-    "https://www.trumpstruth.org/statuses/42575"
+    "https://www.trumpstruth.org/statuses/42575",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e",
+    "truth:117484742039933383",
+    "https://www.trumpstruth.org/statuses/42583"
   ],
   "posts": {
-    "truth:117339594579276473": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41960",
-      "source_text": "<p></p>",
-      "published": "Sat, 26 Sep 2026 22:02:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-27T00:05:32.478134Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41960",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117339594579276473:fed0387b6d61ef2f.png",
-      "failure_reason": null,
-      "truth_social_id": "117339594579276473",
-      "translation": ""
-    },
     "truth:117339595344002712": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18945,6 +18933,22 @@
           "rkey": "3myhov6gxykfs"
         }
       ]
+    },
+    "truth:117484742039933383": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42583",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e1a33ebb822-68353e5da04c.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42584\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18676/0f812083006b6dad-9cde6cb620c1.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 13:14:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T15:15:44.802794Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42583",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e",
+      "media_identity": "attachment:117484742039933383:aede5e1a33ebb822.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e",
+      "truth_social_id": "117484742039933383",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e1a33ebb822-68353e5da04c.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42584https://truth-archive.us-iad-1.linodeobjects.com/attachments/18676/0f812083006b6dad-9cde6cb620c1.mp4"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37508,14 +37512,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42595",
       "source_text": "<p>🚨 ARIZONA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Arizona, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/arizona/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/arizona/</span><span class=\"invisible\"></span></a></p>",
       "published": "Thu, 22 Oct 2026 12:42:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-22T15:10:39.533723Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-22T15:15:39.956260Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42595",
       "first_seen": "2026-10-22T15:10:39.533683Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:🚨 ARIZONA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Arizona. If you have a mail-in ballot, return it immediately and, if not, GO",
-      "next_retry_at": "2026-10-22T15:15:39.533733Z",
+      "next_retry_at": "2026-10-22T15:25:39.956277Z",
       "truth_social_id": "117484613863994238"
     },
     "truth:117484616158082454": {
@@ -37768,16 +37772,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-22T15:16:06.549663Z"
-    },
-    "truth:117484742039933383": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42583",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484741288465425</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18675/aede5e1a33ebb822-68353e5da04c.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42584\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18676/0f812083006b6dad-9cde6cb620c1.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 13:14:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-22T15:10:38.633240Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42583"
     },
     "truth:117484750149421374": {
       "post_status": "DISCOVERED",
