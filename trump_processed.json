@@ -4875,24 +4875,12 @@
     "https://www.trumpstruth.org/statuses/42606",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117485228002980983https://truth-archive.us-iad-1.linodeobjects.com/attachments/18692/75c2b4",
     "truth:117485228824342638",
-    "https://www.trumpstruth.org/statuses/42608"
+    "https://www.trumpstruth.org/statuses/42608",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18691/308eccd622df80e1-fe77e7bb6c56.jpg",
+    "truth:117485231398355728",
+    "https://www.trumpstruth.org/statuses/42607"
   ],
   "posts": {
-    "truth:117345155558415047": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/41994",
-      "source_text": "<p></p>",
-      "published": "Sun, 27 Sep 2026 21:36:16 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-09-28T01:00:30.219881Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/41994",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117345155558415047:355b0012747269a4.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117345155558415047",
-      "translation": ""
-    },
     "truth:117345156244405938": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -19068,6 +19056,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117485228002980983https://truth-archive.us-iad-1.linodeobjects.com/attachments/18692/75c2b4",
       "truth_social_id": "117485228824342638",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117485228002980983https://truth-archive.us-iad-1.linodeobjects.com/attachments/18692/75c2b4db1520092c-921a73872b39.pngQuoted\nhttps://www.trumpstruth.org/statuses/42609https://truth-archive.us-iad-1.linodeobjects.com/attachments/18693/046273a46e45d0dc-ccbbf9730d4b.mp4"
+    },
+    "truth:117485231398355728": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42607",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18691/308eccd622df80e1-fe77e7bb6c56.jpg\">View image</a></p>",
+      "published": "Thu, 22 Oct 2026 15:19:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-22T18:45:38.481748Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42607",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18691/308eccd622df80e1-fe77e7bb6c56.jpg",
+      "media_identity": "attachment:117485231398355728:308eccd622df80e1.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18691/308eccd622df80e1-fe77e7bb6c56.jpg",
+      "truth_social_id": "117485231398355728",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18691/308eccd622df80e1-fe77e7bb6c56.jpg"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37897,16 +37901,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-22T18:50:36.007552Z"
-    },
-    "truth:117485231398355728": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42607",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18691/308eccd622df80e1-fe77e7bb6c56.jpg\">View image</a></p>",
-      "published": "Thu, 22 Oct 2026 15:19:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-22T17:10:32.452753Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42607"
     },
     "truth:117485314798987090": {
       "post_status": "DISCOVERED",
