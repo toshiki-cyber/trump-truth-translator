@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Congressman Bob Onder is a MAGA Warrior who is doing a fantastic job representing Missouri’s 3rd Congressional District!\n \nA Proven Leader, Bob has se",
-    "https://www.trumpstruth.org/statuses/40488",
-    "fp:Congressman Mark Alford is an America First Patriot, who is doing a fantastic job representing Missouri’s 4th Congressional District!\n \nMark worked fo",
     "https://www.trumpstruth.org/statuses/40487",
     "fp:Congressman Eric Burlison is a MAGA Warrior who is doing an incredible job representing Missouri’s 7th Congressional District!\n \nA successful Business",
     "https://www.trumpstruth.org/statuses/40486",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42682",
     "fp:The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is",
     "truth:117488073122158937",
-    "https://www.trumpstruth.org/statuses/42683"
+    "https://www.trumpstruth.org/statuses/42683",
+    "fp:Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administr",
+    "truth:117488148381448179",
+    "https://www.trumpstruth.org/statuses/42681"
   ],
   "posts": {
-    "truth:117374601736336522": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42087",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374600935041605</span></p>",
-      "published": "Sat, 03 Oct 2026 02:24:49 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T03:50:39.266469Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42087",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374600935041605",
-      "media_identity": "attachment:117374601736336522:b5571e2bbd65ec9e.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117374600935041605",
-      "truth_social_id": "117374601736336522",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117374600935041605",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwthahs6c4r",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwwthahs6c4r",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117374600935041605",
-        "createdAt": "2026-10-03T03:50:32.386733Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 73
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117374600935041605"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibk45nck542m2vlqeqlb6auxexzqmvo7fzimufsb37m6ii3n3ykmu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 72742
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 882,
-                "height": 424
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwthahs6c4r",
-          "rkey": "3mwwthahs6c4r"
-        }
-      ]
-    },
     "truth:117374605903305220": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18464,6 +18394,24 @@
           "rkey": "3myj7y2hfck7l"
         }
       ]
+    },
+    "truth:117488148381448179": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42681",
+      "source_text": "<p>Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administration, Bombardier is investing 270 MILLION DOLLARS, creating THOUSANDS of American Jobs in Kansas, Texas, and Indiana.</p><p>Senator Marshall, together with Attorney General Ken Paxton of Texas, has done an incredible job in getting this Deal done. They are STRONG Fighters for American Workers, and LOVE their States and our Country!</p><p>Companies are coming to America, investing BILLIONS OF DOLLARS, and creating JOBS like never before. They know that under President DONALD J. TRUMP, AMERICA IS THE PLACE TO BE! We are bringing back our Jobs, our Manufacturing, and the AMERICAN DREAM.</p><p>THE GOLDEN AGE OF AMERICA IS HERE! President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 03:41:13 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T10:45:35.898711Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42681",
+      "first_seen": "2026-10-23T09:10:33.095588Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administr",
+      "truth_social_id": "117488148381448179",
+      "source_fingerprint": "fp:Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administr",
+      "media_identity": "attachment:117488148381448179:",
+      "translation": "カンザス州のロジャー・マーシャル上院議員は彼の偉大な州を代表するために素晴らしい仕事をしてくれている！彼のおかげで、トランプ政権と協力して、ボンバルディアはカンザス州、テキサス州、インディアナ州で2億7000万ドルを投資し、数千の米国の雇用を創出している。\n\nマーシャル上院議員は、テキサス州のケン・パクストン司法長官とともに、このディールを成立させるために素晴らしい仕事をしてくれている。彼らは米国の労働者のための強力な闘士であり、自分たちの州と我が国を愛している！\n\n企業がアメリカにやってきて、数十億ドルを投資し、かつてないほどの雇用を創出している。彼らはドナルド・J・トランプ大統領の下では、アメリカが最高の場所であることを知っている！私たちは雇用、製造業、そしてアメリカン・ドリームを取り戻している。\n\nアメリカの黄金期がここに来ている！ドナルド・J・トランプ大統領"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37311,22 +37259,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T11:25:25.943471Z"
-    },
-    "truth:117488148381448179": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42681",
-      "source_text": "<p>Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administration, Bombardier is investing 270 MILLION DOLLARS, creating THOUSANDS of American Jobs in Kansas, Texas, and Indiana.</p><p>Senator Marshall, together with Attorney General Ken Paxton of Texas, has done an incredible job in getting this Deal done. They are STRONG Fighters for American Workers, and LOVE their States and our Country!</p><p>Companies are coming to America, investing BILLIONS OF DOLLARS, and creating JOBS like never before. They know that under President DONALD J. TRUMP, AMERICA IS THE PLACE TO BE! We are bringing back our Jobs, our Manufacturing, and the AMERICAN DREAM.</p><p>THE GOLDEN AGE OF AMERICA IS HERE! President DONALD J. TRUMP</p>",
-      "published": "Fri, 23 Oct 2026 03:41:13 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T09:15:34.426522Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42681",
-      "first_seen": "2026-10-23T09:10:33.095588Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administr",
-      "next_retry_at": "2026-10-23T09:25:34.426543Z",
-      "truth_social_id": "117488148381448179"
     }
   }
 }
