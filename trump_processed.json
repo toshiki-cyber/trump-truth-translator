@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:The U.S.A. is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since",
-    "https://www.trumpstruth.org/statuses/40453",
-    "fp:'PO'd' Evers vows to resist any FBI effort to seize Milwaukee ballots: \nhttps://www.jsonline.com/story/news/politics/2026/03/11/tony-evers-vows-to-res",
     "https://www.trumpstruth.org/statuses/40459",
     "fp:Mexico's Problem: \nhttps://www.billoreilly.com/b/Mexicos-Problem/-45344169968241838.html",
     "https://www.trumpstruth.org/statuses/40458",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42656",
     "fp:🚨 NEBRASKA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Nebraska. If you have a mail-in ballot, return it immediately and, if not",
     "truth:117486923353255198",
-    "https://www.trumpstruth.org/statuses/42668"
+    "https://www.trumpstruth.org/statuses/42668",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486923353255198TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts ",
+    "truth:117486926814981679",
+    "https://www.trumpstruth.org/statuses/42667"
   ],
   "posts": {
-    "truth:117363530938149737": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42056",
-      "source_text": "<p>Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: <a href=\"https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when</span></a></p>",
-      "published": "Thu, 01 Oct 2026 03:29:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T08:25:37.626653Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42056",
-      "first_seen": "2026-10-01T07:35:27.841462Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: \nhttps://justthenews.com/government/white-house/first",
-      "truth_social_id": "117363530938149737",
-      "source_fingerprint": "fp:Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: \nhttps://justthenews.com/government/white-house/first",
-      "media_identity": "attachment:117363530938149737:",
-      "translation": "トランプのCNN追放報道、ジャック・スミスのメディアスパイ活動が二重基準を露呈する：\nhttps://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrw4t5o4s3x",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwrw4t5o4s3x",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプのCNN追放報道、ジャック・スミスのメディアスパイ活動が二重基準を露呈する：\nhttps://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
-        "createdAt": "2026-10-01T08:25:30.683589Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 121,
-              "byteEnd": 236
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
-            "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard",
-            "description": "The records came from National Archives productions tied to 87 White House phones, capturing journalist-source exchanges as Smith’s team pursued Trump over the 2020 election and classified documents.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigvvtla6zekfp6wyogucmmop6v72bnaudzc2l662tufalcdhxkz5a"
-              },
-              "mimeType": "image/jpeg",
-              "size": 122347
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrw4t5o4s3x",
-          "rkey": "3mwrw4t5o4s3x"
-        }
-      ]
-    },
     "truth:117366233265033126": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18735,6 +18667,24 @@
       "source_fingerprint": "fp:🚨 NEBRASKA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Nebraska. If you have a mail-in ballot, return it immediately and, if not",
       "media_identity": "attachment:117486923353255198:",
       "translation": "🚨 ネブラスカ州へ！\n\n素晴らしきネブラスカ州で期日前投票が現在進行中だ。郵送投票用紙を受け取った場合は直ちに返送し、まだの場合は今すぐ投票所に行って投票してくれ。そして知り合い全員に、あらゆる選挙で共和党候補に投票するよう促してくれ！\n\n期日前投票、不在者投票、郵送投票、投票所での投票など、どの方法で投票するにせよ、共和党は急進左翼の民主党員どもを大量投票で圧倒しなければならない！ネブラスカ州では11月2日を通じて期日前投票を現地で行うことができる。極めて重要だ。投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領より\n\n投票所を探す：\nhttps://swampthevoteusa.com/nebraska/"
+    },
+    "truth:117486926814981679": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42667",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486923353255198</span>TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:<br /> <br />– Pete Ricketts for U.S. Senate<br />– Jim Pillen for Governor<br />– Mike Hilgers for Attorney General<br />– Mike Flood for U.S. Congress (NE-01)<br />– Brinker Harding for U.S. Congress (NE-02)<br />– Adrian Smith for U.S. Congress (NE-03)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/nebraska/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/nebraska/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42668\">Donald J. Trump</a></p><blockquote><p>🚨 NEBRASKA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Nebraska. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Nebraska, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/nebraska/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/nebraska/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:30:33 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T07:35:33.706314Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42667",
+      "first_seen": "2026-10-23T07:10:28.299491Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486923353255198TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts ",
+      "truth_social_id": "117486926814981679",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486923353255198TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts ",
+      "media_identity": "attachment:117486926814981679:",
+      "translation": "リツイート: https://truthsocial.com/users/realDonaldTrump/statuses/117486923353255198TO ネブラスカ州の偉大な国民よ、以下に投票に行こう：\n\n– ピート・リケッツ（合衆国上院議員候補）\n– ジム・ピレン（州知事候補）\n– マイク・ヒルガーズ（州司法長官候補）\n– マイク・フラッド（合衆国下院議員候補 NE-01区）\n– ブリンカー・ハーディング（合衆国下院議員候補 NE-02区）\n– エイドリアン・スミス（合衆国下院議員候補 NE-03区）\n\nこれら偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/nebraska/Quoted\nhttps://www.trumpstruth.org/statuses/42668🚨 ネブラスカ州！\n\nネブラスカ州という偉大な州での期日前投票（投票所での投票）は今現在行われている。郵便投票の投票用紙を持っているなら、直ちに返送し、持っていないなら今すぐ投票所に行って投票してくれ。そして君が知っているすべての人に、あらゆる選挙で、投票用紙の上から下まで共和党候補に投票するよう促してくれ。\n\n早期投票、不在者投票、郵便投票、投票所での投票のいずれでも構わないが、共和党はラディカルな左翼民主党員どもを大量投票で圧倒しなければならない。ネブラスカ州では、11月2日を通じてずっと投票所で期日前投票ができる。これは極めて重要だ――今すぐ投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所の場所を確認する：\nhttps://swampthevoteusa.com/nebraska/"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37582,22 +37532,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T11:25:25.943471Z"
-    },
-    "truth:117486926814981679": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42667",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486923353255198</span>TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:<br /> <br />– Pete Ricketts for U.S. Senate<br />– Jim Pillen for Governor<br />– Mike Hilgers for Attorney General<br />– Mike Flood for U.S. Congress (NE-01)<br />– Brinker Harding for U.S. Congress (NE-02)<br />– Adrian Smith for U.S. Congress (NE-03)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/nebraska/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/nebraska/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42668\">Donald J. Trump</a></p><blockquote><p>🚨 NEBRASKA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Nebraska. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Nebraska, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/nebraska/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/nebraska/</span><span class=\"invisible\"></span></a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 22:30:33 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T07:15:30.293909Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42667",
-      "first_seen": "2026-10-23T07:10:28.299491Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486923353255198TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts ",
-      "next_retry_at": "2026-10-23T07:25:30.293925Z",
-      "truth_social_id": "117486926814981679"
     },
     "truth:117486928790381918": {
       "post_status": "RETRY",
