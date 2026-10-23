@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40442",
-    "https://www.trumpstruth.org/statuses/40440",
-    "https://www.trumpstruth.org/statuses/40450",
     "https://www.trumpstruth.org/statuses/40452",
     "https://www.trumpstruth.org/statuses/40451",
     "fp:Trump administration creating ‘incubators’ to develop new tech to counter drone terror attacks: \nhttps://justthenews.com/government/security/combattin",
@@ -5000,69 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42659",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486942922489919TO THE GREAT PEOPLE OF NORTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Julie Fedo",
     "truth:117486945436415608",
-    "https://www.trumpstruth.org/statuses/42658"
+    "https://www.trumpstruth.org/statuses/42658",
+    "fp:🚨 OHIO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Ohio. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
+    "truth:117486948186851172",
+    "https://www.trumpstruth.org/statuses/42657"
   ],
   "posts": {
-    "truth:117363266224228487": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42044",
-      "source_text": "<p>Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: <a href=\"https://www.axios.com/2026/09/28/hegseth-elections-security-order\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2026/09/28/hegseth-e</span><span class=\"invisible\">lections-security-order</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:22:03 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T07:20:38.310146Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42044",
-      "first_seen": "2026-10-01T04:00:31.629612Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: \nhttps://www.axios.com/2026/09/28/hegseth-elections-secur",
-      "truth_social_id": "117363266224228487",
-      "source_fingerprint": "fp:Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections: \nhttps://www.axios.com/2026/09/28/hegseth-elections-secur",
-      "media_identity": "attachment:117363266224228487:",
-      "translation": "独占報道：ヘグセス国防長官、米国選挙に「干渉」する外国勢力に対抗するよう国防総省に指示：\nhttps://www.axios.com/2026/09/28/hegseth-elections-security-order",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrseh2n7cjn",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwrseh2n7cjn",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "独占報道：ヘグセス国防長官、米国選挙に「干渉」する外国勢力に対抗するよう国防総省に指示：\nhttps://www.axios.com/2026/09/28/hegseth-elections-security-order",
-        "createdAt": "2026-10-01T07:20:31.658496Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 133,
-              "byteEnd": 198
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.axios.com/2026/09/28/hegseth-elections-security-order"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.axios.com/2026/09/28/hegseth-elections-security-order",
-            "title": "https://www.axios.com/2026/09/28/hegseth-elections-security-order",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrseh2n7cjn",
-          "rkey": "3mwrseh2n7cjn"
-        }
-      ]
-    },
     "truth:117363528339371665": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18777,6 +18717,24 @@
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486942922489919TO THE GREAT PEOPLE OF NORTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Julie Fedo",
       "media_identity": "attachment:117486945436415608:",
       "translation": "ノースダコタの偉大な人民よ、以下に投票しろ：\n\n– ジュリー・フェドルチャク（ノースダコタ州第1地区下院議員候補）\n\nジュリーは偉大な愛国者であり、私の完全かつ全面的な支持を得ている。彼女は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-dakota/Quoted\nhttps://www.trumpstruth.org/statuses/42659🚨 ノースダコタ！\n\nノースダコタの偉大な州で、対面による早期投票が今進行中だ。郵送投票用紙を持っている場合は直ちに返却し、持っていない場合は今すぐ投票所に行って投票しろ。そして知っている全員に、投票用紙の上から下まであらゆる選挙で共和党に投票するよう促せ！\n\n早期投票、不在者投票、郵送投票、対面投票のいずれで投票するにせよ、共和党は急進的な左翼民主党員どもを大量投票で圧倒しなければならない！ノースダコタ州では、11月2日を通じてずっと対面で早期投票を行うことができる。極めて重要だ。頼むから投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所を以下で探せ：\nhttps://swampthevoteusa.com/north-dakota/\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117486942922489919TO"
+    },
+    "truth:117486948186851172": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42657",
+      "source_text": "<p>🚨 OHIO!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Ohio. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Ohio, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:35:59 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T05:40:35.352752Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42657",
+      "first_seen": "2026-10-23T05:10:29.876766Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 OHIO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Ohio. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
+      "truth_social_id": "117486948186851172",
+      "source_fingerprint": "fp:🚨 OHIO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Ohio. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
+      "media_identity": "attachment:117486948186851172:",
+      "translation": "🚨 オハイオ州！\n\n素晴らしきオハイオ州で期日前投票が今、進行中だ。郵便投票の投票用紙を持っている者は直ちに返送せよ。そうでなければ、今すぐ投票所に行って投票しろ。そして、知人全員に、投票用紙の全ての選挙区で共和党候補に投票するよう促せ。\n\n早期投票、不在者投票、郵便投票、当日投票のいずれの方法であれ、共和党は過激左派民主党員を圧倒的な投票率で叩きのめさねばならない。オハイオ州では11月1日まで期日前投票ができる。極めて重要だ。外出して投票してくれ。MAGA! ドナルド・J・トランプ大統領\n\n投票所の場所はここで確認せよ：\nhttps://swampthevoteusa.com/ohio/"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37624,22 +37582,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T11:25:25.943471Z"
-    },
-    "truth:117486948186851172": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42657",
-      "source_text": "<p>🚨 OHIO!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Ohio. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Ohio, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Thu, 22 Oct 2026 22:35:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T05:15:32.073486Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42657",
-      "first_seen": "2026-10-23T05:10:29.876766Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 OHIO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Ohio. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
-      "next_retry_at": "2026-10-23T05:25:32.073501Z",
-      "truth_social_id": "117486948186851172"
     },
     "truth:117486950728833370": {
       "post_status": "RETRY",
