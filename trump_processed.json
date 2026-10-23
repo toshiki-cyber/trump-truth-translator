@@ -4914,54 +4914,12 @@
     "https://www.trumpstruth.org/statuses/42620",
     "fp:TO THE GREAT PEOPLE OF FLORIDA, MAKE A PLAN TO VOTE FOR:\n \n– Ashley Moody for U.S. Senate\n– Byron Donalds for Governor\n– James Uthmeier for Attorney G",
     "truth:117486849387226781",
-    "https://www.trumpstruth.org/statuses/42623"
+    "https://www.trumpstruth.org/statuses/42623",
+    "fp:🚨 IDAHO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Idaho. If you have a mail-in ballot, return it immediately and, if not, GO V",
+    "truth:117486852654457955",
+    "https://www.trumpstruth.org/statuses/42622"
   ],
   "posts": {
-    "truth:117346779325099881": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42002",
-      "source_text": "<p></p>",
-      "published": "Mon, 28 Sep 2026 04:29:12 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-09-28T07:40:49.691361Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42002",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117346779325099881:4d2c97618ca4024a-f69907b7fdf5.mov",
-      "failure_reason": null,
-      "truth_social_id": "117346779325099881",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwki333xscoy",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3mwki333xscoy",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-09-28T07:40:42.487040Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreig7hm7o24um6fdx43pjzwjd4nshr6w3etya4snquzljfy2nyonweu"
-            },
-            "mimeType": "video/mp4",
-            "size": 11966955
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwki333xscoy",
-          "rkey": "3mwki333xscoy"
-        }
-      ]
-    },
     "truth:117348443536619757": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -19062,6 +19020,24 @@
       "source_fingerprint": "fp:TO THE GREAT PEOPLE OF FLORIDA, MAKE A PLAN TO VOTE FOR:\n \n– Ashley Moody for U.S. Senate\n– Byron Donalds for Governor\n– James Uthmeier for Attorney G",
       "media_identity": "attachment:117486849387226781:",
       "translation": "フロリダの素晴らしい国民へ、以下の候補者に投票する計画を立てよ：\n\n– アシュリー・ムーディ（上院議員）\n– バイロン・ドナルズ（州知事）\n– ジェームス・ウスマイアー（司法長官）\n– ウィルトン・シンプソン（農業委員）\n– ジミー・パトロニス（下院議員 FL-01区）\n– オースティン・ロジャース（下院議員 FL-02区）\n– キャット・キャマック（下院議員 FL-03区）\n– アーロン・ビーン（下院議員 FL-04区）\n– ジョン・ラザフォード（下院議員 FL-05区）\n– ランディ・ファイン（下院議員 FL-06区）\n– ライアン・イライジャ（下院議員 FL-07区）\n– マイク・ハリドポロス（下院議員 FL-08区）\n– ダン・グリーン（下院議員 FL-09区）\n– ジョー・ストラーダ（下院議員 FL-11区）\n– ガス・ビリラキス（下院議員 FL-12区）\n– アンナ・ポーリーナ・ルナ（下院議員 FL-13区）\n– マイク・ベルトラン（下院議員 FL-14区）\n– ローレル・リー（下院議員 FL-15区）\n– シドニー・グルータース（下院議員 FL-16区）\n– グレッグ・ステューブ（下院議員 FL-17区）\n– スコット・フランクリン（下院議員 FL-18区）\n– ジム・シュワルツェル（下院議員 FL-19区）\n– ブライアン・マスト（下院議員 FL-21区）\n– ケーシー・アスカル（下院議員 FL-22区）\n– スコット・シンガー（下院議員 FL-25区）\n– マリオ・ディアス＝バラート（下院議員 FL-26区）\n– マリア・エルビラ・サラザル（下院議員 FL-27区）\n– カルロス・ヒメネス（下院議員 FL-28区）\n\nこれらの素晴らしい愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してあなたを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
+    },
+    "truth:117486852654457955": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42622",
+      "source_text": "<p>🚨 IDAHO!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Idaho. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Idaho, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/idaho/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/idaho/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:11:42 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T00:05:27.179589Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42622",
+      "first_seen": "2026-10-22T23:10:29.025658Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 IDAHO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Idaho. If you have a mail-in ballot, return it immediately and, if not, GO V",
+      "truth_social_id": "117486852654457955",
+      "source_fingerprint": "fp:🚨 IDAHO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Idaho. If you have a mail-in ballot, return it immediately and, if not, GO V",
+      "media_identity": "attachment:117486852654457955:",
+      "translation": "🚨 アイダホ州！\n\n素晴らしきアイダホ州で期日前投票の投票所での投票が今始まっている。郵便投票用紙を持っている場合は直ちに返送し、持っていない場合は今すぐ投票所へ行って投票し、あらゆるレース、投票用紙全体においてあらゆる共和党候補に投票するよう知人全員に投票を呼びかけろ！\n\n期日前投票、不在者投票、郵便投票、投票所での投票のいずれを選択するにせよ、共和党は急進的左翼の民主党員どもを圧倒的な投票率で圧倒しなければならない！アイダホ州では10月30日まで投票所での期日前投票が可能だ。極めて重要だ――投票に行ってくれ。メイク・アメリカ・グレート・アゲイン！\n\nドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/idaho/"
     },
     "truth:117478508731391744": {
       "post_status": "DISCOVERED",
@@ -37891,22 +37867,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T05:20:39.714427Z"
-    },
-    "truth:117486852654457955": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42622",
-      "source_text": "<p>🚨 IDAHO!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Idaho. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Idaho, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/idaho/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/idaho/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Thu, 22 Oct 2026 22:11:42 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T23:20:28.103474Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42622",
-      "first_seen": "2026-10-22T23:10:29.025658Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 IDAHO!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Idaho. If you have a mail-in ballot, return it immediately and, if not, GO V",
-      "next_retry_at": "2026-10-22T23:30:28.103500Z",
-      "truth_social_id": "117486852654457955"
     },
     "truth:117486855676331669": {
       "post_status": "RETRY",
