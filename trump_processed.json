@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40494",
-    "fp:Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!\n \nTom bravely served our Co",
-    "https://www.trumpstruth.org/statuses/40493",
     "fp:Congresswoman Lisa McClain is a Fantastic Advocate for the Great People of Michigan’s 9th Congressional District!\n \nAs the Chair of the House Republic",
     "https://www.trumpstruth.org/statuses/40491",
     "fp:It is my Great Honor to endorse America First Patriot, “Captain” Mike Bouchard, who is running to represent the wonderful people of Michigan’s 10th Co",
@@ -5000,63 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42670",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486916953137939TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:\n \n– Kurt Alme for U",
     "truth:117486919405358377",
-    "https://www.trumpstruth.org/statuses/42669"
+    "https://www.trumpstruth.org/statuses/42669",
+    "fp:It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely d",
+    "truth:117488067224261864",
+    "https://www.trumpstruth.org/statuses/42684"
   ],
   "posts": {
-    "truth:117373586079029403": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42086",
-      "source_text": "<p>Thank you Oklahoma! President DONALD J. TRUMP</p>",
-      "published": "Fri, 02 Oct 2026 22:06:31 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T00:05:29.479226Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42086",
-      "source_fingerprint": "fp:Thank you Oklahoma! President DONALD J. TRUMP",
-      "media_identity": "attachment:117373586079029403:48aa2c74268e587e.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Thank you Oklahoma! President DONALD J. TRUMP",
-      "truth_social_id": "117373586079029403",
-      "translation": "オクラホマに感謝する！大統領ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwezepjjc4j",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwwezepjjc4j",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "オクラホマに感謝する！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-10-02T23:55:27.966983Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreids3l3brilsfngqmzl2bjaag32qpjclhhc4cff7vmf7tewtkdxhve"
-                },
-                "mimeType": "image/jpeg",
-                "size": 177379
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 549,
-                "height": 860
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwezepjjc4j",
-          "rkey": "3mwwezepjjc4j"
-        }
-      ]
-    },
     "truth:117373388463106981": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18513,6 +18459,24 @@
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486916953137939TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:\n \n– Kurt Alme for U",
       "media_identity": "attachment:117486919405358377:",
       "translation": "モンタナ州の偉大な人民よ、以下の候補に投票するために立ち上がれ：\n\n– クルト・アルメ（米国上院議員候補）\n– アーロン・フリント（米国下院議員候補・モンタナ州第1区）\n– トロイ・ダウニング（米国下院議員候補・モンタナ州第2区）\n\nこれらの偉大な愛国者は私の完全で全面的な支持を得ている。彼らは君たちを決して失望させない。ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/montana/Quoted\nhttps://www.trumpstruth.org/statuses/42670🚨 モンタナ州！\n\n早期投票は現在、モンタナ州で実施中だ。郵送投票用紙を持っている場合は直ちに返送し、持っていない場合は今すぐ投票所に行って投票しろ。そして知人全員に投票させ、投票用紙全体でありとあらゆるレースの共和党員に投票するよう勧めろ。\n\n早期投票、不在者投票、郵送投票、直接投票のいずれであれ、共和党員は激進的左派民主党員を圧倒的投票数で打ち負かさなければならない。モンタナ州では11月2日を通じて直接投票による早期投票ができる。極めて重要だ。今すぐ投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/montana/\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117486916953137939TO"
+    },
+    "truth:117488067224261864": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42684",
+      "source_text": "<p>It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely different name, Ilhan Nur Said Elmi, and that her last name is, incredibly, also the exact name of her brother, Ahmed Nur Said Elmi, the person they said she married and had children with. When asked whether or not she married her brother, she said, “Not to my knowledge.” In other words, she somehow didn’t know? Therefore, because she used a fake name to be sworn in, I assume she must IMMEDIATELY resign from Congress. Please inform the Speaker of the House of Representatives, James Michael Johnson, that the Dumocrat Party has just conceded her seat. Ilhan Nur Said Elmi, her real name, has openly admitted to FRAUD, and she will not be legally allowed to be a Member of this August Body from this point forth. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 03:20:35 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T10:25:35.328335Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42684",
+      "first_seen": "2026-10-23T09:10:31.644618Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely d",
+      "truth_social_id": "117488067224261864",
+      "source_fingerprint": "fp:It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely d",
+      "media_identity": "attachment:117488067224261864:",
+      "translation": "イルハン・オマルの本名がイルハン・オマルではなく、彼女が選出され下院議員として宣誓するために使用した名前とは全く異なる、イルハン・ヌル・サイード・エルミであること、そして彼女の姓が信じられないことに、彼女が結婚して子供をもうけたとされている兄のアハメド・ヌル・サイード・エルミと全く同じ名字であることが明かされたばかりだ。彼女が兄と結婚したかどうか聞かれたとき、彼女は「私の知識では違う」と言った。言い換えれば、彼女は何らかの方法でそれを知らなかったのか？したがって、彼女が詐欺的な名前で宣誓に臨んだため、彼女は直ちに下院議員を辞任しなければならないと考える。下院議長ジェームス・マイケル・ジョンソンに、民主党が彼女の議席を放棄したことを知らせてもらいたい。彼女の本名イルハン・ヌル・サイード・エルミは詐欺を公然と認めており、この時点以降、彼女はこの高貴な機関のメンバーとして法的に認められることはない。この件へのご対応をお願いします！ドナルド・J・トランプ大統領"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37360,22 +37324,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T11:25:25.943471Z"
-    },
-    "truth:117488067224261864": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42684",
-      "source_text": "<p>It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely different name, Ilhan Nur Said Elmi, and that her last name is, incredibly, also the exact name of her brother, Ahmed Nur Said Elmi, the person they said she married and had children with. When asked whether or not she married her brother, she said, “Not to my knowledge.” In other words, she somehow didn’t know? Therefore, because she used a fake name to be sworn in, I assume she must IMMEDIATELY resign from Congress. Please inform the Speaker of the House of Representatives, James Michael Johnson, that the Dumocrat Party has just conceded her seat. Ilhan Nur Said Elmi, her real name, has openly admitted to FRAUD, and she will not be legally allowed to be a Member of this August Body from this point forth. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
-      "published": "Fri, 23 Oct 2026 03:20:35 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T09:15:33.604387Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42684",
-      "first_seen": "2026-10-23T09:10:31.644618Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely d",
-      "next_retry_at": "2026-10-23T09:25:33.604403Z",
-      "truth_social_id": "117488067224261864"
     },
     "truth:117488073122158937": {
       "post_status": "RETRY",
