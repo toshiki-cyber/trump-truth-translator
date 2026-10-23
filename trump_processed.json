@@ -37289,14 +37289,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42688",
       "source_text": "<p>A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP</p>",
       "published": "Fri, 23 Oct 2026 17:44:32 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-23T19:10:30.749242Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T19:20:24.291715Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42688",
       "first_seen": "2026-10-23T19:10:30.749201Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP",
-      "next_retry_at": "2026-10-23T19:15:30.749251Z",
+      "next_retry_at": "2026-10-23T19:30:24.291730Z",
       "truth_social_id": "117491464453293400"
     },
     "truth:117491562153369137": {
@@ -37305,14 +37305,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42689",
       "source_text": "<p>The Power of Naming: How Trump Uses Names to Reaffirm American Identity: <a href=\"https://stonezone.com/the-power-of-naming-how-trump-uses-names-to-reaffirm-american-identity/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stonezone.com/the-power-of-nam</span><span class=\"invisible\">ing-how-trump-uses-names-to-reaffirm-american-identity/</span></a></p>",
       "published": "Fri, 23 Oct 2026 18:09:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-23T19:10:31.868799Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T19:20:24.700117Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42689",
       "first_seen": "2026-10-23T19:10:31.868757Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The Power of Naming: How Trump Uses Names to Reaffirm American Identity: \nhttps://stonezone.com/the-power-of-naming-how-trump-uses-names-to-reaffirm-a",
-      "next_retry_at": "2026-10-23T19:15:31.868808Z",
+      "next_retry_at": "2026-10-23T19:30:24.700131Z",
       "truth_social_id": "117491562153369137"
     }
   }
