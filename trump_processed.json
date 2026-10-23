@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:It is my Great Honor to endorse MAGA Warrior, Rick Brattin, who is running to represent the wonderful people of Missouri’s 5th Congressional District!",
-    "https://www.trumpstruth.org/statuses/40497",
-    "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. John bravely served our Great Country as a U.S. Navy S",
     "https://www.trumpstruth.org/statuses/40505",
     "fp:Congressman Ben Cline is a Tremendous Champion for Virginia’s 6th Congressional District!\n \nA former State Legislator and Criminal Prosecutor, Ben kno",
     "https://www.trumpstruth.org/statuses/40504",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42687",
     "fp:Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewi",
     "truth:117491281646455338",
-    "https://www.trumpstruth.org/statuses/42686"
+    "https://www.trumpstruth.org/statuses/42686",
+    "fp:A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP",
+    "truth:117491464453293400",
+    "https://www.trumpstruth.org/statuses/42688"
   ],
   "posts": {
-    "truth:117374723143795331": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42096",
-      "source_text": "<p>Dr. Marc Siegel has written a beautiful new book, “The Angels Among Us: How God’s Messengers Play a Role in Healing.” Through the power of individual stories, Marc puts “coincidences” into the proper perspective, and reminds us that there is a Higher Power behind the scenes, working all things together for GOOD. Preorder your copy today!<br /><a href=\"https://a.co/d/08KliTCr\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>a.co/d/08KliTCr</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 03 Oct 2026 02:55:41 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T05:00:32.981168Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42096",
-      "source_fingerprint": "fp:Dr. Marc Siegel has written a beautiful new book, “The Angels Among Us: How God’s Messengers Play a Role in Healing.” Through the power of individual ",
-      "media_identity": "attachment:117374723143795331:f1535cb1b106724d.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Dr. Marc Siegel has written a beautiful new book, “The Angels Among Us: How God’s Messengers Play a Role in Healing.” Through the power of individual ",
-      "truth_social_id": "117374723143795331",
-      "translation": "マーク・シーゲル博士が素晴らしい新刊『The Angels Among Us: How God's Messengers Play a Role in Healing』を著した。個々の物語の力を通じて、マークは「偶然」を適切な視点に置き、背後に高い力が存在し、すべてのことをGOODのために一緒に働かせていることを私たちに思い出させる。今日、あなたのコピーを予約注文しろ！\nhttps://a.co/d/08KliTCr",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwv6h6ki2pq",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwwv6h6ki2pq",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "マーク・シーゲル博士が素晴らしい新刊『The Angels Among Us: How God's Messengers Play a Role in Healing』を著した。個々の物語の力を通じて、マークは「偶然」を適切な視点に置き、背後に高い力が存在し、すべてのことをGOODのために一緒に働かせていることを私たちに思い出させる。今日、あなたのコピーを予約注文しろ！\nhttps://a.co/d/08KliTCr",
-        "createdAt": "2026-10-03T04:50:36.422186Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 423,
-              "byteEnd": 446
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://a.co/d/08KliTCr"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid7rjohyeprv3k7i6kmskvakvpq77ebkfkkuzqkron7wvqonxrvhm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 94859
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 511,
-                "height": 768
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwwv6h6ki2pq",
-          "rkey": "3mwwv6h6ki2pq"
-        }
-      ]
-    },
     "truth:117374724750816439": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18425,6 +18355,24 @@
           "rkey": "3myknl4mxlkon"
         }
       ]
+    },
+    "truth:117491464453293400": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42688",
+      "source_text": "<p>A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 17:44:32 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T19:45:28.434103Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42688",
+      "first_seen": "2026-10-23T19:10:30.749201Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP",
+      "truth_social_id": "117491464453293400",
+      "source_fingerprint": "fp:A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP",
+      "media_identity": "attachment:117491464453293400:",
+      "translation": "健康な人間は千の夢を持つ。病人はただ一つの夢しか持たない（良くなることだ）！ドナルド・J・トランプ大統領"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37272,22 +37220,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T23:30:29.985406Z"
-    },
-    "truth:117491464453293400": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42688",
-      "source_text": "<p>A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP</p>",
-      "published": "Fri, 23 Oct 2026 17:44:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T19:20:24.291715Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42688",
-      "first_seen": "2026-10-23T19:10:30.749201Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP",
-      "next_retry_at": "2026-10-23T19:30:24.291730Z",
-      "truth_social_id": "117491464453293400"
     },
     "truth:117491562153369137": {
       "post_status": "RETRY",
