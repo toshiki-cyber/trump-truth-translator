@@ -4995,77 +4995,12 @@
     "https://www.trumpstruth.org/statuses/42655",
     "fp:🚨 PENNSYLVANIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Pennsylvania. If you have a mail-in ballot, return it immediat",
     "truth:117486955930613095",
-    "https://www.trumpstruth.org/statuses/42654"
+    "https://www.trumpstruth.org/statuses/42654",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Mike Round",
+    "truth:117486962919747005",
+    "https://www.trumpstruth.org/statuses/42653"
   ],
   "posts": {
-    "truth:117363251732231828": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42043",
-      "source_text": "<p>Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game: <a href=\"https://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/26/us-news/</span><span class=\"invisible\">trump-met-cheered-at-university-of-tennessee-ut-football-game/</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:18:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T04:50:30.758793Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42043",
-      "first_seen": "2026-10-01T04:00:27.182866Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game: \nhttps://nypost.com/2026/09/26/us-news/trump-met-cheer",
-      "truth_social_id": "117363251732231828",
-      "source_fingerprint": "fp:Trump met with roaring cheers at University of Tennessee-Texas Longhorns college football game: \nhttps://nypost.com/2026/09/26/us-news/trump-met-cheer",
-      "media_identity": "attachment:117363251732231828:",
-      "translation": "テネシー大学－テキサス・ロングホーンズのカレッジフットボール試合でトランプ氏が大歓声の中でお出まし：\nhttps://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrs5u6bwskh",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwrs5u6bwskh",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "テネシー大学－テキサス・ロングホーンズのカレッジフットボール試合でトランプ氏が大歓声の中でお出まし：\nhttps://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/",
-        "createdAt": "2026-10-01T04:40:34.472922Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 151,
-              "byteEnd": 251
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://nypost.com/2026/09/26/us-news/trump-met-cheered-at-university-of-tennessee-ut-football-game/",
-            "title": "Trump met with roaring cheers at Tennessee-Texas college football game",
-            "description": "President Trump received an enthusiastic welcome while attending a college football game in Tennessee on Saturday.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiawlddvnupka6ccyah466lvmaxh54yekj43jdzvxe5hsa3guxe4u4"
-              },
-              "mimeType": "image/jpeg",
-              "size": 179513
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrs5u6bwskh",
-          "rkey": "3mwrs5u6bwskh"
-        }
-      ]
-    },
     "truth:117363252945698992": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -19064,6 +18999,24 @@
       "source_fingerprint": "fp:🚨 PENNSYLVANIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Pennsylvania. If you have a mail-in ballot, return it immediat",
       "media_identity": "attachment:117486955930613095:",
       "translation": "🚨 ペンシルベニア州！\n\n素晴らしきペンシルベニア州において、早期投票（対面投票）が今始まっている。郵便投票用紙を持っている場合は直ちに返送し、持っていない場合は今すぐ投票所で投票し、知人全員に上下の全ての候補者について共和党候補に投票するよう説得してくれ。\n\n早期投票、不在者投票、郵便投票、対面投票のいずれで投票するにせよ、共和党員は激進左翼民主党員を圧倒的投票数で打ち負かさねばならない。ペンシルベニア州では10月27日を通じて対面での早期投票ができる。極めて重要だ - 出かけて投票してくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所はここで探してくれ：\nhttps://swampthevoteusa.com/pennsylvania/"
+    },
+    "truth:117486962919747005": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42653",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115</span>TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:<br /> <br />– Mike Rounds for U.S. Senate<br />– Marty Jackley for U.S. Congress<br />– Larry Rhoden for Governor<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/south-dakota/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/south-dako</span><span class=\"invisible\">ta/</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42632\">Donald J. Trump</a></p><blockquote><p>🚨 SOUTH DAKOTA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of South Dakota. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In South Dakota, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/south-dakota/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/south-dako</span><span class=\"invisible\">ta/</span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:39:44 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T03:45:36.667783Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42653",
+      "first_seen": "2026-10-23T03:10:27.867022Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Mike Round",
+      "truth_social_id": "117486962919747005",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Mike Round",
+      "media_identity": "attachment:117486962919747005:",
+      "translation": "サウスダコタの偉大なる国民よ、投票に行き、以下に投票しよう：\n\n– マイク・ラウンズ（米国上院議員候補）\n– マーティ・ジャクリー（米国下院議員候補）\n– ラリー・ローデン（州知事候補）\n\nこの素晴らしい愛国者たちは私の完全かつ全面的な支持を得ている。彼らは絶対に君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/south-dakota/Quoted\nhttps://www.trumpstruth.org/statuses/42632🚨 サウスダコタ！\n\n早期投票（対面）は、偉大なるサウスダコタ州で今、進行中だ。郵送投票用紙を持っているなら、直ちに返送し、持っていないなら、今すぐ投票所に行き、投票しろ。そして君が知っている全員に、あらゆる選挙であらゆる投票でリパブリカンに投票するよう説得しろ！\n\n早期投票、不在投票、郵送、対面投票のいずれであれ、リパブリカンは過激な左翼デモクラートを圧倒的な投票率で圧倒しなければならない！サウスダコタでは、11月2日を通じて対面による早期投票を行うことができる。極めて重要だ。投票に行ってくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票場所をここで探そう：\nhttps://swampthevoteusa.com/south-dakota/\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37911,22 +37864,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T05:20:39.714427Z"
-    },
-    "truth:117486962919747005": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42653",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115</span>TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:<br /> <br />– Mike Rounds for U.S. Senate<br />– Marty Jackley for U.S. Congress<br />– Larry Rhoden for Governor<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/south-dakota/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/south-dako</span><span class=\"invisible\">ta/</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42632\">Donald J. Trump</a></p><blockquote><p>🚨 SOUTH DAKOTA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of South Dakota. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In South Dakota, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/south-dakota/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/south-dako</span><span class=\"invisible\">ta/</span></a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 22:39:44 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T03:20:26.678615Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42653",
-      "first_seen": "2026-10-23T03:10:27.867022Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Mike Round",
-      "next_retry_at": "2026-10-23T03:30:26.678634Z",
-      "truth_social_id": "117486962919747005"
     },
     "truth:117486964832522667": {
       "post_status": "RETRY",
