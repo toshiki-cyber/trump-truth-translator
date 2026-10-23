@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpGreat job by Chairman Rick Crawford on FoxNews interview - A total Pro!!! President DJT",
-    "https://www.trumpstruth.org/statuses/40449",
-    "https://www.trumpstruth.org/statuses/40433",
     "https://www.trumpstruth.org/statuses/40439",
     "https://www.trumpstruth.org/statuses/40448",
     "https://www.trumpstruth.org/statuses/40447",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42650",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:\n \n– Blake Moore for U.",
     "truth:117486971724975856",
-    "https://www.trumpstruth.org/statuses/42649"
+    "https://www.trumpstruth.org/statuses/42649",
+    "fp:🚨 VIRGINIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and,",
+    "truth:117486973456365506",
+    "https://www.trumpstruth.org/statuses/42648"
   ],
   "posts": {
-    "truth:117363258929059499": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42051",
-      "source_text": "<p>Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: <a href=\"https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/28/world-ne</span><span class=\"invisible\">ws/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:20:11 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T06:50:31.065728Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42051",
-      "first_seen": "2026-10-01T04:00:30.009176Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: \nhttps://nypost.com/2026/09/28/world-news/trump-",
-      "truth_social_id": "117363258929059499",
-      "source_fingerprint": "fp:Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’: \nhttps://nypost.com/2026/09/28/world-news/trump-",
-      "media_identity": "attachment:117363258929059499:",
-      "translation": "トランプ特使、国連総会での長時間会議後に「実質的進展」をアピール：「希望と可能性」\nhttps://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrsb4vl5kvp",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwrsb4vl5kvp",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ特使、国連総会での長時間会議後に「実質的進展」をアピール：「希望と可能性」\nhttps://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/",
-        "createdAt": "2026-10-01T06:40:34.375418Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 124,
-              "byteEnd": 244
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/",
-            "title": "Trump envoys tout ‘real progress’ after marathon meetings at UN General Assembly: ‘Hope and promise’",
-            "description": "“I sense a sort of feeling of hope and promise. When all these nations come together and they can talk face to face — that’s what drives progress,” Steve Witkoff told The Post.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreiaxh77on245nu35j6kfrmwnkwhije7bfixy7ku4zhpdkrl2tbj6k4"
-              },
-              "mimeType": "image/jpeg",
-              "size": 153107
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrsb4vl5kvp",
-          "rkey": "3mwrsb4vl5kvp"
-        }
-      ]
-    },
     "truth:117363260871717815": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18877,6 +18809,24 @@
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:\n \n– Blake Moore for U.",
       "media_identity": "attachment:117486971724975856:",
       "translation": "ユタ州の偉大な人民よ、以下の者に投票するために投票所に行け：\n\n– ブレイク・ムーア（ユタ州第2区下院議員候補）\n– セレステ・マロイ（ユタ州第3区下院議員候補）\n– マイク・ケネディ（ユタ州第4区下院議員候補）\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/utah/Quoted\nhttps://www.trumpstruth.org/statuses/42650🚨 ユタ州よ！\n\n偉大なユタ州では、早期投票（対面投票）が今まさに進行中だ。郵便投票用紙を持っている者は、即座にそれを返送せよ。そして持っていない者は、今すぐ投票所に行って投票し、お前が知っているすべての者に、あらゆる選挙区において共和党候補に投票するよう促せ！\n\n早期投票、不在者投票、郵便投票、対面投票のいずれで投票しようとも、共和党は過激左翼民主党員どもを大規模な投票率で圧倒しなければならない！ユタ州では、10月30日まで対面での早期投票をキャストできる。極めて重要だ。投票所に行って投票してくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票所の場所はこちらで確認できる：\nhttps://swampthevoteusa.com/utah/\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO"
+    },
+    "truth:117486973456365506": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42648",
+      "source_text": "<p>🚨 VIRGINIA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Virginia, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/virginia/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/virginia/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:42:25 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T04:10:28.509080Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42648",
+      "first_seen": "2026-10-23T03:10:30.666505Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 VIRGINIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and,",
+      "truth_social_id": "117486973456365506",
+      "source_fingerprint": "fp:🚨 VIRGINIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and,",
+      "media_identity": "attachment:117486973456365506:",
+      "translation": "🚨 バージニア州へ！\n\n素晴らしきバージニア・コモンウェルスで期日前投票（本人投票）が今開始されている。郵便投票用紙を持っているならば直ちに返送し、持っていなければ今すぐ投票所に行って投票し、知り合い全員に票を投じるよう説得しろ。投票用紙全体で共和党候補者を選べ！\n\n期日前投票、不在者投票、郵便投票、本人投票のいずれであろうと、共和党は過激左翼民主党を圧倒的投票数で叩き潰さなければならない！バージニア州では10月31日まで本人投票による期日前投票ができる。極めて重要だ――投票に行け。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/virginia/"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37724,22 +37674,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T05:20:39.714427Z"
-    },
-    "truth:117486973456365506": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42648",
-      "source_text": "<p>🚨 VIRGINIA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Virginia, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/virginia/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/virginia/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Thu, 22 Oct 2026 22:42:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T03:20:29.098468Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42648",
-      "first_seen": "2026-10-23T03:10:30.666505Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 VIRGINIA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and,",
-      "next_retry_at": "2026-10-23T03:30:29.098487Z",
-      "truth_social_id": "117486973456365506"
     }
   }
 }
