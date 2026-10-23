@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpBecause of President Donald J. Trump, Oil Exports are SURGING!",
-    "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpPresident Trump is fixing our wonderful White House, just like he is fixing our Country!",
-    "https://www.trumpstruth.org/statuses/40441",
     "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpGreat job by Chairman Rick Crawford on FoxNews interview - A total Pro!!! President DJT",
     "https://www.trumpstruth.org/statuses/40449",
     "https://www.trumpstruth.org/statuses/40433",
@@ -5000,69 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42651",
     "fp:🚨 UTAH!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Utah. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
     "truth:117486969115736447",
-    "https://www.trumpstruth.org/statuses/42650"
+    "https://www.trumpstruth.org/statuses/42650",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:\n \n– Blake Moore for U.",
+    "truth:117486971724975856",
+    "https://www.trumpstruth.org/statuses/42649"
   ],
   "posts": {
-    "truth:117363257382134049": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42052",
-      "source_text": "<p>Trump administration reinstates sexual misconduct rule for schools: <a href=\"https://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">politico.com/news/2026/09/28/t</span><span class=\"invisible\">rump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:19:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T06:20:34.016108Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42052",
-      "first_seen": "2026-10-01T04:00:29.254006Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump administration reinstates sexual misconduct rule for schools: \nhttps://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of",
-      "truth_social_id": "117363257382134049",
-      "source_fingerprint": "fp:Trump administration reinstates sexual misconduct rule for schools: \nhttps://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of",
-      "media_identity": "attachment:117363257382134049:",
-      "translation": "トランプ政権、学校向けセクシュアルハラスメント規則を復活させる：\nhttps://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrsagf7fc2s",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwrsagf7fc2s",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ政権、学校向けセクシュアルハラスメント規則を復活させる：\nhttps://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990",
-        "createdAt": "2026-10-01T06:10:27.184238Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 97,
-              "byteEnd": 211
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990",
-            "title": "https://www.politico.com/news/2026/09/28/trump-administration-finalizes-repeal-of-biden-era-title-ix-rule-01094990",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrsagf7fc2s",
-          "rkey": "3mwrsagf7fc2s"
-        }
-      ]
-    },
     "truth:117363258929059499": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18919,6 +18859,24 @@
       "source_fingerprint": "fp:🚨 UTAH!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Utah. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
       "media_identity": "attachment:117486969115736447:",
       "translation": "🚨 ユタ州へ！\n\n素晴らしきユタ州では現在、早期投票（対面）が実施中だ。郵送投票用紙を受け取った者は直ちに返送し、そうでない者は今すぐ投票所に行って投票してくれ。そして知人全員に、すべての選挙でREPUBLICAN（共和党候補者）に投票するよう促してくれ！\n\n早期投票、不在者投票、郵送投票、対面投票のどれを選ぶにせよ、共和党員は極左のDemocrats（民主党）を圧倒的な投票数で蹴散らさねばならない！ユタ州では10月30日まで対面による早期投票ができる。非常に重要だ――投票に行ってくれ。MAGA（アメリカを再び偉大に）！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/utah/"
+    },
+    "truth:117486971724975856": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42649",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447</span>TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:<br /> <br />– Blake Moore for U.S. Congress (UT-02)<br />– Celeste Maloy for U.S. Congress (UT-03)<br />– Mike Kennedy for U.S. Congress (UT-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/utah/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/utah/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42650\">Donald J. Trump</a></p><blockquote><p>🚨 UTAH!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Utah. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Utah, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/utah/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/utah/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:41:59 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T04:05:29.538520Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42649",
+      "first_seen": "2026-10-23T03:10:30.074518Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:\n \n– Blake Moore for U.",
+      "truth_social_id": "117486971724975856",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:\n \n– Blake Moore for U.",
+      "media_identity": "attachment:117486971724975856:",
+      "translation": "ユタ州の偉大な人民よ、以下の者に投票するために投票所に行け：\n\n– ブレイク・ムーア（ユタ州第2区下院議員候補）\n– セレステ・マロイ（ユタ州第3区下院議員候補）\n– マイク・ケネディ（ユタ州第4区下院議員候補）\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/utah/Quoted\nhttps://www.trumpstruth.org/statuses/42650🚨 ユタ州よ！\n\n偉大なユタ州では、早期投票（対面投票）が今まさに進行中だ。郵便投票用紙を持っている者は、即座にそれを返送せよ。そして持っていない者は、今すぐ投票所に行って投票し、お前が知っているすべての者に、あらゆる選挙区において共和党候補に投票するよう促せ！\n\n早期投票、不在者投票、郵便投票、対面投票のいずれで投票しようとも、共和党は過激左翼民主党員どもを大規模な投票率で圧倒しなければならない！ユタ州では、10月30日まで対面での早期投票をキャストできる。極めて重要だ。投票所に行って投票してくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票所の場所はこちらで確認できる：\nhttps://swampthevoteusa.com/utah/\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37766,22 +37724,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T05:20:39.714427Z"
-    },
-    "truth:117486971724975856": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42649",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447</span>TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:<br /> <br />– Blake Moore for U.S. Congress (UT-02)<br />– Celeste Maloy for U.S. Congress (UT-03)<br />– Mike Kennedy for U.S. Congress (UT-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/utah/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/utah/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42650\">Donald J. Trump</a></p><blockquote><p>🚨 UTAH!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Utah. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Utah, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/utah/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/utah/</span><span class=\"invisible\"></span></a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 22:41:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T03:20:28.727060Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42649",
-      "first_seen": "2026-10-23T03:10:30.074518Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486969115736447TO THE GREAT PEOPLE OF UTAH, GET OUT AND VOTE FOR:\n \n– Blake Moore for U.",
-      "next_retry_at": "2026-10-23T03:30:28.727079Z",
-      "truth_social_id": "117486971724975856"
     },
     "truth:117486973456365506": {
       "post_status": "RETRY",
