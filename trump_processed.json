@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40484",
-    "fp:Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District!\n \nA former Navy helicopter pilot, Je",
-    "https://www.trumpstruth.org/statuses/40498",
     "fp:It is my Great Honor to endorse MAGA Warrior, Rick Brattin, who is running to represent the wonderful people of Missouri’s 5th Congressional District!",
     "https://www.trumpstruth.org/statuses/40497",
     "fp:Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. John bravely served our Great Country as a U.S. Navy S",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42685",
     "fp:https://www.youtube.com/live/_a7iclXCcPM?si=0ut11EXqxw1ZvykV",
     "truth:117491454528664650",
-    "https://www.trumpstruth.org/statuses/42687"
+    "https://www.trumpstruth.org/statuses/42687",
+    "fp:Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewi",
+    "truth:117491281646455338",
+    "https://www.trumpstruth.org/statuses/42686"
   ],
   "posts": {
-    "truth:117374710858193847": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42092",
-      "source_text": "<p>Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, Newt has understood the power of “MAGA,” which is propelling our Country forward to achieve unprecedented results, in record time. Nothing is impossible when met by American Grit and Spirit — THE BEST IS YET TO COME! Preorder your copy today: <br /><a href=\"https://www.amazon.com/Americas-Golden-Age-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Americas-Golden-Age</span><span class=\"invisible\">-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0</span></a></p>",
-      "published": "Sat, 03 Oct 2026 02:52:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T04:40:31.113474Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42092",
-      "source_fingerprint": "fp:Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, New",
-      "media_identity": "attachment:117374710858193847:e86264d74bc14361.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, New",
-      "truth_social_id": "117374710858193847",
-      "translation": "ニュート・ギングリッチが素晴らしい新著『アメリカの黄金時代：トランピズムと無限の可能性の時代』を執筆した。ニュートは当初から「MAGA」の力を理解しており、それが我が国を前へ推し進め、記録的な時間で前例のない成果を達成させている。アメリカンスピリットと気概に立ち向かうとき、不可能なことは何もない――最高はこれからだ！今日から予約注文できる：\nhttps://www.amazon.com/Americas-Golden-Age-Limitless-Possibilities/dp/1546012273/ref=tmm_hrd_swatch_0"
-    },
     "truth:117374723143795331": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18405,6 +18389,42 @@
       "source_fingerprint": "fp:https://www.youtube.com/live/_a7iclXCcPM?si=0ut11EXqxw1ZvykV",
       "media_identity": "attachment:117491454528664650:",
       "translation": "https://www.youtube.com/live/_a7iclXCcPM?si=0ut11EXqxw1ZvykV"
+    },
+    "truth:117491281646455338": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42686",
+      "source_text": "<p>Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewing of the Patriots standing on line. Tremendous Crowd, and Great Excitement. The Republican Party is “HOTTER” than it’s ever been. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 16:58:03 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T19:40:30.055329Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42686",
+      "first_seen": "2026-10-23T19:10:29.043385Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewi",
+      "truth_social_id": "117491281646455338",
+      "source_fingerprint": "fp:Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewi",
+      "media_identity": "attachment:117491281646455338:",
+      "translation": "フロリダに向かっている！イベントのライブ中継はRight Side Broadcasting Network（RSBN）で放送される。彼らは素晴らしい仕事をしている。特に並んでいる愛国者たちへのインタビューは最高だ。素晴らしい群衆で、大きな興奮がある。共和党は「これまで以上に熱い」状態だ。MAKE AMERICA GREAT AGAIN！大統領 ドナルド・J・トランプ",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myknl4mxlkon",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3myknl4mxlkon",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "フロリダに向かっている！イベントのライブ中継はRight Side Broadcasting Network（RSBN）で放送される。彼らは素晴らしい仕事をしている。特に並んでいる愛国者たちへのインタビューは最高だ。素晴らしい群衆で、大きな興奮がある。共和党は「これまで以上に熱い」状態だ。MAKE AMERICA GREAT AGAIN！大統領 ドナルド・J・トランプ",
+        "createdAt": "2026-10-23T19:30:30.561704Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myknl4mxlkon",
+          "rkey": "3myknl4mxlkon"
+        }
+      ]
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37252,79 +37272,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T23:30:29.985406Z"
-    },
-    "truth:117491281646455338": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42686",
-      "source_text": "<p>Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewing of the Patriots standing on line. Tremendous Crowd, and Great Excitement. The Republican Party is “HOTTER” than it’s ever been. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
-      "published": "Fri, 23 Oct 2026 16:58:03 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-23T19:30:36.973762Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42686",
-      "first_seen": "2026-10-23T19:10:29.043385Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewi",
-      "truth_social_id": "117491281646455338",
-      "source_fingerprint": "fp:Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewi",
-      "media_identity": "attachment:117491281646455338:",
-      "translation": "フロリダに向かっている！イベントのライブ中継はRight Side Broadcasting Network（RSBN）で放送される。彼らは素晴らしい仕事をしている。特に並んでいる愛国者たちへのインタビューは最高だ。素晴らしい群衆で、大きな興奮がある。共和党は「これまで以上に熱い」状態だ。MAKE AMERICA GREAT AGAIN！大統領 ドナルド・J・トランプ",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myknl4mxlkon",
-          "cid": "bafyreibp2wmjc5hbmu5fjxsrmpayzdarpfxkoyhlux4cudbh7dmmdrkufi"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myknl4mxlkon",
-          "cid": "bafyreibp2wmjc5hbmu5fjxsrmpayzdarpfxkoyhlux4cudbh7dmmdrkufi"
-        },
-        "next_index": 1,
-        "last_rkey": "3myknl4mxlkon",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "フロリダに向かっている！イベントのライブ中継はRight Side Broadcasting Network（RSBN）で放送される。彼らは素晴らしい仕事をしている。特に並んでいる愛国者たちへのインタビューは最高だ。素晴らしい群衆で、大きな興奮がある。共和党は「これまで以上に熱い」状態だ。MAKE AMERICA GREAT AGAIN！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-10-23T19:30:30.561704Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3myknl4mxlkon",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "フロリダに向かっている！イベントのライブ中継はRight Side Broadcasting Network（RSBN）で放送される。彼らは素晴らしい仕事をしている。特に並んでいる愛国者たちへのインタビューは最高だ。素晴らしい群衆で、大きな興奮がある。共和党は「これまで以上に熱い」状態だ。MAKE AMERICA GREAT AGAIN！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-10-23T19:30:30.561704Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myknl4mxlkon",
-            "rkey": "3myknl4mxlkon"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myknl4mxlkon",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myknl4mxlkon",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "フロリダに向かっている！イベントのライブ中継はRight Side Broadcasting Network（RSBN）で放送される。彼らは素晴らしい仕事をしている。特に並んでいる愛国者たちへのインタビューは最高だ。素晴らしい群衆で、大きな興奮がある。共和党は「これまで以上に熱い」状態だ。MAKE AMERICA GREAT AGAIN！大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-10-23T19:30:30.561704Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myknl4mxlkon",
-          "rkey": "3myknl4mxlkon"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-23T19:35:36.973777Z"
     },
     "truth:117491464453293400": {
       "post_status": "RETRY",
