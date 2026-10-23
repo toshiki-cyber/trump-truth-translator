@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40437",
-    "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpI disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool",
-    "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
     "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpLook for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut wit",
     "https://www.trumpstruth.org/statuses/40445",
     "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpThe Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42653",
     "fp:🚨 TENNESSEE!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if n",
     "truth:117486964832522667",
-    "https://www.trumpstruth.org/statuses/42652"
+    "https://www.trumpstruth.org/statuses/42652",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667TO THE GREAT PEOPLE OF TENNESSEE, GET OUT AND VOTE FOR:\n \n– Bill Hagerty ",
+    "truth:117486967342374756",
+    "https://www.trumpstruth.org/statuses/42651"
   ],
   "posts": {
-    "truth:117363254598194638": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42054",
-      "source_text": "<p>Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: <a href=\"https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/09/27/us-news/</span><span class=\"invisible\">irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:19:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T05:50:26.211935Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42054",
-      "first_seen": "2026-10-01T04:00:28.127107Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: \nhttps://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothin",
-      "truth_social_id": "117363254598194638",
-      "source_fingerprint": "fp:Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns: \nhttps://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothin",
-      "media_identity": "attachment:117363254598194638:",
-      "translation": "イラン経済は「2週間以内に『何も』残らない」とスコット・ベッセント氏が警告：\nhttps://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrs75utykrb",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwrs75utykrb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "イラン経済は「2週間以内に『何も』残らない」とスコット・ベッセント氏が警告：\nhttps://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/",
-        "createdAt": "2026-10-01T05:40:33.869323Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 113,
-              "byteEnd": 225
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/",
-            "title": "Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns",
-            "description": "Iran’s beleaguered economy will soon have “nothing to trade” in about two weeks after it makes its final oil deliveries, Treasury Secretary Scott Bessent warned.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreibdjy6xrckmnlcxzytupsz55o674v34pmvipbgb6dtsiqeirdloe4"
-              },
-              "mimeType": "image/jpeg",
-              "size": 338373
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrs75utykrb",
-          "rkey": "3mwrs75utykrb"
-        }
-      ]
-    },
     "truth:117363255844500237": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18969,6 +18901,24 @@
       "source_fingerprint": "fp:🚨 TENNESSEE!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if n",
       "media_identity": "attachment:117486964832522667:",
       "translation": "🚨 テネシー州へ！\n\n素晴らしきテネシー州での期日前投票（対面投票）が今、進行中だ。郵便投票の投票用紙を持っている者は直ちに返送し、持っていない者は今すぐ投票所に行って投票してほしい。そして知人全員に、投票用紙の全ての選挙において共和党候補に投票するよう働きかけてくれ！\n\n期日前投票、不在者投票、郵便投票、対面投票のいずれの方法であれ、共和党は左翼過激派の民主党員どもを圧倒的投票率で一掃しなければならない！テネシー州では、10月29日まで対面での期日前投票ができる。極めて重要だ—投票に行ってくれ。メイク・アメリカ・グレート・アゲイン！ドナルド・J・トランプ大統領\n\n投票場所を検索：\nhttps://swampthevoteusa.com/tennessee/"
+    },
+    "truth:117486967342374756": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42651",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667</span>TO THE GREAT PEOPLE OF TENNESSEE, GET OUT AND VOTE FOR:<br /> <br />– Bill Hagerty for U.S. Senate<br />– Marsha Blackburn for Governor<br />– Diana Harshbarger for U.S. Congress (TN-01)<br />– Tim Burchett for U.S. Congress (TN-02)<br />– Chuck Fleischmann for U.S. Congress (TN-03)<br />– Scott DesJarlais for U.S. Congress (TN-04)<br />– Charlie Hatcher for U.S. Congress (TN-05)<br />– Johnny Garrett for U.S. Congress (TN-06)<br />– Matt Van Epps for U.S. Congress (TN-07)<br />– David Kustoff for U.S. Congress (TN-08)<br />– Brent Taylor for U.S. Congress (TN-09)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/tennessee/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/tennessee/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42652\">Donald J. Trump</a></p><blockquote><p>🚨 TENNESSEE!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Tennessee, you can cast your early Vote, in-person, all the way through October 29th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/tennessee/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/tennessee/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:40:52 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T03:55:38.814175Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42651",
+      "first_seen": "2026-10-23T03:10:28.967542Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667TO THE GREAT PEOPLE OF TENNESSEE, GET OUT AND VOTE FOR:\n \n– Bill Hagerty ",
+      "truth_social_id": "117486967342374756",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667TO THE GREAT PEOPLE OF TENNESSEE, GET OUT AND VOTE FOR:\n \n– Bill Hagerty ",
+      "media_identity": "attachment:117486967342374756:",
+      "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667TO テネシー州の偉大な国民よ、投票に行け。以下の候補者に投票しよう：\n\n– ビル・ヘイガティ（上院議員選）\n– マーシャ・ブラックバーン（州知事選）\n– ダイアナ・ハーシュバーガー（下院議員選TN-01区）\n– ティム・バーチェット（下院議員選TN-02区）\n– チャック・フライシュマン（下院議員選TN-03区）\n– スコット・デスジャルレイ（下院議員選TN-04区）\n– チャーリー・ハッチャー（下院議員選TN-05区）\n– ジョニー・ギャレット（下院議員選TN-06区）\n– マット・ヴァン・エップス（下院議員選TN-07区）\n– デイビッド・カストフ（下院議員選TN-08区）\n– ブレント・テイラー（下院議員選TN-09区）\n\nこれらの偉大な愛国者たちは私の完全かつ全面的な支持を得ている。彼らがあなた方を失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/tennessee/Quoted\nhttps://www.trumpstruth.org/statuses/42652🚨 テネシー州よ！\n\n期日前投票は、偉大なるテネシー州で今この瞬間から行われている。郵便投票用紙を持っているなら、直ちに返却せよ。そうでなければ、今すぐ投票所に行って投票しろ。そして知り合い全員に、すべての選挙で共和党に投票するよう促せ！\n\nあなたが期日前投票、不在者投票、郵便投票、当日投票のいずれを選ぼうとも、共和党は激進的な左翼の民主党員たちを投票率の大波で圧倒しなければならない！テネシー州では、10月29日まで期日前投票を対面で行うことができる。極めて重要だ。投票に行ってくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票所はこちらから探せる：\nhttps://swampthevoteusa.com/tennessee/"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37816,22 +37766,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T05:20:39.714427Z"
-    },
-    "truth:117486967342374756": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42651",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667</span>TO THE GREAT PEOPLE OF TENNESSEE, GET OUT AND VOTE FOR:<br /> <br />– Bill Hagerty for U.S. Senate<br />– Marsha Blackburn for Governor<br />– Diana Harshbarger for U.S. Congress (TN-01)<br />– Tim Burchett for U.S. Congress (TN-02)<br />– Chuck Fleischmann for U.S. Congress (TN-03)<br />– Scott DesJarlais for U.S. Congress (TN-04)<br />– Charlie Hatcher for U.S. Congress (TN-05)<br />– Johnny Garrett for U.S. Congress (TN-06)<br />– Matt Van Epps for U.S. Congress (TN-07)<br />– David Kustoff for U.S. Congress (TN-08)<br />– Brent Taylor for U.S. Congress (TN-09)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/tennessee/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/tennessee/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42652\">Donald J. Trump</a></p><blockquote><p>🚨 TENNESSEE!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Tennessee, you can cast your early Vote, in-person, all the way through October 29th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/tennessee/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/tennessee/</span><span class=\"invisible\"></span></a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 22:40:52 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T03:20:27.804287Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42651",
-      "first_seen": "2026-10-23T03:10:28.967542Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667TO THE GREAT PEOPLE OF TENNESSEE, GET OUT AND VOTE FOR:\n \n– Bill Hagerty ",
-      "next_retry_at": "2026-10-23T03:30:27.804307Z",
-      "truth_social_id": "117486967342374756"
     },
     "truth:117486969115736447": {
       "post_status": "RETRY",
