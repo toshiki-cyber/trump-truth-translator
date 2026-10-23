@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40490",
-    "fp:Congresswoman Ann Wagner is doing an incredible job representing the amazing people of Missouri’s 2nd Congressional District!\n \nAs the Chair of the Fi",
-    "https://www.trumpstruth.org/statuses/40489",
     "fp:Congressman Bob Onder is a MAGA Warrior who is doing a fantastic job representing Missouri’s 3rd Congressional District!\n \nA Proven Leader, Bob has se",
     "https://www.trumpstruth.org/statuses/40488",
     "fp:Congressman Mark Alford is an America First Patriot, who is doing a fantastic job representing Missouri’s 4th Congressional District!\n \nMark worked fo",
@@ -5000,24 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42684",
     "fp:It is my Great Honor to endorse America First Patriot, Max Engling, who is running to be the next Secretary of State of the wonderful State of Indiana",
     "truth:117488079014515669",
-    "https://www.trumpstruth.org/statuses/42682"
+    "https://www.trumpstruth.org/statuses/42682",
+    "fp:The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is",
+    "truth:117488073122158937",
+    "https://www.trumpstruth.org/statuses/42683"
   ],
   "posts": {
-    "truth:117374600935041605": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42088",
-      "source_text": "<p></p>",
-      "published": "Sat, 03 Oct 2026 02:24:36 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T03:40:41.639023Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42088",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117374600935041605:6cf4b3a008cac188-c36fe00776fa.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117374600935041605",
-      "translation": ""
-    },
     "truth:117374601736336522": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18443,6 +18428,42 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Max Engling, who is running to be the next Secretary of State of the wonderful State of Indiana",
       "media_identity": "attachment:117488079014515669:",
       "translation": "アメリカ・ファースト愛国者で、インディアナ州の次期国務長官候補のマックス・エングリングを支持することは、私の大きな栄誉である！\n\n生まれも育ちもインディアナ州のホーシャー、非常に成功した市民指導者であり、素晴らしいアメリカ合衆国上院議員ジム・バンクスの元スタッフであるマックスは、自分が心から愛する地域社会への奉仕に人生を捧げてきた。マックスには素晴らしい妻ケルシーと4人の美しい子どもたちがいる。真の「MAGA戦士」であるマックスは、すべての有権者が写真付き身分証明書（身分識別証明書！）を提示しなければならず、すべての有権者が投票するために市民権の証明を提示しなければならないことを理解している！民主党員たちは不正を大好きにしており、マックスはインディアナ州の選挙を守るために絶え間なく努力するだろう。マックスはまた、経済の継続的な成長を支援し、私たちの素晴らしい農家と農業を擁護し、移民犯罪を止め、女性スポーツから男性を排除し、常に脅威にさらされている私たちの修正第2条を守ることに焦点を当てるだろう。\n\nマックス・エングリングは、インディアナ州の次期国務長官になるための私の完全かつ絶対的な支持を得ている——彼はあなたを決して失望させることはない！ドナルド・J・トランプ大統領"
+    },
+    "truth:117488073122158937": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42683",
+      "source_text": "<p>The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is what I’ve had to deal with, right from the beginning! Our powerful Lawsuit against them is getting stronger and stronger everyday. Everything about The Failing New York Times is “ARTIFICIAL.” Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 03:22:05 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T10:40:26.464527Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42683",
+      "first_seen": "2026-10-23T09:10:32.111380Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is",
+      "truth_social_id": "117488073122158937",
+      "source_fingerprint": "fp:The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is",
+      "media_identity": "attachment:117488073122158937:",
+      "translation": "ニューヨーク・タイムズが捕まった！彼らはウェッジウッド・ポーラズという企業を使ったが、その企業は公表した世論調査の数字が作られたものであり、FAKE（偽造）であることを認めた。これが俺が最初からずっと扱わされてきたものだ！彼らに対する俺たちの強力な訴訟は毎日強くなっている。ニューヨーク・タイムズについてのすべてが「ARTIFICIAL（人工的）」なのだ。この件への注意をありがとう。ドナルド・J・トランプ大統領",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myj7y2hfck7l",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3myj7y2hfck7l",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ニューヨーク・タイムズが捕まった！彼らはウェッジウッド・ポーラズという企業を使ったが、その企業は公表した世論調査の数字が作られたものであり、FAKE（偽造）であることを認めた。これが俺が最初からずっと扱わされてきたものだ！彼らに対する俺たちの強力な訴訟は毎日強くなっている。ニューヨーク・タイムズについてのすべてが「ARTIFICIAL（人工的）」なのだ。この件への注意をありがとう。ドナルド・J・トランプ大統領",
+        "createdAt": "2026-10-23T10:30:32.029359Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myj7y2hfck7l",
+          "rkey": "3myj7y2hfck7l"
+        }
+      ]
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37290,79 +37311,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T11:25:25.943471Z"
-    },
-    "truth:117488073122158937": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42683",
-      "source_text": "<p>The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is what I’ve had to deal with, right from the beginning! Our powerful Lawsuit against them is getting stronger and stronger everyday. Everything about The Failing New York Times is “ARTIFICIAL.” Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Fri, 23 Oct 2026 03:22:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-23T10:30:38.457843Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42683",
-      "first_seen": "2026-10-23T09:10:32.111380Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is",
-      "truth_social_id": "117488073122158937",
-      "source_fingerprint": "fp:The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is",
-      "media_identity": "attachment:117488073122158937:",
-      "translation": "ニューヨーク・タイムズが捕まった！彼らはウェッジウッド・ポーラズという企業を使ったが、その企業は公表した世論調査の数字が作られたものであり、FAKE（偽造）であることを認めた。これが俺が最初からずっと扱わされてきたものだ！彼らに対する俺たちの強力な訴訟は毎日強くなっている。ニューヨーク・タイムズについてのすべてが「ARTIFICIAL（人工的）」なのだ。この件への注意をありがとう。ドナルド・J・トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myj7y2hfck7l",
-          "cid": "bafyreids3lue2ouoht6updwqxnjt5vhc4em2jxttyxyowzoabpfrrtaf2a"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myj7y2hfck7l",
-          "cid": "bafyreids3lue2ouoht6updwqxnjt5vhc4em2jxttyxyowzoabpfrrtaf2a"
-        },
-        "next_index": 1,
-        "last_rkey": "3myj7y2hfck7l",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ニューヨーク・タイムズが捕まった！彼らはウェッジウッド・ポーラズという企業を使ったが、その企業は公表した世論調査の数字が作られたものであり、FAKE（偽造）であることを認めた。これが俺が最初からずっと扱わされてきたものだ！彼らに対する俺たちの強力な訴訟は毎日強くなっている。ニューヨーク・タイムズについてのすべてが「ARTIFICIAL（人工的）」なのだ。この件への注意をありがとう。ドナルド・J・トランプ大統領",
-          "createdAt": "2026-10-23T10:30:32.029359Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3myj7y2hfck7l",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ニューヨーク・タイムズが捕まった！彼らはウェッジウッド・ポーラズという企業を使ったが、その企業は公表した世論調査の数字が作られたものであり、FAKE（偽造）であることを認めた。これが俺が最初からずっと扱わされてきたものだ！彼らに対する俺たちの強力な訴訟は毎日強くなっている。ニューヨーク・タイムズについてのすべてが「ARTIFICIAL（人工的）」なのだ。この件への注意をありがとう。ドナルド・J・トランプ大統領",
-          "createdAt": "2026-10-23T10:30:32.029359Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myj7y2hfck7l",
-            "rkey": "3myj7y2hfck7l"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myj7y2hfck7l",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myj7y2hfck7l",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ニューヨーク・タイムズが捕まった！彼らはウェッジウッド・ポーラズという企業を使ったが、その企業は公表した世論調査の数字が作られたものであり、FAKE（偽造）であることを認めた。これが俺が最初からずっと扱わされてきたものだ！彼らに対する俺たちの強力な訴訟は毎日強くなっている。ニューヨーク・タイムズについてのすべてが「ARTIFICIAL（人工的）」なのだ。この件への注意をありがとう。ドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-23T10:30:32.029359Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myj7y2hfck7l",
-          "rkey": "3myj7y2hfck7l"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-23T10:35:38.457856Z"
     },
     "truth:117488148381448179": {
       "post_status": "RETRY",
