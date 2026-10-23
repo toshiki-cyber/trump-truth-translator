@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40473",
-    "https://www.trumpstruth.org/statuses/40472",
-    "fp:Senator Shelley Moore Capito is doing a tremendous job representing the Wonderful People of West Virginia, a State I love and WON BIG in 2016, 2020, a",
     "https://www.trumpstruth.org/statuses/40470",
     "fp:Congressman Riley Moore is a tremendous America First Representative for the Wonderful People of West Virginia’s 2nd Congressional District!\nIn Congre",
     "https://www.trumpstruth.org/statuses/40469",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42661",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486937912432175TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR:\n \n– Michael ",
     "truth:117486940743613022",
-    "https://www.trumpstruth.org/statuses/42660"
+    "https://www.trumpstruth.org/statuses/42660",
+    "fp:The Reflecting Pool is 85% full, and looking really good! It hasn’t worked properly since 1922, but will now. We have cameras set up to stop any poten",
+    "truth:117488386050958742",
+    "https://www.trumpstruth.org/statuses/42680"
   ],
   "posts": {
-    "truth:117367002060076063": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42069",
-      "source_text": "<p></p>",
-      "published": "Thu, 01 Oct 2026 18:12:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T22:10:34.695375Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42069",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117367002060076063:b882f16bad05a867.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117367002060076063",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwthhcmr72b4",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwthhcmr72b4",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-01T22:10:27.659555Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreia66vkxpmey7sk32wo5gnnfesu63sg7th55lgii4gwjxqtu3av7ue"
-                },
-                "mimeType": "image/jpeg",
-                "size": 97554
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1175,
-                "height": 874
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwthhcmr72b4",
-          "rkey": "3mwthhcmr72b4"
-        }
-      ]
-    },
     "truth:117367780569149238": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18690,6 +18637,22 @@
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486937912432175TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR:\n \n– Michael ",
       "media_identity": "attachment:117486940743613022:",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117486937912432175TO 北カロライナの偉大な人民よ、投票に行って以下の候補者に投票せよ：\n\n– マイケル・ウェットリー（上院議員）\n– ローリー・バックハウト（下院議員 NC-01区）\n– グレッグ・マーフィー（下院議員 NC-03区）\n– ヴァージニア・フォックス（下院議員 NC-05区）\n– アディソン・マクダウェル（下院議員 NC-06区）\n– デイビッド・ラウザー（下院議員 NC-07区）\n– マーク・ハリス（下院議員 NC-08区）\n– リチャード・ハドソン（下院議員 NC-09区）\n– パット・ハリガン（下院議員 NC-10区）\n– ジェニファー・バルクコム（下院議員 NC-11区）\n– ブラッド・ノット（下院議員 NC-13区）\n– ティム・ムーア（下院議員 NC-14区）\n\nこれらの偉大な愛国者たちは、私の完全で全面的な支持を受けている — 彼らは絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/Quoted\nhttps://www.trumpstruth.org/statuses/42661🚨 北カロライナよ！\n\n早期投票（対面）は北カロライナの偉大な州で今も実施中だ。郵送投票用紙を持っている場合はすぐに返送せよ。まだなら、今すぐ投票所に行って投票せよ。そして知り合いすべてに、あらゆる選挙のあらゆる立場の共和党員に投票するよう促せ！\n\n早期投票であれ、不在投票であれ、郵送であれ、対面であれ、共和党員は過激左翼の民主党員を圧倒的な投票数で打ちのめさねばならない！北カロライナでは10月31日まで対面での早期投票ができる。極めて重要だ — 投票に行ってくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/north-carolina/"
+    },
+    "truth:117488386050958742": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42680",
+      "source_text": "<p>The Reflecting Pool is 85% full, and looking really good! It hasn’t worked properly since 1922, but will now. We have cameras set up to stop any potential Vandalism, including the grassed areas, which were destroyed by chemical poisoning with a large, and very inappropriate, phrase. The grass was completely replaced! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18696/627c26a305ad629f-40c16736766f.jpg\">View image</a></p>",
+      "published": "Fri, 23 Oct 2026 04:41:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-23T09:10:37.370057Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42680",
+      "source_fingerprint": "fp:The Reflecting Pool is 85% full, and looking really good! It hasn’t worked properly since 1922, but will now. We have cameras set up to stop any poten",
+      "media_identity": "attachment:117488386050958742:627c26a305ad629f.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:The Reflecting Pool is 85% full, and looking really good! It hasn’t worked properly since 1922, but will now. We have cameras set up to stop any poten",
+      "truth_social_id": "117488386050958742",
+      "translation": "リフレクティング・プールは85%満水で、本当に素晴らしい状態だ！1922年以来正常に機能していなかったが、これからは機能する。破壊行為の可能性を防ぐためにカメラを設置した。化学物質による毒性で破壊された草地エリアを含む。大きく非常に不適切なフレーズが描かれていた。芝生は完全に張り替えられた！ドナルド・J・トランプ大統領\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18696/627c26a305ad629f-40c16736766f.jpg"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37537,6 +37500,246 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T11:25:25.943471Z"
+    },
+    "truth:117486857549652261": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42679",
+      "source_text": "<p>🚨 ILLINOIS!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Illinois. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Illinois, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/illinois/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/illinois/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:12:56 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:25.308901Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42679",
+      "first_seen": "2026-10-23T09:10:25.308851Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:🚨 ILLINOIS!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Illinois. If you have a mail-in ballot, return it immediately and, if not",
+      "next_retry_at": "2026-10-23T09:15:25.308908Z",
+      "truth_social_id": "117486857549652261"
+    },
+    "truth:117486859701691280": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42678",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486857549652261</span>TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE FOR:<br /> <br />– Darren Bailey for Governor<br />– Mike Bost for U.S. Congress (IL-12)<br />– Mary Miller for U.S. Congress (IL-15)<br />– Darin LaHood for U.S. Congress (IL-16)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/illinois/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/illinois/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42679\">Donald J. Trump</a></p><blockquote><p>🚨 ILLINOIS!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Illinois. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Illinois, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/illinois/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/illinois/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:13:29 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:25.855363Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42678",
+      "first_seen": "2026-10-23T09:10:25.855319Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486857549652261TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE FOR:\n \n– Darren Bailey ",
+      "next_retry_at": "2026-10-23T09:15:25.855372Z",
+      "truth_social_id": "117486859701691280"
+    },
+    "truth:117486861963956871": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42677",
+      "source_text": "<p>🚨 INDIANA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Indiana. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Indiana, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/indiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/indiana/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:14:04 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:26.392673Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42677",
+      "first_seen": "2026-10-23T09:10:26.392632Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:🚨 INDIANA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Indiana. If you have a mail-in ballot, return it immediately and, if not, ",
+      "next_retry_at": "2026-10-23T09:15:26.392681Z",
+      "truth_social_id": "117486861963956871"
+    },
+    "truth:117486864245558130": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42676",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486861963956871</span>TO THE GREAT PEOPLE OF INDIANA, GET OUT AND VOTE FOR:<br /> <br />– Barb Regnitz for U.S. Congress (IN-01)<br />– Rudy Yakum for U.S. Congress (IN-02)<br />– Marlin Stutzman for U.S. Congress (IN-03)<br />– Jim Baird for U.S. Congress (IN-04)<br />– Victoria Spartz for U.S. Congress (IN-05)<br />– Jefferson Shreve for U.S. Congress (IN-06)<br />– Mark Messmer for U.S. Congress (IN-08)<br />– Erin Houchin for U.S. Congress (IN-09)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/indiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/indiana/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42677\">Donald J. Trump</a></p><blockquote><p>🚨 INDIANA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Indiana. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Indiana, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/indiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/indiana/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:14:39 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:26.922610Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42676",
+      "first_seen": "2026-10-23T09:10:26.922561Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486861963956871TO THE GREAT PEOPLE OF INDIANA, GET OUT AND VOTE FOR:\n \n– Barb Regnitz fo",
+      "next_retry_at": "2026-10-23T09:15:26.922620Z",
+      "truth_social_id": "117486864245558130"
+    },
+    "truth:117486866420111162": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42675",
+      "source_text": "<p>🚨 IOWA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Iowa. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Iowa, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:15:12 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:27.460348Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42675",
+      "first_seen": "2026-10-23T09:10:27.460300Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:🚨 IOWA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Iowa. If you have a mail-in ballot, return it immediately and, if not, GO VOT",
+      "next_retry_at": "2026-10-23T09:15:27.460356Z",
+      "truth_social_id": "117486866420111162"
+    },
+    "truth:117486868727571334": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42674",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486866420111162</span>TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR:<br /> <br />– Ashley Hinson for U.S. Senate<br />– Zach Lahn for Governor<br />– Brenna Bird for Attorney General<br />– Mariannette Miller-Meeks for U.S. Congress (IA-01)<br />– Joe Mitchell for U.S. Congress (IA-02)<br />– Zach Nunn for U.S. Congress (IA-03)<br />– Chris McGowan for U.S. Congress (IA-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42675\">Donald J. Trump</a></p><blockquote><p>🚨 IOWA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Iowa. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Iowa, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:15:47 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:27.978242Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42674",
+      "first_seen": "2026-10-23T09:10:27.978193Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486866420111162TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR:\n \n– Ashley Hinson for ",
+      "next_retry_at": "2026-10-23T09:15:27.978250Z",
+      "truth_social_id": "117486868727571334"
+    },
+    "truth:117486870773017334": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42673",
+      "source_text": "<p>TO THE GREAT PEOPLE OF KANSAS, MAKE A PLAN TO VOTE FOR:<br /> <br />– Roger Marshall for U.S. Senate<br />– Ty Masterson for Governor<br />– Tracey Mann for U.S. Congress (KS-01)<br />– Derek Schmidt for U.S. Congress (KS-02)<br />– Ron Estes for U.S. Congress (KS-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kansas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kansas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:16:18 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:28.543959Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42673",
+      "first_seen": "2026-10-23T09:10:28.543911Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF KANSAS, MAKE A PLAN TO VOTE FOR:\n \n– Roger Marshall for U.S. Senate\n– Ty Masterson for Governor\n– Tracey Mann for U.S. Congress",
+      "next_retry_at": "2026-10-23T09:15:28.543967Z",
+      "truth_social_id": "117486870773017334"
+    },
+    "truth:117486872368796425": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42672",
+      "source_text": "<p>TO THE GREAT PEOPLE OF KENTUCKY, MAKE A PLAN TO VOTE FOR:<br /> <br />– Andy Barr for U.S. Senate<br />– James Comer for U.S. Congress (KY-01)<br />– Brett Guthrie for U.S. Congress (KY-02)<br />– Ed Gallrein for U.S. Congress (KY-04)<br />– Hal Rogers for U.S. Congress (KY-05)<br />– Ralph Alvarado for U.S. Congress (KY-06)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kentucky/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kentucky/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:16:43 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:29.057468Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42672",
+      "first_seen": "2026-10-23T09:10:29.057415Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF KENTUCKY, MAKE A PLAN TO VOTE FOR:\n \n– Andy Barr for U.S. Senate\n– James Comer for U.S. Congress (KY-01)\n– Brett Guthrie for U.",
+      "next_retry_at": "2026-10-23T09:15:29.057477Z",
+      "truth_social_id": "117486872368796425"
+    },
+    "truth:117486914865839762": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42671",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486889343064879</span>TO THE GREAT PEOPLE OF MISSOURI, GET OUT AND VOTE FOR:<br /> <br />– Ann Wagner for U.S. Congress (MO-02)<br />– Bob Onder for U.S. Congress (MO-03)<br />– Mark Alford for U.S. Congress (MO-04)<br />– Rick Brattin for U.S. Congress (MO-05)<br />– Eric Burlison for U.S. Congress (MO-07)<br />– Jason Smith for U.S. Congress (MO-08)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/missouri/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/missouri/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42630\">Donald J. Trump</a></p><blockquote><p>🚨 MISSOURI!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Missouri. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Missouri, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/missouri/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/missouri/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:27:31 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:29.565331Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42671",
+      "first_seen": "2026-10-23T09:10:29.565287Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486889343064879TO THE GREAT PEOPLE OF MISSOURI, GET OUT AND VOTE FOR:\n \n– Ann Wagner for",
+      "next_retry_at": "2026-10-23T09:15:29.565339Z",
+      "truth_social_id": "117486914865839762"
+    },
+    "truth:117486916953137939": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42670",
+      "source_text": "<p>🚨 MONTANA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Montana. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Montana, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/montana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/montana/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:28:03 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:30.399295Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42670",
+      "first_seen": "2026-10-23T09:10:30.399250Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:🚨 MONTANA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Montana. If you have a mail-in ballot, return it immediately and, if not, ",
+      "next_retry_at": "2026-10-23T09:15:30.399304Z",
+      "truth_social_id": "117486916953137939"
+    },
+    "truth:117486919405358377": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42669",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486916953137939</span>TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:<br /> <br />– Kurt Alme for U.S. Senate<br />– Aaron Flint for U.S. Congress (MT-01)<br />– Troy Downing for U.S. Congress (MT-02)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/montana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/montana/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42670\">Donald J. Trump</a></p><blockquote><p>🚨 MONTANA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Montana. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Montana, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/montana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/montana/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 22 Oct 2026 22:28:40 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:31.088602Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42669",
+      "first_seen": "2026-10-23T09:10:31.088558Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486916953137939TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:\n \n– Kurt Alme for U",
+      "next_retry_at": "2026-10-23T09:15:31.088610Z",
+      "truth_social_id": "117486919405358377"
+    },
+    "truth:117488067224261864": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42684",
+      "source_text": "<p>It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely different name, Ilhan Nur Said Elmi, and that her last name is, incredibly, also the exact name of her brother, Ahmed Nur Said Elmi, the person they said she married and had children with. When asked whether or not she married her brother, she said, “Not to my knowledge.” In other words, she somehow didn’t know? Therefore, because she used a fake name to be sworn in, I assume she must IMMEDIATELY resign from Congress. Please inform the Speaker of the House of Representatives, James Michael Johnson, that the Dumocrat Party has just conceded her seat. Ilhan Nur Said Elmi, her real name, has openly admitted to FRAUD, and she will not be legally allowed to be a Member of this August Body from this point forth. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 03:20:35 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:31.644662Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42684",
+      "first_seen": "2026-10-23T09:10:31.644618Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It was just revealed that Ilhan Omar’s name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it’s an entirely d",
+      "next_retry_at": "2026-10-23T09:15:31.644669Z",
+      "truth_social_id": "117488067224261864"
+    },
+    "truth:117488073122158937": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42683",
+      "source_text": "<p>The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is what I’ve had to deal with, right from the beginning! Our powerful Lawsuit against them is getting stronger and stronger everyday. Everything about The Failing New York Times is “ARTIFICIAL.” Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 03:22:05 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:32.111427Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42683",
+      "first_seen": "2026-10-23T09:10:32.111380Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is",
+      "next_retry_at": "2026-10-23T09:15:32.111435Z",
+      "truth_social_id": "117488073122158937"
+    },
+    "truth:117488079014515669": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42682",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Max Engling, who is running to be the next Secretary of State of the wonderful State of Indiana!</p><p>A lifelong Hoosier, very successful Civic Leader, and former Staffer to GREAT U.S. Senator Jim Banks, Max has dedicated his life to serving the Community which he loves so much. Max has an incredible wife, Kelcey, and four beautiful children. A true MAGA Warrior, Max understands that, ALL VOTERS MUST SHOW PHOTO VOTER I.D. (IDENTIFICATION!) AND, ALL VOTERS MUST SHOW PROOF OF CITIZENSHIP IN ORDER TO VOTE! The Dumocrats love to CHEAT, and Max will work tirelessly to Safeguard Indiana's Elections. Max will also focus on helping us continue to Grow the Economy, Champion our Amazing Farmers and Agriculture, Stop Migrant Crime, Keep Men out of Women’s Sports, and Protect our always under siege Second Amendment.</p><p>Max Engling has my Complete and Total Endorsement to be the next Secretary of State of Indiana — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 03:23:35 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:32.586966Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42682",
+      "first_seen": "2026-10-23T09:10:32.586922Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Max Engling, who is running to be the next Secretary of State of the wonderful State of Indiana",
+      "next_retry_at": "2026-10-23T09:15:32.586974Z",
+      "truth_social_id": "117488079014515669"
+    },
+    "truth:117488148381448179": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42681",
+      "source_text": "<p>Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administration, Bombardier is investing 270 MILLION DOLLARS, creating THOUSANDS of American Jobs in Kansas, Texas, and Indiana.</p><p>Senator Marshall, together with Attorney General Ken Paxton of Texas, has done an incredible job in getting this Deal done. They are STRONG Fighters for American Workers, and LOVE their States and our Country!</p><p>Companies are coming to America, investing BILLIONS OF DOLLARS, and creating JOBS like never before. They know that under President DONALD J. TRUMP, AMERICA IS THE PLACE TO BE! We are bringing back our Jobs, our Manufacturing, and the AMERICAN DREAM.</p><p>THE GOLDEN AGE OF AMERICA IS HERE! President DONALD J. TRUMP</p>",
+      "published": "Fri, 23 Oct 2026 03:41:13 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-23T09:10:33.095631Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42681",
+      "first_seen": "2026-10-23T09:10:33.095588Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administr",
+      "next_retry_at": "2026-10-23T09:15:33.095639Z",
+      "truth_social_id": "117488148381448179"
     }
   }
 }
