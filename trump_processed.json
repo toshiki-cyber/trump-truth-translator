@@ -4989,24 +4989,12 @@
     "https://www.trumpstruth.org/statuses/42639",
     "fp:Getting ready to land in Iowa. Big Rally happening. Inflation and Prices coming down, FAST! Campaigning for Ashley Hinson for U.S. Senate, Zach Lahn f",
     "truth:117487124994548876",
-    "https://www.trumpstruth.org/statuses/42636"
+    "https://www.trumpstruth.org/statuses/42636",
+    "fp:TO THE GREAT PEOPLE OF OKLAHOMA, MAKE A PLAN TO VOTE FOR:\n \n– Kevin Hern for U.S. Senate\n– Mike Mazzei for Governor\n– T.W. Shannon for Lieutenant Gove",
+    "truth:117486952907867634",
+    "https://www.trumpstruth.org/statuses/42655"
   ],
   "posts": {
-    "truth:117363277304148804": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42049",
-      "source_text": "<p></p>",
-      "published": "Thu, 01 Oct 2026 02:24:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-01T04:00:58.740034Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42049",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117363277304148804:3005e93896134d91-fd3fff32b423.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117363277304148804",
-      "translation": ""
-    },
     "truth:117363250174439013": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -19055,6 +19043,24 @@
           "rkey": "3myisivf35s35"
         }
       ]
+    },
+    "truth:117486952907867634": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42655",
+      "source_text": "<p>TO THE GREAT PEOPLE OF OKLAHOMA, MAKE A PLAN TO VOTE FOR:<br /> <br />– Kevin Hern for U.S. Senate<br />– Mike Mazzei for Governor<br />– T.W. Shannon for Lieutenant Governor<br />– Cindy Byrd for State Treasurer<br />– Mark Tedford for U.S. Congress (OK-01)<br />– Josh Brecheen for U.S. Congress (OK-02)<br />– Frank Lucas for U.S. Congress (OK-03)<br />– Tom Cole for U.S. Congress (OK-04)<br />– Stephanie Bice for U.S. Congress (OK-05)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/oklahoma/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/oklahoma/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:37:12 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T03:35:34.856921Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42655",
+      "first_seen": "2026-10-23T03:10:26.794192Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF OKLAHOMA, MAKE A PLAN TO VOTE FOR:\n \n– Kevin Hern for U.S. Senate\n– Mike Mazzei for Governor\n– T.W. Shannon for Lieutenant Gove",
+      "truth_social_id": "117486952907867634",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF OKLAHOMA, MAKE A PLAN TO VOTE FOR:\n \n– Kevin Hern for U.S. Senate\n– Mike Mazzei for Governor\n– T.W. Shannon for Lieutenant Gove",
+      "media_identity": "attachment:117486952907867634:",
+      "translation": "オクラホマの偉大な国民の皆さんへ、以下の候補者に投票する計画を立ててください：\n\n– ケビン・ハーン（米国上院）\n– マイク・マッツェイ（州知事）\n– T.W.シャノン（副知事）\n– シンディ・バード（州財務官）\n– マーク・テッドフォード（米国下院 OK-01区）\n– ジョシュ・ブレチーン（米国下院 OK-02区）\n– フランク・ルーカス（米国下院 OK-03区）\n– トム・コール（米国下院 OK-04区）\n– ステファニー・バイス（米国下院 OK-05区）\n\nこれら偉大な愛国者たちは私の完全で全面的な支持を得ている。彼らは皆さんを決して失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/oklahoma/"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37902,22 +37908,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T05:20:39.714427Z"
-    },
-    "truth:117486952907867634": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42655",
-      "source_text": "<p>TO THE GREAT PEOPLE OF OKLAHOMA, MAKE A PLAN TO VOTE FOR:<br /> <br />– Kevin Hern for U.S. Senate<br />– Mike Mazzei for Governor<br />– T.W. Shannon for Lieutenant Governor<br />– Cindy Byrd for State Treasurer<br />– Mark Tedford for U.S. Congress (OK-01)<br />– Josh Brecheen for U.S. Congress (OK-02)<br />– Frank Lucas for U.S. Congress (OK-03)<br />– Tom Cole for U.S. Congress (OK-04)<br />– Stephanie Bice for U.S. Congress (OK-05)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/oklahoma/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/oklahoma/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Thu, 22 Oct 2026 22:37:12 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T03:20:25.827002Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42655",
-      "first_seen": "2026-10-23T03:10:26.794192Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:TO THE GREAT PEOPLE OF OKLAHOMA, MAKE A PLAN TO VOTE FOR:\n \n– Kevin Hern for U.S. Senate\n– Mike Mazzei for Governor\n– T.W. Shannon for Lieutenant Gove",
-      "next_retry_at": "2026-10-23T03:30:25.827020Z",
-      "truth_social_id": "117486952907867634"
     },
     "truth:117486955930613095": {
       "post_status": "RETRY",
