@@ -1,7 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40438",
     "https://www.trumpstruth.org/statuses/40437",
     "fp:RT \nhttps://truthsocial.com/@realDonaldTrumpI disagree 100% with Jeanine Pirro, the U.S. Attorney for the District of Columbia, on the Reflecting Pool",
     "fp:RT \nhttps://truthsocial.com/@realDonaldTrump",
@@ -4998,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42654",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Mike Round",
     "truth:117486962919747005",
-    "https://www.trumpstruth.org/statuses/42653"
+    "https://www.trumpstruth.org/statuses/42653",
+    "fp:🚨 TENNESSEE!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if n",
+    "truth:117486964832522667",
+    "https://www.trumpstruth.org/statuses/42652"
   ],
   "posts": {
-    "truth:117363252945698992": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42042",
-      "source_text": "<p>Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: <a href=\"https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/outkick-sports/tea</span><span class=\"invisible\">m-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit</span></a></p>",
-      "published": "Thu, 01 Oct 2026 02:18:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-01T05:25:26.619999Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42042",
-      "first_seen": "2026-10-01T04:00:27.619962Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: \nhttps://www.foxnews.com/outkick-sports/team-usa-captai",
-      "truth_social_id": "117363252945698992",
-      "source_fingerprint": "fp:Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’: \nhttps://www.foxnews.com/outkick-sports/team-usa-captai",
-      "media_identity": "attachment:117363252945698992:",
-      "translation": "チームUSAキャプテン、大逆転後にトランプ氏に感謝：「彼がすべての功績を得ている」\nhttps://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrs6ftdxsq5",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mwrs6ftdxsq5",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "チームUSAキャプテン、大逆転後にトランプ氏に感謝：「彼がすべての功績を得ている」\nhttps://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit",
-        "createdAt": "2026-10-01T05:15:29.782679Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 118,
-              "byteEnd": 234
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit",
-            "title": "Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’",
-            "description": "Trump told captain Brandt Snedeker he'd bring energy to the Presidents Cup, and the U.S. rallied from a three-point deficit in Sunday singles.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreie2ueafuaxbrymvmnfbvi4m56bdlw5oexc5ks3rq5gr6mwmqipp2q"
-              },
-              "mimeType": "image/jpeg",
-              "size": 157207
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwrs6ftdxsq5",
-          "rkey": "3mwrs6ftdxsq5"
-        }
-      ]
-    },
     "truth:117363254598194638": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -19017,6 +18951,24 @@
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO THE GREAT PEOPLE OF SOUTH DAKOTA, GET OUT AND VOTE FOR:\n \n– Mike Round",
       "media_identity": "attachment:117486962919747005:",
       "translation": "サウスダコタの偉大なる国民よ、投票に行き、以下に投票しよう：\n\n– マイク・ラウンズ（米国上院議員候補）\n– マーティ・ジャクリー（米国下院議員候補）\n– ラリー・ローデン（州知事候補）\n\nこの素晴らしい愛国者たちは私の完全かつ全面的な支持を得ている。彼らは絶対に君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/south-dakota/Quoted\nhttps://www.trumpstruth.org/statuses/42632🚨 サウスダコタ！\n\n早期投票（対面）は、偉大なるサウスダコタ州で今、進行中だ。郵送投票用紙を持っているなら、直ちに返送し、持っていないなら、今すぐ投票所に行き、投票しろ。そして君が知っている全員に、あらゆる選挙であらゆる投票でリパブリカンに投票するよう説得しろ！\n\n早期投票、不在投票、郵送、対面投票のいずれであれ、リパブリカンは過激な左翼デモクラートを圧倒的な投票率で圧倒しなければならない！サウスダコタでは、11月2日を通じて対面による早期投票を行うことができる。極めて重要だ。投票に行ってくれ。アメリカを再び偉大に！ドナルド・J・トランプ大統領\n\n投票場所をここで探そう：\nhttps://swampthevoteusa.com/south-dakota/\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117486960497302115TO"
+    },
+    "truth:117486964832522667": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42652",
+      "source_text": "<p>🚨 TENNESSEE!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Tennessee, you can cast your early Vote, in-person, all the way through October 29th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/tennessee/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/tennessee/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 22 Oct 2026 22:40:13 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-23T03:50:31.784010Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42652",
+      "first_seen": "2026-10-23T03:10:28.396899Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 TENNESSEE!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if n",
+      "truth_social_id": "117486964832522667",
+      "source_fingerprint": "fp:🚨 TENNESSEE!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if n",
+      "media_identity": "attachment:117486964832522667:",
+      "translation": "🚨 テネシー州へ！\n\n素晴らしきテネシー州での期日前投票（対面投票）が今、進行中だ。郵便投票の投票用紙を持っている者は直ちに返送し、持っていない者は今すぐ投票所に行って投票してほしい。そして知人全員に、投票用紙の全ての選挙において共和党候補に投票するよう働きかけてくれ！\n\n期日前投票、不在者投票、郵便投票、対面投票のいずれの方法であれ、共和党は左翼過激派の民主党員どもを圧倒的投票率で一掃しなければならない！テネシー州では、10月29日まで対面での期日前投票ができる。極めて重要だ—投票に行ってくれ。メイク・アメリカ・グレート・アゲイン！ドナルド・J・トランプ大統領\n\n投票場所を検索：\nhttps://swampthevoteusa.com/tennessee/"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37864,22 +37816,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-23T05:20:39.714427Z"
-    },
-    "truth:117486964832522667": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42652",
-      "source_text": "<p>🚨 TENNESSEE!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Tennessee, you can cast your early Vote, in-person, all the way through October 29th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/tennessee/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/tennessee/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Thu, 22 Oct 2026 22:40:13 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T03:20:27.161722Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42652",
-      "first_seen": "2026-10-23T03:10:28.396899Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 TENNESSEE!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Tennessee. If you have a mail-in ballot, return it immediately and, if n",
-      "next_retry_at": "2026-10-23T03:30:27.161741Z",
-      "truth_social_id": "117486964832522667"
     },
     "truth:117486967342374756": {
       "post_status": "RETRY",
