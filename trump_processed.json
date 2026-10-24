@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037714164609248",
-    "https://www.trumpstruth.org/statuses/40528",
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037715892419107",
     "https://www.trumpstruth.org/statuses/40526",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037716920827611",
     "https://www.trumpstruth.org/statuses/40525",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42699",
     "fp:🚨 NEW JERSEY!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of New Jersey. If you have a mail-in ballot, return it immediately and, if",
     "truth:117496229811089720",
-    "https://www.trumpstruth.org/statuses/42698"
+    "https://www.trumpstruth.org/statuses/42698",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR:\n \n– Jeff Van Dre",
+    "truth:117496235243020824",
+    "https://www.trumpstruth.org/statuses/42697"
   ],
   "posts": {
-    "truth:117376706134428638": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42107",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468</span></p>",
-      "published": "Sat, 03 Oct 2026 11:19:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-03T14:35:28.053646Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42107",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468",
-      "media_identity": "attachment:117376706134428638:a512367dae9783fd.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468",
-      "truth_social_id": "117376706134428638",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376705404850468"
-    },
     "truth:117376707058642062": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18405,6 +18389,24 @@
       "source_fingerprint": "fp:🚨 NEW JERSEY!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of New Jersey. If you have a mail-in ballot, return it immediately and, if",
       "media_identity": "attachment:117496229811089720:",
       "translation": "🚨 ニュージャージー州！\n\n素晴らしきニュージャージー州での期日前投票（対面投票）が今現在進行中だ。郵送投票用紙を持っている者は直ちにそれを返送し、持っていない者は今すぐ投票所に行って投票してくれ。そして知人全員に、投票用紙の上下すべてのレースで共和党員に投票するよう働きかけてくれ！\n\n期日前投票、不在者投票、郵送投票、対面投票のいずれであれ、共和党は激進左翼民主党員を大規模な投票率で圧倒しなければならない！ニュージャージー州では、11月1日まで対面での期日前投票が可能だ。極めて重要なことだ — 投票に行ってくれることを強く求める。MAGA！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/new-jersey/"
+    },
+    "truth:117496235243020824": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42697",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720</span>TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR:<br /> <br />– Jeff Van Drew for U.S. Congress (NJ-02)<br />– Chris Smith for U.S. Congress (NJ-04)<br />– Tom Kean for U.S. Congress (NJ-07)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/new-jersey/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/new-jersey</span><span class=\"invisible\">/</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42698\">Donald J. Trump</a></p><blockquote><p>🚨 NEW JERSEY!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of New Jersey. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In New Jersey, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/new-jersey/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/new-jersey</span><span class=\"invisible\">/</span></a></p></blockquote>",
+      "published": "Sat, 24 Oct 2026 13:57:49 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-24T15:35:36.026733Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42697",
+      "first_seen": "2026-10-24T15:10:26.742253Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR:\n \n– Jeff Van Dre",
+      "truth_social_id": "117496235243020824",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR:\n \n– Jeff Van Dre",
+      "media_identity": "attachment:117496235243020824:",
+      "translation": "ニュージャージーの偉大なる国民へ、以下の候補者に投票するために投票所に行け：\n\n– ジェフ・ヴァン・ドリュー（下院議員候補 NJ-02区）\n– クリス・スミス（下院議員候補 NJ-04区）\n– トム・キーン（下院議員候補 NJ-07区）\n\nこの偉大な愛国者たちは私の完全かつ全面的な支持を受けている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/new-jersey/Quoted\nhttps://www.trumpstruth.org/statuses/42698🚨 ニュージャージー！\n\nニュージャージー州で期日前投票（直接投票）が今から始まる。郵便投票の投票用紙を受け取った場合は直ちに返送せよ。そうでない場合は、今すぐ投票所に行って投票しろ。そして知り合い全員に投票所に行かせ、すべての選挙区でREPUBLICAN（共和党員）に投票するよう説得しろ！\n\n早期投票、不在者投票、郵便投票、直接投票のいずれの方法であれ、共和党員は急進的左翼民主党員（Dumocrats）を圧倒的な投票数でたたきのめさなければならない！ニュージャージー州では11月1日まで期日前の直接投票ができる。極めて重要だ。頼むから投票に行け。MAGA！ドナルド・J・トランプ大統領\n\n投票所を探す：\nhttps://swampthevoteusa.com/new-jersey/\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720TO"
     },
     "truth:117495737524654616": {
       "post_status": "DISCOVERED",
@@ -37288,22 +37290,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-24T17:45:35.942593Z"
-    },
-    "truth:117496235243020824": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42697",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720</span>TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR:<br /> <br />– Jeff Van Drew for U.S. Congress (NJ-02)<br />– Chris Smith for U.S. Congress (NJ-04)<br />– Tom Kean for U.S. Congress (NJ-07)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/new-jersey/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/new-jersey</span><span class=\"invisible\">/</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42698\">Donald J. Trump</a></p><blockquote><p>🚨 NEW JERSEY!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of New Jersey. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In New Jersey, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/new-jersey/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/new-jersey</span><span class=\"invisible\">/</span></a></p></blockquote>",
-      "published": "Sat, 24 Oct 2026 13:57:49 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-24T15:15:28.483797Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42697",
-      "first_seen": "2026-10-24T15:10:26.742253Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR:\n \n– Jeff Van Dre",
-      "next_retry_at": "2026-10-24T15:25:28.483812Z",
-      "truth_social_id": "117496235243020824"
     },
     "truth:117496346005050130": {
       "post_status": "BLOCKED",
