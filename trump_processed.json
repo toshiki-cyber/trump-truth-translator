@@ -37387,6 +37387,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18698/93c6bc3c301cb7c6-cd95c560fcbf.mp4",
       "truth_social_id": "117496346005050130",
       "next_retry_at": "2026-10-24T15:15:28.571392Z"
+    },
+    "truth:117496896764064960": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42703",
+      "source_text": "<p><a href=\"https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/9eW9_If62pc?s</span><span class=\"invisible\">i=v4kLaTJTayJhAlTp</span></a></p>",
+      "published": "Sat, 24 Oct 2026 16:46:03 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-24T17:10:27.721547Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42703",
+      "first_seen": "2026-10-24T17:10:27.721513Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
+      "next_retry_at": "2026-10-24T17:15:27.721557Z",
+      "truth_social_id": "117496896764064960"
     }
   }
 }
