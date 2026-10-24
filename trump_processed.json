@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40499",
-    "fp:Highly Respected Congressman Byron Donalds is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024.\nI know Byron",
-    "https://www.trumpstruth.org/statuses/40509",
     "fp:Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024.   James is an America Fi",
     "https://www.trumpstruth.org/statuses/40508",
     "fp:Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!   ",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42691",
     "fp:There is a Fake News report out there that I am going to remove the White House Press Room and bring back the old Swimming Pool, which lies directly u",
     "truth:117495805131265987",
-    "https://www.trumpstruth.org/statuses/42693"
+    "https://www.trumpstruth.org/statuses/42693",
+    "fp:Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT",
+    "truth:117495828914407705",
+    "https://www.trumpstruth.org/statuses/42692"
   ],
   "posts": {
-    "truth:117374770773184530": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42098",
-      "source_text": "<p>DC CVS Stores Are No Longer Locking Up Items Thanks to President Trump's Crime Crackdown: <a href=\"https://townhall.com/news/amy-curtis/2026/09/28/dc-cvs-no-longer-locking-up-items-thanks-to-reduced-crime-n2683686\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">townhall.com/news/amy-curtis/2</span><span class=\"invisible\">026/09/28/dc-cvs-no-longer-locking-up-items-thanks-to-reduced-crime-n2683686</span></a></p>",
-      "published": "Sat, 03 Oct 2026 03:07:48 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-03T06:45:32.183588Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42098",
-      "first_seen": "2026-10-03T06:25:28.871520Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:DC CVS Stores Are No Longer Locking Up Items Thanks to President Trump's Crime Crackdown: \nhttps://townhall.com/news/amy-curtis/2026/09/28/dc-cvs-no-l",
-      "truth_social_id": "117374770773184530",
-      "source_fingerprint": "fp:DC CVS Stores Are No Longer Locking Up Items Thanks to President Trump's Crime Crackdown: \nhttps://townhall.com/news/amy-curtis/2026/09/28/dc-cvs-no-l",
-      "media_identity": "attachment:117374770773184530:",
-      "translation": "ワシントンのCVS店舗がトランプ大統領の犯罪取り締まりのおかげで商品のロックを外した：\nhttps://townhall.com/news/amy-curtis/2026/09/28/dc-cvs-no-longer-locking-up-items-thanks-to-reduced-crime-n2683686"
-    },
     "truth:117374885656415148": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18463,6 +18445,24 @@
           "rkey": "3mymnu5ypeki7"
         }
       ]
+    },
+    "truth:117495828914407705": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42692",
+      "source_text": "<p>Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT</p>",
+      "published": "Sat, 24 Oct 2026 12:14:29 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-24T13:50:26.667789Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42692",
+      "first_seen": "2026-10-24T13:10:26.639887Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT",
+      "truth_social_id": "117495828914407705",
+      "source_fingerprint": "fp:Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT",
+      "media_identity": "attachment:117495828914407705:",
+      "translation": "ジョージア州での大きな集会が今日開かれる！RSBN で終日 LIVE 放送される。楽しんでくれ！!! トランプ大統領"
     },
     "truth:117486013862752010": {
       "post_status": "DISCOVERED",
@@ -37310,22 +37310,6 @@
       "truth_social_id": "117485228002980983",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-24T17:45:35.942593Z"
-    },
-    "truth:117495828914407705": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42692",
-      "source_text": "<p>Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT</p>",
-      "published": "Sat, 24 Oct 2026 12:14:29 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-24T13:20:25.529766Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42692",
-      "first_seen": "2026-10-24T13:10:26.639887Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT",
-      "next_retry_at": "2026-10-24T13:30:25.529780Z",
-      "truth_social_id": "117495828914407705"
     },
     "truth:117495957303860596": {
       "post_status": "RETRY",
