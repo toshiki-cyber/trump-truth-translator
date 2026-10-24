@@ -37313,14 +37313,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42701",
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705</span>Georgia: See you at 7 P.M. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP<br /><a href=\"https://www.youtube.com/live/9eW9_If62pc?si=oQjVlT916OMjbXkH\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/9eW9_If62pc?s</span><span class=\"invisible\">i=oQjVlT916OMjbXkH</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42692\">Donald J. Trump</a></p><blockquote><p>Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT</p></blockquote>",
       "published": "Sat, 24 Oct 2026 14:47:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-24T15:15:29.466079Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-24T15:40:27.654601Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42701",
       "first_seen": "2026-10-24T15:15:29.466040Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705Georgia: See you at 7 P.M. MAKE AMERICA GREAT AGAIN! President DONALD J. ",
-      "next_retry_at": "2026-10-24T15:20:29.466089Z",
+      "next_retry_at": "2026-10-24T15:50:27.654618Z",
       "truth_social_id": "117496430405406772"
     }
   }
