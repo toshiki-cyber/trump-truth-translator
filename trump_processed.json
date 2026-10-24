@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037718122207687",
-    "https://www.trumpstruth.org/statuses/40524",
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719027916190",
     "https://www.trumpstruth.org/statuses/40523",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037719906423391",
     "https://www.trumpstruth.org/statuses/40522",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42697",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705Georgia: See you at 7 P.M. MAKE AMERICA GREAT AGAIN! President DONALD J. ",
     "truth:117496430405406772",
-    "https://www.trumpstruth.org/statuses/42701"
+    "https://www.trumpstruth.org/statuses/42701",
+    "fp:https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
+    "truth:117496896764064960",
+    "https://www.trumpstruth.org/statuses/42703"
   ],
   "posts": {
-    "truth:117376709448414660": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42105",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062</span></p>",
-      "published": "Sat, 03 Oct 2026 11:20:50 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-03T15:05:37.955349Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42105",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062",
-      "media_identity": "attachment:117376709448414660:776bf1380e7bad5e.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062",
-      "truth_social_id": "117376709448414660",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwxrfppplszg",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mwxrfppplszg",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062",
-        "createdAt": "2026-10-03T15:05:31.165135Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 73
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117376707058642062"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreic6t5vo7evxpcuutoi5qlry7ku4mxhek6zwpn5bnzkrcux2dmp4uy"
-                },
-                "mimeType": "image/jpeg",
-                "size": 100125
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 882,
-                "height": 610
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mwxrfppplszg",
-          "rkey": "3mwxrfppplszg"
-        }
-      ]
-    },
     "truth:117376711131261545": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18488,6 +18418,24 @@
           "rkey": "3mymwqiwnw2sd"
         }
       ]
+    },
+    "truth:117496896764064960": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42703",
+      "source_text": "<p><a href=\"https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/9eW9_If62pc?s</span><span class=\"invisible\">i=v4kLaTJTayJhAlTp</span></a></p>",
+      "published": "Sat, 24 Oct 2026 16:46:03 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-24T17:35:24.230857Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42703",
+      "first_seen": "2026-10-24T17:10:27.721513Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
+      "truth_social_id": "117496896764064960",
+      "source_fingerprint": "fp:https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
+      "media_identity": "attachment:117496896764064960:",
+      "translation": "https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp"
     },
     "truth:117495737524654616": {
       "post_status": "DISCOVERED",
@@ -37387,22 +37335,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18698/93c6bc3c301cb7c6-cd95c560fcbf.mp4",
       "truth_social_id": "117496346005050130",
       "next_retry_at": "2026-10-24T15:15:28.571392Z"
-    },
-    "truth:117496896764064960": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42703",
-      "source_text": "<p><a href=\"https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/9eW9_If62pc?s</span><span class=\"invisible\">i=v4kLaTJTayJhAlTp</span></a></p>",
-      "published": "Sat, 24 Oct 2026 16:46:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-24T17:20:28.378400Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42703",
-      "first_seen": "2026-10-24T17:10:27.721513Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
-      "next_retry_at": "2026-10-24T17:30:28.378417Z",
-      "truth_social_id": "117496896764064960"
     }
   }
 }
