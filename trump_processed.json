@@ -37391,13 +37391,13 @@
       "next_retry_at": "2026-10-24T15:15:28.571392Z"
     },
     "truth:117497265648750714": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42705",
       "source_text": "<p><a href=\"https://www.youtube.com/live/9eW9_If62pc?si=71CRiZtnDnyw5eK3\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/9eW9_If62pc?s</span><span class=\"invisible\">i=71CRiZtnDnyw5eK3</span></a></p>",
       "published": "Sat, 24 Oct 2026 18:19:51 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-24T19:25:26.281225Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-24T19:30:25.003535Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42706",
       "first_seen": "2026-10-24T19:15:26.662046Z",
       "no_media_confirmations": 2,
