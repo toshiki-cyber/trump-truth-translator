@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40537",
-    "fp:It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carol",
-    "https://www.trumpstruth.org/statuses/40539",
     "fp:It was my Great Honor to welcome Highly Respected and very popular Pennsylvania State Treasurer, Stacy Garrity, into the Oval Office. Stacy is running",
     "https://www.trumpstruth.org/statuses/40540",
     "fp:“MAGA” Megan Degenfelder is running to be the next Governor of the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024. Megan i",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42715",
     "fp:https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL",
     "truth:117502341995120080",
-    "https://www.trumpstruth.org/statuses/42716"
+    "https://www.trumpstruth.org/statuses/42716",
+    "fp:FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies a",
+    "truth:117502572828225324",
+    "https://www.trumpstruth.org/statuses/42717"
   ],
   "posts": {
-    "truth:117382613951699157": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42128",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893</span>Thank you Emily Miller. You are absolutely fantastic! There are many such people all over as the one you just caught, REDHANDED, who attempt to stop or defer Great Developments, Projects, and even Policies. They stand in the way of Greatness for our Country, but we are winning, and winning BIG, and it is driving those that hate America absolutely CRAZY. We are proud of the Emily Millers of the World. You keep the Artificial News on their toes. They’ll probably never be honest again, like in the old days, but at least they know we’re watching! President DONALD J. TRUMP</p>",
-      "published": "Sun, 04 Oct 2026 12:22:25 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T14:30:32.903800Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42128",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893Thank you Emily Miller. You are absolutely fantastic! There are many such",
-      "media_identity": "attachment:117382613951699157:dbac779f2cb2657a.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893Thank you Emily Miller. You are absolutely fantastic! There are many such",
-      "truth_social_id": "117382613951699157",
-      "translation": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117382611962645893Thank エミリー・ミラーへ感謝する。君は本当に素晴らしい！君が今つかまえたような者が全国各地にたくさんいる。その悪事を赤っ恥でさらしながら、偉大な発展、プロジェクト、さらには政策を止めようとしたり遅延させようとしている。彼らは我が国の偉大さの邪魔をしているが、我々は勝利しており、それも大勝利しており、アメリカを憎む者たちは本当に気がおかしくなっている。世界のエミリー・ミラーたちを我々は誇りにしている。君たちは人工的なニュースを緊張させておく。奴らはおそらく昔のようにもう二度と正直になることはないだろうが、少なくとも奴らは我々が監視していることを知っている！ドナルド・J・トランプ大統領"
-    },
     "truth:117382615512488588": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18541,6 +18525,24 @@
       "source_fingerprint": "fp:https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL",
       "media_identity": "attachment:117502341995120080:",
       "translation": "https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL"
+    },
+    "truth:117502572828225324": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42717",
+      "source_text": "<p>FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies and Ideas. These American Patriots are being absolutely “blurred out” by the Media, and Fox is doing little to help. That’s the only reason this Race is close, if it is indeed close. President DONALD J. TRUMP</p>",
+      "published": "Sun, 25 Oct 2026 16:49:33 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-25T17:30:28.441733Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42717",
+      "first_seen": "2026-10-25T17:10:25.319817Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies a",
+      "truth_social_id": "117502572828225324",
+      "source_fingerprint": "fp:FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies a",
+      "media_identity": "attachment:117502572828225324:",
+      "translation": "フォックスニュースは共和党の候補者たちの対立者を放映することに時間を費やしすぎている。彼らは我が国を愛し、素晴らしい政策とアイデアを持つ。これらのアメリカの愛国者たちはメディアによって完全に「隠蔽」されており、フォックスはそれを助けるために何もしていない。これがこのレースが接戦である唯一の理由だ。ドナルド・J・トランプ大統領"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37564,22 +37566,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-25T03:30:29.410188Z"
-    },
-    "truth:117502572828225324": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42717",
-      "source_text": "<p>FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies and Ideas. These American Patriots are being absolutely “blurred out” by the Media, and Fox is doing little to help. That’s the only reason this Race is close, if it is indeed close. President DONALD J. TRUMP</p>",
-      "published": "Sun, 25 Oct 2026 16:49:33 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-25T17:20:21.894169Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42717",
-      "first_seen": "2026-10-25T17:10:25.319817Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies a",
-      "next_retry_at": "2026-10-25T17:30:21.894185Z",
-      "truth_social_id": "117502572828225324"
     }
   }
 }
