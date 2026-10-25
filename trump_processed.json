@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:American Manufacturing Expands At Fastest Pace Since 2022: \nhttps://www.breitbart.com/economy/2026/08/03/american-manufacturing-expands-at-fastest-pac",
-    "https://www.trumpstruth.org/statuses/40530",
-    "fp:FIRST ON FOX: DHS points to ‘common sense’ reason for collapsing crime: ‘No surprise’: \nhttps://www.foxnews.com/politics/dhs-points-common-sense-reaso",
     "https://www.trumpstruth.org/statuses/40529",
     "fp:Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on Denuclearization, Hormuz: \nhttps://www.breitbart.com/politics/2026/08/02/trump-deal-imminent",
     "https://www.trumpstruth.org/statuses/40527",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42713",
     "fp:They’ve been trying to get rid of Lisa Murkowski forever in Alaska, then she came up with the Ranked Choice Voting SCAM, and pulled a nice hot iron ou",
     "truth:117499446707365145",
-    "https://www.trumpstruth.org/statuses/42712"
+    "https://www.trumpstruth.org/statuses/42712",
+    "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
+    "truth:117500026912872650",
+    "https://www.trumpstruth.org/statuses/42714"
   ],
   "posts": {
-    "truth:117378383081064996": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42124",
-      "source_text": "<p>I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP</p>",
-      "published": "Sat, 03 Oct 2026 18:26:27 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-03T20:40:31.378396Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42124",
-      "first_seen": "2026-10-03T19:50:30.200153Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, ",
-      "truth_social_id": "117378383081064996",
-      "source_fingerprint": "fp:I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, ",
-      "media_identity": "attachment:117378383081064996:",
-      "translation": "私は他の人のことは知らないが、非常に優れた人々でいっぱいのテーブルが、義務的な時間変更の直後に夜間に家に帰る—そして暗い—ことを大嫌いだと私に言ったばかりだ。気分が沈む！その紳士の一人は、「暗闇の中で家に帰るのが本当に嫌だ」と述べた。また、犯罪多発の民主党支配州では、暗い中を歩いて家に帰ることはずっと危険でもある！ドナルド・J・トランプ大統領"
-    },
     "truth:117379305275420977": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18507,6 +18489,42 @@
         {
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myobm5vqb2oy",
           "rkey": "3myobm5vqb2oy"
+        }
+      ]
+    },
+    "truth:117500026912872650": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42714",
+      "source_text": "<p>Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT</p>",
+      "published": "Sun, 25 Oct 2026 06:02:05 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-25T07:40:29.022209Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42714",
+      "first_seen": "2026-10-25T07:10:27.948085Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
+      "truth_social_id": "117500026912872650",
+      "source_fingerprint": "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
+      "media_identity": "attachment:117500026912872650:",
+      "translation": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3myojtyyxmcd6",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
+        "createdAt": "2026-10-25T07:30:30.970558Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
+          "rkey": "3myojtyyxmcd6"
         }
       ]
     },
@@ -37532,79 +37550,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-25T03:30:29.410188Z"
-    },
-    "truth:117500026912872650": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42714",
-      "source_text": "<p>Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT</p>",
-      "published": "Sun, 25 Oct 2026 06:02:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-25T07:30:37.397026Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42714",
-      "first_seen": "2026-10-25T07:10:27.948085Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
-      "truth_social_id": "117500026912872650",
-      "source_fingerprint": "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
-      "media_identity": "attachment:117500026912872650:",
-      "translation": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
-          "cid": "bafyreideu3sluxmxoqovalqdjpno3d2bwooha7qju7jmeosd5cbj56gsfe"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
-          "cid": "bafyreideu3sluxmxoqovalqdjpno3d2bwooha7qju7jmeosd5cbj56gsfe"
-        },
-        "next_index": 1,
-        "last_rkey": "3myojtyyxmcd6",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
-          "createdAt": "2026-10-25T07:30:30.970558Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3myojtyyxmcd6",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
-          "createdAt": "2026-10-25T07:30:30.970558Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
-            "rkey": "3myojtyyxmcd6"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myojtyyxmcd6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
-        "createdAt": "2026-10-25T07:30:30.970558Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
-          "rkey": "3myojtyyxmcd6"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-25T07:35:37.397043Z"
     }
   }
 }
