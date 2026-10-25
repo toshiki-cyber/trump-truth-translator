@@ -37539,14 +37539,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42714",
       "source_text": "<p>Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT</p>",
       "published": "Sun, 25 Oct 2026 06:02:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-25T07:10:27.948119Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-25T07:15:28.757651Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42714",
       "first_seen": "2026-10-25T07:10:27.948085Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
-      "next_retry_at": "2026-10-25T07:15:27.948128Z",
+      "next_retry_at": "2026-10-25T07:25:28.757666Z",
       "truth_social_id": "117500026912872650"
     }
   }
