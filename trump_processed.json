@@ -37566,6 +37566,22 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-25T03:30:29.410188Z"
+    },
+    "truth:117504022227510179": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42719",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117462449149582042</span>To the people of Israel, to those who haven’t seen it, I am attaching the Endorsement I gave one week ago to your Prime Minister, Bibi Netanyahu. As everyone is aware, including the enemy, Bibi and I have had a great relationship in winning together. I did the Venezuelan attack, one of the most successful Military Operations in History but, before that, we did Operation Midnight Hammer, stopping the World’s Number One State Sponsor of Terror from obtaining a Nuclear Weapon. Then we did Operation Epic Fury, and Iran now has No Navy, No Air Force, and both their Military and Economy are in shambles, including the fact that Iran’s Inflation is at 301%. The Naval Blockade has precluded them from getting Oil, and two levels of leadership, both Military and otherwise, are gone. When you go to the Polls please remember that Bibi has been an outstanding Warrior Prime Minister! Israel was called The Little Satan, with the United States being called The Big Satan, by some very evil people. There can no longer be the chant heard around the World of “Death to America, Death to Israel,” and there won’t be. Vote for Bibi Netanyahu for Prime Minister, we have to finish the job that we started! President DONALD J. TRUMP</p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42411\">Donald J. Trump</a></p><blockquote><p>To the Great People of Israel:</p><p>Bibi Netanyahu has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran, with its 51 year old chant, “Death to Israel, Death to America! We will destroy the Little Satan and the Big Satan.” What Country can survive when things such as this are allowed to be said, because eventually, they always end up being true? It would have been only a question of time until Iran would have put that ominous phrase into effect, but they have been systematically destroyed, both Militarily and Financially, and unless they change their ways, rapidly, we will soon finish the job. If Israel has the wrong Leader, which would be anyone other than Bibi, America will have to do this work ourselves, and I am not inclined to do so. Bibi Netanyahu has been Strong, Brave, and Brilliant in the face of tremendous opposition, including that coming from even Israel, itself. Despite all of that, he has endured and, in fact, he has thrived! I have watched Bibi under the most trying of times. Normal men or women in such situations would have wilted under the pressure — But Bibi did not wilt, he actually got stronger, and maintains that same Strength today. This is the kind of Partner that the United States of America is demanding of Israel, a Country for which it has done so much. Please let this Letter serve to represent my Complete and Total Endorsement of Bibi Netanyahu in his upcoming Race for Re-Election as Prime Minister of Israel. BIBI NETANYAHU WILL NEVER LET YOU DOWN! Thank you for your attention to this matter.</p><p>DONALD J. TRUMP<br />PRESIDENT OF THE UNITED STATES OF AMERICA</p></blockquote>",
+      "published": "Sun, 25 Oct 2026 22:58:09 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-25T23:10:26.547833Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42719",
+      "first_seen": "2026-10-25T23:10:26.547795Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117462449149582042To the people of Israel, to those who haven’t seen it, I am attaching the",
+      "next_retry_at": "2026-10-25T23:15:26.547842Z",
+      "truth_social_id": "117504022227510179"
     }
   }
 }
