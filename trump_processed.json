@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:McMahon Asks US Colleges to Pledge Campus Reforms by End of 2026: \nhttps://www.bloomberg.com/news/articles/2026-08-03/mcmahon-asks-colleges-to-pledge-",
-    "https://www.trumpstruth.org/statuses/40538",
-    "fp:Campus free speech hits 20-year high under Trump administration: \nhttps://www.washingtontimes.com/news/2026/aug/3/fire-report-finds-free-speech-improv",
     "https://www.trumpstruth.org/statuses/40537",
     "fp:It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carol",
     "https://www.trumpstruth.org/statuses/40539",
@@ -5000,63 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42714",
     "fp:Conservative Party wins in British Columbia for first time in almost 100 years: \nhttps://justthenews.com/world/canada/conservative-party-wins-british-",
     "truth:117501759696367397",
-    "https://www.trumpstruth.org/statuses/42715"
+    "https://www.trumpstruth.org/statuses/42715",
+    "fp:https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL",
+    "truth:117502341995120080",
+    "https://www.trumpstruth.org/statuses/42716"
   ],
   "posts": {
-    "truth:117382611360859686": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42130",
-      "source_text": "<p>How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors, aren’t they?</p>",
-      "published": "Sun, 04 Oct 2026 12:21:46 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T13:50:36.381539Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42130",
-      "source_fingerprint": "fp:How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors,",
-      "media_identity": "attachment:117382611360859686:02e52fd1552f6448.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:How much is she being paid, and by whom? She’s at all of my developments protesting. Others, likewise, are the same people. These are paid protestors,",
-      "truth_social_id": "117382611360859686",
-      "translation": "彼女はいくら払われているんだ、誰から？彼女は俺の開発プロジェクト全部で抗議活動をしている。他の人たちも同じように、同じ連中だ。これは雇われた抗議活動家だろう？",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2fbltua2mr",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mx2fbltua2mr",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "彼女はいくら払われているんだ、誰から？彼女は俺の開発プロジェクト全部で抗議活動をしている。他の人たちも同じように、同じ連中だ。これは雇われた抗議活動家だろう？",
-        "createdAt": "2026-10-04T13:50:29.608878Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreidf6oeyc66jswgula5vudl7e5dvjrrwgek3qbbw7uhnbnjxc55efi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 254206
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1260,
-                "height": 816
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2fbltua2mr",
-          "rkey": "3mx2fbltua2mr"
-        }
-      ]
-    },
     "truth:117382613951699157": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18577,6 +18523,24 @@
           "rkey": "3mypchyd5ws7l"
         }
       ]
+    },
+    "truth:117502341995120080": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42716",
+      "source_text": "<p><a href=\"https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/tVCs0-N4XiY?s</span><span class=\"invisible\">i=qvAuIZc2WDP8MCEL</span></a></p>",
+      "published": "Sun, 25 Oct 2026 15:50:50 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-25T17:25:25.640355Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42716",
+      "first_seen": "2026-10-25T17:10:24.528551Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL",
+      "truth_social_id": "117502341995120080",
+      "source_fingerprint": "fp:https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL",
+      "media_identity": "attachment:117502341995120080:",
+      "translation": "https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37600,22 +37564,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-25T03:30:29.410188Z"
-    },
-    "truth:117502341995120080": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42716",
-      "source_text": "<p><a href=\"https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/tVCs0-N4XiY?s</span><span class=\"invisible\">i=qvAuIZc2WDP8MCEL</span></a></p>",
-      "published": "Sun, 25 Oct 2026 15:50:50 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-25T17:15:25.096069Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42716",
-      "first_seen": "2026-10-25T17:10:24.528551Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://www.youtube.com/live/tVCs0-N4XiY?si=qvAuIZc2WDP8MCEL",
-      "next_retry_at": "2026-10-25T17:25:25.096086Z",
-      "truth_social_id": "117502341995120080"
     },
     "truth:117502572828225324": {
       "post_status": "RETRY",
