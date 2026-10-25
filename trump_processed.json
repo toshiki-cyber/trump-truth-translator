@@ -37557,14 +37557,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42715",
       "source_text": "<p>Conservative Party wins in British Columbia for first time in almost 100 years: <a href=\"https://justthenews.com/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/world/canada/c</span><span class=\"invisible\">onservative-party-wins-british-columbia-first-time-almost-100-years</span></a></p>",
       "published": "Sun, 25 Oct 2026 13:22:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-25T15:15:24.814318Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-25T15:25:25.045714Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42715",
       "first_seen": "2026-10-25T15:15:24.814280Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Conservative Party wins in British Columbia for first time in almost 100 years: \nhttps://justthenews.com/world/canada/conservative-party-wins-british-",
-      "next_retry_at": "2026-10-25T15:20:24.814327Z",
+      "next_retry_at": "2026-10-25T15:35:25.045726Z",
       "truth_social_id": "117501759696367397"
     }
   }
