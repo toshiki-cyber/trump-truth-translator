@@ -37512,24 +37512,36 @@
       "next_retry_at": "2026-10-25T03:30:29.410188Z"
     },
     "truth:117499446707365145": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42712",
       "source_text": "<p>They’ve been trying to get rid of Lisa Murkowski forever in Alaska, then she came up with the Ranked Choice Voting SCAM, and pulled a nice hot iron out of the fire. Everyone thought she came in second or third, but then she “won.” Miracles happen! President DONALD J. TRUMP</p>",
       "published": "Sun, 25 Oct 2026 03:34:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-25T05:10:31.848393Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42712"
+      "retry_count": 1,
+      "updated_at": "2026-10-25T05:20:23.566931Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42712",
+      "first_seen": "2026-10-25T05:20:23.566890Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:They’ve been trying to get rid of Lisa Murkowski forever in Alaska, then she came up with the Ranked Choice Voting SCAM, and pulled a nice hot iron ou",
+      "next_retry_at": "2026-10-25T05:25:23.566941Z",
+      "truth_social_id": "117499446707365145"
     },
     "truth:117499714815544938": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42713",
       "source_text": "<p>Obama was a grossly incompetent President! He paid off Iran with $Billions, and gave them a road to a Nuclear Weapon. He said that Crooked Hillary Clinton was going to WIN, he campaigned hard for her, and she lost in all directions and ways. He then campaigned full out for Kamala, and likewise, she lost.  Now he’s campaigning for a Muslim Brotherhood Jihadist, who hates Jews and Blacks and AMERICANS and TRUMP, and he is going to lose, also. He’s a Fake Doctor, who runs what is considered to be the WORST CLINIC IN AMERICA. I won Michigan, BIG, have brought back the Car Industry, the Air Force Base, and everything else. Also, more jobs than ever before. Michigan doesn’t want an arrogant, Open Borders, Fake Doctor, Jihadist, whose reputation will only get worse as more information is revealed - And there’s plenty. VOTE FOR MIKE ROGERS! He will never let you down! President DONALD J. TRUMP</p>",
       "published": "Sun, 25 Oct 2026 04:42:43 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-25T05:10:31.848231Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42713"
+      "retry_count": 1,
+      "updated_at": "2026-10-25T05:20:24.113026Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42713",
+      "first_seen": "2026-10-25T05:20:24.112981Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Obama was a grossly incompetent President! He paid off Iran with $Billions, and gave them a road to a Nuclear Weapon. He said that Crooked Hillary Cli",
+      "next_retry_at": "2026-10-25T05:25:24.113036Z",
+      "truth_social_id": "117499714815544938"
     }
   }
 }
