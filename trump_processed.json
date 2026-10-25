@@ -37623,14 +37623,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42717",
       "source_text": "<p>FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies and Ideas. These American Patriots are being absolutely “blurred out” by the Media, and Fox is doing little to help. That’s the only reason this Race is close, if it is indeed close. President DONALD J. TRUMP</p>",
       "published": "Sun, 25 Oct 2026 16:49:33 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-25T17:10:25.319851Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-25T17:20:21.894169Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42717",
       "first_seen": "2026-10-25T17:10:25.319817Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies a",
-      "next_retry_at": "2026-10-25T17:15:25.319860Z",
+      "next_retry_at": "2026-10-25T17:30:21.894185Z",
       "truth_social_id": "117502572828225324"
     }
   }
