@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40567",
-    "https://www.trumpstruth.org/statuses/40566",
-    "https://www.trumpstruth.org/statuses/40580",
     "https://www.trumpstruth.org/statuses/40579",
     "https://www.trumpstruth.org/statuses/40578",
     "https://www.trumpstruth.org/statuses/40577",
@@ -5000,24 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42732",
     "fp:The Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS initiative to RECRUIT and RETAIN Nurses for Nursing Homes! This Federal and St",
     "truth:117509498609678965",
-    "https://www.trumpstruth.org/statuses/42750"
+    "https://www.trumpstruth.org/statuses/42750",
+    "fp:Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!\n \nTom bravely served our Co",
+    "truth:117509182308947769",
+    "https://www.trumpstruth.org/statuses/42752"
   ],
   "posts": {
-    "truth:117383728000348150": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42144",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:05:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T18:40:29.785549Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42144",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117383728000348150:060968558815e11b.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117383728000348150",
-      "translation": ""
-    },
     "truth:117383733622630931": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18557,6 +18542,24 @@
       "fingerprint": "fp:The Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS initiative to RECRUIT and RETAIN Nurses for Nursing Homes! This Federal and St",
       "truth_social_id": "117509498609678965",
       "translation": "トランプ政権は、看護職員の採用・定着を支援する2億5000万ドル以上のイニシアティブの実施を誇りを持って発表する！この連邦・州による取り組みは、農村地域で働く者を含め、全国の数千人の看護師および看護学生を支援する。CMS新設の「看護職員のための看護施設イニシアティブ」を通じて、看護師は農村地域または人員不足の施設での勤務に対して最大5万ドルの給付金を獲得できる。このファンドは、私が乗り出し、素晴らしい州知事たちが戦いに加わるまでは、この金額の3分の1にも満たなかった。今や、より多くの素晴らしい看護師たちが、素晴らしいシニア層を支援した功績に対して報酬を受けることができる。これはアメリカにとって大きな勝利だ！我が国の歴史において、私の政権ほど看護師と高齢者層のために尽くした者は誰もいない。このたびはご注目いただきありがとうございます。ドナルド・J・トランプ大統領\nhttps://nursesfornursinghomes.cms.govhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18713/browser-safe.mp4"
+    },
+    "truth:117509182308947769": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42752",
+      "source_text": "<p>Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!<br /> <br />Tom bravely served our Country as an Army Helicopter Pilot and, in Congress, he is fighting hard to Grow our Economy, Cut Taxes, Keep our Border SECURE, Support Law Enforcement, Stand with our Military/Vets, and Protect our always under siege Second Amendment. Together, we will ensure PEACE THROUGH STRENGTH.<br /> <br />Tom’s opponent, William Lawrence, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. William Lawrence is Reckless, Radical, and Dangerous!<br /> <br />Tom Barrett has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR TOM — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/michigan/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/michigan/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:50:25 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T23:35:31.072017Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42752",
+      "first_seen": "2026-10-26T23:10:27.951270Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!\n \nTom bravely served our Co",
+      "truth_social_id": "117509182308947769",
+      "source_fingerprint": "fp:Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!\n \nTom bravely served our Co",
+      "media_identity": "attachment:117509182308947769:",
+      "translation": "ミシガン州第7選挙区の素晴らしい人民のための傑出した下院議員、トム・バレットは本当に素晴らしい代表だ！\n\nトムは陸軍ヘリコプターパイロットとして勇敢に祖国に仕えており、議会では経済成長、減税、国境の厳格な警備維持、法執行機関の支持、軍と退役軍人への支持、常に攻撃にさらされている修正第2条の保護のために全力で戦っている。我々は一緒に「強さによる平和」を確保する。\n\nトムの対立候補ウィリアム・ローレンスは、チップスへの非課税、残業代への非課税、社会保障への非課税に反対する過激派左翼民主党員だ。もし彼とダモクラートが権力を握ることがあれば、これらすべてが廃止される。彼は大幅な増税、国境開放、女性スポーツへの男性参加、そして子どもへのトランスジェンダー変造を望んでいる。ウィリアム・ローレンスは無謀で過激で危険だ！\n\nトム・バレットは再選に向けて私の完全かつ絶対的な支持を得ている。投票に行ってトムに投票しろ—彼は絶対にお前たちを失望させることはない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/michigan/"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37676,22 +37679,6 @@
       "published": "Mon, 26 Oct 2026 20:52:11 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-26T23:10:26.638129Z"
-    },
-    "truth:117509182308947769": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42752",
-      "source_text": "<p>Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!<br /> <br />Tom bravely served our Country as an Army Helicopter Pilot and, in Congress, he is fighting hard to Grow our Economy, Cut Taxes, Keep our Border SECURE, Support Law Enforcement, Stand with our Military/Vets, and Protect our always under siege Second Amendment. Together, we will ensure PEACE THROUGH STRENGTH.<br /> <br />Tom’s opponent, William Lawrence, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. William Lawrence is Reckless, Radical, and Dangerous!<br /> <br />Tom Barrett has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR TOM — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/michigan/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/michigan/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:50:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T23:20:29.376638Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42752",
-      "first_seen": "2026-10-26T23:10:27.951270Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District!\n \nTom bravely served our Co",
-      "next_retry_at": "2026-10-26T23:30:29.376653Z",
-      "truth_social_id": "117509182308947769"
     },
     "truth:117509183748971477": {
       "post_status": "RETRY",
