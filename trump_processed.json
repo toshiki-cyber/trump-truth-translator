@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40558",
-    "https://www.trumpstruth.org/statuses/40557",
-    "https://www.trumpstruth.org/statuses/40556",
     "https://www.trumpstruth.org/statuses/40565",
     "https://www.trumpstruth.org/statuses/40564",
     "https://www.trumpstruth.org/statuses/40563",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42729",
     "fp:Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: \nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-bl",
     "truth:117504850047003375",
-    "https://www.trumpstruth.org/statuses/42730"
+    "https://www.trumpstruth.org/statuses/42730",
+    "fp:NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native",
+    "truth:117504860004217059",
+    "https://www.trumpstruth.org/statuses/42731"
   ],
   "posts": {
-    "truth:117383725569653665": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42147",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:05:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T18:15:42.492939Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42147",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117383725569653665:023769a687f215af.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117383725569653665",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2v4bpr4co7",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mx2v4bpr4co7",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-04T18:15:35.512081Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiaby4dncpzp6bkglchkhevacy2co4vtvlvbci3tfwlpgsifzqodgu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 166969
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 816,
-                "height": 1260
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2v4bpr4co7",
-          "rkey": "3mx2v4bpr4co7"
-        }
-      ]
-    },
     "truth:117383724226313929": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18605,6 +18552,24 @@
       "source_fingerprint": "fp:Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: \nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-bl",
       "media_identity": "attachment:117504850047003375:",
       "translation": "イランの石油相が米国の経済封鎖の最中に辞任。ハミド・ボワルドが暫定責任者に就任：\nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-blockade-hamid-bovard-takes-interim-charge"
+    },
+    "truth:117504860004217059": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42731",
+      "source_text": "<p>NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: <a href=\"https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/</span></a></p>",
+      "published": "Mon, 26 Oct 2026 02:31:12 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T05:30:30.706834Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42731",
+      "first_seen": "2026-10-26T05:15:26.958015Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native",
+      "truth_social_id": "117504860004217059",
+      "source_fingerprint": "fp:NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native",
+      "media_identity": "attachment:117504860004217059:",
+      "translation": "ニューヨーク州、マッサペクアにとって「大勝利」となるネイティブアメリカンのロゴ禁止措置の一部撤廃を計画：\nhttps://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37679,22 +37644,6 @@
       "truth_social_id": "117504332756417928",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-26T08:05:27.888746Z"
-    },
-    "truth:117504860004217059": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42731",
-      "source_text": "<p>NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: <a href=\"https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/</span></a></p>",
-      "published": "Mon, 26 Oct 2026 02:31:12 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T05:20:28.015533Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42731",
-      "first_seen": "2026-10-26T05:15:26.958015Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native",
-      "next_retry_at": "2026-10-26T05:30:28.015550Z",
-      "truth_social_id": "117504860004217059"
     }
   }
 }
