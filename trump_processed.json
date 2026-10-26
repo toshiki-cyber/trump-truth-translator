@@ -37686,14 +37686,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42731",
       "source_text": "<p>NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: <a href=\"https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/</span></a></p>",
       "published": "Mon, 26 Oct 2026 02:31:12 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-26T05:15:26.958044Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T05:20:28.015533Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42731",
       "first_seen": "2026-10-26T05:15:26.958015Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:NY plans to drop part of Native American logo ban in ‘huge victory’ for Massapequa: \nhttps://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native",
-      "next_retry_at": "2026-10-26T05:20:26.958053Z",
+      "next_retry_at": "2026-10-26T05:30:28.015550Z",
       "truth_social_id": "117504860004217059"
     }
   }
