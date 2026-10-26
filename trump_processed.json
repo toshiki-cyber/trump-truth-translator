@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40576",
-    "https://www.trumpstruth.org/statuses/40575",
-    "https://www.trumpstruth.org/statuses/40574",
     "https://www.trumpstruth.org/statuses/40573",
     "https://www.trumpstruth.org/statuses/40572",
     "https://www.trumpstruth.org/statuses/40583",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42752",
     "fp:It is my Great Honor to endorse America First Patriot, “Captain” Mike Bouchard, who is running to represent the wonderful people of Michigan’s 10th Co",
     "truth:117509183748971477",
-    "https://www.trumpstruth.org/statuses/42751"
+    "https://www.trumpstruth.org/statuses/42751",
+    "fp:It is my Great Honor to endorse Highly Respected State Senator, Carrie Buck, who is running to represent the fantastic people of Nevada’s 1st Congress",
+    "truth:117509186034962819",
+    "https://www.trumpstruth.org/statuses/42749"
   ],
   "posts": {
-    "truth:117383732362183894": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42143",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:06:51 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T18:55:31.992660Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42143",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117383732362183894:65e9cea3c5379b09.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117383732362183894",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2v7ekrvsx6",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mx2v7ekrvsx6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-04T18:45:33.002355Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiffslxl2aftoxu45h6jwyr34rm65ep2xt7okhxecusejki6n44uzi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 288952
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1256,
-                "height": 818
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2v7ekrvsx6",
-          "rkey": "3mx2v7ekrvsx6"
-        }
-      ]
-    },
     "truth:117383734948790684": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18563,6 +18510,24 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, “Captain” Mike Bouchard, who is running to represent the wonderful people of Michigan’s 10th Co",
       "media_identity": "attachment:117509183748971477:",
       "translation": "ミシガン州第10下院地区の素晴らしい人々を代表して立候補している、アメリカ第一愛国者「キャプテン」マイク・ブーシャールを支持することは、私の大きな栄誉である。\n\n3代目ミシガン州出身者で、勇敢な米陸軍退役軍人、ブロンズスター受章者のマイクは、州と国に対して栄誉を持って奉仕してきたし、その同じ闘志を米国議会にもたらすだろう。次期下院議員として、マイクは経済成長、減税と規制削減、米国製品推進、米国エネルギー支配の解放、国境の厳重防備、移民犯罪の阻止、素晴らしい我々の軍・退役軍人の強化、選挙廉潔性の向上、そして常に標的にされている修正第2条の防衛のために不屈に戦うだろう。\n\nマイクの対立候補であるクリスティーナ・ハインズは、チップに対する非課税、残業に対する非課税、社会保障に対する非課税に反対する過激左派民主党員であり、もし彼女とダモクラート共がもし権力を手にするなら、これらすべてのものは廃止されるだろう。彼女は大規模な増税、開放的な国境、男性がウィメンズスポーツに参加すること、そして子どもたちのトランスジェンダー切除を望んでいる。クリスティーナ・ハインズは無責任で、過激で、危険である。\n\nマイク・ブーシャールは、ミシガン州第10下院地区の次期下院議員となるべく、私の完全かつ全面的支持を得ている。投票に行ってマイクに投票してくれ――彼は絶対にお前たちを失望させないだろう！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/michigan/"
+    },
+    "truth:117509186034962819": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42749",
+      "source_text": "<p>It is my Great Honor to endorse Highly Respected State Senator, Carrie Buck, who is running to represent the fantastic people of Nevada’s 1st Congressional District.<br /> <br />Carrie is running against a Career Politician named Dina Titus, who tried to raise Taxes by over 4 Trillion Dollars, and voted against all of our Tax Cuts, notably NO TAX ON TIPS for the Working Men and Women of Nevada! Dina Titus wants to abolish our Borders, stop deporting Criminal Illegal Aliens, and supports dangerous “Soft on Crime” Policies like cashless bail that let repeat Violent Criminals roam free on our streets. She voted to allow Men in Women’s Sports, is in favor of the transgender mutilization of children, and voted AGAINST Voter I.D., but in favor of allowing Illegal Aliens to vote in our Sacred Elections. She is Reckless, Radical, and Dangerous!<br /> <br />In contrast, a Successful School Principal and Civic Leader, prior to becoming a distinguished State Senator, Carrie Buck has dedicated her life to serving her Community. As your next Congresswoman, she will fight hard to Grow our Economy, Cut Taxes and Regulations, Promote NO TAX ON TIPS, Champion School Choice, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, and Protect our always under siege Second Amendment.<br /> <br />Carrie Buck has my Complete and Total Endorsement to be the next Representative from Nevada’s 1st Congressional District. GET OUT AND VOTE FOR CARRIE — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/nevada/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/nevada/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:51:22 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T23:45:31.929138Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42749",
+      "first_seen": "2026-10-26T23:10:29.025077Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse Highly Respected State Senator, Carrie Buck, who is running to represent the fantastic people of Nevada’s 1st Congress",
+      "truth_social_id": "117509186034962819",
+      "source_fingerprint": "fp:It is my Great Honor to endorse Highly Respected State Senator, Carrie Buck, who is running to represent the fantastic people of Nevada’s 1st Congress",
+      "media_identity": "attachment:117509186034962819:",
+      "translation": "私はネバダ州第1下院選挙区の素晴らしい人々を代表するために立候補している、高く尊敬されるキャリー・バック州上院議員を推薦できることは非常な名誉である。\n\nキャリーは、4兆ドルを超える増税を試みた職業政治家のディナ・タイタスと対戦している。ディナ・タイタスは我々のすべての減税に反対票を投じており、特にネバダの労働者たちへのチップへの非課税に反対している！ディナ・タイタスは国境を廃止したい、犯罪を犯した不法移民の強制送還を停止したい、そして現金を持たない保釈金のような危険な「犯罪に甘い」政策を支持している。これらの政策は我々の街で繰り返す暴力的な犯罪者を野放しにしている。彼女は女性スポーツへの男性参加を認め、子どもへのトランスジェンダー医療を支持し、投票者IDに反対票を投じ、一方で不法移民が我々の神聖な選挙で投票することを認めることに賛成している。彼女は無責任で、急進的で、危険だ！\n\n対照的に、優秀な学校長兼市民指導者であり、その後傑出した州上院議員となったキャリー・バックは、自分の人生をコミュニティへの奉仕に捧げてきた。次期下院議員として、彼女は経済を成長させ、税金と規制を削減し、チップへの非課税を推し進め、学校選択制を支持し、米国製造を推進し、国境を厳重に守り、移民犯罪を阻止し、我々の勇敢な軍隊と退役軍人を強化し、力による平和を確保し、常に圧力下にある我々の第二修正条項を守るために全力で戦うであろう。\n\nキャリー・バックはネバダ州第1下院選挙区の次期代表に完全かつ全面的に私の推薦を獲得している。キャリーに投票するために投票所に行け—彼女は絶対にあなたを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/nevada/"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37682,22 +37647,6 @@
       "published": "Mon, 26 Oct 2026 20:52:11 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-26T23:10:26.638129Z"
-    },
-    "truth:117509186034962819": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42749",
-      "source_text": "<p>It is my Great Honor to endorse Highly Respected State Senator, Carrie Buck, who is running to represent the fantastic people of Nevada’s 1st Congressional District.<br /> <br />Carrie is running against a Career Politician named Dina Titus, who tried to raise Taxes by over 4 Trillion Dollars, and voted against all of our Tax Cuts, notably NO TAX ON TIPS for the Working Men and Women of Nevada! Dina Titus wants to abolish our Borders, stop deporting Criminal Illegal Aliens, and supports dangerous “Soft on Crime” Policies like cashless bail that let repeat Violent Criminals roam free on our streets. She voted to allow Men in Women’s Sports, is in favor of the transgender mutilization of children, and voted AGAINST Voter I.D., but in favor of allowing Illegal Aliens to vote in our Sacred Elections. She is Reckless, Radical, and Dangerous!<br /> <br />In contrast, a Successful School Principal and Civic Leader, prior to becoming a distinguished State Senator, Carrie Buck has dedicated her life to serving her Community. As your next Congresswoman, she will fight hard to Grow our Economy, Cut Taxes and Regulations, Promote NO TAX ON TIPS, Champion School Choice, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, and Protect our always under siege Second Amendment.<br /> <br />Carrie Buck has my Complete and Total Endorsement to be the next Representative from Nevada’s 1st Congressional District. GET OUT AND VOTE FOR CARRIE — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/nevada/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/nevada/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:51:22 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T23:20:30.081075Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42749",
-      "first_seen": "2026-10-26T23:10:29.025077Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse Highly Respected State Senator, Carrie Buck, who is running to represent the fantastic people of Nevada’s 1st Congress",
-      "next_retry_at": "2026-10-26T23:30:30.081088Z",
-      "truth_social_id": "117509186034962819"
     },
     "truth:117509187649468671": {
       "post_status": "RETRY",
