@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40554",
-    "https://www.trumpstruth.org/statuses/40560",
-    "https://www.trumpstruth.org/statuses/40559",
     "https://www.trumpstruth.org/statuses/40558",
     "https://www.trumpstruth.org/statuses/40557",
     "https://www.trumpstruth.org/statuses/40556",
@@ -5000,24 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42725",
     "fp:https://truthsocial.com/group/memes/statuses/117473154555335665",
     "truth:117504732598348445",
-    "https://www.trumpstruth.org/statuses/42729"
+    "https://www.trumpstruth.org/statuses/42729",
+    "fp:Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: \nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-bl",
+    "truth:117504850047003375",
+    "https://www.trumpstruth.org/statuses/42730"
   ],
   "posts": {
-    "truth:117383723154946782": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42149",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:04:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T18:05:33.472338Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42149",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117383723154946782:91dd12d55abebf2f.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117383723154946782",
-      "translation": ""
-    },
     "truth:117383725569653665": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18602,6 +18587,24 @@
       "source_fingerprint": "fp:https://truthsocial.com/group/memes/statuses/117473154555335665",
       "media_identity": "attachment:117504732598348445:",
       "translation": "https://truthsocial.com/group/memes/statuses/117473154555335665"
+    },
+    "truth:117504850047003375": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42730",
+      "source_text": "<p>Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: <a href=\"https://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-blockade-hamid-bovard-takes-interim-charge\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openthemagazine.com/world/iran</span><span class=\"invisible\">-oil-minister-resigns-amid-us-blockade-hamid-bovard-takes-interim-charge</span></a></p>",
+      "published": "Mon, 26 Oct 2026 02:28:40 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T03:40:27.201229Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42730",
+      "first_seen": "2026-10-26T03:10:25.897811Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: \nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-bl",
+      "truth_social_id": "117504850047003375",
+      "source_fingerprint": "fp:Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: \nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-bl",
+      "media_identity": "attachment:117504850047003375:",
+      "translation": "イランの石油相が米国の経済封鎖の最中に辞任。ハミド・ボワルドが暫定責任者に就任：\nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-blockade-hamid-bovard-takes-interim-charge"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37676,22 +37679,6 @@
       "truth_social_id": "117504332756417928",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-26T03:55:31.711368Z"
-    },
-    "truth:117504850047003375": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42730",
-      "source_text": "<p>Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: <a href=\"https://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-blockade-hamid-bovard-takes-interim-charge\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openthemagazine.com/world/iran</span><span class=\"invisible\">-oil-minister-resigns-amid-us-blockade-hamid-bovard-takes-interim-charge</span></a></p>",
-      "published": "Mon, 26 Oct 2026 02:28:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T03:20:27.769868Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42730",
-      "first_seen": "2026-10-26T03:10:25.897811Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: \nhttps://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-bl",
-      "next_retry_at": "2026-10-26T03:30:27.769884Z",
-      "truth_social_id": "117504850047003375"
     }
   }
 }
