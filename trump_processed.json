@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037771483072269The new President Donald J. Trump Bridge in Tennessee. A Great Honor!",
-    "https://www.trumpstruth.org/statuses/40545",
-    "fp:HAPPY 236th BIRTHDAY TO THE UNITED STATES COAST GUARD!\n \nToday we honor the incredible Men and Women of the United States Coast Guard, who protect our",
     "https://www.trumpstruth.org/statuses/40549",
     "fp:The very complex and expensive structure, being built for the United States Military, at the East Wing of the White House. This picture does not yet i",
     "https://www.trumpstruth.org/statuses/40550",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42722",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
     "truth:117504177990449108",
-    "https://www.trumpstruth.org/statuses/42723"
+    "https://www.trumpstruth.org/statuses/42723",
+    "fp:The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring par",
+    "truth:117504135188044166",
+    "https://www.trumpstruth.org/statuses/42720"
   ],
   "posts": {
-    "truth:117383040827830000": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42134",
-      "source_text": "<p>Deranged Jack Smith is a Crooked Prosecutor! President DJT</p><p>Ex-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’:<br /><a href=\"https://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/fed</span><span class=\"invisible\">eral-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power</span></a></p>",
-      "published": "Sun, 04 Oct 2026 14:10:59 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T16:25:39.253120Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42134",
-      "first_seen": "2026-10-04T15:45:28.755839Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Deranged Jack Smith is a Crooked Prosecutor! President DJT\nEx-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People F",
-      "truth_social_id": "117383040827830000",
-      "source_fingerprint": "fp:Deranged Jack Smith is a Crooked Prosecutor! President DJT\nEx-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People F",
-      "media_identity": "attachment:117383040827830000:",
-      "translation": "頭のおかしいジャック・スミスは腐った検察官だ！トランプ大統領\n\n元特別検察官ジャック・スミス、スプリングスティーンの「ノー・キングス」シャツを「Power to the People Fest」で着用：\nhttps://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2levfyuknn",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mx2levfyuknn",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "頭のおかしいジャック・スミスは腐った検察官だ！トランプ大統領\n\n元特別検察官ジャック・スミス、スプリングスティーンの「ノー・キングス」シャツを「Power to the People Fest」で着用：\nhttps://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power",
-        "createdAt": "2026-10-04T16:25:31.825363Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 252,
-              "byteEnd": 373
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/federal-agencies/ex-special-counsel-jack-smith-sports-springsteen-no-kings-shirt-power",
-            "title": "Ex-Special Counsel Jack Smith sports Springsteen ‘No Kings’ shirt at ‘Power to the People Fest’",
-            "description": "The event was held in Maryland to demonstrate the “power everyday human beings have when they come together — through music, art, community and action — to shape our country and our planet on, and beyond, Election Day.”",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreialxvjixde6u3jsbytth3hq375vxmbppkxskvq2lqwv3ez43ezhxu"
-              },
-              "mimeType": "image/jpeg",
-              "size": 78299
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2levfyuknn",
-          "rkey": "3mx2levfyuknn"
-        }
-      ]
-    },
     "truth:117383043797111826": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18593,6 +18525,24 @@
           "rkey": "3myqetp53lkp4"
         }
       ]
+    },
+    "truth:117504135188044166": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42720",
+      "source_text": "<p>The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring partnership in combating terrorism, building on our historic success in defeating ISIS in Libya together. We respect the Libyan people and the sacrifices that brave Libyans made fighting ISIS, the common enemy of both our peoples, but Libya cannot remain a corridor for illegal migration, and this must end now.</p><p>The United States remains firmly committed to strengthening our bilateral relationship, supporting the long-awaited unification of Libya and Libya’s institutions, and standing with the Libyan people as they transition toward successful national elections. The Libyan people have been victims of terrorism and foreign meddling for years. I want them to unite, take back their sovereignty, and have the peaceful, prosperous future they deserve! President DONALD J. TRUMP</p>",
+      "published": "Sun, 25 Oct 2026 23:26:52 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T01:35:33.634112Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42720",
+      "first_seen": "2026-10-26T01:15:25.907808Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring par",
+      "truth_social_id": "117504135188044166",
+      "source_fingerprint": "fp:The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring par",
+      "media_identity": "attachment:117504135188044166:",
+      "translation": "リビア国民は誇り高く、回復力があり、もてなしの心を持つ人々であり、平和と繁栄を受けるに値する。米国とリビアはテロとの戦いにおいて強固で継続的なパートナーシップを持っており、リビアにおけるISIS打倒での歴史的な成功を礎としている。我々はリビア国民と、両国民の共通の敵であるISISと戦うために払ったリビア人の勇敢な犠牲を尊重している。しかし、リビアは違法移民の通路であり続けることはできず、これは今すぐに終わらなければならない。\n\n米国は二国間関係の強化、長年待たれていたリビアの統一とその機関の構築を支援し、成功する国家選挙への移行に向けてリビア国民と共に歩むことに固く約束している。リビア国民は長年テロと外国の干渉の被害者だった。私は彼らが団結し、主権を取り戻し、彼らが受けるに値する平和で繁栄した将来を手にしてほしいのだ。\n\nドナルド・J・トランプ大統領"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37616,22 +37566,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-25T03:30:29.410188Z"
-    },
-    "truth:117504135188044166": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42720",
-      "source_text": "<p>The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring partnership in combating terrorism, building on our historic success in defeating ISIS in Libya together. We respect the Libyan people and the sacrifices that brave Libyans made fighting ISIS, the common enemy of both our peoples, but Libya cannot remain a corridor for illegal migration, and this must end now.</p><p>The United States remains firmly committed to strengthening our bilateral relationship, supporting the long-awaited unification of Libya and Libya’s institutions, and standing with the Libyan people as they transition toward successful national elections. The Libyan people have been victims of terrorism and foreign meddling for years. I want them to unite, take back their sovereignty, and have the peaceful, prosperous future they deserve! President DONALD J. TRUMP</p>",
-      "published": "Sun, 25 Oct 2026 23:26:52 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T01:25:26.428205Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42720",
-      "first_seen": "2026-10-26T01:15:25.907808Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring par",
-      "next_retry_at": "2026-10-26T01:35:26.428221Z",
-      "truth_social_id": "117504135188044166"
     },
     "truth:117504180930398441": {
       "post_status": "POST_VERIFY_PENDING",
