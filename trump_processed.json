@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40547",
-    "https://www.trumpstruth.org/statuses/40546",
-    "https://www.trumpstruth.org/statuses/40548",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037771483072269The new President Donald J. Trump Bridge in Tennessee. A Great Honor!",
     "https://www.trumpstruth.org/statuses/40545",
     "fp:HAPPY 236th BIRTHDAY TO THE UNITED STATES COAST GUARD!\n \nToday we honor the incredible Men and Women of the United States Coast Guard, who protect our",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42719",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18706/e489a11f32de0ced-ad1485b1866d.jpg",
     "truth:117504178504366445",
-    "https://www.trumpstruth.org/statuses/42722"
+    "https://www.trumpstruth.org/statuses/42722",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
+    "truth:117504177990449108",
+    "https://www.trumpstruth.org/statuses/42723"
   ],
   "posts": {
-    "truth:117383038391721832": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42135",
-      "source_text": "<p>Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: <a href=\"https://justthenews.com/nation/economy/top-positive-us-economic-indicators-mainstream-media-not-reporting\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/nation/economy</span><span class=\"invisible\">/top-positive-us-economic-indicators-mainstream-media-not-reporting</span></a></p>",
-      "published": "Sun, 04 Oct 2026 14:10:22 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-04T16:15:30.445484Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42135",
-      "first_seen": "2026-10-04T15:45:28.124529Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: \nhttps://justthenews.com/nation/economy/top-positive-us",
-      "truth_social_id": "117383038391721832",
-      "source_fingerprint": "fp:Mainstream media ignores positive Trump economic indicators in jobs, spending and income data: \nhttps://justthenews.com/nation/economy/top-positive-us",
-      "media_identity": "attachment:117383038391721832:",
-      "translation": "主流メディアが雇用、支出、所得データにおけるトランプ政権の好調な経済指標を無視している：\nhttps://justthenews.com/nation/economy/top-positive-us-economic-indicators-mainstream-media-not-reporting"
-    },
     "truth:117383040827830000": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18541,6 +18523,76 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18706/e489a11f32de0ced-ad1485b1866d.jpg",
       "truth_social_id": "117504178504366445",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18706/e489a11f32de0ced-ad1485b1866d.jpg"
+    },
+    "truth:117504177990449108": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42723",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg\">View image</a></p>",
+      "published": "Sun, 25 Oct 2026 23:37:45 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-26T01:25:30.166512Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42723",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
+      "media_identity": "attachment:117504177990449108:dc38a453883ce6ec.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
+      "truth_social_id": "117504177990449108",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqetp53lkp4",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3myqetp53lkp4",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
+        "createdAt": "2026-10-26T01:15:28.376718Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibe5736novoglixsr6xtziw4z6gz2vhxbny3uojpi7jusum5y7t4y"
+                },
+                "mimeType": "image/jpeg",
+                "size": 275633
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1171,
+                "height": 877
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqetp53lkp4",
+          "rkey": "3myqetp53lkp4"
+        }
+      ]
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37571,194 +37623,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42720",
       "source_text": "<p>The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring partnership in combating terrorism, building on our historic success in defeating ISIS in Libya together. We respect the Libyan people and the sacrifices that brave Libyans made fighting ISIS, the common enemy of both our peoples, but Libya cannot remain a corridor for illegal migration, and this must end now.</p><p>The United States remains firmly committed to strengthening our bilateral relationship, supporting the long-awaited unification of Libya and Libya’s institutions, and standing with the Libyan people as they transition toward successful national elections. The Libyan people have been victims of terrorism and foreign meddling for years. I want them to unite, take back their sovereignty, and have the peaceful, prosperous future they deserve! President DONALD J. TRUMP</p>",
       "published": "Sun, 25 Oct 2026 23:26:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-26T01:15:25.907845Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T01:25:26.428205Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42720",
       "first_seen": "2026-10-26T01:15:25.907808Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The Libyan people are proud, resilient, hospitable, and deserving of peace and prosperity. The United States and Libya share a strong and enduring par",
-      "next_retry_at": "2026-10-26T01:20:25.907855Z",
+      "next_retry_at": "2026-10-26T01:35:26.428221Z",
       "truth_social_id": "117504135188044166"
-    },
-    "truth:117504177990449108": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42723",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg\">View image</a></p>",
-      "published": "Sun, 25 Oct 2026 23:37:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-26T01:15:34.936518Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42723",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
-      "media_identity": "attachment:117504177990449108:dc38a453883ce6ec.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
-      "truth_social_id": "117504177990449108",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqetp53lkp4",
-          "cid": "bafyreicjznhrpygttwcu3hxjbh5smhnch7vkzf7d6fqibyj3vc3apkm7li"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqetp53lkp4",
-          "cid": "bafyreicjznhrpygttwcu3hxjbh5smhnch7vkzf7d6fqibyj3vc3apkm7li"
-        },
-        "next_index": 1,
-        "last_rkey": "3myqetp53lkp4",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
-          "createdAt": "2026-10-26T01:15:28.376718Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibe5736novoglixsr6xtziw4z6gz2vhxbny3uojpi7jusum5y7t4y"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 275633
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1171,
-                  "height": 877
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3myqetp53lkp4",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
-          "createdAt": "2026-10-26T01:15:28.376718Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreibe5736novoglixsr6xtziw4z6gz2vhxbny3uojpi7jusum5y7t4y"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 275633
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1171,
-                  "height": 877
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqetp53lkp4",
-            "rkey": "3myqetp53lkp4"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqetp53lkp4",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3myqetp53lkp4",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg",
-        "createdAt": "2026-10-26T01:15:28.376718Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18707/dc38a453883ce6ec-d4a51ac1d96b.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibe5736novoglixsr6xtziw4z6gz2vhxbny3uojpi7jusum5y7t4y"
-                },
-                "mimeType": "image/jpeg",
-                "size": 275633
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1171,
-                "height": 877
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqetp53lkp4",
-          "rkey": "3myqetp53lkp4"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-26T01:20:34.936534Z"
     },
     "truth:117504180930398441": {
       "post_status": "DISCOVERED",
