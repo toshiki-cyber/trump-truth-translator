@@ -37651,14 +37651,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42732",
       "source_text": "<p>Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be paid $1,000,000 upon the arrest and conviction of those that created the Fraud! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Mon, 26 Oct 2026 19:31:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-26T21:15:29.124296Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T21:25:21.987816Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42732",
       "first_seen": "2026-10-26T21:15:29.124257Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be paid $1,000,000 upon the arrest and conviction of ",
-      "next_retry_at": "2026-10-26T21:20:29.124306Z",
+      "next_retry_at": "2026-10-26T21:35:21.987832Z",
       "truth_social_id": "117508870323063258"
     },
     "truth:117509073909150662": {
@@ -37667,14 +37667,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42733",
       "source_text": "<p>Trump talks Kansas investments, promises farmer relief at Wichita-area rally: <a href=\"https://www.kmbc.com/article/trump-kansas-rally-roger-marshall/74186551\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kmbc.com/article/trump-kansas-</span><span class=\"invisible\">rally-roger-marshall/74186551</span></a></p>",
       "published": "Mon, 26 Oct 2026 20:22:51 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-26T21:15:29.829534Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-26T21:25:22.187685Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42733",
       "first_seen": "2026-10-26T21:15:29.829494Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Trump talks Kansas investments, promises farmer relief at Wichita-area rally: \nhttps://www.kmbc.com/article/trump-kansas-rally-roger-marshall/74186551",
-      "next_retry_at": "2026-10-26T21:20:29.829544Z",
+      "next_retry_at": "2026-10-26T21:35:22.187698Z",
       "truth_social_id": "117509073909150662"
     }
   }
