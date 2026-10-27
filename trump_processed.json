@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40597",
-    "fp:The U.S. has massive amounts of “munitions,” especially of certain types. Additionally, large amounts are being manufactured and shipped to the U.S. a",
-    "https://www.trumpstruth.org/statuses/40598",
     "fp:Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red: \nhttps://justthenews.com/politics-policy/elections",
     "https://www.trumpstruth.org/statuses/40599",
     "fp:Senator Bill Hagerty is doing a fantastic job representing the Great People of Tennessee!\n \nI have known Bill for a long time, as both a Highly Succes",
@@ -5000,24 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42735",
     "fp:Let's all get behind Michele Tafoya in Minnesota. She's running a great race. Don't allow them to play with the Votes after the race is over. The Fede",
     "truth:117509280703799414",
-    "https://www.trumpstruth.org/statuses/42734"
+    "https://www.trumpstruth.org/statuses/42734",
+    "fp:The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the ",
+    "truth:117509368573544706",
+    "https://www.trumpstruth.org/statuses/42744"
   ],
   "posts": {
-    "truth:117383902145126256": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42157",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:50:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-04T19:55:28.088877Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42157",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117383902145126256:c103dbec7486285e.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117383902145126256",
-      "translation": ""
-    },
     "truth:117383854962700677": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18475,6 +18460,42 @@
       "source_fingerprint": "fp:Let's all get behind Michele Tafoya in Minnesota. She's running a great race. Don't allow them to play with the Votes after the race is over. The Fede",
       "media_identity": "attachment:117509280703799414:",
       "translation": "ミネソタ州のミシェル・タフォヤを全員で応援しよう。彼女は素晴らしいレースを展開している。レース終了後の投票操作を許してはならない。連邦政府が厳密に監視する。彼女が負ける唯一の方法は、投票が集計される際に投票用紙を使った不正行為で欺くことだ。それは許してはならない。なぜなら、私はミネソタを3度勝った。しかし彼らは私に勝利を与えなかった。ミネソタは1972年にリチャード・ニクソンがトロフィーを獲得して以来、「勝たれていない」のだ。ミシェル・タフォヤは、偉大なるミネソタ州の次期上院議員となるために、私の完全で絶対的な支持を得ている――彼女があなたたちを失望させることはない！大統領 ドナルド・J・トランプ"
+    },
+    "truth:117509368573544706": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42744",
+      "source_text": "<p>The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the evening, but ALL want not to change their clocks anymore. TAKE A VOTE! As stated in The New York Post, “Lawmakers in Washington have tried to kill the clock change for good, and this summer the House overwhelmingly passed the Sunshine Protection Act, 308-117, which would make Daylight Saving Time permanent year-round. That bill, however, remains locked in the Senate, meaning Daylight Saving Time will end as regularly scheduled to the disappointment of many Americans.”</p>",
+      "published": "Mon, 26 Oct 2026 21:37:47 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-27T00:40:27.263961Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42744",
+      "first_seen": "2026-10-26T23:10:44.824423Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the ",
+      "truth_social_id": "117509368573544706",
+      "source_fingerprint": "fp:The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the ",
+      "media_identity": "attachment:117509368573544706:",
+      "translation": "米国上院が夏時間法案を廃案にさせようとしているが、これは国の大多数が望んでいないことだ。ほとんどの人々が夜間の明るさを求めており、全員が時計を変更することをもうしたくないと考えている。投票しろ！ニューヨーク・ポストに記されているように、「ワシントンの議員たちは時計の変更を永久になくそうと試みており、この夏、下院は圧倒的多数で夏時間を通年で恒久化する太陽保護法を308対117で可決した。しかし、その法案は上院に留め置かれたままであり、これは多くのアメリカ国民の失望をもたらしながら、夏時間が定期的に終了することを意味している。」",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysom42pfsr4",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mysom42pfsr4",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "米国上院が夏時間法案を廃案にさせようとしているが、これは国の大多数が望んでいないことだ。ほとんどの人々が夜間の明るさを求めており、全員が時計を変更することをもうしたくないと考えている。投票しろ！ニューヨーク・ポストに記されているように、「ワシントンの議員たちは時計の変更を永久になくそうと試みており、この夏、下院は圧倒的多数で夏時間を通年で恒久化する太陽保護法を308対117で可決した。しかし、その法案は上院に留め置かれたままであり、これは多くのアメリカ国民の失望をもたらしながら、夏時間が定期的に終了することを意味している。」",
+        "createdAt": "2026-10-27T00:30:35.829477Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysom42pfsr4",
+          "rkey": "3mysom42pfsr4"
+        }
+      ]
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37594,79 +37615,6 @@
       "published": "Mon, 26 Oct 2026 20:52:11 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-26T23:10:26.638129Z"
-    },
-    "truth:117509368573544706": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42744",
-      "source_text": "<p>The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the evening, but ALL want not to change their clocks anymore. TAKE A VOTE! As stated in The New York Post, “Lawmakers in Washington have tried to kill the clock change for good, and this summer the House overwhelmingly passed the Sunshine Protection Act, 308-117, which would make Daylight Saving Time permanent year-round. That bill, however, remains locked in the Senate, meaning Daylight Saving Time will end as regularly scheduled to the disappointment of many Americans.”</p>",
-      "published": "Mon, 26 Oct 2026 21:37:47 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-27T00:30:42.270310Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42744",
-      "first_seen": "2026-10-26T23:10:44.824423Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the ",
-      "truth_social_id": "117509368573544706",
-      "source_fingerprint": "fp:The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the ",
-      "media_identity": "attachment:117509368573544706:",
-      "translation": "米国上院が夏時間法案を廃案にさせようとしているが、これは国の大多数が望んでいないことだ。ほとんどの人々が夜間の明るさを求めており、全員が時計を変更することをもうしたくないと考えている。投票しろ！ニューヨーク・ポストに記されているように、「ワシントンの議員たちは時計の変更を永久になくそうと試みており、この夏、下院は圧倒的多数で夏時間を通年で恒久化する太陽保護法を308対117で可決した。しかし、その法案は上院に留め置かれたままであり、これは多くのアメリカ国民の失望をもたらしながら、夏時間が定期的に終了することを意味している。」",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysom42pfsr4",
-          "cid": "bafyreicl3cbhrldvwztrj46dshjqdqfj5b77wta2ydtpv4osrzxp274pje"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysom42pfsr4",
-          "cid": "bafyreicl3cbhrldvwztrj46dshjqdqfj5b77wta2ydtpv4osrzxp274pje"
-        },
-        "next_index": 1,
-        "last_rkey": "3mysom42pfsr4",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "米国上院が夏時間法案を廃案にさせようとしているが、これは国の大多数が望んでいないことだ。ほとんどの人々が夜間の明るさを求めており、全員が時計を変更することをもうしたくないと考えている。投票しろ！ニューヨーク・ポストに記されているように、「ワシントンの議員たちは時計の変更を永久になくそうと試みており、この夏、下院は圧倒的多数で夏時間を通年で恒久化する太陽保護法を308対117で可決した。しかし、その法案は上院に留め置かれたままであり、これは多くのアメリカ国民の失望をもたらしながら、夏時間が定期的に終了することを意味している。」",
-          "createdAt": "2026-10-27T00:30:35.829477Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mysom42pfsr4",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "米国上院が夏時間法案を廃案にさせようとしているが、これは国の大多数が望んでいないことだ。ほとんどの人々が夜間の明るさを求めており、全員が時計を変更することをもうしたくないと考えている。投票しろ！ニューヨーク・ポストに記されているように、「ワシントンの議員たちは時計の変更を永久になくそうと試みており、この夏、下院は圧倒的多数で夏時間を通年で恒久化する太陽保護法を308対117で可決した。しかし、その法案は上院に留め置かれたままであり、これは多くのアメリカ国民の失望をもたらしながら、夏時間が定期的に終了することを意味している。」",
-          "createdAt": "2026-10-27T00:30:35.829477Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysom42pfsr4",
-            "rkey": "3mysom42pfsr4"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysom42pfsr4",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mysom42pfsr4",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "米国上院が夏時間法案を廃案にさせようとしているが、これは国の大多数が望んでいないことだ。ほとんどの人々が夜間の明るさを求めており、全員が時計を変更することをもうしたくないと考えている。投票しろ！ニューヨーク・ポストに記されているように、「ワシントンの議員たちは時計の変更を永久になくそうと試みており、この夏、下院は圧倒的多数で夏時間を通年で恒久化する太陽保護法を308対117で可決した。しかし、その法案は上院に留め置かれたままであり、これは多くのアメリカ国民の失望をもたらしながら、夏時間が定期的に終了することを意味している。」",
-        "createdAt": "2026-10-27T00:30:35.829477Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysom42pfsr4",
-          "rkey": "3mysom42pfsr4"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-27T00:35:42.270324Z"
     },
     "truth:117509420824140105": {
       "post_status": "POST_VERIFY_PENDING",
