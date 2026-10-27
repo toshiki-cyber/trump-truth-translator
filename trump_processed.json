@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40601",
-    "fp:Congresswoman Diana Harshbarger is doing an incredible job representing the wonderful people of Tennessee’s 1st Congressional District!\n \nA very succe",
-    "https://www.trumpstruth.org/statuses/40600",
     "fp:Congressman Tim Burchett is an America First Patriot who is doing a fantastic job representing Tennessee’s 2nd Congressional District!\n \nA former Mayo",
     "https://www.trumpstruth.org/statuses/40608",
     "fp:Congressman Chuck Fleischmann is a terrific Representative for the incredible people of Tennessee’s 3rd Congressional District!\n \nChuck is a MAGA Warr",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42744",
     "fp:Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two",
     "truth:117509420824140105",
-    "https://www.trumpstruth.org/statuses/42748"
+    "https://www.trumpstruth.org/statuses/42748",
+    "fp:Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a stron",
+    "truth:117509610265325055",
+    "https://www.trumpstruth.org/statuses/42753"
   ],
   "posts": {
-    "truth:117383902865685162": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42156",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:50:13 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T20:05:41.802355Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42156",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117383902865685162:d0e37edd777b4d38.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117383902865685162",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2xmvpo42qo",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mx2xmvpo42qo",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-04T20:05:34.647828Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicsc3in2pkafqujgq3p46xoysnovjh75o4xa34e4fp6jlw4lqdzwe"
-                },
-                "mimeType": "image/jpeg",
-                "size": 218282
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1260,
-                "height": 816
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2xmvpo42qo",
-          "rkey": "3mx2xmvpo42qo"
-        }
-      ]
-    },
     "truth:117383979597248683": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18479,6 +18426,24 @@
           "rkey": "3myspdufs523g"
         }
       ]
+    },
+    "truth:117509610265325055": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42753",
+      "source_text": "<p>Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives. He is able to get things done when nobody else can!<br /> <br />As Speaker, Mike is working tirelessly to deliver and codify our very successful America First and Make America Great Again Agenda. He is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion our Great Farmers and American Agriculture, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. <br /> <br />Mike Johnson is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election — HE IS A GREAT PATRIOT WHO WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
+      "published": "Mon, 26 Oct 2026 22:39:15 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-27T00:55:31.334806Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42753",
+      "first_seen": "2026-10-26T23:15:29.184221Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a stron",
+      "truth_social_id": "117509610265325055",
+      "source_fingerprint": "fp:Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a stron",
+      "media_identity": "attachment:117509610265325055:",
+      "translation": "マイク・ジョンソン下院議員は偉大な人物であり、ルイジアナ州第4下院地区の素晴らしい国民の傑出した代表であり、米国下院の力強く勇敢な議長である。他の誰もできない時に物事を成し遂げることができる人物だ！\n\n議長として、マイクは我々の非常に成功した「アメリカ・ファースト」と「アメリカを再び偉大に」というアジェンダを実行し法制化するために、たゆまぬ努力をしている。彼は経済を成長させ、税金と規制をカットし、我々の偉大な農民とアメリカ農業を支持し、「米国製」を推進し、アメリカン・エネルギーの支配権を確立し、我々の国境を堅く守り、移民犯罪を阻止し、法と秩序を確保し、我々の勇敢な軍人と退役軍人を強化し、我々の選挙を守り、常に包囲されている我々の第2修正条項を防衛するために懸命に戦っている。\n\nマイク・ジョンソンは真の友人であり、闘士であり、勝者であり、再選に向けて私の完全で全面的な支持を有している。彼は決してお前たちを失望させることのない偉大な愛国者だ！ドナルド・J・トランプ大統領"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37719,22 +37684,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-27T00:55:34.546904Z"
-    },
-    "truth:117509610265325055": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42753",
-      "source_text": "<p>Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives. He is able to get things done when nobody else can!<br /> <br />As Speaker, Mike is working tirelessly to deliver and codify our very successful America First and Make America Great Again Agenda. He is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion our Great Farmers and American Agriculture, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. <br /> <br />Mike Johnson is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election — HE IS A GREAT PATRIOT WHO WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
-      "published": "Mon, 26 Oct 2026 22:39:15 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T23:20:34.665022Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42753",
-      "first_seen": "2026-10-26T23:15:29.184221Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a stron",
-      "next_retry_at": "2026-10-26T23:30:34.665036Z",
-      "truth_social_id": "117509610265325055"
     }
   }
 }
