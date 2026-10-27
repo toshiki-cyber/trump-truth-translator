@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40590",
-    "https://www.trumpstruth.org/statuses/40589",
-    "https://www.trumpstruth.org/statuses/40591",
     "fp:Scott Bessent interviewed by Joe Kernen!\nhttps://www.cnbc.com/video/2026/08/04/watch-cnbcs-full-interview-with-treasury-secretary-scott-bessent.html",
     "https://www.trumpstruth.org/statuses/40584",
     "fp:Wayne County (Detroit) in Michigan is one of the most corrupt voting areas in the United States, if not the World. It is strictly Third World! Miracle",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42740",
     "fp:It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas’ 28th Congressional Di",
     "truth:117509198713816435",
-    "https://www.trumpstruth.org/statuses/42739"
+    "https://www.trumpstruth.org/statuses/42739",
+    "fp:It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas’ 34th Congressional Dist",
+    "truth:117509200374065660",
+    "https://www.trumpstruth.org/statuses/42738"
   ],
   "posts": {
-    "truth:117383737641173276": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42139",
-      "source_text": "<p></p>",
-      "published": "Sun, 04 Oct 2026 17:08:12 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T19:25:34.979916Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42139",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117383737641173276:67280a4c54ce39dc.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117383737641173276",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2vbreyykwq",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mx2vbreyykwq",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-04T19:15:29.039429Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiggm42z752ihncuiyuqvaoptf37xjglekdlh5xdyjdvqsca5v5gyi"
-                },
-                "mimeType": "image/jpeg",
-                "size": 190196
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1255,
-                "height": 818
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2vbreyykwq",
-          "rkey": "3mx2vbreyykwq"
-        }
-      ]
-    },
     "truth:117383740615004316": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18499,6 +18446,24 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas’ 28th Congressional Di",
       "media_identity": "attachment:117509198713816435:",
       "translation": "アメリカ・ファースト愛国者であり、テキサス州第28議会地区の人民を代表するために立候補しているタノ・ティヘリーナを支持することは、私の大きな栄誉である。\n\n偉大で高く尊敬されているヒスパニック系判事であり、非常に成功したビジネスマンであり、牧場主であるタノ・ティヘリーナは、彼のコミュニティへの奉仕に人生を捧げてきた。議会では、彼は経済の成長、素晴らしい農民と牧場主の支援、税金と規制の削減、メード・イン・ザ・USA（米国製）の推進、アメリカン・エネルギーの支配的地位の達成、今や非常に安全になった国境の維持、移民犯罪の阻止、法と秩序の確保、軍隊と退役軍人の強化、そして常に脅かされている第2修正案の保護のために、不屈の精神で戦うだろう。\n\n彼の対立候補であるヘンリー・クエラルは、チップスへの非課税、超過勤務への非課税、社会保障への非課税に反対票を投じた。そして、彼とデモクラットが権力を握るようなことがあれば、これらすべてのことは廃止されるだろう。彼は大幅な増税、国境開放、男性が女性スポーツに出場すること、そして万人へのトランスジェンダー化を望んでいる。ヘンリー・クエラルは無責任で、急進的で、危険だ！\n\nタノ・ティヘリーナはテキサス州第28議会地区の次の下院議員になるための私の完全かつ全面的な支持を得ている。投票に行ってタノに投票しろ—彼はお前たちを失望させることは決してない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
+    },
+    "truth:117509200374065660": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42738",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas’ 34th Congressional District.<br /> <br />A Brave U.S. Army Veteran, and former Criminal Prosecutor, Eric knows the Wisdom and Courage it takes to Ensure LAW AND ORDER, Strongly Support our Great Heroes in Law Enforcement, and Champion our Military and Veterans. In Congress, Eric will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.<br /> <br />His opponent, Vicente Gonzalez, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. Vicente Gonzalez is Reckless, Radical, and Dangerous!<br /> <br />Eric Flores has my Complete and Total Endorsement to be the next Congressman from Texas’ 34th Congressional District. GET OUT AND VOTE FOR ERIC — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:55:01 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-27T00:05:30.344639Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42738",
+      "first_seen": "2026-10-26T23:10:31.930261Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas’ 34th Congressional Dist",
+      "truth_social_id": "117509200374065660",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas’ 34th Congressional Dist",
+      "media_identity": "attachment:117509200374065660:",
+      "translation": "テキサス州第34選挙区の素晴らしい人々を代表するために立候補しているアメリカ第一主義の愛国者、エリック・フローレスを支持することは、私の大きな誉りである。\n\n勇敢な米陸軍退役軍人であり元刑事検察官であるエリックは、法と秩序を確保し、法執行機関の偉大なヒーローたちを強く支持し、軍と退役軍人を擁護するために必要な知恵と勇気を持っている。議会では、エリックは経済成長のため、減税と規制緩和のため、米国製品を推進するため、米国のエネルギー優位性を進めるため、現在極めて安全である我が国の国境を安全に保つため、移民による犯罪を阻止するため、常に攻撃にさらされている憲法修正第2条を保護するために、たゆまず戦うだろう。\n\n彼の対立候補ビセンテ・ゴンザレスは、チップスへの課税なし、時間外手当への課税なし、社会保障への課税なしに投票した。もし彼と民主党員が政権を獲得すれば、これらすべてが廃止されるだろう。彼は大幅な増税、国境開放、男性が女性スポーツに参加すること、そしてすべての人にトランスジェンダーを望んでいる。ビセンテ・ゴンザレスは無責任で、急進的で、危険だ。\n\nエリック・フローレスはテキサス州第34選挙区の次期下院議員として、私の完全かつ全面的な支持を得ている。外に出てエリックに投票しよう――彼は決してお前たちを失望させない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37618,22 +37583,6 @@
       "published": "Mon, 26 Oct 2026 20:52:11 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-26T23:10:26.638129Z"
-    },
-    "truth:117509200374065660": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42738",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas’ 34th Congressional District.<br /> <br />A Brave U.S. Army Veteran, and former Criminal Prosecutor, Eric knows the Wisdom and Courage it takes to Ensure LAW AND ORDER, Strongly Support our Great Heroes in Law Enforcement, and Champion our Military and Veterans. In Congress, Eric will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.<br /> <br />His opponent, Vicente Gonzalez, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. Vicente Gonzalez is Reckless, Radical, and Dangerous!<br /> <br />Eric Flores has my Complete and Total Endorsement to be the next Congressman from Texas’ 34th Congressional District. GET OUT AND VOTE FOR ERIC — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:55:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T23:20:31.922557Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42738",
-      "first_seen": "2026-10-26T23:10:31.930261Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas’ 34th Congressional Dist",
-      "next_retry_at": "2026-10-26T23:30:31.922570Z",
-      "truth_social_id": "117509200374065660"
     },
     "truth:117509201705742785": {
       "post_status": "RETRY",
