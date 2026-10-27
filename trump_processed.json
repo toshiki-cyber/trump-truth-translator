@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40607",
-    "fp:Congressman Scott DesJarlais is a Fantastic Advocate for Tennessee’s 4th Congressional District!\n \nAs a Member of the House Agriculture Committee, Sco",
-    "https://www.trumpstruth.org/statuses/40606",
     "fp:Congressman Andy Ogles is doing a fantastic job representing the incredible people of Tennessee’s 5th Congressional District!\n \nAndy is a Conservative",
     "https://www.trumpstruth.org/statuses/40605",
     "fp:I am proud to, once again, endorse the GREAT Congressman from Tennessee’s 7th Congressional District, Matt Van Epps. I strongly campaigned with Matt t",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42753",
     "fp:https://truthsocial.com/@RSBN/117509508354811780",
     "truth:117509610171065034",
-    "https://www.trumpstruth.org/statuses/42754"
+    "https://www.trumpstruth.org/statuses/42754",
+    "fp:Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional Dis",
+    "truth:117509180502162923",
+    "https://www.trumpstruth.org/statuses/42755"
   ],
   "posts": {
-    "truth:117383899651030960": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42158",
-      "source_text": "<p>Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: <a href=\"https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio</span></a></p>",
-      "published": "Sun, 04 Oct 2026 17:49:24 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-04T20:30:32.181397Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42158",
-      "first_seen": "2026-10-04T19:55:26.267731Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: \nhttps://justthenews.com/government/white-house/trump-credits-tariffs-",
-      "truth_social_id": "117383899651030960",
-      "source_fingerprint": "fp:Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: \nhttps://justthenews.com/government/white-house/trump-credits-tariffs-",
-      "media_identity": "attachment:117383899651030960:",
-      "translation": "トランプ氏、関税がオハイオ州への医療用医薬品製造キャンパス誘致をもたらしたと述べる：\nhttps://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2xlgwpr222",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mx2xlgwpr222",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ氏、関税がオハイオ州への医療用医薬品製造キャンパス誘致をもたらしたと述べる：\nhttps://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
-        "createdAt": "2026-10-04T20:20:28.562047Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 127,
-              "byteEnd": 245
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
-            "title": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio",
-            "description": "\"This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices,\" Trump wrote",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreihnsg2es5qtouv4khycv2sq7qz2ywvkefwkvmpi6l5td4iufviqpu"
-              },
-              "mimeType": "image/jpeg",
-              "size": 53081
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx2xlgwpr222",
-          "rkey": "3mx2xlgwpr222"
-        }
-      ]
-    },
     "truth:117384609805773432": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18442,6 +18374,24 @@
           "rkey": "3mysrzxrcg2w4"
         }
       ]
+    },
+    "truth:117509180502162923": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42755",
+      "source_text": "<p>Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional District!<br /> <br />As a very successful Small Businessman, and Vice Chair of the House Financial Services Committee, Bill knows the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Champion our Great Farmers and Agriculture, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Additionally, Bill is fighting tirelessly to Keep our Border SECURE, Strengthen our Incredible Military/Vets, and Protect our always under siege Second Amendment.<br /> <br />Bill’s opponent, Sean McCann, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Sean McCann is Reckless, Radical, and Dangerous!<br /> <br />Bill Huizenga has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BILL — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/michigan/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/michigan/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:49:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-27T01:45:35.923418Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42755",
+      "first_seen": "2026-10-27T01:20:26.317187Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional Dis",
+      "truth_social_id": "117509180502162923",
+      "source_fingerprint": "fp:Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional Dis",
+      "media_identity": "attachment:117509180502162923:",
+      "translation": "ミシガン州第4地区の素晴らしい人々のために、ビル・ホイゼンガ下院議員は非常に優れたチャンピオンであり、極めて有効な代表者だ！\n\n非常に成功した小ビジネスマンであり、下院金融サービス委員会の副委員長として、ビルはアメリカ第一政策を理解しており、経済成長、素晴らしい雇用創出、減税と規制削減、素晴らしい農民と農業への支持、アメリカ国内製造品の推進、そしてアメリカのエネルギー支配力の解放に必要なものを知っている。さらに、ビルは境界線を厳重に保つ、素晴らしい軍隊と退役軍人を強化し、常に危機にさらされている憲法修正第2条を保護するために絶え間なく戦っている。\n\nビルの対立候補であるショーン・マッカンは、チップに対する課税なし、超過勤務に対する課税なし、社会保障に対する課税なしに反対する左翼急進民主党員であり、もし彼とダモクラット連中が権力を握ったなら、これらはすべて廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツに出場する男性、そして子どもたちへのトランスジェンダー変造を望んでいる。ショーン・マッカンは無責任で、急進的で、危険だ！\n\nビル・ホイゼンガは再選に向けて私の完全かつ全面的な支持を得ている。投票に行ってビルに投票しろ — 彼は君たちを失望させることは決してないだろう！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/michigan/"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37570,22 +37520,6 @@
       "published": "Mon, 26 Oct 2026 20:49:35 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-27T01:15:27.908865Z"
-    },
-    "truth:117509180502162923": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42755",
-      "source_text": "<p>Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional District!<br /> <br />As a very successful Small Businessman, and Vice Chair of the House Financial Services Committee, Bill knows the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Champion our Great Farmers and Agriculture, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Additionally, Bill is fighting tirelessly to Keep our Border SECURE, Strengthen our Incredible Military/Vets, and Protect our always under siege Second Amendment.<br /> <br />Bill’s opponent, Sean McCann, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Sean McCann is Reckless, Radical, and Dangerous!<br /> <br />Bill Huizenga has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BILL — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/michigan/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/michigan/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:49:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T01:30:25.669269Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42755",
-      "first_seen": "2026-10-27T01:20:26.317187Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional Dis",
-      "next_retry_at": "2026-10-27T01:40:25.669283Z",
-      "truth_social_id": "117509180502162923"
     }
   }
 }
