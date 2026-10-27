@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117057626226861348",
-    "https://www.trumpstruth.org/statuses/40652",
-    "https://www.trumpstruth.org/statuses/40656",
     "https://www.trumpstruth.org/statuses/40655",
     "https://www.trumpstruth.org/statuses/40654",
     "https://www.trumpstruth.org/statuses/40660",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42777",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4",
     "truth:117513689851891225",
-    "https://www.trumpstruth.org/statuses/42799"
+    "https://www.trumpstruth.org/statuses/42799",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1",
+    "truth:117513691842839994",
+    "https://www.trumpstruth.org/statuses/42798"
   ],
   "posts": {
-    "truth:117394656543560911": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42183",
-      "source_text": "<p>What’s happening in France is nothing less than out of control mass migration. This isn’t about schools, this is about Islam wanting to take over a once great Country! President DJT</p>",
-      "published": "Tue, 06 Oct 2026 15:25:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-06T16:16:26.637192Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42183",
-      "first_seen": "2026-10-06T15:36:21.321409Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:What’s happening in France is nothing less than out of control mass migration. This isn’t about schools, this is about Islam wanting to take over a on",
-      "truth_social_id": "117394656543560911",
-      "source_fingerprint": "fp:What’s happening in France is nothing less than out of control mass migration. This isn’t about schools, this is about Islam wanting to take over a on",
-      "media_identity": "attachment:117394656543560911:",
-      "translation": "フランスで起きていることは、制御不能な大量移民に他ならない。これは学校の問題ではなく、イスラム教がかつての偉大な国を乗っ取ろうとしていることだ！ トランプ大統領"
-    },
     "truth:117397200762855537": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18358,6 +18340,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4",
       "truth_social_id": "117513689851891225",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4"
+    },
+    "truth:117513691842839994": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42798",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1bf16f9997d-98c2416dda4f.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42799\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 27 Oct 2026 15:57:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-27T19:30:34.539327Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42798",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1",
+      "media_identity": "attachment:117513691842839994:3b64a1bf16f9997d.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1",
+      "truth_social_id": "117513691842839994",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1bf16f9997d-98c2416dda4f.pngQuoted\nhttps://www.trumpstruth.org/statuses/42799https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37575,25 +37573,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42800",
       "source_text": "<p>Congratulations to Lorne Doerkson on his Big Victory. Conservatives are moving strong in Canada! President DONALD J. TRUMP</p><p>BC Left-Wing Leader Loses to Conservatives in Vote He Called: <a href=\"https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called</span></a></p>",
       "published": "Tue, 27 Oct 2026 14:53:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-27T19:20:27.442552Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-27T19:30:26.643249Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42800",
       "first_seen": "2026-10-27T19:20:27.442512Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congratulations to Lorne Doerkson on his Big Victory. Conservatives are moving strong in Canada! President DONALD J. TRUMP\nBC Left-Wing Leader Loses t",
-      "next_retry_at": "2026-10-27T19:25:27.442559Z",
+      "next_retry_at": "2026-10-27T19:40:26.643260Z",
       "truth_social_id": "117513440975898446"
-    },
-    "truth:117513691842839994": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42798",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1bf16f9997d-98c2416dda4f.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42799\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 27 Oct 2026 15:57:15 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T19:15:23.243811Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42798"
     },
     "truth:117513698517194972": {
       "post_status": "DISCOVERED",
