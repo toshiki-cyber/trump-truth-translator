@@ -37602,6 +37602,38 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-27T03:30:37.655402Z"
+    },
+    "truth:117509081254744239": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42774",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117509073909150662</span>Roger Marshall is one of the Best Senators in the United States of America. He loves Kansas more than anyone, with the possible exception of me, and it would be a disaster for him to be beaten by a Radical Left Lunatic who has broken up the Church, and caused tremendous dissension therein. He also didn’t report, as he should have, the now famous child molester. Instead, he gave him a longtime job! Vote for Roger Marshall! He has my Complete and Total Endorsement — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42733\">Donald J. Trump</a></p><blockquote><p>Trump talks Kansas investments, promises farmer relief at Wichita-area rally: <a href=\"https://www.kmbc.com/article/trump-kansas-rally-roger-marshall/74186551\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kmbc.com/article/trump-kansas-</span><span class=\"invisible\">rally-roger-marshall/74186551</span></a></p></blockquote>",
+      "published": "Mon, 26 Oct 2026 20:24:43 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-27T05:15:27.910316Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42774",
+      "first_seen": "2026-10-27T05:15:27.910277Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117509073909150662Roger Marshall is one of the Best Senators in the United States of Americ",
+      "next_retry_at": "2026-10-27T05:20:27.910326Z",
+      "truth_social_id": "117509081254744239"
+    },
+    "truth:117510783769373145": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42775",
+      "source_text": "<p>JUDGE ASKS FOR NOTIFICATION AS PUBLIC GOLF COURSE PROJECT, IN WASHINGTON, D.C., IS BUILT. DEPARTMENT OF THE INTERIOR TO APPEAL THIS UNCONSTITUTIONAL REQUEST.<br /> <br />We are closing the East Potomac Golf Course Site as scheduled on November 15th in order to renovate and rebuild for Competitive (with other such projects!), Safety, Modernization, and Aesthetic reasons. We believe this Project is totally “as of right,” and that the judge does not have the Constitutional Right to “ask for or receive notices,” which are time-consuming, unnecessary, expensive, and unconstitutional. We will immediately appeal this decision. When completed, it is anticipated that this Course, which will be open to the Public, at a reduced rate for those living in Washington, D.C., will be one of the finest anywhere in the World! It will be fully capable of holding Major Events such as The U.S. Open, The PGA Championship, The Ryder Cup, and The Presidents Cup, which will bring Great Economic Benefits, Growth, and Prestige to Washington, D.C. and, indeed, the entire surrounding area. The Development of this World Championship Public Facility must begin, immediately, if it is to be completed in a timely and seasonal manner. To have to give advanced notices to a judge who has no expertise in Golf, Architecture, Landscaping, Construction, or anything else having to do with building such a World Class Project, is not fair, appropriate, or Constitutional. The soil, grass, sand bunkers, tees, fairways, greens, seawalls, small and nondescript buildings, and virtually every other element of the existing Course and grounds are far beyond their intended or expected life. In its current form, the Course is extremely dangerous to play, in that the narrow and nondescript fairways are far too close together, leading to a constant barrage of people being hit with wayward shots, and the echoing throughout the air of the word, “FORE!” The judge has absolutely no right to hold up this very important and beautiful Project. We are asking the D.C. Circuit Court for immediate remedy. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Tue, 27 Oct 2026 03:37:42 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-27T05:15:29.098442Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42775",
+      "first_seen": "2026-10-27T05:15:29.098407Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:JUDGE ASKS FOR NOTIFICATION AS PUBLIC GOLF COURSE PROJECT, IN WASHINGTON, D.C., IS BUILT. DEPARTMENT OF THE INTERIOR TO APPEAL THIS UNCONSTITUTIONAL R",
+      "next_retry_at": "2026-10-27T05:20:29.098452Z",
+      "truth_social_id": "117510783769373145"
     }
   }
 }
