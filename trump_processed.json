@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40667",
-    "fp:RT: https://truthsocial.com/users/mrddmia/statuses/117060035123254425Very true! President DJT",
-    "https://www.trumpstruth.org/statuses/40666",
     "https://www.trumpstruth.org/statuses/40669",
     "fp:Trump Aberdeen!",
     "https://www.trumpstruth.org/statuses/40668",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42795",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513706348498042https://truth-archive.us-iad-1.linodeobjects.com/attachments/18725/defdcc",
     "truth:117513707283246784",
-    "https://www.trumpstruth.org/statuses/42794"
+    "https://www.trumpstruth.org/statuses/42794",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513579089626559https://truth-archive.us-iad-1.linodeobjects.com/attachments/18724/59447c",
+    "truth:117513717824869790",
+    "https://www.trumpstruth.org/statuses/42793"
   ],
   "posts": {
-    "truth:117399306894086851": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42185",
-      "source_text": "<p></p>",
-      "published": "Wed, 07 Oct 2026 11:07:39 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-10-07T12:46:19.093969Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42185",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117399306894086851:d3837c4282cf254d.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117399306894086851",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxbsjtteb2na",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-07T11:56:20.889090Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreib76nwy67nz5njcfuzrehe4otepdwnftpwzyymszfbukijng4tvby"
-                },
-                "mimeType": "image/jpeg",
-                "size": 172738
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 830,
-                "height": 1237
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxbsjtteb2na",
-          "rkey": "3mxbsjtteb2na"
-        }
-      ]
-    },
     "truth:117399931237063983": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18396,6 +18343,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513706348498042https://truth-archive.us-iad-1.linodeobjects.com/attachments/18725/defdcc",
       "truth_social_id": "117513707283246784",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117513706348498042https://truth-archive.us-iad-1.linodeobjects.com/attachments/18725/defdcccebc841824-c3ba231f8735.pngQuoted\nhttps://www.trumpstruth.org/statuses/42795https://truth-archive.us-iad-1.linodeobjects.com/attachments/18726/96611a542783d852-0fc97be2431d.mp4"
+    },
+    "truth:117513717824869790": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42793",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513579089626559</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18724/59447ce7c1b70072-44a9b20dd96f.mp4\">View video</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42778\">Donald J. Trump</a></p><blockquote><p>The Freedom Caucus Fund just did a Great Ad — One of the best out there, talking about PRESIDENT DONALD J. TRUMP and, of course, FREEDOM! Thank you, I love the Freedom Caucus. President DONALD J. TRUMP</p></blockquote>",
+      "published": "Tue, 27 Oct 2026 16:03:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-27T20:10:52.865580Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42793",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513579089626559https://truth-archive.us-iad-1.linodeobjects.com/attachments/18724/59447c",
+      "media_identity": "attachment:117513717824869790:59447ce7c1b70072-44a9b20dd96f.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513579089626559https://truth-archive.us-iad-1.linodeobjects.com/attachments/18724/59447c",
+      "truth_social_id": "117513717824869790",
+      "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/117513579089626559https://truth-archive.us-iad-1.linodeobjects.com/attachments/18724/59447ce7c1b70072-44a9b20dd96f.mp4Quoted\n\nhttps://www.trumpstruth.org/statuses/42778The フリーダム・コーカス・ファンドが素晴らしい広告を作った――最高のものの一つだ。大統領ドナルド・J・トランプとは当然だが、自由について語っている！ありがとう。私はフリーダム・コーカスを愛している。大統領ドナルド・J・トランプ"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37606,16 +37569,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-27T03:30:37.655402Z"
-    },
-    "truth:117513717824869790": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42793",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513579089626559</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18724/59447ce7c1b70072-44a9b20dd96f.mp4\">View video</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42778\">Donald J. Trump</a></p><blockquote><p>The Freedom Caucus Fund just did a Great Ad — One of the best out there, talking about PRESIDENT DONALD J. TRUMP and, of course, FREEDOM! Thank you, I love the Freedom Caucus. President DONALD J. TRUMP</p></blockquote>",
-      "published": "Tue, 27 Oct 2026 16:03:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T19:15:23.243220Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42793"
     },
     "truth:117513725195476460": {
       "post_status": "DISCOVERED",
