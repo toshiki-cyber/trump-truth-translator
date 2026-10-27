@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40701",
-    "fp:I see that Representatives of the Islamic Republic of Iran are asking for compensation for the damage done to them during the last five month Military",
-    "https://www.trumpstruth.org/statuses/40702",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117072168149236615Also, with respect to the Iran negotiations, Iran should be responsible f",
     "https://www.trumpstruth.org/statuses/40703",
     "https://www.trumpstruth.org/statuses/40713",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42802",
     "fp:https://events.gop.com/events/midterm-rally-in-south-carolina-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachmen",
     "truth:117514549297530392",
-    "https://www.trumpstruth.org/statuses/42806"
+    "https://www.trumpstruth.org/statuses/42806",
+    "fp:https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1",
+    "truth:117514552184642275",
+    "https://www.trumpstruth.org/statuses/42808"
   ],
   "posts": {
-    "truth:117408281179466427": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42210",
-      "source_text": "<p>The Dumocrats are Scammers. These are the real FACTS!!! President DJT</p>",
-      "published": "Fri, 09 Oct 2026 01:09:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-09T02:01:24.185705Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42210",
-      "source_fingerprint": "fp:The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
-      "media_identity": "attachment:117408281179466427:ec2f9c154a11c21e.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
-      "truth_social_id": "117408281179466427",
-      "translation": "ダモクラッツはペテン師だ。これが本当の事実だ！！！大統領 DJT"
-    },
     "truth:117408226875989984": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18460,6 +18444,24 @@
       "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-south-carolina-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachmen",
       "truth_social_id": "117514549297530392",
       "translation": "https://events.gop.com/events/midterm-rally-in-south-carolina-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachments/18733/8c985df9184c26c0-6e6ff851c71b.jpg"
+    },
+    "truth:117514552184642275": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42808",
+      "source_text": "<p><a href=\"https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/inZ8qeJOpb8?s</span><span class=\"invisible\">i=bdkL3Mzig_VHbhw1</span></a></p>",
+      "published": "Tue, 27 Oct 2026 19:36:03 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-27T22:45:27.525814Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42808",
+      "first_seen": "2026-10-27T22:20:29.597844Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1",
+      "truth_social_id": "117514552184642275",
+      "source_fingerprint": "fp:https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1",
+      "media_identity": "attachment:117514552184642275:",
+      "translation": "https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37833,22 +37835,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbggtclnj33s73abro80\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-27T21:05:45.470149Z"
-    },
-    "truth:117514552184642275": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42808",
-      "source_text": "<p><a href=\"https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/inZ8qeJOpb8?s</span><span class=\"invisible\">i=bdkL3Mzig_VHbhw1</span></a></p>",
-      "published": "Tue, 27 Oct 2026 19:36:03 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T22:30:30.139014Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42808",
-      "first_seen": "2026-10-27T22:20:29.597844Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1",
-      "next_retry_at": "2026-10-27T22:40:30.139027Z",
-      "truth_social_id": "117514552184642275"
     }
   }
 }
