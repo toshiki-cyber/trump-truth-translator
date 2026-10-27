@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40644",
-    "https://www.trumpstruth.org/statuses/40642",
-    "fp:Just kidding!",
     "https://www.trumpstruth.org/statuses/40643",
     "fp:This great and very important military asset sits atop the heavily protected Ballroom at the White House. It provides National Security for Washington",
     "https://www.trumpstruth.org/statuses/40646",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42776",
     "fp:Congratulations to Paul St-Pierre Plamondon on his WIN! President DONALD J. TRUMP\nSeparatists win Quebec provincial election in blow to Mark Carney: \n",
     "truth:117513446395316214",
-    "https://www.trumpstruth.org/statuses/42780"
+    "https://www.trumpstruth.org/statuses/42780",
+    "fp:BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President DONALD J. TRUMP",
+    "truth:117513546520520214",
+    "https://www.trumpstruth.org/statuses/42779"
   ],
   "posts": {
-    "truth:117393995402609279": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42177",
-      "source_text": "<p>My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT</p>",
-      "published": "Tue, 06 Oct 2026 12:36:53 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-06T14:11:29.382950Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42177",
-      "first_seen": "2026-10-06T13:36:20.471764Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows ",
-      "truth_social_id": "117393995402609279",
-      "source_fingerprint": "fp:My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows ",
-      "media_identity": "attachment:117393995402609279:",
-      "translation": "わが集会の群衆と熱気は信じられないほどだ！これまでこのようなものは誰も見たことがない。われわれは全国至るところで選挙戦を覆している。フェイクニュースはそれを知っているが、視聴者に対して真実を述べたくないのだ。すべてが起きている！民主党員どもはこれを予想していなかった。集会を完全に報道してくれる素晴らしいネットワークに感謝する。彼らは大きな視聴率で報われている。「中間選挙サプライズ」に注目してほしい！大統領 DJT"
-    },
     "truth:117394290541424422": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18342,6 +18324,24 @@
       "source_fingerprint": "fp:Congratulations to Paul St-Pierre Plamondon on his WIN! President DONALD J. TRUMP\nSeparatists win Quebec provincial election in blow to Mark Carney: \n",
       "media_identity": "attachment:117513446395316214:",
       "translation": "ポール・サンピエール・プラモンドンの勝利に祝意を送る！ドナルド・J・トランプ大統領\n分離主義者がケベック州選挙で勝利、マーク・カーニーに打撃：\nhttps://www.irishtimes.com/world/canada/2026/10/06/separatists-win-quebec-provincial-election-in-blow-to-mark-carney/"
+    },
+    "truth:117513546520520214": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42779",
+      "source_text": "<p>BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President DONALD J. TRUMP</p>",
+      "published": "Tue, 27 Oct 2026 15:20:18 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-27T17:40:34.873562Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42779",
+      "first_seen": "2026-10-27T17:15:29.383427Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President DONALD J. TRUMP",
+      "truth_social_id": "117513546520520214",
+      "source_fingerprint": "fp:BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President DONALD J. TRUMP",
+      "media_identity": "attachment:117513546520520214:",
+      "translation": "速報：消費者信頼感が7.5%上昇した。極めて大きな上昇だ。ありがとう！大統領 ドナルド・J・トランプ"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37552,22 +37552,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-27T03:30:37.655402Z"
-    },
-    "truth:117513546520520214": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42779",
-      "source_text": "<p>BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President DONALD J. TRUMP</p>",
-      "published": "Tue, 27 Oct 2026 15:20:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T17:25:22.496262Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42779",
-      "first_seen": "2026-10-27T17:15:29.383427Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:BREAKING NEWS: Consumer Confidence is up 7.5%, an extremely big rise. Thank you! President DONALD J. TRUMP",
-      "next_retry_at": "2026-10-27T17:35:22.496277Z",
-      "truth_social_id": "117513546520520214"
     },
     "truth:117513579089626559": {
       "post_status": "RETRY",
