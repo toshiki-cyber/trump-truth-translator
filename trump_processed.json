@@ -37489,8 +37489,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/42727",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18711/fd02ed0b30142260-5dbea85761dc.mp4\">View video</a></p>",
       "published": "Mon, 26 Oct 2026 00:16:41 +0000",
-      "retry_count": 9,
-      "updated_at": "2026-10-26T19:10:26.562358Z",
+      "retry_count": 10,
+      "updated_at": "2026-10-27T01:15:29.511856Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42727",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18711/fd02ed0b30142260-5dbea85761dc.mp4",
       "media_identity": "attachment:117504331075420942:fd02ed0b30142260-5dbea85761dc.mp4",
@@ -37498,7 +37498,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18711/fd02ed0b30142260-5dbea85761dc.mp4",
       "truth_social_id": "117504331075420942",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-27T01:10:26.562377Z"
+      "next_retry_at": "2026-10-27T07:15:29.511873Z"
     },
     "truth:117504332756417928": {
       "post_status": "RETRY",
@@ -37561,6 +37561,25 @@
       "published": "Mon, 26 Oct 2026 20:52:11 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-26T23:10:26.638129Z"
+    },
+    "https://www.trumpstruth.org/statuses/42756": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42756",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Ralph Alvarado, M.D., who is running to represent the incredible people of Kentucky’s 6th Congressional District.<br /> <br />A true friend to MAGA, Ralph was a featured Speaker at the 2016 Republican National Convention, and a Member of the National Hispanic Advisory Council for “TRUMP” – RALPH HAS BEEN WITH US FROM THE VERY BEGINNING! A very successful Family Physician, and former Kentucky State Senator, Ralph has dedicated his life to serving his Community. As your next Congressman, Ralph will fight tirelessly to Grow the Economy, Promote our Amazing Farmers and Ranchers, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Ralph’s opponent, Zach Dembo, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Zach Dembo is Reckless, Radical, and Dangerous!<br /> <br />Dr. Ralph Alvarado has my Complete and Total Endorsement to be the next Representative from Kentucky’s 6th Congressional District. GET OUT AND VOTE FOR RALPH — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kentucky/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kentucky/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:49:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-27T01:15:27.908865Z"
+    },
+    "truth:117509180502162923": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42755",
+      "source_text": "<p>Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional District!<br /> <br />As a very successful Small Businessman, and Vice Chair of the House Financial Services Committee, Bill knows the America First Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Champion our Great Farmers and Agriculture, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Additionally, Bill is fighting tirelessly to Keep our Border SECURE, Strengthen our Incredible Military/Vets, and Protect our always under siege Second Amendment.<br /> <br />Bill’s opponent, Sean McCann, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Sean McCann is Reckless, Radical, and Dangerous!<br /> <br />Bill Huizenga has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BILL — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/michigan/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/michigan/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:49:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-27T01:15:27.908714Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42755"
     }
   }
 }
