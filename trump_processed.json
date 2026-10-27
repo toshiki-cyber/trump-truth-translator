@@ -37669,20 +37669,77 @@
       "next_retry_at": "2026-10-27T00:35:42.270324Z"
     },
     "truth:117509420824140105": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/42748",
       "source_text": "<p>Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two Great Patriots are currently doing the anchoring. Wow, I've never heard such great things being said about me! PACKED HOUSE — Will be at the venue soon. VOTE FOR CINDY HYDE-SMITH FOR SENATE! President DONALD J. TRUMP</p>",
       "published": "Mon, 26 Oct 2026 21:51:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-26T23:20:34.017236Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-27T00:35:36.254847Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42748",
       "first_seen": "2026-10-26T23:10:46.342863Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two",
-      "next_retry_at": "2026-10-26T23:30:34.017251Z",
-      "truth_social_id": "117509420824140105"
+      "truth_social_id": "117509420824140105",
+      "source_fingerprint": "fp:Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two",
+      "media_identity": "attachment:117509420824140105:",
+      "translation": "ライト・サイド・ブロードキャスティング・ネットワーク（RSBN）がミシシッピでのラリーの放送を素晴らしい仕事でやり遂げている。エアフォース・ワン内で着陸する際に見ている。現在、二人の偉大な愛国者がアンカーを務めている。すごい、私についてこんなに素晴らしいことを言われたのは今までにない！満席だ — すぐに会場に着く。シンディ・ハイド＝スミスに上院議員投票をしろ！ドナルド・J・トランプ大統領",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myspdufs523g",
+          "cid": "bafyreic3vm23cgz3ar2sdgd33bizkuyi44kwcvo3d4qnlyfrhwsrrvfowq"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myspdufs523g",
+          "cid": "bafyreic3vm23cgz3ar2sdgd33bizkuyi44kwcvo3d4qnlyfrhwsrrvfowq"
+        },
+        "next_index": 1,
+        "last_rkey": "3myspdufs523g",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ライト・サイド・ブロードキャスティング・ネットワーク（RSBN）がミシシッピでのラリーの放送を素晴らしい仕事でやり遂げている。エアフォース・ワン内で着陸する際に見ている。現在、二人の偉大な愛国者がアンカーを務めている。すごい、私についてこんなに素晴らしいことを言われたのは今までにない！満席だ — すぐに会場に着く。シンディ・ハイド＝スミスに上院議員投票をしろ！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-10-27T00:35:29.803730Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "root_rkey": "3myspdufs523g",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ライト・サイド・ブロードキャスティング・ネットワーク（RSBN）がミシシッピでのラリーの放送を素晴らしい仕事でやり遂げている。エアフォース・ワン内で着陸する際に見ている。現在、二人の偉大な愛国者がアンカーを務めている。すごい、私についてこんなに素晴らしいことを言われたのは今までにない！満席だ — すぐに会場に着く。シンディ・ハイド＝スミスに上院議員投票をしろ！ドナルド・J・トランプ大統領",
+          "createdAt": "2026-10-27T00:35:29.803730Z",
+          "langs": [
+            "ja"
+          ]
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myspdufs523g",
+            "rkey": "3myspdufs523g"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myspdufs523g",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3myspdufs523g",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ライト・サイド・ブロードキャスティング・ネットワーク（RSBN）がミシシッピでのラリーの放送を素晴らしい仕事でやり遂げている。エアフォース・ワン内で着陸する際に見ている。現在、二人の偉大な愛国者がアンカーを務めている。すごい、私についてこんなに素晴らしいことを言われたのは今までにない！満席だ — すぐに会場に着く。シンディ・ハイド＝スミスに上院議員投票をしろ！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-10-27T00:35:29.803730Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myspdufs523g",
+          "rkey": "3myspdufs523g"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-27T00:40:36.254860Z"
     },
     "truth:117509610171065034": {
       "post_status": "RETRY",
