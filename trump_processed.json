@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40682",
-    "https://www.trumpstruth.org/statuses/40681",
-    "https://www.trumpstruth.org/statuses/40680",
     "https://www.trumpstruth.org/statuses/40679",
     "https://www.trumpstruth.org/statuses/40678",
     "https://www.trumpstruth.org/statuses/40677",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42793",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513731349800861https://truth-archive.us-iad-1.linodeobjects.com/attachments/18722/b2fcac",
     "truth:117513740571841141",
-    "https://www.trumpstruth.org/statuses/42791"
+    "https://www.trumpstruth.org/statuses/42791",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513725195476460https://truth-archive.us-iad-1.linodeobjects.com/attachments/18720/81a15d",
+    "truth:117513742358218898",
+    "https://www.trumpstruth.org/statuses/42789"
   ],
   "posts": {
-    "truth:117400280030146024": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42191",
-      "source_text": "<p>I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I will be approving 17.9 Million Dollars for the Severe Storms and Tornadoes that Wisconsin has experienced. The people are tough and smart, and will come back stronger than ever — 18 Million Dollars should help, A LOT. See you soon Wisconsin — I LOVE YOU ALL! President DONALD J. TRUMP</p>",
-      "published": "Wed, 07 Oct 2026 15:15:08 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-07T16:21:28.533604Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42191",
-      "first_seen": "2026-10-07T16:01:27.524246Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I wi",
-      "truth_social_id": "117400280030146024",
-      "source_fingerprint": "fp:I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I wi",
-      "media_identity": "attachment:117400280030146024:",
-      "translation": "トム・ティファニーと話したばかりだ。彼は偉大なウィスコンシン州の次期知事として、私の完全かつ全面的な支持を得ている。ウィスコンシン州が経験した激しい嵐とトルネードのために、私が1,790万ドルの承認を下ろすことをトムに伝えた。州民は強靭で賢く、これまで以上に強く復興するだろう——1,800万ドルが大いに役に立つはずだ。すぐにお会いしよう、ウィスコンシン州——皆さんのことが大好きだ！ドナルド・J・トランプ大統領"
-    },
     "truth:117400465758567373": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18357,6 +18339,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513731349800861https://truth-archive.us-iad-1.linodeobjects.com/attachments/18722/b2fcac",
       "truth_social_id": "117513740571841141",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117513731349800861https://truth-archive.us-iad-1.linodeobjects.com/attachments/18722/b2fcac426f9122f3-ab7100285387.pngQuoted\nhttps://www.trumpstruth.org/statuses/42792https://truth-archive.us-iad-1.linodeobjects.com/attachments/18723/72299314fb8d1bd2-ed7462005702.mp4"
+    },
+    "truth:117513742358218898": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42789",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513725195476460</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18720/81a15d42d5d1e700-e073825e072b.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42790\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18721/2acb33733725ba50-7c323af89835.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 27 Oct 2026 16:10:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-27T20:30:41.186275Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42789",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513725195476460https://truth-archive.us-iad-1.linodeobjects.com/attachments/18720/81a15d",
+      "media_identity": "attachment:117513742358218898:81a15d42d5d1e700.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513725195476460https://truth-archive.us-iad-1.linodeobjects.com/attachments/18720/81a15d",
+      "truth_social_id": "117513742358218898",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117513725195476460https://truth-archive.us-iad-1.linodeobjects.com/attachments/18720/81a15d42d5d1e700-e073825e072b.pngQuoted\nhttps://www.trumpstruth.org/statuses/42790https://truth-archive.us-iad-1.linodeobjects.com/attachments/18721/2acb33733725ba50-7c323af89835.mp4"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37599,16 +37597,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18723/72299314fb8d1bd2-ed7462005702.mp4",
       "truth_social_id": "117513731349800861",
       "next_retry_at": "2026-10-27T20:25:44.355472Z"
-    },
-    "truth:117513742358218898": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42789",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513725195476460</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18720/81a15d42d5d1e700-e073825e072b.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42790\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18721/2acb33733725ba50-7c323af89835.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 27 Oct 2026 16:10:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T19:15:23.242745Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42789"
     },
     "truth:117513748917462566": {
       "post_status": "DISCOVERED",
