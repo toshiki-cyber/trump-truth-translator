@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40655",
-    "https://www.trumpstruth.org/statuses/40654",
-    "https://www.trumpstruth.org/statuses/40660",
     "https://www.trumpstruth.org/statuses/40659",
     "https://www.trumpstruth.org/statuses/40658",
     "fp:Eric Schmitt is a STAR!!! President DJT",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42799",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1",
     "truth:117513691842839994",
-    "https://www.trumpstruth.org/statuses/42798"
+    "https://www.trumpstruth.org/statuses/42798",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562",
+    "truth:117513699879855060",
+    "https://www.trumpstruth.org/statuses/42796"
   ],
   "posts": {
-    "truth:117397200762855537": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42184",
-      "source_text": "<p>Jack Smith Spied on Trump Staffer’s Communications and 20+ Lawyers: Report: <a href=\"https://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">usajournal.news/2026/10/05/jac</span><span class=\"invisible\">k-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/</span></a></p>",
-      "published": "Wed, 07 Oct 2026 02:12:02 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-07T04:06:17.422648Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42184",
-      "first_seen": "2026-10-07T03:36:20.363469Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Jack Smith Spied on Trump Staffer’s Communications and 20+ Lawyers: Report: \nhttps://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-",
-      "truth_social_id": "117397200762855537",
-      "source_fingerprint": "fp:Jack Smith Spied on Trump Staffer’s Communications and 20+ Lawyers: Report: \nhttps://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-",
-      "media_identity": "attachment:117397200762855537:",
-      "translation": "ジャック・スミスがトランプ陣営スタッフの通信と20人以上の弁護士を盗聴していた：報告書\nhttps://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxaum3lli2lq",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxaum3lli2lq",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ジャック・スミスがトランプ陣営スタッフの通信と20人以上の弁護士を盗聴していた：報告書\nhttps://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/",
-        "createdAt": "2026-10-07T03:56:22.425985Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 126,
-              "byteEnd": 240
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://usajournal.news/2026/10/05/jack-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/",
-            "title": "Jack Smith Spied on Trump Staffer's Communications and 20+ Lawyers: Report",
-            "description": "Conservative News and Politics in America",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreidp5n3pvxmkf4uu63a7tbtsq6kbkxtyr2oxjqbeyvv5juimmb4mde"
-              },
-              "mimeType": "image/jpeg",
-              "size": 106959
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxaum3lli2lq",
-          "rkey": "3mxaum3lli2lq"
-        }
-      ]
-    },
     "truth:117399303994327712": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18356,6 +18288,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1",
       "truth_social_id": "117513691842839994",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117513689851891225https://truth-archive.us-iad-1.linodeobjects.com/attachments/18729/3b64a1bf16f9997d-98c2416dda4f.pngQuoted\nhttps://www.trumpstruth.org/statuses/42799https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4"
+    },
+    "truth:117513699879855060": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42796",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562b071f9dbb2-131727fcf9b6.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42797\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18728/86bbe3c54fc2a134-6ab9d15b2c7c.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 27 Oct 2026 15:59:18 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-27T19:41:22.020252Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42796",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562",
+      "media_identity": "attachment:117513699879855060:d91562b071f9dbb2.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562",
+      "truth_social_id": "117513699879855060",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562b071f9dbb2-131727fcf9b6.pngQuoted\nhttps://www.trumpstruth.org/statuses/42797https://truth-archive.us-iad-1.linodeobjects.com/attachments/18728/86bbe3c54fc2a134-6ab9d15b2c7c.mp4"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37737,16 +37685,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-27T19:41:37.360464Z"
-    },
-    "truth:117513699879855060": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42796",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562b071f9dbb2-131727fcf9b6.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42797\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18728/86bbe3c54fc2a134-6ab9d15b2c7c.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 27 Oct 2026 15:59:18 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T19:15:23.243572Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42796"
     },
     "truth:117513706348498042": {
       "post_status": "DISCOVERED",
