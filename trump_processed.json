@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40616",
-    "https://www.trumpstruth.org/statuses/40615",
-    "https://www.trumpstruth.org/statuses/40614",
     "https://www.trumpstruth.org/statuses/40613",
     "https://www.trumpstruth.org/statuses/40620",
     "https://www.trumpstruth.org/statuses/40619",
@@ -5000,93 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42771",
     "fp:Abdul El-Sayed: You’re No Jack Kennedy: \nhttps://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/",
     "truth:117509120218595998",
-    "https://www.trumpstruth.org/statuses/42770"
+    "https://www.trumpstruth.org/statuses/42770",
+    "fp:Congresswoman Victoria Spartz is doing a fantastic job representing Indiana’s 5th Congressional District! Victoria is a Great Champion for Democracy. ",
+    "truth:117509141576629625",
+    "https://www.trumpstruth.org/statuses/42767"
   ],
   "posts": {
-    "truth:117389589417251241": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42165",
-      "source_text": "<p>Pictures attached! President DJT</p>",
-      "published": "Mon, 05 Oct 2026 17:56:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-05T20:26:24.354144Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42165",
-      "source_fingerprint": "fp:Pictures attached! President DJT",
-      "media_identity": "attachment:117389589417251241:16afd2067bab10a8.jpg,849c8816c860d61d.jpg,cb3ee3066cbf2c4c.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Pictures attached! President DJT",
-      "truth_social_id": "117389589417251241",
-      "translation": "画像を添付しています！大統領DJT",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
-      "expected_embed": "images",
-      "expected_images": 3,
-      "root_rkey": "3mx5igtwlrswz",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "画像を添付しています！大統領DJT",
-        "createdAt": "2026-10-05T20:08:02.536409Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicdutoebaspgz2oycllrd47zfiq5sftpiyye4wzqeiuhpqfhe6dim"
-                },
-                "mimeType": "image/jpeg",
-                "size": 166399
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibdqqemopy2prwjxves5vjk4lpbe6bvfw7wspjuaxogviy5sgkouq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 247521
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            },
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigjvonxphm3p4nnk2npbyhbwptahgdn7jug7pb37uj5lqbxsj7i7m"
-                },
-                "mimeType": "image/jpeg",
-                "size": 350794
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mx5igtwlrswz",
-          "rkey": "3mx5igtwlrswz"
-        }
-      ]
-    },
     "truth:117389593495407380": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18468,6 +18384,24 @@
           "rkey": "3mysl35zg2sal"
         }
       ]
+    },
+    "truth:117509141576629625": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42767",
+      "source_text": "<p>Congresswoman Victoria Spartz is doing a fantastic job representing Indiana’s 5th Congressional District! Victoria is a Great Champion for Democracy. She is a hard worker, and has always had my Complete and Total Endorsement. Sleazebags like the San Francisco Radical Left rich person funding her Dumocrat opponent, are doing everything to take her out because of her strong and steadfast commitment to our Country. Do not let that happen. Vote for Victoria Spartz!<br /> <br />A Successful Businesswoman, Civic Leader, and Highly Respected State Senator, prior to becoming a distinguished Congresswoman, Victoria has dedicated her life to serving her Community. Her opponent, JD Ford, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. JD Ford is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, in Congress, Victoria is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, and Defend our always under siege Second Amendment.<br /> <br />Victoria Spartz has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR VICTORIA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/states/indiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/states/ind</span><span class=\"invisible\">iana/</span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:40:04 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-27T04:20:37.100844Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42767",
+      "first_seen": "2026-10-27T03:30:26.323936Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congresswoman Victoria Spartz is doing a fantastic job representing Indiana’s 5th Congressional District! Victoria is a Great Champion for Democracy. ",
+      "truth_social_id": "117509141576629625",
+      "source_fingerprint": "fp:Congresswoman Victoria Spartz is doing a fantastic job representing Indiana’s 5th Congressional District! Victoria is a Great Champion for Democracy. ",
+      "media_identity": "attachment:117509141576629625:",
+      "translation": "ビクトリア・スパーツ下院議員はインディアナ州第5選挙区を素晴らしく代表している！ビクトリアは民主主義の偉大なチャンピオンだ。彼女は勤勉な労働者であり、常に私の完全で全面的な支持を得ている。彼女の国に対する強固で不動の献身のせいで彼女を排除しようとしている、サンフランシスコの急進左翼の金持ちのような下品な輩が彼女の民主党の対立候補に資金を提供している。そんなことは起こさせるな。ビクトリア・スパーツに投票しろ！\n\n成功した実業家、市民指導者、そして非常に尊敬される州上院議員として活躍してきたビクトリアは、著名な下院議員になる前から、自分のコミュニティに奉仕する人生を捧げてきた。彼女の対立候補JDフォードは、チップへの課税なし、残業手当への課税なし、社会保障への課税なしに反対している急進左翼民主党員だ。もし彼と民主党員どもが権力を握ったら、これらすべてが廃止されるだろう。彼は大幅な増税、国境開放、男性が女性スポーツに参加すること、そしてお前たちの子どもへのトランスジェンダー手術を望んでいる。JDフォードは無分別で急進的で危険だ！\n\n一方、議会ではビクトリアは経済成長のため、税金と規制を削減するため、アメリカン・エネルギーの支配を確立するため、アメリカ製を推進するため、国境を厳重に守るため、移民犯罪を止めるため、勇敢な軍と退役軍人を強化するため、力による平和を確保するため、常に標的にされている第2修正条項を守るために必死で戦っている。\n\nビクトリア・スパーツは再選に向けて私の完全で全面的な支持を得ている。投票に行ってビクトリアに投票しろ――彼女は絶対にお前たちをがっかりさせることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/states/indiana/"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37678,22 +37612,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-27T03:30:37.655402Z"
-    },
-    "truth:117509141576629625": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42767",
-      "source_text": "<p>Congresswoman Victoria Spartz is doing a fantastic job representing Indiana’s 5th Congressional District! Victoria is a Great Champion for Democracy. She is a hard worker, and has always had my Complete and Total Endorsement. Sleazebags like the San Francisco Radical Left rich person funding her Dumocrat opponent, are doing everything to take her out because of her strong and steadfast commitment to our Country. Do not let that happen. Vote for Victoria Spartz!<br /> <br />A Successful Businesswoman, Civic Leader, and Highly Respected State Senator, prior to becoming a distinguished Congresswoman, Victoria has dedicated her life to serving her Community. Her opponent, JD Ford, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. JD Ford is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, in Congress, Victoria is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure PEACE THROUGH STRENGTH, and Defend our always under siege Second Amendment.<br /> <br />Victoria Spartz has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR VICTORIA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/states/indiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/states/ind</span><span class=\"invisible\">iana/</span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:40:04 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T04:10:23.085671Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42767",
-      "first_seen": "2026-10-27T03:30:26.323936Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congresswoman Victoria Spartz is doing a fantastic job representing Indiana’s 5th Congressional District! Victoria is a Great Champion for Democracy. ",
-      "next_retry_at": "2026-10-27T04:20:23.085689Z",
-      "truth_social_id": "117509141576629625"
     },
     "truth:117509145083769998": {
       "post_status": "RETRY",
