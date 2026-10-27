@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40663",
-    "fp:More than 600,000 voter files ripped off Arizona site in 2020 by hacker, but DOJ didn't prosecute: \nhttps://justthenews.com/government/courts-law/6amh",
-    "https://www.trumpstruth.org/statuses/40664",
     "fp:Great Poll Numbers. Thank You!!! President DJT",
     "https://www.trumpstruth.org/statuses/40662",
     "fp:My latest Fox News piece:\nMIKE DAVIS: Chuck Grassley's behind-the-scenes work proved decisive in Todd Blanche confirmation fight\nhttps://www.foxnews.c",
@@ -5000,24 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42797",
     "fp:Congratulations to Lorne Doerkson on his Big Victory. Conservatives are moving strong in Canada! President DONALD J. TRUMP\nBC Left-Wing Leader Loses t",
     "truth:117513440975898446",
-    "https://www.trumpstruth.org/statuses/42800"
+    "https://www.trumpstruth.org/statuses/42800",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18726/96611a542783d852-0fc97be2431d.mp4",
+    "truth:117513706348498042",
+    "https://www.trumpstruth.org/statuses/42795"
   ],
   "posts": {
-    "truth:117399305601073573": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42187",
-      "source_text": "<p></p>",
-      "published": "Wed, 07 Oct 2026 11:07:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-07T11:46:30.333524Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42187",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117399305601073573:150818115dd96f0e-b11deacf4177.mp4",
-      "failure_reason": null,
-      "truth_social_id": "117399305601073573",
-      "translation": ""
-    },
     "truth:117399306525636867": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18395,6 +18380,22 @@
           "rkey": "3myuihzcsts2t"
         }
       ]
+    },
+    "truth:117513706348498042": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42795",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18726/96611a542783d852-0fc97be2431d.mp4\">View video</a></p>",
+      "published": "Tue, 27 Oct 2026 16:00:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-27T20:01:44.430432Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42795",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18726/96611a542783d852-0fc97be2431d.mp4",
+      "media_identity": "attachment:117513706348498042:96611a542783d852-0fc97be2431d.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18726/96611a542783d852-0fc97be2431d.mp4",
+      "truth_social_id": "117513706348498042",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18726/96611a542783d852-0fc97be2431d.mp4"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37605,16 +37606,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-27T03:30:37.655402Z"
-    },
-    "truth:117513706348498042": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42795",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18726/96611a542783d852-0fc97be2431d.mp4\">View video</a></p>",
-      "published": "Tue, 27 Oct 2026 16:00:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T19:15:23.243456Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42795"
     },
     "truth:117513707283246784": {
       "post_status": "DISCOVERED",
