@@ -37602,6 +37602,22 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-27T03:30:37.655402Z"
+    },
+    "truth:117512775101937441": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42776",
+      "source_text": "<p>GREGG JARRETT: Ilhan Omar could face indictment, denaturalization and deportation: <a href=\"https://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-face-indictment-denaturalization-deportation\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/gregg-jarr</span><span class=\"invisible\">ett-ilhan-omar-could-face-indictment-denaturalization-deportation</span></a></p>",
+      "published": "Tue, 27 Oct 2026 12:04:07 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-27T15:10:32.280846Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42776",
+      "first_seen": "2026-10-27T15:10:32.280807Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:GREGG JARRETT: Ilhan Omar could face indictment, denaturalization and deportation: \nhttps://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-fac",
+      "next_retry_at": "2026-10-27T15:15:32.280855Z",
+      "truth_social_id": "117512775101937441"
     }
   }
 }
