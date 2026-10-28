@@ -1,8 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40711",
-    "fp:Congressman Derrick Van Orden is an America First Warrior for Wisconsin’s 3rd Congressional District.\n \nA retired Navy SEAL, Derrick bravely served ou",
     "https://www.trumpstruth.org/statuses/40710",
     "fp:Congressman Scott Fitzgerald is doing a truly fantastic job representing the Great People of Wisconsin’s 5th Congressional District!\n \nA retired Lieut",
     "https://www.trumpstruth.org/statuses/40709",
@@ -5000,77 +4998,11 @@
     "https://www.trumpstruth.org/statuses/42809",
     "fp:RT \nhttps://truthsocial.com/@jmclghlnStrong Majority backs \nhttps://truthsocial.com/@realDonaldTrump\n stopping Iran from getting Nukes \nhttps://www.ne",
     "truth:116219893965837380",
-    "https://www.trumpstruth.org/statuses/42810"
+    "https://www.trumpstruth.org/statuses/42810",
+    "truth:117519060732843479",
+    "https://www.trumpstruth.org/statuses/42811"
   ],
   "posts": {
-    "truth:117408228489272278": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42208",
-      "source_text": "<p>Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: <a href=\"https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/03/02/us-news/</span><span class=\"invisible\">melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/</span></a></p>",
-      "published": "Fri, 09 Oct 2026 00:56:32 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-09T02:41:57.499763Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42208",
-      "first_seen": "2026-10-09T02:01:20.854980Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: \nhttps://nypost.com/2026/03/02/us-news/melania-trump-ma",
-      "truth_social_id": "117408228489272278",
-      "source_fingerprint": "fp:Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: \nhttps://nypost.com/2026/03/02/us-news/melania-trump-ma",
-      "media_identity": "attachment:117408228489272278:",
-      "translation": "メラニア・トランプ、国連安全保障理事会の議長を務めて歴史を作る――イラン戦争の死者について言及する：\nhttps://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfrcw4u6swm",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxfrcw4u6swm",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "メラニア・トランプ、国連安全保障理事会の議長を務めて歴史を作る――イラン戦争の死者について言及する：\nhttps://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/",
-        "createdAt": "2026-10-09T02:36:27.833550Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 151,
-              "byteEnd": 283
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/",
-            "title": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths",
-            "description": "“You are in my thoughts and prayers during these challenging times,” Melania Trump said.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreifdj5z4a5ky7jyjcpuqgvho2ujdrde2abwavfa5bbxh33hazbbbyq"
-              },
-              "mimeType": "image/jpeg",
-              "size": 271497
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfrcw4u6swm",
-          "rkey": "3mxfrcw4u6swm"
-        }
-      ]
-    },
     "truth:117408959105269388": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18412,6 +18344,22 @@
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@jmclghlnStrong Majority backs \nhttps://truthsocial.com/@realDonaldTrump\n stopping Iran from getting Nukes \nhttps://www.ne",
       "media_identity": "attachment:116219893965837380:",
       "translation": "大多数がイランの核兵器獲得を阻止することを支持している\nhttps://truthsocial.com/@realDonaldTrump\n https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\n \nhttps://truthsocial.com/@DanScavino\n \nhttps://truthsocial.com/@StevenCheung\n \nhttps://truthsocial.com/@DevinNunesReposted \nhttps://www.trumpstruth.org/statuses/37298Strong 大多数がイランの核兵器獲得を阻止することを支持している\nhttps://truthsocial.com/@realDonaldTrump\n https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\n \nhttps://truthsocial.com/@DanScavino\n \nhttps://truthsocial.com/@StevenCheung\n \nhttps://truthsocial.com/@DevinNunes"
+    },
+    "truth:117519060732843479": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42811",
+      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18735/888ad4dcd8dfd530-a743c9a02cef.jpg\">View image</a></p>",
+      "published": "Wed, 28 Oct 2026 14:42:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-28T15:10:41.370435Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42811",
+      "source_fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/at",
+      "media_identity": "attachment:117519060732843479:888ad4dcd8dfd530.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/at",
+      "truth_social_id": "117519060732843479",
+      "translation": "https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachments/18735/888ad4dcd8dfd530-a743c9a02cef.jpg"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
