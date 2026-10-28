@@ -37733,6 +37733,58 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbggtclnj33s73abro80\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-27T21:05:45.470149Z"
+    },
+    "truth:117520106264955050": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42814",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>It has just been determined that the Democrats in Alaska illegally searched for, and recruited, a man named Dan Sullivan to run against our distinguished Republican Senator, Dan Sullivan, in order to defraud, confuse, and obfuscate the Election, thereby taking votes away from the REAL Senator, Dan Sullivan. The New York Times reports that, “Democrats have insisted they have nothing to do with the other Dan Sullivan on Alaska’s Senate ballot. But aides with the Mary Peltola campaign and DSCC were part of a monthslong secret plan to recruit him to run — as well as other candidates.” The Democrats’ false statements were made under oath in Federal Court. Therefore, they perjured themselves, and should be liable for very serious consequences. Mary Peltola should suffer the Legal and Political consequences for what she has done, A FRAUD ON THE AMERICAN PUBLIC, and Dan Sullivan should be allowed to run without either Mary Peltola or FAKE Dan Sullivan on the Ballot. President DONALD J. TRUMP</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42813\">Donald J. Trump</a></p><blockquote><p>It has just been determined that the Democrats in Alaska illegally searched for, and recruited, a man named Dan Sullivan to run against our distinguished Republican Senator, Dan Sullivan, in order to defraud, confuse, and obfuscate the Election, thereby taking votes away from the REAL Senator, Dan Sullivan. The New York Times reports that, “Democrats have insisted they have nothing to do with the other Dan Sullivan on Alaska’s Senate ballot. But aides with the Mary Peltola campaign and DSCC were part of a monthslong secret plan to recruit him to run — as well as other candidates.” The Democrats’ false statements were made under oath in Federal Court. Therefore, they perjured themselves, and should be liable for very serious consequences. Mary Peltola should suffer the Legal and Political consequences for what she has done, A FRAUD ON THE AMERICAN PUBLIC, and Dan Sullivan should be allowed to run without either Mary Peltola or FAKE Dan Sullivan on the Ballot. President DONALD J. TRUMP</p></blockquote>",
+      "published": "Wed, 28 Oct 2026 19:26:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-28T21:15:25.870748Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42814",
+      "first_seen": "2026-10-28T21:15:27.143247Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It has just been determined that the Democrats in Alaska illegally searched for, and recruited, a man named Dan Sullivan to run against our distinguis",
+      "next_retry_at": "2026-10-28T21:20:27.143287Z",
+      "truth_social_id": "117520106264955050"
+    },
+    "truth:117520108599434597": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/42812",
+      "source_text": "<p><a href=\"https://nursesfornursinghomes.cms.gov\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>nursesfornursinghomes.cms.gov</span><span class=\"invisible\"></span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18736/40a7ca82d429c660-8b6edfe63e6f.mov\">View video</a></p>",
+      "published": "Wed, 28 Oct 2026 19:09:07 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-28T21:15:30.021175Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42812",
+      "source_fingerprint": "fp:https://nursesfornursinghomes.cms.govhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18736/40a7ca82d429c660-8b6edfe63e6f.mov",
+      "media_identity": "attachment:117520108599434597:40a7ca82d429c660-8b6edfe63e6f.mov",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 79.1MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/518/835/618/820/864/original/40a7ca82d429c660.mp4",
+      "fingerprint": "fp:https://nursesfornursinghomes.cms.govhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18736/40a7ca82d429c660-8b6edfe63e6f.mov",
+      "truth_social_id": "117520108599434597",
+      "next_retry_at": "2026-10-28T21:20:30.021190Z"
+    },
+    "truth:117520154668933347": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42815",
+      "source_text": "<p>CROOKED ELECTION IN ALASKA!</p><p>Inside Democrats’ Secret Effort to Stack Alaska’s Ballot: <a href=\"https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/10/28/us/poli</span><span class=\"invisible\">tics/alaska-dan-sullivan-conspiracy-peltola.html</span></a></p>",
+      "published": "Wed, 28 Oct 2026 19:20:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-28T21:15:25.870897Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42815"
+    },
+    "truth:117520178701808601": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42816",
+      "source_text": "<p>In Alaska, I don’t think Mary Peltola, after perpetrating such a terrible scheme, should be allowed to run, because this is ELECTION FRAUD. The Democrats cheated! They found a man named Dan Sullivan, put him on the Ballot, then lied to the Court, and said they didn’t know anything about it. That’s perjury. She shouldn’t be allowed to run, and neither should the FAKE Dan Sullivan! President DONALD J. TRUMP</p>",
+      "published": "Wed, 28 Oct 2026 19:26:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-28T21:15:25.870579Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42816"
     }
   }
 }
