@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Highly Respected America First Congressman, Tom Tiffany, is running to be the next Governor of the GREAT State of Wisconsin, a very special place to m",
-    "https://www.trumpstruth.org/statuses/40712",
-    "fp:Congressman Bryan Steil is a Tremendous Advocate for the Wonderful People of Wisconsin’s 1st Congressional District!\n \nAs the Chair of the House Admin",
     "https://www.trumpstruth.org/statuses/40711",
     "fp:Congressman Derrick Van Orden is an America First Warrior for Wisconsin’s 3rd Congressional District.\n \nA retired Navy SEAL, Derrick bravely served ou",
     "https://www.trumpstruth.org/statuses/40710",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42808",
     "fp:“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like",
     "truth:117516666252141562",
-    "https://www.trumpstruth.org/statuses/42809"
+    "https://www.trumpstruth.org/statuses/42809",
+    "fp:RT \nhttps://truthsocial.com/@jmclghlnStrong Majority backs \nhttps://truthsocial.com/@realDonaldTrump\n stopping Iran from getting Nukes \nhttps://www.ne",
+    "truth:116219893965837380",
+    "https://www.trumpstruth.org/statuses/42810"
   ],
   "posts": {
-    "truth:117408209620927226": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42207",
-      "source_text": "<p>How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: <a href=\"https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/08/opinion/</span><span class=\"invisible\">how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/</span></a></p>",
-      "published": "Fri, 09 Oct 2026 00:51:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-09T02:31:20.779658Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42207",
-      "first_seen": "2026-10-09T02:01:19.598572Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: \nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-p",
-      "truth_social_id": "117408209620927226",
-      "source_fingerprint": "fp:How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace: \nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-p",
-      "media_identity": "attachment:117408209620927226:",
-      "translation": "トランプが「専門家」に逆らい、国連を10月7日以降の平和へ向かわせた方法：\nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfr2dklzsyb",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxfr2dklzsyb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプが「専門家」に逆らい、国連を10月7日以降の平和へ向かわせた方法：\nhttps://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
-        "createdAt": "2026-10-09T02:21:27.444261Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 106,
-              "byteEnd": 211
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
-            "title": "How Trump defied the ‘experts’ — and pushed the UN toward post-Oct. 7 peace",
-            "description": "Thanks to President Donald Trump, the same UN that was part of the problem in 2023 now has an opportunity — indeed, a mandate — to be part of the solution.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreievfncilntiqei237tmewjc5byljraiwmp4k72clxmj33jxzo6eu4"
-              },
-              "mimeType": "image/jpeg",
-              "size": 196050
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxfr2dklzsyb",
-          "rkey": "3mxfr2dklzsyb"
-        }
-      ]
-    },
     "truth:117408228489272278": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18462,6 +18394,24 @@
       "source_fingerprint": "fp:“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like",
       "media_identity": "attachment:117516666252141562:",
       "translation": "「トランプ大統領がビビ・ネタニヤフを支持した時、潮目が完全に変わった。偉大な首相の決定的な敗北ではなく、むしろネタニヤフの大逆転の膠着状態、あるいは勝利にさえ見える状況になった。これはすべてトランプ大統領による支持表明の後に起きたことだ。トランプ大統領は中東、イスラエル、そしてアメリカ合衆国にとって良いことだけを望んでいるのだ！」"
+    },
+    "truth:116219893965837380": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42810",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@jmclghln\" rel=\"nofollow\">@<span>jmclghln</span></a></span>Strong Majority backs <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> stopping Iran from getting Nukes <a href=\"https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/mclaughlin/cable-n</span><span class=\"invisible\">uclear-weapons/2026/03/12/id/1249304/</span></a> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DanScavino\" rel=\"nofollow\">@<span>DanScavino</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@StevenCheung\" rel=\"nofollow\">@<span>StevenCheung</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DevinNunes\" rel=\"nofollow\">@<span>DevinNunes</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/37298\">John McLaughlin</a></p><blockquote><p>Strong Majority backs <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> stopping Iran from getting Nukes <a href=\"https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/mclaughlin/cable-n</span><span class=\"invisible\">uclear-weapons/2026/03/12/id/1249304/</span></a> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DanScavino\" rel=\"nofollow\">@<span>DanScavino</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@StevenCheung\" rel=\"nofollow\">@<span>StevenCheung</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DevinNunes\" rel=\"nofollow\">@<span>DevinNunes</span></a></span></p></blockquote>",
+      "published": "Wed, 28 Oct 2026 05:25:21 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-28T07:35:30.676374Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42810",
+      "first_seen": "2026-10-28T07:15:26.728726Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT \nhttps://truthsocial.com/@jmclghlnStrong Majority backs \nhttps://truthsocial.com/@realDonaldTrump\n stopping Iran from getting Nukes \nhttps://www.ne",
+      "truth_social_id": "116219893965837380",
+      "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@jmclghlnStrong Majority backs \nhttps://truthsocial.com/@realDonaldTrump\n stopping Iran from getting Nukes \nhttps://www.ne",
+      "media_identity": "attachment:116219893965837380:",
+      "translation": "大多数がイランの核兵器獲得を阻止することを支持している\nhttps://truthsocial.com/@realDonaldTrump\n https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\n \nhttps://truthsocial.com/@DanScavino\n \nhttps://truthsocial.com/@StevenCheung\n \nhttps://truthsocial.com/@DevinNunesReposted \nhttps://www.trumpstruth.org/statuses/37298Strong 大多数がイランの核兵器獲得を阻止することを支持している\nhttps://truthsocial.com/@realDonaldTrump\n https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\n \nhttps://truthsocial.com/@DanScavino\n \nhttps://truthsocial.com/@StevenCheung\n \nhttps://truthsocial.com/@DevinNunes"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37834,22 +37784,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbggtclnj33s73abro80\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-27T21:05:45.470149Z"
-    },
-    "truth:116219893965837380": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42810",
-      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@jmclghln\" rel=\"nofollow\">@<span>jmclghln</span></a></span>Strong Majority backs <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> stopping Iran from getting Nukes <a href=\"https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/mclaughlin/cable-n</span><span class=\"invisible\">uclear-weapons/2026/03/12/id/1249304/</span></a> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DanScavino\" rel=\"nofollow\">@<span>DanScavino</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@StevenCheung\" rel=\"nofollow\">@<span>StevenCheung</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DevinNunes\" rel=\"nofollow\">@<span>DevinNunes</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/37298\">John McLaughlin</a></p><blockquote><p>Strong Majority backs <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> stopping Iran from getting Nukes <a href=\"https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsmax.com/mclaughlin/cable-n</span><span class=\"invisible\">uclear-weapons/2026/03/12/id/1249304/</span></a> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DanScavino\" rel=\"nofollow\">@<span>DanScavino</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@StevenCheung\" rel=\"nofollow\">@<span>StevenCheung</span></a></span> <span class=\"h-card\"><a href=\"https://truthsocial.com/@DevinNunes\" rel=\"nofollow\">@<span>DevinNunes</span></a></span></p></blockquote>",
-      "published": "Wed, 28 Oct 2026 05:25:21 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-28T07:20:29.398178Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42810",
-      "first_seen": "2026-10-28T07:15:26.728726Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT \nhttps://truthsocial.com/@jmclghlnStrong Majority backs \nhttps://truthsocial.com/@realDonaldTrump\n stopping Iran from getting Nukes \nhttps://www.ne",
-      "next_retry_at": "2026-10-28T07:30:29.398194Z",
-      "truth_social_id": "116219893965837380"
     }
   }
 }
