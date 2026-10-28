@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117072168149236615Also, with respect to the Iran negotiations, Iran should be responsible f",
-    "https://www.trumpstruth.org/statuses/40703",
-    "https://www.trumpstruth.org/statuses/40713",
     "fp:Highly Respected America First Congressman, Tom Tiffany, is running to be the next Governor of the GREAT State of Wisconsin, a very special place to m",
     "https://www.trumpstruth.org/statuses/40712",
     "fp:Congressman Bryan Steil is a Tremendous Advocate for the Wonderful People of Wisconsin’s 1st Congressional District!\n \nAs the Chair of the House Admin",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42806",
     "fp:https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1",
     "truth:117514552184642275",
-    "https://www.trumpstruth.org/statuses/42808"
+    "https://www.trumpstruth.org/statuses/42808",
+    "fp:“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like",
+    "truth:117516666252141562",
+    "https://www.trumpstruth.org/statuses/42809"
   ],
   "posts": {
-    "truth:117408226875989984": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42209",
-      "source_text": "<p>Trump’s men at the United Nations: <a href=\"https://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/magazin</span><span class=\"invisible\">e-features/4684766/trump-administration-push-reform-united-nations/</span></a></p>",
-      "published": "Fri, 09 Oct 2026 00:56:08 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-09T02:26:20.343275Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42209",
-      "first_seen": "2026-10-09T02:01:20.161831Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump’s men at the United Nations: \nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
-      "truth_social_id": "117408226875989984",
-      "source_fingerprint": "fp:Trump’s men at the United Nations: \nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/",
-      "media_identity": "attachment:117408226875989984:",
-      "translation": "国連でのトランプの陣営：\nhttps://www.washingtonexaminer.com/magazine-features/4684766/trump-administration-push-reform-united-nations/"
-    },
     "truth:117408209620927226": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18462,6 +18444,24 @@
       "source_fingerprint": "fp:https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1",
       "media_identity": "attachment:117514552184642275:",
       "translation": "https://www.youtube.com/live/inZ8qeJOpb8?si=bdkL3Mzig_VHbhw1"
+    },
+    "truth:117516666252141562": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42809",
+      "source_text": "<p>“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like a big come-from-behind stalemate, or even a WIN for Netanyahu. It all took place AFTER the Endorsement by President Trump, who only wants what is good for the Middle East, Israel, and the United States of America!”</p>",
+      "published": "Wed, 28 Oct 2026 04:33:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-28T05:35:36.795661Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42809",
+      "first_seen": "2026-10-28T05:15:26.215714Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like",
+      "truth_social_id": "117516666252141562",
+      "source_fingerprint": "fp:“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like",
+      "media_identity": "attachment:117516666252141562:",
+      "translation": "「トランプ大統領がビビ・ネタニヤフを支持した時、潮目が完全に変わった。偉大な首相の決定的な敗北ではなく、むしろネタニヤフの大逆転の膠着状態、あるいは勝利にさえ見える状況になった。これはすべてトランプ大統領による支持表明の後に起きたことだ。トランプ大統領は中東、イスラエル、そしてアメリカ合衆国にとって良いことだけを望んでいるのだ！」"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37835,22 +37835,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbggtclnj33s73abro80\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-27T21:05:45.470149Z"
-    },
-    "truth:117516666252141562": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42809",
-      "source_text": "<p>“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like a big come-from-behind stalemate, or even a WIN for Netanyahu. It all took place AFTER the Endorsement by President Trump, who only wants what is good for the Middle East, Israel, and the United States of America!”</p>",
-      "published": "Wed, 28 Oct 2026 04:33:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-28T05:25:28.580045Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42809",
-      "first_seen": "2026-10-28T05:15:26.215714Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:“When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like",
-      "next_retry_at": "2026-10-28T05:35:28.580062Z",
-      "truth_social_id": "117516666252141562"
     }
   }
 }
