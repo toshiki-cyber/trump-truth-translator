@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117084807594231596",
-    "https://www.trumpstruth.org/statuses/40777",
-    "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District!\n \nIn Congress, Kat is wo",
     "truth:117084810795263041",
     "https://www.trumpstruth.org/statuses/40774",
     "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42853",
     "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
     "truth:117509192151030901",
-    "https://www.trumpstruth.org/statuses/42743"
+    "https://www.trumpstruth.org/statuses/42743",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4",
+    "truth:117525708513449313",
+    "https://www.trumpstruth.org/statuses/42851"
   ],
   "posts": {
-    "truth:117422903045682248": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42248",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg\">View image</a></p>",
-      "published": "Sun, 11 Oct 2026 15:08:28 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-11T15:26:17.897569Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42248",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg",
-      "media_identity": "attachment:117422903045682248:9ba86832f3d375da.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg",
-      "truth_social_id": "117422903045682248",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18446/9ba86832f3d375da-4f34654ccff9.jpg"
-    },
     "truth:117422907738688355": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18270,6 +18254,22 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
       "media_identity": "attachment:117509192151030901:",
       "translation": "私は大きな栄誉を感じながら、アメリカファースト愛国者シドニー・グルーターズを支持する。彼女は共和党全国委員会の素晴らしい議長ジョー・グルーターズの妻であり、フロリダ州第16議会区の素晴らしき人々を代表するために立候補している！\n\nシドニーは高度に成功した市民的指導者であり公務員であり、彼女は自分のコミュニティに奉仕することに人生を捧げてきた。彼女と彼女の家族は、アメリカを再び偉大にする我々の運動の熱烈な支持者である！次の下院議員として、シドニーは経済を成長させ、税金と規制を削減し、アメリカ製を推進し、アメリカのエネルギー支配力を解放し、我々の国境をしっかり守り、移民犯罪を止め、軍隊と退役軍人を支援し、選挙を守り、学校選択制を推し進め、常に攻撃を受けている我々の修正第2条を擁護するために、たゆまぬ努力をするだろう。\n\nシドニーの対立候補であるケリー・キルシュナーは、チップスへの課税なし、残業手当への課税なし、社会保障への課税なしに反対している過激左派民主党員である。もし彼と民主党員たちが政権を取ったら、これらすべてのものが廃止されるだろう。彼は大幅な増税、開放的な国境、男性による女性スポーツ競技参加、そして子どもたちへのトランスジェンダーの変質を望んでいる。ケリー・キルシュナーは無責任で、過激で、危険である！\n\nシドニー・グルーターズはフロリダ州第16議会区の次の下院議員になるために、私の完全で絶対的な支持を有している！投票に行ってシドニーに投票しろ――彼女は決してお前たちを失望させることはない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/florida/"
+    },
+    "truth:117525708513449313": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42851",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4\">View video</a></p>",
+      "published": "Thu, 29 Oct 2026 18:53:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T19:56:27.060153Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42851",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4",
+      "media_identity": "attachment:117525708513449313:c2050f6a7a52d03b-ff9b21e6d81a.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4",
+      "truth_social_id": "117525708513449313",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4"
     },
     "truth:117525088652931553": {
       "post_status": "DISCOVERED",
@@ -38173,25 +38173,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42854",
       "source_text": "<p>Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Consumer spending is WAY UP, Business Investment is WAY UP, and Investment in new Equipment EXPLODED by 21%, which means Record Numbers of Factories and Companies are being built and expanded in the U.S.A. Very importantly, Core Inflation remained LOW. We are smashing expectations — with today’s numbers beating 72% of economists’ forecasts. Our Economy is ROARING but, if the Dumocrats win the Midterms, they will burn it all down. If you want to keep this Growth going, you must vote REPUBLICAN! President DONALD J. TRUMP</p>",
       "published": "Thu, 29 Oct 2026 18:52:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-29T19:41:19.743615Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-29T19:56:12.141924Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42854",
       "first_seen": "2026-10-29T19:41:19.743584Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Co",
-      "next_retry_at": "2026-10-29T19:46:19.743625Z",
+      "next_retry_at": "2026-10-29T20:06:12.141940Z",
       "truth_social_id": "117525706731349400"
-    },
-    "truth:117525708513449313": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42851",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4\">View video</a></p>",
-      "published": "Thu, 29 Oct 2026 18:53:15 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T19:11:16.107247Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42851"
     },
     "truth:117525715840384199": {
       "post_status": "DISCOVERED",
