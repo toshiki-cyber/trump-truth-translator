@@ -37343,15 +37343,6 @@
       "retry_count": 0,
       "updated_at": "2026-10-26T23:10:26.638017Z"
     },
-    "https://www.trumpstruth.org/statuses/42746": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42746",
-      "source_text": "<p>Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District!<br /> <br />A true MAGA Warrior, Anna is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.<br /> <br />Anna’s opponent, Leela Gray, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Leela Gray is Reckless, Radical, and Dangerous!<br /> <br />Anna Paulina Luna has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR ANNA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:52:11 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-26T23:10:26.638129Z"
-    },
     "https://www.trumpstruth.org/statuses/42756": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -38130,24 +38121,175 @@
       "next_retry_at": "2026-10-29T19:31:40.457128Z"
     },
     "truth:117525706731349400": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42854",
       "source_text": "<p>Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Consumer spending is WAY UP, Business Investment is WAY UP, and Investment in new Equipment EXPLODED by 21%, which means Record Numbers of Factories and Companies are being built and expanded in the U.S.A. Very importantly, Core Inflation remained LOW. We are smashing expectations — with today’s numbers beating 72% of economists’ forecasts. Our Economy is ROARING but, if the Dumocrats win the Midterms, they will burn it all down. If you want to keep this Growth going, you must vote REPUBLICAN! President DONALD J. TRUMP</p>",
       "published": "Thu, 29 Oct 2026 18:52:48 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T19:11:16.107712Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42854"
+      "retry_count": 1,
+      "updated_at": "2026-10-29T19:41:19.743615Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42854",
+      "first_seen": "2026-10-29T19:41:19.743584Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Co",
+      "next_retry_at": "2026-10-29T19:46:19.743625Z",
+      "truth_social_id": "117525706731349400"
     },
     "truth:117525707348152529": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/42853",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4\">View video</a></p>",
       "published": "Thu, 29 Oct 2026 18:52:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T19:11:16.107557Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42853"
+      "retry_count": 1,
+      "updated_at": "2026-10-29T19:42:25.437183Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42853",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
+      "media_identity": "attachment:117525707348152529:29382fa3522a8cbc-9bd180082415.mp4",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
+      "truth_social_id": "117525707348152529",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzws4jjbklw",
+          "cid": "bafyreicjbxbrqz5cafdl22q4wc5y4ksgdgblwuz2yt6x3turbqwcawxoxu"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzws4jjbklw",
+          "cid": "bafyreicjbxbrqz5cafdl22q4wc5y4ksgdgblwuz2yt6x3turbqwcawxoxu"
+        },
+        "next_index": 1,
+        "last_rkey": "3myzws4jjbklw",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
+          "createdAt": "2026-10-29T19:42:02.865549Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 100
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.video",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidptgtt6lf6sw2eo4bg6hbvmcvyubao4hlugk4rz7hn4cv5ldp6nu"
+              },
+              "mimeType": "video/mp4",
+              "size": 22604578
+            },
+            "alt": ""
+          }
+        },
+        "root_rkey": "3myzws4jjbklw",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
+          "createdAt": "2026-10-29T19:42:02.865549Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 100
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.video",
+            "video": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidptgtt6lf6sw2eo4bg6hbvmcvyubao4hlugk4rz7hn4cv5ldp6nu"
+              },
+              "mimeType": "video/mp4",
+              "size": 22604578
+            },
+            "alt": ""
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzws4jjbklw",
+            "rkey": "3myzws4jjbklw"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzws4jjbklw",
+      "expected_embed": "video",
+      "expected_images": 0,
+      "root_rkey": "3myzws4jjbklw",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
+        "createdAt": "2026-10-29T19:42:02.865549Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.video",
+          "video": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidptgtt6lf6sw2eo4bg6hbvmcvyubao4hlugk4rz7hn4cv5ldp6nu"
+            },
+            "mimeType": "video/mp4",
+            "size": 22604578
+          },
+          "alt": ""
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzws4jjbklw",
+          "rkey": "3myzws4jjbklw"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-29T19:47:25.437196Z"
     },
     "truth:117525708145400474": {
       "post_status": "DISCOVERED",
@@ -38194,6 +38336,22 @@
       "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
       "next_retry_at": "2026-10-29T19:46:16.868902Z",
       "truth_social_id": "117509192151030901"
+    },
+    "truth:117509189268383436": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42746",
+      "source_text": "<p>Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District!<br /> <br />A true MAGA Warrior, Anna is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.<br /> <br />Anna’s opponent, Leela Gray, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Leela Gray is Reckless, Radical, and Dangerous!<br /> <br />Anna Paulina Luna has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR ANNA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:52:11 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-29T19:41:16.775422Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42746",
+      "first_seen": "2026-10-29T19:41:16.775388Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District!",
+      "next_retry_at": "2026-10-29T19:46:16.775435Z",
+      "truth_social_id": "117509189268383436"
     }
   }
 }
