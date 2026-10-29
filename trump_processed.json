@@ -37901,13 +37901,13 @@
       "truth_social_id": "117525088652931553"
     },
     "truth:117525185794939859": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42835",
       "source_text": "<p>Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the Arena. Special Jumbotrons put up. See you soon! President DONALD J. TRUMP</p>",
       "published": "Thu, 29 Oct 2026 16:40:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-29T17:21:14.645035Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T17:26:14.169460Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42843",
       "first_seen": "2026-10-29T17:11:21.494417Z",
       "no_media_confirmations": 2,
@@ -37997,14 +37997,20 @@
       "next_retry_at": "2026-10-29T17:21:25.447672Z"
     },
     "truth:117525211152165520": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42836",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4\">View video</a></p>",
       "published": "Thu, 29 Oct 2026 16:46:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:11:20.037375Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42836"
+      "retry_count": 1,
+      "updated_at": "2026-10-29T17:26:19.673631Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42836",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4",
+      "media_identity": "attachment:117525211152165520:e330c766f9dafb4c-70dd8648eb62.mp4",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 136.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/525/203/235/703/113/original/e330c766f9dafb4c.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4",
+      "truth_social_id": "117525211152165520",
+      "next_retry_at": "2026-10-29T17:31:19.673651Z"
     },
     "truth:117525239970226458": {
       "post_status": "DISCOVERED",
