@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117084798936770955",
-    "https://www.trumpstruth.org/statuses/40760",
-    "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
     "truth:117084800480790674",
     "https://www.trumpstruth.org/statuses/40767",
     "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42842",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525273514465379https://truth-archive.us-iad-1.linodeobjects.com/attachments/18760/8ec569",
     "truth:117525311655512373",
-    "https://www.trumpstruth.org/statuses/42846"
+    "https://www.trumpstruth.org/statuses/42846",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18761/ed94589e5527d0ad-c310c58efbd4.mp4",
+    "truth:117525359134298486",
+    "https://www.trumpstruth.org/statuses/42847"
   ],
   "posts": {
-    "truth:117418148236895862": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42240",
-      "source_text": "<p>The Dumocrats, along with their partners in crime, the Fake News Media, are trying to create the false narrative that, Donald Trump is so “unpopular,” the Republicans are going to lose. Actually, it's just the opposite. I'm so “popular,” that the Republicans are going to WIN, and that's being proven by the Record Setting Rallies we're doing (including the one in Tennessee where I'll be in a short while — See you soon!). President DONALD J. TRUMP</p>",
-      "published": "Sat, 10 Oct 2026 18:59:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-10T20:01:24.854761Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42240",
-      "first_seen": "2026-10-10T19:26:17.878746Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:The Dumocrats, along with their partners in crime, the Fake News Media, are trying to create the false narrative that, Donald Trump is so “unpopular,”",
-      "truth_social_id": "117418148236895862",
-      "source_fingerprint": "fp:The Dumocrats, along with their partners in crime, the Fake News Media, are trying to create the false narrative that, Donald Trump is so “unpopular,”",
-      "media_identity": "attachment:117418148236895862:",
-      "translation": "ダモクラット（民主党員）は、その犯罪パートナーである偽りのニュースメディアと一緒に、ドナルド・トランプはとても「不人気」なので共和党は敗北するという虚偽の物語を作ろうとしている。実際のところ、まったく逆だ。私はとても「人気がある」ので、共和党は勝利する、そしてそれは我々が行っている記録的規模の集会によって証明されている（テネシー州での集会も含まれており、そこに私はすぐに向かう — またすぐに会おう！）。ドナルド・J・トランプ大統領"
-    },
     "truth:117419344133655598": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18223,6 +18205,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525273514465379https://truth-archive.us-iad-1.linodeobjects.com/attachments/18760/8ec569",
       "truth_social_id": "117525311655512373",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525273514465379https://truth-archive.us-iad-1.linodeobjects.com/attachments/18760/8ec569015f155545-cdd69d4d5b05.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42842https://truth-archive.us-iad-1.linodeobjects.com/attachments/18757/6b817f7fb6d1734b-3f8e0afe45a8.mp4"
+    },
+    "truth:117525359134298486": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42847",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18761/ed94589e5527d0ad-c310c58efbd4.mp4\">View video</a></p>",
+      "published": "Thu, 29 Oct 2026 17:24:24 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T19:21:37.006034Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42847",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18761/ed94589e5527d0ad-c310c58efbd4.mp4",
+      "media_identity": "attachment:117525359134298486:ed94589e5527d0ad-c310c58efbd4.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18761/ed94589e5527d0ad-c310c58efbd4.mp4",
+      "truth_social_id": "117525359134298486",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18761/ed94589e5527d0ad-c310c58efbd4.mp4"
     },
     "truth:117525088652931553": {
       "post_status": "DISCOVERED",
@@ -38228,16 +38226,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-29T19:22:10.146987Z"
-    },
-    "truth:117525359134298486": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42847",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18761/ed94589e5527d0ad-c310c58efbd4.mp4\">View video</a></p>",
-      "published": "Thu, 29 Oct 2026 17:24:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T19:11:16.108174Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42847"
     },
     "truth:117525365644162218": {
       "post_status": "DISCOVERED",
