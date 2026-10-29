@@ -37918,6 +37918,38 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbhknlj9jtgc73a0elq0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-29T13:51:21.840352Z"
+    },
+    "truth:117524674249671299": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42833",
+      "source_text": "<p>🚨 KENTUCKY!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Kentucky. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Kentucky, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! <br />President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/kentucky/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kentucky/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Thu, 29 Oct 2026 14:30:14 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-29T15:11:17.777392Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42833",
+      "first_seen": "2026-10-29T15:11:17.777354Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:🚨 KENTUCKY!\nEarly Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Kentucky. If you have a mail-in ballot, return it immediately and, i",
+      "next_retry_at": "2026-10-29T15:16:17.777401Z",
+      "truth_social_id": "117524674249671299"
+    },
+    "truth:117524676590414089": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42832",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117524674249671299</span>TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE FOR:<br /> <br />– Andy Barr for U.S. Senate<br />– James Comer for U.S. Congress (KY-01)<br />– Brett Guthrie for U.S. Congress (KY-02)<br />– Ed Gallrein for U.S. Congress (KY-04)<br />– Hal Rogers for U.S. Congress (KY-05)<br />– Ralph Alvarado for U.S. Congress (KY-06)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kentucky/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kentucky/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42833\">Donald J. Trump</a></p><blockquote><p>🚨 KENTUCKY!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Kentucky. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Kentucky, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! <br />President DONALD J. TRUMP</p><p>Find your Voting Location here: <a href=\"https://swampthevoteusa.com/kentucky/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kentucky/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Thu, 29 Oct 2026 14:30:49 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-10-29T15:11:18.390091Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42832",
+      "first_seen": "2026-10-29T15:11:18.390056Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117524674249671299TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE FOR:\n \n– Andy Barr for ",
+      "next_retry_at": "2026-10-29T15:16:18.390101Z",
+      "truth_social_id": "117524676590414089"
     }
   }
 }
