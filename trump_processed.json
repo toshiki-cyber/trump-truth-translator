@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40726",
-    "fp:Newly released documents open a path to the true origins of the Russia hoax: \nhttps://nypost.com/2026/08/10/opinion/newly-released-documents-open-a-pa",
-    "https://www.trumpstruth.org/statuses/40728",
     "fp:Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, N",
     "https://www.trumpstruth.org/statuses/40730",
     "fp:The NYC Pied-a-Terre Tax is costing New York City and State a fortune in that the money, eventually to be gotten, is very little compared to to the TA",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42821",
     "fp:It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional ",
     "truth:117509177513886735",
-    "https://www.trumpstruth.org/statuses/42757"
+    "https://www.trumpstruth.org/statuses/42757",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+    "truth:117521889411299184",
+    "https://www.trumpstruth.org/statuses/42826"
   ],
   "posts": {
-    "truth:117415098778388029": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42227",
-      "source_text": "<p></p>",
-      "published": "Sat, 10 Oct 2026 06:03:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-10T08:11:23.129872Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42227",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117415098778388029:f9fef26626e9afa7.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117415098778388029",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxisx5ykd2b6",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxisx5ykd2b6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-10T08:01:24.339389Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifp3eoyolcop7fcdyaxlanpuuoqu3z4vj45kiii3aa3mg2rsyg33q"
-                },
-                "mimeType": "image/jpeg",
-                "size": 89321
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1179,
-                "height": 645
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxisx5ykd2b6",
-          "rkey": "3mxisx5ykd2b6"
-        }
-      ]
-    },
     "truth:117415100317957299": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18397,6 +18344,22 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional ",
       "media_identity": "attachment:117509177513886735:",
       "translation": "アラバマ州第2下院地区の素晴らしい人々を代表するために立候補している「アメリカ・ファースト愛国者」ライエット・マルケスを推薦することは、私にとって大きな名誉だ。ライエットは、私の友人である下院議員ケイティ・ブリットを含む、アラバマ州の最高のMAGA戦士たちの多くから強く支持されている！\n\n議会に立候補する前に、高く尊敬される州下院議員、実業家、および市民指導者として、ライエットは自分の人生をコミュニティへのサービスに捧げてきた。次の下院議員として、彼は経済の成長、農業と米国農業の擁護、増税と規制の削減、米国のエネルギー優位性の解放、米国製造の推進、国境の厳格な管理、移民犯罪の阻止、軍隊と退役軍人の強化、選挙の完全性の推進、そして常に脅威にさらされている修正第2条の防衛のために、不屈の努力を続けるだろう。\n\n彼の対立候補であるショマリ・フィギュアーズは、チップへの非課税、残業への非課税、および社会保障への非課税に反対票を投じた。そして、彼と民主党員たちが権力を握るようなことがあれば、これらすべてのものが廃止されるだろう。彼は大幅な増税、国境開放、男性による女性スポーツへの参加、そして万人向けのトランスジェンダー政策を望んでいる。ショマリ・フィギュアーズは無謀で過激で危険だ！\n\nライエット・マルケスはアラバマ州第2下院地区の次期代表として、私からの完全で全面的な推薦を得ている。投票所に行ってライエットに投票しろ—彼は君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/alabama/"
+    },
+    "truth:117521889411299184": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42826",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18744/1e6903216bdb1894-040fcc292800.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18745/545b408e1f4f4edf-b84f92445245.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18746/012d86bd456254ae-98c5cb81fc23.jpg\">View image</a></p>",
+      "published": "Thu, 29 Oct 2026 02:42:00 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T03:11:24.937061Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42826",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "media_identity": "attachment:117521889411299184:012d86bd456254ae.jpg,1e6903216bdb1894.jpg,545b408e1f4f4edf.jpg,6d0a0c65803642b1.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "truth_social_id": "117521889411299184",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18744/1e6903216bdb1894-040fcc292800.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18745/545b408e1f4f4edf-b84f92445245.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18746/012d86bd456254ae-98c5cb81fc23.jpg"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37786,6 +37749,26 @@
       "published": "Wed, 28 Oct 2026 19:08:32 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-28T21:40:22.482612Z"
+    },
+    "truth:117521892279559312": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42825",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521889411299184</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18739/873b397d91692b90-aa5af1f0e5e2.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18740/4f0507f644e8e4c7-74ac19332c0d.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18741/d4221fc77c0c7042-e2ef1d744b0b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18742/548c6da102d542d8-83f559f4f4a0.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42826\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18744/1e6903216bdb1894-040fcc292800.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18745/545b408e1f4f4edf-b84f92445245.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18746/012d86bd456254ae-98c5cb81fc23.jpg\">View image</a></p></blockquote>",
+      "published": "Thu, 29 Oct 2026 02:42:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T03:11:17.753695Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42825"
+    },
+    "truth:117521895212942057": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42824",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521892279559312</span>East Potomac Golf Course is highly dangerous, dilapidated, and absolutely disgusting. Below are new photos of the deplorable conditions of the driving range building, including excrement in the stairwell. The gaping holes in the driving range’s “protective” netting are highly hazardous. Golf balls soar through the holes at high speed and hit unexpecting Golfers—including a White House staffer who was, sadly, hit violently in the chest. The driving range building itself is falling apart, and its structural stability is terrible. It should be closed immediately for safety reasons! The exposed nails and disintegrating wood also endanger young Golfers — Not a good situation! The people of Washington, D.C., (and the Nation!) deserve so much better, like a beautiful, safe, affordable, accessible, sanitary, and CLEAN driving range! No one will be more thrilled by our plans to renovate the Course and Driving Range than the Local Golfers who have played there for years, and have begged to have their Home Course brought into pristine condition. The driving range should provide Golfers with stunning views of the Washington Monument, not of a barren, debris-ridden wasteland. The driving range should NOT be a threat to life and limb. The current condition of the golf course is a National Disgrace, but we will make it a WORLD CLASS PUBLIC Golf Course that is AFFORDABLE for locals — Just like the Great and Historic Public Courses of Torrey Pines and Bethpage Black, only better, for the good of our now Beautiful Again Washington, D.C. After we are done, the East Potomac Course will be a place of immeasurable Pride for the City, all of the Golf Enthusiasts who live here, a Course worthy of and befitting our Nation’s Capital. We will hold the judge, Ana C. Reyes, fully responsible for anybody who is hurt, or killed, on this very dangerous, dilapidated, and unsightly Golf Course. GOD BLESS AMERICA! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18737/2bf8b2445f07d911-a83850ab9f70.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18738/a2fda4a297880248-b4f9241df84f.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42825\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521889411299184</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18739/873b397d91692b90-aa5af1f0e5e2.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18740/4f0507f644e8e4c7-74ac19332c0d.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18741/d4221fc77c0c7042-e2ef1d744b0b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18742/548c6da102d542d8-83f559f4f4a0.jpg\">View image</a></p></blockquote>",
+      "published": "Thu, 29 Oct 2026 02:43:29 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T03:11:17.753535Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42824"
     }
   }
 }
