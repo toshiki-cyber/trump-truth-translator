@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117084808801556907",
-    "https://www.trumpstruth.org/statuses/40776",
-    "fp:Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
     "truth:117084809928280169",
     "https://www.trumpstruth.org/statuses/40775",
     "fp:Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!\n \n",
@@ -5000,69 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42864",
     "fp:Congressman Lloyd Smucker is a terrific Representative for the wonderful people of Pennsylvania’s 11th Congressional District!\n \nA Proven Leader, Lloy",
     "truth:117525796755388768",
-    "https://www.trumpstruth.org/statuses/42863"
+    "https://www.trumpstruth.org/statuses/42863",
+    "fp:Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional District!\n \nJohn is fighting hard in Congress to Grow the Economy",
+    "truth:117525798353944575",
+    "https://www.trumpstruth.org/statuses/42862"
   ],
   "posts": {
-    "truth:117422897092397528": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42249",
-      "source_text": "<p>If Mamdani can play nice with Trump, why can’t Schumer and Jeffries?<br /><a href=\"https://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-learn-mamdani/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/opinions/20</span><span class=\"invisible\">26/09/24/what-schumer-jeffries-could-learn-mamdani/</span></a></p>",
-      "published": "Sun, 11 Oct 2026 15:06:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-11T16:06:15.307325Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42249",
-      "first_seen": "2026-10-11T15:26:15.397071Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:If Mamdani can play nice with Trump, why can’t Schumer and Jeffries?\nhttps://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-le",
-      "truth_social_id": "117422897092397528",
-      "source_fingerprint": "fp:If Mamdani can play nice with Trump, why can’t Schumer and Jeffries?\nhttps://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-le",
-      "media_identity": "attachment:117422897092397528:",
-      "translation": "マムダーニがトランプと上手くやれるなら、なぜシューマーとジェフリーズはできないんだ？\nhttps://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-learn-mamdani/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxmbrgfhw2ql",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxmbrgfhw2ql",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "マムダーニがトランプと上手くやれるなら、なぜシューマーとジェフリーズはできないんだ？\nhttps://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-learn-mamdani/",
-        "createdAt": "2026-10-11T15:56:34.883477Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 127,
-              "byteEnd": 220
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-learn-mamdani/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-learn-mamdani/",
-            "title": "https://www.washingtonpost.com/opinions/2026/09/24/what-schumer-jeffries-could-learn-mamdani/",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxmbrgfhw2ql",
-          "rkey": "3mxmbrgfhw2ql"
-        }
-      ]
-    },
     "truth:117424308243914403": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18274,6 +18214,24 @@
       "source_fingerprint": "fp:Congressman Lloyd Smucker is a terrific Representative for the wonderful people of Pennsylvania’s 11th Congressional District!\n \nA Proven Leader, Lloy",
       "media_identity": "attachment:117525796755388768:",
       "translation": "ペンシルベニア州第11下院議員区の素晴らしい人々のために、ロイド・スマッカー下院議員は傑出した代表者である！\n\n実績のあるリーダーであるロイドは、高く尊敬される州上院議員およびビジネスマンを経て、非常に名高い米国下院議員となった。議会では、彼は我々の素晴らしい農民と牧場主を応援し、経済を成長させ、税金と規制を削減し、米国エネルギー優位性を推し進め、米国製を推進し、我々の国境を厳重に守り、移民犯罪を阻止し、我々の偉大な軍隊と退役軍人のために主張し、常に脅威にさらされている修正第2条を守るために、不断の努力で闘っている。\n\nロイドの対抗馬、ナンシー・マニオンは根拠なき左翼民主党員で、チップへの課税廃止、残業代への課税廃止、社会保障への課税廃止に反対している。そして、もし彼女と民主党員が権を握ったら、これら全てのものは廃止される。彼女は大幅な増税、国境開放、女性スポーツへの男性参加、そして君たちの子どもへのトランスジェンダー切除を望んでいる。ナンシー・マニオンは無責任で、根拠なく、危険である！\n\nロイド・スマッカーは再選に向けて、私の完全かつ全面的な支持を得ている。投票に行ってロイドに投票しろ――彼は決して君たちを失望させない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/pennsylvania/"
+    },
+    "truth:117525798353944575": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42862",
+      "source_text": "<p>Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional District!<br /> <br />John is fighting hard in Congress to Grow the Economy, Keep our Border SECURE, Stop Migrant Crime, Unleash American Energy, Support our Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.<br /> <br />John’s opponent, Beth Farnham, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Beth Farnham is Reckless, Radical, and Dangerous!<br /> <br />John Joyce has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/pennsylvania/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/pennsylvan</span><span class=\"invisible\">ia/</span></a></p>",
+      "published": "Thu, 29 Oct 2026 19:16:06 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-29T21:41:24.328277Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42862",
+      "first_seen": "2026-10-29T21:11:15.021101Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional District!\n \nJohn is fighting hard in Congress to Grow the Economy",
+      "truth_social_id": "117525798353944575",
+      "source_fingerprint": "fp:Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional District!\n \nJohn is fighting hard in Congress to Grow the Economy",
+      "media_identity": "attachment:117525798353944575:",
+      "translation": "ジョン・ジョイス下院議員はペンシルベニア州第13選挙区の素晴らしいチャンピオンだ！\n\nジョンは議会で経済成長、国境のセキュリティ維持、移民犯罪の阻止、アメリカンエネルギーの解放、軍隊と退役軍人の支援、常に攻撃にさらされている憲法修正第2条の擁護、そして強さを通じた平和の確保のために議会で全力で戦っている。\n\nジョンの対立候補ベス・ファーナムは、チップへの非課税、残業代への非課税、社会保障への非課税に反対する過激左翼民主党員であり、彼女と民主党員どもがもし権力を握れば、これらすべてが廃止されるだろう。彼女は大増税、国境開放、男性による女性スポーツへの参加、お前たちの子どもへのトランスジェンダー切除を望んでいる。ベス・ファーナムは無責任で過激で危険だ！\n\nジョン・ジョイスは再選について私の完全かつ絶対的な支持を得ている。出かけていってジョンに投票するんだ――彼はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/pennsylvania/"
     },
     "truth:117516666252141562": {
       "post_status": "DISCOVERED",
@@ -38206,22 +38164,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-29T19:31:40.457128Z"
-    },
-    "truth:117525798353944575": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42862",
-      "source_text": "<p>Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional District!<br /> <br />John is fighting hard in Congress to Grow the Economy, Keep our Border SECURE, Stop Migrant Crime, Unleash American Energy, Support our Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.<br /> <br />John’s opponent, Beth Farnham, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Beth Farnham is Reckless, Radical, and Dangerous!<br /> <br />John Joyce has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/pennsylvania/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/pennsylvan</span><span class=\"invisible\">ia/</span></a></p>",
-      "published": "Thu, 29 Oct 2026 19:16:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T21:16:15.518649Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42862",
-      "first_seen": "2026-10-29T21:11:15.021101Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman John Joyce is a fantastic Champion for Pennsylvania’s 13th Congressional District!\n \nJohn is fighting hard in Congress to Grow the Economy",
-      "next_retry_at": "2026-10-29T21:26:15.518665Z",
-      "truth_social_id": "117525798353944575"
     },
     "truth:117525800206914059": {
       "post_status": "RETRY",
