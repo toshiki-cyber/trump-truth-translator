@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117084949169827129",
-    "https://www.trumpstruth.org/statuses/40782",
-    "fp:I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for the Eighth Circuit! Lee is currently a distinguished",
     "truth:117085013643913800",
     "https://www.trumpstruth.org/statuses/40784",
     "fp:For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it proper",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42861",
     "fp:Congressman Glenn “GT” Thompson is a Tremendous Champion for Pennsylvania’s 15th Congressional District!\n \nAs Chairman of the House Agriculture Commit",
     "truth:117525801983876789",
-    "https://www.trumpstruth.org/statuses/42859"
+    "https://www.trumpstruth.org/statuses/42859",
+    "fp:Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pennsylvania’s 16th Congressional District!\n \nAs a S",
+    "truth:117525804009701874",
+    "https://www.trumpstruth.org/statuses/42860"
   ],
   "posts": {
-    "truth:117424431971621400": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42254",
-      "source_text": "<p>I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the Press Briefing Room in the White House. Katie has been with me, in spirit, from the very beginning, and will do a fantastic job! President DONALD J. TRUMP</p>",
-      "published": "Sun, 11 Oct 2026 21:37:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-11T23:51:20.127792Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42254",
-      "first_seen": "2026-10-11T23:26:20.048222Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory N",
-      "truth_social_id": "117424431971621400",
-      "source_fingerprint": "fp:I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory N",
-      "media_identity": "attachment:117424431971621400:",
-      "translation": "私は、ケイティ・ザカリアが明日のコロンバス・デーからプレス・セクレタリーとしての職務を開始し、火曜日の午前9時30分にホワイトハウスのプレス・ブリーフィング・ルームから記者会見を行うことをお知らせできて嬉しい。ケイティは最初からずっと精神的に私と共にあり、素晴らしい仕事をするだろう！大統領ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxmxlftcdkem",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxmxlftcdkem",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "私は、ケイティ・ザカリアが明日のコロンバス・デーからプレス・セクレタリーとしての職務を開始し、火曜日の午前9時30分にホワイトハウスのプレス・ブリーフィング・ルームから記者会見を行うことをお知らせできて嬉しい。ケイティは最初からずっと精神的に私と共にあり、素晴らしい仕事をするだろう！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-10-11T23:41:25.410632Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxmxlftcdkem",
-          "rkey": "3mxmxlftcdkem"
-        }
-      ]
-    },
     "truth:117424971260859993": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18232,6 +18196,24 @@
       "source_fingerprint": "fp:Congressman Glenn “GT” Thompson is a Tremendous Champion for Pennsylvania’s 15th Congressional District!\n \nAs Chairman of the House Agriculture Commit",
       "media_identity": "attachment:117525801983876789:",
       "translation": "グレン「GT」トンプソン下院議員はペンシルベニア州第15選挙区の素晴らしいチャンピオンだ！\n\n下院農業委員会の委員長として、GTはアメリカ農業、そして素晴らしい農民と牧場主のための強力で効果的な声である。議会において、彼は経済成長、税と規制の削減、アメリカ製品の推進、アメリカンエネルギーの優位性を掲げ、国境を安全に守り、移民犯罪を阻止し、軍隊と退役軍人を強化し、常に危機にさらされているアメリカ国民の第2修正条項を守るために疲れを知らずに戦っている。\n\nGTの対抗馬であるレイ・ビルガーはチップへの課税なし、超過勤務への課税なし、社会保障への課税なしに反対する急進左翼民主党である。もし彼と民主党がいつか権力を握ったら、これらすべてが廃止されるだろう。彼は大幅な増税、国境開放、男性による女性スポーツ参加、そして児童への変性医療を望んでいる。レイ・ビルガーは無責任で急進的で危険だ！\n\nGT・トンプソンは再選に向けて私の完全かつ全面的な支持を得ている。投票に行ってGTに投票しよう——彼は決してお前たちを失望させないだろう！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/pennsylvania/"
+    },
+    "truth:117525804009701874": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42860",
+      "source_text": "<p>Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pennsylvania’s 16th Congressional District!<br /> <br />As a Senior Member of the POWERFUL House Ways &amp; Means Committee, Mike understands the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. He is fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Advocate for the Working Men and Women of Pennsylvania.<br /> <br />Mike’s opponent, Justin Wagner, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Justin Wagner is Reckless, Radical, and Dangerous!<br /> <br />Mike Kelly has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/pennsylvania/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/pennsylvan</span><span class=\"invisible\">ia/</span></a></p>",
+      "published": "Thu, 29 Oct 2026 19:17:32 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-29T21:56:24.222274Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42860",
+      "first_seen": "2026-10-29T21:11:16.765443Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pennsylvania’s 16th Congressional District!\n \nAs a S",
+      "truth_social_id": "117525804009701874",
+      "source_fingerprint": "fp:Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pennsylvania’s 16th Congressional District!\n \nAs a S",
+      "media_identity": "attachment:117525804009701874:",
+      "translation": "マイク・ケリー下院議員は最初から我々と共にいた素晴らしいペンシルベニア州第16選挙区の代表だ！\n\nマイクは下院歳出委員会の強力な上級委員として、素晴らしい雇用を創出し、税と規制を削減し、アメリカン・エネルギーの支配を推し進め、アメリカ製を促進し、我が国の黄金期を支援するために必要なアメリカ第一政策を理解している。彼は国境を堅牢に保ち、移民犯罪を止め、軍隊と退役軍人を強化し、常に脅威にさらされている憲法修正第2条を守り、ペンシルベニア州の労働者男女のために絶えず戦っている。\n\nマイクの対立候補であるジャスティン・ワグナーは、チップへの課税廃止、残業代への課税廃止、社会保障への課税廃止に反対する急進的左翼民主党員であり、もし彼と民主党員が権力を握ったなら、これらすべてのものが廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツでの男性の参加、そしてお前らの子どもへのトランスジェンダー変造を求めている。ジャスティン・ワグナーは無謀で、急進的で、危険だ！\n\nマイク・ケリーは再選を目指す私からの完全で全面的な支持を得ている。マイクに投票するために外に出ろ――彼はお前らを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/pennsylvania/"
     },
     "truth:117516666252141562": {
       "post_status": "DISCOVERED",
@@ -38164,22 +38146,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-29T19:31:40.457128Z"
-    },
-    "truth:117525804009701874": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42860",
-      "source_text": "<p>Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pennsylvania’s 16th Congressional District!<br /> <br />As a Senior Member of the POWERFUL House Ways &amp; Means Committee, Mike understands the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. He is fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Advocate for the Working Men and Women of Pennsylvania.<br /> <br />Mike’s opponent, Justin Wagner, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Justin Wagner is Reckless, Radical, and Dangerous!<br /> <br />Mike Kelly has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/pennsylvania/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/pennsylvan</span><span class=\"invisible\">ia/</span></a></p>",
-      "published": "Thu, 29 Oct 2026 19:17:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T21:21:12.573809Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42860",
-      "first_seen": "2026-10-29T21:11:16.765443Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pennsylvania’s 16th Congressional District!\n \nAs a S",
-      "next_retry_at": "2026-10-29T21:31:12.573821Z",
-      "truth_social_id": "117525804009701874"
     },
     "truth:117526178919539647": {
       "post_status": "RETRY",
