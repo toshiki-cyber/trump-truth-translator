@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40737",
-    "https://www.trumpstruth.org/statuses/40739",
-    "https://www.trumpstruth.org/statuses/40741",
     "https://www.trumpstruth.org/statuses/40740",
     "https://www.trumpstruth.org/statuses/40746",
     "https://www.trumpstruth.org/statuses/40745",
@@ -5000,24 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42828",
     "fp:Aaron Flint has my Complete and Total Endorsement to be the next U.S. Representative from Montana’s 1st Congressional District — HE WILL NEVER LET YOU",
     "truth:117523934218890356",
-    "https://www.trumpstruth.org/statuses/42827"
+    "https://www.trumpstruth.org/statuses/42827",
+    "fp:We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like ",
+    "truth:117524036771625091",
+    "https://www.trumpstruth.org/statuses/42831"
   ],
   "posts": {
-    "truth:117415103765536680": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42223",
-      "source_text": "<p></p>",
-      "published": "Sat, 10 Oct 2026 06:05:01 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-10T08:36:17.106062Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42223",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117415103765536680:5d4cc6668844d748.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117415103765536680",
-      "translation": ""
-    },
     "truth:117415109515983885": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18325,6 +18310,24 @@
       "fingerprint": "fp:Anthony Constantino has my Complete and Total Endorsement to be the next U.S. Representative from New York’s 21st Congressional District — HE WILL NEV",
       "truth_social_id": "117523928356184918",
       "translation": "アンソニー・コンスタンティーノは、ニューヨーク州第21選挙区の次期米下院議員として、私の完全かつ全面的な支持を得ている——彼は絶対にあなたたちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18750/c598d37c79462f94-531c69de944a.mp4"
+    },
+    "truth:117524036771625091": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42831",
+      "source_text": "<p>We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like it! My Approval Rating in the Republican Party is now at 99%. Thank you, such an honor!!! Big Rally in South Carolina for the wonderful Darline Graham, today. She is fantastic. Lindsey is watching, and very proud of her!!! President DJT</p>",
+      "published": "Thu, 29 Oct 2026 11:48:06 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-29T14:06:19.629787Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42831",
+      "first_seen": "2026-10-29T13:41:21.515966Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like ",
+      "truth_social_id": "117524036771625091",
+      "source_fingerprint": "fp:We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like ",
+      "media_identity": "attachment:117524036771625091:",
+      "translation": "我々は中間選挙の歴史において、トランプ集会での最大規模の群衆を集めている。5倍という水準だ。これまでこのようなことは存在したことがない。共和党における私の支持率は今や99%だ。ありがとう、このような栄誉をいただき光栄だ。本日、素晴らしいダーリン・グレアムのため、サウスカロライナで大集会を開く。彼女は素晴らしい。リンジーが見守っており、彼女を非常に誇りに思っている。トランプ大統領"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37915,22 +37918,6 @@
       "media_fallback_reason": "動画アップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"dbhknlj9jtgc73a0elq0\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "failure_stage": "POST",
       "next_retry_at": "2026-10-29T13:51:21.840352Z"
-    },
-    "truth:117524036771625091": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42831",
-      "source_text": "<p>We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like it! My Approval Rating in the Republican Party is now at 99%. Thank you, such an honor!!! Big Rally in South Carolina for the wonderful Darline Graham, today. She is fantastic. Lindsey is watching, and very proud of her!!! President DJT</p>",
-      "published": "Thu, 29 Oct 2026 11:48:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T13:51:19.914115Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42831",
-      "first_seen": "2026-10-29T13:41:21.515966Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like ",
-      "next_retry_at": "2026-10-29T14:01:19.914133Z",
-      "truth_social_id": "117524036771625091"
     }
   }
 }
