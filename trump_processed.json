@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117084802456544265",
-    "https://www.trumpstruth.org/statuses/40781",
-    "fp:Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District!",
     "truth:117084803641067826",
     "https://www.trumpstruth.org/statuses/40780",
     "fp:Congressman Gus Bilirakis is a Tremendous Champion for Florida’s 12th Congressional District!\n \nAs a Senior Member of the POWERFUL House Energy and Co",
@@ -5000,24 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42848",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525359134298486https://truth-archive.us-iad-1.linodeobjects.com/attachments/18763/818efb",
     "truth:117525365644162218",
-    "https://www.trumpstruth.org/statuses/42849"
+    "https://www.trumpstruth.org/statuses/42849",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525358635690538https://truth-archive.us-iad-1.linodeobjects.com/attachments/18764/6309f5",
+    "truth:117525381204092010",
+    "https://www.trumpstruth.org/statuses/42850"
   ],
   "posts": {
-    "truth:117419345256359809": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42242",
-      "source_text": "<p></p>",
-      "published": "Sun, 11 Oct 2026 00:03:41 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-11T01:31:32.570117Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42242",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117419345256359809:90bc0430a0c0aa90-915f514e3ed9.mov",
-      "failure_reason": null,
-      "truth_social_id": "117419345256359809",
-      "translation": ""
-    },
     "truth:117419271924268127": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18222,6 +18207,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525359134298486https://truth-archive.us-iad-1.linodeobjects.com/attachments/18763/818efb",
       "truth_social_id": "117525365644162218",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525359134298486https://truth-archive.us-iad-1.linodeobjects.com/attachments/18763/818efb2dd8edd307-e458e254c1ea.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42847https://truth-archive.us-iad-1.linodeobjects.com/attachments/18761/ed94589e5527d0ad-c310c58efbd4.mp4"
+    },
+    "truth:117525381204092010": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42850",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525358635690538</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18764/6309f5bee8ef52e7-8842508b3c2a.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42848\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18762/e4e66ac7149b411f-ef392c233f39.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 29 Oct 2026 17:30:01 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T19:36:21.070034Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42850",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525358635690538https://truth-archive.us-iad-1.linodeobjects.com/attachments/18764/6309f5",
+      "media_identity": "attachment:117525381204092010:6309f5bee8ef52e7.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525358635690538https://truth-archive.us-iad-1.linodeobjects.com/attachments/18764/6309f5",
+      "truth_social_id": "117525381204092010",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525358635690538https://truth-archive.us-iad-1.linodeobjects.com/attachments/18764/6309f5bee8ef52e7-8842508b3c2a.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42848https://truth-archive.us-iad-1.linodeobjects.com/attachments/18762/e4e66ac7149b411f-ef392c233f39.mp4"
     },
     "truth:117525088652931553": {
       "post_status": "DISCOVERED",
@@ -38128,16 +38129,6 @@
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-29T19:31:40.457128Z"
     },
-    "truth:117525381204092010": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42850",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525358635690538</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18764/6309f5bee8ef52e7-8842508b3c2a.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42848\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18762/e4e66ac7149b411f-ef392c233f39.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 29 Oct 2026 17:30:01 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T19:11:16.107867Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42850"
-    },
     "truth:117525706731349400": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -38194,14 +38185,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42743",
       "source_text": "<p>It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruters, who is running to represent the Wonderful People of Florida's 16th Congressional District!<br /> <br />A Highly Successful Civic Leader and Public Servant, Sydney has dedicated her life to serving her Community, and she and her family are fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congresswoman, Sydney will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, Champion School Choice, and Defend our always under siege Second Amendment.<br /> <br />Sydney’s opponent, Kelly Kirschner, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Kelly Kirschner is Reckless, Radical, and Dangerous!<br /> <br />Sydney Gruters has my Complete and Total Endorsement to be the next Representative from Florida’s 16th Congressional District! GET OUT AND VOTE FOR SYDNEY — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Mon, 26 Oct 2026 20:52:55 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-29T19:31:14.078177Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-29T19:36:16.868884Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42743",
       "first_seen": "2026-10-29T19:31:14.078146Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruter",
-      "next_retry_at": "2026-10-29T19:36:14.078196Z",
+      "next_retry_at": "2026-10-29T19:46:16.868902Z",
       "truth_social_id": "117509192151030901"
     }
   }
