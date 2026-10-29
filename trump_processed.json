@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:FIFA would be making a terrible mistake if, for any reason, they even considered replacing President Gianni Infantino. He is fantastic, having just pr",
-    "https://www.trumpstruth.org/statuses/40725",
-    "fp:Great news for our Country! Supreme Court Justice Samuel Alito has announced that he is staying for another Term. He is one of the Greatest of All Tim",
     "https://www.trumpstruth.org/statuses/40726",
     "fp:Newly released documents open a path to the true origins of the Russia hoax: \nhttps://nypost.com/2026/08/10/opinion/newly-released-documents-open-a-pa",
     "https://www.trumpstruth.org/statuses/40728",
@@ -5000,62 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42822",
     "fp:https://www.youtube.com/live/Dfnj7gltyoM?si=rQ5udMqNMiGy_Sge",
     "truth:117520811287903843",
-    "https://www.trumpstruth.org/statuses/42821"
+    "https://www.trumpstruth.org/statuses/42821",
+    "fp:It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional ",
+    "truth:117509177513886735",
+    "https://www.trumpstruth.org/statuses/42757"
   ],
   "posts": {
-    "truth:117415083676141519": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42228",
-      "source_text": "<p></p>",
-      "published": "Sat, 10 Oct 2026 05:59:54 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-10T08:06:18.678414Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42228",
-      "source_fingerprint": null,
-      "media_identity": "attachment:117415083676141519:cbdf04ff2dfe3893.jpg",
-      "failure_reason": null,
-      "truth_social_id": "117415083676141519",
-      "translation": "",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxisqc7zck77",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxisqc7zck77",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "",
-        "createdAt": "2026-10-10T07:56:22.074218Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreigfylzrhr3tqul5fnsf3jcohbr7e5ab6cjkak4ejddxhk275ogo6a"
-                },
-                "mimeType": "image/jpeg",
-                "size": 141408
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 810,
-                "height": 1269
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxisqc7zck77",
-          "rkey": "3mxisqc7zck77"
-        }
-      ]
-    },
     "truth:117415098778388029": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18432,6 +18379,24 @@
           "rkey": "3myxr7nhrusvx"
         }
       ]
+    },
+    "truth:117509177513886735": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42757",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional District. Rhett is strongly supported by many of the Greatest MAGA Warriors in Alabama, including my friend, U.S. Senator Katie Britt, among others!<br /> <br />A Highly Respected State Representative, Businessman, and Civic Leader, prior to running for Congress, Rhett has dedicated his life to serving his Community. As your next Congressman, he will fight tirelessly to Grow our Economy, Champion our Farmers and American Agriculture, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />His opponent, Shomari Figures, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. Shomari Figures is Reckless, Radical, and Dangerous!<br /> <br />Rhett Marques has my Complete and Total Endorsement to be the next Representative from Alabama’s 2nd Congressional District. GET OUT AND VOTE FOR RHETT — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/alabama/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/alabama/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 26 Oct 2026 20:49:12 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-29T00:25:31.958740Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42757",
+      "first_seen": "2026-10-29T00:00:26.523080Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional ",
+      "truth_social_id": "117509177513886735",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional ",
+      "media_identity": "attachment:117509177513886735:",
+      "translation": "アラバマ州第2下院地区の素晴らしい人々を代表するために立候補している「アメリカ・ファースト愛国者」ライエット・マルケスを推薦することは、私にとって大きな名誉だ。ライエットは、私の友人である下院議員ケイティ・ブリットを含む、アラバマ州の最高のMAGA戦士たちの多くから強く支持されている！\n\n議会に立候補する前に、高く尊敬される州下院議員、実業家、および市民指導者として、ライエットは自分の人生をコミュニティへのサービスに捧げてきた。次の下院議員として、彼は経済の成長、農業と米国農業の擁護、増税と規制の削減、米国のエネルギー優位性の解放、米国製造の推進、国境の厳格な管理、移民犯罪の阻止、軍隊と退役軍人の強化、選挙の完全性の推進、そして常に脅威にさらされている修正第2条の防衛のために、不屈の努力を続けるだろう。\n\n彼の対立候補であるショマリ・フィギュアーズは、チップへの非課税、残業への非課税、および社会保障への非課税に反対票を投じた。そして、彼と民主党員たちが権力を握るようなことがあれば、これらすべてのものが廃止されるだろう。彼は大幅な増税、国境開放、男性による女性スポーツへの参加、そして万人向けのトランスジェンダー政策を望んでいる。ショマリ・フィギュアーズは無謀で過激で危険だ！\n\nライエット・マルケスはアラバマ州第2下院地区の次期代表として、私からの完全で全面的な推薦を得ている。投票所に行ってライエットに投票しろ—彼は君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/alabama/"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37821,22 +37786,6 @@
       "published": "Wed, 28 Oct 2026 19:08:32 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-28T21:40:22.482612Z"
-    },
-    "truth:117509177513886735": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42757",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional District. Rhett is strongly supported by many of the Greatest MAGA Warriors in Alabama, including my friend, U.S. Senator Katie Britt, among others!<br /> <br />A Highly Respected State Representative, Businessman, and Civic Leader, prior to running for Congress, Rhett has dedicated his life to serving his Community. As your next Congressman, he will fight tirelessly to Grow our Economy, Champion our Farmers and American Agriculture, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />His opponent, Shomari Figures, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. Shomari Figures is Reckless, Radical, and Dangerous!<br /> <br />Rhett Marques has my Complete and Total Endorsement to be the next Representative from Alabama’s 2nd Congressional District. GET OUT AND VOTE FOR RHETT — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/alabama/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/alabama/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:49:12 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T00:10:29.370900Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42757",
-      "first_seen": "2026-10-29T00:00:26.523080Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional ",
-      "next_retry_at": "2026-10-29T00:20:29.370916Z",
-      "truth_social_id": "117509177513886735"
     }
   }
 }
