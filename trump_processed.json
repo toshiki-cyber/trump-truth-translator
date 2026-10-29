@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so s",
-    "truth:117084211457388624",
-    "https://www.trumpstruth.org/statuses/40759",
     "truth:117082899005949110",
     "https://truthsocial.com/@realDonaldTrump/posts/117082899005949110",
     "fp:Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District!\n \nA form",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42840",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209478143119https://truth-archive.us-iad-1.linodeobjects.com/attachments/18754/150a02",
     "truth:117525243080324771",
-    "https://www.trumpstruth.org/statuses/42839"
+    "https://www.trumpstruth.org/statuses/42839",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525253098313435https://truth-archive.us-iad-1.linodeobjects.com/attachments/18758/4683c1",
+    "truth:117525264716938628",
+    "https://www.trumpstruth.org/statuses/42844"
   ],
   "posts": {
-    "truth:117418053695775945": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42238",
-      "source_text": "<p>Doug Schoen, a Third Rate Political Hack, who does nothing but cater to the Fake News Media, has been proven wrong so many times that he shouldn’t even be allowed on Television. The guy is a TRUMP DERANGED, STONE COLD LOSER! President DONALD J. TRUMP</p>",
-      "published": "Sat, 10 Oct 2026 18:35:13 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-10T19:56:22.711290Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42238",
-      "first_seen": "2026-10-10T19:26:17.026760Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Doug Schoen, a Third Rate Political Hack, who does nothing but cater to the Fake News Media, has been proven wrong so many times that he shouldn’t eve",
-      "truth_social_id": "117418053695775945",
-      "source_fingerprint": "fp:Doug Schoen, a Third Rate Political Hack, who does nothing but cater to the Fake News Media, has been proven wrong so many times that he shouldn’t eve",
-      "media_identity": "attachment:117418053695775945:",
-      "translation": "ダグ・ショーン（三流の政治屋で、フェイクニュースメディアにおもねるだけの人物）は何度も間違ったことが証明されており、テレビに出演することすら許されるべきではない。こいつはトランプを目の敵にした、完全に冷徹な負け犬だ！大統領 ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxk4wvp6jcri",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxk4wvp6jcri",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ダグ・ショーン（三流の政治屋で、フェイクニュースメディアにおもねるだけの人物）は何度も間違ったことが証明されており、テレビに出演することすら許されるべきではない。こいつはトランプを目の敵にした、完全に冷徹な負け犬だ！大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-10-10T19:46:23.092131Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxk4wvp6jcri",
-          "rkey": "3mxk4wvp6jcri"
-        }
-      ]
-    },
     "truth:117418148236895862": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18245,6 +18209,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209478143119https://truth-archive.us-iad-1.linodeobjects.com/attachments/18754/150a02",
       "truth_social_id": "117525243080324771",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525209478143119https://truth-archive.us-iad-1.linodeobjects.com/attachments/18754/150a023b481c302e-59baac0d0365.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42837https://truth-archive.us-iad-1.linodeobjects.com/attachments/18752/c02f8b56a335183c-84844ab3a09a.mp4"
+    },
+    "truth:117525264716938628": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42844",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525253098313435</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18758/4683c176c9022966-c6f8bf99a153.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42845\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18759/2f2bef8a4ab1a84e-9d55b9a6dc0d.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 29 Oct 2026 17:00:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T18:06:17.685407Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42844",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525253098313435https://truth-archive.us-iad-1.linodeobjects.com/attachments/18758/4683c1",
+      "media_identity": "attachment:117525264716938628:4683c176c9022966.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525253098313435https://truth-archive.us-iad-1.linodeobjects.com/attachments/18758/4683c1",
+      "truth_social_id": "117525264716938628",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525253098313435https://truth-archive.us-iad-1.linodeobjects.com/attachments/18758/4683c176c9022966-c6f8bf99a153.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42845https://truth-archive.us-iad-1.linodeobjects.com/attachments/18759/2f2bef8a4ab1a84e-9d55b9a6dc0d.mp4"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -38086,16 +38066,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-29T18:06:40.326746Z"
-    },
-    "truth:117525264716938628": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42844",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525253098313435</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18758/4683c176c9022966-c6f8bf99a153.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42845\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18759/2f2bef8a4ab1a84e-9d55b9a6dc0d.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 29 Oct 2026 17:00:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:11:20.036615Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42844"
     },
     "truth:117525273514465379": {
       "post_status": "DISCOVERED",
