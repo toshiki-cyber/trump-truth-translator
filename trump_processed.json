@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40752",
-    "truth:117080183664102958",
-    "https://www.trumpstruth.org/statuses/40753",
     "truth:117082486292079885",
     "https://www.trumpstruth.org/statuses/40755",
     "truth:117082485763139425",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42837",
     "fp:Congressman Dan Meuser is an America First Patriot who is doing an incredible job representing Pennsylvania’s 9th Congressional District!\nA very succe",
     "truth:117525088652931553",
-    "https://www.trumpstruth.org/statuses/42834"
+    "https://www.trumpstruth.org/statuses/42834",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209425440097https://truth-archive.us-iad-1.linodeobjects.com/attachments/18756/be659c",
+    "truth:117525239970226458",
+    "https://www.trumpstruth.org/statuses/42841"
   ],
   "posts": {
-    "truth:117416561047667860": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42235",
-      "source_text": "<p>Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J. TRUMP</p>",
-      "published": "Sat, 10 Oct 2026 12:15:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-10T14:01:21.959914Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42235",
-      "first_seen": "2026-10-10T13:26:22.828375Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J",
-      "truth_social_id": "117416561047667860",
-      "source_fingerprint": "fp:Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J",
-      "media_identity": "attachment:117416561047667860:",
-      "translation": "マイク・ディッタカは、選手としてもコーチとしても偉大なチャンピオンであった。彼はずっとMAGAの立場にあり、彼は惜しまれるだろう。安らかに眠ってください、マイク！ドナルド・J・トランプ大統領"
-    },
     "truth:117416713825849501": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18275,6 +18257,22 @@
       "source_fingerprint": "fp:Congressman Dan Meuser is an America First Patriot who is doing an incredible job representing Pennsylvania’s 9th Congressional District!\nA very succe",
       "media_identity": "attachment:117525088652931553:",
       "translation": "ダン・メューザー下院議員はアメリカ・ファースト愛国者であり、ペンシルベニア州第9選挙区を素晴らしく代表している！\n\n非常に成功したビジネスマンであり、ペンシルベニア州の前歳入長官であり、そして今、米国下院議員として、ダンは栄誉と勝利に満ちたキャリアで自分のコミュニティに強く貢献している。下院では、経済成長、税金と規制の削減、米国製品の推進、米国のエネルギー優位性の解放、国境の厳格な保全、移民犯罪の阻止、軍隊と退役軍人の強化、そして常に脅威にさらされている修正第2条の保護のために懸命に働いている。\n\nダンの対立候補であるレイチェル・ウォレスは、チップ非課税、残業非課税、社会保障非課税に反対する急進左翼民主党員であり、彼女と民主党員がもし権力を握れば、これらすべてが廃止されるだろう。彼女は大幅な増税、国境開放、男性の女性スポーツ参加、そしてお前たちの子供へのトランスジェンダー変異を望んでいる。レイチェル・ウォレスは無責任で、急進的で、危険だ！\n\nダン・メューザーは再選に向けて、私の完全で全面的な支持を得ている。ダンに投票するために外に出ろ——彼はお前たちを決して失望させない！ドナルド・J・トランプ大統領"
+    },
+    "truth:117525239970226458": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42841",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209425440097</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18756/be659cabf05c622d-9eb8ac018118.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42838\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18753/3631c6acffc19102-c7cf01c8ff64.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 29 Oct 2026 16:54:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T17:41:20.216143Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42841",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209425440097https://truth-archive.us-iad-1.linodeobjects.com/attachments/18756/be659c",
+      "media_identity": "attachment:117525239970226458:be659cabf05c622d.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209425440097https://truth-archive.us-iad-1.linodeobjects.com/attachments/18756/be659c",
+      "truth_social_id": "117525239970226458",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525209425440097https://truth-archive.us-iad-1.linodeobjects.com/attachments/18756/be659cabf05c622d-9eb8ac018118.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42838https://truth-archive.us-iad-1.linodeobjects.com/attachments/18753/3631c6acffc19102-c7cf01c8ff64.mp4"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37867,13 +37865,13 @@
       "next_retry_at": "2026-10-29T13:51:21.840352Z"
     },
     "truth:117525185794939859": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42835",
       "source_text": "<p>Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the Arena. Special Jumbotrons put up. See you soon! President DONALD J. TRUMP</p>",
       "published": "Thu, 29 Oct 2026 16:40:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-29T17:36:27.057300Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T17:41:13.415580Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42843",
       "first_seen": "2026-10-29T17:11:21.494417Z",
       "no_media_confirmations": 3,
@@ -38034,16 +38032,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4",
       "truth_social_id": "117525211152165520",
       "next_retry_at": "2026-10-29T17:31:19.673651Z"
-    },
-    "truth:117525239970226458": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42841",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209425440097</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18756/be659cabf05c622d-9eb8ac018118.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42838\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18753/3631c6acffc19102-c7cf01c8ff64.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 29 Oct 2026 16:54:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:11:20.037225Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42841"
     },
     "truth:117525241684892239": {
       "post_status": "DISCOVERED",
