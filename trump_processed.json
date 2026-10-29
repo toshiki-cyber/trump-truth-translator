@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40756",
-    "truth:117082486707856291",
-    "https://www.trumpstruth.org/statuses/40754",
     "fp:The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade is being called, by everyone, “A WALL OF STEEL,” a",
     "truth:117083017680231697",
     "https://www.trumpstruth.org/statuses/40758",
@@ -5000,69 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42841",
     "fp:Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the A",
     "truth:117525185794939859",
-    "https://www.trumpstruth.org/statuses/42843"
+    "https://www.trumpstruth.org/statuses/42843",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae",
+    "truth:117525241684892239",
+    "https://www.trumpstruth.org/statuses/42840"
   ],
   "posts": {
-    "truth:117417140250778882": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42237",
-      "source_text": "<p>Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: <a href=\"https://www.dallasnews.com/news/faith/article/robert-jeffress-death-penalty-22470214.php\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dallasnews.com/news/faith/arti</span><span class=\"invisible\">cle/robert-jeffress-death-penalty-22470214.php</span></a></p>",
-      "published": "Sat, 10 Oct 2026 14:42:55 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-10T16:01:19.297359Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42237",
-      "first_seen": "2026-10-10T15:26:20.084193Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: \nhttps://www.dallasnews.com/news/",
-      "truth_social_id": "117417140250778882",
-      "source_fingerprint": "fp:Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: \nhttps://www.dallasnews.com/news/",
-      "media_identity": "attachment:117417140250778882:",
-      "translation": "ダラス・ファースト・バプテスト教会の上級牧師ロバート・ジェフレスが、ペンタゴンが発表した公開処刑を支持していると述べている：\nhttps://www.dallasnews.com/news/faith/article/robert-jeffress-death-penalty-22470214.php",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxjpxjd6w2zm",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxjpxjd6w2zm",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ダラス・ファースト・バプテスト教会の上級牧師ロバート・ジェフレスが、ペンタゴンが発表した公開処刑を支持していると述べている：\nhttps://www.dallasnews.com/news/faith/article/robert-jeffress-death-penalty-22470214.php",
-        "createdAt": "2026-10-10T15:51:23.351558Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 187,
-              "byteEnd": 275
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.dallasnews.com/news/faith/article/robert-jeffress-death-penalty-22470214.php"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.dallasnews.com/news/faith/article/robert-jeffress-death-penalty-22470214.php",
-            "title": "Client Challenge",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxjpxjd6w2zm",
-          "rkey": "3mxjpxjd6w2zm"
-        }
-      ]
-    },
     "truth:117418068661995353": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18291,6 +18231,22 @@
           "rkey": "3myzpewwfa2qm"
         }
       ]
+    },
+    "truth:117525241684892239": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42840",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae01e353fe02-73352664631a.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42836\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 29 Oct 2026 16:54:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T17:51:24.869351Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42840",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae",
+      "media_identity": "attachment:117525241684892239:ea6aae01e353fe02.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae",
+      "truth_social_id": "117525241684892239",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae01e353fe02-73352664631a.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42836https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4"
     },
     "truth:117497265648750714": {
       "post_status": "DISCOVERED",
@@ -37978,16 +37934,6 @@
       "truth_social_id": "117525211152165520",
       "next_retry_at": "2026-10-29T17:31:19.673651Z"
     },
-    "truth:117525241684892239": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42840",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae01e353fe02-73352664631a.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42836\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 29 Oct 2026 16:54:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:11:20.037078Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42840"
-    },
     "truth:117525243080324771": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -38027,6 +37973,15 @@
       "retry_count": 0,
       "updated_at": "2026-10-29T17:11:20.036305Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42842"
+    },
+    "https://www.trumpstruth.org/statuses/42835": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42835",
+      "source_text": "<p>Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the Arena. Special Jumbotrons put up. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Thu, 29 Oct 2026 16:40:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-29T17:51:18.377324Z"
     }
   }
 }
