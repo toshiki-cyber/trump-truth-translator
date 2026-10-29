@@ -37903,11 +37903,11 @@
     "truth:117525185794939859": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42843",
-      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the Arena. Special Jumbotrons put up. See you soon! President DONALD J. TRUMP</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42835\">Donald J. Trump</a></p><blockquote><p>Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the Arena. Special Jumbotrons put up. See you soon! President DONALD J. TRUMP</p></blockquote>",
-      "published": "Thu, 29 Oct 2026 17:01:57 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/42835",
+      "source_text": "<p>Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the Arena. Special Jumbotrons put up. See you soon! President DONALD J. TRUMP</p>",
+      "published": "Thu, 29 Oct 2026 16:40:19 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-29T17:11:20.036463Z",
+      "updated_at": "2026-10-29T17:16:16.466564Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42843",
       "first_seen": "2026-10-29T17:11:21.494417Z",
       "no_media_confirmations": 1,
@@ -38072,14 +38072,20 @@
       "next_retry_at": "2026-10-29T17:16:46.868590Z"
     },
     "truth:117525209425440097": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42838",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18753/3631c6acffc19102-c7cf01c8ff64.mp4\">View video</a></p>",
       "published": "Thu, 29 Oct 2026 16:46:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:11:20.037527Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42838"
+      "retry_count": 1,
+      "updated_at": "2026-10-29T17:16:25.447655Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42838",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18753/3631c6acffc19102-c7cf01c8ff64.mp4",
+      "media_identity": "attachment:117525209425440097:3631c6acffc19102-c7cf01c8ff64.mp4",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 50.9MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/525/204/846/166/026/original/3631c6acffc19102.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18753/3631c6acffc19102-c7cf01c8ff64.mp4",
+      "truth_social_id": "117525209425440097",
+      "next_retry_at": "2026-10-29T17:21:25.447672Z"
     },
     "truth:117525211152165520": {
       "post_status": "DISCOVERED",
