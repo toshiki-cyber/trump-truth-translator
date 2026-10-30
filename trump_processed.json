@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117090359948395719",
-    "https://www.trumpstruth.org/statuses/40802",
-    "fp:Congressman Nick Langworthy is an America First Patriot, who is doing a fantastic job representing New York’s 23rd Congressional District!\n \nNick serv",
     "truth:117090360635773767",
     "https://www.trumpstruth.org/statuses/40801",
     "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42891",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg",
     "truth:117529610420067199",
-    "https://www.trumpstruth.org/statuses/42890"
+    "https://www.trumpstruth.org/statuses/42890",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045a",
+    "truth:117529611252882085",
+    "https://www.trumpstruth.org/statuses/42889"
   ],
   "posts": {
-    "truth:117427674986856382": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42282",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419344133655598</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/674/809/084/859/original/a6393d30fa09a7dc.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42243\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18443/browser-safe.mp4\">View video</a></p></blockquote>",
-      "published": "Mon, 12 Oct 2026 11:22:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T12:56:21.129336Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42282",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419344133655598https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
-      "media_identity": "attachment:117427674986856382:a6393d30fa09a7dc.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419344133655598https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
-      "truth_social_id": "117427674986856382",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117419344133655598https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/674/809/084/859/original/a6393d30fa09a7dc.pngQuoted\nhttps://www.trumpstruth.org/statuses/42243https://truth-archive.us-iad-1.linodeobjects.com/attachments/18443/browser-safe.mp4"
-    },
     "truth:117427675917483713": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18194,6 +18178,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg",
       "truth_social_id": "117529610420067199",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg"
+    },
+    "truth:117529611252882085": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42889",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045aa2845538b0-e96a27e5fe57.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42890\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg\">View image</a></p></blockquote>",
+      "published": "Fri, 30 Oct 2026 11:25:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T13:06:22.112665Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42889",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045a",
+      "media_identity": "attachment:117529611252882085:05045aa2845538b0.png,1b3290f291e9ce4d-6d2eb72f2ef3.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045a",
+      "truth_social_id": "117529611252882085",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045aa2845538b0-e96a27e5fe57.pngQuoted\nhttps://www.trumpstruth.org/statuses/42890https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg"
     },
     "truth:117516666252141562": {
       "post_status": "DISCOVERED",
@@ -38158,16 +38158,6 @@
       "fingerprint": "fp:I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANS",
       "next_retry_at": "2026-10-30T13:06:21.042728Z",
       "truth_social_id": "117529570134101741"
-    },
-    "truth:117529611252882085": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42889",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045aa2845538b0-e96a27e5fe57.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42890\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg\">View image</a></p></blockquote>",
-      "published": "Fri, 30 Oct 2026 11:25:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-30T12:51:19.613849Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42889"
     },
     "truth:117529617188189235": {
       "post_status": "DISCOVERED",
