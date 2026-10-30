@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117091934703272898",
-    "https://www.trumpstruth.org/statuses/40816",
-    "fp:Bessent to Newsmax: US to Hit Iran With Unprecedented Economic Isolation: \nhttps://www.newsmax.com/newsmax-tv/scott-bessent-iran-economic/2026/08/13/i",
     "truth:117093801058115505",
     "https://www.trumpstruth.org/statuses/40817",
     "fp:Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD ",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42886",
     "fp:https://conservativebrief.com/senate-race-poll-midterm-105503/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18781/0bc408dbfbbfad15-e989",
     "truth:117529624881658729",
-    "https://www.trumpstruth.org/statuses/42893"
+    "https://www.trumpstruth.org/statuses/42893",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4",
+    "truth:117531905350627450",
+    "https://www.trumpstruth.org/statuses/42895"
   ],
   "posts": {
-    "truth:117427680349862484": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42277",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427679576446625</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18469/ca9e5e9f4f1d30f7-9cde21d93dcf.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42278\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18470/7ed474041dfe5a76-4abe1cd75e5f.mp4\">View video</a></p></blockquote>",
-      "published": "Mon, 12 Oct 2026 11:23:24 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T13:26:22.501471Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42277",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427679576446625https://truth-archive.us-iad-1.linodeobjects.com/attachments/18469/ca9e5e",
-      "media_identity": "attachment:117427680349862484:ca9e5e9f4f1d30f7.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427679576446625https://truth-archive.us-iad-1.linodeobjects.com/attachments/18469/ca9e5e",
-      "truth_social_id": "117427680349862484",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117427679576446625https://truth-archive.us-iad-1.linodeobjects.com/attachments/18469/ca9e5e9f4f1d30f7-9cde21d93dcf.pngQuoted\nhttps://www.trumpstruth.org/statuses/42278https://truth-archive.us-iad-1.linodeobjects.com/attachments/18470/7ed474041dfe5a76-4abe1cd75e5f.mp4"
-    },
     "truth:117427681942936822": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18196,6 +18180,22 @@
           "rkey": "3mz3ohm574szz"
         }
       ]
+    },
+    "truth:117531905350627450": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42895",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p>",
+      "published": "Fri, 30 Oct 2026 21:09:11 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:40.222395Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42895",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4",
+      "media_identity": "attachment:117531905350627450:5c957739ad6a208b-93caf242053c.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4",
+      "truth_social_id": "117531905350627450",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4"
     },
     "truth:117516666252141562": {
       "post_status": "DISCOVERED",
@@ -38272,6 +38272,263 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-30T13:46:21.376794Z"
+    },
+    "https://www.trumpstruth.org/statuses/42909": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42909",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Mike Beltran, who is running to represent the tremendous people of Florida’s 14th Congressional District!<br /> <br />A Harvard Law School Graduate, and very successful Lawyer and Businessman, Mike knows the Wisdom and Courage required to uphold our Constitution, and promote LAW AND ORDER. His opponent, Kathy Castor, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. Kathy Castor is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congressman, Mike will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Strongly Support our incredible Law Enforcement, Military, and Veterans, and Protect our always under siege Second Amendment.<br /> <br />Mike Beltran has my Complete and Total Endorsement to be the next Representative from Florida’s 14th Congressional District. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:24:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778201Z"
+    },
+    "https://www.trumpstruth.org/statuses/42912": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42912",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Sydney Gruters, the wife of our GREAT Chairman of the Republican National Committee, Joe Gruters, who is running to represent the Wonderful People of Florida's 16th Congressional District!<br /> <br />A Highly Successful Civic Leader and Public Servant, Sydney has dedicated her life to serving her Community, and she and her family are fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN! As your next Congresswoman, Sydney will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, Champion School Choice, and Defend our always under siege Second Amendment.<br /> <br />Sydney’s opponent, Kelly Kirschner, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Kelly Kirschner is Reckless, Radical, and Dangerous!<br /> <br />Sydney Gruters has my Complete and Total Endorsement to be the next Representative from Florida’s 16th Congressional District! GET OUT AND VOTE FOR SYDNEY — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:21:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778419Z"
+    },
+    "https://www.trumpstruth.org/statuses/42898": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42898",
+      "source_text": "<p>🚨 COLORADO!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Colorado. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Colorado, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 21:09:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.779216Z"
+    },
+    "truth:117531906499204194": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42902",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42894\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p></blockquote>",
+      "published": "Fri, 30 Oct 2026 21:27:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778704Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42902"
+    },
+    "truth:117531909275165087": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42896",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531908401047469</span>TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:</p><p>– Jeff Hurd for U.S. Congress (CO-03)<br />– Lauren Boebert for U.S. Congress (CO-04)<br />– Jeff Crank for U.S. Congress (CO-05)<br />– Gabe Evans for U.S. Congress (CO-08)</p><p>These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42898\">Donald J. Trump</a></p><blockquote><p>🚨 COLORADO!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Colorado. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Colorado, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Fri, 30 Oct 2026 21:10:11 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.779135Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42896"
+    },
+    "truth:117531920826336994": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42897",
+      "source_text": "<p>Congressman Jeff Hurd is an incredible Representative for the Great People of Colorado’s 3rd Congressional District!<br /> <br />Jeff has a strong Record of SUCCESS, and resounding support from his Community. In Congress, he is fighting tirelessly to Keep our Border SECURE, Support our Incredible Military/Veterans, Unleash American Energy DOMINANCE, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.<br /> <br />Jeff’s opponent, Dwayne Romero, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Dwayne Romero is Reckless, Radical, and Dangerous!<br /> <br />Jeff Hurd has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR JEFF — HE WILL NEVER LET YOU DOWN! <a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 21:13:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.779060Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42897"
+    },
+    "truth:117531932013305541": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42900",
+      "source_text": "<p>Congressman Jeff Crank is doing a truly fantastic job representing the Great People of Colorado’s 5th Congressional District!<br /> <br />Jeff is a Fierce Advocate for our America First Agenda. In Congress, he is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jeff’s opponent, Jessica Killin, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Jessica Killin is Reckless, Radical, and Dangerous!<br /> <br />Jeff Crank has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR JEFF — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 21:15:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778989Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42900"
+    },
+    "truth:117531933638600993": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42899",
+      "source_text": "<p>Congressman Gabe Evans is an America First Patriot who is doing a fantastic job representing Colorado’s 8th Congressional District!<br /> <br />A decorated Army Helicopter Pilot and former Police Officer, Gabe has served our Nation with Great Honor and Distinction. In Congress, he is fighting tirelessly to Grow the Economy, Cut Taxes, Keep our Border SECURE, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Support our Brave Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment.<br /> <br />Gabe’s opponent, Manny Rutinel, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Manny Rutinel is Reckless, Radical, and Dangerous!<br /> <br />Gabe Evans has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR GABE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 21:16:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778918Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42899"
+    },
+    "truth:117531965901848778": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42901",
+      "source_text": "<p>Congresswoman Lauren Boebert is an America First Patriot, who is doing an incredible job representing Colorado’s 4th Congressional District!<br /> <br />A MAGA Warrior, who has been with us from the very beginning, Lauren is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Support our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Lauren’s opponent, Eileen Laubacher, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Eileen Laubacher is Reckless, Radical, and Dangerous!<br /> <br />Lauren Boebert has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR LAUREN — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/colorado/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/colorado/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 21:24:35 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778846Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42901"
+    },
+    "truth:117531976551681094": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42903",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
+      "published": "Fri, 30 Oct 2026 21:27:18 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778775Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42903"
+    },
+    "truth:117532164192427112": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42904",
+      "source_text": "<p>Congressman Carlos Gimenez is doing a fantastic job representing Florida’s 28th Congressional District!<br /> <br />A Highly Respected Firefighter, Civic Leader, and Mayor of Miami-Dade County, prior to becoming a distinguished Congressman, Carlos has dedicated his life to serving his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.<br /> <br />Carlos Gimenez has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR CARLOS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:15:01 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778632Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42904"
+    },
+    "truth:117532180917618953": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42906",
+      "source_text": "<p>Congresswoman María Elvira Salazar is doing a great job representing the wonderful people of Florida’s 27th Congressional District!<br /> <br />In Congress, María is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />María’s opponent, Eliott Rodriguez, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Eliott Rodriguez is Reckless, Radical, and Dangerous!<br /> <br />María Elvira Salazar has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MARIA! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:19:16 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778561Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42906"
+    },
+    "truth:117532182376514600": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42905",
+      "source_text": "<p>Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!<br /> <br />A Proven Leader, Mario served his Community as a Highly Respected State Legislator and Civic Leader, prior to becoming a very distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure PEACE THROUGH STRENGTH, Champion our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Mario Diaz-Balart has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR MARIO — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:19:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778490Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42905"
+    },
+    "truth:117532190174374656": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42911",
+      "source_text": "<p>Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District!<br /> <br />Laurel served as Florida’s Secretary of State for three years, and delivered strong results for families, and businesses. In Congress, Laurel is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion Innovation, Strengthen our Great Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Laurel Lee has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR LAUREL — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:21:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778348Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42911"
+    },
+    "truth:117532198586240709": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42916",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span>Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42910\">Donald J. Trump</a></p><blockquote><p>Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP</p></blockquote>",
+      "published": "Fri, 30 Oct 2026 22:31:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777371Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42916"
+    },
+    "truth:117532201769118172": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42908",
+      "source_text": "<p>Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida’s 13th Congressional District!<br /> <br />A true MAGA Warrior, Anna is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our incredible Military/Veterans, Defend our always under siege Second Amendment, and Ensure PEACE THROUGH STRENGTH.<br /> <br />Anna’s opponent, Leela Gray, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Leela Gray is Reckless, Radical, and Dangerous!<br /> <br />Anna Paulina Luna has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR ANNA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:24:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778116Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42908"
+    },
+    "truth:117532202412822087": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42907",
+      "source_text": "<p>Congressman Gus Bilirakis is a Tremendous Champion for Florida’s 12th Congressional District!<br /> <br />As a Senior Member of the POWERFUL House Energy and Commerce Committee, Gus is working tirelessly to Unleash American Energy DOMINANCE, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Champion our Nation’s Golden Age. In Congress, Gus is also fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Gus Bilirakis has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR GUS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:24:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.778043Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42907"
+    },
+    "truth:117532207315073333": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42915",
+      "source_text": "<p>Congressman John Rutherford is an incredible Representative for the wonderful People of Florida’s 5th Congressional District!<br /> <br />As the former Sheriff of Duval County, and now, as a Highly Respected U.S. Congressman, John strongly supports our incredible Law Enforcement, Military, and Veterans, and knows the Wisdom and Courage it takes to Ensure LAW AND ORDER. In Congress, he is fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />John Rutherford has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:25:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777972Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42915"
+    },
+    "truth:117532208311258325": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42914",
+      "source_text": "<p>Congressman Aaron Bean is a Tremendous Champion for Florida’s 4th Congressional District!<br /> <br />As a Member of the POWERFUL Ways &amp; Means Committee, Aaron knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age. He is also fighting tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Aaron Bean has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR AARON — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:26:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777901Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42914"
+    },
+    "truth:117532209147863601": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42913",
+      "source_text": "<p>Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida’s 3rd Congressional District!<br /> <br />In Congress, Kat is working tirelessly to Grow our Economy, Cut Taxes, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Ranchers, Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Kat Cammack has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR KAT — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:26:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777829Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42913"
+    },
+    "truth:117532224372467775": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42922",
+      "source_text": "<p>Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024.<br /> <br />James is an America First Warrior, who is a true champion for “MAGA.” He is THE MAN behind ALLIGATOR ALCATRAZ, and argued strongly at the United States Supreme Court in defense of my Executive Power to fire Deep State bureaucrats. Under James’ fearless leadership, over 1,000 CRIMINAL PEDOPHILES have been arrested, missing children have been SAVED, and our Great Members of Law Enforcement have been empowered to do their jobs and, KEEP FLORIDA SAFE. In his next term, James will continue to work tirelessly to Ensure Law and Order, Uphold our Constitutional Rights, and Protect our always under siege Second Amendment.<br /> <br />James Uthmeier is a Strong Conservative Fighter and Prosecutor, and has my Complete and Total Endorsement! GET OUT AND VOTE FOR JAMES — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:30:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777755Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42922"
+    },
+    "truth:117532225205927400": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42921",
+      "source_text": "<p>It is my Great Honor to endorse America First Congressman, Byron Donalds, who is running for Governor of Florida, a State that I love, and WON BIG, in 2016, 2020, and 2024!<br /> <br />I know Byron well, have seen him tested at the highest and most difficult levels, and he is a TOTAL WINNER! Byron has a great wife, Erika, and three beautiful sons. They are very proud of him! His opponent, David Jolly, is a Radical Left Democrat who wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. David Jolly is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Governor, Byron will have a BIG Voice, and work closely with me to advance our America First Agenda. He will fight tirelessly to help Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military, Protect our Veterans, Advance American Energy DOMINANCE, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Defend our always under siege Second Amendment.<br /> <br />Byron Donalds has my Complete and Total Endorsement to be the next Governor of the Great State of Florida. GET OUT AND VOTE FOR BYRON — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:30:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777672Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42921"
+    },
+    "truth:117532226145345350": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42919",
+      "source_text": "<p>Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024!<br /> <br />A fifth generation Floridian, Ashley served as State Attorney General for six years prior to becoming a very distinguished and well respected U.S. Senator. Ashley is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Ashley’s opponent, Angie Nixon, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Angie Nixon is Reckless, Radical, and Dangerous!<br /> <br />Ashley Moody has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR ASHLEY — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:30:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777600Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42919"
+    },
+    "truth:117532227380117183": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42918",
+      "source_text": "<p>🚨 FLORIDA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here:<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:31:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777525Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42918"
+    },
+    "truth:117532228469734211": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42917",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117532227380117183</span>TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE FOR:</p><p>– Ashley Moody for U.S. Senate<br />– Byron Donalds for Governor<br />– James Uthmeier for Attorney General<br />– Wilton Simpson for Agriculture Commissioner<br />– Jimmy Patronis for U.S. Congress (FL-01)<br />– Austin Rogers for U.S. Congress (FL-02)<br />– Kat Cammack for U.S. Congress (FL-03)<br />– Aaron Bean for U.S. Congress (FL-04)<br />– John Rutherford for U.S. Congress (FL-05)<br />– Randy Fine for U.S. Congress (FL-06)<br />– Ryan Elijah for U.S. Congress (FL-07)<br />– Mike Haridopolos for U.S. Congress (FL-08)<br />– Dan Green for U.S. Congress (FL-09)<br />– Joe Strada for U.S. Congress (FL-11)<br />– Gus Bilirakis for U.S. Congress (FL-12)<br />– Anna Paulina Luna for U.S. Congress (FL-13)<br />– Mike Beltran for U.S. Congress (FL-14)<br />– Laurel Lee for U.S. Congress (FL-15)<br />– Sydney Gruters for U.S. Congress (FL-16)<br />– Greg Steube for U.S. Congress (FL-17)<br />– Scott Franklin for U.S. Congress (FL-18)<br />– Jim Schwartzel for U.S. Congress (FL-19)<br />– Brian Mast for U.S. Congress (FL-21)<br />– Casey Askar for U.S. Congress (FL-22)<br />– Scott Singer for U.S. Congress (FL-25)<br />– Mario Diaz-Balart for U.S. Congress (FL-26)<br />– Maria Elvira Salazar for U.S. Congress (FL-27)<br />– Carlos Gimenez for U.S. Congress (FL-28)<br />– Meg Weinberger for State House (FL-HD-94)</p><p>These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42918\">Donald J. Trump</a></p><blockquote><p>🚨 FLORIDA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here:<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p></blockquote>",
+      "published": "Fri, 30 Oct 2026 22:31:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777450Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42917"
+    },
+    "truth:117532258376805068": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42920",
+      "source_text": "<p>Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next Governor of Iowa, Roger Marshall Re-Elected to the U.S. Senate, and Ty Masterson elected to be the next Governor of Kansas! President DONALD J. TRUMP</p>",
+      "published": "Fri, 30 Oct 2026 22:38:58 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T22:51:16.777244Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42920"
     }
   }
 }
