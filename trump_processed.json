@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117090257833325793",
-    "https://www.trumpstruth.org/statuses/40795",
-    "fp:I am looking forward to being back in the Great State of New York tomorrow, where Highly Respected and very popular Nassau County Executive, Bruce Bla",
     "truth:117090336099006688",
     "https://www.trumpstruth.org/statuses/40798",
     "fp:Congressman Nick LaLota is doing a truly fantastic job representing the incredible people of New York’s 1st Congressional District!\n \nA Brave U.S. Nav",
@@ -5000,25 +4997,12 @@
     "truth:117526608599642271",
     "https://www.trumpstruth.org/statuses/42874",
     "truth:117527433918621123",
-    "https://www.trumpstruth.org/statuses/42876"
+    "https://www.trumpstruth.org/statuses/42876",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18769/7cdb5285e50109a3-f4dc81292943.mp4",
+    "truth:117529171135970725",
+    "https://www.trumpstruth.org/statuses/42878"
   ],
   "posts": {
-    "truth:117427649486575663": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42269",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427648373823913</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18461/6d8d17af578df13e-8f681e310982.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42270\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4\">View video</a></p></blockquote>",
-      "published": "Mon, 12 Oct 2026 11:15:33 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T12:01:43.737729Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42269",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427648373823913https://truth-archive.us-iad-1.linodeobjects.com/attachments/18461/6d8d17",
-      "media_identity": "attachment:117427649486575663:6d8d17af578df13e.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427648373823913https://truth-archive.us-iad-1.linodeobjects.com/attachments/18461/6d8d17",
-      "truth_social_id": "117427649486575663",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117427648373823913https://truth-archive.us-iad-1.linodeobjects.com/attachments/18461/6d8d17af578df13e-8f681e310982.pngQuoted\nhttps://www.trumpstruth.org/statuses/42270https://truth-archive.us-iad-1.linodeobjects.com/attachments/18462/d02327ea2feea879-d1a22289d694.mp4"
-    },
     "truth:117427651713011092": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18226,6 +18210,22 @@
           "rkey": "3mz2pdbgkkcxw"
         }
       ]
+    },
+    "truth:117529171135970725": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42878",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18769/7cdb5285e50109a3-f4dc81292943.mp4\">View video</a></p>",
+      "published": "Fri, 30 Oct 2026 09:33:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T10:51:35.056500Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42878",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18769/7cdb5285e50109a3-f4dc81292943.mp4",
+      "media_identity": "attachment:117529171135970725:7cdb5285e50109a3-f4dc81292943.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18769/7cdb5285e50109a3-f4dc81292943.mp4",
+      "truth_social_id": "117529171135970725",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18769/7cdb5285e50109a3-f4dc81292943.mp4"
     },
     "truth:117516666252141562": {
       "post_status": "DISCOVERED",
@@ -38158,6 +38158,56 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-29T19:31:40.457128Z"
+    },
+    "truth:117529171874638931": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42877",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529171135970725</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18768/148457dd48e33618-77e1c4822728.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42878\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18769/7cdb5285e50109a3-f4dc81292943.mp4\">View video</a></p></blockquote>",
+      "published": "Fri, 30 Oct 2026 09:34:02 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T10:51:16.879557Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42877"
+    },
+    "truth:117529183120003107": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42880",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18771/535f101f0eb9beef-e1fea759559d.mp4\">View video</a></p>",
+      "published": "Fri, 30 Oct 2026 09:36:53 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T10:51:16.879391Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42880"
+    },
+    "truth:117529183862932823": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42879",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529183120003107</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18770/877ce8047bc13ed3-dbcafd606482.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42880\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18771/535f101f0eb9beef-e1fea759559d.mp4\">View video</a></p></blockquote>",
+      "published": "Fri, 30 Oct 2026 09:37:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T10:51:16.879239Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42879"
+    },
+    "truth:117524512566770799": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42881",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@marklevinshow\" rel=\"nofollow\">@<span>marklevinshow</span></a></span>THE DEMOCRAT PARTY AND THEIR MEDIA ARE LYING ABOUT OUR ECONOMY AND MUCH MORE!  CAPITALISM WORKS, SOCIALISM IS A DISASTER!</p><p>Have you looked at the price of gasoline today?  It is DOWN.</p><p>Have you looked at the price of food today? It is flat and, in many cases, DOWN.</p><p>Have you looked at the economic growth figure today?  It is UP.</p><p>Have you looked at consumer confidence today?  It is UP.</p><p>Have you looked at take-home pay today?  It is UP.</p><p>Have you looked at inflation today, compared to the Biden-Democrats inflation?  It is DOWN.</p><p>Have you looked at foreign investment in our country today?  It is UP and setting all-time records.</p><p>Have you looked at manufacturing growth today?  It is UP and setting records.</p><p>Have you looked at the trade deficit today?  It is DOWN.</p><p>Have you looked at tax rates for working people and the middle class today?  They are DOWN.</p><p>Have you looked at unemployment today?  It is DOWN.</p><p>Have you looked at illegal immigration today?  It is NONEXISTENT.</p><p>Have you looked at the crime rate today?  It is at RECORD LOWS.</p><p>THE TRUMP/GOP AGENDA IS WORKING AND REVERSED THE DISASTROUS AMERICA-KILLING SOCIALIST POLICIES OF THE BIDEN DEMOCRATS!</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/42882\">Mark Levin</a></p><blockquote><p>THE DEMOCRAT PARTY AND THEIR MEDIA ARE LYING ABOUT OUR ECONOMY AND MUCH MORE!  CAPITALISM WORKS, SOCIALISM IS A DISASTER!</p><p>Have you looked at the price of gasoline today?  It is DOWN.</p><p>Have you looked at the price of food today? It is flat and, in many cases, DOWN.</p><p>Have you looked at the economic growth figure today?  It is UP.</p><p>Have you looked at consumer confidence today?  It is UP.</p><p>Have you looked at take-home pay today?  It is UP.</p><p>Have you looked at inflation today, compared to the Biden-Democrats inflation?  It is DOWN.</p><p>Have you looked at foreign investment in our country today?  It is UP and setting all-time records.</p><p>Have you looked at manufacturing growth today?  It is UP and setting records.</p><p>Have you looked at the trade deficit today?  It is DOWN.</p><p>Have you looked at tax rates for working people and the middle class today?  They are DOWN.</p><p>Have you looked at unemployment today?  It is DOWN.</p><p>Have you looked at illegal immigration today?  It is NONEXISTENT.</p><p>Have you looked at the crime rate today?  It is at RECORD LOWS.</p><p>THE TRUMP/GOP AGENDA IS WORKING AND REVERSED THE DISASTROUS AMERICA-KILLING SOCIALIST POLICIES OF THE BIDEN DEMOCRATS!</p></blockquote>",
+      "published": "Fri, 30 Oct 2026 09:39:08 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T10:51:16.879085Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42881"
+    },
+    "truth:117529394978444089": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/42883",
+      "source_text": "<p>INFLATION IS WAY DOWN UNDER “TRUMP.” INCOME FOR PEOPLE &amp; COMPANIES IS WAY UP! The Golden Age of America Is Upon Us.</p>",
+      "published": "Fri, 30 Oct 2026 10:30:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T10:51:16.878925Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42883"
     }
   }
 }
