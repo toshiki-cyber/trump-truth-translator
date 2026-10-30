@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117090504981894603",
-    "https://www.trumpstruth.org/statuses/40814",
-    "fp:It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New Y",
     "truth:117090549605403030",
     "https://www.trumpstruth.org/statuses/40810",
     "fp:Tonight at 9 PM ET, on ABC News, I will be hosting “The Patriot Games,” an Athletic Competition featuring many great young people from across the Coun",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42887",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18776/72802857ee688d79-5e13a84bf95a.mov",
     "truth:117529617188189235",
-    "https://www.trumpstruth.org/statuses/42888"
+    "https://www.trumpstruth.org/statuses/42888",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529619259512950https://truth-archive.us-iad-1.linodeobjects.com/attachments/18772/83a689",
+    "truth:117529620076918108",
+    "https://www.trumpstruth.org/statuses/42885"
   ],
   "posts": {
-    "truth:117427679576446625": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42278",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4\">View video</a></p>",
-      "published": "Mon, 12 Oct 2026 11:23:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T13:16:38.464261Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42278",
-      "source_fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4",
-      "media_identity": "attachment:117427679576446625:7ed474041dfe5a76-4abe1cd75e5f.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4",
-      "truth_social_id": "117427679576446625",
-      "translation": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/679/245/190/321/original/7ed474041dfe5a76.mp4"
-    },
     "truth:117427677603580538": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18196,6 +18180,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529617188189235https://truth-archive.us-iad-1.linodeobjects.com/attachments/18774/6a664a",
       "truth_social_id": "117529618350160774",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117529617188189235https://truth-archive.us-iad-1.linodeobjects.com/attachments/18774/6a664ab87f5bb977-3a17fc014e5e.pnghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18775/4967ca990077fe8a-fd9bb92b086a.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42888https://truth-archive.us-iad-1.linodeobjects.com/attachments/18776/72802857ee688d79-5e13a84bf95a.mov"
+    },
+    "truth:117529620076918108": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42885",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529619259512950</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18772/83a689429816fc95-1bd813ca8b07.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42886\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18773/5cbbbd36c989c499-c1780e121233.mp4\">View video</a></p></blockquote>",
+      "published": "Fri, 30 Oct 2026 11:28:01 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T13:36:15.522758Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42885",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529619259512950https://truth-archive.us-iad-1.linodeobjects.com/attachments/18772/83a689",
+      "media_identity": "attachment:117529620076918108:83a689429816fc95.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529619259512950https://truth-archive.us-iad-1.linodeobjects.com/attachments/18772/83a689",
+      "truth_social_id": "117529620076918108",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117529619259512950https://truth-archive.us-iad-1.linodeobjects.com/attachments/18772/83a689429816fc95-1bd813ca8b07.pngQuoted\nhttps://www.trumpstruth.org/statuses/42886https://truth-archive.us-iad-1.linodeobjects.com/attachments/18773/5cbbbd36c989c499-c1780e121233.mp4"
     },
     "truth:117516666252141562": {
       "post_status": "DISCOVERED",
@@ -38363,16 +38363,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-10-30T13:36:48.973014Z"
-    },
-    "truth:117529620076918108": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42885",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529619259512950</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18772/83a689429816fc95-1bd813ca8b07.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42886\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18773/5cbbbd36c989c499-c1780e121233.mp4\">View video</a></p></blockquote>",
-      "published": "Fri, 30 Oct 2026 11:28:01 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-30T12:51:19.613221Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42885"
     },
     "truth:117529624881658729": {
       "post_status": "DISCOVERED",
