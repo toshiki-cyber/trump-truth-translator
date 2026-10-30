@@ -38160,14 +38160,20 @@
       "next_retry_at": "2026-10-29T19:31:40.457128Z"
     },
     "truth:117529183120003107": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
       "status_url": "https://www.trumpstruth.org/statuses/42880",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18771/535f101f0eb9beef-e1fea759559d.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 09:36:53 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-30T10:51:16.879391Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42880"
+      "retry_count": 1,
+      "updated_at": "2026-10-30T11:01:23.750105Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42880",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18771/535f101f0eb9beef-e1fea759559d.mp4",
+      "media_identity": "attachment:117529183120003107:535f101f0eb9beef-e1fea759559d.mp4",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 93.4MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/529/179/750/546/433/original/535f101f0eb9beef.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18771/535f101f0eb9beef-e1fea759559d.mp4",
+      "truth_social_id": "117529183120003107",
+      "next_retry_at": "2026-10-30T11:06:23.750150Z"
     },
     "truth:117529183862932823": {
       "post_status": "DISCOVERED",
