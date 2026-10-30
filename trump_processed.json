@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117090358709824586",
-    "https://www.trumpstruth.org/statuses/40804",
-    "fp:Congressman Mike Lawler is a Strong Champion, and Highly Effective Representative, for the Great People of New York’s 17th Congressional District!\n \nA",
     "truth:117090359334104573",
     "https://www.trumpstruth.org/statuses/40803",
     "fp:It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressi",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42883",
     "fp:https://www.newsbreak.com/share/4974811915102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exithttps://truth-archive.us-iad-1.linodeobjects.",
     "truth:117529608108051260",
-    "https://www.trumpstruth.org/statuses/42892"
+    "https://www.trumpstruth.org/statuses/42892",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png",
+    "truth:117529609631368783",
+    "https://www.trumpstruth.org/statuses/42891"
   ],
   "posts": {
-    "truth:117427667290521889": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42285",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427655526336876</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/667/150/214/505/original/6ace51ccbe9f4b6b.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42264\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18456/b1f7ead8c8550856-c09d8434b420.jpg\">View image</a></p></blockquote>",
-      "published": "Mon, 12 Oct 2026 11:20:05 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T12:36:38.751865Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42285",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427655526336876https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
-      "media_identity": "attachment:117427667290521889:6ace51ccbe9f4b6b.png,b1f7ead8c8550856-c09d8434b420.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427655526336876https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attach",
-      "truth_social_id": "117427667290521889",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117427655526336876https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/427/667/150/214/505/original/6ace51ccbe9f4b6b.pngQuoted\nhttps://www.trumpstruth.org/statuses/42264https://truth-archive.us-iad-1.linodeobjects.com/attachments/18456/b1f7ead8c8550856-c09d8434b420.jpg"
-    },
     "truth:117427669196183256": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18194,6 +18178,22 @@
       "fingerprint": "fp:https://www.newsbreak.com/share/4974811915102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exithttps://truth-archive.us-iad-1.linodeobjects.",
       "truth_social_id": "117529608108051260",
       "translation": "https://www.newsbreak.com/share/4974811915102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exithttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18780/a6cd403fb7a5d957-2abcd636d9a6.png"
+    },
+    "truth:117529609631368783": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42891",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png\">View image</a></p>",
+      "published": "Fri, 30 Oct 2026 11:25:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-30T12:56:24.730733Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42891",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png",
+      "media_identity": "attachment:117529609631368783:30573217d8235ef0.png",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png",
+      "truth_social_id": "117529609631368783",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png"
     },
     "truth:117516666252141562": {
       "post_status": "DISCOVERED",
@@ -38149,25 +38149,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/42884",
       "source_text": "<p>I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANSAS, as do I. Enjoy!!! President DJT</p>",
       "published": "Fri, 30 Oct 2026 11:15:19 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-30T12:51:20.440727Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-30T12:56:21.042710Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42884",
       "first_seen": "2026-10-30T12:51:20.440689Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANS",
-      "next_retry_at": "2026-10-30T12:56:20.440736Z",
+      "next_retry_at": "2026-10-30T13:06:21.042728Z",
       "truth_social_id": "117529570134101741"
-    },
-    "truth:117529609631368783": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42891",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png\">View image</a></p>",
-      "published": "Fri, 30 Oct 2026 11:25:21 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-30T12:51:19.614156Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42891"
     },
     "truth:117529610420067199": {
       "post_status": "DISCOVERED",
