@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40830",
-    "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
-    "truth:117096010342291503",
     "https://www.trumpstruth.org/statuses/40828",
     "fp:Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interestin",
     "truth:117096018469681239",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42905",
     "fp:Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District!\n \nLaurel served as Florida’s Secretary of State for",
     "truth:117532190174374656",
-    "https://www.trumpstruth.org/statuses/42911"
+    "https://www.trumpstruth.org/statuses/42911",
+    "fp:Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patr",
+    "truth:117532198586240709",
+    "https://www.trumpstruth.org/statuses/42916"
   ],
   "posts": {
-    "truth:117428474535365465": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42293",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg\">View image</a></p>",
-      "published": "Mon, 12 Oct 2026 14:45:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-12T16:31:19.921080Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42293",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg",
-      "media_identity": "attachment:117428474535365465:0f63e5036e40df00.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg",
-      "truth_social_id": "117428474535365465",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxoqzququk5o",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxoqzququk5o",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg",
-        "createdAt": "2026-10-12T16:21:21.662203Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18483/0f63e5036e40df00-56bf8ab54087.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiffbepsdszwd3omelgzuvi57gsrhu5gpcojcbdj4ddx4o5br2a2gu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 113554
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1260,
-                "height": 816
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxoqzququk5o",
-          "rkey": "3mxoqzququk5o"
-        }
-      ]
-    },
     "truth:117428604395341775": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18146,6 +18076,42 @@
       "source_fingerprint": "fp:Congresswoman Laurel Lee is an incredible Representative of Florida’s 15th Congressional District!\n \nLaurel served as Florida’s Secretary of State for",
       "media_identity": "attachment:117532190174374656:",
       "translation": "フロリダ州第15選挙区の連邦下院議員ローレル・リーは素晴らしい代表者だ！\n\nローレルはフロリダ州務長官を3年間務め、家族と企業のために強い成果を上げた。議会では、ローレルは経済成長、減税・規制緩和、アメリカ製品推進、アメリカのエネルギー覇権解放、国境の厳重な防衛、イノベーション促進、偉大な軍隊と退役軍人の強化、常に攻撃にさらされている修正第2条の保護のために絶え間なく戦っている。\n\nローレル・リーは再選に向けて私の完全かつ全面的な支持を得ている！投票に行ってローレルに投票しろ――彼女は決してお前たちを失望させることはないだろう！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
+    },
+    "truth:117532198586240709": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42910",
+      "source_text": "<p>Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP</p>",
+      "published": "Fri, 30 Oct 2026 22:23:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T00:26:26.234779Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42916",
+      "first_seen": "2026-10-30T23:06:14.668594Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patr",
+      "truth_social_id": "117532198586240709",
+      "source_fingerprint": "fp:Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patr",
+      "media_identity": "attachment:117532198586240709:",
+      "translation": "エアフォース・ワンでデイトナに向かう中、Right Side Broadcasting Network（RSBN）を視聴している。ラリーは満員だ！素晴らしいスピーカーたちと、信じられないほどのフロリダ愛国者たちがいる。すぐに着陸する。もうすぐ会おう！大統領 ドナルド・J・トランプ",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4szyhsms2t",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mz4szyhsms2t",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "エアフォース・ワンでデイトナに向かう中、Right Side Broadcasting Network（RSBN）を視聴している。ラリーは満員だ！素晴らしいスピーカーたちと、信じられないほどのフロリダ愛国者たちがいる。すぐに着陸する。もうすぐ会おう！大統領 ドナルド・J・トランプ",
+        "createdAt": "2026-10-31T00:21:12.919239Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4szyhsms2t",
+          "rkey": "3mz4szyhsms2t"
+        }
+      ]
     },
     "truth:117531906499204194": {
       "post_status": "DISCOVERED",
@@ -38282,79 +38248,6 @@
       "truth_social_id": "117531976551681094",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-31T00:56:15.567536Z"
-    },
-    "truth:117532198586240709": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42910",
-      "source_text": "<p>Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP</p>",
-      "published": "Fri, 30 Oct 2026 22:23:46 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T00:21:19.860457Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42916",
-      "first_seen": "2026-10-30T23:06:14.668594Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patr",
-      "truth_social_id": "117532198586240709",
-      "source_fingerprint": "fp:Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patr",
-      "media_identity": "attachment:117532198586240709:",
-      "translation": "エアフォース・ワンでデイトナに向かう中、Right Side Broadcasting Network（RSBN）を視聴している。ラリーは満員だ！素晴らしいスピーカーたちと、信じられないほどのフロリダ愛国者たちがいる。すぐに着陸する。もうすぐ会おう！大統領 ドナルド・J・トランプ",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4szyhsms2t",
-          "cid": "bafyreiblgqvat34zp57p3mcyb3aub46je54mdt2fjnescn2ffoz2fnmmgi"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4szyhsms2t",
-          "cid": "bafyreiblgqvat34zp57p3mcyb3aub46je54mdt2fjnescn2ffoz2fnmmgi"
-        },
-        "next_index": 1,
-        "last_rkey": "3mz4szyhsms2t",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "エアフォース・ワンでデイトナに向かう中、Right Side Broadcasting Network（RSBN）を視聴している。ラリーは満員だ！素晴らしいスピーカーたちと、信じられないほどのフロリダ愛国者たちがいる。すぐに着陸する。もうすぐ会おう！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-10-31T00:21:12.919239Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mz4szyhsms2t",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "エアフォース・ワンでデイトナに向かう中、Right Side Broadcasting Network（RSBN）を視聴している。ラリーは満員だ！素晴らしいスピーカーたちと、信じられないほどのフロリダ愛国者たちがいる。すぐに着陸する。もうすぐ会おう！大統領 ドナルド・J・トランプ",
-          "createdAt": "2026-10-31T00:21:12.919239Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4szyhsms2t",
-            "rkey": "3mz4szyhsms2t"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4szyhsms2t",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mz4szyhsms2t",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "エアフォース・ワンでデイトナに向かう中、Right Side Broadcasting Network（RSBN）を視聴している。ラリーは満員だ！素晴らしいスピーカーたちと、信じられないほどのフロリダ愛国者たちがいる。すぐに着陸する。もうすぐ会おう！大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-10-31T00:21:12.919239Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4szyhsms2t",
-          "rkey": "3mz4szyhsms2t"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-10-31T00:26:19.860468Z"
     },
     "truth:117532201769118172": {
       "post_status": "RETRY",
