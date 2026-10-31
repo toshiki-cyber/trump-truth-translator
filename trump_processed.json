@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41002",
-    "truth:117119273375861239",
-    "https://www.trumpstruth.org/statuses/41001",
     "truth:117119274059105642",
     "https://www.trumpstruth.org/statuses/41000",
     "truth:117119274682441393",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43050",
     "fp:Congressman Nick LaLota is doing a truly fantastic job representing the incredible people of New York's 1st Congressional District!\n \nA Brave U.S. Nav",
     "truth:117537263162571149",
-    "https://www.trumpstruth.org/statuses/43049"
+    "https://www.trumpstruth.org/statuses/43049",
+    "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
+    "truth:117537263778781376",
+    "https://www.trumpstruth.org/statuses/43048"
   ],
   "posts": {
-    "truth:117469027191542871": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42439",
-      "source_text": "<p>I am pleased to nominate Eric Hamilton to serve as Judge on the United States District Court for the District of Nebraska. Eric has done a phenomenal job as the Deputy Assistant Attorney General for the Federal Programs Branch, defending our Administration’s most important Policies in Court. A sixth generation Nebraskan, Eric previously served as Solicitor General of the State of Nebraska. He is a proud graduate of Stanford Law School and the University of Nebraska, and clerked for the highly respected Judge Thomas Hardiman of the Third Circuit. The incredible people of Nebraska are lucky to have a fighter like Eric join the Federal Bench. Congratulations Eric! President DONALD J. TRUMP</p>",
-      "published": "Mon, 19 Oct 2026 18:38:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T19:55:36.256233Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42439",
-      "first_seen": "2026-10-19T19:25:38.834284Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:I am pleased to nominate Eric Hamilton to serve as Judge on the United States District Court for the District of Nebraska. Eric has done a phenomenal ",
-      "truth_social_id": "117469027191542871",
-      "source_fingerprint": "fp:I am pleased to nominate Eric Hamilton to serve as Judge on the United States District Court for the District of Nebraska. Eric has done a phenomenal ",
-      "media_identity": "attachment:117469027191542871:",
-      "translation": "わたしはエリック・ハミルトンをネブラスカ州地区連邦地裁の判事として指名することを喜びとする。エリックは連邦プログラム部門の司法次官補として、わが行政の最も重要な政策を法廷で防衛する際に見事な仕事をしてきた。6代目のネブラスカ州民であるエリックは、かつてネブラスカ州ソリシター・ジェネラル（州検事総長）を務めた。スタンフォード大学ロースクールおよびネブラスカ大学の卒業生であり、第3巡回控訴裁判所の高く評価されるトマス・ハーディマン判事の書記を務めた。ネブラスカ州の素晴らしい人々は、エリックのような闘士が連邦ベンチに加わることは幸いである。おめでとうエリック！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myarcxosv2ea",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myarcxosv2ea",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "わたしはエリック・ハミルトンをネブラスカ州地区連邦地裁の判事として指名することを喜びとする。エリックは連邦プログラム部門の司法次官補として、わが行政の最も重要な政策を法廷で防衛する際に見事な仕事をしてきた。6代目のネブラスカ州民であるエリックは、かつてネブラスカ州ソリシター・ジェネラル（州検事総長）を務めた。スタンフォード大学ロースクールおよびネブラスカ大学の卒業生であり、第3巡回控訴裁判所の高く評価されるトマス・ハーディマン判事の書記を務めた。ネブラスカ州の素晴らしい人々は、エリックのような闘士が連邦ベンチに加わることは幸いである。おめでとうエリック！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-19T19:45:44.586059Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myarcxosv2ea",
-          "rkey": "3myarcxosv2ea"
-        }
-      ]
-    },
     "truth:117469132662412438": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17395,6 +17359,24 @@
       "source_fingerprint": "fp:Congressman Nick LaLota is doing a truly fantastic job representing the incredible people of New York's 1st Congressional District!\n \nA Brave U.S. Nav",
       "media_identity": "attachment:117537263162571149:",
       "translation": "ニック・ラロータ下院議員はニューヨーク州第1下院選挙区の素晴らしい人々を代表する本当に素晴らしい仕事をしている！\n\n勇敢な米海軍退役軍人であるニックは、わが国を防衛し、勇敢な軍人・退役軍人を支援し、力による平和を確保するために必要な知恵と勇気を知っている。下院ではニックは、国境をしっかり守り、移民犯罪を止め、法と秩序を確保し、経済を成長させ、税制と規制を削減し、米国のエネルギー支配を解放し、米国製を推進し、常に脅かされている修正第2条を保護するために絶え間なく戦っている。さらに、彼は偉大なニューヨーク州の労働者のためにSALT控除を成功裏に増やすために懸命に働いた！\n\nニックの対立候補クリス・ガラントはチップに対する税金なし、残業に対する税金なし、社会保障に対する税金なしに反対する急進左翼民主党員であり、もし彼と民主党員がいつか政権を取ったら、これらすべてのものは廃止されるだろう。彼は大幅な増税、開放的な国境、男性による女性スポーツへの参加、および子どもへのトランスジェンダー改造を望んでいる。クリス・ガラントは無責任で急進的で危険だ！\n\nニック・ラロータは再選に向けて私の完全かつ絶対的な支持を持っている。投票に行ってニックに投票しろ―彼はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/new-york/"
+    },
+    "truth:117537263778781376": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43048",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State of New York! Between Kathy Hochul and the Most Corrupt Attorney General in the Country, Letitia James, it has gone to HELL!<br /> <br />Saritha is strongly supported by the Greatest MAGA Warriors in New York, including my friend, and Republican Nominee for Governor, Bruce Blakeman! As a former Federal Prosecutor, Chief of Staff of the Drug Enforcement Administration, Law Clerk for then-Judge Brett Kavanaugh, and a distinguished Harvard Law School graduate, with Honors, Saritha has proven she has the Courage and Wisdom to deliver strong results for the incredible people of New York City and State. Her opponent, the totally corrupt, unlawful, and incompetent, Letitia “Peekaboo” James, is considered by many to be the WORST Attorney General in our Country. She is a Complete and Total Disaster, who tried running against Kathy Hochul for Governor, and got less than 1% of the Vote in the Polls, and QUIT, taking many innocent suckers down with her. She then went back to her WITCH HUNT against your favorite President, (ME!), and others, yet Murder and other Violent Crime is RAGING OUT OF CONTROL in New York, as People and Businesses flee, in Record Numbers, to other States!<br /> <br />On the other hand, as your next Attorney General, Saritha will fight tirelessly to Ensure LAW AND ORDER, Grow our Economy, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Defend our always under siege Second Amendment.<br /> <br />Saritha Komatireddy has my Complete and Total Endorsement to be the next Attorney General of the Great State of New York. GET OUT AND VOTE FOR SARITHA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/new-york/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/new-york/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 31 Oct 2026 19:51:54 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T23:55:52.769495Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43048",
+      "first_seen": "2026-10-31T22:50:40.092747Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
+      "truth_social_id": "117537263778781376",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
+      "media_identity": "attachment:117537263778781376:",
+      "translation": "わが国の素晴らしき弁護士サリタ・コマティレディを、かつて素晴らしかったニューヨーク州の次期司法長官候補として支持することは、私の大きな栄誉である！キャシー・ホークルと全国で最も腐敗した司法長官レティシア・ジェームスの間で、ニューヨーク州は地獄と化した。\n\nサリタはニューヨークの最高のMAGA戦士たちから強く支持されており、共和党の州知事候補で私の友人でもあるブルース・ブレイクマンを含む。元連邦検察官、麻薬取締局長官の首席補佐官、当時のブレット・カバノー判事の法律補佐官、そしてハーバード・ロー・スクール優等卒という経歴を持つサリタは、ニューヨーク市と州の素晴らしき人々のために強い成果をもたらす勇気と知恵を持つことを証明している。彼女の対立候補は、完全に腐敗しており違法で無能なレティシア「いないいないばあ」ジェームスであり、彼女は多くの者から全国で最悪の司法長官と見なされている。彼女は完全かつ徹底的な災厄であり、キャシー・ホークルに対して州知事選に出馬しようとしたが、世論調査で得票率1%未満となり、QUIT（辞退）した。その際、多くの無実の馬鹿たちを道連れにした。その後、彼女は君たちのお気に入りの大統領（俺だ！）などに対する魔女狩りに戻ったが、その一方で殺人などの暴力犯罪はニューヨークで制御不能なほど猛威を振るっており、人々とビジネスは記録的な数で他州へ逃げている。\n\n一方、次期司mient司法長官として、サリタは法と秩序を確保するため不屈に戦い、経済を成長させ、法執行機関と第一対応者を支持し、我が軍と退役軍人を支援し、選挙の完全性を推進し、国境を確実に守り、移民犯罪を止め、憲法を守り、常に危機にさらされている修正第2条を擁護するだろう。\n\nサリタ・コマティレディはニューヨーク州の次期司法長官として私の完全かつ徹底的な支持を得ている。投票に行ってサリタに投票しろ――彼女は決して君たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/new-york/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37924,22 +37906,6 @@
       "published": "Sat, 31 Oct 2026 20:52:13 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T22:50:34.812595Z"
-    },
-    "truth:117537263778781376": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43048",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State of New York! Between Kathy Hochul and the Most Corrupt Attorney General in the Country, Letitia James, it has gone to HELL!<br /> <br />Saritha is strongly supported by the Greatest MAGA Warriors in New York, including my friend, and Republican Nominee for Governor, Bruce Blakeman! As a former Federal Prosecutor, Chief of Staff of the Drug Enforcement Administration, Law Clerk for then-Judge Brett Kavanaugh, and a distinguished Harvard Law School graduate, with Honors, Saritha has proven she has the Courage and Wisdom to deliver strong results for the incredible people of New York City and State. Her opponent, the totally corrupt, unlawful, and incompetent, Letitia “Peekaboo” James, is considered by many to be the WORST Attorney General in our Country. She is a Complete and Total Disaster, who tried running against Kathy Hochul for Governor, and got less than 1% of the Vote in the Polls, and QUIT, taking many innocent suckers down with her. She then went back to her WITCH HUNT against your favorite President, (ME!), and others, yet Murder and other Violent Crime is RAGING OUT OF CONTROL in New York, as People and Businesses flee, in Record Numbers, to other States!<br /> <br />On the other hand, as your next Attorney General, Saritha will fight tirelessly to Ensure LAW AND ORDER, Grow our Economy, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Defend our always under siege Second Amendment.<br /> <br />Saritha Komatireddy has my Complete and Total Endorsement to be the next Attorney General of the Great State of New York. GET OUT AND VOTE FOR SARITHA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/new-york/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/new-york/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 31 Oct 2026 19:51:54 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T23:05:34.266467Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43048",
-      "first_seen": "2026-10-31T22:50:40.092747Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State",
-      "next_retry_at": "2026-10-31T23:15:34.266483Z",
-      "truth_social_id": "117537263778781376"
     },
     "truth:117537264358690703": {
       "post_status": "RETRY",
