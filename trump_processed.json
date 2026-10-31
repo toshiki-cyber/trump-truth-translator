@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:I am pleased to nominate Zach West to serve as Judge on the United States District Court for the Northern District of Oklahoma, a place I love! Zach h",
-    "truth:117118626722039422",
-    "https://www.trumpstruth.org/statuses/40970",
     "fp:I am pleased to nominate Courtney Coker to serve as Judge on the United States District Court for the Northern District of Texas. Courtney has been a ",
     "truth:117118679309261908",
     "https://www.trumpstruth.org/statuses/40972",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43003",
     "fp:It is my Great Honor to endorse America First Patriot, Eric Conroy, who is running to represent the wonderful people of Ohio's 1st Congressional Distr",
     "truth:117536928870631494",
-    "https://www.trumpstruth.org/statuses/43013"
+    "https://www.trumpstruth.org/statuses/43013",
+    "fp:It is my Great Honor to endorse America First Patriot, Vivek Ramaswamy, who is running for Governor of the Great State of Ohio, a place I love and WON",
+    "truth:117536930513150839",
+    "https://www.trumpstruth.org/statuses/43011"
   ],
   "posts": {
-    "truth:117464781656394459": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42423",
-      "source_text": "<p>The first landing of Air Force One at President Donald J. Trump International Airport, in Palm Beach County, Florida!</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18575/5d03803de8a9d062-39014d65c0d5.jpg\">View image</a></p>",
-      "published": "Mon, 19 Oct 2026 00:38:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T03:20:38.370010Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42423",
-      "source_fingerprint": "fp:The first landing of Air Force One at President Donald J. Trump International Airport, in Palm Beach County, Florida!\nhttps://truth-archive.us-iad-1.l",
-      "media_identity": "attachment:117464781656394459:5d03803de8a9d062.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:The first landing of Air Force One at President Donald J. Trump International Airport, in Palm Beach County, Florida!\nhttps://truth-archive.us-iad-1.l",
-      "truth_social_id": "117464781656394459",
-      "translation": "パームビーチ・カウンティ、フロリダ州のドナルド・J・トランプ大統領国際空港へのエアフォース・ワン初着陸だ！\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18575/5d03803de8a9d062-39014d65c0d5.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3my6uyczhkssb",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3my6uyczhkssb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "パームビーチ・カウンティ、フロリダ州のドナルド・J・トランプ大統領国際空港へのエアフォース・ワン初着陸だ！\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18575/5d03803de8a9d062-39014d65c0d5.jpg",
-        "createdAt": "2026-10-19T03:10:46.016877Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 158,
-              "byteEnd": 258
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18575/5d03803de8a9d062-39014d65c0d5.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreid6df7um5uk2vvv3eppqc52cuhft6rkspbbcxvv56vfjypvsondle"
-                },
-                "mimeType": "image/jpeg",
-                "size": 161739
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1170,
-                "height": 700
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3my6uyczhkssb",
-          "rkey": "3my6uyczhkssb"
-        }
-      ]
-    },
     "truth:117464943162220490": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17583,6 +17513,24 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Eric Conroy, who is running to represent the wonderful people of Ohio's 1st Congressional Distr",
       "media_identity": "attachment:117536928870631494:",
       "translation": "アメリカ・ファースト愛国者で、オハイオ州第1下院選挙区の素晴らしい人々を代表するために立候補しているエリック・コンロイを支持することは、私の栄誉である！\n\n勇敢な米空軍退役軍人であり、元中央情報局（CIA）職員のエリックは、法と秩序を確保し、法執行機関の偉大なヒーローたちを強く支持し、我が軍と退役軍人を支持するために必要な知恵と勇気を備えている。彼の対立候補グレッグ・ランズマンは、チップへの課税なし、残業への課税なし、社会保障への課税なしに投票に反対した。そして、彼と民主党員たちが権力を握ったら、これら全てのものは廃止されるだろう。彼は大規模な増税、国境開放、女子スポーツへの男性の参加、そして全員のトランスジェンダー化を望んでいる。グレッグ・ランズマンは無責任で、急進的で、危険だ！\n\n一方、次の下院議員として、エリックは経済成長に向けて懸命に取り組み、税金と規制を削減し、米国製を推進し、アメリカのエネルギー支配を確立し、国境を厳重に守り、移民犯罪を阻止し、常に脅威にさらされている修正第2条を守るだろう。\n\nエリック・コンロイはオハイオ州第1下院選挙区の次の代表になるために、私の完全かつ全面的な支持を得ている。エリックのために投票に行け―彼はお前たちを決して裏切らないだろう！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/ohio/"
+    },
+    "truth:117536930513150839": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43011",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Vivek Ramaswamy, who is running for Governor of the Great State of Ohio, a place I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!<br /> <br />I know Vivek well, competed against him, and he is something SPECIAL. He is Young, Strong, and Smart! Vivek is also a very good person, who truly loves our Country. His opponent, Amy Acton, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Amy Acton is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Governor, Vivek will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Vivek Ramaswamy has my Complete and Total Endorsement to be the next Governor of the Great State of Ohio. GET OUT AND VOTE FOR VIVEK — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 31 Oct 2026 18:27:09 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T21:45:44.131102Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43011",
+      "first_seen": "2026-10-31T19:06:25.671189Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Vivek Ramaswamy, who is running for Governor of the Great State of Ohio, a place I love and WON",
+      "truth_social_id": "117536930513150839",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Vivek Ramaswamy, who is running for Governor of the Great State of Ohio, a place I love and WON",
+      "media_identity": "attachment:117536930513150839:",
+      "translation": "私が心から支持するアメリカ・ファースト愛国者ビベック・ラマスワミが、私が愛し、2016年、2020年、2024年の3度も大勝利を収めた偉大なオハイオ州の知事選に出馬している。これは私にとって大きな栄誉だ。\n\nビベックのことはよく知っている。彼と競い合ったこともある。彼は特別な人物だ。若く、強く、頭がいい！ビベックはまた、真に国を愛する非常に立派な人間だ。彼の対立候補であるエイミー・アクトンは、チップへの課税廃止、残業代への課税廃止、社会保障への課税廃止に反対する急進左派民主主義者であり、彼女と民主主義者が権力を握れば、これらすべてが廃止されるだろう。彼女は大幅な増税、国境開放、女性スポーツへの男性参加、そして子どもへのトランスジェンダー医療を望んでいる。エイミー・アクトンは無責任で、急進的で、危険だ！\n\n一方、次のオハイオ州知事として、ビベックは経済成長のために絶え間なく戦い、税金と規制を削減し、アメリカ製を推進し、アメリカエネルギーの支配権を守り、今や安全になった国境を安全に保ち、移民犯罪を阻止し、軍隊と退役軍人を強化し、法と秩序を確保し、選挙の完全性を推進し、常に脅威にさらされている修正第2条を守るだろう。\n\nビベック・ラマスワミは、偉大なオハイオ州の次期知事になるための私の完全で絶対的な支持を得ている。投票に行きビベックに投票しろ。彼は決してお前たちを失望させない！ドナルド・J・トランプ大統領より\nhttps://swampthevoteusa.com/ohio/"
     },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
@@ -37922,22 +37870,6 @@
       "published": "Sat, 31 Oct 2026 18:26:53 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T18:51:10.361642Z"
-    },
-    "truth:117536930513150839": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43011",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Vivek Ramaswamy, who is running for Governor of the Great State of Ohio, a place I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!<br /> <br />I know Vivek well, competed against him, and he is something SPECIAL. He is Young, Strong, and Smart! Vivek is also a very good person, who truly loves our Country. His opponent, Amy Acton, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Amy Acton is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Governor, Vivek will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Vivek Ramaswamy has my Complete and Total Endorsement to be the next Governor of the Great State of Ohio. GET OUT AND VOTE FOR VIVEK — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 31 Oct 2026 18:27:09 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T19:31:18.941646Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43011",
-      "first_seen": "2026-10-31T19:06:25.671189Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Vivek Ramaswamy, who is running for Governor of the Great State of Ohio, a place I love and WON",
-      "next_retry_at": "2026-10-31T19:41:18.941656Z",
-      "truth_social_id": "117536930513150839"
     },
     "truth:117536931163560869": {
       "post_status": "RETRY",
