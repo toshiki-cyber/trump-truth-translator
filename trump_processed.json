@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117115788618837208",
-    "https://www.trumpstruth.org/statuses/40955",
-    "fp:Florida, Vote for Byron Donalds for Governor. He has my Complete and total Endorsement. He will never let you down! President DJT",
     "truth:117115777270677160",
     "https://www.trumpstruth.org/statuses/40956",
     "fp:Intel Politics: NSA sat on election threat reporting over Trump ‘deep state’ label, memo shows: \nhttps://justthenews.com/government/security/nsa-analy",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42992",
     "fp:OHIO, I will doing a TeleRally, LIVE, at 2:45pm ET, for U.S. Senator Jon Husted, Vivek Ramaswamy for Governor, Congressman Mike Carey (OH-15), Eric Co",
     "truth:117536916209515375",
-    "https://www.trumpstruth.org/statuses/43007"
+    "https://www.trumpstruth.org/statuses/43007",
+    "fp:Congressman Mike Carey is a Fantastic Advocate for Ohio's 15th Congressional District!\n \nAs a Member of the POWERFUL House Ways & Means Committee, Mik",
+    "truth:117536920218712868",
+    "https://www.trumpstruth.org/statuses/43002"
   ],
   "posts": {
-    "truth:117461628770166051": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42405",
-      "source_text": "<p>God Bless The U.S.A.<br /><a href=\"https://youtu.be/-KoXt9pZLGM\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>youtu.be/-KoXt9pZLGM</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sun, 18 Oct 2026 11:16:56 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-18T13:25:36.693523Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42405",
-      "first_seen": "2026-10-18T13:05:37.066494Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:God Bless The U.S.A.\nhttps://youtu.be/-KoXt9pZLGM",
-      "truth_social_id": "117461628770166051",
-      "source_fingerprint": "fp:God Bless The U.S.A.\nhttps://youtu.be/-KoXt9pZLGM",
-      "media_identity": "attachment:117461628770166051:",
-      "translation": "神よ、アメリカを祝福したまえ。\nhttps://youtu.be/-KoXt9pZLGM"
-    },
     "truth:117461819331327618": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17645,6 +17627,24 @@
       "source_fingerprint": "fp:OHIO, I will doing a TeleRally, LIVE, at 2:45pm ET, for U.S. Senator Jon Husted, Vivek Ramaswamy for Governor, Congressman Mike Carey (OH-15), Eric Co",
       "media_identity": "attachment:117536916209515375:",
       "translation": "オハイオ州で午後2時45分ET（東部時間）にテレラリーをLIVEで開催する。米国上院議員ジョン・ハステッド、州知事候補ビベック・ラマスワミ、下院議員マイク・キャリー（OH-15）、下院議員候補エリック・コンロイ（OH-01）、下院議員候補デレク・メリン（OH-09）のためだ。彼らは皆、わたしの完全で絶対的な支持を得ており、決してあなたたちを失望させることはない。彼らはオハイオ州の素晴らしい国民を愛しており、わたしもそうだ。電話に出て、楽しんでくれ。ドナルド・J・トランプ大統領"
+    },
+    "truth:117536920218712868": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43002",
+      "source_text": "<p>Congressman Mike Carey is a Fantastic Advocate for Ohio's 15th Congressional District!<br /> <br />As a Member of the POWERFUL House Ways &amp; Means Committee, Mike understands the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation's Golden Age. A Brave U.S. Army Veteran, Mike knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is also working hard to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.<br /> <br />Mike's opponent, Don Leonard, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Don Leonard is Reckless, Radical, and Dangerous!<br /> <br />Mike Carey has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 31 Oct 2026 18:24:32 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T20:46:20.557854Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43002",
+      "first_seen": "2026-10-31T19:06:22.199786Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Mike Carey is a Fantastic Advocate for Ohio's 15th Congressional District!\n \nAs a Member of the POWERFUL House Ways & Means Committee, Mik",
+      "truth_social_id": "117536920218712868",
+      "source_fingerprint": "fp:Congressman Mike Carey is a Fantastic Advocate for Ohio's 15th Congressional District!\n \nAs a Member of the POWERFUL House Ways & Means Committee, Mik",
+      "media_identity": "attachment:117536920218712868:",
+      "translation": "マイク・キャリー下院議員はオハイオ州第15下院選挙区の素晴らしい代弁者だ！\n\n下院歳入委員会の強力なメンバーとして、マイクは素晴らしい雇用を創出し、税金と規制を削減し、アメリカンエネルギーの支配力を解き放ち、アメリカ製品を推進し、わが国の黄金期を擁護するために必要なアメリカ第一主義の政策を理解している。勇敢な米陸軍退役軍人であるマイクは、わが国を防衛し、軍人と退役軍人をサポートし、力による平和を確保するために必要な知恵と勇気を知っている。彼はまた、今や非常に安全になった我々の国境を安全に保ち、移民犯罪を阻止し、常に脅威にさらされている我々の修正第2条を守るために一生懸命働いている。\n\nマイクの対立候補であるドン・レナードは、チップに対する税金なし、残業に対する税金なし、社会保障に対する税金なしに反対する急進左翼民主党員であり、彼と民主党員たちがもし権力を得たら、これらすべてのものは廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツでのトランスジェンダー選手、子どもへのトランスジェンダー医療を望んでいる。ドン・レナードは無謀で、急進的で、危険だ！\n\nマイク・キャリーは再選に向けて私の完全かつ全面的な支持を得ている。投票に行ってマイクに投票しろ ─ 彼はお前たちをがっかりさせることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/ohio/"
     },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
@@ -37985,22 +37985,6 @@
       "retry_count": 0,
       "updated_at": "2026-10-31T18:51:10.361642Z"
     },
-    "truth:117536920218712868": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43002",
-      "source_text": "<p>Congressman Mike Carey is a Fantastic Advocate for Ohio's 15th Congressional District!<br /> <br />As a Member of the POWERFUL House Ways &amp; Means Committee, Mike understands the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., and Champion our Nation's Golden Age. A Brave U.S. Army Veteran, Mike knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. He is also working hard to Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment.<br /> <br />Mike's opponent, Don Leonard, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Don Leonard is Reckless, Radical, and Dangerous!<br /> <br />Mike Carey has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 31 Oct 2026 18:24:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T19:31:15.775995Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43002",
-      "first_seen": "2026-10-31T19:06:22.199786Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Mike Carey is a Fantastic Advocate for Ohio's 15th Congressional District!\n \nAs a Member of the POWERFUL House Ways & Means Committee, Mik",
-      "next_retry_at": "2026-10-31T19:41:15.776010Z",
-      "truth_social_id": "117536920218712868"
-    },
     "truth:117536920928719302": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -38185,6 +38169,15 @@
       "published": "Sat, 31 Oct 2026 18:08:10 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T19:01:13.264098Z"
+    },
+    "https://www.trumpstruth.org/statuses/43000": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43000",
+      "source_text": "<p>OHIO, I will doing a TeleRally, LIVE, at 2:45pm ET, for U.S. Senator Jon Husted, Vivek Ramaswamy for Governor, Congressman Mike Carey (OH-15), Eric Conroy for Congress (OH-01), and Derek Merrin for Congress (OH-09) — All have my Complete and Total Endorsement, and will never let you down. They LOVE the Great People of Ohio, and so do I — Answer your phones, and ENJOY! President DONALD J. TRUMP</p>",
+      "published": "Sat, 31 Oct 2026 18:23:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T20:46:13.214325Z"
     }
   }
 }
