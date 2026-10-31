@@ -17917,7 +17917,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T06:56:15.641645Z",
+      "updated_at": "2026-10-31T07:01:12.508001Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -38030,13 +38030,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:56:20.059546Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T07:01:12.507463Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -38065,20 +38065,143 @@
       "updated_at": "2026-10-31T00:51:15.647543Z"
     },
     "truth:117532341552582089": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/42938",
       "source_text": "<p>Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas’ 1st Congressional District!<br /> <br />Nathaniel has an incredible Record of Success, and strong support from his Community. In Congress, he is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Ranchers, Ensure American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Champion our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Nathaniel Moran has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR NATHANIEL — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 23:00:07 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T02:26:14.290417Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-31T07:01:27.793814Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42938",
       "first_seen": "2026-10-31T02:11:16.588668Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas’ 1st Congressional District!\n \nNathaniel has an incredible",
-      "next_retry_at": "2026-10-31T02:36:14.290436Z",
-      "truth_social_id": "117532341552582089"
+      "truth_social_id": "117532341552582089",
+      "source_fingerprint": "fp:Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas’ 1st Congressional District!\n \nNathaniel has an incredible",
+      "media_identity": "attachment:117532341552582089:",
+      "translation": "テキサス州第1選挙区の偉大な人々を代表するナサニエル・モーラン下院議員は素晴らしい仕事をしている！\n\nナサニエルは驚異的な成功の実績を持ち、地域社会から強い支持を受けている。議会ではナサニエルは、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、素晴らしい農民と牧畜業者を支援し、アメリカンエネルギーの優位性を確保し、今や非常に安全になった我々の国境を守り続け、移民犯罪を止め、勇敢な軍人と退役軍人を支持し、常に脅威にさらされている修正第2条を守るために、精力的に働いている。\n\nナサニエル・モーランは再選に向けて私の完全かつ全面的な支持を得ている。ナサニエルに投票しに行こう――彼はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
+          "cid": "bafyreig54dyo2lhru5luqo2bm3d6bdkm2ebmh5vaxtw2ssv3ao6ldy7jre"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov34h",
+          "cid": "bafyreibhfg2glog2edmpq76cy5mq4biwkx4vaj3bgblffvmecd6g6eguh4"
+        },
+        "next_index": 2,
+        "last_rkey": "3mz4v2yvov34h",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "ナサニエルに投票しに行こう――彼はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/",
+          "createdAt": "2026-10-31T07:01:21.071440Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 137,
+                "byteEnd": 171
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://swampthevoteusa.com/texas/"
+                }
+              ]
+            }
+          ],
+          "reply": {
+            "root": {
+              "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
+              "cid": "bafyreig54dyo2lhru5luqo2bm3d6bdkm2ebmh5vaxtw2ssv3ao6ldy7jre"
+            },
+            "parent": {
+              "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
+              "cid": "bafyreig54dyo2lhru5luqo2bm3d6bdkm2ebmh5vaxtw2ssv3ao6ldy7jre"
+            }
+          }
+        },
+        "root_rkey": "3mz4v2yvov26n",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "テキサス州第1選挙区の偉大な人々を代表するナサニエル・モーラン下院議員は素晴らしい仕事をしている！\n\nナサニエルは驚異的な成功の実績を持ち、地域社会から強い支持を受けている。議会ではナサニエルは、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、素晴らしい農民と牧畜業者を支援し、アメリカンエネルギーの優位性を確保し、今や非常に安全になった我々の国境を守り続け、移民犯罪を止め、勇敢な軍人と退役軍人を支持し、常に脅威にさらされている修正第2条を守るために、精力的に働いている。\n\nナサニエル・モーランは再選に向けて私の完全かつ全面的な支持を得ている。",
+          "createdAt": "2026-10-31T07:01:19.980633Z",
+          "langs": [
+            "ja"
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://swampthevoteusa.com/texas/",
+              "title": "Texas",
+              "description": "Texas Secretary of State, Elections Division Address 400 W. 15th Street Austin, TX 78701 Phone 512-463-5650 Email elections@sos.texas.gov Republican Party of Texas Address 807 Brazos St.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreidgkkymurssu4a7bfv4uufnxwf4gwuh4quputcrdgt343xf2zflgy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 7220
+              }
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
+            "rkey": "3mz4v2yvov26n"
+          },
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov34h",
+            "rkey": "3mz4v2yvov34h"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mz4v2yvov26n",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "テキサス州第1選挙区の偉大な人々を代表するナサニエル・モーラン下院議員は素晴らしい仕事をしている！\n\nナサニエルは驚異的な成功の実績を持ち、地域社会から強い支持を受けている。議会ではナサニエルは、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、素晴らしい農民と牧畜業者を支援し、アメリカンエネルギーの優位性を確保し、今や非常に安全になった我々の国境を守り続け、移民犯罪を止め、勇敢な軍人と退役軍人を支持し、常に脅威にさらされている修正第2条を守るために、精力的に働いている。\n\nナサニエル・モーランは再選に向けて私の完全かつ全面的な支持を得ている。",
+        "createdAt": "2026-10-31T07:01:19.980633Z",
+        "langs": [
+          "ja"
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://swampthevoteusa.com/texas/",
+            "title": "Texas",
+            "description": "Texas Secretary of State, Elections Division Address 400 W. 15th Street Austin, TX 78701 Phone 512-463-5650 Email elections@sos.texas.gov Republican Party of Texas Address 807 Brazos St.",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidgkkymurssu4a7bfv4uufnxwf4gwuh4quputcrdgt343xf2zflgy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 7220
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
+          "rkey": "3mz4v2yvov26n"
+        },
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov34h",
+          "rkey": "3mz4v2yvov34h"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-10-31T07:06:27.793829Z"
     },
     "truth:117532342092327819": {
       "post_status": "RETRY",
@@ -38290,14 +38413,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42976",
       "source_text": "<p>Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!<br /> <br />As the Chairman of my WINNING 2024 Campaign’s Veterans for Trump Coalition, Brian is a true American Hero and Patriot. He knows the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, he is fighting hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Ensure PEACE THROUGH STRENGTH, and Protect our always under siege Second Amendment.<br /> <br />Brian Mast has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR BRIAN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:20:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:11.479298Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:12.909956Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42976",
       "first_seen": "2026-10-31T06:51:11.479257Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Brian Mast is a MAGA Warrior and Fantastic Advocate for Florida’s 21st Congressional District!\n \nAs the Chairman of my WINNING 2024 Campai",
-      "next_retry_at": "2026-10-31T06:56:11.479306Z",
+      "next_retry_at": "2026-10-31T07:11:12.909974Z",
       "truth_social_id": "117532185224695462"
     },
     "truth:117532187647678901": {
@@ -38306,14 +38429,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42974",
       "source_text": "<p>Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!<br /> <br />A U.S. Naval Academy Graduate and retired Navy Commander, Scott knows the Wisdom and Courage that is required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Scott is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Protect our always under siege Second Amendment.<br /> <br />Scott Franklin has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR SCOTT — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:20:59 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:11.998050Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:13.099648Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42974",
       "first_seen": "2026-10-31T06:51:11.997999Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
-      "next_retry_at": "2026-10-31T06:56:11.998058Z",
+      "next_retry_at": "2026-10-31T07:11:13.099665Z",
       "truth_social_id": "117532187647678901"
     },
     "truth:117532188644183689": {
@@ -38322,14 +38445,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42973",
       "source_text": "<p>Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!<br /> <br />A Former Captain of the U.S. Army JAG Corps, Greg knows the Wisdom and Courage that is required to Defend our Country, Support our Incredible Military/Veterans, and Champion PEACE THROUGH STRENGTH. In Congress, Greg is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Business, Unleash American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Greg Steube has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR GREG — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:21:14 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:12.523384Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:13.284850Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42973",
       "first_seen": "2026-10-31T06:51:12.523349Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
-      "next_retry_at": "2026-10-31T06:56:12.523390Z",
+      "next_retry_at": "2026-10-31T07:11:13.284866Z",
       "truth_social_id": "117532188644183689"
     },
     "truth:117532204781662350": {
@@ -38338,14 +38461,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42970",
       "source_text": "<p>Congressman Mike Haridopolos is an America First Patriot who is doing a fantastic job representing Florida’s 8th Congressional District!<br /> <br />A former Teacher, successful Businessman, and now, as U.S. Congressman, Mike has strongly served his Community with a career “loaded up” with accolades and wins. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Mike Haridopolos has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:25:20 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:13.081284Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:13.479168Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42970",
       "first_seen": "2026-10-31T06:51:13.081246Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Mike Haridopolos is an America First Patriot who is doing a fantastic job representing Florida’s 8th Congressional District!\n \nA former Te",
-      "next_retry_at": "2026-10-31T06:56:13.081291Z",
+      "next_retry_at": "2026-10-31T07:11:13.479183Z",
       "truth_social_id": "117532204781662350"
     },
     "truth:117532206582783076": {
@@ -38354,14 +38477,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42968",
       "source_text": "<p>Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida’s 6th Congressional District!<br /> <br />A Harvard Educated and Successful Businessman, Randy was a Highly Respected State Legislator, prior to becoming a distinguished U.S. Congressman. He loves the Great People of the Sunshine State, which I won THREE TIMES in 2016, 2020, and 2024! In Congress, Randy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Champion our Military/Veterans, Defend our always under siege Second Amendment, and, very importantly, Pass THE SAVE AMERICA ACT.<br /> <br />Randy’s opponent, Eric Yonce, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Eric Yonce is Reckless, Radical, and Dangerous!<br /> <br />Randy Fine has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RANDY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:25:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:13.558210Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:13.651240Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42968",
       "first_seen": "2026-10-31T06:51:13.558172Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida’s 6th Congressional District!\n \nA Harvard Educated and Succ",
-      "next_retry_at": "2026-10-31T06:56:13.558216Z",
+      "next_retry_at": "2026-10-31T07:11:13.651256Z",
       "truth_social_id": "117532206582783076"
     },
     "truth:117532220565005347": {
@@ -38370,14 +38493,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42966",
       "source_text": "<p>Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!<br /> <br />A Fourth Generation Floridian from the beautiful Panhandle, and owner of an iconic seafood restaurant, Jimmy served as the Chief Financial Officer for the Great State of Florida for seven years, prior to becoming a very distinguished Congressman. In the U.S. House of Representatives, Jimmy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jimmy Patronis has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR JIMMY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:29:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:14.079591Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:13.824279Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42966",
       "first_seen": "2026-10-31T06:51:14.079551Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
-      "next_retry_at": "2026-10-31T06:56:14.079598Z",
+      "next_retry_at": "2026-10-31T07:11:13.824295Z",
       "truth_social_id": "117532220565005347"
     },
     "truth:117532221823813086": {
@@ -38386,14 +38509,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42965",
       "source_text": "<p>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!<br /> <br />Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR “MAGA” MEG — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:29:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:14.533890Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:14.012289Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42965",
       "first_seen": "2026-10-31T06:51:14.533855Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
-      "next_retry_at": "2026-10-31T06:56:14.533897Z",
+      "next_retry_at": "2026-10-31T07:11:14.012305Z",
       "truth_social_id": "117532221823813086"
     },
     "truth:117532223566112053": {
@@ -38402,14 +38525,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42964",
       "source_text": "<p>Wilton Simpson is the strong and highly popular Agriculture Commissioner for Florida, my “Home” State, which I love and won SIX times, including with 6.1 Million Votes in 2024, the most in History (BY FAR)!<br /> <br />Wilton is a Fifth Generation Floridian, lifelong Egg Farmer, successful Businessman, former President of the State Senate, and now, as Agriculture Commissioner, has served the Sunshine State during a career “loaded up” with accolades and wins. A true America First Patriot, who has been with us from the very beginning, Wilton is an incredibly effective Voice for Florida Agriculture, and our amazing Farmers and Ranchers. He is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, and Protect our always under siege Second Amendment.<br /> <br />Wilton Simpson has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR WILTON — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:30:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:15.044773Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:14.178218Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42964",
       "first_seen": "2026-10-31T06:51:15.044735Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Wilton Simpson is the strong and highly popular Agriculture Commissioner for Florida, my “Home” State, which I love and won SIX times, including with ",
-      "next_retry_at": "2026-10-31T06:56:15.044780Z",
+      "next_retry_at": "2026-10-31T07:11:14.178234Z",
       "truth_social_id": "117532223566112053"
     },
     "truth:117532325543066835": {
@@ -38418,14 +38541,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42963",
       "source_text": "<p>Jon Bonck is an incredible Candidate running to represent the fantastic people of Texas’ 38th Congressional District. He is supported by many MAGA Patriots, including Senator Ted Cruz, Congressmen “Doc” Ronny Jackson, Brandon Gill, Jim Jordan, and Tim Burchett, among others.<br /> <br />A successful Business Executive, Jon knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age. In Congress, he will fight tirelessly to Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jon Bonck has my Complete and Total Endorsement to be the next Representative from Texas’ 38th Congressional District. GET OUT AND VOTE FOR JON BONCK — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:56:03 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:15.610495Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:14.365444Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42963",
       "first_seen": "2026-10-31T06:51:15.610461Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Jon Bonck is an incredible Candidate running to represent the fantastic people of Texas’ 38th Congressional District. He is supported by many MAGA Pat",
-      "next_retry_at": "2026-10-31T06:56:15.610501Z",
+      "next_retry_at": "2026-10-31T07:11:14.365461Z",
       "truth_social_id": "117532325543066835"
     },
     "truth:117532326191609947": {
@@ -38434,14 +38557,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/42962",
       "source_text": "<p>Congressman Brian Babin, D.D.S, is an incredible Representative of Texas’ 36th Congressional District!<br /> <br />As the Highly Respected Chairman of the House Science Committee, Brian is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Strongly Support Law Enforcement and our Military, Deliver Quality Care to our Brave Veterans, and Protect our always under siege Second Amendment.<br /> <br />Brian Babin has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BRIAN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T06:51:16.167184Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:01:14.552609Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42962",
       "first_seen": "2026-10-31T06:51:16.167151Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Brian Babin, D.D.S, is an incredible Representative of Texas’ 36th Congressional District!\n \nAs the Highly Respected Chairman of the House",
-      "next_retry_at": "2026-10-31T06:56:16.167190Z",
+      "next_retry_at": "2026-10-31T07:11:14.552628Z",
       "truth_social_id": "117532326191609947"
     },
     "truth:117533485982875278": {
