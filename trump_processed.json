@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40966",
-    "fp:The Census Bureau has begun checking the Voter Records from 2020 against their Citizenship Records. On the first 128,000,000 Voters, the Census Bureau",
-    "truth:117118475271319244",
     "https://www.trumpstruth.org/statuses/40968",
     "truth:117117993981850553",
     "https://www.trumpstruth.org/statuses/40967",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43005",
     "fp:Congressman Jim Jordan is an America First Patriot who is doing an incredible job representing Ohio's 4th Congressional District!\n \nAs Chairman of the",
     "truth:117536927650738881",
-    "https://www.trumpstruth.org/statuses/43004"
+    "https://www.trumpstruth.org/statuses/43004",
+    "fp:Congressman Dave Taylor is doing an incredible job representing the wonderful people of Ohio's 2nd Congressional District!\n \nA very successful Small B",
+    "truth:117536928276306293",
+    "https://www.trumpstruth.org/statuses/43003"
   ],
   "posts": {
-    "truth:117464705630282037": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42419",
-      "source_text": "<p>Governor Roy Cooper released this man, who then killed beautiful Iryna Zarutska. He then released 83 other murderers, so they wouldn’t catch COVID while in jail, who went on to kill 25 people! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18572/a680b07396a03bbb-50d32337faf2.jpg\">View image</a></p>",
-      "published": "Mon, 19 Oct 2026 00:19:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T01:20:34.508129Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42419",
-      "source_fingerprint": "fp:Governor Roy Cooper released this man, who then killed beautiful Iryna Zarutska. He then released 83 other murderers, so they wouldn’t catch COVID whi",
-      "media_identity": "attachment:117464705630282037:a680b07396a03bbb.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:Governor Roy Cooper released this man, who then killed beautiful Iryna Zarutska. He then released 83 other murderers, so they wouldn’t catch COVID whi",
-      "truth_social_id": "117464705630282037",
-      "translation": "ロイ・クーパー知事はこの男を釈放し、その後彼は美しいイリーナ・ザルツカを殺害した。彼はその後、刑務所でCOVIDに感染しないようにするため、他の殺人鬼83人を釈放し、彼らはその後25人を殺害した！大統領ドナルド・J・トランプ\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18572/a680b07396a03bbb-50d32337faf2.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3my6tvqp2mc2c",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3my6tvqp2mc2c",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ロイ・クーパー知事はこの男を釈放し、その後彼は美しいイリーナ・ザルツカを殺害した。彼はその後、刑務所でCOVIDに感染しないようにするため、他の殺人鬼83人を釈放し、彼らはその後25人を殺害した！大統領ドナルド・J・トランプ\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18572/a680b07396a03bbb-50d32337faf2.jpg",
-        "createdAt": "2026-10-19T01:10:39.116629Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 317,
-              "byteEnd": 417
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18572/a680b07396a03bbb-50d32337faf2.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreialvptrl7wdi32cbqicdogvg7ufd3uaxyflmy6h7s7oyibio5ouna"
-                },
-                "mimeType": "image/jpeg",
-                "size": 230649
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1260,
-                "height": 816
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3my6tvqp2mc2c",
-          "rkey": "3my6tvqp2mc2c"
-        }
-      ]
-    },
     "truth:117464867147953620": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17633,6 +17563,24 @@
       "source_fingerprint": "fp:Congressman Jim Jordan is an America First Patriot who is doing an incredible job representing Ohio's 4th Congressional District!\n \nAs Chairman of the",
       "media_identity": "attachment:117536927650738881:",
       "translation": "ジム・ジョーダン下院議員はアメリカ・ファースト愛国者であり、オハイオ州第4選挙区を素晴らしく代表する仕事をしている！\n\n下院司法委員会の委員長として、ジムは過激左翼のマルクス主義者、社会主義者、共産主義者から国を守るため絶え間なく戦っている。本物のMAGA戦士として、ジムは経済成長、減税・規制削減、アメリカ製品の推進、アメリカンエネルギーの支配的地位の強化、今や非常に安全になった国境の防衛、移民犯罪の阻止、常に脅威にさらされているアメリカ修正第2条の防衛に容赦なく焦点を当てている。\n\nジムの対立候補ジョシュ・コラシンスキーは、チップへの課税廃止、残業手当への課税廃止、社会保障への課税廃止に反対する急進左翼デモクラットであり、彼とデモクラットたちが権力を握ったら、これらすべては廃止される。彼は大幅な増税、国境開放、男性の女性スポーツ参加、子どもへのトランスジェンダー改造を望んでいる。ジョシュ・コラシンスキーは無謀で急進的で危険だ！\n\nジム・ジョーダンは非常に良い友人であり、戦士であり、勝者であり、再選に対する私の完全かつ全面的な支持を得ている。ジムに投票するために外に出よう――彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/ohio/"
+    },
+    "truth:117536928276306293": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43003",
+      "source_text": "<p>Congressman Dave Taylor is doing an incredible job representing the wonderful people of Ohio's 2nd Congressional District!<br /> <br />A very successful Small Businessman, Dave knows the America First Policies necessary to Create GREAT Jobs, Unleash Innovation, and Restore American Energy DOMINANCE. He is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Champion our Farmers and American Agriculture, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Dave's opponent, Jen Mazzuckelli, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Jen Mazzuckelli is Reckless, Radical, and Dangerous!<br /> <br />Dave Taylor has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR DAVE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 31 Oct 2026 18:26:35 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T21:35:42.099431Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43003",
+      "first_seen": "2026-10-31T19:06:24.856990Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Dave Taylor is doing an incredible job representing the wonderful people of Ohio's 2nd Congressional District!\n \nA very successful Small B",
+      "truth_social_id": "117536928276306293",
+      "source_fingerprint": "fp:Congressman Dave Taylor is doing an incredible job representing the wonderful people of Ohio's 2nd Congressional District!\n \nA very successful Small B",
+      "media_identity": "attachment:117536928276306293:",
+      "translation": "オハイオ州第2選挙区の素晴らしい人々を代表するために、下院議員デイブ・テイラーは素晴らしい仕事をしている!\n\n非常に成功した中小企業経営者であるデイブは、素晴らしい雇用を創出し、イノベーションを解き放ち、アメリカンエネルギーの支配を回復するために必要なアメリカ第一政策を理解している。彼は税金と規制を削減し、アメリカ製を推進し、国境をしっかり守り、農家とアメリカ農業を擁護し、勇敢な軍人・退役軍人を支援し、常に攻撃にさらされているわが修正第2条を守るために、たゆまず戦っている。\n\nデイブの対立候補であるジェン・マズッケリは、チップに対する税金なし、残業代に対する税金なし、社会保障に対する税金なしに反対する過激左派の民主党員であり、彼女と民主党員たちがもし権力に就いたなら、これらすべてのことは廃止される。彼女は大幅な増税、国境開放、女性スポーツへの男性の出場、子どもへのトランスジェンダー変身を望んでいる。ジェン・マズッケリは無責任で、過激で、危険だ!\n\nデイブ・テイラーは再選に向けて、私の完全かつ全面的な支持を得ている。投票に行き、デイブに投票しろ—彼は決してお前たちを失望させることはない!大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/ohio/"
     },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
@@ -37972,22 +37920,6 @@
       "published": "Sat, 31 Oct 2026 18:26:53 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T18:51:10.361642Z"
-    },
-    "truth:117536928276306293": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43003",
-      "source_text": "<p>Congressman Dave Taylor is doing an incredible job representing the wonderful people of Ohio's 2nd Congressional District!<br /> <br />A very successful Small Businessman, Dave knows the America First Policies necessary to Create GREAT Jobs, Unleash Innovation, and Restore American Energy DOMINANCE. He is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our Border SECURE, Champion our Farmers and American Agriculture, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Dave's opponent, Jen Mazzuckelli, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Jen Mazzuckelli is Reckless, Radical, and Dangerous!<br /> <br />Dave Taylor has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR DAVE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/ohio/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/ohio/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 31 Oct 2026 18:26:35 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T19:31:18.131230Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43003",
-      "first_seen": "2026-10-31T19:06:24.856990Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Dave Taylor is doing an incredible job representing the wonderful people of Ohio's 2nd Congressional District!\n \nA very successful Small B",
-      "next_retry_at": "2026-10-31T19:41:18.131240Z",
-      "truth_social_id": "117536928276306293"
     },
     "truth:117536928870631494": {
       "post_status": "RETRY",
