@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:I am pleased to nominate Brad Kelley to serve as Judge on the U.S. District Court for the Eastern District of Louisiana. Brad is a “Double-Tiger,” rec",
-    "truth:117118726898376521",
-    "https://www.trumpstruth.org/statuses/40975",
     "fp:I am pleased to nominate Peter Mansfield, who has the strong support of Senator John Kennedy and Senator Bill Cassidy, to serve as Judge on the U.S. D",
     "truth:117118742340410434",
     "https://www.trumpstruth.org/statuses/40976",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43020",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg",
     "truth:117537191170456651",
-    "https://www.trumpstruth.org/statuses/43019"
+    "https://www.trumpstruth.org/statuses/43019",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18795/0494350bdedff958-e54b4d25039f.jpg",
+    "truth:117537191689163472",
+    "https://www.trumpstruth.org/statuses/43018"
   ],
   "posts": {
-    "truth:117467262597886072": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42428",
-      "source_text": "<p>Big crowds today in Kansas. See you later! President DJT</p>",
-      "published": "Mon, 19 Oct 2026 11:09:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-19T13:25:38.155025Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42428",
-      "first_seen": "2026-10-19T13:05:33.641997Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Big crowds today in Kansas. See you later! President DJT",
-      "truth_social_id": "117467262597886072",
-      "source_fingerprint": "fp:Big crowds today in Kansas. See you later! President DJT",
-      "media_identity": "attachment:117467262597886072:",
-      "translation": "カンザス州で今日は大きな群衆だ。また後で！大統領より DJT"
-    },
     "truth:117467256855900007": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17473,6 +17455,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg",
       "truth_social_id": "117537191170456651",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg"
+    },
+    "truth:117537191689163472": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43018",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18795/0494350bdedff958-e54b4d25039f.jpg\">View image</a></p>",
+      "published": "Sat, 31 Oct 2026 19:33:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T22:20:34.913706Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43018",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18795/0494350bdedff958-e54b4d25039f.jpg",
+      "media_identity": "attachment:117537191689163472:0494350bdedff958.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18795/0494350bdedff958-e54b4d25039f.jpg",
+      "truth_social_id": "117537191689163472",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18795/0494350bdedff958-e54b4d25039f.jpg"
     },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
@@ -37880,25 +37878,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/43021",
       "source_text": "<p>Iowa will be very happy tomorrow when I go there for a really BIG RALLY to Elect Ashley Hinson and Zach Lahn,  and all of the other great Patriots, winners all - The Hawkeyes just won their game in a very convincing fashion. See you tomorrow!!! President DONALD J. TRUMP</p>",
       "published": "Sat, 31 Oct 2026 19:28:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T22:10:34.898825Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T22:20:32.774436Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43021",
       "first_seen": "2026-10-31T22:10:34.898789Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Iowa will be very happy tomorrow when I go there for a really BIG RALLY to Elect Ashley Hinson and Zach Lahn,  and all of the other great Patriots, wi",
-      "next_retry_at": "2026-10-31T22:15:34.898833Z",
+      "next_retry_at": "2026-10-31T22:30:32.774452Z",
       "truth_social_id": "117537171434841841"
-    },
-    "truth:117537191689163472": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43018",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18795/0494350bdedff958-e54b4d25039f.jpg\">View image</a></p>",
-      "published": "Sat, 31 Oct 2026 19:33:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T20:51:10.773746Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43018"
     },
     "truth:117537255606142938": {
       "post_status": "DISCOVERED",
