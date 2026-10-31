@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
-    "truth:117104914617209484",
-    "https://www.trumpstruth.org/statuses/40890",
     "fp:RT \nhttps://truthsocial.com/@AndrewHGiulianiThanks to the vision and leadership of President Donald J. Trump, America fell in love with the World Cup,",
     "truth:116947242320441506",
     "https://www.trumpstruth.org/statuses/40893",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42968",
     "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
     "truth:117532220565005347",
-    "https://www.trumpstruth.org/statuses/42966"
+    "https://www.trumpstruth.org/statuses/42966",
+    "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
+    "truth:117532221823813086",
+    "https://www.trumpstruth.org/statuses/42965"
   ],
   "posts": {
-    "truth:117443148049952515": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42363",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg\">View image</a></p>",
-      "published": "Thu, 15 Oct 2026 04:57:02 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T06:25:37.700686Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42363",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg",
-      "media_identity": "attachment:117443148049952515:27a4ed6e86bbf2cf.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg",
-      "truth_social_id": "117443148049952515",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxvbkimh4kwe",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxvbkimh4kwe",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg",
-        "createdAt": "2026-10-15T06:15:41.130655Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18528/27a4ed6e86bbf2cf-ea2277ad6e84.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreib4mw4xx2flhhpaec5r6zoedpuuj4k4k57yrwkos2gi5thkqaab3q"
-                },
-                "mimeType": "image/jpeg",
-                "size": 248117
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1241,
-                "height": 827
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxvbkimh4kwe",
-          "rkey": "3mxvbkimh4kwe"
-        }
-      ]
-    },
     "truth:117443188503232131": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17840,6 +17770,24 @@
       "media_identity": "attachment:117532220565005347:",
       "translation": "下院議員ジミー・パトロニスはMAGA戦士であり、フロリダ州第1下院地区を素晴らしく代表している！\n\n美しいパンハンドル地域出身の4代目フロリダ州民であり、象徴的なシーフードレストランのオーナーであるジミーは、著名な下院議員となる前に、フロリダ州の素晴らしい州のために7年間最高財務責任者を務めた。米国下院議会では、ジミーは我々の経済成長、減税と規制緩和、米国製品の推進、米国のエネルギー支配の解放、国境を確保、移民犯罪の阻止、素晴らしい軍隊・退役軍人の強化、そして常に脅威にさらされている修正第2条の防衛のために絶え間なく戦っている。\n\nジミー・パトロニスは再選について私の完全かつ全面的な支持を得ている！外に出てジミーに投票しろ――彼は決してお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
     },
+    "truth:117532221823813086": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42965",
+      "source_text": "<p>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!<br /> <br />Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR “MAGA” MEG — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:29:40 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T08:16:19.488799Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42965",
+      "first_seen": "2026-10-31T06:51:14.533855Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
+      "truth_social_id": "117532221823813086",
+      "source_fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
+      "media_identity": "attachment:117532221823813086:",
+      "translation": "州下院議員「MAGA」メグ・ワインバーガーは、フロリダ州第94地区を素晴らしく代表するアメリカ・ファースト愛国者だ！\n\nメグはMAGAそのもので、最初から俺たちと共にあり、アメリカ・ファースト・アジェンダの推進を助けてきた。州議会では、経済成長、減税と規制撤廃、米国エネルギー支配の推進、米国製品の奨励、国境の確保、移民犯罪の阻止、軍と退役軍人の強化、選挙の安全保障、絶えず脅威にさらされている修正第2条の防衛に向けて不屈の努力を続けている。\n\n「MAGA」メグ・ワインバーガーは再選に関して俺の完全かつ全面的な支持を得ている！投票に行って「MAGA」メグに投票しろ――彼女はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17883,7 +17831,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T08:11:13.092701Z",
+      "updated_at": "2026-10-31T08:16:13.772004Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -37996,13 +37944,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T08:11:15.705905Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T08:16:13.771443Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -38233,22 +38181,6 @@
       "published": "Fri, 30 Oct 2026 22:19:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T06:51:10.781555Z"
-    },
-    "truth:117532221823813086": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42965",
-      "source_text": "<p>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!<br /> <br />Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR “MAGA” MEG — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:29:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T07:01:14.012289Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42965",
-      "first_seen": "2026-10-31T06:51:14.533855Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
-      "next_retry_at": "2026-10-31T07:11:14.012305Z",
-      "truth_social_id": "117532221823813086"
     },
     "truth:117532223566112053": {
       "post_status": "RETRY",
