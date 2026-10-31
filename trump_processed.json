@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown: \nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homic",
-    "truth:117105414445736560",
-    "https://www.trumpstruth.org/statuses/40899",
     "fp:Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: \nhttps://www.breitbart.com/economy/2026/08/12/trump-effect-prescription-drug-pric",
     "truth:117105418279971874",
     "https://www.trumpstruth.org/statuses/40896",
@@ -5000,71 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42933",
     "fp:It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been ",
     "truth:117532344875423035",
-    "https://www.trumpstruth.org/statuses/42932"
+    "https://www.trumpstruth.org/statuses/42932",
+    "fp:TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Ma",
+    "truth:117532345934832213",
+    "https://www.trumpstruth.org/statuses/42931"
   ],
   "posts": {
-    "truth:117445467010481436": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42373",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4\">View video</a></p>",
-      "published": "Thu, 15 Oct 2026 14:46:47 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T17:11:09.821918Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42373",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4",
-      "media_identity": "attachment:117445467010481436:30ed058caf3a1941-e13492a80174.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4",
-      "truth_social_id": "117445467010481436",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcizwl7sfv",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3mxwcizwl7sfv",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4",
-        "createdAt": "2026-10-15T17:10:59.818666Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18541/30ed058caf3a1941-e13492a80174.mp4"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreidej7a6sxctonsw2s5d4i3xuylcd2lvy5zb7njmnrozcoa7ev3ylm"
-            },
-            "mimeType": "video/mp4",
-            "size": 30758210
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcizwl7sfv",
-          "rkey": "3mxwcizwl7sfv"
-        }
-      ]
-    },
     "truth:117445800565005016": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17656,6 +17594,24 @@
       "media_identity": "attachment:117532344875423035:",
       "translation": "テキサス州の高く尊敬される司法長官ケン・パクストンを支持することは、私の大きな栄誉である。彼はアメリカ・ファースト・パトリオットであり、私と我々の素晴らしいMAGA運動に常に極めて忠実であり、アメリカ合衆国上院議員選挙に立候補している。彼は私が愛し、3度も大勝利を収めた州、すなわち2024年に640万票（同州史上最高票数で、断然である）を獲得した州を代表するだろう。\n\nケンのことはよく知っており、彼が最高レベルで、最も困難な局面でテストされているのを見てきた。彼はウィナーである！ケンはテキサスのために常に結果を出してきた真のMAGAウォーリアであり、合衆国上院でもそうし続けるだろう。彼の対立者ジェームス・タラフリーコは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する左翼民主党ラディカルであり、彼と民主党員がもし権力を握れば、これらすべてのものは廃止されるだろう。彼は巨大な増税、開かれた国境、女性スポーツで競技する男性、そしてあなたの子どもへのトランスジェンダー医学的改変を望んでいる。ジェームス・タラフリーコは無謀で、ラディカルで、危険である。\n\n一方、次期上院議員として、ケンは我々の経済の素晴らしい成長を続けるために絶え間なく戦い、減税と規制緩和を行い、アメリカ製を推進し、アメリカンエネルギーの支配力を解放し、テキサス石油・ガスを守り、我々の素晴らしい農民と牧場主のために主張し、学校選択を促進し、我々の国境を厳重に守り、移民犯罪を阻止し、我々の信じられないほどの軍隊・退役軍人を支援し、我々の選挙を保護し、常に包囲されている修正第2条を守るだろう。\n\nケン・パクストンは、偉大なテキサス州の次期合衆国上院議員となるために、私の完全で全面的な支持を得ている。ケンのために投票に行け。彼はあなたを決してがっかりさせない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
+    "truth:117532345934832213": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42931",
+      "source_text": "<p>TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:</p><p>– Ken Paxton for U.S. Senate<br />– Greg Abbott for Governor<br />– Dan Patrick for Lieutenant Governor<br />– Mayes Middleton for Attorney General<br />– Don Huffines for Comptroller<br />– Dawn Buckingham for Land Commissioner<br />– Nathaniel Moran for U.S. Congress (TX-01)<br />– Steve Toth for U.S. Congress (TX-02)<br />– Keith Self for U.S. Congress (TX-03)<br />– Pat Fallon for U.S. Congress (TX-04)<br />– Lance Gooden for U.S. Congress (TX-05)<br />– Jake Ellzey for U.S. Congress (TX-06)<br />– Jessica Steinmann for U.S. Congress (TX-08)<br />– Alex Mealer for U.S. Congress (TX-09)<br />– Chris Gober for U.S. Congress (TX-10)<br />– August Pfluger for U.S. Congress (TX-11)<br />– Craig Goldman for U.S. Congress (TX-12)<br />– Ronny Jackson for U.S. Congress (TX-13)<br />– Randy Weber for U.S. Congress (TX-14)<br />– Monica De La Cruz for U.S. Congress (TX-15)<br />– Pete Sessions for U.S. Congress (TX-17)<br />– Tom Sell for U.S. Congress (TX-19)<br />– Mark Teixeira for U.S. Congress (TX-21)<br />– Trever Nehls for U.S. Congress (TX-22)<br />– Brandon Herrera for U.S. Congress (TX-23)<br />– Beth Van Duyne for U.S. Congress (TX-24)<br />– Roger Williams for U.S. Congress (TX-25)<br />– Brandon Gill for U.S. Congress (TX-26)<br />– Michael Cloud for U.S. Congress (TX-27)<br />– Tano Tijerina for U.S. Congress (TX-28)<br />– John Carter for U.S. Congress (TX-31)<br />– Jace Yarbrough for U.S. Congress (TX-32)<br />– Eric Flores for U.S. Congress (TX-34)<br />– Carlos De La Cruz for U.S. Congress (TX-35)<br />– Brian Babin for U.S. Congress (TX-36)<br />– Jon Bonck for U.S. Congress (TX-38)<br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 23:01:14 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T09:51:23.217346Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42931",
+      "first_seen": "2026-10-31T02:11:18.859081Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Ma",
+      "truth_social_id": "117532345934832213",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Ma",
+      "media_identity": "attachment:117532345934832213:",
+      "translation": "テキサスの偉大なる国民へ、投票に行って以下に投票してくれ：\n\n– ケン・パクストン（上院議員）\n– グレッグ・アボット（知事）\n– ダン・パトリック（副知事）\n– メイエス・ミドルトン（司法長官）\n– ドン・ハフィンズ（会計検査官）\n– ドーン・バッキンガム（土地委員）\n– ナサニエル・モーラン（下院議員TX-01区）\n– スティーブ・トス（下院議員TX-02区）\n– キース・セルフ（下院議員TX-03区）\n– パット・ファロン（下院議員TX-04区）\n– ランス・グーデン（下院議員TX-05区）\n– ジェイク・エルジー（下院議員TX-06区）\n– ジェシカ・シュタインマン（下院議員TX-08区）\n– アレックス・ミーラー（下院議員TX-09区）\n– クリス・ゴバー（下院議員TX-10区）\n– オーガスト・プフルーガー（下院議員TX-11区）\n– クレイグ・ゴールドマン（下院議員TX-12区）\n– ロニー・ジャクソン（下院議員TX-13区）\n– ランディ・ウェーバー（下院議員TX-14区）\n– モニカ・デラクルス（下院議員TX-15区）\n– ピート・セッションズ（下院議員TX-17区）\n– トム・セル（下院議員TX-19区）\n– マーク・テイシェイラ（下院議員TX-21区）\n– トレバー・ネールズ（下院議員TX-22区）\n– ブランドン・エレラ（下院議員TX-23区）\n– ベス・ヴァン・ダイン（下院議員TX-24区）\n– ロジャー・ウィリアムズ（下院議員TX-25区）\n– ブランドン・ギル（下院議員TX-26区）\n– マイケル・クラウド（下院議員TX-27区）\n– タノ・ティヘリーナ（下院議員TX-28区）\n– ジョン・カーター（下院議員TX-31区）\n– ジェイス・ヤーバラ（下院議員TX-32区）\n– エリック・フローレス（下院議員TX-34区）\n– カルロス・デラクルス（下院議員TX-35区）\n– ブライアン・バビン（下院議員TX-36区）\n– ジョン・ボンク（下院議員TX-38区）\n\nこれらの偉大なる愛国者は私の完全かつ完全なる支持を得ている。彼らは君たちを決して失望させることはない！\n\nドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17699,7 +17655,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T09:46:15.250968Z",
+      "updated_at": "2026-10-31T09:51:13.456432Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -37812,13 +37768,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T09:46:19.132898Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T09:51:13.456039Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -37845,22 +37801,6 @@
       "published": "Fri, 30 Oct 2026 23:00:32 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T00:51:15.647543Z"
-    },
-    "truth:117532345934832213": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42931",
-      "source_text": "<p>TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:</p><p>– Ken Paxton for U.S. Senate<br />– Greg Abbott for Governor<br />– Dan Patrick for Lieutenant Governor<br />– Mayes Middleton for Attorney General<br />– Don Huffines for Comptroller<br />– Dawn Buckingham for Land Commissioner<br />– Nathaniel Moran for U.S. Congress (TX-01)<br />– Steve Toth for U.S. Congress (TX-02)<br />– Keith Self for U.S. Congress (TX-03)<br />– Pat Fallon for U.S. Congress (TX-04)<br />– Lance Gooden for U.S. Congress (TX-05)<br />– Jake Ellzey for U.S. Congress (TX-06)<br />– Jessica Steinmann for U.S. Congress (TX-08)<br />– Alex Mealer for U.S. Congress (TX-09)<br />– Chris Gober for U.S. Congress (TX-10)<br />– August Pfluger for U.S. Congress (TX-11)<br />– Craig Goldman for U.S. Congress (TX-12)<br />– Ronny Jackson for U.S. Congress (TX-13)<br />– Randy Weber for U.S. Congress (TX-14)<br />– Monica De La Cruz for U.S. Congress (TX-15)<br />– Pete Sessions for U.S. Congress (TX-17)<br />– Tom Sell for U.S. Congress (TX-19)<br />– Mark Teixeira for U.S. Congress (TX-21)<br />– Trever Nehls for U.S. Congress (TX-22)<br />– Brandon Herrera for U.S. Congress (TX-23)<br />– Beth Van Duyne for U.S. Congress (TX-24)<br />– Roger Williams for U.S. Congress (TX-25)<br />– Brandon Gill for U.S. Congress (TX-26)<br />– Michael Cloud for U.S. Congress (TX-27)<br />– Tano Tijerina for U.S. Congress (TX-28)<br />– John Carter for U.S. Congress (TX-31)<br />– Jace Yarbrough for U.S. Congress (TX-32)<br />– Eric Flores for U.S. Congress (TX-34)<br />– Carlos De La Cruz for U.S. Congress (TX-35)<br />– Brian Babin for U.S. Congress (TX-36)<br />– Jon Bonck for U.S. Congress (TX-38)<br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 23:01:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T02:26:15.612644Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42931",
-      "first_seen": "2026-10-31T02:11:18.859081Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:\n– Ken Paxton for U.S. Senate\n– Greg Abbott for Governor\n– Dan Patrick for Lieutenant Governor\n– Ma",
-      "next_retry_at": "2026-10-31T02:36:15.612662Z",
-      "truth_social_id": "117532345934832213"
     },
     "https://www.trumpstruth.org/statuses/42920": {
       "post_status": "DISCOVERED",
