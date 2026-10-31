@@ -38194,13 +38194,13 @@
       "truth_social_id": "117536884257691019"
     },
     "truth:117536916209515375": {
-      "post_status": "RETRY",
+      "post_status": "DISCOVERED",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/43000",
       "source_text": "<p>OHIO, I will doing a TeleRally, LIVE, at 2:45pm ET, for U.S. Senator Jon Husted, Vivek Ramaswamy for Governor, Congressman Mike Carey (OH-15), Eric Conroy for Congress (OH-01), and Derek Merrin for Congress (OH-09) — All have my Complete and Total Endorsement, and will never let you down. They LOVE the Great People of Ohio, and so do I — Answer your phones, and ENJOY! President DONALD J. TRUMP</p>",
       "published": "Sat, 31 Oct 2026 18:23:31 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T19:31:15.441016Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T19:36:12.530491Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43007",
       "first_seen": "2026-10-31T19:06:21.807082Z",
       "no_media_confirmations": 2,
