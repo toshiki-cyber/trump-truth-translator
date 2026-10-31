@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:I am pleased to nominate Daniel Ballou to serve as Judge on the United States District Court for the Eastern District of Kentucky. Dan is a longtime C",
-    "truth:117118710370504523",
-    "https://www.trumpstruth.org/statuses/40974",
     "fp:I am pleased to nominate Brad Kelley to serve as Judge on the U.S. District Court for the Eastern District of Louisiana. Brad is a “Double-Tiger,” rec",
     "truth:117118726898376521",
     "https://www.trumpstruth.org/statuses/40975",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43022",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18797/8ffe142e1664f68d-070df798ac8f.jpg",
     "truth:117537190493759278",
-    "https://www.trumpstruth.org/statuses/43020"
+    "https://www.trumpstruth.org/statuses/43020",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg",
+    "truth:117537191170456651",
+    "https://www.trumpstruth.org/statuses/43019"
   ],
   "posts": {
-    "truth:117467191755462147": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42427",
-      "source_text": "<p>I’m going to the Great State of Kansas today to Rally support for Roger Marshall, one of the absolutely best Senators in the U.S. Senate. His opponent is a Fake, and would be a DISASTER for Kansas, a State I won all three times, getting the highest vote in the history of Kansas - Such an honor! See you all later!!! President DJT</p>",
-      "published": "Mon, 19 Oct 2026 10:51:40 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-19T12:00:35.323594Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42427",
-      "first_seen": "2026-10-19T11:05:39.998665Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:I’m going to the Great State of Kansas today to Rally support for Roger Marshall, one of the absolutely best Senators in the U.S. Senate. His opponent",
-      "truth_social_id": "117467191755462147",
-      "source_fingerprint": "fp:I’m going to the Great State of Kansas today to Rally support for Roger Marshall, one of the absolutely best Senators in the U.S. Senate. His opponent",
-      "media_identity": "attachment:117467191755462147:",
-      "translation": "今日、カンザス州に行く。米国上院の最高の議員の一人であるロジャー・マーシャルを支援するためにラリーを開催するためだ。彼の対立候補は偽物であり、カンザスにとって大惨事になるだろう。俺はカンザスで3度全て勝利し、カンザスの歴史上最高の得票数を獲得した――本当な栄誉だ！後でお前たちに会おう!!!大統領 DJT",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3my7xaclby26y",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3my7xaclby26y",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "今日、カンザス州に行く。米国上院の最高の議員の一人であるロジャー・マーシャルを支援するためにラリーを開催するためだ。彼の対立候補は偽物であり、カンザスにとって大惨事になるだろう。俺はカンザスで3度全て勝利し、カンザスの歴史上最高の得票数を獲得した――本当な栄誉だ！後でお前たちに会おう!!!大統領 DJT",
-        "createdAt": "2026-10-19T11:50:38.700890Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3my7xaclby26y",
-          "rkey": "3my7xaclby26y"
-        }
-      ]
-    },
     "truth:117467262597886072": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17493,6 +17457,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18797/8ffe142e1664f68d-070df798ac8f.jpg",
       "truth_social_id": "117537190493759278",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18797/8ffe142e1664f68d-070df798ac8f.jpg"
+    },
+    "truth:117537191170456651": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43019",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg\">View image</a></p>",
+      "published": "Sat, 31 Oct 2026 19:33:27 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T22:15:35.034054Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43019",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg",
+      "media_identity": "attachment:117537191170456651:ebec5f15776414cc.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg",
+      "truth_social_id": "117537191170456651",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg"
     },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
@@ -37884,14 +37864,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43023",
       "source_text": "<p>🚨 FLORIDA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
       "published": "Sat, 31 Oct 2026 19:22:51 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T22:05:41.825049Z",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T22:15:33.119993Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43023",
       "first_seen": "2026-10-31T22:05:41.825012Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:🚨 FLORIDA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, ",
-      "next_retry_at": "2026-10-31T22:10:41.825058Z",
+      "next_retry_at": "2026-10-31T22:25:33.120009Z",
       "truth_social_id": "117537149496244852"
     },
     "truth:117537171434841841": {
@@ -37909,16 +37889,6 @@
       "fingerprint": "fp:Iowa will be very happy tomorrow when I go there for a really BIG RALLY to Elect Ashley Hinson and Zach Lahn,  and all of the other great Patriots, wi",
       "next_retry_at": "2026-10-31T22:15:34.898833Z",
       "truth_social_id": "117537171434841841"
-    },
-    "truth:117537191170456651": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43019",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18796/ebec5f15776414cc-767265421a33.jpg\">View image</a></p>",
-      "published": "Sat, 31 Oct 2026 19:33:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T20:51:10.773824Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43019"
     },
     "truth:117537191689163472": {
       "post_status": "DISCOVERED",
