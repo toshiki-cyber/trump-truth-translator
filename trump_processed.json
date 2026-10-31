@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40839",
-    "truth:117097016918925552",
-    "https://www.trumpstruth.org/statuses/40859",
     "truth:117097017582854908",
     "https://www.trumpstruth.org/statuses/40858",
     "truth:117097017980375998",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42924",
     "fp:It is my Honor to endorse MAGA Warrior TREVER NEHLS, who is running to represent the incredible people of Texas’ 22nd Congressional District.\n \nTrever",
     "truth:117532332033373064",
-    "https://www.trumpstruth.org/statuses/42923"
+    "https://www.trumpstruth.org/statuses/42923",
+    "fp:Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4th Congressional District!\n \nAn Air Force Veteran, successful",
+    "truth:117532339941266297",
+    "https://www.trumpstruth.org/statuses/42941"
   ],
   "posts": {
-    "truth:117436046490491993": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42317",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18496/8b49e9811a72fcbe-19d5407fe875.jpg\">View image</a></p>",
-      "published": "Tue, 13 Oct 2026 22:51:01 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-13T23:35:45.355423Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42317",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18496/8b49e9811a72fcbe-19d5407fe875.jpg",
-      "media_identity": "attachment:117436046490491993:8b49e9811a72fcbe.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18496/8b49e9811a72fcbe-19d5407fe875.jpg",
-      "truth_social_id": "117436046490491993",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18496/8b49e9811a72fcbe-19d5407fe875.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs4n3d4p23z",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxs4n3d4p23z",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18496/8b49e9811a72fcbe-19d5407fe875.jpg",
-        "createdAt": "2026-10-13T23:25:47.160693Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18496/8b49e9811a72fcbe-19d5407fe875.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiedx22y6apdtwsivqcpkrqfpd5shkzs6qm5gg7q7j2ynvwkhp7fqq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 287088
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1256,
-                "height": 818
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxs4n3d4p23z",
-          "rkey": "3mxs4n3d4p23z"
-        }
-      ]
-    },
     "truth:117435868809210676": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -18055,6 +17985,24 @@
       "media_identity": "attachment:117532332033373064:",
       "translation": "テキサス州第22議会地区の素晴らしい人々を代表するために立候補しているMAGA戦士トレバー・ネールスを支持することは、私の光栄である。\n\nトレバーの兄はテキサスの偉大なる下院議員トロイ・ネールスである。彼と彼の家族は、アメリカを再び偉大にするという我々の運動の強力な擁護者である。フォートベンド郡コンスタブルの元職と退役米陸軍大佐として、トレバーは我々の素晴らしき法執行機関、軍、退役軍人を強く支持し、法と秩序を確保するために必要な知恵と勇気を知っている。議会において、トレバーは現在極めて安全になった我々の国境を安全に保ち、移民犯罪を阻止し、経済を成長させ、税制と規制を削減し、米国製を推進し、米国のエネルギー支配を進め、選挙の完全性を擁護し、常に包囲下にある我々の修正第2条を守るために懸命に働くだろう。\n\nトレバー・ネールスは私の完全かつ総体的な支持を得ている。投票に行ってトレバーに投票しよう――彼は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
+    "truth:117532339941266297": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42941",
+      "source_text": "<p>Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4th Congressional District!<br /> <br />An Air Force Veteran, successful Businessman, former National Championship Winning Notre Dame football player under the LEGENDARY Coach Lou Holtz, and now, as Congressman, Pat has a Proven Record of Success — He is a WARRIOR! In Congress, Pat is fighting hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Strengthen our Military/Veterans, Ensure LAW AND ORDER, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Pat Fallon has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR PAT — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:59:43 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T03:26:27.884521Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42941",
+      "first_seen": "2026-10-31T02:11:15.546182Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4th Congressional District!\n \nAn Air Force Veteran, successful",
+      "truth_social_id": "117532339941266297",
+      "source_fingerprint": "fp:Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4th Congressional District!\n \nAn Air Force Veteran, successful",
+      "media_identity": "attachment:117532339941266297:",
+      "translation": "テキサス州第4下院選挙区の素晴らしい国民のための素晴らしい代議士、パット・ファロン下院議員！\n\n空軍退役軍人であり、成功した実業家であり、伝説的なルー・ホルツコーチの下でノートルダム大学のナショナルチャンピオンフットボール選手として活躍し、そして現在下院議員として、パットは実績のある成功の記録を持っている――彼は戦士だ！議会では、パットは経済成長のため、税制と規制削減のため、メイド・イン・ザ・USA推進のため、アメリカンエネルギーの優位性を掲げるため、現在非常に安全な国境を安全に保つため、国防力と退役軍人を強化するため、法と秩序を確保するため、選挙の完全性を推し進めるため、常に攻撃にさらされている合衆国憲法修正第2条を守るため、必死に戦っている。\n\nパット・ファロンは再選に向けて私の完全かつ全面的な支持を得ている。投票に行ってパットに投票しろ――彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18098,7 +18046,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T03:21:21.204555Z",
+      "updated_at": "2026-10-31T03:26:15.818871Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -38211,13 +38159,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T03:21:27.151354Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T03:26:15.818326Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -38244,22 +38192,6 @@
       "published": "Fri, 30 Oct 2026 23:00:32 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T00:51:15.647543Z"
-    },
-    "truth:117532339941266297": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42941",
-      "source_text": "<p>Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4th Congressional District!<br /> <br />An Air Force Veteran, successful Businessman, former National Championship Winning Notre Dame football player under the LEGENDARY Coach Lou Holtz, and now, as Congressman, Pat has a Proven Record of Success — He is a WARRIOR! In Congress, Pat is fighting hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Strengthen our Military/Veterans, Ensure LAW AND ORDER, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Pat Fallon has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR PAT — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:59:43 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T02:26:13.556957Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42941",
-      "first_seen": "2026-10-31T02:11:15.546182Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Pat Fallon is a fantastic Representative for the wonderful People of Texas’ 4th Congressional District!\n \nAn Air Force Veteran, successful",
-      "next_retry_at": "2026-10-31T02:36:13.556976Z",
-      "truth_social_id": "117532339941266297"
     },
     "truth:117532340445309512": {
       "post_status": "RETRY",
@@ -38424,104 +38356,164 @@
       "updated_at": "2026-10-31T02:51:13.960117Z"
     },
     "truth:117532333895500203": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42952",
       "source_text": "<p>Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!<br /> <br />As former Chairman of the House Rules Committee and the National Republican Congressional Committee, Pete has served in Congress during a career “loaded up” with accolades and WINS, always fighting tirelessly for our America First Agenda. He is working hard to Support our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Pete Sessions has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR PETE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:58:10 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.961179Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42952"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:16.672065Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42952",
+      "first_seen": "2026-10-31T03:26:16.672026Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!\n \nAs former Chairman of the House Rules Committee and the N",
+      "next_retry_at": "2026-10-31T03:31:16.672074Z",
+      "truth_social_id": "117532333895500203"
     },
     "truth:117532334509827147": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42951",
       "source_text": "<p>Congresswoman Monica De La Cruz is doing an incredible job representing the wonderful people of Texas’ 15th Congressional District!<br /> <br />A very successful Small Businesswoman, Monica knows the AMERICA FIRST Policies necessary to Create GREAT Jobs, Unleash Innovation, and Restore American Energy DOMINANCE. Her opponent, Bobby Pulido, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Bobby Pulido is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, in Congress, Monica is fighting tirelessly to Grow our Economy Cut Taxes and Regulations, Keep our Border SECURE, Champion our Farmers and American Agriculture, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Monica De La Cruz has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MONICA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:58:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.961030Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42951"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:17.177905Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42951",
+      "first_seen": "2026-10-31T03:26:17.177866Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congresswoman Monica De La Cruz is doing an incredible job representing the wonderful people of Texas’ 15th Congressional District!\n \nA very successfu",
+      "next_retry_at": "2026-10-31T03:31:17.177916Z",
+      "truth_social_id": "117532334509827147"
     },
     "truth:117532335053304201": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42950",
       "source_text": "<p>Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas’ 14th Congressional District!<br /> <br />A successful Businessman, Randy knows the America First Policies necessary to Create GREAT Jobs, Unleash Innovation, and Ensure American Energy DOMINANCE. He is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Champion our Farmers and American Agriculture, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Randy Weber has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RANDY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:58:28 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.960883Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42950"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:17.774864Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42950",
+      "first_seen": "2026-10-31T03:26:17.774824Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas’ 14th Congressional District!\n \nA successful Businessman, ",
+      "next_retry_at": "2026-10-31T03:31:17.774873Z",
+      "truth_social_id": "117532335053304201"
     },
     "truth:117532335589938007": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42949",
       "source_text": "<p>Congressman “Doc” Ronny Jackson is doing a wonderful job representing Texas’ 13th Congressional District! He is a good friend, 100% MAGA, and one of the most talented Medical Doctors and Politicians in our Country.<br /> <br />A respected Admiral, Congressman, and Doctor, “Doc” Ronny Jackson knows the Wisdom and Courage that is necessary to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. During my First Term, “Doc” Ronny served as one of my Senior Advisors and, as my personal Physician, prior to becoming a distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Ronny Jackson is a fighter and WINNER, and has my Complete and Total Endorsement for Re-Election. HE IS ONE OF MY ALL TIME FAVORITES! GET OUT AND VOTE FOR RONNY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:58:36 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.960722Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42949"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:18.406651Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42949",
+      "first_seen": "2026-10-31T03:26:18.406615Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman “Doc” Ronny Jackson is doing a wonderful job representing Texas’ 13th Congressional District! He is a good friend, 100% MAGA, and one of t",
+      "next_retry_at": "2026-10-31T03:31:18.406660Z",
+      "truth_social_id": "117532335589938007"
     },
     "truth:117532336220391714": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42948",
       "source_text": "<p>Congressman Craig Goldman is an incredible Representative of Texas’ 12th Congressional District!<br /> <br />A Fifth Generation Texan, Craig served as a State Representative for 12 years prior to becoming a distinguished and Highly Respected Congressman. In Congress, he is fighting tirelessly to Champion our Great Farmers and American Agriculture, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Craig Goldman has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR CRAIG — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:58:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.960571Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42948"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:18.942836Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42948",
+      "first_seen": "2026-10-31T03:26:18.942802Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman Craig Goldman is an incredible Representative of Texas’ 12th Congressional District!\n \nA Fifth Generation Texan, Craig served as a State R",
+      "next_retry_at": "2026-10-31T03:31:18.942845Z",
+      "truth_social_id": "117532336220391714"
     },
     "truth:117532336752703536": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42947",
       "source_text": "<p>Congressman August Pfluger is a Tremendous Champion for Texas’ 11th Congressional District!<br /> <br />As the Chairman of the Republican Study Committee, August is doing an incredible job advancing our America First Agenda. He is working hard to Grow our Economy, Cut Taxes and Regulations, Champion our Great Farmers and American Agriculture, Promote MADE IN THE U.S.A., Ensure American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />August Pfluger has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR AUGUST — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:58:54 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.960419Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42947"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:19.557573Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42947",
+      "first_seen": "2026-10-31T03:26:19.557539Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman August Pfluger is a Tremendous Champion for Texas’ 11th Congressional District!\n \nAs the Chairman of the Republican Study Committee, Augus",
+      "next_retry_at": "2026-10-31T03:31:19.557582Z",
+      "truth_social_id": "117532336752703536"
     },
     "truth:117532337299603622": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42946",
       "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas’ 10th Congressional District.<br /> <br />A Harvard Law School Graduate, and very successful Lawyer, Chris knows the Wisdom and Courage required to uphold our Constitution, and promote LAW AND ORDER. In Congress, Chris will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Strongly Support our incredible Law Enforcement, Military, and Veterans, and Protect our always under siege Second Amendment.<br /> <br />Chris Gober has my Complete and Total Endorsement. GET OUT AND VOTE FOR CHRIS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:59:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.960265Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42946"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:20.079846Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42946",
+      "first_seen": "2026-10-31T03:26:20.079807Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas’ 10th Congressional District.\n \nA",
+      "next_retry_at": "2026-10-31T03:31:20.079856Z",
+      "truth_social_id": "117532337299603622"
     },
     "truth:117532338413251022": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42944",
       "source_text": "<p>It is my Great Honor to endorse Jessica Steinmann, who is running to represent the amazing people of Texas’ 8th Congressional District. Jessica is strongly supported by many of the greatest America First Patriots in Texas, including Governor Greg Abbott, Lieutenant Governor Dan Patrick, Senator Ted Cruz, and Congressman Morgan Luttrell, among others!<br /> <br />As a former appointee in my First Term, and now, as a Highly Respected Attorney, Jessica continues to prove that she has the Wisdom and Courage necessary to uphold our Constitution, and ensure LAW AND ORDER. In Congress, Jessica will fight tirelessly to Strengthen our Military, Care for our Brave Veterans, Stand with our Law Enforcement, Keep our Border SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Jessica Steinmann has my Complete and Total Endorsement to be the next Representative from Texas’ 8th Congressional District. GET OUT AND VOTE FOR JESSICA STEINMANN — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:59:19 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.959965Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42944"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:20.741769Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42944",
+      "first_seen": "2026-10-31T03:26:20.741729Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse Jessica Steinmann, who is running to represent the amazing people of Texas’ 8th Congressional District. Jessica is str",
+      "next_retry_at": "2026-10-31T03:31:20.741778Z",
+      "truth_social_id": "117532338413251022"
     },
     "truth:117532338919815953": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42943",
       "source_text": "<p>Congressman Jake Ellzey is an America First Patriot who is doing an incredible job representing Texas’ 6th Congressional District!<br /> <br />A former Navy fighter pilot and Combat Veteran, Jake knows the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, he is working hard to Keep our now very Secure Border, SECURE, Stop Migrant Crime, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Grow our Economy, and Protect our always under siege Second Amendment.<br /> <br />Jake Ellzey has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR JAKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:59:27 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.959803Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42943"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:21.362200Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42943",
+      "first_seen": "2026-10-31T03:26:21.362159Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman Jake Ellzey is an America First Patriot who is doing an incredible job representing Texas’ 6th Congressional District!\n \nA former Navy fig",
+      "next_retry_at": "2026-10-31T03:31:21.362210Z",
+      "truth_social_id": "117532338919815953"
     },
     "truth:117532339428251827": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42942",
       "source_text": "<p>Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas’ 5th Congressional District!<br /> <br />A MAGA Warrior, who has been with us from the very beginning, Lance is working hard to Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Support our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Lance Gooden has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR LANCE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
       "published": "Fri, 30 Oct 2026 22:59:35 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:51:13.959652Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42942"
+      "retry_count": 1,
+      "updated_at": "2026-10-31T03:26:21.884327Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42942",
+      "first_seen": "2026-10-31T03:26:21.884290Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas’ 5th Congressional District!\n \nA MAGA Warrior, w",
+      "next_retry_at": "2026-10-31T03:31:21.884337Z",
+      "truth_social_id": "117532339428251827"
     }
   }
 }
