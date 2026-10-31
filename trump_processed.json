@@ -18038,7 +18038,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T01:06:12.370655Z",
+      "updated_at": "2026-10-31T01:11:14.627966Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -38151,13 +38151,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T01:06:12.370258Z",
+      "retry_count": 1,
+      "updated_at": "2026-10-31T01:11:22.172981Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -38165,7 +38165,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "truth_social_id": "117531976551681094",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-10-31T01:06:29.738085Z"
+      "next_retry_at": "2026-10-31T01:16:22.173000Z"
     },
     "truth:117532226145345350": {
       "post_status": "RETRY",
@@ -38222,7 +38222,7 @@
       "source_text": "<p>Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next Governor of Iowa, Roger Marshall Re-Elected to the U.S. Senate, and Ty Masterson elected to be the next Governor of Kansas! President DONALD J. TRUMP</p>",
       "published": "Fri, 30 Oct 2026 22:38:58 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T01:06:12.368868Z",
+      "updated_at": "2026-10-31T01:11:14.625786Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42927",
       "first_seen": "2026-10-30T23:06:19.904062Z",
       "no_media_confirmations": 2,
