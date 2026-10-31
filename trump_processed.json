@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117101396479718815",
-    "https://www.trumpstruth.org/statuses/40881",
-    "fp:State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District!\n \nA Successful Entre",
     "truth:117101660036144509",
     "https://www.trumpstruth.org/statuses/40886",
     "truth:117101020530216761",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42976",
     "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
     "truth:117532187647678901",
-    "https://www.trumpstruth.org/statuses/42974"
+    "https://www.trumpstruth.org/statuses/42974",
+    "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
+    "truth:117532188644183689",
+    "https://www.trumpstruth.org/statuses/42973"
   ],
   "posts": {
-    "truth:117441698269818123": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42359",
-      "source_text": "<p>I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Wed, 14 Oct 2026 22:48:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T00:25:40.959100Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42359",
-      "first_seen": "2026-10-14T23:55:43.300646Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you ",
-      "truth_social_id": "117441698269818123",
-      "source_fingerprint": "fp:I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you ",
-      "media_identity": "attachment:117441698269818123:",
-      "translation": "モンタナ州へ向かっている。「大満員」のスピーチになる。ライト・サイド・ブロードキャスティング・ネットワーク（RSBN）でライブ放送される。彼らは素晴らしい仕事をしている。すぐに会おう！大統領ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxumx7jww2ru",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxumx7jww2ru",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "モンタナ州へ向かっている。「大満員」のスピーチになる。ライト・サイド・ブロードキャスティング・ネットワーク（RSBN）でライブ放送される。彼らは素晴らしい仕事をしている。すぐに会おう！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-10-15T00:15:43.025109Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxumx7jww2ru",
-          "rkey": "3mxumx7jww2ru"
-        }
-      ]
-    },
     "truth:117442172893771046": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17852,6 +17816,24 @@
       "media_identity": "attachment:117532187647678901:",
       "translation": "スコット・フランクリンはフロリダ州第18下院地区の素晴らしい下院議員である！\n\n米国海軍士官学校の卒業生で退役海軍司令官のスコットは、わが国を防衛し、我々の素晴らしい軍人・退役軍人を支援し、「強さを通じた平和」を確保するために必要な英知と勇気を持っている。下院でスコットは、国境を厳重に守り、移民犯罪を阻止し、法と秩序を確保し、経済を成長させ、税金と規制を削減し、米国製品を推進し、米国のエネルギー支配力を解き放ち、常に脅威にさらされている憲法修正第2条を保護するために懸命に働いている。\n\nスコット・フランクリンは再選に向けて私の完全かつ絶対的な支持を得ている！投票に行ってスコットに投票しよう――彼は絶対に君たちを裏切らない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/florida/"
     },
+    "truth:117532188644183689": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42973",
+      "source_text": "<p>Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!<br /> <br />A Former Captain of the U.S. Army JAG Corps, Greg knows the Wisdom and Courage that is required to Defend our Country, Support our Incredible Military/Veterans, and Champion PEACE THROUGH STRENGTH. In Congress, Greg is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Business, Unleash American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Greg Steube has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR GREG — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:21:14 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T07:31:22.457817Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42973",
+      "first_seen": "2026-10-31T06:51:12.523349Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
+      "truth_social_id": "117532188644183689",
+      "source_fingerprint": "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
+      "media_identity": "attachment:117532188644183689:",
+      "translation": "グレッグ・ステューブは、フロリダ州第17議会地区の偉大な国民のための素晴らしい下院議員だ！\n\n米陸軍法務官団の元キャプテンであるグレッグは、わが国を守り、信じられないほど素晴らしいわが軍と退役軍人を支援し、「力による平和」を主唱するために必要な知恵と勇気を知っている。議会では、グレッグは国境をしっかり守り、移民犯罪を阻止し、法と秩序を確保し、経済を成長させ、税金と規制を削減し、「米国製」を推進し、小企業を応援し、米国のエネルギー支配を解き放ち、常に攻撃にさらされている修正第2条を守るために懸命に取り組んでいる。\n\nグレッグ・ステューブは再選に向けて私の完全かつ絶対的な支持を得ている！グレッグに投票するために投票所に行け――彼は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/florida/"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17895,7 +17877,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T07:26:14.258331Z",
+      "updated_at": "2026-10-31T07:31:16.111669Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -38008,13 +37990,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T07:26:17.958513Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T07:31:16.110827Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -38245,22 +38227,6 @@
       "published": "Fri, 30 Oct 2026 22:19:56 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T06:51:10.781555Z"
-    },
-    "truth:117532188644183689": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42973",
-      "source_text": "<p>Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!<br /> <br />A Former Captain of the U.S. Army JAG Corps, Greg knows the Wisdom and Courage that is required to Defend our Country, Support our Incredible Military/Veterans, and Champion PEACE THROUGH STRENGTH. In Congress, Greg is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Business, Unleash American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Greg Steube has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR GREG — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:21:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T07:01:13.284850Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42973",
-      "first_seen": "2026-10-31T06:51:12.523349Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Greg Steube is a tremendous Representative for the Great People of Florida’s 17th Congressional District!\n \nA Former Captain of the U.S. Army JAG Corp",
-      "next_retry_at": "2026-10-31T07:11:13.284866Z",
-      "truth_social_id": "117532188644183689"
     },
     "truth:117532204781662350": {
       "post_status": "RETRY",
