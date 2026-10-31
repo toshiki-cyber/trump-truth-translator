@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Watching FoxNews with Shannon Bream is always like watching the Worst of Fake News CNN. I don’t know Shannon, but she always seems to pick guests, cha",
-    "truth:117107001767972921",
-    "https://www.trumpstruth.org/statuses/40904",
     "fp:Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to part",
     "truth:117107215379637520",
     "https://www.trumpstruth.org/statuses/40905",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42982",
     "fp:Reuters (One of the Worst!) Reporter.\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18790/c9bdeab23ed745a8-e8d399928ecd.jpg",
     "truth:117536010491218293",
-    "https://www.trumpstruth.org/statuses/42984"
+    "https://www.trumpstruth.org/statuses/42984",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18789/6fa0bace21f185a5-870e2bcca0af.png",
+    "truth:117536012398299933",
+    "https://www.trumpstruth.org/statuses/42983"
   ],
   "posts": {
-    "truth:117447474430342324": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42379",
-      "source_text": "<p>Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political Candidate (for any Office!), on Thursday, October 22nd, and Sunday, November 1st. The reason I’ll be there is to get truly fantastic Warriors elected, including Ashley Hinson for U.S. Senate, Zach Lahn for Governor, Mariannette Miller-Meeks for Iowa’s 1st Congressional District, Joe Mitchell for the 2nd District, Zach Nunn for the 3rd District, and Chris McGowan for the 4th District — They are all spectacular people, and have my Complete and Total Endorsement. I will see you on October 22nd, and again on November 1st, where we will have two spectacular Rallies honoring all of the above — and more. THANK YOU IOWA FOR YOUR GREAT SUPPORT — I WILL NEVER LET YOU DOWN, AND NEITHER WILL ANY OF OUR GREAT REPUBLICAN CANDIDATES! President DONALD J. TRUMP</p>",
-      "published": "Thu, 15 Oct 2026 23:17:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-15T23:50:39.033286Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42379",
-      "first_seen": "2026-10-15T23:25:32.337814Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political",
-      "truth_social_id": "117447474430342324",
-      "source_fingerprint": "fp:Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political",
-      "media_identity": "attachment:117447474430342324:",
-      "translation": "アイオワ州の皆さんへ！私は皆さんの素晴らしい州へ向かう。私は3度すべてこの州で圧倒的な大差で勝利を収めており、政治候補者（どのような職でも！）が獲得した最高の投票数を得ている。10月22日（木）と11月1日（日）に皆さんのところへ行く。私がそこに行く理由は、本当に素晴らしい戦士たちを当選させるためだ。アシュレイ・ヒンソンの上院議員選挙、ザック・ラーンの知事選挙、マリアネット・ミラー・メークスのアイオワ州第1下院議員区、ジョー・ミッチェルの第2区、ザック・ナンの第3区、クリス・マクガワンの第4区を含む。彼らはすべて素晴らしい人物であり、私の完全かつ絶対的な支持を得ている。10月22日と11月1日にお目にかかる。そこでは上記のすべてなどを讃える2つの素晴らしい集会を開催する。アイオワ州よ、皆さんの素晴らしい支持をありがとう。私は皆さんを決して失望させない。我々の素晴らしい共和党候補者たちのだれもが皆さんを失望させることはない！ドナルド・J・トランプ大統領"
-    },
     "truth:117448794145800937": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17664,6 +17646,22 @@
       "truth_social_id": "117536010491218293",
       "translation": "ロイター通信（最悪の一つだ！）の記者。\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18790/c9bdeab23ed745a8-e8d399928ecd.jpg"
     },
+    "truth:117536012398299933": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/42983",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18789/6fa0bace21f185a5-870e2bcca0af.png\">View image</a></p>",
+      "published": "Sat, 31 Oct 2026 14:33:40 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T15:11:15.974389Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42983",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18789/6fa0bace21f185a5-870e2bcca0af.png",
+      "media_identity": "attachment:117536012398299933:6fa0bace21f185a5.png",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18789/6fa0bace21f185a5-870e2bcca0af.png",
+      "truth_social_id": "117536012398299933",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18789/6fa0bace21f185a5-870e2bcca0af.png"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17707,7 +17705,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T15:06:11.598460Z",
+      "updated_at": "2026-10-31T15:11:13.325910Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -37820,13 +37818,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T15:06:15.487856Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T15:11:13.325351Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -37994,16 +37992,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18786/d8df80c433d433fe-03b2634b5b20.mp4",
       "truth_social_id": "117533667818828835",
       "next_retry_at": "2026-10-31T10:46:17.040864Z"
-    },
-    "truth:117536012398299933": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42983",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18789/6fa0bace21f185a5-870e2bcca0af.png\">View image</a></p>",
-      "published": "Sat, 31 Oct 2026 14:33:40 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T14:51:12.354144Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42983"
     }
   }
 }
