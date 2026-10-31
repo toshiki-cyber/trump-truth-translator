@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/40827",
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810Thank you Russell — You have a big future ahead of you!",
-    "truth:117095859868018432",
     "https://www.trumpstruth.org/statuses/40826",
     "fp:Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Sena",
     "truth:117096016166324267",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42904",
     "fp:Congresswoman María Elvira Salazar is doing a great job representing the wonderful people of Florida’s 27th Congressional District!\n \nIn Congress, Mar",
     "truth:117532180917618953",
-    "https://www.trumpstruth.org/statuses/42906"
+    "https://www.trumpstruth.org/statuses/42906",
+    "fp:Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!\n \nA Proven Leader, Mario served his Commu",
+    "truth:117532182376514600",
+    "https://www.trumpstruth.org/statuses/42905"
   ],
   "posts": {
-    "truth:117428473356154223": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42295",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18485/fa40ac32d7a94fa1-244d908f7637.jpg\">View image</a></p>",
-      "published": "Mon, 12 Oct 2026 14:45:04 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-12T16:11:30.021110Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42295",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18485/fa40ac32d7a94fa1-244d908f7637.jpg",
-      "media_identity": "attachment:117428473356154223:fa40ac32d7a94fa1.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18485/fa40ac32d7a94fa1-244d908f7637.jpg",
-      "truth_social_id": "117428473356154223",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18485/fa40ac32d7a94fa1-244d908f7637.jpg"
-    },
     "truth:117428474040306695": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -18142,6 +18126,24 @@
       "source_fingerprint": "fp:Congresswoman María Elvira Salazar is doing a great job representing the wonderful people of Florida’s 27th Congressional District!\n \nIn Congress, Mar",
       "media_identity": "attachment:117532180917618953:",
       "translation": "マリア・エルビラ・サラザル下院議員はフロリダ州第27地区の素晴らしい国民を代表して素晴らしい仕事をしている！\n\n下院においてマリアは、経済成長、減税と規制撤廃、米国製品の推進、米国のエネルギー支配の解放、国境の厳格な警備、移民犯罪の阻止、勇敢な軍人・退役軍人への支援、常に脅威にさらされているわが国の銃規正第2修正条項の擁護のために懸命に取り組んでいる。\n\nマリアの対立候補であるエリオット・ロドリゲスは、チップ非課税、残業代非課税、社会保障非課税に反対する急進左翼民主党員だ。彼と民主党員どもがもし権力を握ることがあれば、これらはすべて廃止されるだろう。彼は大幅な増税、国境開放、男性による女性スポーツ参加、子どもへのトランスジェンダー身体改造を求めている。エリオット・ロドリゲスは無責任で急進的で危険だ！\n\nマリア・エルビラ・サラザルは、再選について私の完全かつ全面的な支持を得ている。マリアに投票するために投票所に行こう！ドナルド・J・トランプ大統領より\nhttps://swampthevoteusa.com/florida/"
+    },
+    "truth:117532182376514600": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42905",
+      "source_text": "<p>Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!<br /> <br />A Proven Leader, Mario served his Community as a Highly Respected State Legislator and Civic Leader, prior to becoming a very distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure PEACE THROUGH STRENGTH, Champion our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Mario Diaz-Balart has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR MARIO — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:19:38 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T00:06:20.819456Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42905",
+      "first_seen": "2026-10-30T23:06:13.857224Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!\n \nA Proven Leader, Mario served his Commu",
+      "truth_social_id": "117532182376514600",
+      "source_fingerprint": "fp:Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!\n \nA Proven Leader, Mario served his Commu",
+      "media_identity": "attachment:117532182376514600:",
+      "translation": "マリオ・ディアス＝バラートは、フロリダ州第26選挙区を代表する素晴らしい仕事をしている！\n\nマリオは、非常に尊敬されている州議員および市民指導者としてコミュニティに奉仕し、その後、非常に著名な下院議員となった実績のあるリーダーだ。下院では、経済成長、税金と規制の削減、米国製品の推進、米国のエネルギー支配力の解放、国境の安全保障の維持、移民犯罪の阻止、力による平和の確保、軍人と退役軍人の擁護、そして常に攻撃を受けている憲法修正第2条の防衛に息つく暇もなく取り組んでいる。\n\nマリオ・ディアス＝バラートは、再選に向けて私の完全かつ全面的な支持を得ている！マリオに投票するために投票所に行け——彼は決してお前たちを失望させることはない！大統領 ドナルド・J・トランプ\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117531906499204194": {
       "post_status": "DISCOVERED",
@@ -38279,22 +38281,6 @@
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-10-31T00:11:20.422204Z"
     },
-    "truth:117532182376514600": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42905",
-      "source_text": "<p>Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!<br /> <br />A Proven Leader, Mario served his Community as a Highly Respected State Legislator and Civic Leader, prior to becoming a very distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure PEACE THROUGH STRENGTH, Champion our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Mario Diaz-Balart has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR MARIO — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:19:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-30T23:16:13.933513Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42905",
-      "first_seen": "2026-10-30T23:06:13.857224Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Mario Diaz-Balart is doing an incredible job representing Florida’s 26th Congressional District!\n \nA Proven Leader, Mario served his Commu",
-      "next_retry_at": "2026-10-30T23:26:13.933528Z",
-      "truth_social_id": "117532182376514600"
-    },
     "truth:117532190174374656": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -38318,7 +38304,7 @@
       "source_text": "<p>Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP</p>",
       "published": "Fri, 30 Oct 2026 22:23:46 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T00:01:18.535811Z",
+      "updated_at": "2026-10-31T00:06:15.061622Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42916",
       "first_seen": "2026-10-30T23:06:14.668594Z",
       "no_media_confirmations": 2,
