@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117099532910302870",
-    "https://www.trumpstruth.org/statuses/40871",
-    "truth:117099535440653927",
     "https://www.trumpstruth.org/statuses/40869",
     "fp:Unmasking the Dual Justice System - Peter Navarro on China's Intrusions and the Weaponization of Government: \nhttps://justthenews.com/podcasts/john-so",
     "truth:117099534125642899",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42943",
     "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas’ 5th Congressional District!\n \nA MAGA Warrior, w",
     "truth:117532339428251827",
-    "https://www.trumpstruth.org/statuses/42942"
+    "https://www.trumpstruth.org/statuses/42942",
+    "fp:It is my Great Honor to endorse America First Patriot, Jace Yarbrough, who is running to represent the wonderful people of Texas’ 32nd Congressional D",
+    "truth:117532327819364688",
+    "https://www.trumpstruth.org/statuses/42959"
   ],
   "posts": {
-    "truth:117437808637530181": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42349",
-      "source_text": "<p>Democrats are banking on voters forgetting how terrible they are: <a href=\"https://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters-forgetting-how-terrible-they-are/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonexaminer.com/in_focu</span><span class=\"invisible\">s/4752402/democrats-are-banking-on-voters-forgetting-how-terrible-they-are/</span></a></p>",
-      "published": "Wed, 14 Oct 2026 06:19:09 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-14T17:50:41.035320Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42349",
-      "first_seen": "2026-10-14T16:15:41.070952Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Democrats are banking on voters forgetting how terrible they are: \nhttps://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters",
-      "truth_social_id": "117437808637530181",
-      "source_fingerprint": "fp:Democrats are banking on voters forgetting how terrible they are: \nhttps://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters",
-      "media_identity": "attachment:117437808637530181:",
-      "translation": "民主党は有権者が彼らがいかに酷いかを忘れることに賭けている：\nhttps://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters-forgetting-how-terrible-they-are/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxsvofwrskw3",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mxsvofwrskw3",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "民主党は有権者が彼らがいかに酷いかを忘れることに賭けている：\nhttps://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters-forgetting-how-terrible-they-are/",
-        "createdAt": "2026-10-14T17:40:47.892280Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 91,
-              "byteEnd": 208
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters-forgetting-how-terrible-they-are/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.washingtonexaminer.com/in_focus/4752402/democrats-are-banking-on-voters-forgetting-how-terrible-they-are/",
-            "title": "Democrats are banking on voters forgetting how terrible they are",
-            "description": "Democrats are campaigning on affordability, but inflation, gas prices, border security, and spending tell a different story.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreidj3flduohn2f6qq2xzjby5ey4tfmoyny66qgmfrubcapvul7ghvi"
-              },
-              "mimeType": "image/jpeg",
-              "size": 126362
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxsvofwrskw3",
-          "rkey": "3mxsvofwrskw3"
-        }
-      ]
-    },
     "truth:117439106238163149": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17974,6 +17906,24 @@
       "media_identity": "attachment:117532339428251827:",
       "translation": "テキサス州第5選挙区の下院議員ランス・グーデンは「アメリカ第一」の愛国者であり、テキサス州第5選挙区の代表として素晴らしい仕事をしている！\n\n最初からわれわれと一緒にいたMAGA戦士であるランスは、経済成長、減税・規制撤廃、アメリカエネルギーの優位確保、「メイド・イン・USA」の推進、現在非常に安全になった国境の防衛継続、軍・退役軍人への支援、そして常に脅威にさらされている修正第2条の保護に懸命に取り組んでいる。\n\nランス・グーデンは再選に向けて、私からの完全かつ総合的な支持を得ている。ランスに投票するために立ち上がれ——彼はお前たちを決して失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
+    "truth:117532327819364688": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42959",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Jace Yarbrough, who is running to represent the wonderful people of Texas’ 32nd Congressional District!<br /> <br />A Brave Air Force Veteran, Jace knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. Additionally, as a very successful Stanford Law School Graduate and Business Attorney, Jace knows how to Create Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy Dominance, and Champion our Nation’s Golden Age. His opponent, Dan Barrios, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Dan Barrios is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congressman, Jace will fight tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jace Yarbrough has my Complete and Total Endorsement to be the next Representative from Texas’ 32nd Congressional District. GET OUT AND VOTE FOR JACE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 22:56:38 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T05:26:23.565986Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42959",
+      "first_seen": "2026-10-31T04:56:13.754941Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jace Yarbrough, who is running to represent the wonderful people of Texas’ 32nd Congressional D",
+      "truth_social_id": "117532327819364688",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jace Yarbrough, who is running to represent the wonderful people of Texas’ 32nd Congressional D",
+      "media_identity": "attachment:117532327819364688:",
+      "translation": "テキサス州第32議会地区の素晴らしい人々を代表するために立候補している、アメリカ第一主義の愛国者ジェイス・ヤーボロを支持することは、私の大きな栄誉である。\n\n勇敢な空軍退役軍人であるジェイスは、我が国を防衛し、軍隊と退役軍人を支援し、力による平和を確保するために必要な知恵と勇気を知っている。さらに、スタンフォード・ロースクールの卒業生で非常に成功した事業弁護士として、ジェイスは雇用を創出し、税金と規制を削減し、米国製を推進し、米国のエネルギー支配力を解き放ち、我が国の黄金期を支持する方法を知っている。彼の対立候補であるダン・バリオスは、チップに対する課税なし、残業に対する課税なし、社会保障に対する課税なしに反対する急進左翼民主党員である。もし彼と民主党員どもが権力を得ることがあれば、これらすべてのものが廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツへの男性選手参加、そしてお前たちの子どもへのトランスジェンダー切除を望んでいる。ダン・バリオスは無責任で、急進的で、危険だ。\n\n一方、次の下院議員として、ジェイスは国境の厳重な防衛、移民犯罪の阻止、法と秩序の確保、選挙の保護、そして常に脅威にさらされている修正第2条の保護のために、たゆまず戦うだろう。\n\nジェイス・ヤーボロはテキサス州第32議会地区の次の下院議員となるための私の完全にして絶対的な支持を得ている。投票に行ってジェイスに投票するんだ――彼は決してお前たちを失望させることはない。ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -18017,7 +17967,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T05:21:13.121295Z",
+      "updated_at": "2026-10-31T05:26:15.396360Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -38130,13 +38080,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T05:21:16.208144Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T05:26:15.395802Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -38336,22 +38286,6 @@
       "published": "Fri, 30 Oct 2026 22:56:21 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T04:51:12.209200Z"
-    },
-    "truth:117532327819364688": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42959",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Jace Yarbrough, who is running to represent the wonderful people of Texas’ 32nd Congressional District!<br /> <br />A Brave Air Force Veteran, Jace knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. Additionally, as a very successful Stanford Law School Graduate and Business Attorney, Jace knows how to Create Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy Dominance, and Champion our Nation’s Golden Age. His opponent, Dan Barrios, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Dan Barrios is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congressman, Jace will fight tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jace Yarbrough has my Complete and Total Endorsement to be the next Representative from Texas’ 32nd Congressional District. GET OUT AND VOTE FOR JACE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:56:38 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T05:06:15.033616Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42959",
-      "first_seen": "2026-10-31T04:56:13.754941Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jace Yarbrough, who is running to represent the wonderful people of Texas’ 32nd Congressional D",
-      "next_retry_at": "2026-10-31T05:16:15.033633Z",
-      "truth_social_id": "117532327819364688"
     },
     "truth:117532328347752802": {
       "post_status": "RETRY",
