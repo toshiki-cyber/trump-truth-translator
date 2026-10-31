@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals: \nhttps://nypost.com/2026/08/12/us-news/fed",
-    "truth:117105416814805578",
-    "https://www.trumpstruth.org/statuses/40897",
     "fp:FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown: \nhttps://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homic",
     "truth:117105414445736560",
     "https://www.trumpstruth.org/statuses/40899",
@@ -5000,71 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42934",
     "fp:Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (Th",
     "truth:117532344274879590",
-    "https://www.trumpstruth.org/statuses/42933"
+    "https://www.trumpstruth.org/statuses/42933",
+    "fp:It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been ",
+    "truth:117532344875423035",
+    "https://www.trumpstruth.org/statuses/42932"
   ],
   "posts": {
-    "truth:117445466418139918": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42374",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4\">View video</a></p>",
-      "published": "Thu, 15 Oct 2026 14:46:38 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T16:51:12.949707Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42374",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-      "media_identity": "attachment:117445466418139918:fd781c7a95c2d663-057dd0815a21.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-      "truth_social_id": "117445466418139918",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3mxwcircr2cmb",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4",
-        "createdAt": "2026-10-15T16:51:03.537722Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18542/fd781c7a95c2d663-057dd0815a21.mp4"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreiaqvab2ytpitp5tg2bep7ya6boennwfpgu3z4wy5kivi6cj7n2eyi"
-            },
-            "mimeType": "video/mp4",
-            "size": 47956882
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxwcircr2cmb",
-          "rkey": "3mxwcircr2cmb"
-        }
-      ]
-    },
     "truth:117445467010481436": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17700,6 +17638,24 @@
       "media_identity": "attachment:117532344274879590:",
       "translation": "グレッグ・アボット・テキサス州知事は、強力で極めて尊敬される指導者であり、私は彼の州を愛している。そして私はこの州で3度の大勝を収めており、2024年には640万票という歴史上最多の票を獲得した。これは他の追随を許さない圧倒的なものだ！\n\n州知事として、グレッグはテキサスの価値観を推し進め、経済を成長させ、税金と規制を削減し、素晴らしい農民と牧場主を支持し、アメリカ製造業を進め、アメリカのエネルギー支配力を解放し、学校選択制を推進し、今や非常に安全になった我が国の国境を確保し、移民犯罪者、殺人犯、その他の犯罪者の違法な入国を止め、法と秩序を確保し、勇敢な軍人、退役軍人、法執行官を保護し、常に攻撃を受けている我が国の修正第2条を守るために、不疲労にして活動している。\n\nグレッグ・アボットは再選に向けて、私の完全で全面的な支持を受けている。彼は傑出した州知事であり、傑出した人物である。投票に行ってグレッグに投票しろ — 彼は絶対に君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
+    "truth:117532344875423035": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42932",
+      "source_text": "<p>It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and WON, BIG, three times, with 6.4 Million Votes in 2024 (The Most Votes in the History of the State, BY FAR)!<br /> <br />I know Ken well, have seen him tested at the highest and most difficult levels, and he is a WINNER! Ken is a true MAGA Warrior who has ALWAYS delivered for Texas, and will continue to do so in the United States Senate. His opponent, James TalaFREAKO, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. James TalaFREAKO is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Senator, Ken will tirelessly fight to continue the Great Growth of our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Champion Texas Oil &amp; Gas, Advocate for our Amazing Farmers and Ranchers, Promote School Choice, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Ken Paxton has my Complete and Total Endorsement to be the next United States Senator from the Great State of Texas. GET OUT AND VOTE FOR KEN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 23:00:58 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T09:41:22.378883Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42932",
+      "first_seen": "2026-10-31T02:11:18.533649Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been ",
+      "truth_social_id": "117532344875423035",
+      "source_fingerprint": "fp:It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been ",
+      "media_identity": "attachment:117532344875423035:",
+      "translation": "テキサス州の高く尊敬される司法長官ケン・パクストンを支持することは、私の大きな栄誉である。彼はアメリカ・ファースト・パトリオットであり、私と我々の素晴らしいMAGA運動に常に極めて忠実であり、アメリカ合衆国上院議員選挙に立候補している。彼は私が愛し、3度も大勝利を収めた州、すなわち2024年に640万票（同州史上最高票数で、断然である）を獲得した州を代表するだろう。\n\nケンのことはよく知っており、彼が最高レベルで、最も困難な局面でテストされているのを見てきた。彼はウィナーである！ケンはテキサスのために常に結果を出してきた真のMAGAウォーリアであり、合衆国上院でもそうし続けるだろう。彼の対立者ジェームス・タラフリーコは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する左翼民主党ラディカルであり、彼と民主党員がもし権力を握れば、これらすべてのものは廃止されるだろう。彼は巨大な増税、開かれた国境、女性スポーツで競技する男性、そしてあなたの子どもへのトランスジェンダー医学的改変を望んでいる。ジェームス・タラフリーコは無謀で、ラディカルで、危険である。\n\n一方、次期上院議員として、ケンは我々の経済の素晴らしい成長を続けるために絶え間なく戦い、減税と規制緩和を行い、アメリカ製を推進し、アメリカンエネルギーの支配力を解放し、テキサス石油・ガスを守り、我々の素晴らしい農民と牧場主のために主張し、学校選択を促進し、我々の国境を厳重に守り、移民犯罪を阻止し、我々の信じられないほどの軍隊・退役軍人を支援し、我々の選挙を保護し、常に包囲されている修正第2条を守るだろう。\n\nケン・パクストンは、偉大なテキサス州の次期合衆国上院議員となるために、私の完全で全面的な支持を得ている。ケンのために投票に行け。彼はあなたを決してがっかりさせない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17743,7 +17699,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T09:36:16.258169Z",
+      "updated_at": "2026-10-31T09:41:12.765205Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -37856,13 +37812,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T09:36:20.129205Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T09:41:12.764920Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -37889,22 +37845,6 @@
       "published": "Fri, 30 Oct 2026 23:00:32 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T00:51:15.647543Z"
-    },
-    "truth:117532344875423035": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42932",
-      "source_text": "<p>It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and WON, BIG, three times, with 6.4 Million Votes in 2024 (The Most Votes in the History of the State, BY FAR)!<br /> <br />I know Ken well, have seen him tested at the highest and most difficult levels, and he is a WINNER! Ken is a true MAGA Warrior who has ALWAYS delivered for Texas, and will continue to do so in the United States Senate. His opponent, James TalaFREAKO, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. James TalaFREAKO is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Senator, Ken will tirelessly fight to continue the Great Growth of our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Champion Texas Oil &amp; Gas, Advocate for our Amazing Farmers and Ranchers, Promote School Choice, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Ken Paxton has my Complete and Total Endorsement to be the next United States Senator from the Great State of Texas. GET OUT AND VOTE FOR KEN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 23:00:58 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T02:26:15.342788Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42932",
-      "first_seen": "2026-10-31T02:11:18.533649Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been ",
-      "next_retry_at": "2026-10-31T02:36:15.342807Z",
-      "truth_social_id": "117532344875423035"
     },
     "truth:117532345934832213": {
       "post_status": "RETRY",
