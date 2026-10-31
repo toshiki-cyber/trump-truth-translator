@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Trump wins legal battle to keep cheap imports subject to tariffs: \nhttps://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-    "truth:117105403616486905",
-    "https://www.trumpstruth.org/statuses/40892",
     "fp:Biden-era directive for diplomats to peddle DEI on foreign governments scrapped by State Department: \nhttps://www.foxnews.com/politics/biden-era-direc",
     "truth:117105409609794697",
     "https://www.trumpstruth.org/statuses/40901",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/42963",
     "fp:Congressman Brian Babin, D.D.S, is an incredible Representative of Texas’ 36th Congressional District!\n \nAs the Highly Respected Chairman of the House",
     "truth:117532326191609947",
-    "https://www.trumpstruth.org/statuses/42962"
+    "https://www.trumpstruth.org/statuses/42962",
+    "fp:Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million V",
+    "truth:117532342092327819",
+    "https://www.trumpstruth.org/statuses/42937"
   ],
   "posts": {
-    "truth:117443638283999228": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42367",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18536/e7432b1eabbf6ab2-e3ed38bf4575.jpg\">View image</a></p>",
-      "published": "Thu, 15 Oct 2026 07:01:43 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-15T08:00:47.775652Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42367",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18536/e7432b1eabbf6ab2-e3ed38bf4575.jpg",
-      "media_identity": "attachment:117443638283999228:e7432b1eabbf6ab2.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18536/e7432b1eabbf6ab2-e3ed38bf4575.jpg",
-      "truth_social_id": "117443638283999228",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18536/e7432b1eabbf6ab2-e3ed38bf4575.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxvijghhr2e6",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mxvijghhr2e6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18536/e7432b1eabbf6ab2-e3ed38bf4575.jpg",
-        "createdAt": "2026-10-15T08:00:40.495288Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18536/e7432b1eabbf6ab2-e3ed38bf4575.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreih6zvdjsoudi6v3dpa5ahw4an5dp3swwqpdvkrxnr2a7ri2lxc32a"
-                },
-                "mimeType": "image/jpeg",
-                "size": 265325
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1260,
-                "height": 816
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mxvijghhr2e6",
-          "rkey": "3mxvijghhr2e6"
-        }
-      ]
-    },
     "truth:117445238705160805": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17794,6 +17724,24 @@
       "media_identity": "attachment:117532326191609947:",
       "translation": "テキサス州第36下院地区の下院議員であるブライアン・ベイビン議員（D.D.S）は、テキサスの素晴らしい代表者だ！\n\n下院科学委員会の尊敬される議長として、ブライアンは経済成長、増税と規制廃止、米国エネルギーの支配権獲得、メイド・イン・ザ・USA推進、今や非常に強固となった国境防衛の堅持、法執行機関と軍への強固な支持、勇敢な退役軍人への質の高いケア提供、そして常に攻撃にさらされている第二修正条項の保護のために、全力で闘っている。\n\nブライアン・ベイビンは再選に向けて、私の完全かつ全面的な支持を得ている。投票に行ってブライアンに投票してくれ――彼は絶対にお前たちをがっかりさせない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
+    "truth:117532342092327819": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/42937",
+      "source_text": "<p>Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024, the most in History (BY FAR)!<br /> <br />Dawn is a Ninth Generation Texan, successful Surgeon, avid Hunter, former State Senator, and now, as Land Commissioner, has served the Lone Star State during a career “loaded up” with accolades and wins. A true America First Patriot, who has been with us from the very beginning, Dawn is an incredibly effective steward of Texas’ 13 Million Acres of Precious, Energy Rich, State Land — She is a Strong Supporter of Texas Oil &amp; Gas! Dawn is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Champion our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, and Protect our always under siege Second Amendment.<br /> <br />Land Commissioner Dawn Buckingham, M.D., has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR DAWN — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Fri, 30 Oct 2026 23:00:16 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-10-31T09:01:26.235778Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/42937",
+      "first_seen": "2026-10-31T02:11:17.010707Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million V",
+      "truth_social_id": "117532342092327819",
+      "source_fingerprint": "fp:Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million V",
+      "media_identity": "attachment:117532342092327819:",
+      "translation": "ドーン・バッキンガム博士はテキサス州の強力で非常に人気の高い土地委員であり、私はテキサスを愛している。そして私は3度BIG WINを勝ち取っており、2024年には664万票で過去最高（圧倒的に）の勝利を収めた！\n\nドーンは9代続くテキサス人であり、成功した外科医、熱心なハンター、前州上院議員であり、現在土地委員として、「成功と栄誉に満ちた」キャリアを通じてロンスター州に貢献してきた。最初から私たちと共にいた真のアメリカ第一主義の愛国者であるドーンは、テキサスの1300万エーカーの貴重でエネルギー豊富な州有地の非常に効果的な管理者である。彼女はテキサスの石油とガスの強力な支持者だ！ドーンは経済を成長させ、税金と規制を削減し、アメリカンエネルギーの支配力を解放し、米国製を推進し、素晴らしい農民と牧場主を支援し、国境を厳重に守り、移民犯罪、殺人犯、その他の犯罪者が違法に入国するのを阻止し、常に脅威にさらされている修正第2条を保護するために絶え間なく戦っている。\n\n土地委員ドーン・バッキンガム博士（医学博士）は、再選に向けて私の完全で全面的な支持を得ている。ドーンに投票しに行け――彼女はお前たちを決して失望させないだろう！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
+    },
     "truth:117532198586240709": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -17837,7 +17785,7 @@
       "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494bda7825235-48f99ed50076.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42895\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18783/5c957739ad6a208b-93caf242053c.mp4\">View video</a></p></blockquote>",
       "published": "Fri, 30 Oct 2026 21:09:29 +0000",
       "retry_count": 0,
-      "updated_at": "2026-10-31T08:56:15.577837Z",
+      "updated_at": "2026-10-31T09:01:18.055557Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42930",
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450https://truth-archive.us-iad-1.linodeobjects.com/attachments/18782/7ed494",
       "media_identity": "attachment:117531906499204194:7ed494bda7825235.jpg",
@@ -37950,13 +37898,13 @@
       "updated_at": "2026-10-30T22:51:16.779216Z"
     },
     "truth:117531976551681094": {
-      "post_status": "RETRY",
-      "media_state": "READY",
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/42903",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4\">View video</a></p>",
       "published": "Fri, 30 Oct 2026 21:27:18 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T08:56:19.446848Z",
+      "retry_count": 0,
+      "updated_at": "2026-10-31T09:01:18.055155Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/42928",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18784/c30a8b4f332fb342-44a9b20dd96f.mp4",
       "media_identity": "attachment:117531976551681094:c30a8b4f332fb342-44a9b20dd96f.mp4",
@@ -37983,22 +37931,6 @@
       "published": "Fri, 30 Oct 2026 23:00:32 +0000",
       "retry_count": 0,
       "updated_at": "2026-10-31T00:51:15.647543Z"
-    },
-    "truth:117532342092327819": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/42937",
-      "source_text": "<p>Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024, the most in History (BY FAR)!<br /> <br />Dawn is a Ninth Generation Texan, successful Surgeon, avid Hunter, former State Senator, and now, as Land Commissioner, has served the Lone Star State during a career “loaded up” with accolades and wins. A true America First Patriot, who has been with us from the very beginning, Dawn is an incredibly effective steward of Texas’ 13 Million Acres of Precious, Energy Rich, State Land — She is a Strong Supporter of Texas Oil &amp; Gas! Dawn is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Champion our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, and Protect our always under siege Second Amendment.<br /> <br />Land Commissioner Dawn Buckingham, M.D., has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR DAWN — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 23:00:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T02:26:14.485182Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42937",
-      "first_seen": "2026-10-31T02:11:17.010707Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million V",
-      "next_retry_at": "2026-10-31T02:36:14.485199Z",
-      "truth_social_id": "117532342092327819"
     },
     "truth:117532342635483426": {
       "post_status": "RETRY",
