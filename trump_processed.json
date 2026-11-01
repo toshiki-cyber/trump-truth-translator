@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41043",
-    "truth:117134435070312739",
-    "https://www.trumpstruth.org/statuses/41048",
     "truth:117134434446472238",
     "https://www.trumpstruth.org/statuses/41049",
     "truth:117134436836934561",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43070",
     "fp:It is my Great Honor to endorse America First Patriot, Ryan Elijah, who is running to represent the wonderful people of Florida's 7th Congressional Di",
     "truth:117537126776284431",
-    "https://www.trumpstruth.org/statuses/43069"
+    "https://www.trumpstruth.org/statuses/43069",
+    "fp:Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida's 6th Congressional District!\n \nA Harvard Educated and Succ",
+    "truth:117537138707777040",
+    "https://www.trumpstruth.org/statuses/43068"
   ],
   "posts": {
-    "truth:117471356128867722": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42495",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18606/72cbffbfa0928ca8-d08de9b97803.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:30:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T06:30:49.660822Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42495",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18606/72cbffbfa0928ca8-d08de9b97803.jpg",
-      "media_identity": "attachment:117471356128867722:72cbffbfa0928ca8.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18606/72cbffbfa0928ca8-d08de9b97803.jpg",
-      "truth_social_id": "117471356128867722",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18606/72cbffbfa0928ca8-d08de9b97803.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsg26ry2la",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybsg26ry2la",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18606/72cbffbfa0928ca8-d08de9b97803.jpg",
-        "createdAt": "2026-10-20T06:30:42.519792Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18606/72cbffbfa0928ca8-d08de9b97803.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiaxmggp4eb5xgq7xgdrlqoos3imzkwntcahbog4kipwyetcntd6je"
-                },
-                "mimeType": "image/jpeg",
-                "size": 55232
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 954,
-                "height": 370
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsg26ry2la",
-          "rkey": "3mybsg26ry2la"
-        }
-      ]
-    },
     "truth:117471356670966028": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -17011,6 +16941,24 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Ryan Elijah, who is running to represent the wonderful people of Florida's 7th Congressional Di",
       "media_identity": "attachment:117537126776284431:",
       "translation": "フロリダ州第7下院議員区の素晴らしい人々を代表して立候補しているアメリカ第一主義の愛国者、ライアン・イライジャを支持することは、私の大きな栄誉だ！\n\n高く尊敬される元ニュースキャスターであるライアンは、我が国を分断・破壊しようとする腐敗した偽りのニュースメディアに立ち向かうために必要な知恵と勇気を知っている。彼の対立候補であるベイル・ダルトンは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する過激左翼民主党員だ。彼と民主党員たちが権力を握ることになれば、これらすべてのものが廃止されるだろう。彼は大増税、国境開放、女性スポーツへの男性選手の参加、そして子どもたちへのトランスジェンダー手術を望んでいる。ベイル・ダルトンは無謀で、過激で、危険だ！\n\n一方、次期下院議員として、ライアンは経済成長、減税・規制撤廃のため絶え間なく闘い、アメリカのエネルギー支配力を解放し、米国製を推進し、勇敢な軍隊と退役軍人を強化し、国境を厳重に守り、選挙を保護し、常に脅威にさらされている銃保有権を守る。\n\nライアン・イライジャはフロリダ州第7下院議員区の次期下院議員となることについて、私の完全で全面的な支持を得ている。立ち上がってライアンに投票しろ―彼は決してお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
+    },
+    "truth:117537138707777040": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43068",
+      "source_text": "<p>Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida's 6th Congressional District!<br /> <br />A Harvard Educated and Successful Businessman, Randy was a Highly Respected State Legislator, prior to becoming a distinguished U.S. Congressman. He loves the Great People of the Sunshine State, which I won THREE TIMES in 2016, 2020, and 2024! In Congress, Randy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Champion our Military/Veterans, Defend our always under siege Second Amendment, and, very importantly, Pass THE SAVE AMERICA ACT.<br /> <br />Randy's opponent, Eric Yonce, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Eric Yonce is Reckless, Radical, and Dangerous!<br /> <br />Randy Fine has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RANDY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 31 Oct 2026 19:20:06 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T04:30:40.124036Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43068",
+      "first_seen": "2026-11-01T02:55:55.811026Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida's 6th Congressional District!\n \nA Harvard Educated and Succ",
+      "truth_social_id": "117537138707777040",
+      "source_fingerprint": "fp:Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida's 6th Congressional District!\n \nA Harvard Educated and Succ",
+      "media_identity": "attachment:117537138707777040:",
+      "translation": "下院議員ランディ・ファインはMAGA戦士であり、フロリダ州第6選挙区を見事に代表している!\n\nハーバード大学教育を受けた成功したビジネスマンであるランディは、米国下院議員になる前に高い評判を得た州議会議員だった。彼はサンシャイン・ステートの素晴らしい人々を愛している。私はこの州を2016年、2020年、2024年に3度勝ち取った!下院ではランディは、経済成長、減税と規制緩和、米国製品の推進、米国エネルギーの支配力解放、国境の厳格化、移民犯罪の阻止、軍人・退役軍人の支援、常に攻撃を受けている修正第2条の防衛、そして最も重要なことに、SAVE AMERICA ACTの可決のために絶えず戦っている。\n\nランディの対立候補、エリック・ヨンスは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する急進左派の民主党員であり、彼と民主党員たちが権力を握るようなことがあれば、これらすべてが廃止される。彼は大幅な増税、国境開放、女性スポーツでの男性参加、そして子どもへのトランスジェンダー医療を望んでいる。エリック・ヨンスは無謀で、急進的で、危険だ!\n\nランディ・ファインは再選に向けて私の完全かつ全面的な支持を得ている。投票に行ってランディに投票してくれ — 彼は決してお前たちを失望させることはない!大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37592,22 +37540,6 @@
       "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida's 11th Congressional District!\n",
       "next_retry_at": "2026-11-01T03:15:36.216023Z",
       "truth_social_id": "117537125463079379"
-    },
-    "truth:117537138707777040": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43068",
-      "source_text": "<p>Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida's 6th Congressional District!<br /> <br />A Harvard Educated and Successful Businessman, Randy was a Highly Respected State Legislator, prior to becoming a distinguished U.S. Congressman. He loves the Great People of the Sunshine State, which I won THREE TIMES in 2016, 2020, and 2024! In Congress, Randy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Champion our Military/Veterans, Defend our always under siege Second Amendment, and, very importantly, Pass THE SAVE AMERICA ACT.<br /> <br />Randy's opponent, Eric Yonce, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Eric Yonce is Reckless, Radical, and Dangerous!<br /> <br />Randy Fine has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RANDY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 31 Oct 2026 19:20:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T03:05:37.039737Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43068",
-      "first_seen": "2026-11-01T02:55:55.811026Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Randy Fine is a MAGA Warrior who is doing a fantastic job representing Florida's 6th Congressional District!\n \nA Harvard Educated and Succ",
-      "next_retry_at": "2026-11-01T03:15:37.039773Z",
-      "truth_social_id": "117537138707777040"
     },
     "truth:117537139270355027": {
       "post_status": "RETRY",
