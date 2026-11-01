@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134595889412013",
-    "https://www.trumpstruth.org/statuses/41067",
-    "fp:Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: \nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increa",
     "truth:117134597641992037",
     "https://www.trumpstruth.org/statuses/41066",
     "fp:Trump: US Has Total Control of Hormuz: \nhttps://www.newsmax.com/world/globaltalk/trump-hormuz-iran/2026/08/12/id/1265856/",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43098",
     "fp:Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!\n \nA fifth generation F",
     "truth:117541863279659655",
-    "https://www.trumpstruth.org/statuses/43097"
+    "https://www.trumpstruth.org/statuses/43097",
+    "fp:It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and W",
+    "truth:117541866339909379",
+    "https://www.trumpstruth.org/statuses/43094"
   ],
   "posts": {
-    "truth:117471361001952422": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42487",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:31:58 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T07:25:42.486780Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42487",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg",
-      "media_identity": "attachment:117471361001952422:c693e262cf9d8bd1.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg",
-      "truth_social_id": "117471361001952422",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsib3yactk",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybsib3yactk",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg",
-        "createdAt": "2026-10-20T07:15:37.410155Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18598/c693e262cf9d8bd1-4033fd39e99b.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifdcfj7mtsxmqdubxyufwmdg6e7qdz76kqogvw53dp4y2j6wqd7se"
-                },
-                "mimeType": "image/jpeg",
-                "size": 43520
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 986,
-                "height": 268
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsib3yactk",
-          "rkey": "3mybsib3yactk"
-        }
-      ]
-    },
     "truth:117471362206459899": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16911,6 +16841,24 @@
       "source_fingerprint": "fp:Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!\n \nA fifth generation F",
       "media_identity": "attachment:117541863279659655:",
       "translation": "トレーシー・マン下院議員は、カンザス州の素晴らしい「ビッグ・ファースト」選挙区の国民のための素晴らしい代表だ！\n\n5代目の農家であるトレーシーは、アメリカ農業のための強力で効果的な声だ。下院議員として、彼は減税と規制緩和、米国製品の推進、アメリカのエネルギー支配の解放、国境の安全保障、軍隊と退役軍人の強化、そして常に攻撃にさらされている修正第2条の保護のために、たゆまず戦っている。\n\nトレーシー・マンは再選に向けて、私の完全かつ全面的な支持を得ている。トレーシーに投票するために投票に行け — 彼は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/kansas/"
+    },
+    "truth:117541866339909379": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43094",
+      "source_text": "<p>It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and WON BIG in 2016, 2020, and 2024! Ty will run on the Republican “ticket” with my friend, the Great U.S. Senator Roger Marshall, who, along with many America First Patriots in Kansas, strongly believe in him.<br /> <br />A highly successful Small Business Owner and Entrepreneur, and Kansas' very popular State Senate President, Ty has dedicated his life to serving his Community. His opponent, Crazy Cindy Holscher, is the Most Radical Candidate ever to run for Kansas Governor — Even Laura Kelly said Holscher is too extreme! Cindy Holscher supported RAISING your Property Taxes, and stripping Parents of their Parental Rights. She voted for Men in Women's Sports, and Men in Girls' Locker Rooms. She said that Jesus was gay and transgender, and that her role model, as Governor, would be Gavin Newscum, which means Homelessness, Corruption, High Crime, and High Costs!<br /> <br />On the other hand, as your next Governor, Ty will work tirelessly to Champion Kansas Values, Promote our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />Ty Masterson has my Complete and Total Endorsement to be the next Governor of the Great State of Kansas. GET OUT AND VOTE FOR TY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kansas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kansas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sun, 01 Nov 2026 15:22:24 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T17:25:43.782544Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43094",
+      "first_seen": "2026-11-01T16:50:35.846041Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and W",
+      "truth_social_id": "117541866339909379",
+      "source_fingerprint": "fp:It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and W",
+      "media_identity": "attachment:117541866339909379:",
+      "translation": "タイ・マスターソンを支持することは大きな名誉だ。彼は素晴らしい候補者で、私が愛する偉大なカンザス州の次期知事選に出馬している。私は2016年、2020年、2024年にカンザス州で大勝利を収めた！タイは共和党の「チケット」で出馬し、私の友人である偉大な上院議員ロジャー・マーシャルと共に走る。マーシャルをはじめ、カンザス州の多くのアメリカ・ファースト愛国者たちが彼を強く支持している。\n\n高度に成功した小ビジネスオーナー兼起業家であり、カンザス州の人気の高い州上院議長であるタイは、彼のコミュニティへの奉仕に人生を捧げてきた。彼の対立候補である狂ったシンディ・ホルシャーは、カンザス州知事選に立候補した最も急進的な候補者だ。ローラ・ケリーさえもホルシャーは極端すぎると言っている！シンディ・ホルシャーは固定資産税の引き上げを支持し、親としての権利を親から奪おうとした。彼女は女性スポーツへの男性参加と女子ロッカールームへの男性の出入りに投票した。イエスはゲイでトランスジェンダーだと述べ、知事としての自分のロールモデルはギャビン・ニューサムだと言った。それはホームレス、腐敗、高い犯罪率、高いコストを意味する！\n\n一方、次期知事として、タイはカンザスの価値観を積極的に支持し、素晴らしい農民と牧場主を推進し、経済を成長させ、税金と規制を削減し、米国製を推進し、米国のエネルギー支配力を解き放ち、国境を確保に保ち、移民犯罪を止め、法と秩序を確保し、勇敢な軍、退役軍人、法執行機関を支援し、選挙を保護し、常に攻撃にさらされている修正第2条を防衛するために、たゆまず努力するだろう。\n\nタイ・マスターソンは、偉大なカンザス州の次期知事となるために、私の完全かつ絶対的な支持を持つ。外に出てタイに投票してくれ。彼は絶対にお前らを失望させない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/kansas/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37565,22 +37513,6 @@
       "published": "Sun, 01 Nov 2026 15:48:43 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T16:50:34.067229Z"
-    },
-    "truth:117541866339909379": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43094",
-      "source_text": "<p>It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and WON BIG in 2016, 2020, and 2024! Ty will run on the Republican “ticket” with my friend, the Great U.S. Senator Roger Marshall, who, along with many America First Patriots in Kansas, strongly believe in him.<br /> <br />A highly successful Small Business Owner and Entrepreneur, and Kansas' very popular State Senate President, Ty has dedicated his life to serving his Community. His opponent, Crazy Cindy Holscher, is the Most Radical Candidate ever to run for Kansas Governor — Even Laura Kelly said Holscher is too extreme! Cindy Holscher supported RAISING your Property Taxes, and stripping Parents of their Parental Rights. She voted for Men in Women's Sports, and Men in Girls' Locker Rooms. She said that Jesus was gay and transgender, and that her role model, as Governor, would be Gavin Newscum, which means Homelessness, Corruption, High Crime, and High Costs!<br /> <br />On the other hand, as your next Governor, Ty will work tirelessly to Champion Kansas Values, Promote our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />Ty Masterson has my Complete and Total Endorsement to be the next Governor of the Great State of Kansas. GET OUT AND VOTE FOR TY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kansas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kansas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sun, 01 Nov 2026 15:22:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T16:55:36.797126Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43094",
-      "first_seen": "2026-11-01T16:50:35.846041Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and W",
-      "next_retry_at": "2026-11-01T17:05:36.797179Z",
-      "truth_social_id": "117541866339909379"
     },
     "truth:117541869662412381": {
       "post_status": "RETRY",
