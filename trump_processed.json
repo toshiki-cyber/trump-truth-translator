@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134636703184466",
-    "https://www.trumpstruth.org/statuses/41081",
-    "fp:It Was a Great Scam While It Lasted: \nhttps://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html",
     "truth:117134593867089115",
     "https://www.trumpstruth.org/statuses/41069",
     "fp:Department of Education to No Longer Require School Discipline Policies That Discriminate on the Basis of Race: \nhttps://www.dailysignal.com/2026/08/1",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43112",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18813/3d2d1ad238301e4a-0cba0d549d29.jpg",
     "truth:117542377492851121",
-    "https://www.trumpstruth.org/statuses/43110"
+    "https://www.trumpstruth.org/statuses/43110",
+    "fp:Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has be",
+    "truth:117542639036452664",
+    "https://www.trumpstruth.org/statuses/43111"
   ],
   "posts": {
-    "truth:117471412913926533": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42504",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18615/405d94b4c3b44288-65339a2cb8d0.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:45:10 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T08:50:35.872093Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42504",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18615/405d94b4c3b44288-65339a2cb8d0.jpg",
-      "media_identity": "attachment:117471412913926533:405d94b4c3b44288.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18615/405d94b4c3b44288-65339a2cb8d0.jpg",
-      "truth_social_id": "117471412913926533",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18615/405d94b4c3b44288-65339a2cb8d0.jpg"
-    },
     "truth:117471449851979312": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16661,6 +16645,24 @@
           "rkey": "3mzbdot2kx2zp"
         }
       ]
+    },
+    "truth:117542639036452664": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43111",
+      "source_text": "<p>Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate! Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled. Haley said what few people are willing to say. She showed great and almost unprecedented loyalty to the Great People of Michigan with what she did. It’s a thing called bravery, and few people have it like just displayed by Congresswoman Haley Stevens! President DONALD J. TRUMP</p>",
+      "published": "Sun, 01 Nov 2026 18:38:54 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T19:25:41.531675Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43111",
+      "first_seen": "2026-11-01T19:05:37.367482Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has be",
+      "truth_social_id": "117542639036452664",
+      "source_fingerprint": "fp:Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has be",
+      "media_identity": "attachment:117542639036452664:",
+      "translation": "わあ、これはでかい！ヘイリー・スティーブンス下院議員（高く尊敬されている民主党員）は、アブドゥル・モハメド・エル・サイド との予備選で僅差で落選し、ミシガン州の米国上院選でマイク・ロジャーズに対抗する民主党のキャンペーンを支援するために民主党員から目いっぱいもてなされていた人物だが、なんとマイク・ロジャーズ上院候補に ENDORSEMENT を表明したのだ！彼女のフォロワーは膨大であり、ミシガン州の人々、特にアフリカ系アメリカ人とユダヤ人からの尊敬の度合いは、ほぼ比類がない。ヘイリーは、ほとんどの人が言おうとしないことを言った。彼女の行動は、ミシガン州の偉大なる人々に対して、ほぼ前例のない大きな忠誠心を示したのだ。それは勇気というやつだ。そしてヘイリー・スティーブンス下院議員が今、示したようなそのような勇気を持つ人はほとんどいない！大統領 ドナルド・J・トランプ"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37315,22 +37317,6 @@
       "published": "Sun, 01 Nov 2026 15:48:43 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T16:50:34.067229Z"
-    },
-    "truth:117542639036452664": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43111",
-      "source_text": "<p>Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate! Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled. Haley said what few people are willing to say. She showed great and almost unprecedented loyalty to the Great People of Michigan with what she did. It’s a thing called bravery, and few people have it like just displayed by Congresswoman Haley Stevens! President DONALD J. TRUMP</p>",
-      "published": "Sun, 01 Nov 2026 18:38:54 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T19:10:38.993118Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43111",
-      "first_seen": "2026-11-01T19:05:37.367482Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has be",
-      "next_retry_at": "2026-11-01T19:20:38.993134Z",
-      "truth_social_id": "117542639036452664"
     },
     "truth:117542669978421205": {
       "post_status": "RETRY",
