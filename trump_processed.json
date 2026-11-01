@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134634331609267",
-    "https://www.trumpstruth.org/statuses/41084",
-    "fp:Trump claims ‘total control’ of Strait of Hormuz as war drags on: \nhttps://www.washingtonexaminer.com/policy/defense/4684362/trump-total-control-strai",
     "truth:117134633473478901",
     "https://www.trumpstruth.org/statuses/41085",
     "fp:Key House caucus leaders target Supreme Court, Senate filibuster: \nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotu",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43108",
     "fp:It is my Great Honor to endorse MAGA Patriot, Joe Mitchell, who is running to represent the fantastic people of Iowa's 2nd Congressional District!\n \nA",
     "truth:117541967897672010",
-    "https://www.trumpstruth.org/statuses/43107"
+    "https://www.trumpstruth.org/statuses/43107",
+    "fp:Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!\n \nA distinguished M",
+    "truth:117541968606119687",
+    "https://www.trumpstruth.org/statuses/43103"
   ],
   "posts": {
-    "truth:117471385009015527": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42498",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18609/ae6779b0a932c7b4-3dbf4208aa66.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:38:04 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T08:10:40.611413Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42498",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18609/ae6779b0a932c7b4-3dbf4208aa66.jpg",
-      "media_identity": "attachment:117471385009015527:ae6779b0a932c7b4.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18609/ae6779b0a932c7b4-3dbf4208aa66.jpg",
-      "truth_social_id": "117471385009015527",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18609/ae6779b0a932c7b4-3dbf4208aa66.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybst6h5n2vk",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybst6h5n2vk",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18609/ae6779b0a932c7b4-3dbf4208aa66.jpg",
-        "createdAt": "2026-10-20T08:00:46.419950Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18609/ae6779b0a932c7b4-3dbf4208aa66.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicbaisfml262vavavogmilnhtvhb6d7uxcbsjpai5q56usamtssg4"
-                },
-                "mimeType": "image/jpeg",
-                "size": 45045
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 986,
-                "height": 292
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybst6h5n2vk",
-          "rkey": "3mybst6h5n2vk"
-        }
-      ]
-    },
     "truth:117471406675997939": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16761,6 +16691,24 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse MAGA Patriot, Joe Mitchell, who is running to represent the fantastic people of Iowa's 2nd Congressional District!\n \nA",
       "media_identity": "attachment:117541967897672010:",
       "translation": "素晴らしいアイオワ州第2下院議員区の国民を代表して立候補しているMAGA愛国者ジョー・ミッチェルを支持することは、私の大きな栄誉だ！\n\nジョーは私の政権でHUD（住宅都市開発省）の任命官として、またアイオワ州の歴史上最年少の州議会議員として、彼の素晴らしい州と国のために強い成果をもたらす勇気と知恵を持つことを証明している。彼の対立候補リンジー・ジェームスは、「チップスへの課税なし」「残業代への課税なし」「社会保障への課税なし」に反対する急進的左翼民主党員で、彼女と民主党員たちが権力を握ったら、これらはすべて廃止される。彼女は大幅な増税、国境開放、女性競技への男性選手の参加、そして子どもへのトランスジェンダー医療を望んでいる。リンジー・ジェームスは無謀で、急進的で、危険だ！\n\n一方、次期下院議員としてのジョーは、経済を成長させ、税金と規制を削減し、農民を支持し、アメリカ製造を推進し、アメリカンエネルギーの優位性を実現させ、国境を安全に保ち、移民犯罪を阻止し、勇敢な軍人・退役軍人を支援し、選挙の安全性を守り、常に脅威にさらされている修正第2条を守るために、不屈の精神で戦うだろう。\n\nジョー・ミッチェルはアイオワ州第2下院議員区の次期下院議員になるための私の完全で全面的な支持を得ている。さあ、ジョーに投票しろ——彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/iowa/"
+    },
+    "truth:117541968606119687": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43103",
+      "source_text": "<p>Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!<br /> <br />A distinguished Medical Doctor and U.S. Army Veteran, Mariannette knows the America First Policies required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Mariannette is working hard to Grow our Economy, Cut Taxes and Regulations, Advocate for our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.<br /> <br />Mariannette's opponent, Christina Bohannan, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Christina Bohannan is Reckless, Radical, and Dangerous!<br /> <br />Mariannette Miller-Meeks has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MARIANNETTE — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sun, 01 Nov 2026 15:48:24 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T17:55:42.323470Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43103",
+      "first_seen": "2026-11-01T16:55:39.804699Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!\n \nA distinguished M",
+      "truth_social_id": "117541968606119687",
+      "source_fingerprint": "fp:Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!\n \nA distinguished M",
+      "media_identity": "attachment:117541968606119687:",
+      "translation": "マリアネット・ミラー・ミークス下院議員は、アイオワ州第1選挙区の素晴らしい人々の為に信じられないほど強力に主張する人物だ！\n\n医学博士であり米陸軍退役軍人であるマリアネットは、我が国を守り、勇敢な軍人・退役軍人を支援し、「力による平和」を確保するために必要なアメリカ・ファースト政策を熟知している。議会では、マリアネットは経済成長、減税・規制緩和、素晴らしい農民・牧場経営者への支援、「米国製」の推進、米国のエネルギー支配の維持、国境の厳格な管理、移民犯罪の阻止、そして常に攻撃にさらされている修正第2条の防衛に懸命に取り組んでいる。\n\nマリアネットの対立候補であるクリスティーナ・ボハナンは、チップへの課税なし、残業代への課税なし、社会保障への課税なしに反対する過激左翼民主党員だ。彼女と民主党員たちが権力を握ったら、これらすべてのものは廃止されるだろう。彼女は大幅な増税、国境開放、女性スポーツへの男性選手参加、そしてお前たちの子どもたちへのトランスジェンダー変性を望んでいる。クリスティーナ・ボハナンは無責任で、過激で、危険だ！\n\nマリアネット・ミラー・ミークスは再選に向けて、私の完全かつ全面的な支持を得ている。マリアネットに投票するために今すぐ投票所に行け――彼女は絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領より\nhttps://swampthevoteusa.com/iowa/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37415,22 +37363,6 @@
       "published": "Sun, 01 Nov 2026 15:48:43 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T16:50:34.067229Z"
-    },
-    "truth:117541968606119687": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43103",
-      "source_text": "<p>Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!<br /> <br />A distinguished Medical Doctor and U.S. Army Veteran, Mariannette knows the America First Policies required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Mariannette is working hard to Grow our Economy, Cut Taxes and Regulations, Advocate for our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, and Defend our always under siege Second Amendment.<br /> <br />Mariannette's opponent, Christina Bohannan, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Christina Bohannan is Reckless, Radical, and Dangerous!<br /> <br />Mariannette Miller-Meeks has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MARIANNETTE — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sun, 01 Nov 2026 15:48:24 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T17:05:33.288269Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43103",
-      "first_seen": "2026-11-01T16:55:39.804699Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!\n \nA distinguished M",
-      "next_retry_at": "2026-11-01T17:15:33.288282Z",
-      "truth_social_id": "117541968606119687"
     },
     "truth:117541969186635758": {
       "post_status": "RETRY",
