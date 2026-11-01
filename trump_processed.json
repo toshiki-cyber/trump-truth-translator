@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134849304439845",
-    "https://www.trumpstruth.org/statuses/41104",
-    "fp:Bessent says US to apply measures never seen on Iran: \nhttps://www.reuters.com/world/middle-east/bessent-says-us-apply-measures-never-seen-iran-2026-0",
     "truth:117134595889412013",
     "https://www.trumpstruth.org/statuses/41067",
     "fp:Winning: Americans’ Tax Refunds Increased by $43 Billion This Year: \nhttps://www.breitbart.com/economy/2026/08/16/winning-americans-tax-refunds-increa",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43099",
     "fp:Congressman Derek Schmidt is an incredible Representative of Kansas' 2nd Congressional District!\n \nA Fifth Generation Kansan, Derek served as State At",
     "truth:117541862295461941",
-    "https://www.trumpstruth.org/statuses/43098"
+    "https://www.trumpstruth.org/statuses/43098",
+    "fp:Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!\n \nA fifth generation F",
+    "truth:117541863279659655",
+    "https://www.trumpstruth.org/statuses/43097"
   ],
   "posts": {
-    "truth:117471360268089782": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42488",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18599/736d219f2a7de2ea-62d70d622997.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:31:47 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T07:20:40.975859Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42488",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18599/736d219f2a7de2ea-62d70d622997.jpg",
-      "media_identity": "attachment:117471360268089782:736d219f2a7de2ea.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18599/736d219f2a7de2ea-62d70d622997.jpg",
-      "truth_social_id": "117471360268089782",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18599/736d219f2a7de2ea-62d70d622997.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybshwgaosiw",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybshwgaosiw",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18599/736d219f2a7de2ea-62d70d622997.jpg",
-        "createdAt": "2026-10-20T07:10:43.729567Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18599/736d219f2a7de2ea-62d70d622997.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicoimqlivyccrjmtmgkkxnagmgwi43qio4d2wq2lngo5xzw5cizaq"
-                },
-                "mimeType": "image/jpeg",
-                "size": 53599
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 986,
-                "height": 268
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybshwgaosiw",
-          "rkey": "3mybshwgaosiw"
-        }
-      ]
-    },
     "truth:117471361001952422": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16963,6 +16893,24 @@
       "source_fingerprint": "fp:Congressman Derek Schmidt is an incredible Representative of Kansas' 2nd Congressional District!\n \nA Fifth Generation Kansan, Derek served as State At",
       "media_identity": "attachment:117541862295461941:",
       "translation": "カンザス州第2選挙区の下院議員デレク・シュミットは素晴らしい代表だ！\n\nシュミットは第5世代のカンザス州民で、下院議員になる前は12年間州司法長官を務めた。彼は下院で尊敬される傑出した政治家である。議会では、我々の偉大な農民とアメリカ農業を支援し、税制と規制を削減し、アメリカのエネルギー支配を解放し、我々の国境をしっかり守り、移民犯罪を阻止し、軍隊と退役軍人を強化し、常に攻撃にさらされている我々の第2修正条項を守るために、たゆまなく戦っている。\n\nシュミットの対立候補であるドン・クーバーは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する過激左翼民主党員だ。もし彼と民主党員が権力を握ったら、これらはすべて廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツへの男性の参加、そして子どもへの性転換医療を望んでいる。ドン・クーバーは無謀で、過激で、危険だ！\n\nデレク・シュミットは再選に向けて私の完全かつ全面的な支持を得ている。投票に行ってデレクに投票するのだ――彼は決してお前たちを失望させることはない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/kansas/"
+    },
+    "truth:117541863279659655": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43097",
+      "source_text": "<p>Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!<br /> <br />A fifth generation Farmer, Tracey is a strong and effective Voice for American Agriculture. In Congress, he is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Tracey Mann has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR TRACEY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kansas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kansas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sun, 01 Nov 2026 15:21:37 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T17:20:39.364841Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43097",
+      "first_seen": "2026-11-01T16:50:35.528387Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!\n \nA fifth generation F",
+      "truth_social_id": "117541863279659655",
+      "source_fingerprint": "fp:Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!\n \nA fifth generation F",
+      "media_identity": "attachment:117541863279659655:",
+      "translation": "トレーシー・マン下院議員は、カンザス州の素晴らしい「ビッグ・ファースト」選挙区の国民のための素晴らしい代表だ！\n\n5代目の農家であるトレーシーは、アメリカ農業のための強力で効果的な声だ。下院議員として、彼は減税と規制緩和、米国製品の推進、アメリカのエネルギー支配の解放、国境の安全保障、軍隊と退役軍人の強化、そして常に攻撃にさらされている修正第2条の保護のために、たゆまず戦っている。\n\nトレーシー・マンは再選に向けて、私の完全かつ全面的な支持を得ている。トレーシーに投票するために投票に行け — 彼は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/kansas/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37617,22 +37565,6 @@
       "published": "Sun, 01 Nov 2026 15:48:43 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T16:50:34.067229Z"
-    },
-    "truth:117541863279659655": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43097",
-      "source_text": "<p>Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!<br /> <br />A fifth generation Farmer, Tracey is a strong and effective Voice for American Agriculture. In Congress, he is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Tracey Mann has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR TRACEY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/kansas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kansas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sun, 01 Nov 2026 15:21:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T16:55:36.466223Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43097",
-      "first_seen": "2026-11-01T16:50:35.528387Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' “Big First” Congressional District!\n \nA fifth generation F",
-      "next_retry_at": "2026-11-01T17:05:36.466239Z",
-      "truth_social_id": "117541863279659655"
     },
     "truth:117541866339909379": {
       "post_status": "RETRY",
