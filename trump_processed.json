@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134635572174687",
-    "https://www.trumpstruth.org/statuses/41083",
-    "fp:Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’\nhttps://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
     "truth:117134598983433487",
     "https://www.trumpstruth.org/statuses/41065",
     "fp:Trump touts largest one-year drop in violent crime in U.S. history: \nhttps://www.washingtontimes.com/news/2026/aug/14/trump-touts-largest-one-year-dro",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43103",
     "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
     "truth:117541969186635758",
-    "https://www.trumpstruth.org/statuses/43102"
+    "https://www.trumpstruth.org/statuses/43102",
+    "fp:Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!\n \nI kno",
+    "truth:117541970492657554",
+    "https://www.trumpstruth.org/statuses/43106"
   ],
   "posts": {
-    "truth:117471407473494348": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42502",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:43:47 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T08:30:42.534824Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42502",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg",
-      "media_identity": "attachment:117471407473494348:bd19dafc0db8cdb6.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg",
-      "truth_social_id": "117471407473494348",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybt5fdypcsu",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybt5fdypcsu",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg",
-        "createdAt": "2026-10-20T08:20:41.076239Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18613/bd19dafc0db8cdb6-c6ea8f9d2c15.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreihvwbzdwzrn3yrvc33ydbxqdpcihpck2a33nrfkadrfjmdu62rvie"
-                },
-                "mimeType": "image/jpeg",
-                "size": 63445
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 986,
-                "height": 302
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybt5fdypcsu",
-          "rkey": "3mybt5fdypcsu"
-        }
-      ]
-    },
     "truth:117471408098918545": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16657,6 +16587,24 @@
       "source_fingerprint": "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
       "media_identity": "attachment:117541969186635758:",
       "translation": "ブレンナ・バードはアイオワ州の素晴らしい司法長官であり、私は2016年、2020年、2024年にこの州で大勝利を収めた大好きな場所だ！\n\n最初からずっと我々と共にいる真のMAGA戦士であるブレンナは、法と秩序を確保し、法執行機関の英雄たちを支援し、軍と退役軍人を強く支持するために必要な英知と勇気を知っている。ブレンナはまた、経済成長を支援し、素晴らしい農家と牧場経営者を推進し、選挙の完全性を前進させ、移民犯罪を止め、男性が女性スポーツに参加するのを防ぎ、常に圧力を受けている私たちの憲法修正第2条を保護することに絶えず力を入れている。\n\nブレンナ・バードは再選に向けて私の完全で絶対的な支持を得ている。ブレンナに投票するために投票所に行こう――彼女は決してあなたを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/iowa/"
+    },
+    "truth:117541970492657554": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43106",
+      "source_text": "<p>Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!<br /> <br />I know Ashley well, and she is a WINNER! A Loving Wife and Proud Mother of two sons, Ashley is a wonderful person, and has ALWAYS delivered for Iowa. Her opponent, Josh Turek, is a Radical Left Maniac who wants to massively raise your Taxes, take a giant cut out of your Social Security check, open your Borders, and let millions of Illegal Aliens loot, rob, and kill in our Country. As a Member of the Iowa State House, Turek voted for Transgender insanity in Iowa schools, and missed nearly 60% of his legislative votes — Lazy Senators don't play well in Iowa! Josh Turek is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, Ashley will continue delivering for Iowa in the United States Senate. She is working hard to Create Jobs, Cut Taxes, Promote Products and Services MADE IN AMERICA by our incredible Iowa Workers, Support our Great Farmers and American Agriculture, Champion Innovation, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Ashley Hinson has my Complete and Total Endorsement to be the next United States Senator from the Great State of Iowa. GET OUT AND VOTE FOR ASHLEY — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sun, 01 Nov 2026 15:48:53 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T18:05:41.050210Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43106",
+      "first_seen": "2026-11-01T16:55:41.138264Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!\n \nI kno",
+      "truth_social_id": "117541970492657554",
+      "source_fingerprint": "fp:Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!\n \nI kno",
+      "media_identity": "attachment:117541970492657554:",
+      "translation": "アイオワ州の連邦議会下院議員アシュリー・ヒンソンが米国上院議員選挙に立候補している。私が愛し、2016年、2020年、2024年に3度も大勝した州だ！\n\nアシュリーのことはよく知っている。彼女は勝者だ！愛する妻であり、二人の息子を持つ誇り高き母親であるアシュリーは素晴らしい人物であり、アイオワのために常に成果を上げてきた。彼女の対立候補ジョシュ・ターレックは、あなたの税金を大幅に引き上げたい、あなたの社会保障給付から巨大な削減をしたい、国境を開放したい、そして何百万人もの不法移民が我が国で略奪、強盗、殺人を行うことを許したいという過激左翼の狂人だ。アイオワ州議会議員としてターレックはアイオワ州の学校でのトランスジェンダーの狂気に投票し、立法投票の60%近くを欠席した──怠け者の議員はアイオワでは受け入れられない！ジョシュ・ターレックは無責任で過激で危険だ！\n\n一方、アシュリーは米国上院でアイオワのための成果を上げ続けるだろう。彼女は雇用創出、減税、アメリカ製品とアイオワの素晴らしい労働者による米国製サービスの促進、偉大な農家と米国農業の支援、革新の擁護、国境の厳格な保全、移民犯罪・殺人犯・その他の犯罪者の不法入国阻止、軍・退役軍人の強化、そして常に脅威にさらされている合衆国憲法修正第2条の防衛のために懸命に取り組んでいる。\n\nアシュリー・ヒンソンは、偉大なアイオワ州の次期米国上院議員となるという私の完全かつ全面的な支持を得ている。投票に行ってアシュリーに投票しろ──彼女はあなたを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/iowa/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37311,22 +37259,6 @@
       "published": "Sun, 01 Nov 2026 15:48:43 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T16:50:34.067229Z"
-    },
-    "truth:117541970492657554": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43106",
-      "source_text": "<p>Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!<br /> <br />I know Ashley well, and she is a WINNER! A Loving Wife and Proud Mother of two sons, Ashley is a wonderful person, and has ALWAYS delivered for Iowa. Her opponent, Josh Turek, is a Radical Left Maniac who wants to massively raise your Taxes, take a giant cut out of your Social Security check, open your Borders, and let millions of Illegal Aliens loot, rob, and kill in our Country. As a Member of the Iowa State House, Turek voted for Transgender insanity in Iowa schools, and missed nearly 60% of his legislative votes — Lazy Senators don't play well in Iowa! Josh Turek is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, Ashley will continue delivering for Iowa in the United States Senate. She is working hard to Create Jobs, Cut Taxes, Promote Products and Services MADE IN AMERICA by our incredible Iowa Workers, Support our Great Farmers and American Agriculture, Champion Innovation, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Ashley Hinson has my Complete and Total Endorsement to be the next United States Senator from the Great State of Iowa. GET OUT AND VOTE FOR ASHLEY — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sun, 01 Nov 2026 15:48:53 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T17:05:33.960146Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43106",
-      "first_seen": "2026-11-01T16:55:41.138264Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024!\n \nI kno",
-      "next_retry_at": "2026-11-01T17:15:33.960159Z",
-      "truth_social_id": "117541970492657554"
     },
     "truth:117541971048661320": {
       "post_status": "RETRY",
