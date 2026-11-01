@@ -37317,24 +37317,36 @@
       "updated_at": "2026-11-01T16:50:34.067229Z"
     },
     "truth:117542639036452664": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/43111",
       "source_text": "<p>Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate! Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled. Haley said what few people are willing to say. She showed great and almost unprecedented loyalty to the Great People of Michigan with what she did. It’s a thing called bravery, and few people have it like just displayed by Congresswoman Haley Stevens! President DONALD J. TRUMP</p>",
       "published": "Sun, 01 Nov 2026 18:38:54 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-01T18:50:33.017498Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43111"
+      "retry_count": 1,
+      "updated_at": "2026-11-01T19:05:37.367522Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43111",
+      "first_seen": "2026-11-01T19:05:37.367482Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has be",
+      "next_retry_at": "2026-11-01T19:10:37.367532Z",
+      "truth_social_id": "117542639036452664"
     },
     "truth:117542669978421205": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/43113",
       "source_text": "<p>I have just been informed by the Great Attorney General of Kansas, Kris Kobach, that a Radical Left PAC operative was caught on camera going door to door in Wichita offering gift cards to people for votes. We have photographic evidence. This is a Criminal Offense! Press release attached. If any members of the Public have any information, please notify Attorney General Kris Kobach’s Office, immediately: 785-296-2215. Thank you for your attention to this matter! President DONALD J. TRUMP</p><p>PRESS RELEASE: Kobach Orders Bluestem Kansas to Cease and Desist Offering Gift Cards to Voters:<br /><a href=\"https://www.forth.news/lists/ksoag/CgbFYh6E5mjCLWCwCYyzM\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">forth.news/lists/ksoag/CgbFYh6</span><span class=\"invisible\">E5mjCLWCwCYyzM</span></a></p>",
       "published": "Sun, 01 Nov 2026 18:46:47 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-01T18:50:33.017332Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43113"
+      "retry_count": 1,
+      "updated_at": "2026-11-01T19:05:38.069262Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43113",
+      "first_seen": "2026-11-01T19:05:38.069224Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I have just been informed by the Great Attorney General of Kansas, Kris Kobach, that a Radical Left PAC operative was caught on camera going door to d",
+      "next_retry_at": "2026-11-01T19:10:38.069273Z",
+      "truth_social_id": "117542669978421205"
     }
   }
 }
