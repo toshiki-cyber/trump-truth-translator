@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134600045602327",
-    "https://www.trumpstruth.org/statuses/41064",
-    "fp:Trump says he’ll declare Strait of Hormuz a US territory after defeating Iran, during Long Island rally: \nhttps://nypost.com/2026/08/14/us-news/trump-",
     "truth:117134622109680955",
     "https://www.trumpstruth.org/statuses/41087",
     "fp:Trump Rallies For Blakeman, Celebrates Law Enforcement During LI Visit: 'Golden Age Of America Is Upon Us': \nhttps://patch.com/new-york/longisland/tru",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43094",
     "fp:Senator Roger Marshall is one of the Best Senators in the United States of America. He loves Kansas more than anyone, with the possible exception of m",
     "truth:117541869662412381",
-    "https://www.trumpstruth.org/statuses/43096"
+    "https://www.trumpstruth.org/statuses/43096",
+    "fp:🚨 KANSAS!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Kansas. Whether you VOTE early, absentee, by mail, or in-person, Republican",
+    "truth:117541871955844280",
+    "https://www.trumpstruth.org/statuses/43095"
   ],
   "posts": {
-    "truth:117471361607280244": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42486",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:32:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T07:40:40.716249Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42486",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-      "media_identity": "attachment:117471361607280244:b496484629a6a783.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-      "truth_social_id": "117471361607280244",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybsijvuqkko",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg",
-        "createdAt": "2026-10-20T07:30:41.599713Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18597/b496484629a6a783-bf2c52e05a6f.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicjtmpf6taobn4y7xej7zn7fyfq3o737mfy6hyzvvmzsdalzyfbve"
-                },
-                "mimeType": "image/jpeg",
-                "size": 33971
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 986,
-                "height": 268
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybsijvuqkko",
-          "rkey": "3mybsijvuqkko"
-        }
-      ]
-    },
     "truth:117471363594788735": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16861,6 +16791,24 @@
       "source_fingerprint": "fp:Senator Roger Marshall is one of the Best Senators in the United States of America. He loves Kansas more than anyone, with the possible exception of m",
       "media_identity": "attachment:117541869662412381:",
       "translation": "ロジャー・マーシャル上院議員は、アメリカ合衆国で最高の上院議員の一人である。彼はカンザスをこよなく愛している。ただし、私ほどではないかもしれないが！\n\nロジャーは、カンザス州民とアメリカ合衆国上院を支配しようとする共産主義者の間に立ちふさがる唯一の存在である。彼の対立候補アダム・ハミルトンは、自分の真の姿をカンザス州民に伝える勇気がないため、中道派のふりをしている急進左派の詐欺師である。ハミルトンは、テロリストと過激派を我が国から排除するための私の入国禁止令に反対し、地球上で最も危険な場所からの審査なき難民でカンザスを溢れさせることを支持し、銃を奪うことを望んでいる。彼はNRAから「F」の評価を受けている。また、彼は今や有名になった児童虐待者について、本来は報告すべきだったのに報告していない。アダム・ハミルトンは、カンザス州民の価値観とは相いれない急進左派の狂気じみた民主党員である！\n\n一方、アダム・ハミルトンと異なり、ロジャーはNRAとカンザス農業局から支持されている。彼は低い税金、規制の削減、繁栄するカンザスの石油・ガス産業、そして不法移民をゼロにするために投票する！私の政権と協力して、ロジャーはボンバルディア社から2億7000万ドルの投資をもたらすのを助け、数千のアメリカ人の雇用を創出した。\n\nロジャー・マーシャルは再選のために私の完全かつ全面的な支持を受けている。投票に行ってロジャーに投票しろ。彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/kansas/"
+    },
+    "truth:117541871955844280": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43095",
+      "source_text": "<p>🚨 KANSAS!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Kansas. Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Kansas, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/kansas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kansas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sun, 01 Nov 2026 15:23:50 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T17:35:34.863479Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43095",
+      "first_seen": "2026-11-01T16:50:36.560999Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:🚨 KANSAS!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Kansas. Whether you VOTE early, absentee, by mail, or in-person, Republican",
+      "truth_social_id": "117541871955844280",
+      "source_fingerprint": "fp:🚨 KANSAS!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Kansas. Whether you VOTE early, absentee, by mail, or in-person, Republican",
+      "media_identity": "attachment:117541871955844280:",
+      "translation": "🚨 カンザス州！\n\n素晴らしいカンザス州では現在、期日前投票（投票所での投票）が行われている。期日前投票、不在者投票、郵便投票、投票日の投票のいずれであっても、共和党員は過激派左翼の民主党員を圧倒的な投票率で打ちのめさなければならない！カンザス州では11月2日まで、投票所での期日前投票を行うことができる。極めて重要だ—投票に行ってくれ。MAGA！ドナルド・J・トランプ大統領\n\n投票所を検索：\nhttps://swampthevoteusa.com/kansas/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37515,22 +37463,6 @@
       "published": "Sun, 01 Nov 2026 15:48:43 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T16:50:34.067229Z"
-    },
-    "truth:117541871955844280": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43095",
-      "source_text": "<p>🚨 KANSAS!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Kansas. Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Kansas, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/kansas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/kansas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sun, 01 Nov 2026 15:23:50 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T16:55:37.558698Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43095",
-      "first_seen": "2026-11-01T16:50:36.560999Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:🚨 KANSAS!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Kansas. Whether you VOTE early, absentee, by mail, or in-person, Republican",
-      "next_retry_at": "2026-11-01T17:05:37.558713Z",
-      "truth_social_id": "117541871955844280"
     },
     "truth:117541966302675904": {
       "post_status": "RETRY",
