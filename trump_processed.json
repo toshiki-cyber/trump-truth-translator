@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134439935650398",
-    "https://www.trumpstruth.org/statuses/41059",
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
     "truth:117134444832067768",
     "https://www.trumpstruth.org/statuses/41057",
     "truth:117134446457656698",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43067",
     "fp:https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments",
     "truth:117539069831120488",
-    "https://www.trumpstruth.org/statuses/43092"
+    "https://www.trumpstruth.org/statuses/43092",
+    "fp:https://events.gop.com/events/midterm-rally-in-dubuque-iowa-president-donald-j-trump-djt47-iahttps://truth-archive.us-iad-1.linodeobjects.com/attachme",
+    "truth:117539072419901096",
+    "https://www.trumpstruth.org/statuses/43093"
   ],
   "posts": {
-    "truth:117471357170544761": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42493",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:30:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-20T06:45:37.984450Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42493",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg",
-      "media_identity": "attachment:117471357170544761:c8cd947c60f32f7e.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg",
-      "truth_social_id": "117471357170544761",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18604/c8cd947c60f32f7e-23cd81c37369.jpg"
-    },
     "truth:117471357743666922": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16959,6 +16943,22 @@
       "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments",
       "truth_social_id": "117539069831120488",
       "translation": "https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18809/0c81dda5687b1622-0fe3d0c01e9b.jpg"
+    },
+    "truth:117539072419901096": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43093",
+      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-dubuque-iowa-president-donald-j-trump-djt47-ia\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-dubuque-iowa-president-donald-j-trump-djt47-ia</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18810/04fc908ae3fc784f-aa97859780fa.jpg\">View image</a></p>",
+      "published": "Sun, 01 Nov 2026 03:31:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-01T04:55:35.554563Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43093",
+      "source_fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-dubuque-iowa-president-donald-j-trump-djt47-iahttps://truth-archive.us-iad-1.linodeobjects.com/attachme",
+      "media_identity": "attachment:117539072419901096:04fc908ae3fc784f.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-dubuque-iowa-president-donald-j-trump-djt47-iahttps://truth-archive.us-iad-1.linodeobjects.com/attachme",
+      "truth_social_id": "117539072419901096",
+      "translation": "https://events.gop.com/events/midterm-rally-in-dubuque-iowa-president-donald-j-trump-djt47-iahttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18810/04fc908ae3fc784f-aa97859780fa.jpg"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37604,16 +37604,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-01T03:10:41.043425Z"
-    },
-    "truth:117539072419901096": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43093",
-      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-dubuque-iowa-president-donald-j-trump-djt47-ia\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-dubuque-iowa-president-donald-j-trump-djt47-ia</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18810/04fc908ae3fc784f-aa97859780fa.jpg\">View image</a></p>",
-      "published": "Sun, 01 Nov 2026 03:31:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-01T04:50:37.287385Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43093"
     }
   }
 }
