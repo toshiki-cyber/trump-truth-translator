@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134633473478901",
-    "https://www.trumpstruth.org/statuses/41085",
-    "fp:Key House caucus leaders target Supreme Court, Senate filibuster: \nhttps://www.politico.com/live-updates/2026/06/24/congress/dem-caucuses-target-scotu",
     "truth:117134635572174687",
     "https://www.trumpstruth.org/statuses/41083",
     "fp:Trump Touts Stranglehold on Iran: ‘Praise Be to Allah!’\nhttps://www.breitbart.com/politics/2026/08/12/trump-touts-stranglehold-iran-praise-be-allah/",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43107",
     "fp:Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!\n \nA distinguished M",
     "truth:117541968606119687",
-    "https://www.trumpstruth.org/statuses/43103"
+    "https://www.trumpstruth.org/statuses/43103",
+    "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
+    "truth:117541969186635758",
+    "https://www.trumpstruth.org/statuses/43102"
   ],
   "posts": {
-    "truth:117471406675997939": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42503",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18614/14862587fbacee93-3b5a0914dfd8.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 04:43:35 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T08:25:39.792370Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42503",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18614/14862587fbacee93-3b5a0914dfd8.jpg",
-      "media_identity": "attachment:117471406675997939:14862587fbacee93.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18614/14862587fbacee93-3b5a0914dfd8.jpg",
-      "truth_social_id": "117471406675997939",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18614/14862587fbacee93-3b5a0914dfd8.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybt4zqmw2ke",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mybt4zqmw2ke",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18614/14862587fbacee93-3b5a0914dfd8.jpg",
-        "createdAt": "2026-10-20T08:16:01.545107Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18614/14862587fbacee93-3b5a0914dfd8.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiagk6mnjqziuomzi4jvcbjyuakz632ndtns5fmcc4opcexob6mulm"
-                },
-                "mimeType": "image/jpeg",
-                "size": 65940
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 986,
-                "height": 388
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybt4zqmw2ke",
-          "rkey": "3mybt4zqmw2ke"
-        }
-      ]
-    },
     "truth:117471407473494348": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16709,6 +16639,24 @@
       "source_fingerprint": "fp:Congresswoman Mariannette Miller-Meeks is an incredibly strong advocate for the Great People of Iowa's 1st Congressional District!\n \nA distinguished M",
       "media_identity": "attachment:117541968606119687:",
       "translation": "マリアネット・ミラー・ミークス下院議員は、アイオワ州第1選挙区の素晴らしい人々の為に信じられないほど強力に主張する人物だ！\n\n医学博士であり米陸軍退役軍人であるマリアネットは、我が国を守り、勇敢な軍人・退役軍人を支援し、「力による平和」を確保するために必要なアメリカ・ファースト政策を熟知している。議会では、マリアネットは経済成長、減税・規制緩和、素晴らしい農民・牧場経営者への支援、「米国製」の推進、米国のエネルギー支配の維持、国境の厳格な管理、移民犯罪の阻止、そして常に攻撃にさらされている修正第2条の防衛に懸命に取り組んでいる。\n\nマリアネットの対立候補であるクリスティーナ・ボハナンは、チップへの課税なし、残業代への課税なし、社会保障への課税なしに反対する過激左翼民主党員だ。彼女と民主党員たちが権力を握ったら、これらすべてのものは廃止されるだろう。彼女は大幅な増税、国境開放、女性スポーツへの男性選手参加、そしてお前たちの子どもたちへのトランスジェンダー変性を望んでいる。クリスティーナ・ボハナンは無責任で、過激で、危険だ！\n\nマリアネット・ミラー・ミークスは再選に向けて、私の完全かつ全面的な支持を得ている。マリアネットに投票するために今すぐ投票所に行け――彼女は絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領より\nhttps://swampthevoteusa.com/iowa/"
+    },
+    "truth:117541969186635758": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43102",
+      "source_text": "<p>Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!<br /> <br />A true MAGA Warrior, who has been with us from the very beginning, Brenna knows the Wisdom and Courage it takes to ensure LAW AND ORDER, advocate for our Heroes in Law Enforcement, and strongly support our Military and Veterans. Brenna is also relentlessly focused on helping us to Grow the Economy, Promote our Amazing Farmers and Ranchers, Advance Election Integrity, Stop Migrant Crime, Keep Men out of Women's Sports, and Protect our always under siege Second Amendment.<br /> <br />Brenna Bird has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BRENNA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sun, 01 Nov 2026 15:48:33 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T18:00:38.700786Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43102",
+      "first_seen": "2026-11-01T16:55:40.319694Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
+      "truth_social_id": "117541969186635758",
+      "source_fingerprint": "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
+      "media_identity": "attachment:117541969186635758:",
+      "translation": "ブレンナ・バードはアイオワ州の素晴らしい司法長官であり、私は2016年、2020年、2024年にこの州で大勝利を収めた大好きな場所だ！\n\n最初からずっと我々と共にいる真のMAGA戦士であるブレンナは、法と秩序を確保し、法執行機関の英雄たちを支援し、軍と退役軍人を強く支持するために必要な英知と勇気を知っている。ブレンナはまた、経済成長を支援し、素晴らしい農家と牧場経営者を推進し、選挙の完全性を前進させ、移民犯罪を止め、男性が女性スポーツに参加するのを防ぎ、常に圧力を受けている私たちの憲法修正第2条を保護することに絶えず力を入れている。\n\nブレンナ・バードは再選に向けて私の完全で絶対的な支持を得ている。ブレンナに投票するために投票所に行こう――彼女は決してあなたを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/iowa/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37363,22 +37311,6 @@
       "published": "Sun, 01 Nov 2026 15:48:43 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T16:50:34.067229Z"
-    },
-    "truth:117541969186635758": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43102",
-      "source_text": "<p>Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!<br /> <br />A true MAGA Warrior, who has been with us from the very beginning, Brenna knows the Wisdom and Courage it takes to ensure LAW AND ORDER, advocate for our Heroes in Law Enforcement, and strongly support our Military and Veterans. Brenna is also relentlessly focused on helping us to Grow the Economy, Promote our Amazing Farmers and Ranchers, Advance Election Integrity, Stop Migrant Crime, Keep Men out of Women's Sports, and Protect our always under siege Second Amendment.<br /> <br />Brenna Bird has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BRENNA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/iowa/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/iowa/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sun, 01 Nov 2026 15:48:33 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T17:05:33.647195Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43102",
-      "first_seen": "2026-11-01T16:55:40.319694Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Brenna Bird has been a tremendous Attorney General of Iowa, a place I love and WON BIG in 2016, 2020, and 2024!\n \nA true MAGA Warrior, who has been wi",
-      "next_retry_at": "2026-11-01T17:15:33.647210Z",
-      "truth_social_id": "117541969186635758"
     },
     "truth:117541970492657554": {
       "post_status": "RETRY",
