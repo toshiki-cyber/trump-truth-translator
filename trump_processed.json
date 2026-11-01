@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41033",
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129931396749934",
-    "truth:117129933367951405",
     "https://www.trumpstruth.org/statuses/41031",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129934429426476",
     "truth:117129936834321487",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43088",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18806/ed51f7b8a7aa245f-763ea01d7283.jpg",
     "truth:117537954946499099",
-    "https://www.trumpstruth.org/statuses/43089"
+    "https://www.trumpstruth.org/statuses/43089",
+    "fp:Congressman Carlos Gimenez is doing a fantastic job representing Florida's 28th Congressional District!\n \nA Highly Respected Firefighter, Civic Leader",
+    "truth:117537113659146758",
+    "https://www.trumpstruth.org/statuses/43086"
   ],
   "posts": {
-    "truth:117470600629608396": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42459",
-      "source_text": "<p>We abolished all discriminatory “Diversity, Equity, and Inclusion” policies throughout the Federal Government. We got Critical Race Theory and Transgender insanity out of our Schools, and we made ENGLISH the Official Language of the United States! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 01:18:36 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T04:40:34.149374Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42459",
-      "first_seen": "2026-10-20T03:05:38.900189Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:We abolished all discriminatory “Diversity, Equity, and Inclusion” policies throughout the Federal Government. We got Critical Race Theory and Transge",
-      "truth_social_id": "117470600629608396",
-      "source_fingerprint": "fp:We abolished all discriminatory “Diversity, Equity, and Inclusion” policies throughout the Federal Government. We got Critical Race Theory and Transge",
-      "media_identity": "attachment:117470600629608396:",
-      "translation": "我々は連邦政府全体における差別的な「多様性、公平性、包含性」政策をすべて廃止した。学校からは批判的人種理論とトランスジェンダーの狂気を排除し、英語をアメリカ合衆国の公用語にした！大統領ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybhoi7zl2rl",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mybhoi7zl2rl",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "我々は連邦政府全体における差別的な「多様性、公平性、包含性」政策をすべて廃止した。学校からは批判的人種理論とトランスジェンダーの狂気を排除し、英語をアメリカ合衆国の公用語にした！大統領ドナルド・J・トランプ",
-        "createdAt": "2026-10-20T04:30:38.505250Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybhoi7zl2rl",
-          "rkey": "3mybhoi7zl2rl"
-        }
-      ]
-    },
     "truth:117470605435315443": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17211,6 +17175,24 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18806/ed51f7b8a7aa245f-763ea01d7283.jpg",
       "truth_social_id": "117537954946499099",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18806/ed51f7b8a7aa245f-763ea01d7283.jpg"
+    },
+    "truth:117537113659146758": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43086",
+      "source_text": "<p>Congressman Carlos Gimenez is doing a fantastic job representing Florida's 28th Congressional District!<br /> <br />A Highly Respected Firefighter, Civic Leader, and Mayor of Miami-Dade County, prior to becoming a distinguished Congressman, Carlos has dedicated his life to serving his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.<br /> <br />Carlos Gimenez has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR CARLOS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 31 Oct 2026 19:13:44 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T03:20:38.457132Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43086",
+      "first_seen": "2026-11-01T02:55:46.507937Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Carlos Gimenez is doing a fantastic job representing Florida's 28th Congressional District!\n \nA Highly Respected Firefighter, Civic Leader",
+      "truth_social_id": "117537113659146758",
+      "source_fingerprint": "fp:Congressman Carlos Gimenez is doing a fantastic job representing Florida's 28th Congressional District!\n \nA Highly Respected Firefighter, Civic Leader",
+      "media_identity": "attachment:117537113659146758:",
+      "translation": "フロリダ州第28選挙区を代表するカルロス・ヒメネス下院議員は素晴らしい仕事をしている！\n\n高く尊敬される消防士であり、市民指導者であり、マイアミ・デイド郡長を務めた後に傑出した下院議員となったカルロスは、彼のコミュニティへの奉仕に人生を捧げてきた。下院では、彼は経済を成長させ、税制と規制を削減し、アメリカンエネルギーの優位性を解き放ち、アメリカ製を推進し、国境を安全に保ち、移民犯罪を止め、軍と退役軍人を強化し、法と秩序を確保し、常に脅威にさらされている修正第2条を保護するために懸命に働いている。\n\nカルロス・ヒメネスは再選に向けて私の完全かつ絶対的な支持を得ている！カルロスに投票しろ — 彼はお前たちを決して失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37776,22 +37758,6 @@
       "published": "Sat, 31 Oct 2026 19:14:19 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T02:50:32.984233Z"
-    },
-    "truth:117537113659146758": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43086",
-      "source_text": "<p>Congressman Carlos Gimenez is doing a fantastic job representing Florida's 28th Congressional District!<br /> <br />A Highly Respected Firefighter, Civic Leader, and Mayor of Miami-Dade County, prior to becoming a distinguished Congressman, Carlos has dedicated his life to serving his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.<br /> <br />Carlos Gimenez has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR CARLOS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 31 Oct 2026 19:13:44 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T03:05:32.226361Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43086",
-      "first_seen": "2026-11-01T02:55:46.507937Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Carlos Gimenez is doing a fantastic job representing Florida's 28th Congressional District!\n \nA Highly Respected Firefighter, Civic Leader",
-      "next_retry_at": "2026-11-01T03:15:32.226381Z",
-      "truth_social_id": "117537113659146758"
     },
     "truth:117537116926813700": {
       "post_status": "RETRY",
