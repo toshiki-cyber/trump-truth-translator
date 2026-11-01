@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41061",
-    "truth:117134437554179764",
-    "https://www.trumpstruth.org/statuses/41060",
     "truth:117134439935650398",
     "https://www.trumpstruth.org/statuses/41059",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117134443801937584https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43068",
     "fp:Congressman John Rutherford is an incredible Representative for the wonderful People of Florida's 5th Congressional District!\n \nAs the former Sheriff ",
     "truth:117537139270355027",
-    "https://www.trumpstruth.org/statuses/43067"
+    "https://www.trumpstruth.org/statuses/43067",
+    "fp:https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments",
+    "truth:117539069831120488",
+    "https://www.trumpstruth.org/statuses/43092"
   ],
   "posts": {
-    "truth:117471344462712217": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42482",
-      "source_text": "<p>Trump says voters should ‘look at France’ to see ‘what’s at stake’ in midterm elections: <a href=\"https://nypost.com/2026/10/19/us-news/trump-says-voters-should-look-at-france-to-see-whats-at-stake-in-midterm-elections/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nypost.com/2026/10/19/us-news/</span><span class=\"invisible\">trump-says-voters-should-look-at-france-to-see-whats-at-stake-in-midterm-elections/</span></a></p>",
-      "published": "Tue, 20 Oct 2026 04:27:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-20T06:40:45.634193Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42482",
-      "first_seen": "2026-10-20T06:20:31.874210Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump says voters should ‘look at France’ to see ‘what’s at stake’ in midterm elections: \nhttps://nypost.com/2026/10/19/us-news/trump-says-voters-shou",
-      "truth_social_id": "117471344462712217",
-      "source_fingerprint": "fp:Trump says voters should ‘look at France’ to see ‘what’s at stake’ in midterm elections: \nhttps://nypost.com/2026/10/19/us-news/trump-says-voters-shou",
-      "media_identity": "attachment:117471344462712217:",
-      "translation": "トランプは有権者が中間選挙で「何が危機に瀕しているか」を見るために「フランスを見ろ」と述べている：\nhttps://nypost.com/2026/10/19/us-news/trump-says-voters-should-look-at-france-to-see-whats-at-stake-in-midterm-elections/"
-    },
     "truth:117471357170544761": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16961,6 +16943,22 @@
       "source_fingerprint": "fp:Congressman John Rutherford is an incredible Representative for the wonderful People of Florida's 5th Congressional District!\n \nAs the former Sheriff ",
       "media_identity": "attachment:117537139270355027:",
       "translation": "ジョン・ラザフォード下院議員はフロリダ州第5区の素晴らしい人々を代表する信じられないほど優秀な議員だ！\n\nデュバル郡の前保安官であり、現在は高く尊敬される米国下院議員として、ジョンは我々の信じられないほど優秀な法執行機関、軍、そして退役軍人を強く支持し、法と秩序を確保するために必要な英知と勇気を知っている。議会では、彼は国境をセキュアに保つ、移民犯罪を阻止する、経済を成長させる、税金と規制を削減する、米国製を推進する、米国のエネルギー支配をもたらす、選挙を保護する、そして常に脅威にさらされている修正第2条を守るために絶え間なく戦っている。\n\nジョン・ラザフォードは再選に向けて私の完全かつ絶対的な支持を得ている！投票に行ってジョンに投票しろ――彼は決してお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
+    },
+    "truth:117539069831120488": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43092",
+      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-ks\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-ks-president-donald-j-trump-djt47-salina-ks</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18809/0c81dda5687b1622-0fe3d0c01e9b.jpg\">View image</a></p>",
+      "published": "Sun, 01 Nov 2026 03:31:13 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-01T04:50:39.160265Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43092",
+      "source_fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments",
+      "media_identity": "attachment:117539069831120488:0c81dda5687b1622.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments",
+      "truth_social_id": "117539069831120488",
+      "translation": "https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-kshttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18809/0c81dda5687b1622-0fe3d0c01e9b.jpg"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37606,6 +37604,16 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-01T03:10:41.043425Z"
+    },
+    "truth:117539072419901096": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43093",
+      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-dubuque-iowa-president-donald-j-trump-djt47-ia\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-dubuque-iowa-president-donald-j-trump-djt47-ia</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18810/04fc908ae3fc784f-aa97859780fa.jpg\">View image</a></p>",
+      "published": "Sun, 01 Nov 2026 03:31:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-01T04:50:37.287385Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43093"
     }
   }
 }
