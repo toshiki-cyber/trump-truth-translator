@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117122897019429188",
-    "https://www.trumpstruth.org/statuses/41011",
-    "fp:Today I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administrat",
     "truth:117123052590365117",
     "https://www.trumpstruth.org/statuses/41013",
     "truth:117124383223887727",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43035",
     "fp:Congressman Aaron Bean is a Tremendous Champion for Florida's 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
     "truth:117537139967650855",
-    "https://www.trumpstruth.org/statuses/43066"
+    "https://www.trumpstruth.org/statuses/43066",
+    "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida's 3rd Congressional District!\n \nIn Congress, Kat is wo",
+    "truth:117537140530720832",
+    "https://www.trumpstruth.org/statuses/43065"
   ],
   "posts": {
-    "truth:117470368203080253": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42450",
-      "source_text": "<p>15 days from now, the People of Kansas are going to RE-ELECT the great ROGER MARSHALL to the United States Senate, elect Ty Masterson as your next Governor, and we are going to WIN a Republican House and a Republican Senate! In this Election, I am asking you to pretend I’m on the Ballot. When I’m on the Ballot, 48% more people show up. Please pretend I’m on the ballot. Early Voting in Kansas is available in many areas RIGHT NOW, and across the State on October 27th. The deadline to request a Mail-In Ballot is also October 27th, and return it by Election Day, November 3rd.  Whatever you do, GET OUT AND VOTE! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 00:19:29 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T01:35:35.017732Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42450",
-      "first_seen": "2026-10-20T01:05:33.751315Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:15 days from now, the People of Kansas are going to RE-ELECT the great ROGER MARSHALL to the United States Senate, elect Ty Masterson as your next Gov",
-      "truth_social_id": "117470368203080253",
-      "source_fingerprint": "fp:15 days from now, the People of Kansas are going to RE-ELECT the great ROGER MARSHALL to the United States Senate, elect Ty Masterson as your next Gov",
-      "media_identity": "attachment:117470368203080253:",
-      "translation": "15日後、カンザス州の国民は偉大なロジャー・マーシャルを合衆国上院に再選し、タイ・マスターソンを次期知事に選出し、我々は共和党の下院と共和党の上院を勝ち取る！この選挙において、私は諸君に私が投票用紙に載っていると思い込んでもらいたい。私が投票用紙に載っている時、48%多くの人々が投票に現れる。私が投票用紙に載っていると思い込んでもらいたい。カンザス州の期日前投票は多くの地域で今すぐ利用でき、州全体では10月27日に利用できる。郵便投票用紙の請求期限も10月27日であり、選挙日の11月3日までに返送すること。何はともあれ、投票に行け！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybeerxyrcbo",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mybeerxyrcbo",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "15日後、カンザス州の国民は偉大なロジャー・マーシャルを合衆国上院に再選し、タイ・マスターソンを次期知事に選出し、我々は共和党の下院と共和党の上院を勝ち取る！この選挙において、私は諸君に私が投票用紙に載っていると思い込んでもらいたい。私が投票用紙に載っている時、48%多くの人々が投票に現れる。私が投票用紙に載っていると思い込んでもらいたい。カンザス州の期日前投票は多くの地域で今すぐ利用でき、州全体では10月27日に利用できる。郵便投票用紙の請求期限も10月27日であり、選挙日の11月3日までに返送すること。何はともあれ、投票に行け！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-20T01:25:42.852009Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mybeerxyrcbo",
-          "rkey": "3mybeerxyrcbo"
-        }
-      ]
-    },
     "truth:117470395373605336": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -17271,6 +17235,24 @@
       "source_fingerprint": "fp:Congressman Aaron Bean is a Tremendous Champion for Florida's 4th Congressional District!\n \nAs a Member of the POWERFUL Ways & Means Committee, Aaron ",
       "media_identity": "attachment:117537139967650855:",
       "translation": "エアロン・ビーン下院議員はフロリダ州第4選挙区の素晴らしいチャンピオンである！\n\n強力な下院歳入委員会のメンバーとして、エアロンは素晴らしい雇用を創出し、減税と規制緩和を実現し、アメリカ製を推進し、アメリカのエネルギー支配力を解放し、わが国の黄金期を実現するために必要なアメリカ第一主義政策を理解している。また、国境を厳重に守り、移民犯罪を阻止し、法と秩序を確保し、勇敢な軍隊と退役軍人を強化し、常に攻撃にさらされている憲法修正第2条を守るために懸命に取り組んでいる。\n\nエアロン・ビーンは再選に向けて私の完全かつ全面的な支持を得ている。エアロンに投票に行こう―彼はあなたを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
+    },
+    "truth:117537140530720832": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43065",
+      "source_text": "<p>Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida's 3rd Congressional District!<br /> <br />In Congress, Kat is working tirelessly to Grow our Economy, Cut Taxes, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Ranchers, Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Kat Cammack has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR KAT — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Sat, 31 Oct 2026 19:20:34 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-01T01:15:37.290909Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43065",
+      "first_seen": "2026-11-01T00:50:38.567317Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida's 3rd Congressional District!\n \nIn Congress, Kat is wo",
+      "truth_social_id": "117537140530720832",
+      "source_fingerprint": "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida's 3rd Congressional District!\n \nIn Congress, Kat is wo",
+      "media_identity": "attachment:117537140530720832:",
+      "translation": "フロリダ州第3選挙区の素晴らしい国民を代表するキャット・キャマック下院議員は、素晴らしい仕事をしている！\n\nキャットは議会で、経済成長、減税、米国製品の推進、素晴らしい農民と牧場主への支援、米国のエネルギー支配力の解放、国境の厳重な警備、軍隊と退役軍人の擁護、常に攻撃を受けている第二修正条項の保護のために、休む間もなく取り組んでいる。\n\nキャット・キャマックは、再選に向けて私の完全かつ全面的な支持を得ている！投票に行ってキャットに投票しろ - 彼女は絶対に君たちを失望させない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/florida/"
     },
     "truth:117537495738365453": {
       "post_status": "DISCOVERED",
@@ -37857,22 +37839,6 @@
       "published": "Sat, 31 Oct 2026 19:22:00 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-01T00:50:37.146321Z"
-    },
-    "truth:117537140530720832": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43065",
-      "source_text": "<p>Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida's 3rd Congressional District!<br /> <br />In Congress, Kat is working tirelessly to Grow our Economy, Cut Taxes, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Ranchers, Unleash American Energy DOMINANCE, Keep our Border SECURE, Champion our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Kat Cammack has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR KAT — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 31 Oct 2026 19:20:34 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-01T00:55:46.340000Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43065",
-      "first_seen": "2026-11-01T00:50:38.567317Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congresswoman Kat Cammack is doing a fantastic job representing the wonderful people of Florida's 3rd Congressional District!\n \nIn Congress, Kat is wo",
-      "next_retry_at": "2026-11-01T01:05:46.340017Z",
-      "truth_social_id": "117537140530720832"
     },
     "truth:117537141269288695": {
       "post_status": "RETRY",
