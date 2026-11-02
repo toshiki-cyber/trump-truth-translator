@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:116946842010916767",
-    "https://www.trumpstruth.org/statuses/41091",
-    "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
     "truth:117134659039628490",
     "https://www.trumpstruth.org/statuses/41086",
     "fp:Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good",
@@ -5000,69 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43191",
     "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!\n \nAs a former Criminal ",
     "truth:117547824382377816",
-    "https://www.trumpstruth.org/statuses/43190"
+    "https://www.trumpstruth.org/statuses/43190",
+    "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina's 11th Con",
+    "truth:117547825277059014",
+    "https://www.trumpstruth.org/statuses/43189"
   ],
   "posts": {
-    "truth:117475278291502005": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42523",
-      "source_text": "<p>Melania Trump Announces White House Women’s Health Initiative: <a href=\"https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nytimes.com/2026/10/19/us/poli</span><span class=\"invisible\">tics/melania-trump-women-health.html</span></a></p>",
-      "published": "Tue, 20 Oct 2026 21:08:11 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T23:40:37.121658Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42523",
-      "first_seen": "2026-10-20T23:05:35.639412Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Melania Trump Announces White House Women’s Health Initiative: \nhttps://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
-      "truth_social_id": "117475278291502005",
-      "source_fingerprint": "fp:Melania Trump Announces White House Women’s Health Initiative: \nhttps://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
-      "media_identity": "attachment:117475278291502005:",
-      "translation": "メラニア・トランプ、ホワイトハウス女性保健イニシアティブを発表\nhttps://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydk5n63d2as",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mydk5n63d2as",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "メラニア・トランプ、ホワイトハウス女性保健イニシアティブを発表\nhttps://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
-        "createdAt": "2026-10-20T23:30:36.905457Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 94,
-              "byteEnd": 172
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
-            "title": "https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydk5n63d2as",
-          "rkey": "3mydk5n63d2as"
-        }
-      ]
-    },
     "truth:117475293829837494": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16545,6 +16485,24 @@
       "source_fingerprint": "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!\n \nAs a former Criminal ",
       "media_identity": "attachment:117547824382377816:",
       "translation": "ブラッド・ノット下院議員は、ノースカロライナ州第13区議会地区の素晴らしい国民にとって、素晴らしい代表者だ！\n\n元刑事検察官としてのブラッドは、憲法を守り、法と秩序を確保するために必要な英知と勇気を知っている。真のアメリカ第一主義の愛国者であるブラッドは、軍隊を強化し、勇敢な退役軍人をケアし、信じられないほどの警執行機関に立ち上がり、今や非常に安全になった国境を安全に保ち、移民犯罪を止め、経済を成長させ、税金と規制をカットし、米国製を推進し、米国のエネルギー支配を推し進め、常に包囲下にある憲法第2条を守るために、疲れを知らずに戦っている。\n\nブラッドの対立候補、ポール・バリンジャーは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する左翼ラジカル民主党員だ。彼と民主党員たちが権力を握ることがあれば、これらすべてのことが廃止される。彼は、大幅な増税、国境開放、男性による女性スポーツ出場、そして子どもたちのトランスジェンダー変性を望んでいる。ポール・バリンジャーは無謀で、ラジカルで、危険だ！\n\nブラッド・ノットは、再選に対する私の完全かつ完璧な支持を得ている。出かけて投票しろ、ブラッドに投票しろ——彼はお前たちを決して失望させることはない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/north-carolina/"
+    },
+    "truth:117547825277059014": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43189",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina's 11th Congressional District!<br /> <br />A Highly Respected State Representative, Small Business Owner, and Civic Leader, prior to running for Congress, Jennifer has dedicated her life to serving her Community. Her opponent, Jamie Ager, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Jamie Ager is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congresswoman, Jennifer will fight tirelessly to Grow our Economy, Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Strengthen our Brave Military/Veterans, Keep our Border SECURE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jennifer Balkcom has my Complete and Total Endorsement to be the next Representative from North Carolina's 11th Congressional District. GET OUT AND VOTE FOR JENNIFER — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Mon, 02 Nov 2026 16:37:50 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-02T19:25:41.487162Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43189",
+      "first_seen": "2026-11-02T18:50:38.490138Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina's 11th Con",
+      "truth_social_id": "117547825277059014",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina's 11th Con",
+      "media_identity": "attachment:117547825277059014:",
+      "translation": "アメリカ・ファースト愛国者ジェニファー・バルクコムを支持することは、私の大きな名誉だ。彼女はノースカロライナ州第11選挙区の素晴らしい人々を代表するために立候補している。\n\n高く尊敬される州下院議員、小企業所有者、そして市民指導者であるジェニファーは、議会に立候補する前から、彼女の地域に奉仕することに人生を捧げてきた。彼女の対立候補であるジェイミー・エイガーは、チップへの課税廃止、残業代への課税廃止、社会保障への課税廃止に反対する左翼過激派・民主党員だ。もし彼と民主党員らが権力を握ったら、これらはすべて廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツへの男性参加、そしてお前たちの子どもへのトランスジェンダー変性手術を望んでいる。ジェイミー・エイガーは無責任で、過激で、危険だ。\n\n一方、次期下院議員としてジェニファーは、経済成長のために絶え間なく戦い、我々の素晴らしい農民と牧場主を支持し、税金と規制を削減し、アメリカン・エネルギーの支配力を解き放ち、アメリカ製を促進し、我々の勇敢な軍人と退役軍人を強化し、国境をしっかり守り、選挙の安全を確保し、常に包囲されている我々の修正第2条を守るために戦うだろう。\n\nジェニファー・バルクコムはノースカロライナ州第11選挙区の次期下院議員として、私の完全かつ全面的な支持を得ている。ジェニファーに投票するために出かけよう――彼女はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/"
     },
     "truth:117547664848381013": {
       "post_status": "DISCOVERED",
@@ -37781,22 +37739,6 @@
       "published": "Mon, 02 Nov 2026 16:36:46 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-02T17:20:33.222863Z"
-    },
-    "truth:117547825277059014": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43189",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina's 11th Congressional District!<br /> <br />A Highly Respected State Representative, Small Business Owner, and Civic Leader, prior to running for Congress, Jennifer has dedicated her life to serving her Community. Her opponent, Jamie Ager, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Jamie Ager is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congresswoman, Jennifer will fight tirelessly to Grow our Economy, Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Strengthen our Brave Military/Veterans, Keep our Border SECURE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jennifer Balkcom has my Complete and Total Endorsement to be the next Representative from North Carolina's 11th Congressional District. GET OUT AND VOTE FOR JENNIFER — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Mon, 02 Nov 2026 16:37:50 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-02T19:00:43.256587Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43189",
-      "first_seen": "2026-11-02T18:50:38.490138Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina's 11th Con",
-      "next_retry_at": "2026-11-02T19:10:43.256602Z",
-      "truth_social_id": "117547825277059014"
     },
     "truth:117547826178101076": {
       "post_status": "RETRY",
