@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy: \nhttps://www.dailywire.com/news/economic-d-day-trump-announc",
-    "truth:117134651908743307",
-    "https://www.trumpstruth.org/statuses/41097",
     "fp:Trump’s Golden Dome Moves from Vision to Reality: \nhttps://amac.us/newsline/trump-s-golden-dome-moves-from-vision-to-reality",
     "truth:117134654816697655",
     "https://www.trumpstruth.org/statuses/41094",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43187",
     "fp:Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!\n \nMark has a strong Rec",
     "truth:117547828027910491",
-    "https://www.trumpstruth.org/statuses/43186"
+    "https://www.trumpstruth.org/statuses/43186",
+    "fp:Congressman David Rouzer is a terrific Representative for the incredible people of North Carolina's 7th Congressional District!\n \nA Proven Leader, Dav",
+    "truth:117547828588967534",
+    "https://www.trumpstruth.org/statuses/43185"
   ],
   "posts": {
-    "truth:117474337843871362": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42515",
-      "source_text": "<p>Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in our Country’s History, I have spent, or will be spending, over 400 Million Dollars by Election Day. More than 300 Million Dollars has already been spent on Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity, and more. It is my Great Honor to do so on behalf of the Republican Party, which has done so much to bring our Country back from the Edge of Oblivion. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
-      "published": "Tue, 20 Oct 2026 17:09:01 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T19:35:39.198794Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42515",
-      "first_seen": "2026-10-20T19:05:35.593483Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, ",
-      "truth_social_id": "117474337843871362",
-      "source_fingerprint": "fp:Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, ",
-      "media_identity": "attachment:117474337843871362:",
-      "translation": "共和党に対する私の信念、そして私たちのあらゆる政策と原則、特にフランスおよびヨーロッパ全域で起きていることを目撃した後、私は喜んで発表する。わが国の歴史において最も重要な中間選挙に関連して、投票日までに4億ドル以上を支出したか、支出することになる。既に3億ドル以上が広告、直接および間接的な有権者接触、集会、集会会場、テレラリー、投票促進プログラム、選挙の完全性などに支出されている。わが国を破滅の縁から取り戻すために多大な貢献をしてきた共和党を代表してこうすることは、私にとって大きな栄誉である。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myd4rxtzm2au",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myd4rxtzm2au",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "共和党に対する私の信念、そして私たちのあらゆる政策と原則、特にフランスおよびヨーロッパ全域で起きていることを目撃した後、私は喜んで発表する。わが国の歴史において最も重要な中間選挙に関連して、投票日までに4億ドル以上を支出したか、支出することになる。既に3億ドル以上が広告、直接および間接的な有権者接触、集会、集会会場、テレラリー、投票促進プログラム、選挙の完全性などに支出されている。わが国を破滅の縁から取り戻すために多大な貢献をしてきた共和党を代表してこうすることは、私にとって大きな栄誉である。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-20T19:25:45.230913Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myd4rxtzm2au",
-          "rkey": "3myd4rxtzm2au"
-        }
-      ]
-    },
     "truth:117474902194097867": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16665,6 +16629,24 @@
       "source_fingerprint": "fp:Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!\n \nMark has a strong Rec",
       "media_identity": "attachment:117547828027910491:",
       "translation": "マーク・ハリス下院議員は、ノースカロライナ州第8区の素晴らしい人々のための傑出した代表者だ！\n\nマークは強力な成功の実績を持ち、コミュニティからの説得力のある支持を受けている。下院では、彼は我々の素晴らしい農民と牧畜業者を支援し、経済を成長させ、税金と規制を削減し、アメリカンエネルギーの支配を進め、現在非常に安全になった国境を確保する状態を維持し、偉大な軍隊と退役軍人のために主張し、常に包囲されている第2修正条項を守るために懸命に取り組んでいる。\n\nマークの対立候補であるコルビー・ワトソンは、チップへの非課税、残業への非課税、社会保障への非課税に反対する過激左派の民主党員だ。彼と民主党員がもし権力を握ったなら、これらはすべて廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツへの男性参加、そして子どもたちへのトランスジェンダー外科手術を望んでいる。コルビー・ワトソンは無責任で過激で危険だ！\n\nマーク・ハリスは再選に向けて私の完全かつ全面的な支持を得ている。マークに投票するために投票所へ行け。彼は絶対に君たちをがっかりさせることはないだろう！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/"
+    },
+    "truth:117547828588967534": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43185",
+      "source_text": "<p>Congressman David Rouzer is a terrific Representative for the incredible people of North Carolina's 7th Congressional District!<br /> <br />A Proven Leader, David served as a Highly Respected State Senator and Small Businessman, prior to becoming a very distinguished U.S. Congressman. In Congress, he is fighting tirelessly to Champion our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Advocate for our Great Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />David Rouzer has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR DAVID — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Mon, 02 Nov 2026 16:38:41 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-02T17:45:42.172385Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43185",
+      "first_seen": "2026-11-02T17:10:36.521017Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman David Rouzer is a terrific Representative for the incredible people of North Carolina's 7th Congressional District!\n \nA Proven Leader, Dav",
+      "truth_social_id": "117547828588967534",
+      "source_fingerprint": "fp:Congressman David Rouzer is a terrific Representative for the incredible people of North Carolina's 7th Congressional District!\n \nA Proven Leader, Dav",
+      "media_identity": "attachment:117547828588967534:",
+      "translation": "ノースカロライナ州第7選挙区の素晴らしい国民のために、デイビッド・ラウザー下院議員は傑出した下院議員である！\n\n実績のあるリーダーであるデイビッドは、傑出した米国下院議員になる前に、高く尊敬される州上院議員および小規模事業家として活動してきた。下院では、彼は私たちの素晴らしい農民・牧場主を支援し、経済を成長させ、税金と規制を削減し、米国のエネルギー支配力を推し進め、米国製造品を推進し、現在非常に安全な国境をさらに安全に保ち、移民犯罪を阻止し、素晴らしい軍隊・退役軍人のために主張し、常に攻撃にさらされている修正第2条を保護するために、たゆまず戦っている。\n\nデイビッド・ラウザーは再選に向けて私の完全かつ絶対的な支持を得ている。外に出てデイビッドに投票しろ――彼は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/"
     },
     "truth:117547664848381013": {
       "post_status": "DISCOVERED",
@@ -37892,22 +37874,6 @@
       "published": "Mon, 02 Nov 2026 15:55:04 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-02T16:50:42.592804Z"
-    },
-    "truth:117547828588967534": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43185",
-      "source_text": "<p>Congressman David Rouzer is a terrific Representative for the incredible people of North Carolina's 7th Congressional District!<br /> <br />A Proven Leader, David served as a Highly Respected State Senator and Small Businessman, prior to becoming a very distinguished U.S. Congressman. In Congress, he is fighting tirelessly to Champion our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Advocate for our Great Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />David Rouzer has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR DAVID — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Mon, 02 Nov 2026 16:38:41 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-02T17:20:34.710978Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43185",
-      "first_seen": "2026-11-02T17:10:36.521017Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman David Rouzer is a terrific Representative for the incredible people of North Carolina's 7th Congressional District!\n \nA Proven Leader, Dav",
-      "next_retry_at": "2026-11-02T17:30:34.710992Z",
-      "truth_social_id": "117547828588967534"
     },
     "truth:117547829193865644": {
       "post_status": "RETRY",
