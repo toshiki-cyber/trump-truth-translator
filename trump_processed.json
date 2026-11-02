@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117134660180705641",
-    "https://www.trumpstruth.org/statuses/41082",
-    "fp:RT \nhttps://truthsocial.com/@SchoenlawOur President gave Iran every possible chance to finally reform its conduct, give up its role as the no. 1 spons",
     "truth:116946842010916767",
     "https://www.trumpstruth.org/statuses/41091",
     "fp:‘That’s the Jetsons that’s coming to life’: Trump officials tout multifront drone initiative: \nhttps://www.washingtonexaminer.com/policy/defense/46944",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43193",
     "fp:Congressman Tim Moore is a Tremendous Champion for North Carolina's 14th Congressional District!\n \nTim served as the Highly Respected Speaker of the N",
     "truth:117547823377997196",
-    "https://www.trumpstruth.org/statuses/43191"
+    "https://www.trumpstruth.org/statuses/43191",
+    "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!\n \nAs a former Criminal ",
+    "truth:117547824382377816",
+    "https://www.trumpstruth.org/statuses/43190"
   ],
   "posts": {
-    "truth:117475275197816762": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42525",
-      "source_text": "<p>Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health: <a href=\"https://justthenews.com/government/white-house/trump-womens-health\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/government/whi</span><span class=\"invisible\">te-house/trump-womens-health</span></a></p>",
-      "published": "Tue, 20 Oct 2026 21:07:24 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T23:35:35.883564Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42525",
-      "first_seen": "2026-10-20T23:05:34.959253Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health: \nhttps://justthenews.com/government/white-house/t",
-      "truth_social_id": "117475275197816762",
-      "source_fingerprint": "fp:Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health: \nhttps://justthenews.com/government/white-house/t",
-      "media_identity": "attachment:117475275197816762:",
-      "translation": "トランプとその共和党は、女性の健康に関する新しい大統領令で、より女性に配慮した側面を示している：\nhttps://justthenews.com/government/white-house/trump-womens-health",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydk4a5hpkxg",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mydk4a5hpkxg",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプとその共和党は、女性の健康に関する新しい大統領令で、より女性に配慮した側面を示している：\nhttps://justthenews.com/government/white-house/trump-womens-health",
-        "createdAt": "2026-10-20T23:25:36.481510Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 145,
-              "byteEnd": 211
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/government/white-house/trump-womens-health"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/government/white-house/trump-womens-health",
-            "title": "Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health",
-            "description": "The order, led by First Lady Melania Trump and signed in the Rose Garden, creates a new Women’s Health Division at the NIH and a White House Women’s Health Task Force to confront what they say is a protracted shortfall in research and treatment for conditions that disproportionately affect women.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreidpyvqbyf3a5fqldzzmdwbe3taz2ihlrqevimdnccfagofdzjzi7q"
-              },
-              "mimeType": "image/jpeg",
-              "size": 156969
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mydk4a5hpkxg",
-          "rkey": "3mydk4a5hpkxg"
-        }
-      ]
-    },
     "truth:117475278291502005": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16595,6 +16527,24 @@
       "source_fingerprint": "fp:Congressman Tim Moore is a Tremendous Champion for North Carolina's 14th Congressional District!\n \nTim served as the Highly Respected Speaker of the N",
       "media_identity": "attachment:117547823377997196:",
       "translation": "ティム・ムーア下院議員はノースカロライナ州第14選挙区の素晴らしいチャンピオンだ！\n\nティムは、傑出した下院議員となる前に、ノースカロライナ州下院議長として10年間にわたり極めて尊敬されている職務を遂行してきた。議会では、彼は経済成長、減税・規制緩和、メイド・イン・ザ・USA推進、米国のエネルギー支配力維持、現在極めて安全になった国境の保全、不法移民、殺人犯、その他の犯罪人の違法入国阻止、偉大な軍隊及び退役軍人の強化、常に攻撃にさらされている憲法第2条修正条項の保護のために、不屈の努力で戦っている。\n\nティム・ムーアは再選に向けて、私の完全かつ全面的な支持を得ている。投票に行ってティムに投票しろ—彼はお前たちを失望させることは決してない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/"
+    },
+    "truth:117547824382377816": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43190",
+      "source_text": "<p>Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!<br /> <br />As a former Criminal Prosecutor, Brad knows the Wisdom and Courage necessary to uphold our Constitution, and ensure LAW AND ORDER. A true America First Patriot, Brad is fighting tirelessly to Strengthen our Military, Care for our Brave Veterans, Stand with our Incredible Law Enforcement, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Brad's opponent, Paul Barringer, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Paul Barringer is Reckless, Radical, and Dangerous!<br /> <br />Brad Knott has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BRAD — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Mon, 02 Nov 2026 16:37:37 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-02T19:20:42.516697Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43190",
+      "first_seen": "2026-11-02T18:50:37.882300Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!\n \nAs a former Criminal ",
+      "truth_social_id": "117547824382377816",
+      "source_fingerprint": "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!\n \nAs a former Criminal ",
+      "media_identity": "attachment:117547824382377816:",
+      "translation": "ブラッド・ノット下院議員は、ノースカロライナ州第13区議会地区の素晴らしい国民にとって、素晴らしい代表者だ！\n\n元刑事検察官としてのブラッドは、憲法を守り、法と秩序を確保するために必要な英知と勇気を知っている。真のアメリカ第一主義の愛国者であるブラッドは、軍隊を強化し、勇敢な退役軍人をケアし、信じられないほどの警執行機関に立ち上がり、今や非常に安全になった国境を安全に保ち、移民犯罪を止め、経済を成長させ、税金と規制をカットし、米国製を推進し、米国のエネルギー支配を推し進め、常に包囲下にある憲法第2条を守るために、疲れを知らずに戦っている。\n\nブラッドの対立候補、ポール・バリンジャーは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する左翼ラジカル民主党員だ。彼と民主党員たちが権力を握ることがあれば、これらすべてのことが廃止される。彼は、大幅な増税、国境開放、男性による女性スポーツ出場、そして子どもたちのトランスジェンダー変性を望んでいる。ポール・バリンジャーは無謀で、ラジカルで、危険だ！\n\nブラッド・ノットは、再選に対する私の完全かつ完璧な支持を得ている。出かけて投票しろ、ブラッドに投票しろ——彼はお前たちを決して失望させることはない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/north-carolina/"
     },
     "truth:117547664848381013": {
       "post_status": "DISCOVERED",
@@ -37831,22 +37781,6 @@
       "published": "Mon, 02 Nov 2026 16:36:46 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-02T17:20:33.222863Z"
-    },
-    "truth:117547824382377816": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43190",
-      "source_text": "<p>Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!<br /> <br />As a former Criminal Prosecutor, Brad knows the Wisdom and Courage necessary to uphold our Constitution, and ensure LAW AND ORDER. A true America First Patriot, Brad is fighting tirelessly to Strengthen our Military, Care for our Brave Veterans, Stand with our Incredible Law Enforcement, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, and Defend our always under siege Second Amendment.<br /> <br />Brad's opponent, Paul Barringer, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Paul Barringer is Reckless, Radical, and Dangerous!<br /> <br />Brad Knott has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BRAD — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Mon, 02 Nov 2026 16:37:37 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-02T19:00:41.367592Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43190",
-      "first_seen": "2026-11-02T18:50:37.882300Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina's 13th Congressional District!\n \nAs a former Criminal ",
-      "next_retry_at": "2026-11-02T19:10:41.367607Z",
-      "truth_social_id": "117547824382377816"
     },
     "truth:117547825277059014": {
       "post_status": "RETRY",
