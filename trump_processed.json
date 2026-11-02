@@ -37690,20 +37690,149 @@
       "updated_at": "2026-11-01T22:50:36.216933Z"
     },
     "truth:117545513926612127": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/43156",
       "source_text": "<p><a href=\"https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/nWs12bWZMco?s</span><span class=\"invisible\">i=W2GgtqT-OJ_th9wD</span></a></p>",
       "published": "Mon, 02 Nov 2026 06:50:02 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-02T08:55:57.523685Z",
+      "retry_count": 1,
+      "updated_at": "2026-11-02T09:10:41.341055Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43156",
       "first_seen": "2026-11-02T08:50:34.180934Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
       "fingerprint": "fp:https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
-      "next_retry_at": "2026-11-02T09:05:57.523702Z",
-      "truth_social_id": "117545513926612127"
+      "truth_social_id": "117545513926612127",
+      "source_fingerprint": "fp:https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+      "media_identity": "attachment:117545513926612127:",
+      "translation": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzcqb46dtcxf",
+          "cid": "bafyreiht6mj23ojyy6jyvihkdc6omsnbvtmctwsvcr5bedsyfztcx7qgze"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzcqb46dtcxf",
+          "cid": "bafyreiht6mj23ojyy6jyvihkdc6omsnbvtmctwsvcr5bedsyfztcx7qgze"
+        },
+        "next_index": 1,
+        "last_rkey": "3mzcqb46dtcxf",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+          "createdAt": "2026-11-02T09:10:34.828570Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 60
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+              "title": "- YouTube",
+              "description": ""
+            }
+          }
+        },
+        "root_rkey": "3mzcqb46dtcxf",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+          "createdAt": "2026-11-02T09:10:34.828570Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 60
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "uri": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+              "title": "- YouTube",
+              "description": ""
+            }
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzcqb46dtcxf",
+            "rkey": "3mzcqb46dtcxf"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzcqb46dtcxf",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mzcqb46dtcxf",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+        "createdAt": "2026-11-02T09:10:34.828570Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 60
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.youtube.com/live/nWs12bWZMco?si=W2GgtqT-OJ_th9wD",
+            "title": "- YouTube",
+            "description": ""
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzcqb46dtcxf",
+          "rkey": "3mzcqb46dtcxf"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-11-02T09:15:41.341070Z"
     },
     "truth:117545523777020082": {
       "post_status": "RETRY",
