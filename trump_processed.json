@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
-    "truth:117134648247611471",
-    "https://www.trumpstruth.org/statuses/41101",
     "fp:‘ECONOMIC D-DAY’: Trump Announces Unprecedented Operation To Crush Iran’s Shadow Economy: \nhttps://www.dailywire.com/news/economic-d-day-trump-announc",
     "truth:117134651908743307",
     "https://www.trumpstruth.org/statuses/41097",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43169",
     "fp:Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th C",
     "truth:117547827194666543",
-    "https://www.trumpstruth.org/statuses/43187"
+    "https://www.trumpstruth.org/statuses/43187",
+    "fp:Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!\n \nMark has a strong Rec",
+    "truth:117547828027910491",
+    "https://www.trumpstruth.org/statuses/43186"
   ],
   "posts": {
-    "truth:117473326850171330": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42513",
-      "source_text": "<p>Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore: <a href=\"https://justthenews.com/politics-policy/immigration-gangs-tren\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/politics-polic</span><span class=\"invisible\">y/immigration-gangs-tren</span></a></p>",
-      "published": "Tue, 20 Oct 2026 12:51:54 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T13:40:37.826712Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42513",
-      "first_seen": "2026-10-20T13:10:33.122178Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore: \nhttps://justthenews.com/politics-policy/immigra",
-      "truth_social_id": "117473326850171330",
-      "source_fingerprint": "fp:Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore: \nhttps://justthenews.com/politics-policy/immigra",
-      "media_identity": "attachment:117473326850171330:",
-      "translation": "トランプ大統領の国境執行は不法移民の財政的および犯罪的コストを削減する。一方、恩赦はこれらのコストを復活させるだろう：\nhttps://justthenews.com/politics-policy/immigration-gangs-tren",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mycog7xf5226",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mycog7xf5226",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "トランプ大統領の国境執行は不法移民の財政的および犯罪的コストを削減する。一方、恩赦はこれらのコストを復活させるだろう：\nhttps://justthenews.com/politics-policy/immigration-gangs-tren",
-        "createdAt": "2026-10-20T13:30:42.634295Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 178,
-              "byteEnd": 240
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/politics-policy/immigration-gangs-tren"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/politics-policy/immigration-gangs-tren",
-            "title": "Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore",
-            "description": "The nation has recently seen measurable fiscal and public-safety dividends already accruing from sustained zero-release months and large-scale removals, set against socialist polices projected to cost billions to trillions. In addition, more than 157,000 migrant children previously unaccounted for under the Biden administration have been located.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreihzxwjqa7i7zrz6w6bql5trjczggejzjcqsveisaejwwy75cnsrci"
-              },
-              "mimeType": "image/jpeg",
-              "size": 84330
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mycog7xf5226",
-          "rkey": "3mycog7xf5226"
-        }
-      ]
-    },
     "truth:117474337843871362": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16715,6 +16647,24 @@
       "source_fingerprint": "fp:Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th C",
       "media_identity": "attachment:117547827194666543:",
       "translation": "リチャード・ハドソンは偉大な男であり、素晴らしい下院議員だ。ノースカロライナ州第9選挙区の素晴らしい人々を代表して、優れた仕事をしている。\n\n全国共和党下院委員会（NRCC）の委員長として、リチャードは私と共に、知性的で強硬で、100%のアメリカ・ファースト愛国者を選出させるために、たゆまぬ努力をしている。共に、2024年の選挙を下院選挙で大圧勝させ、現在成し遂げている信じられない成功に基づき、2026年中間選挙で大勝する態勢を整えている。下院では、リチャードは経済成長、減税と規制緩和、アメリカ製品の推進、アメリカンエネルギー優位性の解放、今や極めて安全な我が国境の維持、不法移民による犯罪の阻止、軍人・退役軍人への支援、常に激しい攻撃にさらされている第2修正条項の防御のために全力で闘っている。\n\nリチャード・ハドソンは、再選のための私の完全かつ全面的な支持を得ている。外に出てリチャードに投票してくれ。彼は決してお前たちを裏切らない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/"
+    },
+    "truth:117547828027910491": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43186",
+      "source_text": "<p>Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!<br /> <br />Mark has a strong Record of SUCCESS, and compelling support from his Community. In Congress, he is working tirelessly to Champion our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Advocate for our Great Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Mark's opponent, Colby Watson, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Colby Watson is Reckless, Radical, and Dangerous!<br /> <br />Mark Harris has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MARK — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Mon, 02 Nov 2026 16:38:32 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-02T17:40:40.257452Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43186",
+      "first_seen": "2026-11-02T17:10:35.397788Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!\n \nMark has a strong Rec",
+      "truth_social_id": "117547828027910491",
+      "source_fingerprint": "fp:Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!\n \nMark has a strong Rec",
+      "media_identity": "attachment:117547828027910491:",
+      "translation": "マーク・ハリス下院議員は、ノースカロライナ州第8区の素晴らしい人々のための傑出した代表者だ！\n\nマークは強力な成功の実績を持ち、コミュニティからの説得力のある支持を受けている。下院では、彼は我々の素晴らしい農民と牧畜業者を支援し、経済を成長させ、税金と規制を削減し、アメリカンエネルギーの支配を進め、現在非常に安全になった国境を確保する状態を維持し、偉大な軍隊と退役軍人のために主張し、常に包囲されている第2修正条項を守るために懸命に取り組んでいる。\n\nマークの対立候補であるコルビー・ワトソンは、チップへの非課税、残業への非課税、社会保障への非課税に反対する過激左派の民主党員だ。彼と民主党員がもし権力を握ったなら、これらはすべて廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツへの男性参加、そして子どもたちへのトランスジェンダー外科手術を望んでいる。コルビー・ワトソンは無責任で過激で危険だ！\n\nマーク・ハリスは再選に向けて私の完全かつ全面的な支持を得ている。マークに投票するために投票所へ行け。彼は絶対に君たちをがっかりさせることはないだろう！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/"
     },
     "truth:117547664848381013": {
       "post_status": "DISCOVERED",
@@ -37942,22 +37892,6 @@
       "published": "Mon, 02 Nov 2026 15:55:04 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-02T16:50:42.592804Z"
-    },
-    "truth:117547828027910491": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43186",
-      "source_text": "<p>Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!<br /> <br />Mark has a strong Record of SUCCESS, and compelling support from his Community. In Congress, he is working tirelessly to Champion our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Advocate for our Great Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Mark's opponent, Colby Watson, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Colby Watson is Reckless, Radical, and Dangerous!<br /> <br />Mark Harris has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MARK — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Mon, 02 Nov 2026 16:38:32 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-02T17:20:34.364558Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43186",
-      "first_seen": "2026-11-02T17:10:35.397788Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Mark Harris is a terrific Representative for the incredible people of North Carolina's 8th Congressional District!\n \nMark has a strong Rec",
-      "next_retry_at": "2026-11-02T17:30:34.364574Z",
-      "truth_social_id": "117547828027910491"
     },
     "truth:117547828588967534": {
       "post_status": "RETRY",
