@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Yes, Democrats Just Passed A Resolution Seeking To Abolish ICE: \nhttps://thefederalist.com/2026/08/17/yes-democrats-just-passed-a-resolution-seeking-t",
-    "truth:117134645458445535",
-    "https://www.trumpstruth.org/statuses/41072",
     "fp:Melania Trump links up with IndyCar for foster kid scholarships — and a stylish new look: \nhttps://nypost.com/2026/08/20/us-news/melania-trump-links-u",
     "truth:117134648247611471",
     "https://www.trumpstruth.org/statuses/41101",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43183",
     "fp:Congressman Tom Kean is a Great Representative for the People of New Jersey's 7th Congressional District!\n \nA Tremendous Advocate of our America First",
     "truth:117547684834396397",
-    "https://www.trumpstruth.org/statuses/43169"
+    "https://www.trumpstruth.org/statuses/43169",
+    "fp:Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th C",
+    "truth:117547827194666543",
+    "https://www.trumpstruth.org/statuses/43187"
   ],
   "posts": {
-    "truth:117473326095036573": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42514",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18641/387d183982b818a8-20222c41b3bc.jpg\">View image</a></p>",
-      "published": "Tue, 20 Oct 2026 12:51:43 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-20T13:15:39.870405Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42514",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18641/387d183982b818a8-20222c41b3bc.jpg",
-      "media_identity": "attachment:117473326095036573:387d183982b818a8.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18641/387d183982b818a8-20222c41b3bc.jpg",
-      "truth_social_id": "117473326095036573",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18641/387d183982b818a8-20222c41b3bc.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mycofuxr6kdf",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3mycofuxr6kdf",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18641/387d183982b818a8-20222c41b3bc.jpg",
-        "createdAt": "2026-10-20T13:05:41.182397Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18641/387d183982b818a8-20222c41b3bc.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreiex4xx4dva6v7gbovid7ymdkstm7xx3as5co4ku7uott3b6zajrfy"
-                },
-                "mimeType": "image/jpeg",
-                "size": 112766
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1255,
-                "height": 818
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mycofuxr6kdf",
-          "rkey": "3mycofuxr6kdf"
-        }
-      ]
-    },
     "truth:117473326850171330": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16767,6 +16697,24 @@
       "source_fingerprint": "fp:Congressman Tom Kean is a Great Representative for the People of New Jersey's 7th Congressional District!\n \nA Tremendous Advocate of our America First",
       "media_identity": "attachment:117547684834396397:",
       "translation": "ニュージャージー州第7選挙区の下院議員トム・キーンは、国民のための素晴らしい代表である！\n\nトムはアメリカ・ファースト・アジェンダの非常に優れた支持者であり、国境をセキュアに保ち、移民犯罪を阻止し、経済を成長させ、税金と規制を削減し、小企業を支援し、アメリカン・エネルギー・ドミナンスを解き放ち、勇敢な軍人と退役軍人を支援し、常に脅威にさらされている修正第2条を守るために不屈の努力を続けている。\n\nトムの対立候補であるレベッカ・ベネットは、チップへの課税なし、残業代への課税なし、社会保障への課税なしに反対する過激左翼の民主党員であり、もし彼女と民主党員らが政権を握れば、これらすべてが廃止される。彼女は大幅な増税、開かれた国境、男性の女性スポーツ参加、そしてあなたの子供たちへのトランスジェンダー切除を望んでいる。レベッカ・ベネットは無責任で、過激で、危険である！\n\nトム・キーンは再選のために私の完全かつ全面的な支持を得ている。外に出てトムに投票しろ――彼は決してお前たちを失望させない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/new-jersey/"
+    },
+    "truth:117547827194666543": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43187",
+      "source_text": "<p>Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th Congressional District.<br /> <br />As Chairman of the National Republican Congressional Committee (NRCC), Richard is working tirelessly with me to help elect smart, tough, and 100% America First Patriots. Together, we won the 2024 Elections down ballot in a LANDSLIDE, and, based on the incredible SUCCESS we are having, are poised to WIN BIG in the 2026 Midterms. In Congress, Richard is fighting hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Support our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Richard Hudson has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RICHARD — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Mon, 02 Nov 2026 16:38:19 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-02T17:35:42.088837Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43187",
+      "first_seen": "2026-11-02T17:10:34.654681Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th C",
+      "truth_social_id": "117547827194666543",
+      "source_fingerprint": "fp:Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th C",
+      "media_identity": "attachment:117547827194666543:",
+      "translation": "リチャード・ハドソンは偉大な男であり、素晴らしい下院議員だ。ノースカロライナ州第9選挙区の素晴らしい人々を代表して、優れた仕事をしている。\n\n全国共和党下院委員会（NRCC）の委員長として、リチャードは私と共に、知性的で強硬で、100%のアメリカ・ファースト愛国者を選出させるために、たゆまぬ努力をしている。共に、2024年の選挙を下院選挙で大圧勝させ、現在成し遂げている信じられない成功に基づき、2026年中間選挙で大勝する態勢を整えている。下院では、リチャードは経済成長、減税と規制緩和、アメリカ製品の推進、アメリカンエネルギー優位性の解放、今や極めて安全な我が国境の維持、不法移民による犯罪の阻止、軍人・退役軍人への支援、常に激しい攻撃にさらされている第2修正条項の防御のために全力で闘っている。\n\nリチャード・ハドソンは、再選のための私の完全かつ全面的な支持を得ている。外に出てリチャードに投票してくれ。彼は決してお前たちを裏切らない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/north-carolina/"
     },
     "truth:117547664848381013": {
       "post_status": "DISCOVERED",
@@ -37994,22 +37942,6 @@
       "published": "Mon, 02 Nov 2026 15:55:04 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-02T16:50:42.592804Z"
-    },
-    "truth:117547827194666543": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43187",
-      "source_text": "<p>Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th Congressional District.<br /> <br />As Chairman of the National Republican Congressional Committee (NRCC), Richard is working tirelessly with me to help elect smart, tough, and 100% America First Patriots. Together, we won the 2024 Elections down ballot in a LANDSLIDE, and, based on the incredible SUCCESS we are having, are poised to WIN BIG in the 2026 Midterms. In Congress, Richard is fighting hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Support our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Richard Hudson has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RICHARD — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Mon, 02 Nov 2026 16:38:19 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-02T17:20:33.841027Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43187",
-      "first_seen": "2026-11-02T17:10:34.654681Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Richard Hudson is a Great Man, and TREMENDOUS Congressman, who is doing an outstanding job representing the wonderful people of North Carolina's 9th C",
-      "next_retry_at": "2026-11-02T17:30:33.841043Z",
-      "truth_social_id": "117547827194666543"
     },
     "truth:117547828027910491": {
       "post_status": "RETRY",
