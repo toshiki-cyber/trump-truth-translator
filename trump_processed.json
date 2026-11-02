@@ -37677,14 +37677,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43154",
       "source_text": "<p>NY prosecutor claims Letitia James' office directed him to target Trump: <a href=\"https://www.timesunion.com/capitol/article/ny-prosecutor-claims-letitia-james-office-22409213.php\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">timesunion.com/capitol/article</span><span class=\"invisible\">/ny-prosecutor-claims-letitia-james-office-22409213.php</span></a></p>",
       "published": "Sun, 01 Nov 2026 23:51:22 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-02T00:50:34.582068Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-02T01:00:33.766985Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43154",
       "first_seen": "2026-11-02T00:50:34.582034Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:NY prosecutor claims Letitia James' office directed him to target Trump: \nhttps://www.timesunion.com/capitol/article/ny-prosecutor-claims-letitia-jame",
-      "next_retry_at": "2026-11-02T00:55:34.582077Z",
+      "next_retry_at": "2026-11-02T01:10:33.767002Z",
       "truth_social_id": "117543867658627858"
     }
   }
