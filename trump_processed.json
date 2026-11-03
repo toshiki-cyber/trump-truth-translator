@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41190",
-    "fp:Over the last 10 years, the United States lost, on average, 60 Billion Dollars a year with Canada. No more! President DJT",
-    "truth:117156507875234061",
     "https://www.trumpstruth.org/statuses/41188",
     "fp:PRESIDENT TRUMP RALLIES SOUTH CAROLINA VOTERS BEHIND DARLINE GRAHAM AHEAD OF GOP SENATE RUNOFF: \nhttps://www.rsbnetwork.com/news/president-trump-ralli",
     "truth:117156895044774814",
@@ -5000,7 +4997,10 @@
     "https://www.trumpstruth.org/statuses/43284",
     "fp:TO THE GREAT PEOPLE OF LOUISIANA, GET OUT AND VOTE FOR:\n– Julia Letlow for U.S. Senate\n– Steve Scalise for U.S. Congress (LA-01)\n– Clay Higgins for U.",
     "truth:117549824715923945",
-    "https://www.trumpstruth.org/statuses/43279"
+    "https://www.trumpstruth.org/statuses/43279",
+    "fp:TO THE GREAT PEOPLE OF LOUISIANA, I will be doing a TeleRally, LIVE, at 8:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP\nhttps://s",
+    "truth:117549825907423870",
+    "https://www.trumpstruth.org/statuses/43278"
   ],
   "posts": {
     "truth:117485115943802855": {
@@ -15802,6 +15802,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF LOUISIANA, GET OUT AND VOTE FOR:\n– Julia Letlow for U.S. Senate\n– Steve Scalise for U.S. Congress (LA-01)\n– Clay Higgins for U.",
       "truth_social_id": "117549824715923945",
       "translation": "ルイジアナの偉大な人民の皆様へ、以下の候補者に投票してください：\n\n– ジュリア・レトロー（上院議員）\n– スティーブ・スカリセ（下院議員 LA-01区）\n– クレイ・ヒギンズ（下院議員 LA-03区）\n– マイク・ジョンソン（下院議員 LA-04区）\n\nこれらの素晴らしい愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してあなたたちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/louisiana/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18838/bc2feb365783c42b-de42046a384d.jpg"
+    },
+    "truth:117549825907423870": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43278",
+      "source_text": "<p>TO THE GREAT PEOPLE OF LOUISIANA, I will be doing a TeleRally, LIVE, at 8:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/states/louisiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/states/lou</span><span class=\"invisible\">isiana/</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18837/5662b6be67ccbee4-de42046a384d.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 01:06:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-03T05:05:45.890096Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43278",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF LOUISIANA, I will be doing a TeleRally, LIVE, at 8:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP\nhttps://s",
+      "media_identity": "attachment:117549825907423870:5662b6be67ccbee4.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF LOUISIANA, I will be doing a TeleRally, LIVE, at 8:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP\nhttps://s",
+      "truth_social_id": "117549825907423870",
+      "translation": "ルイジアナの皆さんへ、私は8時15分（東部時間）にテレラリーをライブで行う。電話に出て、楽しんでくれ！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/states/louisiana/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18837/5662b6be67ccbee4-de42046a384d.jpg"
     },
     "truth:117548794255120998": {
       "post_status": "DISCOVERED",
@@ -37571,16 +37587,6 @@
       "fingerprint": "fp:It is my Great Honor to endorse Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, who is running for th",
       "next_retry_at": "2026-11-03T05:06:03.538423Z",
       "truth_social_id": "117549822570920008"
-    },
-    "truth:117549825907423870": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43278",
-      "source_text": "<p>TO THE GREAT PEOPLE OF LOUISIANA, I will be doing a TeleRally, LIVE, at 8:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/states/louisiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/states/lou</span><span class=\"invisible\">isiana/</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18837/5662b6be67ccbee4-de42046a384d.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 01:06:37 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-03T04:50:38.136990Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43278"
     },
     "truth:117550235500967429": {
       "post_status": "DISCOVERED",
