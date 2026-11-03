@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41145",
-    "fp:https://truthsocial.com/@thatswhattimeitis/117143083463839683",
-    "truth:117148833275862351",
     "https://www.trumpstruth.org/statuses/41150",
     "fp:IRAN IS COMPLETELY COLLAPSING!!! President DJT",
     "truth:117150535825256760",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43255",
     "fp:Congressman John “Judge” Carter is a Fantastic Representative for the Great People of Texas' 31st Congressional District!\n \n“Judge” served over 20 yea",
     "truth:117549319523574235",
-    "https://www.trumpstruth.org/statuses/43254"
+    "https://www.trumpstruth.org/statuses/43254",
+    "fp:It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional Di",
+    "truth:117549320938439687",
+    "https://www.trumpstruth.org/statuses/43253"
   ],
   "posts": {
-    "truth:117482799443891457": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42570",
-      "source_text": "<p>New York Times Bestselling Author, Andrew Klavan, has just written a great new book, “Find Me Nowhere.” It’s fantastic. Get it now! President DJT</p>",
-      "published": "Thu, 22 Oct 2026 05:00:55 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-22T06:50:36.056575Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42570",
-      "first_seen": "2026-10-22T06:30:34.150814Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:New York Times Bestselling Author, Andrew Klavan, has just written a great new book, “Find Me Nowhere.” It’s fantastic. Get it now! President DJT",
-      "truth_social_id": "117482799443891457",
-      "source_fingerprint": "fp:New York Times Bestselling Author, Andrew Klavan, has just written a great new book, “Find Me Nowhere.” It’s fantastic. Get it now! President DJT",
-      "media_identity": "attachment:117482799443891457:",
-      "translation": "ニューヨーク・タイムズ・ベストセラー作家のアンドリュー・クラヴァンが素晴らしい新著『Find Me Nowhere』を執筆したばかりだ。素晴らしい本だ。今すぐ手に入れろ！ 大統領 DJT"
-    },
     "truth:117484047984542655": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16157,6 +16139,24 @@
       "source_fingerprint": "fp:Congressman John “Judge” Carter is a Fantastic Representative for the Great People of Texas' 31st Congressional District!\n \n“Judge” served over 20 yea",
       "media_identity": "attachment:117549319523574235:",
       "translation": "下院議員ジョン・カーター「判事」は、テキサス州第31選挙区の偉大な人民にとって素晴らしい代表である！\n\n「判事」は下院議員になる前に、ウィリアムソン郡の地方裁判所判事として20年以上務めた、非常に傑出した尊敬される下院議員だ。彼は経済成長、増税と規制撤廃、アメリカ製品の推進、アメリカンエネルギーの支配力強化、現在は非常に安全になった国境を安全に保つ、移民犯罪、殺人犯及びその他の犯罪者の不法入国を阻止する、軍および退役軍人を強化する、そして常に包囲下にある修正第2条を守るために、たゆまぬ努力で取り組んでいる。\n\nカーター判事は再選に向けて私の完全かつ絶対的な推薦を得ている。外に出て判事に投票しろ――彼は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
+    },
+    "truth:117549320938439687": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43253",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional District.<br /> <br />A Great and Highly Respected Hispanic Judge, very successful Businessman, and Rancher, Tano Tijerina has dedicated his life to serving his Community. In Congress, he will fight tirelessly to Grow our Economy, Promote our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />His opponent, Henry Cuellar, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender for Everybody. Henry Cuellar is Reckless, Radical, and Dangerous!<br /> <br />Tano Tijerina has my Complete and Total Endorsement to be the next Representative from Texas' 28th Congressional District. GET OUT AND VOTE FOR TANO — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 22:58:12 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T02:15:42.957688Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43253",
+      "first_seen": "2026-11-03T00:55:39.519569Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional Di",
+      "truth_social_id": "117549320938439687",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional Di",
+      "media_identity": "attachment:117549320938439687:",
+      "translation": "テキサス州第28選挙区の素晴らしい人々を代表するために立候補しているアメリカ第一主義の愛国者タノ・ティヘリーナを推薦することは、私の大いなる栄誉である。\n\n偉大で高く尊敬されているヒスパニック系の判事であり、非常に成功した実業家であり牧場経営者であるタノ・ティヘリーナは、自分のコミュニティへの奉仕に人生を捧げてきた。議会では、彼は経済成長、素晴らしい農民と牧場経営者の支援、税とрегуляめい制度の削減、米国製品の推進、米国のエネルギー優位性の擁護、今や非常に安全になった国境の防御継続、移民犯罪の阻止、法と秩序の確保、軍隊と退役軍人の強化、常に脅威にさらされている憲法修正第2条の保護のために、たゆまぬ努力で戦うであろう。\n\n彼の対立候補であるヘンリー・クエラーは、チップへの課税なし、残業代への課税なし、社会保障への課税なしに投票した。そして、彼とディモクラート（民主党）がもし権力を握れば、これらすべてのものは廃止されるであろう。彼は大幅な増税、開放的な国境、女性スポーツに参加する男性、全員へのトランスジェンダー政策を望んでいる。ヘンリー・クエラーは無謀で急進的で危険である。\n\nタノ・ティヘリーナはテキサス州第28選挙区の次期下院議員となることについて、私の完全かつ全面的な推薦を得ている。タノに投票するために投票所に行け――彼は絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37633,22 +37633,6 @@
       "published": "Mon, 02 Nov 2026 23:07:52 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
-    },
-    "truth:117549320938439687": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43253",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional District.<br /> <br />A Great and Highly Respected Hispanic Judge, very successful Businessman, and Rancher, Tano Tijerina has dedicated his life to serving his Community. In Congress, he will fight tirelessly to Grow our Economy, Promote our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />His opponent, Henry Cuellar, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things would be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender for Everybody. Henry Cuellar is Reckless, Radical, and Dangerous!<br /> <br />Tano Tijerina has my Complete and Total Endorsement to be the next Representative from Texas' 28th Congressional District. GET OUT AND VOTE FOR TANO — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 22:58:12 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:41.519400Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43253",
-      "first_seen": "2026-11-03T00:55:39.519569Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional Di",
-      "next_retry_at": "2026-11-03T01:15:41.519416Z",
-      "truth_social_id": "117549320938439687"
     },
     "truth:117549322139819111": {
       "post_status": "RETRY",
