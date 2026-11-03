@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Trump touts school choice in Rose Garden event: \nhttps://justthenews.com/politics-policy/trump-touts-school-choice-rose-garden-event",
-    "truth:117162776390221938",
-    "https://trumpstruth.org/statuses/41253",
     "fp:JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments: \nhttps://www.dailysignal.com/2026/08/24/jd-vance-ohio-figures-give",
     "truth:117162777729733063",
     "https://trumpstruth.org/statuses/41260",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43396",
     "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina’s 13th Congressional District!\n \nAs a former Criminal ",
     "truth:117552667167774154",
-    "https://www.trumpstruth.org/statuses/43395"
+    "https://www.trumpstruth.org/statuses/43395",
+    "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
+    "truth:117552667677698494",
+    "https://www.trumpstruth.org/statuses/43394"
   ],
   "posts": {
-    "truth:117486930473609780": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42665",
-      "source_text": "<p>TO THE GREAT PEOPLE OF NEW JERSEY, MAKE A PLAN TO VOTE FOR:<br /> <br />– Jeff Van Drew for U.S. Congress (NJ-02)<br />– Chris Smith for U.S. Congress (NJ-04)<br />– Tom Kean for U.S. Congress (NJ-07)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/new-jersey/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/new-jersey</span><span class=\"invisible\">/</span></a></p>",
-      "published": "Thu, 22 Oct 2026 22:31:29 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-23T07:55:24.759742Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42665",
-      "first_seen": "2026-10-23T07:10:29.476235Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:TO THE GREAT PEOPLE OF NEW JERSEY, MAKE A PLAN TO VOTE FOR:\n \n– Jeff Van Drew for U.S. Congress (NJ-02)\n– Chris Smith for U.S. Congress (NJ-04)\n– Tom ",
-      "truth_social_id": "117486930473609780",
-      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF NEW JERSEY, MAKE A PLAN TO VOTE FOR:\n \n– Jeff Van Drew for U.S. Congress (NJ-02)\n– Chris Smith for U.S. Congress (NJ-04)\n– Tom ",
-      "media_identity": "attachment:117486930473609780:",
-      "translation": "ニュージャージー州の偉大な人民へ、以下に投票する計画を立てよ：\n\n– ジェフ・ヴァン・ドリュー（ニュージャージー州第2区下院議員）\n– クリス・スミス（ニュージャージー州第4区下院議員）\n– トム・キーン（ニュージャージー州第7区下院議員）\n\nこれらの偉大な愛国者は、私の完全かつ全面的な支持を得ている。彼らは君たちを決して失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/new-jersey/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myipqgq7bcbi",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myipqgq7bcbi",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ニュージャージー州の偉大な人民へ、以下に投票する計画を立てよ：\n\n– ジェフ・ヴァン・ドリュー（ニュージャージー州第2区下院議員）\n– クリス・スミス（ニュージャージー州第4区下院議員）\n– トム・キーン（ニュージャージー州第7区下院議員）\n\nこれらの偉大な愛国者は、私の完全かつ全面的な支持を得ている。彼らは君たちを決して失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/new-jersey/",
-        "createdAt": "2026-10-23T07:45:37.918251Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 536,
-              "byteEnd": 575
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://swampthevoteusa.com/new-jersey/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://swampthevoteusa.com/new-jersey/",
-            "title": "NEW JERSEY: MAKE A PLAN TO VOTE!",
-            "description": "Election Day in New Jersey is almost here, and it’s time to make your voice heard. Make a plan to vote!",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreifqfv7mou7cugy6ctphi463r2pigzhlaal547wrqxnrv2anjfukqq"
-              },
-              "mimeType": "image/jpeg",
-              "size": 215605
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myipqgq7bcbi",
-          "rkey": "3myipqgq7bcbi"
-        }
-      ]
-    },
     "truth:117486934148654609": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15705,6 +15637,24 @@
       "source_fingerprint": "fp:Congressman Brad Knott is a terrific Representative for the incredible people of North Carolina’s 13th Congressional District!\n \nAs a former Criminal ",
       "media_identity": "attachment:117552667167774154:",
       "translation": "下院議員ブラッド・ノットはノースカロライナ州第13区の素晴らしい国民のための傑出した下院議員だ！\n\n元刑事検察官としてブラッドは、憲法を守り、法と秩序を確保するために必要な英知と勇気を備えている。真のアメリカ第一愛国者であるブラッドは、軍隊を強化し、勇敢な退役軍人を支援し、素晴らしき執行機関と共に立ち、今や非常に安全になった国境を安全に保ち、移民犯罪を停止し、経済を成長させ、税金と規制を削減し、アメリカ製品を推進し、アメリカンエネルギーの優位性を進め、常に圧力にさらされている修正第2条を守るために、たゆまぬ努力で戦っている。\n\nブラッドの対立候補ポール・バリンジャーは、チップスに対する課税なし、超過勤務に対する課税なし、社会保障に対する課税なしに反対する急進左派民主党員だ。もし彼と民主党員が権力を握れば、これらすべてが廃止される。彼は大幅な増税、開放国境、女性スポーツへの男性参加、そしてお前たちの子どもへの性転換手術を望んでいる。ポール・バリンジャーは無責任で、急進的で、危険だ！\n\nブラッド・ノットは再選に対する私の完全かつ全面的な支持を得ている。ブラッドに投票するために出かけろ―彼は決してお前たちを失望させない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/north-carolina/"
+    },
+    "truth:117552667677698494": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43394",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Congressional District!<br /> <br />A Highly Respected State Representative, Small Business Owner, and Civic Leader, prior to running for Congress, Jennifer has dedicated her life to serving her Community. Her opponent, Jamie Ager, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Jamie Ager is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congresswoman, Jennifer will fight tirelessly to Grow our Economy, Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Strengthen our Brave Military/Veterans, Keep our Border SECURE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jennifer Balkcom has my Complete and Total Endorsement to be the next Representative from North Carolina’s 11th Congressional District. GET OUT AND VOTE FOR JENNIFER — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
+      "published": "Tue, 03 Nov 2026 13:09:19 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T21:20:57.424544Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43394",
+      "first_seen": "2026-11-03T20:50:50.182129Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
+      "truth_social_id": "117552667677698494",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
+      "media_identity": "attachment:117552667677698494:",
+      "translation": "ノースカロライナ州第11下院地区の素晴らしい人々を代表して立候補している、アメリカ第一主義の愛国者ジェニファー・バルクコムを支持することは、私の大いなる栄誉である！\n\n高く尊敬される州議会議員、小規模事業経営者、そして市民指導者であるジェニファーは、議会立候補前から自分の人生をコミュニティ奉仕に捧げてきた。彼女の対立候補であるジェミー・エイジャーは、チップへの課税なし、残業への課税なし、社会保障への課税なしに反対する急進左翼民主党員であり、もし彼と民主党員らが権力を手にしたなら、これらはすべて廃止されるだろう。彼は大幅な増税、開かれた国境、女性スポーツに参加する男性たち、そして子どもたちへの性転換治療を望んでいる。ジェミー・エイジャーは無謀で、急進的で、危険な人物だ！\n\n一方、次の下院議員として、ジェニファーは経済成長のため、素晴らしい農民と牧場主を支援するため、税とレギュレーションを削減するため、アメリカンエネルギーの優位性を解き放つため、アメリカ製を推進するため、勇敢な軍隊と退役軍人を強化するため、国境を厳重に保つため、選挙を保護するため、そして常に攻撃の危機にさらされている修正第2条を守るため、たゆまず戦うだろう。\n\nジェニファー・バルクコムは、ノースカロライナ州第11下院地区の次期代表として、私の完全かつ全面的な支持を有している。ジェニファーに投票するために外に出よう――彼女は絶対にあなたを失望させることはないだろう！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/north-carolina/"
     },
     "truth:117548794255120998": {
       "post_status": "DISCOVERED",
@@ -37703,22 +37653,6 @@
       "published": "Tue, 03 Nov 2026 13:11:55 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T20:50:47.611896Z"
-    },
-    "truth:117552667677698494": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43394",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Congressional District!<br /> <br />A Highly Respected State Representative, Small Business Owner, and Civic Leader, prior to running for Congress, Jennifer has dedicated her life to serving her Community. Her opponent, Jamie Ager, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Jamie Ager is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congresswoman, Jennifer will fight tirelessly to Grow our Economy, Champion our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Strengthen our Brave Military/Veterans, Keep our Border SECURE, Safeguard our Elections, and Protect our always under siege Second Amendment.<br /> <br />Jennifer Balkcom has my Complete and Total Endorsement to be the next Representative from North Carolina’s 11th Congressional District. GET OUT AND VOTE FOR JENNIFER — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/north-carolina/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/north-caro</span><span class=\"invisible\">lina/</span></a></p>",
-      "published": "Tue, 03 Nov 2026 13:09:19 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T21:00:37.647154Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43394",
-      "first_seen": "2026-11-03T20:50:50.182129Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Jennifer Balkcom, who is running to represent the wonderful people of North Carolina’s 11th Con",
-      "next_retry_at": "2026-11-03T21:10:37.647171Z",
-      "truth_social_id": "117552667677698494"
     },
     "truth:117552668224105045": {
       "post_status": "RETRY",
