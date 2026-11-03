@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41238",
-    "fp:Trump Unleashes Scott Bessent on Iran: \nhttps://www.wsj.com/opinion/donald-trump-scott-bessent-sanctions-iran-oil-economy-96362772",
-    "truth:117162745162432870",
     "https://trumpstruth.org/statuses/41252",
     "fp:Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee",
     "truth:117162722385526068",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43332",
     "fp:TO THE GREAT PEOPLE OF OKLAHOMA, GET OUT AND VOTE FOR:\n \n– Kevin Hern for U.S. Senate\n– Mike Mazzei for Governor\n– T.W. Shannon for Lieutenant Governo",
     "truth:117552757968768618",
-    "https://www.trumpstruth.org/statuses/43331"
+    "https://www.trumpstruth.org/statuses/43331",
+    "fp:TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR:\n \n– Jon Husted for U.S. Senate\n– Vivek Ramaswamy for Governor\n– Keith Faber for Attorney General\n– ",
+    "truth:117552759349027685",
+    "https://www.trumpstruth.org/statuses/43330"
   ],
   "posts": {
-    "truth:117487219525476625": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42639",
-      "source_text": "<p>We will be LIVE from Iowa on Right Side Broadcasting Network (RSBN). Enjoy! President DONALD J. TRUMP</p>",
-      "published": "Thu, 22 Oct 2026 23:45:00 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-23T02:35:28.572348Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42639",
-      "first_seen": "2026-10-23T01:10:35.671791Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:We will be LIVE from Iowa on Right Side Broadcasting Network (RSBN). Enjoy! President DONALD J. TRUMP",
-      "truth_social_id": "117487219525476625",
-      "source_fingerprint": "fp:We will be LIVE from Iowa on Right Side Broadcasting Network (RSBN). Enjoy! President DONALD J. TRUMP",
-      "media_identity": "attachment:117487219525476625:",
-      "translation": "アイオワ州からRight Side Broadcasting Network（RSBN）でLIVE配信を行う。楽しんでくれ！大統領 ドナルド・J・トランプ"
-    },
     "truth:117487124994548876": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15735,6 +15717,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF OKLAHOMA, GET OUT AND VOTE FOR:\n \n– Kevin Hern for U.S. Senate\n– Mike Mazzei for Governor\n– T.W. Shannon for Lieutenant Governo",
       "truth_social_id": "117552757968768618",
       "translation": "オクラホマ州の偉大な国民の皆さんへ、投票に行って以下に投票してください：\n\n– ケビン・ハーン（米国上院議員）\n– マイク・マッツェイ（州知事）\n– T.W.シャノン（副州知事）\n– シンディ・バード（州財務長官）\n– マーク・テッドフォード（米国下院議員・オクラホマ州第1地区）\n– ジョシュ・ブレッヒーン（米国下院議員・オクラホマ州第2地区）\n– フランク・ルーカス（米国下院議員・オクラホマ州第3地区）\n– トム・コール（米国下院議員・オクラホマ州第4地区）\n– ステファニー・ビス（米国下院議員・オクラホマ州第5地区）\n\nこれら偉大な愛国者たちは、私の完全かつ全面的な支持を受けている。彼らは皆さんを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/oklahoma/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18847/b2c5f4264fe85795-7cddf209a0c2.jpg"
+    },
+    "truth:117552759349027685": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43330",
+      "source_text": "<p>TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR:<br /> <br />– Jon Husted for U.S. Senate<br />– Vivek Ramaswamy for Governor<br />– Keith Faber for Attorney General<br />– Eric Conroy for U.S. Congress (OH-01)<br />– David Taylor for U.S. Congress (OH-02)<br />– Jim Jordan for U.S. Congress (OH-04)<br />– Bob Latta for U.S. Congress (OH-05)<br />– Michael Rulli for U.S. Congress (OH-06)<br />– Max Miller for U.S. Congress (OH-07)<br />– Warren Davidson for U.S. Congress (OH-08)<br />– Derek Merrin for U.S. Congress (OH-09)<br />– Michael Turner for U.S. Congress (OH-10)<br />– Troy Balderson for U.S. Congress (OH-12)<br />– David Joyce for U.S. Congress (OH-14)<br />– Mike Carey for U.S. Congress (OH-15)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/ohio/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18846/c7847eaf71143b91-2a24ef9932ca.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:32:38 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-03T16:00:45.163267Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43330",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR:\n \n– Jon Husted for U.S. Senate\n– Vivek Ramaswamy for Governor\n– Keith Faber for Attorney General\n– ",
+      "media_identity": "attachment:117552759349027685:c7847eaf71143b91.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR:\n \n– Jon Husted for U.S. Senate\n– Vivek Ramaswamy for Governor\n– Keith Faber for Attorney General\n– ",
+      "truth_social_id": "117552759349027685",
+      "translation": "オハイオ州の偉大な人民へ、投票に行け：\n\n– ジョン・ハステッド（上院議員）\n– ビベック・ラマスワミ（州知事）\n– キース・フェイバー（司法長官）\n– エリック・コンロイ（米国下院議員 OH-01区）\n– デイビッド・テイラー（米国下院議員 OH-02区）\n– ジム・ジョーダン（米国下院議員 OH-04区）\n– ボブ・ラッタ（米国下院議員 OH-05区）\n– マイケル・ルッリ（米国下院議員 OH-06区）\n– マックス・ミラー（米国下院議員 OH-07区）\n– ウォーレン・デイビッドソン（米国下院議員 OH-08区）\n– デレク・メリン（米国下院議員 OH-09区）\n– マイケル・ターナー（米国下院議員 OH-10区）\n– トロイ・ボールダーソン（米国下院議員 OH-12区）\n– デイビッド・ジョイス（米国下院議員 OH-14区）\n– マイク・キャリー（米国下院議員 OH-15区）\n\nこれらの偉大な愛国者たちは、私の完全で全面的な支持を受けている。彼らは決して君たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/ohio/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18846/c7847eaf71143b91-2a24ef9932ca.jpg"
     },
     "truth:117548794255120998": {
       "post_status": "DISCOVERED",
@@ -37508,16 +37506,6 @@
       "published": "Tue, 03 Nov 2026 12:22:04 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T14:50:34.745949Z"
-    },
-    "truth:117552759349027685": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43330",
-      "source_text": "<p>TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR:<br /> <br />– Jon Husted for U.S. Senate<br />– Vivek Ramaswamy for Governor<br />– Keith Faber for Attorney General<br />– Eric Conroy for U.S. Congress (OH-01)<br />– David Taylor for U.S. Congress (OH-02)<br />– Jim Jordan for U.S. Congress (OH-04)<br />– Bob Latta for U.S. Congress (OH-05)<br />– Michael Rulli for U.S. Congress (OH-06)<br />– Max Miller for U.S. Congress (OH-07)<br />– Warren Davidson for U.S. Congress (OH-08)<br />– Derek Merrin for U.S. Congress (OH-09)<br />– Michael Turner for U.S. Congress (OH-10)<br />– Troy Balderson for U.S. Congress (OH-12)<br />– David Joyce for U.S. Congress (OH-14)<br />– Mike Carey for U.S. Congress (OH-15)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/ohio/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18846/c7847eaf71143b91-2a24ef9932ca.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:32:38 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-03T14:50:34.740272Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43330"
     },
     "truth:117552761425072324": {
       "post_status": "DISCOVERED",
