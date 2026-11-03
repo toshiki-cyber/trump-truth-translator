@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41168",
-    "fp:Unearthed DOJ emails expose turmoil over Biden-era memo urging crackdown on parents: \nhttps://www.foxnews.com/politics/unearthed-doj-emails-expose-tur",
-    "truth:117151538437231560",
     "https://www.trumpstruth.org/statuses/41170",
     "fp:Inside the Democrat Civil War: Progressives’ Problem With Black Voters: \nhttps://www.newsweek.com/inside-democrat-civil-war-progressives-problem-black",
     "truth:117151541955428414",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43267",
     "fp:I am pleased to inform you that I will be doing the Great Sean Hannity Show tonight at 9 PM ET. This is the Golden Age of America with 25 Trillion Dol",
     "truth:117548968575947811",
-    "https://www.trumpstruth.org/statuses/43268"
+    "https://www.trumpstruth.org/statuses/43268",
+    "fp:Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas' 14th Congressional District!\n \nA successful Businessman, ",
+    "truth:117549362215165349",
+    "https://www.trumpstruth.org/statuses/43241"
   ],
   "posts": {
-    "truth:117484735949973985": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42585",
-      "source_text": "<p>Impeaching Impeachment: Declassified memos challenge key witness testimony from 2019 Trump case: <a href=\"https://justthenews.com/accountability/russia-and-ukraine-scandals/declassified-records-challenge-key-2019-trump\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/accountability</span><span class=\"invisible\">/russia-and-ukraine-scandals/declassified-records-challenge-key-2019-trump</span></a></p>",
-      "published": "Thu, 22 Oct 2026 13:13:23 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-22T16:00:50.557807Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42585",
-      "first_seen": "2026-10-22T15:10:43.286117Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Impeaching Impeachment: Declassified memos challenge key witness testimony from 2019 Trump case: \nhttps://justthenews.com/accountability/russia-and-uk",
-      "truth_social_id": "117484735949973985",
-      "source_fingerprint": "fp:Impeaching Impeachment: Declassified memos challenge key witness testimony from 2019 Trump case: \nhttps://justthenews.com/accountability/russia-and-uk",
-      "media_identity": "attachment:117484735949973985:",
-      "translation": "弾劾の弾劾化：機密解除された文書が2019年のトランプ事件の重要証人証言に異議を唱える：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/declassified-records-challenge-key-2019-trump",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqki7j32s2",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myhqki7j32s2",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "弾劾の弾劾化：機密解除された文書が2019年のトランプ事件の重要証人証言に異議を唱える：\nhttps://justthenews.com/accountability/russia-and-ukraine-scandals/declassified-records-challenge-key-2019-trump",
-        "createdAt": "2026-10-22T16:00:43.743866Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 125,
-              "byteEnd": 237
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/declassified-records-challenge-key-2019-trump"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/accountability/russia-and-ukraine-scandals/declassified-records-challenge-key-2019-trump",
-            "title": "Impeaching Impeachment: Declassified memos challenge key witness testimony from 2019 Trump case",
-            "description": "Newly declassified State Department emails and documents show former U.S. Ambassador Marie Yovanovitch received frequent briefings from top aides on Burisma and Hunter Biden, conflicting with her congressional impeachment testimony. Internal emails also show her deputy in Kyiv believed the Burisma/Biden relationship was adversely affecting U.S. policy.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreidyhykyku3l5w4cr3l26ks7iczsklade6q5wafv7badswzuj6tldi"
-              },
-              "mimeType": "image/jpeg",
-              "size": 61195
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqki7j32s2",
-          "rkey": "3myhqki7j32s2"
-        }
-      ]
-    },
     "truth:117484750995773615": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16027,6 +15959,24 @@
           "rkey": "3mzebe3wrxk4g"
         }
       ]
+    },
+    "truth:117549362215165349": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43241",
+      "source_text": "<p>Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas' 14th Congressional District!<br /> <br />A successful Businessman, Randy knows the America First Policies necessary to Create GREAT Jobs, Unleash Innovation, and Ensure American Energy DOMINANCE. He is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Champion our Farmers and American Agriculture, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Randy Weber has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RANDY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 23:08:42 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T03:30:46.801498Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43241",
+      "first_seen": "2026-11-03T00:55:44.962291Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas' 14th Congressional District!\n \nA successful Businessman, ",
+      "truth_social_id": "117549362215165349",
+      "source_fingerprint": "fp:Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas' 14th Congressional District!\n \nA successful Businessman, ",
+      "media_identity": "attachment:117549362215165349:",
+      "translation": "下院議員ランディ・ウェーバーはテキサス州第14選挙区の素晴らしい人々を代表して素晴らしい仕事をしている！\n\n実業家としての成功経験を持つランディは、素晴らしい雇用を創出し、革新を解き放ち、米国のエネルギー支配を確保するために必要なアメリカ・ファースト政策を理解している。彼は減税と規制緩和、米国製品の推進、現在非常に安全な国境の確保、移民犯罪の阻止、農業者と米国農業の擁護、勇敢な軍隊と退役軍人への支援、常に攻撃にさらされている修正第2条の保護のために、たゆまぬ努力で戦っている。\n\nランディ・ウェーバーは再選に向けて私の完全かつ絶対的な支持を得ている。ランディに投票しに行け―彼は君たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37503,22 +37453,6 @@
       "published": "Mon, 02 Nov 2026 23:07:52 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
-    },
-    "truth:117549362215165349": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43241",
-      "source_text": "<p>Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas' 14th Congressional District!<br /> <br />A successful Businessman, Randy knows the America First Policies necessary to Create GREAT Jobs, Unleash Innovation, and Ensure American Energy DOMINANCE. He is fighting tirelessly to Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Champion our Farmers and American Agriculture, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Randy Weber has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RANDY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 23:08:42 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:47.703316Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43241",
-      "first_seen": "2026-11-03T00:55:44.962291Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Randy Weber is doing a fantastic job representing the wonderful people of Texas' 14th Congressional District!\n \nA successful Businessman, ",
-      "next_retry_at": "2026-11-03T01:15:47.703334Z",
-      "truth_social_id": "117549362215165349"
     },
     "truth:117549362971285153": {
       "post_status": "RETRY",
