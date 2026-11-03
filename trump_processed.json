@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117151459351935981",
-    "https://www.trumpstruth.org/statuses/41158",
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117151547486235112",
     "truth:117151548188083547",
     "https://www.trumpstruth.org/statuses/41165",
     "truth:117151548758545533",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43248",
     "fp:Senator Dan S. Sullivan, the Best Senator in the History of Alaska, and one of the Best in the Country, should be running his Senatorial Race in Alask",
     "truth:117549340515171931",
-    "https://www.trumpstruth.org/statuses/43247"
+    "https://www.trumpstruth.org/statuses/43247",
+    "fp:It is my Honor to endorse MAGA Warrior TREVER NEHLS, who is running to represent the incredible people of Texas' 22nd Congressional District.\n \nTrever",
+    "truth:117549358290679280",
+    "https://www.trumpstruth.org/statuses/43246"
   ],
   "posts": {
-    "truth:117484750149421374": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42582",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18674/7521f4530d946f1b-537356f5d554.jpg\">View image</a></p>",
-      "published": "Thu, 22 Oct 2026 13:17:00 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-22T15:25:47.407846Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42582",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18674/7521f4530d946f1b-537356f5d554.jpg",
-      "media_identity": "attachment:117484750149421374:7521f4530d946f1b.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18674/7521f4530d946f1b-537356f5d554.jpg",
-      "truth_social_id": "117484750149421374",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18674/7521f4530d946f1b-537356f5d554.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqqwtmxksj",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3myhqqwtmxksj",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18674/7521f4530d946f1b-537356f5d554.jpg",
-        "createdAt": "2026-10-22T15:25:40.211802Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18674/7521f4530d946f1b-537356f5d554.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreieeggzdebazu7a4kkb6yxo7llqm77ytixslugclnyfiiiui3vnmlu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 146560
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 821,
-                "height": 1251
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqqwtmxksj",
-          "rkey": "3myhqqwtmxksj"
-        }
-      ]
-    },
     "truth:117484613863994238": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16061,6 +15991,24 @@
       "source_fingerprint": "fp:Senator Dan S. Sullivan, the Best Senator in the History of Alaska, and one of the Best in the Country, should be running his Senatorial Race in Alask",
       "media_identity": "attachment:117549340515171931:",
       "translation": "アラスカ州史上最高の上院議員であり、この国でも最高クラスの上院議員の一人であるダン・S・サリバン上院議員は、投票用紙に別のダン・サリバンを置くことで彼に対して犯された詐欺に対して、「抗議のもとで」アラスカ州の上院選挙を実施すべきだ。ダン・サリバン対ダン・サリバン――これほど馬鹿げたことがあるか？この件への注意をありがとう！大統領ドナルド・J・トランプ"
+    },
+    "truth:117549358290679280": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43246",
+      "source_text": "<p>It is my Honor to endorse MAGA Warrior TREVER NEHLS, who is running to represent the incredible people of Texas' 22nd Congressional District.<br /> <br />Trever's brother is the GREAT Congressman from Texas, Troy Nehls. He and his family are fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN. As a former Fort Bend County Constable, and retired U.S. Army Colonel, Trever strongly supports our incredible Law Enforcement, Military, and Veterans, and knows the Wisdom and Courage it takes to Ensure LAW AND ORDER. In Congress, Trever will work hard to Keep our now very Secure Border, SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Champion Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Trever Nehls has my Complete and Total Endorsement. GET OUT AND VOTE FOR TREVER — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 23:07:42 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T02:50:45.013139Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43246",
+      "first_seen": "2026-11-03T00:55:43.001860Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Honor to endorse MAGA Warrior TREVER NEHLS, who is running to represent the incredible people of Texas' 22nd Congressional District.\n \nTrever",
+      "truth_social_id": "117549358290679280",
+      "source_fingerprint": "fp:It is my Honor to endorse MAGA Warrior TREVER NEHLS, who is running to represent the incredible people of Texas' 22nd Congressional District.\n \nTrever",
+      "media_identity": "attachment:117549358290679280:",
+      "translation": "テキサス州第22地区の素晴らしい人々を代表するために立候補しているMAGA戦士トレバー・ネールスを支持することは、私の栄誉である。\n\nトレバーの兄弟はテキサスの素晴らしい下院議員、トロイ・ネールスだ。彼と彼の家族はアメリカを再び偉大にするための私たちの運動の激しい支持者である。フォート・ベンド郡の元コンスタブルであり、退役した米陸軍大佐として、トレバーは私たちの素晴らしい法執行機関、軍、退役軍人を強く支持しており、法と秩序を確保するために必要な知恵と勇気を知っている。下院では、トレバーは今やとても安全になった国境を安全に保つ、移民犯罪を止める、経済を成長させる、税金と規制をカットする、米国製を推進する、米国エネルギー支配を進める、選挙の完全性を擁護し、常に包囲下にある我々の第二修正条項を守るために全力で取り組むだろう。\n\nトレバー・ネールスは私の完全かつ絶対的な支持を得ている。外に出てトレバーに投票しろ――彼はお前たちを失望させることは決してない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37538,22 +37486,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
     },
-    "truth:117549358290679280": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43246",
-      "source_text": "<p>It is my Honor to endorse MAGA Warrior TREVER NEHLS, who is running to represent the incredible people of Texas' 22nd Congressional District.<br /> <br />Trever's brother is the GREAT Congressman from Texas, Troy Nehls. He and his family are fierce advocates for our Movement to, MAKE AMERICA GREAT AGAIN. As a former Fort Bend County Constable, and retired U.S. Army Colonel, Trever strongly supports our incredible Law Enforcement, Military, and Veterans, and knows the Wisdom and Courage it takes to Ensure LAW AND ORDER. In Congress, Trever will work hard to Keep our now very Secure Border, SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Champion Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Trever Nehls has my Complete and Total Endorsement. GET OUT AND VOTE FOR TREVER — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 23:07:42 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:44.779918Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43246",
-      "first_seen": "2026-11-03T00:55:43.001860Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Honor to endorse MAGA Warrior TREVER NEHLS, who is running to represent the incredible people of Texas' 22nd Congressional District.\n \nTrever",
-      "next_retry_at": "2026-11-03T01:15:44.779937Z",
-      "truth_social_id": "117549358290679280"
-    },
     "truth:117549359622733850": {
       "post_status": "RETRY",
       "media_state": "PENDING",
@@ -37818,6 +37750,54 @@
       "published": "Mon, 02 Nov 2026 22:55:48 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:55:35.655991Z"
+    },
+    "truth:117548940975730053": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43269",
+      "source_text": "<p>Congressman Rick Allen is an incredible Representative of Georgia's 12th Congressional District!<br /> <br />As a Member of the POWERFUL House Energy and Commerce Committee, Rick is working tirelessly to Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation's Golden Age. He is also relentlessly focused on helping us Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military/Veterans, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment.<br /> <br />Rick's opponent, Ceretta Smith, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Ceretta Smith is Reckless, Radical, and Dangerous!<br /> <br />Rick Allen has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR RICK — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/georgia/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/georgia/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 21:21:34 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-03T02:50:38.418435Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43269",
+      "first_seen": "2026-11-03T02:50:38.418394Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congressman Rick Allen is an incredible Representative of Georgia's 12th Congressional District!\n \nAs a Member of the POWERFUL House Energy and Commer",
+      "next_retry_at": "2026-11-03T02:55:38.418445Z",
+      "truth_social_id": "117548940975730053"
+    },
+    "truth:117548968575947811": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43268",
+      "source_text": "<p>I am pleased to inform you that I will be doing the Great Sean Hannity Show tonight at 9 PM ET. This is the Golden Age of America with 25 Trillion Dollars of Growth and Wealth being created just since my Election — A very short period of time. There has never been anything like it in World History, nor has there been anything close. Additionally, NO TAX ON TIPS, NO TAX ON OVERTIME, NO TAX ON SOCIAL SECURITY FOR OUR GREAT SENIORS! It has all been a BLESSING for our Country. It is my Great Honor to be your President during this Great Time in American History! President DONALD J. TRUMP</p>",
+      "published": "Mon, 02 Nov 2026 21:28:36 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-03T02:50:38.900517Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43268",
+      "first_seen": "2026-11-03T02:50:38.900468Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I am pleased to inform you that I will be doing the Great Sean Hannity Show tonight at 9 PM ET. This is the Golden Age of America with 25 Trillion Dol",
+      "next_retry_at": "2026-11-03T02:55:38.900528Z",
+      "truth_social_id": "117548968575947811"
+    },
+    "truth:117548973912202629": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43267",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Dr. John Cowan, who is running to represent the Wonderful People of Georgia's 11th Congressional District!<br /> <br />A Proven Leader, John has served his Community well as a Highly Respected Neurosurgeon, Small Business Owner, and Civic Leader, prior to running for Congress. His opponent, Chris Harden, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Chris Harden is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congressman, John will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Dr. John Cowan has my Complete and Total Endorsement to be the next Representative from Georgia's 11th Congressional District. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/georgia/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/georgia/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 21:29:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-03T02:50:39.431449Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43267",
+      "first_seen": "2026-11-03T02:50:39.431402Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Dr. John Cowan, who is running to represent the Wonderful People of Georgia's 11th Congressiona",
+      "next_retry_at": "2026-11-03T02:55:39.431458Z",
+      "truth_social_id": "117548973912202629"
     }
   }
 }
