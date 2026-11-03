@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41180",
-    "truth:117151549778023900",
-    "https://www.trumpstruth.org/statuses/41162",
     "truth:117152866332433061",
     "https://www.trumpstruth.org/statuses/41178",
     "fp:The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to doing much business ",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43222",
     "fp:Congressman Jake Ellzey is an America First Patriot who is doing an incredible job representing Texas' 6th Congressional District!\n \nA former Navy fig",
     "truth:117549367431386833",
-    "https://www.trumpstruth.org/statuses/43221"
+    "https://www.trumpstruth.org/statuses/43221",
+    "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas' 5th Congressional District!\n \nA MAGA Warrior, w",
+    "truth:117549368437362020",
+    "https://www.trumpstruth.org/statuses/43220"
   ],
   "posts": {
-    "truth:117484789178664222": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42589",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484788448196895</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18678/041b4911339ff855-7466d232b29b.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42590\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18679/73ec0d32b9239f6b-f530db617da7.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 22 Oct 2026 13:26:56 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-22T17:00:36.998422Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42589",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484788448196895https://truth-archive.us-iad-1.linodeobjects.com/attachments/18678/041b49",
-      "media_identity": "attachment:117484789178664222:041b4911339ff855.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484788448196895https://truth-archive.us-iad-1.linodeobjects.com/attachments/18678/041b49",
-      "truth_social_id": "117484789178664222",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117484788448196895https://truth-archive.us-iad-1.linodeobjects.com/attachments/18678/041b4911339ff855-7466d232b29b.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42590https://truth-archive.us-iad-1.linodeobjects.com/attachments/18679/73ec0d32b9239f6b-f530db617da7.mp4"
-    },
     "truth:117484810285466543": {
       "post_status": "POSTED",
       "media_state": "INVALID",
@@ -15891,6 +15875,24 @@
       "source_fingerprint": "fp:Congressman Jake Ellzey is an America First Patriot who is doing an incredible job representing Texas' 6th Congressional District!\n \nA former Navy fig",
       "media_identity": "attachment:117549367431386833:",
       "translation": "下院議員ジェイク・エルジーはアメリカ・ファースト愛国者であり、テキサス州第6選挙区を代表して素晴らしい仕事をしている。\n\n元海軍戦闘機パイロット、戦闘退役軍人であるジェイクは、我が国を防衛し、勇敢な軍人と退役軍人を支持し、「力による平和」を確保するために必要な知恵と勇気を知っている。議会では、今や極めて安全になった我が国の国境をセキュアに保ち、不法移民犯罪を止め、税制と規制を削減し、アメリカンエネルギーの優位性を解き放ち、アメリカ製を推進し、経済を成長させ、常に攻撃にさらされている修正第2条を守るために懸命に取り組んでいる。\n\nジェイク・エルジーは再選に対して、私の完全かつ絶対的な支持を得ている。ジェイクのために投票に行け——彼はお前たちを決して失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
+    },
+    "truth:117549368437362020": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43220",
+      "source_text": "<p>Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas' 5th Congressional District!<br /> <br />A MAGA Warrior, who has been with us from the very beginning, Lance is working hard to Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Support our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Lance Gooden has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR LANCE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 23:10:17 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T04:10:41.526011Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43220",
+      "first_seen": "2026-11-03T00:55:49.432670Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas' 5th Congressional District!\n \nA MAGA Warrior, w",
+      "truth_social_id": "117549368437362020",
+      "source_fingerprint": "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas' 5th Congressional District!\n \nA MAGA Warrior, w",
+      "media_identity": "attachment:117549368437362020:",
+      "translation": "ランス・グーデン下院議員はアメリカ・ファースト派の愛国者であり、テキサス州第5区民を素晴らしく代表する仕事をしている！\n\n最初からずっと我々と共にいるMAGA戦士であるランスは、経済成長、増税廃止・規制撤廃、アメリカンエネルギー優位性の確立、アメリカ製推進、現在非常に厳格な国境の維持、軍部・退役軍人の支援、そして常に標的にされている第2修正条項の保護のため懸命に取り組んでいる。\n\nランス・グーデンは再選に向けて私の完全で全面的な支持を得ている。投票に行ってランスに投票してくれ──彼は決してお前たちを失望させないだろう！大統領 ドナルド・J・トランプ\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37367,22 +37369,6 @@
       "published": "Mon, 02 Nov 2026 23:07:52 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
-    },
-    "truth:117549368437362020": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43220",
-      "source_text": "<p>Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas' 5th Congressional District!<br /> <br />A MAGA Warrior, who has been with us from the very beginning, Lance is working hard to Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Support our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Lance Gooden has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR LANCE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 23:10:17 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:51.980908Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43220",
-      "first_seen": "2026-11-03T00:55:49.432670Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas' 5th Congressional District!\n \nA MAGA Warrior, w",
-      "next_retry_at": "2026-11-03T01:15:51.980924Z",
-      "truth_social_id": "117549368437362020"
     },
     "truth:117549383558032243": {
       "post_status": "RETRY",
