@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41188",
-    "fp:PRESIDENT TRUMP RALLIES SOUTH CAROLINA VOTERS BEHIND DARLINE GRAHAM AHEAD OF GOP SENATE RUNOFF: \nhttps://www.rsbnetwork.com/news/president-trump-ralli",
-    "truth:117156895044774814",
     "https://www.trumpstruth.org/statuses/41192",
     "fp:Secretary Sean Duffy: My job is to get my daughter into heaven, not Harvard: \nhttps://www.foxnews.com/opinion/sec-sean-duffy-job-get-daughter-heaven-n",
     "truth:117156895959885058",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43279",
     "fp:TO THE GREAT PEOPLE OF LOUISIANA, I will be doing a TeleRally, LIVE, at 8:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP\nhttps://s",
     "truth:117549825907423870",
-    "https://www.trumpstruth.org/statuses/43278"
+    "https://www.trumpstruth.org/statuses/43278",
+    "fp:RT \nhttps://truthsocial.com/@WhiteHouseDecline was a choice.\nPresident Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's ",
+    "truth:117550235500967429",
+    "https://www.trumpstruth.org/statuses/43272"
   ],
   "posts": {
-    "truth:117485115943802855": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42604",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18688/5854bbdffd5a851a-f2a252840e21.mp4\">View video</a></p>",
-      "published": "Thu, 22 Oct 2026 14:50:02 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-22T17:56:05.176056Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42604",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18688/5854bbdffd5a851a-f2a252840e21.mp4",
-      "media_identity": "attachment:117485115943802855:5854bbdffd5a851a-f2a252840e21.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18688/5854bbdffd5a851a-f2a252840e21.mp4",
-      "truth_social_id": "117485115943802855",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18688/5854bbdffd5a851a-f2a252840e21.mp4"
-    },
     "truth:117485117656819697": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15818,6 +15802,25 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF LOUISIANA, I will be doing a TeleRally, LIVE, at 8:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP\nhttps://s",
       "truth_social_id": "117549825907423870",
       "translation": "ルイジアナの皆さんへ、私は8時15分（東部時間）にテレラリーをライブで行う。電話に出て、楽しんでくれ！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/states/louisiana/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18837/5662b6be67ccbee4-de42046a384d.jpg"
+    },
+    "truth:117550235500967429": {
+      "post_status": "POSTED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/43272",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@WhiteHouse\" rel=\"nofollow\">@<span>WhiteHouse</span></a></span>Decline was a choice.</p><p>President Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's capital and a country we are proud to call home. 🇺🇸</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/43273\">The White House</a></p><blockquote><p>Decline was a choice.</p><p>President Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's capital and a country we are proud to call home. 🇺🇸</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18836/browser-safe.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 03 Nov 2026 03:16:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-03T05:10:44.742713Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43272",
+      "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@WhiteHouseDecline was a choice.\nPresident Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's ",
+      "media_identity": "attachment:117550235500967429:8a65666b4e95116f.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:RT \nhttps://truthsocial.com/@WhiteHouseDecline was a choice.\nPresident Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's ",
+      "truth_social_id": "117550235500967429",
+      "allow_text_fallback": true,
+      "fallback_policy_version": 1,
+      "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/550/232/969/334/236/original/8a65666b4e95116f.mp4",
+      "translation": "それは選択だった。\nドナルド・J・トランプ大統領はワシントンD.C.を再び美しくし、我が国の首都と私たちが誇りを持って故郷と呼ぶ国に偉大さを取り戻した。🇺🇸\nリポスト\nhttps://www.trumpstruth.org/statuses/43273Decline それは選択だった。\nドナルド・J・トランプ大統領はワシントンD.C.を再び美しくし、我が国の首都と私たちが誇りを持って故郷と呼ぶ国に偉大さを取り戻した。🇺🇸\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18836/browser-safe.mp4"
     },
     "truth:117548794255120998": {
       "post_status": "DISCOVERED",
@@ -37546,14 +37549,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43282",
       "source_text": "<p>Congressman Steve Scalise is an America First Patriot and a terrific Representative of Louisiana's 1st Congressional District!<br /> <br />He is strong and brave, having almost lost his life to an assassin's gun. As the Majority Leader of the U.S. House of Representatives, Steve is a Proven Leader who is doing a fantastic job advancing our America First and Make America Great Again Agenda. He is working tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Brave Military/Veterans, Ensure LAW AND ORDER, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Steve's opponent, Lauren Jewett, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Lauren Jewett is Reckless, Radical, and Dangerous!<br /> <br />Steve Scalise is SMART, STRONG, AND TOUGH, and has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR STEVE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/louisiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/louisiana/</span><span class=\"invisible\"></span></a></p>",
       "published": "Tue, 03 Nov 2026 01:04:38 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-03T05:00:57.714170Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T05:10:40.695580Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43282",
       "first_seen": "2026-11-03T05:00:57.714129Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Steve Scalise is an America First Patriot and a terrific Representative of Louisiana's 1st Congressional District!\n \nHe is strong and brav",
-      "next_retry_at": "2026-11-03T05:05:57.714178Z",
+      "next_retry_at": "2026-11-03T05:20:40.695594Z",
       "truth_social_id": "117549818061578663"
     },
     "truth:117549820408877420": {
@@ -37562,14 +37565,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43281",
       "source_text": "<p>Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana's 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives. He is able to get things done when nobody else can!<br /> <br />As Speaker, Mike is working tirelessly to deliver and codify our very successful America First and Make America Great Again Agenda. He is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion our Great Farmers and American Agriculture, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />Mike Johnson is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MIKE — HE IS A GREAT PATRIOT WHO WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/louisiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/louisiana/</span><span class=\"invisible\"></span></a></p>",
       "published": "Tue, 03 Nov 2026 01:05:13 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-03T05:01:00.185297Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T05:10:41.079776Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43281",
       "first_seen": "2026-11-03T05:01:00.185263Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana's 4th Congressional District, and a stron",
-      "next_retry_at": "2026-11-03T05:06:00.185303Z",
+      "next_retry_at": "2026-11-03T05:20:41.079790Z",
       "truth_social_id": "117549820408877420"
     },
     "truth:117549822570920008": {
@@ -37578,25 +37581,15 @@
       "status_url": "https://www.trumpstruth.org/statuses/43280",
       "source_text": "<p>It is my Great Honor to endorse Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, who is running for the United States Senate in Louisiana, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!<br /> <br />Julia is a Great Star, has been from the very beginning, and only gets better! I know Julia well, have seen her tested at the highest and most difficult levels, and she is a TOTAL WINNER! A Proud Mother of two children, Julia is a wonderful person, and has ALWAYS delivered for Louisiana. Her opponent, Jamie Davis, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Jamie Davis is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Senator, Julia will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Fishermen, Champion Louisiana Oil &amp; Gas, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Julia Letlow has my Complete and Total Endorsement to be the next United States Senator from the Great State of Louisiana. GET OUT AND VOTE FOR JULIA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/louisiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/louisiana/</span><span class=\"invisible\"></span></a></p>",
       "published": "Tue, 03 Nov 2026 01:05:46 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-03T05:01:03.538417Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T05:10:41.414962Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43280",
       "first_seen": "2026-11-03T05:01:03.538382Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:It is my Great Honor to endorse Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, who is running for th",
-      "next_retry_at": "2026-11-03T05:06:03.538423Z",
+      "next_retry_at": "2026-11-03T05:20:41.414976Z",
       "truth_social_id": "117549822570920008"
-    },
-    "truth:117550235500967429": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43272",
-      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@WhiteHouse\" rel=\"nofollow\">@<span>WhiteHouse</span></a></span>Decline was a choice.</p><p>President Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's capital and a country we are proud to call home. 🇺🇸</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/43273\">The White House</a></p><blockquote><p>Decline was a choice.</p><p>President Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's capital and a country we are proud to call home. 🇺🇸</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18836/browser-safe.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 03 Nov 2026 03:16:10 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-03T04:50:38.136341Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43272"
     }
   }
 }
