@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117151547486235112",
-    "https://www.trumpstruth.org/statuses/41166",
-    "truth:117151562052475379",
     "https://www.trumpstruth.org/statuses/41161",
     "fp:Lots of “bluster” from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent",
     "truth:117151799569745572",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43239",
     "fp:Congressman August Pfluger is a Tremendous Champion for Texas' 11th Congressional District!\n \nAs the Chairman of the Republican Study Committee, Augus",
     "truth:117549364326224452",
-    "https://www.trumpstruth.org/statuses/43238"
+    "https://www.trumpstruth.org/statuses/43238",
+    "fp:It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.\n \nA",
+    "truth:117549365107050542",
+    "https://www.trumpstruth.org/statuses/43237"
   ],
   "posts": {
-    "truth:117484759382385894": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42578",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18670/69d51a9c33ae8840-ee93b215d4b9.png\">View image</a></p>",
-      "published": "Thu, 22 Oct 2026 13:19:21 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-22T16:30:48.488099Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42578",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18670/69d51a9c33ae8840-ee93b215d4b9.png",
-      "media_identity": "attachment:117484759382385894:69d51a9c33ae8840.png",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18670/69d51a9c33ae8840-ee93b215d4b9.png",
-      "truth_social_id": "117484759382385894",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18670/69d51a9c33ae8840-ee93b215d4b9.png",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqv572yk3t",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3myhqv572yk3t",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18670/69d51a9c33ae8840-ee93b215d4b9.png",
-        "createdAt": "2026-10-22T16:30:41.331045Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18670/69d51a9c33ae8840-ee93b215d4b9.png"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibbpgvfvofqae4hdzdmzrh4gg2vcq5uws4w4i5s3nlqflfouigz3u"
-                },
-                "mimeType": "image/jpeg",
-                "size": 138733
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 866,
-                "height": 952
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqv572yk3t",
-          "rkey": "3myhqv572yk3t"
-        }
-      ]
-    },
     "truth:117484759649101356": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15983,6 +15913,24 @@
       "source_fingerprint": "fp:Congressman August Pfluger is a Tremendous Champion for Texas' 11th Congressional District!\n \nAs the Chairman of the Republican Study Committee, Augus",
       "media_identity": "attachment:117549364326224452:",
       "translation": "下院議員オーガスト・フルガーはテキサス州第11議会区の素晴らしいチャンピオンだ！\n\n共和党研究委員会の委員長として、オーガストはアメリカ・ファースト・アジェンダを推し進める素晴らしい仕事をしている。彼は経済を成長させ、税金と規制を削減し、偉大な農民とアメリカ農業を支持し、米国製を推進し、アメリカン・エネルギーの支配を確保し、今やとても安全になった我が国の国境を安全に保ち、信じられない程素晴らしい軍隊と退役軍人を強化し、常に攻撃にさらされている第二修正条項を守るために懸命に働いている。\n\nオーガスト・フルガーは再選について私の完全で絶対的な支持を得ている。投票に行ってオーガストに投票しろ—彼は絶対にお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
+    },
+    "truth:117549365107050542": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43237",
+      "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.<br /> <br />A Harvard Law School Graduate, and very successful Lawyer, Chris knows the Wisdom and Courage required to uphold our Constitution, and promote LAW AND ORDER. In Congress, Chris will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Strongly Support our incredible Law Enforcement, Military, and Veterans, and Protect our always under siege Second Amendment.<br /> <br />Chris Gober has my Complete and Total Endorsement. GET OUT AND VOTE FOR CHRIS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 23:09:26 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T03:50:44.069572Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43237",
+      "first_seen": "2026-11-03T00:55:47.177657Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.\n \nA",
+      "truth_social_id": "117549365107050542",
+      "source_fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.\n \nA",
+      "media_identity": "attachment:117549365107050542:",
+      "translation": "テキサス州第10下院選挙区の素晴らしい人々を代表して立候補しているMAGA戦士クリス・ゴーバーを支持することは、私の大きな栄誉である。\n\nハーバード・ロースクール卒業生で非常に成功した弁護士であるクリスは、憲法を擁護し、法と秩序を推進するために必要な知恵と勇気を備えている。議会ではクリスは、経済を成長させ、税金と規制を削減し、米国製を推進し、アメリカンエネルギーの支配権を確立し、今や非常に安全になった国境を安全に保ち、信じられないほど優れた法執行機関、軍、退役軍人を強く支持し、常に脅威にさらされている修正第2条を守るために、たゆまず戦うだろう。\n\nクリス・ゴーバーは私の完全で全面的な支持を得ている。クリスに投票しに行け――彼は絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37459,22 +37407,6 @@
       "published": "Mon, 02 Nov 2026 23:07:52 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
-    },
-    "truth:117549365107050542": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43237",
-      "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.<br /> <br />A Harvard Law School Graduate, and very successful Lawyer, Chris knows the Wisdom and Courage required to uphold our Constitution, and promote LAW AND ORDER. In Congress, Chris will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Strongly Support our incredible Law Enforcement, Military, and Veterans, and Protect our always under siege Second Amendment.<br /> <br />Chris Gober has my Complete and Total Endorsement. GET OUT AND VOTE FOR CHRIS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 23:09:26 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:49.333704Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43237",
-      "first_seen": "2026-11-03T00:55:47.177657Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.\n \nA",
-      "next_retry_at": "2026-11-03T01:15:49.333721Z",
-      "truth_social_id": "117549365107050542"
     },
     "truth:117549365926172026": {
       "post_status": "RETRY",
