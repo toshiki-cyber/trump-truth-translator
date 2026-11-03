@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:I supported and ENDORSED two so-called “underdogs” yesterday, one from South Carolina, and the other from Oklahoma, and they BOTH WON. Two great peopl",
-    "truth:117161576325328403",
-    "https://trumpstruth.org/statuses/41217",
     "fp:Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT",
     "truth:117161589385228268",
     "https://trumpstruth.org/statuses/41219",
@@ -5000,69 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43300",
     "fp:Aaron Flint will be a tremendous Congressman for the amazing people of  Montana’s 1st Congressional District!\nA Fifth Generation Montanan, and disting",
     "truth:117552482303378291",
-    "https://www.trumpstruth.org/statuses/43315"
+    "https://www.trumpstruth.org/statuses/43315",
+    "fp:Former Governor Paul LePage will be a tremendous Congressman for the amazing people of Maine’s 2nd Congressional District!\nA proven America First Figh",
+    "truth:117552482762738484",
+    "https://www.trumpstruth.org/statuses/43314"
   ],
   "posts": {
-    "truth:117486880515701383": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42629",
-      "source_text": "<p>TO THE GREAT PEOPLE OF MARYLAND, GET OUT AND VOTE FOR:<br /> <br />– Andy Harris for U.S. Congress (MD-01)<br /> <br />Andy is a Great Patriot and has my Complete and Total Endorsement — He will never let you down! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/maryland/%C2%A0\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/maryland/�</span><span class=\"invisible\">�</span></a></p>",
-      "published": "Thu, 22 Oct 2026 22:18:47 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-23T00:40:31.332775Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42629",
-      "first_seen": "2026-10-22T23:10:31.984794Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:TO THE GREAT PEOPLE OF MARYLAND, GET OUT AND VOTE FOR:\n \n– Andy Harris for U.S. Congress (MD-01)\n \nAndy is a Great Patriot and has my Complete and Tot",
-      "truth_social_id": "117486880515701383",
-      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF MARYLAND, GET OUT AND VOTE FOR:\n \n– Andy Harris for U.S. Congress (MD-01)\n \nAndy is a Great Patriot and has my Complete and Tot",
-      "media_identity": "attachment:117486880515701383:",
-      "translation": "メリーランド州の皆さんへ、投票に行ってください：\n\n– アンディ・ハリスを米国下院議員（メリーランド州第1区）に\n\nアンディは偉大な愛国者であり、彼は私の完全で全面的な支持を得ている——彼は決して皆さんを裏切らない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/maryland/%C2%A0",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myiozpqqm2io",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myiozpqqm2io",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "メリーランド州の皆さんへ、投票に行ってください：\n\n– アンディ・ハリスを米国下院議員（メリーランド州第1区）に\n\nアンディは偉大な愛国者であり、彼は私の完全で全面的な支持を得ている——彼は決して皆さんを裏切らない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/maryland/%C2%A0",
-        "createdAt": "2026-10-23T00:30:34.448137Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 353,
-              "byteEnd": 396
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://swampthevoteusa.com/maryland/%C2%A0"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://swampthevoteusa.com/maryland/%C2%A0",
-            "title": "https://swampthevoteusa.com/maryland/%C2%A0",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myiozpqqm2io",
-          "rkey": "3myiozpqqm2io"
-        }
-      ]
-    },
     "truth:117486885112939890": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15851,6 +15791,24 @@
       "source_fingerprint": "fp:Aaron Flint will be a tremendous Congressman for the amazing people of  Montana’s 1st Congressional District!\nA Fifth Generation Montanan, and disting",
       "media_identity": "attachment:117552482303378291:",
       "translation": "アーロン・フリントはモンタナ州第1議会地区の素晴らしい人々のための非常に優秀な下院議員となるだろう!\n\nアーロンは5代目モンタナ州生まれで、名誉ある戦闘退役軍人であり、自分の偉大な州と国への奉仕に人生を捧げてきた。フリント中佐はイラクとアフガニスタンで名誉を持って国に奉仕し、勇敢さに対して2つの青星勲章を授与された。アーロンは妻ジェシカと3人の美しい子どもたちがいる。次の下院議員として、アーロンは素晴らしい農家と牧場主を支持し、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、アメリカのエネルギー支配力を解放し、国境を安全に保ち、移民犯罪を止め、軍隊と退役軍人を支援し、選挙を守り、常に攻撃を受けている修正第2条を守るために懸命に働くだろう。\n\nアーロンの対立候補サム・フォルスタグは、チップに対する課税なし、残業に対する課税なし、社会保障に対する課税なしに反対する過激左翼民主党員だ。もし彼と民主党員たちが権力を握ることになれば、これらのものはすべて廃止されるだろう。彼は大幅な増税、オープンボーダー、女性スポーツへの男性の参加、子どもたちのトランスジェンダー変性を望んでいる。サム・フォルスタグは無責任で、過激で、危険だ!\n\nアーロン・フリントはモンタナ州第1議会地区の次の下院議員に選ばれるために、私の完全かつ全面的な支持を得ている。アーロンに投票するために立ち上がろう—彼はあなたを失望させることはないだろう!ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/montana/"
+    },
+    "truth:117552482762738484": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43314",
+      "source_text": "<p>Former Governor Paul LePage will be a tremendous Congressman for the amazing people of Maine’s 2nd Congressional District!</p><p>A proven America First Fighter, Paul has been with us from the very beginning, helping us, MAKE AMERICA GREAT AGAIN! In Congress, he will work hard to Grow our Economy, Strongly Advocate for Maine’s Great Lobstermen, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Paul’s opponent, Matt Dunlap, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Matt Dunlap is Reckless, Radical, and Dangerous! <br /> <br />Paul LePage has my Complete and Total Endorsement to be the next Representative from Maine’s 2nd Congressional District. GET OUT AND VOTE FOR PAUL — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/maine/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/maine/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Tue, 03 Nov 2026 12:22:18 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T13:50:42.378878Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43314",
+      "first_seen": "2026-11-03T12:50:38.047859Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Former Governor Paul LePage will be a tremendous Congressman for the amazing people of Maine’s 2nd Congressional District!\nA proven America First Figh",
+      "truth_social_id": "117552482762738484",
+      "source_fingerprint": "fp:Former Governor Paul LePage will be a tremendous Congressman for the amazing people of Maine’s 2nd Congressional District!\nA proven America First Figh",
+      "media_identity": "attachment:117552482762738484:",
+      "translation": "前知事ポール・ルページはメイン州第2下院地区の素晴らしい国民にとって素晴らしい下院議員になるだろう!\n\n実績のあるアメリカ第一主義の戦士であるポールは最初からずっと私たちと共にあり、私たちを助けてくれた、アメリカを再び偉大にする!下院では、経済を成長させ、メイン州の素晴らしいロブスター漁業者を強く支持し、減税と規制緩和を行い、米国製を推進し、米国のエネルギー支配力を解放し、選挙を保護し、国境を厳重に守り、移民犯罪を停止し、軍隊と退役軍人を強化し、常に攻撃下にある我が国の第2修正案を守るために懸命に働くだろう。\n\nポールの対立候補であるマット・ダンラップは、チップに対する非課税、超過勤務に対する非課税、社会保障に対する非課税に反対する極左民主党員であり、もし彼とデモクラッツが政権を取ることになれば、これらすべてのものは廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツでプレーする男性、そしてお前たちの子どもへのトランスジェンダー切除を望んでいる。マット・ダンラップは無責任で、過激で、危険だ!\n\nポール・ルページはメイン州第2下院地区の次の代表になるための私の完全かつ全面的な支持を得ている。出かけてポールに投票しろ—彼は絶対にお前たちを失望させることはないだろう!ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/maine/"
     },
     "truth:117548794255120998": {
       "post_status": "DISCOVERED",
@@ -37516,22 +37474,6 @@
       "published": "Tue, 03 Nov 2026 12:21:32 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T12:50:32.686263Z"
-    },
-    "truth:117552482762738484": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43314",
-      "source_text": "<p>Former Governor Paul LePage will be a tremendous Congressman for the amazing people of Maine’s 2nd Congressional District!</p><p>A proven America First Fighter, Paul has been with us from the very beginning, helping us, MAKE AMERICA GREAT AGAIN! In Congress, he will work hard to Grow our Economy, Strongly Advocate for Maine’s Great Lobstermen, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Paul’s opponent, Matt Dunlap, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Matt Dunlap is Reckless, Radical, and Dangerous! <br /> <br />Paul LePage has my Complete and Total Endorsement to be the next Representative from Maine’s 2nd Congressional District. GET OUT AND VOTE FOR PAUL — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/maine/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/maine/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Tue, 03 Nov 2026 12:22:18 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T13:00:35.192487Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43314",
-      "first_seen": "2026-11-03T12:50:38.047859Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Former Governor Paul LePage will be a tremendous Congressman for the amazing people of Maine’s 2nd Congressional District!\nA proven America First Figh",
-      "next_retry_at": "2026-11-03T13:10:35.192506Z",
-      "truth_social_id": "117552482762738484"
     },
     "truth:117552489911701263": {
       "post_status": "RETRY",
