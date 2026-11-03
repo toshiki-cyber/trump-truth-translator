@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117155835599867728",
-    "https://www.trumpstruth.org/statuses/41184",
-    "fp:I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a wea",
     "truth:117155941181023687",
     "https://www.trumpstruth.org/statuses/41185",
     "fp:Canada has been “Ripping Off” the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S.",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43235",
     "fp:Congressman Keith Self is a Tremendous Advocate for the Great People of Texas' 3rd Congressional District!\n \nA West Point Graduate and retired Army Ra",
     "truth:117549384265482007",
-    "https://www.trumpstruth.org/statuses/43234"
+    "https://www.trumpstruth.org/statuses/43234",
+    "fp:It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas' 2nd Congressional District!\n \nA ",
+    "truth:117549384922095836",
+    "https://www.trumpstruth.org/statuses/43233"
   ],
   "posts": {
-    "truth:117485094463997684": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42598",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18682/a4c7521289b00e8c-78e6a9aa364c.png\">View image</a></p>",
-      "published": "Thu, 22 Oct 2026 14:44:34 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-22T17:40:35.251264Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42598",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18682/a4c7521289b00e8c-78e6a9aa364c.png",
-      "media_identity": "attachment:117485094463997684:a4c7521289b00e8c.png",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18682/a4c7521289b00e8c-78e6a9aa364c.png",
-      "truth_social_id": "117485094463997684",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18682/a4c7521289b00e8c-78e6a9aa364c.png",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhvnjbmhkhu",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3myhvnjbmhkhu",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18682/a4c7521289b00e8c-78e6a9aa364c.png",
-        "createdAt": "2026-10-22T17:30:39.555493Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18682/a4c7521289b00e8c-78e6a9aa364c.png"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreidlwomhxdma34nifcvmthlijs4m35n7tslohpiyamzhx4xrzjliuu"
-                },
-                "mimeType": "image/jpeg",
-                "size": 140058
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 894,
-                "height": 972
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhvnjbmhkhu",
-          "rkey": "3myhvnjbmhkhu"
-        }
-      ]
-    },
     "truth:117485115137858032": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15894,6 +15824,24 @@
       "source_fingerprint": "fp:Congressman Keith Self is a Tremendous Advocate for the Great People of Texas' 3rd Congressional District!\n \nA West Point Graduate and retired Army Ra",
       "media_identity": "attachment:117549384265482007:",
       "translation": "キース・セルフ下院議員はテキサス州第3区の素晴らしい人々のための素晴らしい擁護者である！\n\nウェストポイント出身で陸軍レンジャー退役軍人のキースは、わが国を防衛し、信じられないほど素晴らしい軍隊と退役軍人を支援し、力による平和を確保するために必要な知恵と勇気を知っている。下院では、現在非常に安全になった我々の国境を安全に保ち、移民犯罪を止め、税金と規制を削減し、米国のエネルギー支配を解放し、米国製を推進し、我々の選挙を保護し、常に包囲されている我々の修正第2条を守るために懸命に働いている。\n\nキースの対立候補であるエバン・ハントは、チップに対する税金なし、残業に対する税金なし、社会保障に対する税金なしに反対する過激左翼民主党員であり、彼と民主党員がもし権力を得れば、これらすべてのものが廃止される。彼は大幅な増税、開かれた国境、女性スポーツに出場する男性、そして児童への性転換手術を望んでいる。エバン・ハントは無責任で、過激で、危険である！\n\nキース・セルフは再選のための私の完全で絶対的な支持を得ている。外出投票してキースに投票しろ—彼は絶対にお前たちを失望させない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/texas/"
+    },
+    "truth:117549384922095836": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43233",
+      "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas' 2nd Congressional District!<br /> <br />A Highly Respected State Legislator, and Very Successful Small Business Owner, Steve has been an incredible Voice for MAGA, and has been with me from the very beginning! As your next Congressman, he will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion School Choice, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Steve Toth has my Complete and Total Endorsement to be the next Representative from Texas' 2nd Congressional District. GET OUT AND VOTE FOR STEVE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 23:14:28 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T04:25:40.947770Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43233",
+      "first_seen": "2026-11-03T00:55:51.288972Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas' 2nd Congressional District!\n \nA ",
+      "truth_social_id": "117549384922095836",
+      "source_fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas' 2nd Congressional District!\n \nA ",
+      "media_identity": "attachment:117549384922095836:",
+      "translation": "テキサス州第2下院地区の素晴らしい人民を代表するために立候補しているMAGA戦士スティーブ・トスを推薦することは、私の大きな栄誉だ！\n\n高く尊敬される州議員であり、非常に成功した中小企業経営者であるスティーブは、MAGAの信じられないほどの声となってきた。そして彼は最初からずっと私と共にいた！次期下院議員として、彼は経済成長のために、また税金と規制削減のために、学校選択を支持するために、アメリカンエネルギーの支配権を解放するために、国境をしっかり守るために、移民犯罪を止めるために、軍人と退役軍人を支持するために、選挙の完全性を推し進めるために、そして常に脅威にさらされている憲法修正第2条を守るために、絶え間なく戦うだろう。\n\nスティーブ・トスはテキサス州第2下院地区の次期代表者となるための、私の完全で絶対的な推薦を受けている。スティーブに投票するために外に出ろ－彼は決してお前たちを失望させることはないだろう！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37370,22 +37318,6 @@
       "published": "Mon, 02 Nov 2026 23:07:52 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
-    },
-    "truth:117549384922095836": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43233",
-      "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas' 2nd Congressional District!<br /> <br />A Highly Respected State Legislator, and Very Successful Small Business Owner, Steve has been an incredible Voice for MAGA, and has been with me from the very beginning! As your next Congressman, he will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion School Choice, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Steve Toth has my Complete and Total Endorsement to be the next Representative from Texas' 2nd Congressional District. GET OUT AND VOTE FOR STEVE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 23:14:28 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:53.997644Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43233",
-      "first_seen": "2026-11-03T00:55:51.288972Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas' 2nd Congressional District!\n \nA ",
-      "next_retry_at": "2026-11-03T01:15:53.997661Z",
-      "truth_social_id": "117549384922095836"
     },
     "truth:117549385507547999": {
       "post_status": "RETRY",
