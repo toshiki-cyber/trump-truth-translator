@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41155",
-    "fp:The Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Oper",
-    "truth:117151357800143501",
     "https://www.trumpstruth.org/statuses/41156",
     "truth:117151462697237422",
     "https://www.trumpstruth.org/statuses/41157",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43250",
     "fp:Congresswoman Beth Van Duyne is a fantastic Champion for the Great People of Texas' 24th Congressional District!\n \nA former appointee in my First Admi",
     "truth:117549325547300107",
-    "https://www.trumpstruth.org/statuses/43249"
+    "https://www.trumpstruth.org/statuses/43249",
+    "fp:It is my Great Honor to endorse America First Patriot, Brandon Herrera, who is running to represent the wonderful people of Texas' 23rd Congressional ",
+    "truth:117549339070696337",
+    "https://www.trumpstruth.org/statuses/43248"
   ],
   "posts": {
-    "truth:117484618730589847": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42575",
-      "source_text": "<p>🚨 GEORGIA!</p><p>Early Voting, in-person, is UNDERWAY NOW in the Great State of Georgia. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!</p><p>Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Georgia, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!  President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/georgia/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/georgia/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Thu, 22 Oct 2026 12:43:35 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-22T13:40:33.706212Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42575",
-      "first_seen": "2026-10-22T13:10:30.828749Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:🚨 GEORGIA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Georgia. If you have a mail-in ballot, return it immediately and, if not, GO",
-      "truth_social_id": "117484618730589847",
-      "source_fingerprint": "fp:🚨 GEORGIA!\nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Georgia. If you have a mail-in ballot, return it immediately and, if not, GO",
-      "media_identity": "attachment:117484618730589847:",
-      "translation": "🚨 ジョージア州へ！\nジョージア州での期日前投票（本人投票）が今まさに進行中だ。郵便投票用紙を持っている者は直ちに返送し、持っていない者は今すぐ投票所に行って投票せよ。そして知人全員に、投票用紙のあらゆる欄で共和党候補に投票するよう働きかけろ！\n期日前投票、不在者投票、郵便投票、本人投票のいずれの方法であれ、共和党は左翼の過激派民主党員どもを圧倒的投票数で叩きのめさねばならん。ジョージア州では10月30日まで本人による期日前投票が可能だ。極めて重要だ――今すぐ投票に行ってくれ。MAGA！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/georgia/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhov6gxykfs",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myhov6gxykfs",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "🚨 ジョージア州へ！\nジョージア州での期日前投票（本人投票）が今まさに進行中だ。郵便投票用紙を持っている者は直ちに返送し、持っていない者は今すぐ投票所に行って投票せよ。そして知人全員に、投票用紙のあらゆる欄で共和党候補に投票するよう働きかけろ！\n期日前投票、不在者投票、郵便投票、本人投票のいずれの方法であれ、共和党は左翼の過激派民主党員どもを圧倒的投票数で叩きのめさねばならん。ジョージア州では10月30日まで本人による期日前投票が可能だ。極めて重要だ――今すぐ投票に行ってくれ。MAGA！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/georgia/",
-        "createdAt": "2026-10-22T13:30:44.486931Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 758,
-              "byteEnd": 794
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://swampthevoteusa.com/georgia/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://swampthevoteusa.com/georgia/",
-            "title": "GEORGIA: READY TO VOTE REPUBLICAN?",
-            "description": "Election Day in Georgia is almost here, and it’s time to make your voice heard. Make a plan to vote!",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreia5mwxszavwh75ak6iscbtfijwiqtrnhf4tdgmkhmq5rvlt2ciove"
-              },
-              "mimeType": "image/jpeg",
-              "size": 246229
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhov6gxykfs",
-          "rkey": "3myhov6gxykfs"
-        }
-      ]
-    },
     "truth:117484742039933383": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -16109,6 +16041,24 @@
       "source_fingerprint": "fp:Congresswoman Beth Van Duyne is a fantastic Champion for the Great People of Texas' 24th Congressional District!\n \nA former appointee in my First Admi",
       "media_identity": "attachment:117549325547300107:",
       "translation": "テキサス州第24選挙区の偉大な国民のための素晴らしいチャンピオン、下院議員ベス・ヴァン・デュイン！\n\n私の第1次政権の元任命者である彼女は、アメリカ・ファースト・アジェンダを推し進めるために懸命に働いた。ベスは現在、きわめて高い敬意を受ける傑出した下院議員だ。議会では、彼女は次のために絶え間なく戦っている：今や非常に安全である我が国の国境をセキュアに保つこと、移民犯罪、殺人鬼、その他の犯罪者が違法に我が国に入国することを阻止すること、法と秩序を確保すること、我が国の偉大な軍および退役軍人を強化すること、税とレギュレーションを削減すること、アメリカ製を推し進めること、アメリカン・エネルギーの支配を推進すること、そして常に標的にされている修正第2条を守ること。\n\nベス・ヴァン・デュインは再選に向けて私の完全かつ全面的な支持を得ている。投票に行ってベスに投票しろ—彼女は決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
+    },
+    "truth:117549339070696337": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43248",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Brandon Herrera, who is running to represent the wonderful people of Texas' 23rd Congressional District!<br /> <br />Brandon is strongly supported by many Highly Respected MAGA Warriors in Texas, and Republicans in the U.S. House. His opponent, Katy Padilla Stout, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Katy Padilla Stout is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congressman, Brandon will work tirelessly to advance our MAKE AMERICA GREAT AGAIN Agenda. He will fight hard to Grow the Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, Champion School Choice, Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military, Veterans, and Law Enforcement, and Protect our always under siege Second Amendment.<br /> <br />Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District. GET OUT AND VOTE FOR BRANDON — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 23:02:49 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T02:40:39.707521Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43248",
+      "first_seen": "2026-11-03T00:55:42.074579Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Brandon Herrera, who is running to represent the wonderful people of Texas' 23rd Congressional ",
+      "truth_social_id": "117549339070696337",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Brandon Herrera, who is running to represent the wonderful people of Texas' 23rd Congressional ",
+      "media_identity": "attachment:117549339070696337:",
+      "translation": "テキサス州第23下院地区の素晴らしい人々を代表するために立候補している、アメリカ・ファースト愛国者ブランドン・エレラを支持することは私の大きな栄誉である！\n\nブランドンはテキサスの多くの極めて尊敬されるMAGA戦士たちと米国下院の共和党員に強く支持されている。彼の対立候補であるケイティ・パディラ・ストーアウトは、チップスへの非課税化、残業への非課税化、社会保障への非課税化に反対する急進左翼の民主党員であり、彼女と民主党員がもし権力を握れば、これらはすべて廃止されるだろう。彼女は巨額の増税、開放国境、男性が女性のスポーツに参加すること、そして子どもたちへのトランスジェンダー・ミューティレーションを望んでいる。ケイティ・パディラ・ストーアウトは無責任で、急進的で、危険である！\n\n一方、次期下院議員として、ブランドンは我々のアメリカを再び偉大にするアジェンダを進めるために不断の努力をするだろう。彼は経済成長のために、増税とレギュレーション削減のために、米国製造の推進のために、アメリカン・エネルギーの支配力解放のために、選挙の保護のために、学校選択権の擁護のために、国境をセキュアに保つために、移民犯罪を阻止するために、勇敢な軍、退役軍人、そして法執行機関を支持するために、そして常に脅威にさらされている第二修正条項を守るために、激しく戦うだろう。\n\nブランドン・エレラはテキサス州第23下院地区の次期下院議員となるべく、私の完全かつ総体的な支持を有している。ブランドンに投票するために出かけるのだ――彼はあなたを決してがっかりさせない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37585,22 +37535,6 @@
       "published": "Mon, 02 Nov 2026 23:07:52 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
-    },
-    "truth:117549339070696337": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43248",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot, Brandon Herrera, who is running to represent the wonderful people of Texas' 23rd Congressional District!<br /> <br />Brandon is strongly supported by many Highly Respected MAGA Warriors in Texas, and Republicans in the U.S. House. His opponent, Katy Padilla Stout, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Katy Padilla Stout is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, as your next Congressman, Brandon will work tirelessly to advance our MAKE AMERICA GREAT AGAIN Agenda. He will fight hard to Grow the Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Safeguard our Elections, Champion School Choice, Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military, Veterans, and Law Enforcement, and Protect our always under siege Second Amendment.<br /> <br />Brandon Herrera has my Complete and Total Endorsement to be the next Representative from Texas' 23rd Congressional District. GET OUT AND VOTE FOR BRANDON — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 23:02:49 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:43.926004Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43248",
-      "first_seen": "2026-11-03T00:55:42.074579Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot, Brandon Herrera, who is running to represent the wonderful people of Texas' 23rd Congressional ",
-      "next_retry_at": "2026-11-03T01:15:43.926022Z",
-      "truth_social_id": "117549339070696337"
     },
     "truth:117549340515171931": {
       "post_status": "RETRY",
