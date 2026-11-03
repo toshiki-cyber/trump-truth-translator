@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41161",
-    "fp:Lots of “bluster” from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent",
-    "truth:117151799569745572",
     "https://www.trumpstruth.org/statuses/41175",
     "truth:117152865536069947",
     "https://www.trumpstruth.org/statuses/41179",
@@ -5000,71 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43238",
     "fp:It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.\n \nA",
     "truth:117549365107050542",
-    "https://www.trumpstruth.org/statuses/43237"
+    "https://www.trumpstruth.org/statuses/43237",
+    "fp:It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional Distr",
+    "truth:117549365926172026",
+    "https://www.trumpstruth.org/statuses/43236"
   ],
   "posts": {
-    "truth:117484759649101356": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42577",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18669/146d4f6b93adaed3-cfef3914065c.mp4\">View video</a></p>",
-      "published": "Thu, 22 Oct 2026 13:19:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-22T16:35:50.686209Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42577",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18669/146d4f6b93adaed3-cfef3914065c.mp4",
-      "media_identity": "attachment:117484759649101356:146d4f6b93adaed3-cfef3914065c.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18669/146d4f6b93adaed3-cfef3914065c.mp4",
-      "truth_social_id": "117484759649101356",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18669/146d4f6b93adaed3-cfef3914065c.mp4",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqvb3bm234",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3myhqvb3bm234",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18669/146d4f6b93adaed3-cfef3914065c.mp4",
-        "createdAt": "2026-10-22T16:35:43.118213Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18669/146d4f6b93adaed3-cfef3914065c.mp4"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreiavso37tjtis5ul5gzst2w6fexxkrawmaa2zvi4tl527uza4zlpgu"
-            },
-            "mimeType": "video/mp4",
-            "size": 9758719
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myhqvb3bm234",
-          "rkey": "3myhqvb3bm234"
-        }
-      ]
-    },
     "truth:117484760832154374": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15931,6 +15869,24 @@
       "source_fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Chris Gober, who is running to represent the wonderful people of Texas' 10th Congressional District.\n \nA",
       "media_identity": "attachment:117549365107050542:",
       "translation": "テキサス州第10下院選挙区の素晴らしい人々を代表して立候補しているMAGA戦士クリス・ゴーバーを支持することは、私の大きな栄誉である。\n\nハーバード・ロースクール卒業生で非常に成功した弁護士であるクリスは、憲法を擁護し、法と秩序を推進するために必要な知恵と勇気を備えている。議会ではクリスは、経済を成長させ、税金と規制を削減し、米国製を推進し、アメリカンエネルギーの支配権を確立し、今や非常に安全になった国境を安全に保ち、信じられないほど優れた法執行機関、軍、退役軍人を強く支持し、常に脅威にさらされている修正第2条を守るために、たゆまず戦うだろう。\n\nクリス・ゴーバーは私の完全で全面的な支持を得ている。クリスに投票しに行け――彼は絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
+    },
+    "truth:117549365926172026": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43236",
+      "source_text": "<p>It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional District.<br /> <br />A West Point Graduate, and Combat Decorated Army Bomb Squad Officer, Alex knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. A Graduate of Harvard Business School and Harvard Law School, Alex is also a successful Business Executive who knows the America First Policies necessary to Create GREAT Jobs, Cut Taxes and Regulations, Unleash Innovation, Promote MADE IN THE U.S.A., and Ensure American Energy DOMINANCE. In Congress, she will work hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />Alex's opponent, Leticia Gutierrez, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Leticia Gutierrez is Reckless, Radical, and Dangerous!<br /> <br />Alex Mealer has my Complete and Total Endorsement to be the next Representative from Texas' 9th Congressional District. GET OUT AND VOTE FOR ALEX MEALER — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
+      "published": "Mon, 02 Nov 2026 23:09:39 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-03T03:55:43.302347Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43236",
+      "first_seen": "2026-11-03T00:55:47.740890Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional Distr",
+      "truth_social_id": "117549365926172026",
+      "source_fingerprint": "fp:It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional Distr",
+      "media_identity": "attachment:117549365926172026:",
+      "translation": "テキサス州第9下院地区の素晴らしい人々を代表するために立候補している、アメリカ・ファースト愛国者アレックス・ミーラーを支持することは、私の大きな栄誉だ。\n\nウェストポイント卒業生であり、戦闘従事の勲章を受けたアーミー爆発物処理班将校であるアレックスは、わが国を防衛し、軍人・退役軍人を支援し、強さによって平和を確保するために必要な英知と勇気を知っている。ハーバード・ビジネス・スクールおよびハーバード・ロースクール卒業生であるアレックスはまた、素晴らしい雇用を創出し、税金と規制を削減し、イノベーションを解放し、米国製を推進し、米国のエネルギー支配を確保するために必要なアメリカ・ファースト政策を知っている成功したビジネス経営者だ。議会では、彼女は国境をしっかり守り、移民犯罪を食い止め、法と秩序を確保し、選挙を守り、常に脅かされている修正第2条を防衛するために懸命に取り組むだろう。\n\nアレックスの対立候補レティシア・グティエレスは、チップへの税金なし、残業代への税金なし、社会保障への税金なしに反対しているラディカル左翼ダモクラートであり、彼女とダモクラートが権力を握れば、これらすべてが廃止されるだろう。彼女は大幅な増税、国境開放、男性による女性スポーツでの競技、そして子どもたちへのトランスジェンダー強制を望んでいる。レティシア・グティエレスは無責任で、ラディカルで、危険だ！\n\nアレックス・ミーラーはテキサス州第9下院地区の次期下院議員となるための私の完全かつ全面的な支持を得ている。アレックス・ミーラーに投票するために投票所に行け――彼女は決してあなたを失望させないだろう！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
     },
     "truth:117549204410185404": {
       "post_status": "DISCOVERED",
@@ -37407,22 +37363,6 @@
       "published": "Mon, 02 Nov 2026 23:07:52 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T00:50:35.451390Z"
-    },
-    "truth:117549365926172026": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43236",
-      "source_text": "<p>It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional District.<br /> <br />A West Point Graduate, and Combat Decorated Army Bomb Squad Officer, Alex knows the Wisdom and Courage required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. A Graduate of Harvard Business School and Harvard Law School, Alex is also a successful Business Executive who knows the America First Policies necessary to Create GREAT Jobs, Cut Taxes and Regulations, Unleash Innovation, Promote MADE IN THE U.S.A., and Ensure American Energy DOMINANCE. In Congress, she will work hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />Alex's opponent, Leticia Gutierrez, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Leticia Gutierrez is Reckless, Radical, and Dangerous!<br /> <br />Alex Mealer has my Complete and Total Endorsement to be the next Representative from Texas' 9th Congressional District. GET OUT AND VOTE FOR ALEX MEALER — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Mon, 02 Nov 2026 23:09:39 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-03T01:05:49.935227Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43236",
-      "first_seen": "2026-11-03T00:55:47.740890Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional Distr",
-      "next_retry_at": "2026-11-03T01:15:49.935243Z",
-      "truth_social_id": "117549365926172026"
     },
     "truth:117549366733764316": {
       "post_status": "RETRY",
