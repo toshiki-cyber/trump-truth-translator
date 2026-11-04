@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41302",
-    "truth:117173125011583696",
-    "https://www.trumpstruth.org/statuses/41304",
     "truth:117173120124163613",
     "https://www.trumpstruth.org/statuses/41305",
     "fp:Ranchers and Farmers have always been a number one priority for me. They work very hard, are smart, efficient, and immaculately CLEAN, but for years I",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43475",
     "fp:TO THE GREAT PEOPLE OF MISSISSIPPI, GET OUT AND VOTE FOR:\n \n– Cindy Hyde-Smith for U.S. Senate\n– Trent Kelly for U.S. Congress (MS-01)\n– Michael Guest",
     "truth:117552778453242534",
-    "https://www.trumpstruth.org/statuses/43474"
+    "https://www.trumpstruth.org/statuses/43474",
+    "fp:TO THE GREAT PEOPLE OF MINNESOTA, GET OUT AND VOTE FOR:\n \n– Michele Tafoya for U.S. Senate\n– Brad Finstad for U.S. Congress (MN-01)\n– Tom Emmer for U.",
+    "truth:117552779865279715",
+    "https://www.trumpstruth.org/statuses/43473"
   ],
   "posts": {
-    "truth:117495957303860596": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42696",
-      "source_text": "<p>🚨 FLORIDA!<br /> <br />Early Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT!<br /> <br />Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA!<br />President DONALD J. TRUMP<br /> <br />Find your Voting Location here: <a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Sat, 24 Oct 2026 12:47:08 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-24T14:05:24.714665Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42696",
-      "first_seen": "2026-10-24T13:10:27.214882Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:🚨 FLORIDA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, ",
-      "truth_social_id": "117495957303860596",
-      "source_fingerprint": "fp:🚨 FLORIDA!\n \nEarly Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, ",
-      "media_identity": "attachment:117495957303860596:",
-      "translation": "🚨 フロリダ州よ！\n\n素晴らしきフロリダ州では、現在、期日前投票（対面投票）が進行中だ。郵便投票用紙を受け取った者は直ちに返送し、まだの者は今すぐ投票所に行って投票してくれ。そして知り合い全員に、すべての選挙でREPUBLICAN候補に投票するよう促してくれ！\n\n早期投票、不在者投票、郵便投票、対面投票のいずれの方法であれ、共和党員は過激左翼民主党員を圧倒的な投票数で打ち負かさなければならない！極めて重要だ。どうか投票に行ってくれ。MAGA!\n\nドナルド・J・トランプ大統領\n\n投票所の場所はこちらで確認できる：\nhttps://swampthevoteusa.com/florida/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mympzefm72gc",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mympzefm72gc",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "🚨 フロリダ州よ！\n\n素晴らしきフロリダ州では、現在、期日前投票（対面投票）が進行中だ。郵便投票用紙を受け取った者は直ちに返送し、まだの者は今すぐ投票所に行って投票してくれ。そして知り合い全員に、すべての選挙でREPUBLICAN候補に投票するよう促してくれ！\n\n早期投票、不在者投票、郵便投票、対面投票のいずれの方法であれ、共和党員は過激左翼民主党員を圧倒的な投票数で打ち負かさなければならない！極めて重要だ。どうか投票に行ってくれ。MAGA!\n\nドナルド・J・トランプ大統領\n\n投票所の場所はこちらで確認できる：\nhttps://swampthevoteusa.com/florida/",
-        "createdAt": "2026-10-24T13:55:29.779798Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 726,
-              "byteEnd": 762
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://swampthevoteusa.com/florida/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://swampthevoteusa.com/florida/",
-            "title": "FLORIDA: READY TO VOTE REPUBLICAN?",
-            "description": "Primary Election Day in Florida is here, and it’s time to make your voice heard. Find your voting location now and get prepared to vote Republican!",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreifqfv7mou7cugy6ctphi463r2pigzhlaal547wrqxnrv2anjfukqq"
-              },
-              "mimeType": "image/jpeg",
-              "size": 215605
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mympzefm72gc",
-          "rkey": "3mympzefm72gc"
-        }
-      ]
-    },
     "truth:117495961382280989": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15521,6 +15453,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF MISSISSIPPI, GET OUT AND VOTE FOR:\n \n– Cindy Hyde-Smith for U.S. Senate\n– Trent Kelly for U.S. Congress (MS-01)\n– Michael Guest",
       "truth_social_id": "117552778453242534",
       "translation": "ミシシッピの素晴らしい人民へ、投票に行ってください：\n\n– シンディ・ハイド＝スミス（上院議員）\n– トレント・ケリー（下院議員MS-01区）\n– マイケル・ゲスト（下院議員MS-03区）\n– マイク・エゼル（下院議員MS-04区）\n\nこれら素晴らしい愛国者たちは、私の完全かつ全面的な支持を得ている――彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/mississippi/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/778/339/599/658/original/d2bfce23954afdf1.jpg"
+    },
+    "truth:117552779865279715": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43473",
+      "source_text": "<p>TO THE GREAT PEOPLE OF MINNESOTA, GET OUT AND VOTE FOR:<br /> <br />– Michele Tafoya for U.S. Senate<br />– Brad Finstad for U.S. Congress (MN-01)<br />– Tom Emmer for U.S. Congress (MN-06)<br />– Michelle Fischbach for U.S. Congress (MN-07)<br />– Pete Stauber for U.S. Congress (MN-08)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/minnesota/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/779/726/473/350/original/2c063aea9dd20c32.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:37:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T03:30:46.294567Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43473",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF MINNESOTA, GET OUT AND VOTE FOR:\n \n– Michele Tafoya for U.S. Senate\n– Brad Finstad for U.S. Congress (MN-01)\n– Tom Emmer for U.",
+      "media_identity": "attachment:117552779865279715:2c063aea9dd20c32.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF MINNESOTA, GET OUT AND VOTE FOR:\n \n– Michele Tafoya for U.S. Senate\n– Brad Finstad for U.S. Congress (MN-01)\n– Tom Emmer for U.",
+      "truth_social_id": "117552779865279715",
+      "translation": "ミネソタ州の素晴らしい国民の皆さんへ、投票に行ってください：\n\n– ミケーレ・タフォヤ（上院議員候補）\n– ブラッド・フィンスタッド（下院議員候補、ミネソタ州第1区）\n– トム・エマー（下院議員候補、ミネソタ州第6区）\n– ミシェル・フィシュバック（下院議員候補、ミネソタ州第7区）\n– ピート・スタウバー（下院議員候補、ミネソタ州第8区）\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/minnesota/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/779/726/473/350/original/2c063aea9dd20c32.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37583,16 +37531,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552779865279715": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43473",
-      "source_text": "<p>TO THE GREAT PEOPLE OF MINNESOTA, GET OUT AND VOTE FOR:<br /> <br />– Michele Tafoya for U.S. Senate<br />– Brad Finstad for U.S. Congress (MN-01)<br />– Tom Emmer for U.S. Congress (MN-06)<br />– Michelle Fischbach for U.S. Congress (MN-07)<br />– Pete Stauber for U.S. Congress (MN-08)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/minnesota/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/779/726/473/350/original/2c063aea9dd20c32.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:37:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.302949Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43473"
-    },
     "truth:117552781341844180": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37810,7 +37748,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T03:25:33.133042Z",
+      "updated_at": "2026-11-04T03:30:31.018724Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
