@@ -37647,14 +37647,21 @@
       "next_retry_at": "2026-11-04T02:55:45.180816Z"
     },
     "truth:117552772041714561": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "RETRY",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/43478",
       "source_text": "<p>TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:<br /> <br />– Joe Lombardo for Governor<br />– Stavros Anthony for Lieutenant Governor<br />– Jim Marchant for Secretary of State<br />– Adriana Guzmán Fralick for Attorney General<br />– Carrie Buck for U.S. Congress (NV-01)<br />– David Flippo for U.S. Congress (NV-02)<br />– Marty O'Donnell for U.S. Congress (NV-03)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/nevada/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/771/468/955/371/original/6a5b6cc74114d69e.jpg\">View image</a></p>",
       "published": "Tue, 03 Nov 2026 13:35:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.303810Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43478"
+      "retry_count": 1,
+      "updated_at": "2026-11-04T02:55:43.269094Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43478",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
+      "media_identity": "attachment:117552772041714561:6a5b6cc74114d69e.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/771/468/955/371/small/6a5b6cc74114d69e.jpg",
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
+      "truth_social_id": "117552772041714561",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-11-04T03:00:43.269112Z"
     },
     "truth:117552773993842509": {
       "post_status": "DISCOVERED",
@@ -37919,11 +37926,11 @@
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43444",
-      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/43445\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 03 Nov 2026 21:59:28 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/43445",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
+      "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.298364Z",
+      "updated_at": "2026-11-04T02:55:31.922805Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
