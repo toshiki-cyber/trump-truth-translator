@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41324",
-    "truth:117173934197924486",
-    "https://trumpstruth.org/statuses/41325",
     "truth:117173935491730013",
     "https://trumpstruth.org/statuses/41323",
     "truth:117174464054106173",
@@ -5000,7 +4997,10 @@
     "https://www.trumpstruth.org/statuses/43455",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4",
     "truth:117553803718572465",
-    "https://www.trumpstruth.org/statuses/43444"
+    "https://www.trumpstruth.org/statuses/43444",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80",
+    "truth:117554563852726181",
+    "https://www.trumpstruth.org/statuses/43446"
   ],
   "posts": {
     "truth:117504022227510179": {
@@ -15209,6 +15209,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF ALABAMA, GET OUT AND VOTE FOR:\n \n– Barry Moore for U.S. Senate\n– Tommy Tuberville for Governor\n– John Wahl for Lieutenant Gover",
       "truth_social_id": "117552846369178812",
       "translation": "アラバマ州の偉大な人民へ、投票に行って以下に投票してください：\n\n– U.S.上院：バリー・ムーア\n– 州知事：トミー・テューバービル\n– 副州知事：ジョン・ワール\n– 司法長官：キャサリン・ロバートソン\n– U.S.下院（AL-01区）：ジェリー・カール\n– U.S.下院（AL-02区）：レット・マルケス\n– U.S.下院（AL-03区）：マイク・ロジャース\n– U.S.下院（AL-04区）：ロバート・エイダーホルト\n– U.S.下院（AL-05区）：デール・ストロング\n– U.S.下院（AL-06区）：ゲーリー・パルマー\n\nこれら偉大な愛国者たちは私の完全かつ全面的な支持を得ている。彼らは決して君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/alabama/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18864/2903ac998e4c7c45-a3fae366ac28.jpg"
+    },
+    "truth:117554563852726181": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43446",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80bb1016bd7c-d4f8dd46a313.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43447\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18863/916a7595bd30d5d7-e57b2dc74040.mp4\">View video</a></p></blockquote>",
+      "published": "Tue, 03 Nov 2026 21:11:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T05:10:54.055273Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43446",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80",
+      "media_identity": "attachment:117554563852726181:769b80bb1016bd7c.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80",
+      "truth_social_id": "117554563852726181",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80bb1016bd7c-d4f8dd46a313.pngQuoted\nhttps://www.trumpstruth.org/statuses/43447https://truth-archive.us-iad-1.linodeobjects.com/attachments/18863/916a7595bd30d5d7-e57b2dc74040.mp4"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37357,14 +37373,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43448",
       "source_text": "<p>The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbers for me in our Historic 2024 Presidential Campaign. TREMENDOUS SUPPORT!<br /> <br />TODAY, the eyes of the Country are on New York again!<br /> <br />Congressman Mike Lawler has been a tremendous friend to the Jewish community and a strong leader in the fight against antisemitism. He has stood with the community when it mattered most, speaking out against hatred, and standing up for Religious Freedom and School Choice!<br /> <br />Mike has worked tirelessly for his constituents, for our Country, and for the Jewish people. He understands the importance of strong leadership, protecting our communities, and delivering REAL RESULTS for the people he represents.<br /> <br />His dedication to public service and his willingness to stand up for what he believes in have made a tremendous difference. That kind of commitment should never be taken for granted!<br /> <br />Working together with your State Senator Bill Weber, Mike will continue to be your voice, and fight for you and your family!<br /> <br />EVERY VOTE MATTERS. MAKE YOUR VOICE HEARD TODAY. VOTE MIKE LAWLER FOR CONGRESS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p>",
       "published": "Tue, 03 Nov 2026 19:38:44 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-04T05:05:38.482642Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-04T05:10:44.836356Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43448",
       "first_seen": "2026-11-04T05:05:38.482609Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbers for me in our Historic 2024 Presidential Campai",
-      "next_retry_at": "2026-11-04T05:10:38.482649Z",
+      "next_retry_at": "2026-11-04T05:20:44.836372Z",
       "truth_social_id": "117554198887656582"
     },
     "truth:117554562841729326": {
@@ -37521,16 +37537,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-11-04T05:11:38.265918Z"
-    },
-    "truth:117554563852726181": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43446",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80bb1016bd7c-d4f8dd46a313.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43447\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18863/916a7595bd30d5d7-e57b2dc74040.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 03 Nov 2026 21:11:33 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.298529Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43446"
     },
     "truth:117554852721008421": {
       "post_status": "DISCOVERED",
