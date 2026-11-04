@@ -37334,14 +37334,20 @@
       "next_retry_at": "2026-11-04T23:10:44.542649Z"
     },
     "truth:117559346773956882": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/43486",
       "source_text": "<p>Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two years. Your 401(k)s are through the roof. Record Setting All! President DONALD J. TRUMP</p>",
       "published": "Wed, 04 Nov 2026 17:27:54 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T18:50:40.057356Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43486"
+      "retry_count": 1,
+      "updated_at": "2026-11-04T18:55:36.535028Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43486",
+      "first_seen": "2026-11-04T18:55:36.534986Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two years. Your 401(k)s are through the roof. Record Se",
+      "next_retry_at": "2026-11-04T19:00:36.535035Z",
+      "truth_social_id": "117559346773956882"
     }
   }
 }
