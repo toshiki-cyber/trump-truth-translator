@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41295",
-    "truth:117170522190859145",
-    "https://trumpstruth.org/statuses/41301",
     "truth:117170522834164313",
     "https://trumpstruth.org/statuses/41300",
     "fp:Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it — A total pro! President DJT",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43478",
     "fp:TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts for U.S. Senate\n– Jim Pillen for Governor\n– Mike Hilgers for Attorney General",
     "truth:117552773993842509",
-    "https://www.trumpstruth.org/statuses/43477"
+    "https://www.trumpstruth.org/statuses/43477",
+    "fp:TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:\n \n– Kurt Alme for U.S. Senate\n– Aaron Flint for U.S. Congress (MT-01)\n– Troy Downing for U.S. Co",
+    "truth:117552775545165585",
+    "https://www.trumpstruth.org/statuses/43476"
   ],
   "posts": {
-    "truth:117495805131265987": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42693",
-      "source_text": "<p>There is a Fake News report out there that I am going to remove the White House Press Room and bring back the old Swimming Pool, which lies directly underneath. Although I may move the Fake News to a less obnoxious location, the old swimming pool will never be brought back. I NEVER even thought to do such a stupid thing! Thank you for your attention to this matter. President DJT</p>",
-      "published": "Sat, 24 Oct 2026 12:08:26 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-24T13:45:30.726665Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42693",
-      "first_seen": "2026-10-24T13:10:26.088227Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:There is a Fake News report out there that I am going to remove the White House Press Room and bring back the old Swimming Pool, which lies directly u",
-      "truth_social_id": "117495805131265987",
-      "source_fingerprint": "fp:There is a Fake News report out there that I am going to remove the White House Press Room and bring back the old Swimming Pool, which lies directly u",
-      "media_identity": "attachment:117495805131265987:",
-      "translation": "ホワイトハウスの記者室を撤去して、その真下にある昔のプール跡を復活させるという計画があるというフェイクニュース報道が出回っている。フェイクニュースをより目障りでない場所に移動させる可能性もあるが、昔のプールが復活することはありえない。そんなバカなことをしようなんて考えたことすらない！この件へのご注目ありがとうございます。トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mymnu5ypeki7",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mymnu5ypeki7",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ホワイトハウスの記者室を撤去して、その真下にある昔のプール跡を復活させるという計画があるというフェイクニュース報道が出回っている。フェイクニュースをより目障りでない場所に移動させる可能性もあるが、昔のプールが復活することはありえない。そんなバカなことをしようなんて考えたことすらない！この件へのご注目ありがとうございます。トランプ大統領",
-        "createdAt": "2026-10-24T13:35:29.821518Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mymnu5ypeki7",
-          "rkey": "3mymnu5ypeki7"
-        }
-      ]
-    },
     "truth:117495828914407705": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15545,6 +15509,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts for U.S. Senate\n– Jim Pillen for Governor\n– Mike Hilgers for Attorney General",
       "truth_social_id": "117552773993842509",
       "translation": "ネブラスカ州の偉大なる人民へ、投票に行って以下の候補者に投票してくれ：\n\n– ピート・リケッツ（U.S.上院議員）\n– ジム・ピレン（州知事）\n– マイク・ヒルガース（司法長官）\n– マイク・フラッド（U.S.下院議員（ネブラスカ州第1区））\n– ブリンカー・ハーディング（U.S.下院議員（ネブラスカ州第2区））\n– エイドリアン・スミス（U.S.下院議員（ネブラスカ州第3区））\n\nこれらの偉大なる愛国者たちは、俺の完全で絶対的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/nebraska/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/773/846/473/191/original/5e965f528d9fbca6.jpg"
+    },
+    "truth:117552775545165585": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43476",
+      "source_text": "<p>TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:<br /> <br />– Kurt Alme for U.S. Senate<br />– Aaron Flint for U.S. Congress (MT-01)<br />– Troy Downing for U.S. Congress (MT-02)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/montana/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/775/304/731/098/original/2f6f938949788bab.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:36:45 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T03:15:49.863766Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43476",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:\n \n– Kurt Alme for U.S. Senate\n– Aaron Flint for U.S. Congress (MT-01)\n– Troy Downing for U.S. Co",
+      "media_identity": "attachment:117552775545165585:2f6f938949788bab.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:\n \n– Kurt Alme for U.S. Senate\n– Aaron Flint for U.S. Congress (MT-01)\n– Troy Downing for U.S. Co",
+      "truth_social_id": "117552775545165585",
+      "translation": "モンタナ州の素晴らしい人々へ、投票に行こう：\n\n– カート・アルメ（米国上院議員候補）\n– アーロン・フリント（米国下院議員候補 MT-01区）\n– トロイ・ダウニング（米国下院議員候補 MT-02区）\n\nこの素晴らしい愛国者たちは、私の完全かつ絶対的な支持を得ている — 彼らはお前たちを絶対に裏切らない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/montana/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/775/304/731/098/original/2f6f938949788bab.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37607,16 +37587,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552775545165585": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43476",
-      "source_text": "<p>TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:<br /> <br />– Kurt Alme for U.S. Senate<br />– Aaron Flint for U.S. Congress (MT-01)<br />– Troy Downing for U.S. Congress (MT-02)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/montana/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/775/304/731/098/original/2f6f938949788bab.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:36:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.303488Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43476"
-    },
     "truth:117552777144209024": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37864,7 +37834,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T03:10:38.114616Z",
+      "updated_at": "2026-11-04T03:15:33.819042Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
