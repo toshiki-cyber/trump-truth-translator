@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41294",
-    "fp:Iran Is a Failing Nation! President DJT",
-    "truth:117169842997327695",
     "https://trumpstruth.org/statuses/41296",
     "fp:Just arrived in the Great State of Texas! President DJT",
     "truth:117169851902805924",
@@ -5000,7 +4997,10 @@
     "https://www.trumpstruth.org/statuses/43397",
     "fp:TO THE GREAT PEOPLE OF NEW HAMPSHIRE, GET OUT AND VOTE FOR:\n \n– John Sununu for U.S. Senate\n– Anthony DiLorenzo for U.S. Congress (NH-01)\n \nThese Grea",
     "truth:117552769135757700",
-    "https://www.trumpstruth.org/statuses/43479"
+    "https://www.trumpstruth.org/statuses/43479",
+    "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
+    "truth:117552772041714561",
+    "https://www.trumpstruth.org/statuses/43478"
   ],
   "posts": {
     "truth:117492425848354703": {
@@ -15583,6 +15583,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF NEW HAMPSHIRE, GET OUT AND VOTE FOR:\n \n– John Sununu for U.S. Senate\n– Anthony DiLorenzo for U.S. Congress (NH-01)\n \nThese Grea",
       "truth_social_id": "117552769135757700",
       "translation": "ニューハンプシャーの皆様へ、投票に行ってください：\n\n– ジョン・スヌヌ（米国上院議員）\n– アンソニー・ディロレンツォ（米国下院議員（ニューハンプシャー州第1区））\n\nこの素晴らしき愛国者たちは、私の完全で絶対的な支持を得ている。彼らは決してあなたを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/new-hampshire/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/769/010/994/705/original/afc7af9eb6425dea.jpg"
+    },
+    "truth:117552772041714561": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43478",
+      "source_text": "<p>TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:<br /> <br />– Joe Lombardo for Governor<br />– Stavros Anthony for Lieutenant Governor<br />– Jim Marchant for Secretary of State<br />– Adriana Guzmán Fralick for Attorney General<br />– Carrie Buck for U.S. Congress (NV-01)<br />– David Flippo for U.S. Congress (NV-02)<br />– Marty O'Donnell for U.S. Congress (NV-03)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/nevada/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/771/468/955/371/original/6a5b6cc74114d69e.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:35:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-04T03:05:48.859181Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43478",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
+      "media_identity": "attachment:117552772041714561:6a5b6cc74114d69e.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
+      "truth_social_id": "117552772041714561",
+      "translation": "ネバダ州の素晴らしい人々へ、投票に行ってこの候補者たちに投票しろ：\n\n– ジョー・ロンバルド（州知事）\n– スタヴロス・アンソニー（副州知事）\n– ジム・マーチャント（州務長官）\n– アドリアナ・グスマン・フラリック（司法長官）\n– キャリー・バック（下院議員 NV-01区）\n– デイビッド・フリッポ（下院議員 NV-02区）\n– マーティ・オドネル（下院議員 NV-03区）\n\nこれらの偉大な愛国者たちは私の完全にして全面的な支持を得ている。彼らは絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/nevada/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/771/468/955/371/original/6a5b6cc74114d69e.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37645,23 +37661,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552772041714561": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/43478",
-      "source_text": "<p>TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:<br /> <br />– Joe Lombardo for Governor<br />– Stavros Anthony for Lieutenant Governor<br />– Jim Marchant for Secretary of State<br />– Adriana Guzmán Fralick for Attorney General<br />– Carrie Buck for U.S. Congress (NV-01)<br />– David Flippo for U.S. Congress (NV-02)<br />– Marty O'Donnell for U.S. Congress (NV-03)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/nevada/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/771/468/955/371/original/6a5b6cc74114d69e.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:35:52 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-04T02:55:43.269094Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43478",
-      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
-      "media_identity": "attachment:117552772041714561:6a5b6cc74114d69e.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/771/468/955/371/small/6a5b6cc74114d69e.jpg",
-      "fingerprint": "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
-      "truth_social_id": "117552772041714561",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-11-04T03:00:43.269112Z"
-    },
     "truth:117552773993842509": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37929,7 +37928,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T03:00:34.548910Z",
+      "updated_at": "2026-11-04T03:05:35.604069Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
