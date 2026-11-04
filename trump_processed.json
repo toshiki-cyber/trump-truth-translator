@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41296",
-    "fp:Just arrived in the Great State of Texas! President DJT",
-    "truth:117169851902805924",
     "https://www.trumpstruth.org/statuses/41295",
     "truth:117170522190859145",
     "https://trumpstruth.org/statuses/41301",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43479",
     "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
     "truth:117552772041714561",
-    "https://www.trumpstruth.org/statuses/43478"
+    "https://www.trumpstruth.org/statuses/43478",
+    "fp:TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts for U.S. Senate\n– Jim Pillen for Governor\n– Mike Hilgers for Attorney General",
+    "truth:117552773993842509",
+    "https://www.trumpstruth.org/statuses/43477"
   ],
   "posts": {
-    "truth:117492425848354703": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42690",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18697/94e3550ffc56ee68-aef16fa71fb3.jpg\">View image</a></p>",
-      "published": "Fri, 23 Oct 2026 21:49:02 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-23T23:20:36.689671Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42690",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18697/94e3550ffc56ee68-aef16fa71fb3.jpg",
-      "media_identity": "attachment:117492425848354703:94e3550ffc56ee68.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18697/94e3550ffc56ee68-aef16fa71fb3.jpg",
-      "truth_social_id": "117492425848354703",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18697/94e3550ffc56ee68-aef16fa71fb3.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myl5tgxi4cdm",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3myl5tgxi4cdm",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18697/94e3550ffc56ee68-aef16fa71fb3.jpg",
-        "createdAt": "2026-10-23T23:10:30.716631Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18697/94e3550ffc56ee68-aef16fa71fb3.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreicpksy4talvets7vri6asi5lgr2aniobpq7xck6locfapinrmdwma"
-                },
-                "mimeType": "image/jpeg",
-                "size": 319460
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 668,
-                "height": 1538
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myl5tgxi4cdm",
-          "rkey": "3myl5tgxi4cdm"
-        }
-      ]
-    },
     "truth:117495805131265987": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15599,6 +15529,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR:\n \n– Joe Lombardo for Governor\n– Stavros Anthony for Lieutenant Governor\n– Jim Marchant for Secret",
       "truth_social_id": "117552772041714561",
       "translation": "ネバダ州の素晴らしい人々へ、投票に行ってこの候補者たちに投票しろ：\n\n– ジョー・ロンバルド（州知事）\n– スタヴロス・アンソニー（副州知事）\n– ジム・マーチャント（州務長官）\n– アドリアナ・グスマン・フラリック（司法長官）\n– キャリー・バック（下院議員 NV-01区）\n– デイビッド・フリッポ（下院議員 NV-02区）\n– マーティ・オドネル（下院議員 NV-03区）\n\nこれらの偉大な愛国者たちは私の完全にして全面的な支持を得ている。彼らは絶対にお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/nevada/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/771/468/955/371/original/6a5b6cc74114d69e.jpg"
+    },
+    "truth:117552773993842509": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43477",
+      "source_text": "<p>TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:<br /> <br />– Pete Ricketts for U.S. Senate<br />– Jim Pillen for Governor<br />– Mike Hilgers for Attorney General<br />– Mike Flood for U.S. Congress (NE-01)<br />– Brinker Harding for U.S. Congress (NE-02)<br />– Adrian Smith for U.S. Congress (NE-03)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/nebraska/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/773/846/473/191/original/5e965f528d9fbca6.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:36:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T03:10:54.153602Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43477",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts for U.S. Senate\n– Jim Pillen for Governor\n– Mike Hilgers for Attorney General",
+      "media_identity": "attachment:117552773993842509:5e965f528d9fbca6.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:\n \n– Pete Ricketts for U.S. Senate\n– Jim Pillen for Governor\n– Mike Hilgers for Attorney General",
+      "truth_social_id": "117552773993842509",
+      "translation": "ネブラスカ州の偉大なる人民へ、投票に行って以下の候補者に投票してくれ：\n\n– ピート・リケッツ（U.S.上院議員）\n– ジム・ピレン（州知事）\n– マイク・ヒルガース（司法長官）\n– マイク・フラッド（U.S.下院議員（ネブラスカ州第1区））\n– ブリンカー・ハーディング（U.S.下院議員（ネブラスカ州第2区））\n– エイドリアン・スミス（U.S.下院議員（ネブラスカ州第3区））\n\nこれらの偉大なる愛国者たちは、俺の完全で絶対的な支持を得ている。彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/nebraska/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/773/846/473/191/original/5e965f528d9fbca6.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37661,16 +37607,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552773993842509": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43477",
-      "source_text": "<p>TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR:<br /> <br />– Pete Ricketts for U.S. Senate<br />– Jim Pillen for Governor<br />– Mike Hilgers for Attorney General<br />– Mike Flood for U.S. Congress (NE-01)<br />– Brinker Harding for U.S. Congress (NE-02)<br />– Adrian Smith for U.S. Congress (NE-03)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/nebraska/</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/773/846/473/191/original/5e965f528d9fbca6.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:36:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.303649Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43477"
-    },
     "truth:117552775545165585": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37928,7 +37864,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T03:05:35.604069Z",
+      "updated_at": "2026-11-04T03:10:38.114616Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
