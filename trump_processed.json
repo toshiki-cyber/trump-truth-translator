@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41328",
-    "fp:“The Department of Justice secured a $22 million settlement with Deloitte concerning False Claims Act violations in connection with Deloitte’s use of ",
-    "truth:117173961344547291",
     "https://trumpstruth.org/statuses/41327",
     "fp:Democrats Fight to Keep Unqualified Illegal Alien Truckers on the Road: \nhttps://amac.us/newsline/democrats-fight-to-keep-unqualified-illegal-alien-tr",
     "truth:117174455782176210",
@@ -5000,79 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43452",
     "fp:The Daily Mail wrongly took my joke at a Presidential News Conference where the beautiful Lincoln Memorial Reflecting Pool was opened yesterday, and p",
     "truth:117553650492622207",
-    "https://www.trumpstruth.org/statuses/43450"
+    "https://www.trumpstruth.org/statuses/43450",
+    "fp:Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I w",
+    "truth:117553680973466314",
+    "https://www.trumpstruth.org/statuses/43449"
   ],
   "posts": {
-    "truth:117504180930398441": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42721",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18705/2de7bcac14a50c51-8b025442a7b9.jpg\">View image</a></p>",
-      "published": "Sun, 25 Oct 2026 23:38:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-26T01:40:28.392067Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42721",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18705/2de7bcac14a50c51-8b025442a7b9.jpg",
-      "media_identity": "attachment:117504180930398441:2de7bcac14a50c51.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18705/2de7bcac14a50c51-8b025442a7b9.jpg",
-      "truth_social_id": "117504180930398441",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18705/2de7bcac14a50c51-8b025442a7b9.jpg",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqeuzw46kav",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3myqeuzw46kav",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18705/2de7bcac14a50c51-8b025442a7b9.jpg",
-        "createdAt": "2026-10-26T01:30:35.920239Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18705/2de7bcac14a50c51-8b025442a7b9.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreibpc6d677vwy6dsb3i43hea2sr6udabfqh2wfelk2q723t2ycfv6e"
-                },
-                "mimeType": "image/jpeg",
-                "size": 288011
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 877,
-                "height": 1171
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myqeuzw46kav",
-          "rkey": "3myqeuzw46kav"
-        }
-      ]
-    },
     "truth:117504261273100838": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15237,6 +15167,24 @@
       "source_fingerprint": "fp:The Daily Mail wrongly took my joke at a Presidential News Conference where the beautiful Lincoln Memorial Reflecting Pool was opened yesterday, and p",
       "media_identity": "attachment:117553650492622207:",
       "translation": "デイリー・メール紙は、昨日美しいリンカーン・メモリアル・リフレクティング・プールがオープンされた大統領記者会見での私の冗談を不正に取り上げ、私が「TRUMP」と名付けると言った冗談ではないふりをした。彼らの不誠実で虚偽の見出しは「トランプが改装されたリフレクティング・プールで中間選挙最終演説を60人にだけ行い、大規模な改名を脅す」と述べている。それは60人しかいなかった「中間選挙最終演説」ではなく、ニュース会見だった。誰も招待されず、公開されていなかった—ただ記者たちだけだった。私の中間選挙最終演説はその前の日、アイオワとカンザスで行われ、5万人がいた。これはメディアがいかに偽造しているかを示している。私は非常に明確に「冗談だ」と言った。偽造ニュースはこんなに腐敗している！ ドナルド・J・トランプ大統領"
+    },
+    "truth:117553680973466314": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43449",
+      "source_text": "<p>Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I wanted to change the name of the Lincoln Memorial Reflecting Pool to the Trump Reflecting Pool. He posted on X, \"What are Trump and his Republican enablers focused on? Changing the name of the Lincoln Memorial Reflecting Pool to the Trump Reflecting Pool. Punish them at the ballot box. Repudiate them. Vote.\" Ted Lieu knows that I said it in a jocular manner, and added, immediately after, \"Don't worry, I'm only joking.\" All of the gathered Reporters laughed. But “Lightweight” Lieu, his new moniker, didn’t add the line that I’m only joking because he is a FRAUD. This was done at a News Conference, and even the Media was aghast that Lieu would have lied like that. He's a Third Rate Congressman, and always will be! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Tue, 03 Nov 2026 17:27:01 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-04T05:35:41.664271Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43449",
+      "first_seen": "2026-11-04T05:00:37.062164Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I w",
+      "truth_social_id": "117553680973466314",
+      "source_fingerprint": "fp:Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I w",
+      "media_identity": "attachment:117553680973466314:",
+      "translation": "軽量級下院議員テッド・リューは、ワシントンD.C.で最も尊敬されていない議員の一人だが、私がリンカーン・メモリアル・リフレクティング・プールの名前をトランプ・リフレクティング・プールに変更したいと考えていたという、意図的に悪意のある、虚偽で、名誉棄損的な発言をした。彼はXに「トランプと彼の共和党の協力者たちは何に焦点を当てているのか。リンカーン・メモリアル・リフレクティング・プールの名前をトランプ・リフレクティング・プールに変更することだ。投票所で彼らに罰を与えよ。彼らを否定せよ。投票せよ」と投稿した。テッド・リューは、私がそれを冗談半分で述べたこと、そしてすぐその後に「心配するな、冗談を言っているだけだ」と付け加えたことを知っている。集まった記者全員が笑った。しかし「軽量級」リューという彼の新しいあだ名の人物は、私が冗談を言っているというその部分を加えなかった。なぜなら彼は詐欺師だからだ。これは記者会見で行われたもので、メディアさえもリューがそのような嘘をつくことに愕然とした。彼は三流下院議員であり、いつまでもそうであろう！このことにご注目いただきありがとうございます。ドナルド・J・トランプ大統領"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37314,22 +37262,6 @@
       "published": "Tue, 03 Nov 2026 13:07:18 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
-    },
-    "truth:117553680973466314": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43449",
-      "source_text": "<p>Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I wanted to change the name of the Lincoln Memorial Reflecting Pool to the Trump Reflecting Pool. He posted on X, \"What are Trump and his Republican enablers focused on? Changing the name of the Lincoln Memorial Reflecting Pool to the Trump Reflecting Pool. Punish them at the ballot box. Repudiate them. Vote.\" Ted Lieu knows that I said it in a jocular manner, and added, immediately after, \"Don't worry, I'm only joking.\" All of the gathered Reporters laughed. But “Lightweight” Lieu, his new moniker, didn’t add the line that I’m only joking because he is a FRAUD. This was done at a News Conference, and even the Media was aghast that Lieu would have lied like that. He's a Third Rate Congressman, and always will be! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Tue, 03 Nov 2026 17:27:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-04T05:05:37.733751Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43449",
-      "first_seen": "2026-11-04T05:00:37.062164Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I w",
-      "next_retry_at": "2026-11-04T05:15:37.733766Z",
-      "truth_social_id": "117553680973466314"
     },
     "truth:117554198887656582": {
       "post_status": "RETRY",
