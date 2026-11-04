@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41334",
-    "truth:117174464930167770",
-    "https://trumpstruth.org/statuses/41333",
     "truth:117174466024298642",
     "https://trumpstruth.org/statuses/41331",
     "truth:117174465508949453",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43446",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18863/916a7595bd30d5d7-e57b2dc74040.mp4",
     "truth:117554562841729326",
-    "https://www.trumpstruth.org/statuses/43447"
+    "https://www.trumpstruth.org/statuses/43447",
+    "fp:Trump’s Midterm Travel Runs Circles Around Obama, Biden:\nhttps://www.dailysignal.com/2026/11/03/trumps-midterm-travel-blitz-surpasses-predecessors/",
+    "truth:117553613220175280",
+    "https://www.trumpstruth.org/statuses/43451"
   ],
   "posts": {
-    "truth:117504178504366445": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42722",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18706/e489a11f32de0ced-ad1485b1866d.jpg\">View image</a></p>",
-      "published": "Sun, 25 Oct 2026 23:37:53 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-26T01:20:29.359555Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42722",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18706/e489a11f32de0ced-ad1485b1866d.jpg",
-      "media_identity": "attachment:117504178504366445:e489a11f32de0ced.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18706/e489a11f32de0ced-ad1485b1866d.jpg",
-      "truth_social_id": "117504178504366445",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18706/e489a11f32de0ced-ad1485b1866d.jpg"
-    },
     "truth:117504177990449108": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15269,6 +15253,24 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80",
       "truth_social_id": "117554563852726181",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117554562841729326https://truth-archive.us-iad-1.linodeobjects.com/attachments/18862/769b80bb1016bd7c-d4f8dd46a313.pngQuoted\nhttps://www.trumpstruth.org/statuses/43447https://truth-archive.us-iad-1.linodeobjects.com/attachments/18863/916a7595bd30d5d7-e57b2dc74040.mp4"
+    },
+    "truth:117553613220175280": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43451",
+      "source_text": "<p>Trump’s Midterm Travel Runs Circles Around Obama, Biden:<br /><a href=\"https://www.dailysignal.com/2026/11/03/trumps-midterm-travel-blitz-surpasses-predecessors/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/11/03/tru</span><span class=\"invisible\">mps-midterm-travel-blitz-surpasses-predecessors/</span></a></p>",
+      "published": "Tue, 03 Nov 2026 17:09:47 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-04T05:20:45.461661Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43451",
+      "first_seen": "2026-11-04T05:00:35.093150Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Trump’s Midterm Travel Runs Circles Around Obama, Biden:\nhttps://www.dailysignal.com/2026/11/03/trumps-midterm-travel-blitz-surpasses-predecessors/",
+      "truth_social_id": "117553613220175280",
+      "source_fingerprint": "fp:Trump’s Midterm Travel Runs Circles Around Obama, Biden:\nhttps://www.dailysignal.com/2026/11/03/trumps-midterm-travel-blitz-surpasses-predecessors/",
+      "media_identity": "attachment:117553613220175280:",
+      "translation": "トランプの中間選挙時期の遊説活動、オバマ・バイデンを圧倒：\nhttps://www.dailysignal.com/2026/11/03/trumps-midterm-travel-blitz-surpasses-predecessors/"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37419,22 +37421,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-11-04T05:20:51.618071Z"
-    },
-    "truth:117553613220175280": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43451",
-      "source_text": "<p>Trump’s Midterm Travel Runs Circles Around Obama, Biden:<br /><a href=\"https://www.dailysignal.com/2026/11/03/trumps-midterm-travel-blitz-surpasses-predecessors/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dailysignal.com/2026/11/03/tru</span><span class=\"invisible\">mps-midterm-travel-blitz-surpasses-predecessors/</span></a></p>",
-      "published": "Tue, 03 Nov 2026 17:09:47 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-04T05:05:36.985928Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43451",
-      "first_seen": "2026-11-04T05:00:35.093150Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Trump’s Midterm Travel Runs Circles Around Obama, Biden:\nhttps://www.dailysignal.com/2026/11/03/trumps-midterm-travel-blitz-surpasses-predecessors/",
-      "next_retry_at": "2026-11-04T05:15:36.985943Z",
-      "truth_social_id": "117553613220175280"
     },
     "truth:117553650492622207": {
       "post_status": "RETRY",
