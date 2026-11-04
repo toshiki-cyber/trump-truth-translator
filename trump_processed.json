@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41312",
-    "truth:117173822650017416",
-    "https://www.trumpstruth.org/statuses/41310",
     "truth:117173823118334969",
     "https://www.trumpstruth.org/statuses/41309",
     "truth:117173813046077225",
@@ -5000,105 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43470",
     "fp:TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE FOR:\n \n– Andy Barr for U.S. Senate\n– James Comer for U.S. Congress (KY-01)\n– Brett Guthrie for U.S. ",
     "truth:117552785929148974",
-    "https://www.trumpstruth.org/statuses/43469"
+    "https://www.trumpstruth.org/statuses/43469",
+    "fp:TO THE GREAT PEOPLE OF KANSAS, GET OUT AND VOTE FOR:\n \n– Roger Marshall for U.S. Senate\n– Ty Masterson for Governor\n– Tracey Mann for U.S. Congress (K",
+    "truth:117552788711413722",
+    "https://www.trumpstruth.org/statuses/43468"
   ],
   "posts": {
-    "truth:117496430405406772": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42701",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705</span>Georgia: See you at 7 P.M. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP<br /><a href=\"https://www.youtube.com/live/9eW9_If62pc?si=oQjVlT916OMjbXkH\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/live/9eW9_If62pc?s</span><span class=\"invisible\">i=oQjVlT916OMjbXkH</span></a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42692\">Donald J. Trump</a></p><blockquote><p>Big Rally in Georgia today! Broadcast LIVE on RSBN, all day. Enjoy!!! President DJT</p></blockquote>",
-      "published": "Sat, 24 Oct 2026 14:47:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-24T16:05:23.883477Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42701",
-      "first_seen": "2026-10-24T15:15:29.466040Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705Georgia: See you at 7 P.M. MAKE AMERICA GREAT AGAIN! President DONALD J. ",
-      "truth_social_id": "117496430405406772",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705Georgia: See you at 7 P.M. MAKE AMERICA GREAT AGAIN! President DONALD J. ",
-      "media_identity": "attachment:117496430405406772:",
-      "translation": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705Georgia: 午後7時にお会いしましょう。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領\nhttps://www.youtube.com/live/9eW9_If62pc?si=oQjVlT916OMjbXkHQuoted\nhttps://www.trumpstruth.org/statuses/42692Big 本日ジョージア州でのラリー！RSBN で終日ライブ放送。お楽しみください！!! DJT大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mymwqiwnw2sd",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mymwqiwnw2sd",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "リツイート：https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705Georgia: 午後7時にお会いしましょう。アメリカを再び偉大にしよう！ドナルド・J・トランプ大統領\nhttps://www.youtube.com/live/9eW9_If62pc?si=oQjVlT916OMjbXkHQuoted\nhttps://www.trumpstruth.org/statuses/42692Big 本日ジョージア州でのラリー！RSBN で終日ライブ放送。お楽しみください！!! DJT大統領",
-        "createdAt": "2026-10-24T15:55:26.788177Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 18,
-              "byteEnd": 99
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truthsocial.com/users/realDonaldTrump/statuses/117495828914407705Georgia:"
-              }
-            ]
-          },
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 223,
-              "byteEnd": 289
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.youtube.com/live/9eW9_If62pc?si=oQjVlT916OMjbXkHQuoted"
-              }
-            ]
-          },
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 290,
-              "byteEnd": 335
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.trumpstruth.org/statuses/42692Big"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.youtube.com/live/9eW9_If62pc?si=oQjVlT916OMjbXkHQuoted",
-            "title": "LIVE: President Trump Holds a Rally in Macon, GA - 10/24/26",
-            "description": "Join RSBN LIVE as we give you exclusive on the ground coverage of President Trump's Rally in Macon, GA. Subscribe on Rumble: https://rumble.com/c/RSBNTune in...",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreih5o63s2gm74ec7e4plr6btmhek2eyyrtaqihm4g5lokmihlfts44"
-              },
-              "mimeType": "image/jpeg",
-              "size": 157348
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mymwqiwnw2sd",
-          "rkey": "3mymwqiwnw2sd"
-        }
-      ]
-    },
     "truth:117496896764064960": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15461,6 +15365,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE FOR:\n \n– Andy Barr for U.S. Senate\n– James Comer for U.S. Congress (KY-01)\n– Brett Guthrie for U.S. ",
       "truth_social_id": "117552785929148974",
       "translation": "ケンタッキーの偉大な国民の皆さんへ、投票に行ってください：\n\n– Andy Barr（米国上院）\n– James Comer（米国下院 KY-01区）\n– Brett Guthrie（米国下院 KY-02区）\n– Ed Gallrein（米国下院 KY-04区）\n– Hal Rogers（米国下院 KY-05区）\n– Ralph Alvarado（米国下院 KY-06区）\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してあなたたちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/kentucky/https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/552/785/826/784/283/original/520ab8e404cf590c.jpg"
+    },
+    "truth:117552788711413722": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43468",
+      "source_text": "<p>TO THE GREAT PEOPLE OF KANSAS, GET OUT AND VOTE FOR:<br /> <br />– Roger Marshall for U.S. Senate<br />– Ty Masterson for Governor<br />– Tracey Mann for U.S. Congress (KS-01)<br />– Derek Schmidt for U.S. Congress (KS-02)<br />– Ron Estes for U.S. Congress (KS-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/kansas/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18877/3307c5ff50489888-2fa8dc0a7042.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:40:06 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T03:55:51.517997Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43468",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF KANSAS, GET OUT AND VOTE FOR:\n \n– Roger Marshall for U.S. Senate\n– Ty Masterson for Governor\n– Tracey Mann for U.S. Congress (K",
+      "media_identity": "attachment:117552788711413722:3307c5ff50489888.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF KANSAS, GET OUT AND VOTE FOR:\n \n– Roger Marshall for U.S. Senate\n– Ty Masterson for Governor\n– Tracey Mann for U.S. Congress (K",
+      "truth_social_id": "117552788711413722",
+      "translation": "カンザス州の偉大な国民の皆さんへ、投票に行って以下に投票してください：\n\n– ロジャー・マーシャル（U.S. 上院議員）\n– タイ・マスターソン（州知事）\n– トレーシー・マン（U.S. 下院議員 カンザス州第1区）\n– デレク・シュミット（U.S. 下院議員 カンザス州第2区）\n– ロン・エステス（U.S. 下院議員 カンザス州第4区）\n\nこれらの偉大な愛国者は私の完全で全面的な支持を得ている — 彼らは決してあなたたちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/kansas/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18877/3307c5ff50489888-2fa8dc0a7042.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37523,16 +37443,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552788711413722": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43468",
-      "source_text": "<p>TO THE GREAT PEOPLE OF KANSAS, GET OUT AND VOTE FOR:<br /> <br />– Roger Marshall for U.S. Senate<br />– Ty Masterson for Governor<br />– Tracey Mann for U.S. Congress (KS-01)<br />– Derek Schmidt for U.S. Congress (KS-02)<br />– Ron Estes for U.S. Congress (KS-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/kansas/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18877/3307c5ff50489888-2fa8dc0a7042.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:40:06 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.302156Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43468"
-    },
     "truth:117552790210747194": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37700,7 +37610,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T03:50:39.868681Z",
+      "updated_at": "2026-11-04T03:55:31.895709Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
