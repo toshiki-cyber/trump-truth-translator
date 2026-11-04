@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41313",
-    "fp:From Greg Wischer at the United States Department of the Interior: “So far, 83 statues, monuments, and memorials have been cleaned and fixed. Here are",
-    "truth:117173823863567245",
     "https://www.trumpstruth.org/statuses/41308",
     "fp:Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP",
     "truth:117173826597377945",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43462",
     "fp:TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:\n \n– Jeff Hurd for U.S. Congress (CO-03)\n– Lauren Boebert for U.S. Congress (CO-04)\n– Jeff Crank",
     "truth:117552831025987426",
-    "https://www.trumpstruth.org/statuses/43461"
+    "https://www.trumpstruth.org/statuses/43461",
+    "fp:TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton for Governor\n– James Gallagher for U.S. Congress (CA-01)\n– Tom McClintock fo",
+    "truth:117552833526822724",
+    "https://www.trumpstruth.org/statuses/43460"
   ],
   "posts": {
-    "truth:117499446707365145": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42712",
-      "source_text": "<p>They’ve been trying to get rid of Lisa Murkowski forever in Alaska, then she came up with the Ranked Choice Voting SCAM, and pulled a nice hot iron out of the fire. Everyone thought she came in second or third, but then she “won.” Miracles happen! President DONALD J. TRUMP</p>",
-      "published": "Sun, 25 Oct 2026 03:34:32 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-25T05:45:19.937760Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42712",
-      "first_seen": "2026-10-25T05:20:23.566890Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:They’ve been trying to get rid of Lisa Murkowski forever in Alaska, then she came up with the Ranked Choice Voting SCAM, and pulled a nice hot iron ou",
-      "truth_social_id": "117499446707365145",
-      "source_fingerprint": "fp:They’ve been trying to get rid of Lisa Murkowski forever in Alaska, then she came up with the Ranked Choice Voting SCAM, and pulled a nice hot iron ou",
-      "media_identity": "attachment:117499446707365145:",
-      "translation": "アラスカ州ではリサ・マーコウスキーを排除しようとずっと試みられていたが、彼女が順位選択投票詐欺を仕掛けて火中の栗を拾った。皆は彼女が二位か三位だと思っていたが、その後彼女は「勝利」した。奇跡は起こるものだ！ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myobm5vqb2oy",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myobm5vqb2oy",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "アラスカ州ではリサ・マーコウスキーを排除しようとずっと試みられていたが、彼女が順位選択投票詐欺を仕掛けて火中の栗を拾った。皆は彼女が二位か三位だと思っていたが、その後彼女は「勝利」した。奇跡は起こるものだ！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-25T05:35:28.348001Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myobm5vqb2oy",
-          "rkey": "3myobm5vqb2oy"
-        }
-      ]
-    },
     "truth:117500026912872650": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15323,6 +15287,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:\n \n– Jeff Hurd for U.S. Congress (CO-03)\n– Lauren Boebert for U.S. Congress (CO-04)\n– Jeff Crank",
       "truth_social_id": "117552831025987426",
       "translation": "コロラド州の偉大な人々へ、投票に行ってください：\n\n– ジェフ・ハード（米国下院議員候補 CO-03区）\n– ローレン・ボーベルト（米国下院議員候補 CO-04区）\n– ジェフ・クランク（米国下院議員候補 CO-05区）\n– ゲイブ・エバンス（米国下院議員候補 CO-08区）\n\nこれらの素晴らしい愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してあなたたちを失望させることはないだろう！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/colorado/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18869/092b23943616b77e-b1e6586e6aad.jpg"
+    },
+    "truth:117552833526822724": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43460",
+      "source_text": "<p>TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:<br /> <br />– Steve Hilton for Governor<br />– James Gallagher for U.S. Congress (CA-01)<br />– Tom McClintock for U.S. Congress (CA-05)<br />– Kevin Lincoln for U.S. Congress (CA-13)<br />– Vince Fong for U.S. Congress (CA-20)<br />– Jay Obernolte for U.S. Congress (CA-23)<br />– Jim Desmond for U.S. Congress (CA-48)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/california/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18868/52c28f7679fbe08b-cc47c82c2c82.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:51:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T04:35:41.519905Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43460",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton for Governor\n– James Gallagher for U.S. Congress (CA-01)\n– Tom McClintock fo",
+      "media_identity": "attachment:117552833526822724:52c28f7679fbe08b.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton for Governor\n– James Gallagher for U.S. Congress (CA-01)\n– Tom McClintock fo",
+      "truth_social_id": "117552833526822724",
+      "translation": "カリフォルニアの偉大なる人民へ、投票に行って以下の者に投票しよう：\n\n– スティーブ・ヒルトン（州知事）\n– ジェームス・ギャラガー（米国議会・カリフォルニア第1区）\n– トム・マクリントック（米国議会・カリフォルニア第5区）\n– ケビン・リンカーン（米国議会・カリフォルニア第13区）\n– ヴィンス・フォング（米国議会・カリフォルニア第20区）\n– ジェイ・オバーノルト（米国議会・カリフォルニア第23区）\n– ジム・デスモンド（米国議会・カリフォルニア第48区）\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている――彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/california/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18868/52c28f7679fbe08b-cc47c82c2c82.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37385,16 +37365,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552833526822724": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43460",
-      "source_text": "<p>TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:<br /> <br />– Steve Hilton for Governor<br />– James Gallagher for U.S. Congress (CA-01)<br />– Tom McClintock for U.S. Congress (CA-05)<br />– Kevin Lincoln for U.S. Congress (CA-13)<br />– Vince Fong for U.S. Congress (CA-20)<br />– Jay Obernolte for U.S. Congress (CA-23)<br />– Jim Desmond for U.S. Congress (CA-48)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/california/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18868/52c28f7679fbe08b-cc47c82c2c82.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:51:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.300787Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43460"
-    },
     "truth:117552836387969672": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37482,7 +37452,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T04:30:35.102350Z",
+      "updated_at": "2026-11-04T04:35:33.240565Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
