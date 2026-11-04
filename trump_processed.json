@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41308",
-    "fp:Fixing and Restoring the Thomas Jefferson Columns at the White House — Better than new! President DONALD J. TRUMP",
-    "truth:117173826597377945",
     "https://www.trumpstruth.org/statuses/41321",
     "fp:Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP",
     "truth:117173824844529572",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43461",
     "fp:TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton for Governor\n– James Gallagher for U.S. Congress (CA-01)\n– Tom McClintock fo",
     "truth:117552833526822724",
-    "https://www.trumpstruth.org/statuses/43460"
+    "https://www.trumpstruth.org/statuses/43460",
+    "fp:TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR:\n \n– Tom Cotton for U.S. Senate\n– Sarah Huckabee Sanders for Governor\n– Rick Crawford for U.S. C",
+    "truth:117552836387969672",
+    "https://www.trumpstruth.org/statuses/43459"
   ],
   "posts": {
-    "truth:117500026912872650": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42714",
-      "source_text": "<p>Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT</p>",
-      "published": "Sun, 25 Oct 2026 06:02:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-25T07:40:29.022209Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42714",
-      "first_seen": "2026-10-25T07:10:27.948085Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
-      "truth_social_id": "117500026912872650",
-      "source_fingerprint": "fp:Rob Carson’s WHAT IN THE WORLD, on NEWSMAX, is very cool. A certain street smarts quality about it! Keep pushing Rob! President DJT",
-      "media_identity": "attachment:117500026912872650:",
-      "translation": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myojtyyxmcd6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ロブ・カーソンのNEWSMAX「WHAT IN THE WORLD」は非常にクールだ。ある種のストリートスマートな質感を持っている！頑張れロブ！大統領DJT",
-        "createdAt": "2026-10-25T07:30:30.970558Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myojtyyxmcd6",
-          "rkey": "3myojtyyxmcd6"
-        }
-      ]
-    },
     "truth:117501759696367397": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15303,6 +15267,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR:\n \n– Steve Hilton for Governor\n– James Gallagher for U.S. Congress (CA-01)\n– Tom McClintock fo",
       "truth_social_id": "117552833526822724",
       "translation": "カリフォルニアの偉大なる人民へ、投票に行って以下の者に投票しよう：\n\n– スティーブ・ヒルトン（州知事）\n– ジェームス・ギャラガー（米国議会・カリフォルニア第1区）\n– トム・マクリントック（米国議会・カリフォルニア第5区）\n– ケビン・リンカーン（米国議会・カリフォルニア第13区）\n– ヴィンス・フォング（米国議会・カリフォルニア第20区）\n– ジェイ・オバーノルト（米国議会・カリフォルニア第23区）\n– ジム・デスモンド（米国議会・カリフォルニア第48区）\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている――彼らは決してお前たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/california/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18868/52c28f7679fbe08b-cc47c82c2c82.jpg"
+    },
+    "truth:117552836387969672": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43459",
+      "source_text": "<p>TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR:<br /> <br />– Tom Cotton for U.S. Senate<br />– Sarah Huckabee Sanders for Governor<br />– Rick Crawford for U.S. Congress (AR-01)<br />– French Hill for U.S. Congress (AR-02)<br />– Steve Womack for U.S. Congress (AR-03)<br />– Bruce Westerman for U.S. Congress (AR-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/arkansas/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18867/6d1e74e46788d4f1-31f457e5d0c9.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:52:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T04:41:08.311865Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43459",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR:\n \n– Tom Cotton for U.S. Senate\n– Sarah Huckabee Sanders for Governor\n– Rick Crawford for U.S. C",
+      "media_identity": "attachment:117552836387969672:6d1e74e46788d4f1.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR:\n \n– Tom Cotton for U.S. Senate\n– Sarah Huckabee Sanders for Governor\n– Rick Crawford for U.S. C",
+      "truth_social_id": "117552836387969672",
+      "translation": "アーカンソー州の偉大な国民の皆さんへ、投票に行ってください：\n\n– トム・コットン（U.S.上院議員）\n– サラ・ハッカビー・サンダース（知事）\n– リック・クロフォード（U.S.下院議員（AR-01））\n– フレンチ・ヒル（U.S.下院議員（AR-02））\n– スティーブ・ウォーマック（U.S.下院議員（AR-03））\n– ブルース・ウエスターマン（U.S.下院議員（AR-04））\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してあなたたちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/arkansas/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18867/6d1e74e46788d4f1-31f457e5d0c9.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37365,16 +37345,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552836387969672": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43459",
-      "source_text": "<p>TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR:<br /> <br />– Tom Cotton for U.S. Senate<br />– Sarah Huckabee Sanders for Governor<br />– Rick Crawford for U.S. Congress (AR-01)<br />– French Hill for U.S. Congress (AR-02)<br />– Steve Womack for U.S. Congress (AR-03)<br />– Bruce Westerman for U.S. Congress (AR-04)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/arkansas/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18867/6d1e74e46788d4f1-31f457e5d0c9.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:52:14 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.300627Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43459"
-    },
     "truth:117552838497287142": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37452,7 +37422,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T04:35:33.240565Z",
+      "updated_at": "2026-11-04T04:40:33.480260Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
