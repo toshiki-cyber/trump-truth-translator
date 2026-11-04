@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41321",
-    "fp:Cleaning and Regrouting the Granite, for the first time in 63 years, at the White House North Entrance. Perfect work. President DONALD J. TRUMP",
-    "truth:117173824844529572",
     "https://www.trumpstruth.org/statuses/41307",
     "fp:From Greg Wischer at the United States Department of the Interior: “I visited the Reflecting Pool this morning, and pictures are included below of the",
     "truth:117173835662782534",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43460",
     "fp:TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR:\n \n– Tom Cotton for U.S. Senate\n– Sarah Huckabee Sanders for Governor\n– Rick Crawford for U.S. C",
     "truth:117552836387969672",
-    "https://www.trumpstruth.org/statuses/43459"
+    "https://www.trumpstruth.org/statuses/43459",
+    "fp:TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n \n– Andy Biggs for Governor\n– Warren Petersen for Attorney General\n– Alexander Kolodin for Secre",
+    "truth:117552838497287142",
+    "https://www.trumpstruth.org/statuses/43457"
   ],
   "posts": {
-    "truth:117501759696367397": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42715",
-      "source_text": "<p>Conservative Party wins in British Columbia for first time in almost 100 years: <a href=\"https://justthenews.com/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justthenews.com/world/canada/c</span><span class=\"invisible\">onservative-party-wins-british-columbia-first-time-almost-100-years</span></a></p>",
-      "published": "Sun, 25 Oct 2026 13:22:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-25T15:50:23.098641Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42715",
-      "first_seen": "2026-10-25T15:15:24.814280Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Conservative Party wins in British Columbia for first time in almost 100 years: \nhttps://justthenews.com/world/canada/conservative-party-wins-british-",
-      "truth_social_id": "117501759696367397",
-      "source_fingerprint": "fp:Conservative Party wins in British Columbia for first time in almost 100 years: \nhttps://justthenews.com/world/canada/conservative-party-wins-british-",
-      "media_identity": "attachment:117501759696367397:",
-      "translation": "保守党がブリティッシュコロンビア州でほぼ100年ぶりに勝利を収める：\nhttps://justthenews.com/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mypchyd5ws7l",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mypchyd5ws7l",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "保守党がブリティッシュコロンビア州でほぼ100年ぶりに勝利を収める：\nhttps://justthenews.com/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years",
-        "createdAt": "2026-10-25T15:40:21.801872Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 97,
-              "byteEnd": 202
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://justthenews.com/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://justthenews.com/world/canada/conservative-party-wins-british-columbia-first-time-almost-100-years",
-            "title": "Conservative Party wins in British Columbia for first time in almost 100 years",
-            "description": "The conservatives won 64 of the 93 ​seats and the New Democrats won 27, according to Reuters.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreigzvqp6ssfubekdgdhzhzt5725inzrrin6cnqd7opx2jjuzn7xouu"
-              },
-              "mimeType": "image/jpeg",
-              "size": 184379
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mypchyd5ws7l",
-          "rkey": "3mypchyd5ws7l"
-        }
-      ]
-    },
     "truth:117502341995120080": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15283,6 +15215,22 @@
       "fingerprint": "fp:TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR:\n \n– Tom Cotton for U.S. Senate\n– Sarah Huckabee Sanders for Governor\n– Rick Crawford for U.S. C",
       "truth_social_id": "117552836387969672",
       "translation": "アーカンソー州の偉大な国民の皆さんへ、投票に行ってください：\n\n– トム・コットン（U.S.上院議員）\n– サラ・ハッカビー・サンダース（知事）\n– リック・クロフォード（U.S.下院議員（AR-01））\n– フレンチ・ヒル（U.S.下院議員（AR-02））\n– スティーブ・ウォーマック（U.S.下院議員（AR-03））\n– ブルース・ウエスターマン（U.S.下院議員（AR-04））\n\nこれらの偉大な愛国者たちは、私の完全かつ全面的な支持を得ている。彼らは決してあなたたちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/arkansas/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18867/6d1e74e46788d4f1-31f457e5d0c9.jpg"
+    },
+    "truth:117552838497287142": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43457",
+      "source_text": "<p>TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:<br /> <br />– Andy Biggs for Governor<br />– Warren Petersen for Attorney General<br />– Alexander Kolodin for Secretary of State<br />– Jay Feely for U.S. Congress (AZ-01)<br />– Eli Crane for U.S. Congress (AZ-02)<br />– Mark Lamb for U.S. Congress (AZ-05)<br />– Juan Ciscomani for U.S. Congress (AZ-06)<br />– Abraham Hamadeh for U.S. Congress (AZ-08)<br />– Paul Gosar for U.S. Congress (AZ-09)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/arizona/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18866/cd44ae943552848c-ce5549b4b0be.jpg\">View image</a></p>",
+      "published": "Tue, 03 Nov 2026 13:52:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-04T04:45:46.297171Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43457",
+      "source_fingerprint": "fp:TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n \n– Andy Biggs for Governor\n– Warren Petersen for Attorney General\n– Alexander Kolodin for Secre",
+      "media_identity": "attachment:117552838497287142:cd44ae943552848c.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:\n \n– Andy Biggs for Governor\n– Warren Petersen for Attorney General\n– Alexander Kolodin for Secre",
+      "truth_social_id": "117552838497287142",
+      "translation": "アリゾナ州の素晴らしい国民の皆さんへ、投票に行って以下の候補者に投票してください：\n\n– アンディ・ビッグス（知事候補）\n– ウォーレン・ピーターセン（司法長官候補）\n– アレクサンダー・コロディン（国務長官候補）\n– ジェイ・フィーリー（下院議員候補 AZ-01区）\n– イライ・クレーン（下院議員候補 AZ-02区）\n– マーク・ラム（下院議員候補 AZ-05区）\n– フアン・シスコマーニ（下院議員候補 AZ-06区）\n– エイブラハム・ハマデー（下院議員候補 AZ-08区）\n– ポール・ゴーサー（下院議員候補 AZ-09区）\n\nこれらの素晴らしい愛国者たちは、私の完全かつ全面的な支持を受けている。彼らは決してあなたたちを失望させることはない。ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/arizona/https://truth-archive.us-iad-1.linodeobjects.com/attachments/18866/cd44ae943552848c-ce5549b4b0be.jpg"
     },
     "truth:117550948508562189": {
       "post_status": "DISCOVERED",
@@ -37345,16 +37293,6 @@
       "retry_count": 0,
       "updated_at": "2026-11-03T22:50:32.206465Z"
     },
-    "truth:117552838497287142": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43457",
-      "source_text": "<p>TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR:<br /> <br />– Andy Biggs for Governor<br />– Warren Petersen for Attorney General<br />– Alexander Kolodin for Secretary of State<br />– Jay Feely for U.S. Congress (AZ-01)<br />– Eli Crane for U.S. Congress (AZ-02)<br />– Mark Lamb for U.S. Congress (AZ-05)<br />– Juan Ciscomani for U.S. Congress (AZ-06)<br />– Abraham Hamadeh for U.S. Congress (AZ-08)<br />– Paul Gosar for U.S. Congress (AZ-09)<br /> <br />These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP<br />swampthevoteusa.com/arizona/</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18866/cd44ae943552848c-ce5549b4b0be.jpg\">View image</a></p>",
-      "published": "Tue, 03 Nov 2026 13:52:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-04T02:50:35.300470Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43457"
-    },
     "truth:117552843109770094": {
       "post_status": "DISCOVERED",
       "media_state": "PENDING",
@@ -37422,7 +37360,7 @@
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18861/b914e1f308a7ab91-0312b794b612.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 17:58:14 +0000",
       "retry_count": 0,
-      "updated_at": "2026-11-04T04:40:33.480260Z",
+      "updated_at": "2026-11-04T04:45:34.132223Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43444"
     },
     "truth:117554198887656582": {
