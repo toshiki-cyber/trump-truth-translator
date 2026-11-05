@@ -37384,6 +37384,38 @@
       "truth_social_id": "117555192941614752",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-05T17:20:42.071716Z"
+    },
+    "truth:117564043402069442": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43489",
+      "source_text": "<p><a href=\"https://truthsocial.com/@WhiteHouse/117550235500967429\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">truthsocial.com/@WhiteHouse/11</span><span class=\"invisible\">7550235500967429</span></a></p>",
+      "published": "Thu, 05 Nov 2026 13:22:19 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-05T14:50:43.919710Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43489",
+      "first_seen": "2026-11-05T14:50:43.919667Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:https://truthsocial.com/@WhiteHouse/117550235500967429",
+      "next_retry_at": "2026-11-05T14:55:43.919718Z",
+      "truth_social_id": "117564043402069442"
+    },
+    "truth:117564115835486203": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43490",
+      "source_text": "<p>The vote totals for the Fake Dan Sullivan, plus the other “slug” that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan, and the Election is over - He easily wins. There is no other fair solution! President DJT</p>",
+      "published": "Thu, 05 Nov 2026 13:40:44 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-05T14:50:47.363384Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43490",
+      "first_seen": "2026-11-05T14:50:47.363339Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The vote totals for the Fake Dan Sullivan, plus the other “slug” that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan",
+      "next_retry_at": "2026-11-05T14:55:47.363393Z",
+      "truth_social_id": "117564115835486203"
     }
   }
 }
