@@ -37428,16 +37428,16 @@
       "status_url": "https://www.trumpstruth.org/statuses/43439",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18859/d9b826f898ae7d06-5dbea85761dc.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 23:51:32 +0000",
-      "retry_count": 16,
-      "updated_at": "2026-11-06T17:46:07.545509Z",
+      "retry_count": 17,
+      "updated_at": "2026-11-06T23:51:11.355176Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43439",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18859/d9b826f898ae7d06-5dbea85761dc.mp4",
       "media_identity": "attachment:117555192941614752:d9b826f898ae7d06-5dbea85761dc.mp4",
-      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 502): <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n",
+      "failure_reason": "Blueskyメディアアップロード失敗: Bluesky動画送信失敗 (HTTP 409): {\"did\":\"did:plc:pei54lmz7zh5mz2tvsua7pqz\",\"error\":\"already_exists\",\"jobId\":\"da7rt74ug6hs73avodgg\",\"message\":\"Video already processed\",\"state\":\"JOB_STATE_COMPLETED\"}\n",
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18859/d9b826f898ae7d06-5dbea85761dc.mp4",
       "truth_social_id": "117555192941614752",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-11-06T23:46:07.545531Z"
+      "next_retry_at": "2026-11-07T05:51:11.355208Z"
     }
   }
 }
