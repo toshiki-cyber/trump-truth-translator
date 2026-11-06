@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41353",
-    "fp:Maggot Hagerman, the Fake Reporter from The Failing New York Times, an unattractive person both inside and out, and who knows less about me than most ",
-    "truth:117175050400064794",
     "https://www.trumpstruth.org/statuses/41354",
     "fp:Stupid Governor Kathy Hochul, who doesn’t care about New York State, has announced that she is on the side of Canada, which has been ripping us off fo",
     "truth:117175211787368815",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43489",
     "fp:The Stock Market suffered one of the Worst Days in History based on the results of the Election. Such a sad thing to watch! It took so much work to ge",
     "truth:117566389105992268",
-    "https://www.trumpstruth.org/statuses/43491"
+    "https://www.trumpstruth.org/statuses/43491",
+    "fp:The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
+    "truth:117566560747501657",
+    "https://www.trumpstruth.org/statuses/43492"
   ],
   "posts": {
-    "truth:117509206102856686": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42735",
-      "source_text": "<p>Congressman Clay Higgins is a MAGA Warrior who is doing a tremendous job representing the wonderful people of Louisiana's 3rd Congressional District!<br /> <br />A tough Law Enforcement Officer, and brave U.S. Army Veteran, Clay strongly supports our incredible Law Enforcement, Military, and Veterans, and knows the Wisdom and Courage it takes to Ensure LAW AND ORDER. An America First Patriot, who has been with us from the very beginning, Clay is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Advance Election Integrity, and Defend our always under siege Second Amendment.<br /> <br />Clay Higgins has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR CLAY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/states/louisiana/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/states/lou</span><span class=\"invisible\">isiana/</span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:56:28 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T00:20:28.490219Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42735",
-      "first_seen": "2026-10-26T23:10:40.750827Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Clay Higgins is a MAGA Warrior who is doing a tremendous job representing the wonderful people of Louisiana's 3rd Congressional District!\n",
-      "truth_social_id": "117509206102856686",
-      "source_fingerprint": "fp:Congressman Clay Higgins is a MAGA Warrior who is doing a tremendous job representing the wonderful people of Louisiana's 3rd Congressional District!\n",
-      "media_identity": "attachment:117509206102856686:",
-      "translation": "クレイ・ヒギンズ下院議員はMAGA戦士であり、ルイジアナ州第3選挙区の素晴らしい人々を代表する素晴らしい仕事をしている！\n\nタフな法執行官であり、勇敢な米陸軍退役軍人であるクレイは、我々の信じられない法執行機関、軍、退役軍人を強く支持し、法と秩序を確保するために必要な英知と勇気を知っている。最初からずっと我々と共にいるアメリカ第一主義の愛国者であるクレイは、我々の経済を成長させ、税金と規制を削減し、米国エネルギーの支配力を解放し、国境をしっかり守り、移民犯罪を止め、選挙の完全性を進め、常に包囲されている修正第2条を守るために絶え間なく戦っている。\n\nクレイ・ヒギンズは再選に向けて私の完全で全面的な支持を得ている。投票に行ってクレイに投票してくれ—彼は君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/states/louisiana/"
-    },
     "truth:117509280703799414": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15323,6 +15305,42 @@
         {
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzlyvzzaw2qm",
           "rkey": "3mzlyvzzaw2qm"
+        }
+      ]
+    },
+    "truth:117566560747501657": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43492",
+      "source_text": "<p>The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP</p>",
+      "published": "Fri, 06 Nov 2026 00:02:31 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-06T01:25:40.616240Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43492",
+      "first_seen": "2026-11-06T00:50:38.672695Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
+      "truth_social_id": "117566560747501657",
+      "source_fingerprint": "fp:The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
+      "media_identity": "attachment:117566560747501657:",
+      "translation": "今日、株式市場が暴落したのはデモクラット（民主党）が火曜日に大きな成功を収めたからだ。悲しいことだが、責任は自分たちにある！ドナルド・J・トランプ大統領",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzm3e3q25cz6",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3mzm3e3q25cz6",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "今日、株式市場が暴落したのはデモクラット（民主党）が火曜日に大きな成功を収めたからだ。悲しいことだが、責任は自分たちにある！ドナルド・J・トランプ大統領",
+        "createdAt": "2026-11-06T01:15:40.631582Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzm3e3q25cz6",
+          "rkey": "3mzm3e3q25cz6"
         }
       ]
     },
@@ -37436,79 +37454,6 @@
       "truth_social_id": "117555192941614752",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-06T05:35:47.168859Z"
-    },
-    "truth:117566560747501657": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/43492",
-      "source_text": "<p>The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP</p>",
-      "published": "Fri, 06 Nov 2026 00:02:31 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-06T01:15:47.333785Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43492",
-      "first_seen": "2026-11-06T00:50:38.672695Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
-      "truth_social_id": "117566560747501657",
-      "source_fingerprint": "fp:The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
-      "media_identity": "attachment:117566560747501657:",
-      "translation": "今日、株式市場が暴落したのはデモクラット（民主党）が火曜日に大きな成功を収めたからだ。悲しいことだが、責任は自分たちにある！ドナルド・J・トランプ大統領",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzm3e3q25cz6",
-          "cid": "bafyreih6fmmachifzoi2wael2btqtwrisrfgkzrict72sqjc2nbxqm3jze"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzm3e3q25cz6",
-          "cid": "bafyreih6fmmachifzoi2wael2btqtwrisrfgkzrict72sqjc2nbxqm3jze"
-        },
-        "next_index": 1,
-        "last_rkey": "3mzm3e3q25cz6",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "今日、株式市場が暴落したのはデモクラット（民主党）が火曜日に大きな成功を収めたからだ。悲しいことだが、責任は自分たちにある！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-11-06T01:15:40.631582Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3mzm3e3q25cz6",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "今日、株式市場が暴落したのはデモクラット（民主党）が火曜日に大きな成功を収めたからだ。悲しいことだが、責任は自分たちにある！ドナルド・J・トランプ大統領",
-          "createdAt": "2026-11-06T01:15:40.631582Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzm3e3q25cz6",
-            "rkey": "3mzm3e3q25cz6"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzm3e3q25cz6",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mzm3e3q25cz6",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "今日、株式市場が暴落したのはデモクラット（民主党）が火曜日に大きな成功を収めたからだ。悲しいことだが、責任は自分たちにある！ドナルド・J・トランプ大統領",
-        "createdAt": "2026-11-06T01:15:40.631582Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mzm3e3q25cz6",
-          "rkey": "3mzm3e3q25cz6"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-11-06T01:20:47.333799Z"
     },
     "truth:117566606657912243": {
       "post_status": "RETRY",
