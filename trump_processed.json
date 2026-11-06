@@ -37418,6 +37418,54 @@
       "truth_social_id": "117555192941614752",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-06T05:35:47.168859Z"
+    },
+    "truth:117566389105992268": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43491",
+      "source_text": "<p>The Stock Market suffered one of the Worst Days in History based on the results of the Election. Such a sad thing to watch! It took so much work to get us to a level that no one has ever seen before, and then this. Your 401(k)s have, therefore, dropped. Remember, it wasn’t Republicans, it was Dumocrats. Do not fear, however, we will soon, one way or the other, be BIGGER AND STRONGER THAN EVER BEFORE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Thu, 05 Nov 2026 23:18:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-06T00:50:38.130064Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43491",
+      "first_seen": "2026-11-06T00:50:38.130028Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Stock Market suffered one of the Worst Days in History based on the results of the Election. Such a sad thing to watch! It took so much work to ge",
+      "next_retry_at": "2026-11-06T00:55:38.130073Z",
+      "truth_social_id": "117566389105992268"
+    },
+    "truth:117566560747501657": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43492",
+      "source_text": "<p>The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP</p>",
+      "published": "Fri, 06 Nov 2026 00:02:31 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-06T00:50:38.672728Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43492",
+      "first_seen": "2026-11-06T00:50:38.672695Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
+      "next_retry_at": "2026-11-06T00:55:38.672736Z",
+      "truth_social_id": "117566560747501657"
+    },
+    "truth:117566606657912243": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43493",
+      "source_text": "<p>I JUST WASN’T ON THE BALLOT. IF I WERE, WE WOULD HAVE WON IN A LANDSLIDE! President DONALD J. TRUMP</p>",
+      "published": "Fri, 06 Nov 2026 00:14:11 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-06T00:50:39.203309Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43493",
+      "first_seen": "2026-11-06T00:50:39.203275Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I JUST WASN’T ON THE BALLOT. IF I WERE, WE WOULD HAVE WON IN A LANDSLIDE! President DONALD J. TRUMP",
+      "next_retry_at": "2026-11-06T00:55:39.203316Z",
+      "truth_social_id": "117566606657912243"
     }
   }
 }
