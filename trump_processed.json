@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117179353254305954",
-    "https://www.trumpstruth.org/statuses/41366",
-    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117179353254305954",
     "truth:117179353983440485",
     "https://www.trumpstruth.org/statuses/41365",
     "truth:117179453982170906",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43501",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18895/556361d1edfb253b-8c90868ae022.mp4",
     "truth:117572970506667519",
-    "https://www.trumpstruth.org/statuses/43500"
+    "https://www.trumpstruth.org/statuses/43500",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117572970506667519https://truth-archive.us-iad-1.linodeobjects.com/attachments/18894/d78062",
+    "truth:117572971236611756",
+    "https://www.trumpstruth.org/statuses/43499"
   ],
   "posts": {
-    "truth:117509115334647072": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42773",
-      "source_text": "<p>“‘He wants you to repent for being born White,’ Trump said of Adam Hamilton.”</p><p>Trump warns Kansans that US will 'burn' like France if Democrats win: <a href=\"https://www.reuters.com/world/us/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win-2026-10-20/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">reuters.com/world/us/trump-war</span><span class=\"invisible\">ns-kansans-that-us-will-burn-like-france-if-democrats-win-2026-10-20/</span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:33:23 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T03:40:27.505903Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42773",
-      "first_seen": "2026-10-27T03:15:27.312377Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:“‘He wants you to repent for being born White,’ Trump said of Adam Hamilton.”\nTrump warns Kansans that US will 'burn' like France if Democrats win: \nh",
-      "truth_social_id": "117509115334647072",
-      "source_fingerprint": "fp:“‘He wants you to repent for being born White,’ Trump said of Adam Hamilton.”\nTrump warns Kansans that US will 'burn' like France if Democrats win: \nh",
-      "media_identity": "attachment:117509115334647072:",
-      "translation": "「彼は君たちが白人として生まれたことを悔い改めよと求めている」とトランプがアダム・ハミルトンについて述べた。\nトランプ、民主党が勝利すればアメリカはフランスのように「燃える」だろうとカンザス州民に警告：\nhttps://www.reuters.com/world/us/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win-2026-10-20/"
-    },
     "truth:117509117381673025": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15381,6 +15363,22 @@
           "rkey": "3mzowfptfmsrb"
         }
       ]
+    },
+    "truth:117572971236611756": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43499",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117572970506667519</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18894/d7806216a22b7c08-6cd973ddc776.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43500\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18895/556361d1edfb253b-8c90868ae022.mp4\">View video</a></p></blockquote>",
+      "published": "Sat, 07 Nov 2026 03:12:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T04:46:10.771615Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43499",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117572970506667519https://truth-archive.us-iad-1.linodeobjects.com/attachments/18894/d78062",
+      "media_identity": "attachment:117572971236611756:d7806216a22b7c08.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117572970506667519https://truth-archive.us-iad-1.linodeobjects.com/attachments/18894/d78062",
+      "truth_social_id": "117572971236611756",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117572970506667519https://truth-archive.us-iad-1.linodeobjects.com/attachments/18894/d7806216a22b7c08-6cd973ddc776.jpgQuoted\nhttps://www.trumpstruth.org/statuses/43500https://truth-archive.us-iad-1.linodeobjects.com/attachments/18895/556361d1edfb253b-8c90868ae022.mp4"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37556,16 +37554,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-07T04:46:07.963934Z"
-    },
-    "truth:117572971236611756": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43499",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117572970506667519</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18894/d7806216a22b7c08-6cd973ddc776.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43500\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18895/556361d1edfb253b-8c90868ae022.mp4\">View video</a></p></blockquote>",
-      "published": "Sat, 07 Nov 2026 03:12:47 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-07T04:26:06.640216Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43499"
     }
   }
 }
