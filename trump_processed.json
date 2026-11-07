@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! Presi",
-    "truth:117184815452316443",
-    "https://www.trumpstruth.org/statuses/41389",
     "fp:Canadian businesses are pouring into the United States. We want to make our own cars, etc. That’s what’s going to happen. Canada has been ripping us o",
     "truth:117184800571598811",
     "https://www.trumpstruth.org/statuses/41390",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43513",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117576963589452045https://truth-archive.us-iad-1.linodeobjects.com/attachments/18906/559fe4",
     "truth:117576964275275822",
-    "https://www.trumpstruth.org/statuses/43514"
+    "https://www.trumpstruth.org/statuses/43514",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18909/048a777375189794-ae6a78ab6d72.png",
+    "truth:117577342421100025",
+    "https://www.trumpstruth.org/statuses/43517"
   ],
   "posts": {
-    "truth:117513446395316214": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42780",
-      "source_text": "<p>Congratulations to Paul St-Pierre Plamondon on his WIN! President DONALD J. TRUMP</p><p>Separatists win Quebec provincial election in blow to Mark Carney: <a href=\"https://www.irishtimes.com/world/canada/2026/10/06/separatists-win-quebec-provincial-election-in-blow-to-mark-carney/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">irishtimes.com/world/canada/20</span><span class=\"invisible\">26/10/06/separatists-win-quebec-provincial-election-in-blow-to-mark-carney/</span></a></p>",
-      "published": "Tue, 27 Oct 2026 14:54:50 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T17:35:31.018851Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42780",
-      "first_seen": "2026-10-27T17:15:28.997833Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congratulations to Paul St-Pierre Plamondon on his WIN! President DONALD J. TRUMP\nSeparatists win Quebec provincial election in blow to Mark Carney: \n",
-      "truth_social_id": "117513446395316214",
-      "source_fingerprint": "fp:Congratulations to Paul St-Pierre Plamondon on his WIN! President DONALD J. TRUMP\nSeparatists win Quebec provincial election in blow to Mark Carney: \n",
-      "media_identity": "attachment:117513446395316214:",
-      "translation": "ポール・サンピエール・プラモンドンの勝利に祝意を送る！ドナルド・J・トランプ大統領\n分離主義者がケベック州選挙で勝利、マーク・カーニーに打撃：\nhttps://www.irishtimes.com/world/canada/2026/10/06/separatists-win-quebec-provincial-election-in-blow-to-mark-carney/"
-    },
     "truth:117513546520520214": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15285,6 +15267,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117576963589452045https://truth-archive.us-iad-1.linodeobjects.com/attachments/18906/559fe4",
       "truth_social_id": "117576964275275822",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117576963589452045https://truth-archive.us-iad-1.linodeobjects.com/attachments/18906/559fe49f77033190-32b3ad597546.jpgQuoted\nhttps://www.trumpstruth.org/statuses/43515https://truth-archive.us-iad-1.linodeobjects.com/attachments/18907/26c57d7869f2f926-6a0c37100aa6.jpg"
+    },
+    "truth:117577342421100025": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43517",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18909/048a777375189794-ae6a78ab6d72.png\">View image</a></p>",
+      "published": "Sat, 07 Nov 2026 21:44:26 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T22:26:24.106482Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43517",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18909/048a777375189794-ae6a78ab6d72.png",
+      "media_identity": "attachment:117577342421100025:048a777375189794.png",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18909/048a777375189794-ae6a78ab6d72.png",
+      "truth_social_id": "117577342421100025",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18909/048a777375189794-ae6a78ab6d72.png"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37460,6 +37458,66 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-07T04:46:07.963934Z"
+    },
+    "truth:117577346685295339": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43518",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18910/f34b63bff4b3f2ce-c6fcc6b20814.mov\">View video</a></p>",
+      "published": "Sat, 07 Nov 2026 21:45:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T22:26:07.693316Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43518"
+    },
+    "truth:117577350046122946": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43519",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18911/154ab79ae11ecbec-37f0c752de51.mp4\">View video</a></p>",
+      "published": "Sat, 07 Nov 2026 21:46:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T22:26:07.693161Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43519"
+    },
+    "truth:117577355679832817": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43522",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577346685295339</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18914/6634bd1c165da446-ed127f7de5c0.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43518\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18910/f34b63bff4b3f2ce-c6fcc6b20814.mov\">View video</a></p></blockquote>",
+      "published": "Sat, 07 Nov 2026 21:47:48 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T22:26:07.693007Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43522"
+    },
+    "truth:117577356194134392": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43521",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18913/17ef009f448b02b1-a0e39373dbc4.mp4\">View video</a></p>",
+      "published": "Sat, 07 Nov 2026 21:47:56 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T22:26:07.692853Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43521"
+    },
+    "truth:117577357040264617": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43520",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18912/92d7b2f29a2f5ab3-6adeb620e244.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43521\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18913/17ef009f448b02b1-a0e39373dbc4.mp4\">View video</a></p></blockquote>",
+      "published": "Sat, 07 Nov 2026 21:48:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T22:26:07.692697Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43520"
+    },
+    "truth:117577381997659473": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43523",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18915/27077722acc2fa4f-6e1d4882ba1a.mp4\">View video</a></p>",
+      "published": "Sat, 07 Nov 2026 21:54:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T22:26:07.692523Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43523"
     }
   }
 }
