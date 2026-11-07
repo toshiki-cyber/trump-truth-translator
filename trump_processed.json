@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:NASA Mission Control yesterday! President DONALD J. TRUMP",
-    "truth:117179455037482321",
-    "https://www.trumpstruth.org/statuses/41370",
     "truth:117179458199513865",
     "https://www.trumpstruth.org/statuses/41368",
     "fp:Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP",
@@ -5000,77 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43503",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18897/d52ea787c3f1a240-5c4a6fbdbc42.jpg",
     "truth:117575635652523564",
-    "https://www.trumpstruth.org/statuses/43502"
+    "https://www.trumpstruth.org/statuses/43502",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18899/38cdeb702635c596-00946487bfbe.jpg",
+    "truth:117575684780434068",
+    "https://www.trumpstruth.org/statuses/43504"
   ],
   "posts": {
-    "truth:117509120218595998": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42770",
-      "source_text": "<p>Abdul El-Sayed: You’re No Jack Kennedy: <a href=\"https://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">amgreatness.com/2026/10/23/abd</span><span class=\"invisible\">ul-el-sayed-youre-no-jack-kennedy/</span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:34:38 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-27T04:15:27.144575Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42770",
-      "first_seen": "2026-10-27T03:15:29.559458Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Abdul El-Sayed: You’re No Jack Kennedy: \nhttps://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/",
-      "truth_social_id": "117509120218595998",
-      "source_fingerprint": "fp:Abdul El-Sayed: You’re No Jack Kennedy: \nhttps://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/",
-      "media_identity": "attachment:117509120218595998:",
-      "translation": "アブドゥル・エルセイド：あなたはジャック・ケネディではない：\nhttps://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysl35zg2sal",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mysl35zg2sal",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "アブドゥル・エルセイド：あなたはジャック・ケネディではない：\nhttps://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/",
-        "createdAt": "2026-10-27T04:05:32.407012Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 91,
-              "byteEnd": 163
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://amgreatness.com/2026/10/23/abdul-el-sayed-youre-no-jack-kennedy/",
-            "title": "Abdul El-Sayed: You’re No Jack Kennedy › American Greatness",
-            "description": "The Catholic Church is not the Muslim Brotherhood.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreicfgh73tskubruc4rhfe34iz7hsqkn4w6rn5nayuycmnahkb2fziy"
-              },
-              "mimeType": "image/jpeg",
-              "size": 371599
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mysl35zg2sal",
-          "rkey": "3mysl35zg2sal"
-        }
-      ]
-    },
     "truth:117509141576629625": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15337,6 +15269,22 @@
           "rkey": "3mzq4cuxz6sgz"
         }
       ]
+    },
+    "truth:117575684780434068": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43504",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18899/38cdeb702635c596-00946487bfbe.jpg\">View image</a></p>",
+      "published": "Sat, 07 Nov 2026 14:42:52 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T16:41:09.339408Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43504",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18899/38cdeb702635c596-00946487bfbe.jpg",
+      "media_identity": "attachment:117575684780434068:38cdeb702635c596.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18899/38cdeb702635c596-00946487bfbe.jpg",
+      "truth_social_id": "117575684780434068",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18899/38cdeb702635c596-00946487bfbe.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37512,16 +37460,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-07T04:46:07.963934Z"
-    },
-    "truth:117575684780434068": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43504",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18899/38cdeb702635c596-00946487bfbe.jpg\">View image</a></p>",
-      "published": "Sat, 07 Nov 2026 14:42:52 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-07T16:26:04.136336Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43504"
     }
   }
 }
