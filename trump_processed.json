@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117182127131466263",
-    "https://trumpstruth.org/statuses/41379",
-    "truth:117182128024503644",
     "https://trumpstruth.org/statuses/41378",
     "truth:117182128600819682",
     "https://trumpstruth.org/statuses/41377",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43508",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18903/ea99c9d4bcc0934c-345a0ca88ac7.jpg",
     "truth:117576661120815885",
-    "https://www.trumpstruth.org/statuses/43510"
+    "https://www.trumpstruth.org/statuses/43510",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18905/browser-safe.mp4",
+    "truth:117576893933424183",
+    "https://www.trumpstruth.org/statuses/43512"
   ],
   "posts": {
-    "truth:117509168935477505": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42762",
-      "source_text": "<p>Congresswoman Monica De La Cruz is doing an incredible job representing the wonderful people of Texas’ 15th Congressional District!<br /> <br />A very successful Small Businesswoman, Monica knows the AMERICA FIRST Policies necessary to Create GREAT Jobs, Unleash Innovation, and Restore American Energy DOMINANCE. Her opponent, Bobby Pulido, is a Radical Left Democrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. Bobby Pulido is Reckless, Radical, and Dangerous!<br /> <br />On the other hand, in Congress, Monica is fighting tirelessly to Grow our Economy Cut Taxes and Regulations, Keep our Border SECURE, Champion our Farmers and American Agriculture, Support our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Monica De La Cruz has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR MONICA — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP <a href=\"https://swampthevoteusa.com/states/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">swampthevoteusa.com/states/tex</span><span class=\"invisible\">as/</span></a></p>",
-      "published": "Mon, 26 Oct 2026 20:47:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-27T04:45:32.158372Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42762",
-      "first_seen": "2026-10-27T03:30:28.663996Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congresswoman Monica De La Cruz is doing an incredible job representing the wonderful people of Texas’ 15th Congressional District!\n \nA very successfu",
-      "truth_social_id": "117509168935477505",
-      "source_fingerprint": "fp:Congresswoman Monica De La Cruz is doing an incredible job representing the wonderful people of Texas’ 15th Congressional District!\n \nA very successfu",
-      "media_identity": "attachment:117509168935477505:",
-      "translation": "下院議員モニカ・デ・ラ・クルーズはテキサス州第15選挙区の素晴らしい人々を代表する素晴らしい仕事をしている！\n\n非常に成功した小企業経営者であるモニカは、素晴らしい雇用を創出し、イノベーションを解放し、アメリカのエネルギー支配を回復するために必要なアメリカ第一主義の政策をよく理解している。彼女の対立候補であるボビー・プリードは、チップに対する税金なし、残業に対する税金なし、社会保障に対する税金なしに反対する過激左翼民主党員であり、彼と民主党員たちが権力を握ったら、これらすべてのものが廃止されるだろう。彼は大幅な増税、国境開放、女性スポーツでの男性選手出場、お前らの子どもへのトランスジェンダー変造を望んでいる。ボビー・プリードは無責任で過激で危険だ！\n\n一方、下院でモニカは、経済を成長させ、税金と規制を削減し、国境をセキュアに保ち、農民とアメリカ農業を支援し、勇敢な軍人と退役軍人を支援し、常に包囲されている第二修正条項を守るために不疲労に戦い続けている。\n\nモニカ・デ・ラ・クルーズは再選に対する私の完全かつ完璧な支持を得ている。モニカに投票するために立ち上がれ――彼女は絶対にお前らを失望させない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/states/texas/"
-    },
     "truth:117509172402609805": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15277,6 +15259,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18903/ea99c9d4bcc0934c-345a0ca88ac7.jpg",
       "truth_social_id": "117576661120815885",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18903/ea99c9d4bcc0934c-345a0ca88ac7.jpg"
+    },
+    "truth:117576893933424183": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43512",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18905/browser-safe.mp4\">View video</a></p>",
+      "published": "Sat, 07 Nov 2026 19:50:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-07T20:36:23.026250Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43512",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18905/browser-safe.mp4",
+      "media_identity": "attachment:117576893933424183:d4316f56c017cd87-9bb4901f0293.mov",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18905/browser-safe.mp4",
+      "truth_social_id": "117576893933424183",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18905/browser-safe.mp4"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37468,16 +37466,6 @@
       "fingerprint": "fp:The threats being made by the Democrat Party against innocent Republican Donors and Party Members are absolutely unprecedented, and totally illegal. P",
       "next_retry_at": "2026-11-07T20:36:07.465970Z",
       "truth_social_id": "117576637813209602"
-    },
-    "truth:117576893933424183": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43512",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18905/browser-safe.mp4\">View video</a></p>",
-      "published": "Sat, 07 Nov 2026 19:50:23 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-07T20:26:05.854893Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43512"
     },
     "truth:117576894858031741": {
       "post_status": "DISCOVERED",
