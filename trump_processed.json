@@ -37466,6 +37466,32 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18915/27077722acc2fa4f-6e1d4882ba1a.mp4",
       "truth_social_id": "117577381997659473",
       "next_retry_at": "2026-11-07T23:01:10.243951Z"
+    },
+    "truth:117581469495786527": {
+      "post_status": "BLOCKED",
+      "media_state": "INVALID",
+      "status_url": "https://www.trumpstruth.org/statuses/43526",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4\">View video</a></p>",
+      "published": "Sun, 08 Nov 2026 15:14:00 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-08T16:26:07.419278Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43526",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
+      "media_identity": "attachment:117581469495786527:e5738c96277ecdc6-6f76b5242fe6.mov",
+      "failure_reason": "動画候補がすべて不正: 動画サイズ超過: 54.2MB > 50MB / 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/581/464/117/897/598/original/e5738c96277ecdc6.mp4",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
+      "truth_social_id": "117581469495786527",
+      "next_retry_at": "2026-11-08T16:31:07.419295Z"
+    },
+    "truth:117581656360570548": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43527",
+      "source_text": "<p>I will be interviewed tonight on “60 Minutes.” Hopefully, they will show all the good things we’ve done over the past 2 years, not even including the First Term, which was incredible. If we get help from the Republican Senate, we can still do things that are unbelievable! President DJT</p>",
+      "published": "Sun, 08 Nov 2026 16:01:32 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-08T16:26:05.378864Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43527"
     }
   }
 }
