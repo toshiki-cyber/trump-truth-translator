@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117185864353206503",
-    "https://trumpstruth.org/statuses/41398",
-    "truth:117186443308687103",
     "https://trumpstruth.org/statuses/41399",
     "truth:117186610792493785",
     "https://trumpstruth.org/statuses/41400",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43525",
     "fp:I will be interviewed tonight on “60 Minutes.” Hopefully, they will show all the good things we’ve done over the past 2 years, not even including the ",
     "truth:117581656360570548",
-    "https://www.trumpstruth.org/statuses/43527"
+    "https://www.trumpstruth.org/statuses/43527",
+    "fp:Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets int",
+    "truth:117582778301201947",
+    "https://www.trumpstruth.org/statuses/43528"
   ],
   "posts": {
-    "truth:117513699879855060": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42796",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562b071f9dbb2-131727fcf9b6.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42797\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18728/86bbe3c54fc2a134-6ab9d15b2c7c.mp4\">View video</a></p></blockquote>",
-      "published": "Tue, 27 Oct 2026 15:59:18 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T19:41:22.020252Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42796",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562",
-      "media_identity": "attachment:117513699879855060:d91562b071f9dbb2.png",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562",
-      "truth_social_id": "117513699879855060",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117513698517194972https://truth-archive.us-iad-1.linodeobjects.com/attachments/18727/d91562b071f9dbb2-131727fcf9b6.pngQuoted\nhttps://www.trumpstruth.org/statuses/42797https://truth-archive.us-iad-1.linodeobjects.com/attachments/18728/86bbe3c54fc2a134-6ab9d15b2c7c.mp4"
-    },
     "truth:117513440975898446": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15217,6 +15201,24 @@
           "rkey": "3mzsrurso7csc"
         }
       ]
+    },
+    "truth:117582778301201947": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43528",
+      "source_text": "<p>Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran! President DJT</p>",
+      "published": "Sun, 08 Nov 2026 20:46:51 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-08T22:46:17.391206Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43528",
+      "first_seen": "2026-11-08T22:26:10.846818Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets int",
+      "truth_social_id": "117582778301201947",
+      "source_fingerprint": "fp:Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets int",
+      "media_identity": "attachment:117582778301201947:",
+      "translation": "タスクフォース・アイアンゲートはイスラム共和国イランで全力で効果を発揮している。歴史上最大級の海上封鎖と相まって、イランへの出入りはほとんど不可能な状況だ！大統領ドナルド・J・トランプ"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37456,22 +37458,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
-    },
-    "truth:117582778301201947": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43528",
-      "source_text": "<p>Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran! President DJT</p>",
-      "published": "Sun, 08 Nov 2026 20:46:51 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-08T22:31:13.299845Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43528",
-      "first_seen": "2026-11-08T22:26:10.846818Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets int",
-      "next_retry_at": "2026-11-08T22:41:13.299861Z",
-      "truth_social_id": "117582778301201947"
     }
   }
 }
