@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117185350159023559",
-    "https://trumpstruth.org/statuses/41395",
-    "fp:Google Maps changes Lake Ontario to ‘Lake America’ on US phones: \nhttps://thehill.com/policy/transportation/6059553-google-maps-renames-lake-america/",
     "truth:117185234758035541",
     "https://trumpstruth.org/statuses/41393",
     "fp:When I announced that I was running in the 2024 Presidential Election, right at the beginning, Ford was getting ready to close their Big Factory, in D",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43521",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392https://truth-archive.us-iad-1.linodeobjects.com/attachments/18912/92d7b2",
     "truth:117577357040264617",
-    "https://www.trumpstruth.org/statuses/43520"
+    "https://www.trumpstruth.org/statuses/43520",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577381997659473https://truth-archive.us-iad-1.linodeobjects.com/attachments/18916/719248",
+    "truth:117578791772773790",
+    "https://www.trumpstruth.org/statuses/43524"
   ],
   "posts": {
-    "truth:117513689851891225": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42799",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4\">View video</a></p>",
-      "published": "Tue, 27 Oct 2026 15:56:45 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T19:21:41.707567Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42799",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4",
-      "media_identity": "attachment:117513689851891225:0b1aa1734d2bfcb9-d3a32ca7ab14.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4",
-      "truth_social_id": "117513689851891225",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18730/0b1aa1734d2bfcb9-d3a32ca7ab14.mp4"
-    },
     "truth:117513691842839994": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15241,6 +15225,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392https://truth-archive.us-iad-1.linodeobjects.com/attachments/18912/92d7b2",
       "truth_social_id": "117577357040264617",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392https://truth-archive.us-iad-1.linodeobjects.com/attachments/18912/92d7b2f29a2f5ab3-6adeb620e244.pngQuoted\nhttps://www.trumpstruth.org/statuses/43521https://truth-archive.us-iad-1.linodeobjects.com/attachments/18913/17ef009f448b02b1-a0e39373dbc4.mp4"
+    },
+    "truth:117578791772773790": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43524",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577381997659473</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18916/7192480481ebe407-f1fbff7c6679.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43523\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18915/27077722acc2fa4f-6e1d4882ba1a.mp4\">View video</a></p></blockquote>",
+      "published": "Sun, 08 Nov 2026 03:53:01 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-08T04:26:13.076843Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43524",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577381997659473https://truth-archive.us-iad-1.linodeobjects.com/attachments/18916/719248",
+      "media_identity": "attachment:117578791772773790:7192480481ebe407.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577381997659473https://truth-archive.us-iad-1.linodeobjects.com/attachments/18916/719248",
+      "truth_social_id": "117578791772773790",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117577381997659473https://truth-archive.us-iad-1.linodeobjects.com/attachments/18916/7192480481ebe407-f1fbff7c6679.pngQuoted\nhttps://www.trumpstruth.org/statuses/43523https://truth-archive.us-iad-1.linodeobjects.com/attachments/18915/27077722acc2fa4f-6e1d4882ba1a.mp4"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
