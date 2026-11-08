@@ -37464,6 +37464,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18915/27077722acc2fa4f-6e1d4882ba1a.mp4",
       "truth_social_id": "117577381997659473",
       "next_retry_at": "2026-11-07T23:01:10.243951Z"
+    },
+    "truth:117581137343877006": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43525",
+      "source_text": "<p>America took a giant step back in History with the results of the last Election — Even the Stock Market, which has been a “ROCKETSHIP” under “TRUMP,” took a one day, 3 Trillion Dollar loss. But have no fear, we will be back, BIGGER AND STRONGER THAN EVER BEFORE! President DONALD J. TRUMP</p>",
+      "published": "Sun, 08 Nov 2026 13:49:32 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-08T14:26:11.721996Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43525",
+      "first_seen": "2026-11-08T14:26:11.721964Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:America took a giant step back in History with the results of the last Election — Even the Stock Market, which has been a “ROCKETSHIP” under “TRUMP,” ",
+      "next_retry_at": "2026-11-08T14:31:11.722002Z",
+      "truth_social_id": "117581137343877006"
     }
   }
 }
