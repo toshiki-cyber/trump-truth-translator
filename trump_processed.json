@@ -37519,6 +37519,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
+    },
+    "truth:117587105833579030": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43533",
+      "source_text": "<p>Does anybody really believe that this “Election” was honest. How could the Polls be so wrong??? Some early voting “dumps” were so large that it was impossible to win, no matter how many people went to  vote.<br />It’s all about the machines, which are far more important than the voter! President DJT</p>",
+      "published": "Mon, 09 Nov 2026 15:07:24 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-09T16:26:13.365302Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43533",
+      "first_seen": "2026-11-09T16:26:13.365267Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Does anybody really believe that this “Election” was honest. How could the Polls be so wrong??? Some early voting “dumps” were so large that it was im",
+      "next_retry_at": "2026-11-09T16:31:13.365311Z",
+      "truth_social_id": "117587105833579030"
     }
   }
 }
