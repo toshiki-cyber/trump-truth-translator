@@ -37416,14 +37416,271 @@
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
     },
     "truth:117583471732048410": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/43531",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18923/8c299fd977bdc5a3-a0f2df5fa6d6.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18924/45674e05a667aba3-1360a16cee7b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18925/f6922f24494d8748-c4f722bef5b5.jpg\">View image</a></p>",
       "published": "Sun, 08 Nov 2026 23:43:12 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-09T00:26:09.839228Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43531"
+      "retry_count": 1,
+      "updated_at": "2026-11-09T00:36:31.673409Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43531",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "media_identity": "attachment:117583471732048410:1bd964bf905206b0.jpg,45674e05a667aba3.jpg,8c299fd977bdc5a3.jpg,f6922f24494d8748.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "truth_social_id": "117583471732048410",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18923/8c299fd977bdc5a3-a0f2df5fa6d6.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18924/45674e05a667aba3-1360a16cee7b.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18925/f6922f24494d8748-c4f722bef5b5.jpg",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurs76",
+          "cid": "bafyreigkfaydbv3zhsm54m4qv2e2bjgaugmtxm2jevv5l3dwymrm5r7tqy"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurtid",
+          "cid": "bafyreieblc54pvwnaownft3uyxeg3ax74rspptlzmnnaxsxo4ihz6cfnjy"
+        },
+        "next_index": 2,
+        "last_rkey": "3mztlocwurtid",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18925/f6922f24494d8748-c4f722bef5b5.jpg",
+          "createdAt": "2026-11-09T00:36:25.155684Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 100
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18925/f6922f24494d8748-c4f722bef5b5.jpg"
+                }
+              ]
+            }
+          ],
+          "reply": {
+            "root": {
+              "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurs76",
+              "cid": "bafyreigkfaydbv3zhsm54m4qv2e2bjgaugmtxm2jevv5l3dwymrm5r7tqy"
+            },
+            "parent": {
+              "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurs76",
+              "cid": "bafyreigkfaydbv3zhsm54m4qv2e2bjgaugmtxm2jevv5l3dwymrm5r7tqy"
+            }
+          }
+        },
+        "root_rkey": "3mztlocwurs76",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18923/8c299fd977bdc5a3-a0f2df5fa6d6.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18924/45674e05a667aba3-1360a16cee7b.jpg",
+          "createdAt": "2026-11-09T00:36:23.220067Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 300
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18923/8c299fd977bdc5a3-a0f2df5fa6d6.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18924/45674e05a667aba3-1360a16cee7b.jpg"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreigv5fyjo2vcispx3muvetgx5wd45genh3ogrz2kha46zejpjt7ouy"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 223953
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 878,
+                  "height": 1170
+                }
+              },
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibh2t33n4lkuceonlmjsoabkxctdudmidmcc4jy3ny3n2vmdgo4wy"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 245847
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 878,
+                  "height": 1170
+                }
+              },
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreicxlflmyuwqmlbp3xh356w5awigf3yhhfonaqrukgytrwuflqqqt4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 206009
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 878,
+                  "height": 1170
+                }
+              },
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreignyn6oyc7zyuswd4bt2c4zrusyy6ikop4fzeobskkgbo2v6cxhui"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 122023
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 878,
+                  "height": 1170
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurs76",
+            "rkey": "3mztlocwurs76"
+          },
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurtid",
+            "rkey": "3mztlocwurtid"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurs76",
+      "expected_embed": "images",
+      "expected_images": 4,
+      "root_rkey": "3mztlocwurs76",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18923/8c299fd977bdc5a3-a0f2df5fa6d6.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18924/45674e05a667aba3-1360a16cee7b.jpg",
+        "createdAt": "2026-11-09T00:36:23.220067Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 300
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18923/8c299fd977bdc5a3-a0f2df5fa6d6.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18924/45674e05a667aba3-1360a16cee7b.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreigv5fyjo2vcispx3muvetgx5wd45genh3ogrz2kha46zejpjt7ouy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 223953
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 878,
+                "height": 1170
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreibh2t33n4lkuceonlmjsoabkxctdudmidmcc4jy3ny3n2vmdgo4wy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 245847
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 878,
+                "height": 1170
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreicxlflmyuwqmlbp3xh356w5awigf3yhhfonaqrukgytrwuflqqqt4"
+                },
+                "mimeType": "image/jpeg",
+                "size": 206009
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 878,
+                "height": 1170
+              }
+            },
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreignyn6oyc7zyuswd4bt2c4zrusyy6ikop4fzeobskkgbo2v6cxhui"
+                },
+                "mimeType": "image/jpeg",
+                "size": 122023
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 878,
+                "height": 1170
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurs76",
+          "rkey": "3mztlocwurs76"
+        },
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mztlocwurtid",
+          "rkey": "3mztlocwurtid"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-11-09T00:41:31.673424Z"
     },
     "truth:117583560661477967": {
       "post_status": "DISCOVERED",
