@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41399",
-    "truth:117186610792493785",
-    "https://trumpstruth.org/statuses/41400",
     "fp:A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s ri",
     "truth:117187163336215939",
     "https://trumpstruth.org/statuses/41403",
@@ -5000,69 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43527",
     "fp:Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets int",
     "truth:117582778301201947",
-    "https://www.trumpstruth.org/statuses/43528"
+    "https://www.trumpstruth.org/statuses/43528",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18918/c8d2b9f430716e8c-f41edc17fc2f.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+    "truth:117583459253586462",
+    "https://www.trumpstruth.org/statuses/43529"
   ],
   "posts": {
-    "truth:117513440975898446": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42800",
-      "source_text": "<p>Congratulations to Lorne Doerkson on his Big Victory. Conservatives are moving strong in Canada! President DONALD J. TRUMP</p><p>BC Left-Wing Leader Loses to Conservatives in Vote He Called: <a href=\"https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomberg.com/news/articles/20</span><span class=\"invisible\">26-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called</span></a></p>",
-      "published": "Tue, 27 Oct 2026 14:53:27 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-27T19:55:47.646664Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42800",
-      "first_seen": "2026-10-27T19:20:27.442512Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Congratulations to Lorne Doerkson on his Big Victory. Conservatives are moving strong in Canada! President DONALD J. TRUMP\nBC Left-Wing Leader Loses t",
-      "truth_social_id": "117513440975898446",
-      "source_fingerprint": "fp:Congratulations to Lorne Doerkson on his Big Victory. Conservatives are moving strong in Canada! President DONALD J. TRUMP\nBC Left-Wing Leader Loses t",
-      "media_identity": "attachment:117513440975898446:",
-      "translation": "ローン・ドゥエルクソンの大勝利を祝う。保守派がカナダで強い勢いで動いている！ドナルド・J・トランプ大統領\n\n左翼指導者がみずから呼びかけた投票で保守派に敗北：\nhttps://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myuihzcsts2t",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myuihzcsts2t",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ローン・ドゥエルクソンの大勝利を祝う。保守派がカナダで強い勢いで動いている！ドナルド・J・トランプ大統領\n\n左翼指導者がみずから呼びかけた投票で保守派に敗北：\nhttps://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
-        "createdAt": "2026-10-27T19:45:54.420307Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 232,
-              "byteEnd": 345
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
-            "title": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
-            "description": ""
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myuihzcsts2t",
-          "rkey": "3myuihzcsts2t"
-        }
-      ]
-    },
     "truth:117513706348498042": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15219,6 +15159,22 @@
       "source_fingerprint": "fp:Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets int",
       "media_identity": "attachment:117582778301201947:",
       "translation": "タスクフォース・アイアンゲートはイスラム共和国イランで全力で効果を発揮している。歴史上最大級の海上封鎖と相まって、イランへの出入りはほとんど不可能な状況だ！大統領ドナルド・J・トランプ"
+    },
+    "truth:117583459253586462": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43529",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18918/c8d2b9f430716e8c-f41edc17fc2f.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18919/00695b2ef79879a1-ed94dfdc71dc.mp4\">View video</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18920/e3cc7fcc18514441-e620ff5544e7.jpg\">View image</a></p>",
+      "published": "Sun, 08 Nov 2026 23:40:01 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-09T00:26:20.070966Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43529",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18918/c8d2b9f430716e8c-f41edc17fc2f.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "media_identity": "attachment:117583459253586462:00695b2ef79879a1-ed94dfdc71dc.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18918/c8d2b9f430716e8c-f41edc17fc2f.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "truth_social_id": "117583459253586462",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18918/c8d2b9f430716e8c-f41edc17fc2f.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18919/00695b2ef79879a1-ed94dfdc71dc.mp4https://truth-archive.us-iad-1.linodeobjects.com/attachments/18920/e3cc7fcc18514441-e620ff5544e7.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37458,6 +37414,36 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
+    },
+    "truth:117583463398468108": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43530",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117583459253586462</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18921/55cba6bafaf71eb0-b1972777bfbe.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43529\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18918/c8d2b9f430716e8c-f41edc17fc2f.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18919/00695b2ef79879a1-ed94dfdc71dc.mp4\">View video</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18920/e3cc7fcc18514441-e620ff5544e7.jpg\">View image</a></p></blockquote>",
+      "published": "Sun, 08 Nov 2026 23:41:05 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-09T00:26:09.839338Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43530"
+    },
+    "truth:117583471732048410": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43531",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18922/1bd964bf905206b0-81f0596a0852.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18923/8c299fd977bdc5a3-a0f2df5fa6d6.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18924/45674e05a667aba3-1360a16cee7b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18925/f6922f24494d8748-c4f722bef5b5.jpg\">View image</a></p>",
+      "published": "Sun, 08 Nov 2026 23:43:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-09T00:26:09.839228Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43531"
+    },
+    "truth:117583560661477967": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43532",
+      "source_text": "<p>I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE.</p><p>This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and ensure that we can build Pipelines, Mines, and Power Plants faster than ever before, lowering Energy Costs for American Families, and creating High Paying American Jobs.</p><p>This Legislation also codifies my RATEPAYER PROTECTION PLEDGE, ensuring Data Centers build and pay for their own Electricity, and help invest in their local communities. Remember, China will take any Data Center that we don’t want, and pay lots of money for it. We’re Number One — Let’s keep it that way! Call your Senator TODAY, and tell them to vote YES. President DONALD J. TRUMP</p>",
+      "published": "Mon, 09 Nov 2026 00:05:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-09T00:26:09.839113Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43532"
     }
   }
 }
