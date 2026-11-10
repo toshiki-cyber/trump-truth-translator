@@ -37461,6 +37461,38 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
+    },
+    "truth:117592174307441518": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43540",
+      "source_text": "<p>Dan Sullivan PLUS Dan Sullivan wins the Alaska Election by thousands of votes. All votes going to the Fake Dan Sullivan, which was done solely for the purpose of fraud and confusion, should immediately be given to the Real Dan Sullivan (Senator!) - Likewise the votes of the second fraudulent candidate, also put up by the Dems. There should be no question concerning this Rigged Election. Time is of the essence!!! President DJT</p>",
+      "published": "Tue, 10 Nov 2026 12:36:23 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-10T14:26:13.696158Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43540",
+      "first_seen": "2026-11-10T14:26:13.696121Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Dan Sullivan PLUS Dan Sullivan wins the Alaska Election by thousands of votes. All votes going to the Fake Dan Sullivan, which was done solely for the",
+      "next_retry_at": "2026-11-10T14:31:13.696167Z",
+      "truth_social_id": "117592174307441518"
+    },
+    "truth:117592400791406646": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43541",
+      "source_text": "<p>Pete Hegseth gets an “A” PLUS, PLUS, PLUS for his defense against a disgruntled, angry, defeated, former Congressman, Thomas Massie, a TOTAL LOSER!<br />President DJT</p>",
+      "published": "Tue, 10 Nov 2026 13:33:59 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-10T14:26:14.066813Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43541",
+      "first_seen": "2026-11-10T14:26:14.066779Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Pete Hegseth gets an “A” PLUS, PLUS, PLUS for his defense against a disgruntled, angry, defeated, former Congressman, Thomas Massie, a TOTAL LOSER!\nPr",
+      "next_retry_at": "2026-11-10T14:31:14.066822Z",
+      "truth_social_id": "117592400791406646"
     }
   }
 }
