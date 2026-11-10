@@ -37461,6 +37461,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
+    },
+    "truth:117589581287691662": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43539",
+      "source_text": "<p>Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth. With recruitment at an ALL-TIME HIGH, from an all-time low under Sleepy Joe Biden, and TWO VICTORIES, Venezuela and Iran, Pete Hegseth should be praised, not Impeached. Congress, stand up for Pete!!! President DJT</p>",
+      "published": "Tue, 10 Nov 2026 01:36:56 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-10T02:26:17.256478Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43539",
+      "first_seen": "2026-11-10T02:26:17.256438Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Co",
+      "next_retry_at": "2026-11-10T02:31:17.256487Z",
+      "truth_social_id": "117589581287691662"
     }
   }
 }
