@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:https://nypost.com/2026/08/18/us-news/trump-to-take-lap-of-honor-ahead-of-indycar-freedom-250-grand-prix-along-national-mall/",
-    "truth:117190835952782276",
-    "https://www.trumpstruth.org/statuses/41424",
     "fp:He Bet Big on Trump. The Prize Could Be the Florida Governor’s Mansion.\nhttps://www.nytimes.com/2026/08/19/us/elections/byron-donalds-profile-florida-",
     "truth:117190832762214407",
     "https://www.trumpstruth.org/statuses/41425",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43540",
     "fp:Great job by Pete Hegseth — A MUST SEE! President DONALD J. TRUMP\n'A FARCE': Hegseth BLASTS impeachment effort, takes questions: \nhttps://www.youtube.",
     "truth:117592675594263904",
-    "https://www.trumpstruth.org/statuses/43542"
+    "https://www.trumpstruth.org/statuses/43542",
+    "fp:I am pleased to nominate Grayson Lambert to serve as Judge on the United States District Court for the District of South Carolina. Grayson is currentl",
+    "truth:117593176457954743",
+    "https://www.trumpstruth.org/statuses/43543"
   ],
   "posts": {
-    "truth:117513970306136414": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42781",
-      "source_text": "<p>Get rid of the guns, get rid of the Oil, get rid of the meat, but Transgender Mutilization of your Children and Open Borders are OK. This is what TalaFREAKO stands for, and this is where he is going to help take Texas if he wins — which he won’t. Ken Paxton is the Greatest Attorney General in Texas History. He deserves to be your Senator! President DONALD J. TRUMP</p>",
-      "published": "Tue, 27 Oct 2026 17:08:04 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-27T21:55:27.762270Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42781",
-      "first_seen": "2026-10-27T21:05:27.844933Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Get rid of the guns, get rid of the Oil, get rid of the meat, but Transgender Mutilization of your Children and Open Borders are OK. This is what Tala",
-      "truth_social_id": "117513970306136414",
-      "source_fingerprint": "fp:Get rid of the guns, get rid of the Oil, get rid of the meat, but Transgender Mutilization of your Children and Open Borders are OK. This is what Tala",
-      "media_identity": "attachment:117513970306136414:",
-      "translation": "銃を廃止する、石油を廃止する、肉を廃止する。だがお前たちの子どもへのトランスジェンダー切除と開かれた国境はOKだ。これはタラフリーコが代表するもので、もし勝ったなら（そんなことにはならないが）テキサスを助けるために向かう先だ。ケン・パクストンはテキサス史上最高の司法長官だ。彼があなたたちの上院議員になるべき人物だ。ドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myupyq3glkdq",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myupyq3glkdq",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "銃を廃止する、石油を廃止する、肉を廃止する。だがお前たちの子どもへのトランスジェンダー切除と開かれた国境はOKだ。これはタラフリーコが代表するもので、もし勝ったなら（そんなことにはならないが）テキサスを助けるために向かう先だ。ケン・パクストンはテキサス史上最高の司法長官だ。彼があなたたちの上院議員になるべき人物だ。ドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-27T21:45:31.246003Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myupyq3glkdq",
-          "rkey": "3myupyq3glkdq"
-        }
-      ]
-    },
     "truth:117514120967768880": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15198,6 +15162,24 @@
       "source_fingerprint": "fp:Great job by Pete Hegseth — A MUST SEE! President DONALD J. TRUMP\n'A FARCE': Hegseth BLASTS impeachment effort, takes questions: \nhttps://www.youtube.",
       "media_identity": "attachment:117592675594263904:",
       "translation": "ピート・ヘグセスが素晴らしい仕事をした―必見だ！ドナルド・J・トランプ大統領\n「茶番だ」：ヘグセスが弾劾努力を厳しく批判、質問に答える：\nhttps://www.youtube.com/watch?v=N48dH1heFEU"
+    },
+    "truth:117593176457954743": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43543",
+      "source_text": "<p>I am pleased to nominate Grayson Lambert to serve as Judge on the United States District Court for the District of South Carolina. Grayson is currently Chief Legal Counsel to Governor Henry McMaster and, previously, was a partner at a respected law firm, and clerked for Judge Dennis Shedd of the U.S. Court of Appeals for the Fourth Circuit. A proud graduate of the University of Virginia and Duke University School of Law, Grayson will be an excellent addition to the Federal Bench in South Carolina. Congratulations Grayson! President DONALD J. TRUMP</p>",
+      "published": "Tue, 10 Nov 2026 16:51:14 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-10T18:46:14.206654Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43543",
+      "first_seen": "2026-11-10T18:26:13.211735Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:I am pleased to nominate Grayson Lambert to serve as Judge on the United States District Court for the District of South Carolina. Grayson is currentl",
+      "truth_social_id": "117593176457954743",
+      "source_fingerprint": "fp:I am pleased to nominate Grayson Lambert to serve as Judge on the United States District Court for the District of South Carolina. Grayson is currentl",
+      "media_identity": "attachment:117593176457954743:",
+      "translation": "グレイソン・ランバートを南カロライナ地区米国地方裁判所の判事として指名することを嬉しく思う。グレイソンは現在ヘンリー・マクマスター知事の最高法律顧問であり、以前は尊敬されている法律事務所のパートナーを務めており、また米国控訴裁判所第4巡回区のデニス・シェッド判事の書記官を務めた経歴を持つ。バージニア大学とデューク大学法学大学院の誇り高い卒業生であるグレイソンは、南カロライナの連邦裁判所の優秀な追加メンバーとなるであろう。おめでとう、グレイソン！ドナルド・J・トランプ大統領"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37437,22 +37419,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
-    },
-    "truth:117593176457954743": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43543",
-      "source_text": "<p>I am pleased to nominate Grayson Lambert to serve as Judge on the United States District Court for the District of South Carolina. Grayson is currently Chief Legal Counsel to Governor Henry McMaster and, previously, was a partner at a respected law firm, and clerked for Judge Dennis Shedd of the U.S. Court of Appeals for the Fourth Circuit. A proud graduate of the University of Virginia and Duke University School of Law, Grayson will be an excellent addition to the Federal Bench in South Carolina. Congratulations Grayson! President DONALD J. TRUMP</p>",
-      "published": "Tue, 10 Nov 2026 16:51:14 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-10T18:31:16.488174Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43543",
-      "first_seen": "2026-11-10T18:26:13.211735Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:I am pleased to nominate Grayson Lambert to serve as Judge on the United States District Court for the District of South Carolina. Grayson is currentl",
-      "next_retry_at": "2026-11-10T18:41:16.488192Z",
-      "truth_social_id": "117593176457954743"
     },
     "truth:117593181041469747": {
       "post_status": "RETRY",
