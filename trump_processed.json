@@ -37463,14 +37463,20 @@
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
     },
     "truth:117588981207857769": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/43538",
       "source_text": "<p>Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Federal Judges. Thank you for your attention to this matter! President DONALD J. TRUMP</p>",
       "published": "Mon, 09 Nov 2026 23:04:20 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-10T00:26:11.666116Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43538"
+      "retry_count": 1,
+      "updated_at": "2026-11-10T00:31:11.971079Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43538",
+      "first_seen": "2026-11-10T00:31:11.971045Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Federal Judges. Thank you for your attention to this ma",
+      "next_retry_at": "2026-11-10T00:36:11.971087Z",
+      "truth_social_id": "117588981207857769"
     }
   }
 }
