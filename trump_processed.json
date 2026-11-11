@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117190838921611219",
-    "https://www.trumpstruth.org/statuses/41421",
-    "fp:Prysmian invests more than $1 billion to expand fiber optic cable manufacturing facility in North Carolina: \nhttps://www.plantservices.com/industry-ne",
     "truth:117190839730903416",
     "https://www.trumpstruth.org/statuses/41420",
     "fp:Iran Risks Losing Key Economic Lifeline With UAE Halting Trade: \nhttps://www.bloomberg.com/news/articles/2026-08-19/iran-risks-losing-key-economic-lif",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43544",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18928/4f1c2e94229bdd59-920b0315237b.jpg",
     "truth:117594425631546017",
-    "https://www.trumpstruth.org/statuses/43546"
+    "https://www.trumpstruth.org/statuses/43546",
+    "fp:A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of ",
+    "truth:117594826848361683",
+    "https://www.trumpstruth.org/statuses/43548"
   ],
   "posts": {
-    "truth:117514549297530392": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42806",
-      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-south-carolina-president-donald-j-trump-djt47\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-south-carolina-president-donald-j-trump-djt47</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18733/8c985df9184c26c0-6e6ff851c71b.jpg\">View image</a></p>",
-      "published": "Tue, 27 Oct 2026 19:35:19 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-27T22:15:29.106924Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42806",
-      "source_fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-south-carolina-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachmen",
-      "media_identity": "attachment:117514549297530392:8c985df9184c26c0.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-south-carolina-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachmen",
-      "truth_social_id": "117514549297530392",
-      "translation": "https://events.gop.com/events/midterm-rally-in-south-carolina-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachments/18733/8c985df9184c26c0-6e6ff851c71b.jpg"
-    },
     "truth:117514552184642275": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15196,6 +15180,24 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18928/4f1c2e94229bdd59-920b0315237b.jpg",
       "truth_social_id": "117594425631546017",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18928/4f1c2e94229bdd59-920b0315237b.jpg"
+    },
+    "truth:117594826848361683": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43548",
+      "source_text": "<p>A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of the Southern District of Florida. In his powerful ruling, Judge Kuntz wrote, “Here, the news entity created the story. BBC admitted as much by confirming it had edited a video to make it appear as though President Trump made a statement he never made.” We will continue fighting against, and defeating, all of those who try to deceive the American People! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Tue, 10 Nov 2026 23:50:57 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-11T00:51:17.848487Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43548",
+      "first_seen": "2026-11-11T00:26:24.377860Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of ",
+      "truth_social_id": "117594826848361683",
+      "source_fingerprint": "fp:A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of ",
+      "media_identity": "attachment:117594826848361683:",
+      "translation": "真実の著しい悪用者である悪質なBBCに対する大勝利だ。フロリダ州南部地区の高い評価を受けるジェフリー・T・クンツ地裁判事により下された判決である。クンツ判事の力強い判決文では、「本件において、ニュース機関がストーリーを作成した。BBCは、トランプ大統領が決して述べていない声明をしたように見せかけるためにビデオを編集したことを認めることによって、そのことを認めた」と書かれている。我々はアメリカ国民を欺こうとするすべての者に対して戦い続け、そして打ち負かし続けるだろう。この問題への注目に感謝する。ドナルド・J・トランプ大統領"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37508,22 +37510,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-11-11T00:51:27.256864Z"
-    },
-    "truth:117594826848361683": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43548",
-      "source_text": "<p>A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of the Southern District of Florida. In his powerful ruling, Judge Kuntz wrote, “Here, the news entity created the story. BBC admitted as much by confirming it had edited a video to make it appear as though President Trump made a statement he never made.” We will continue fighting against, and defeating, all of those who try to deceive the American People! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
-      "published": "Tue, 10 Nov 2026 23:50:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-11T00:36:12.444734Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43548",
-      "first_seen": "2026-11-11T00:26:24.377860Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of ",
-      "next_retry_at": "2026-11-11T00:46:12.444750Z",
-      "truth_social_id": "117594826848361683"
     }
   }
 }
