@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117190840659228982",
-    "https://www.trumpstruth.org/statuses/41419",
-    "fp:Sneak peek: Trump administration to talk growth with finance ministers, CEOs in Asheville, N.C.\nhttps://www.axios.com/2026/08/19/trump-bessent-g20-fin",
     "truth:117190842890861088",
     "https://www.trumpstruth.org/statuses/41417",
     "fp:Indiana's Ivy Tech program becomes second in the nation to nab Workforce Pell Grant: \nhttps://www.indystar.com/story/news/politics/2026/08/19/indiana-",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43548",
     "fp:The Democrats’ attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Every single Republican, except Thomas Massie, a major LOSER, vo",
     "truth:117594721408592840",
-    "https://www.trumpstruth.org/statuses/43547"
+    "https://www.trumpstruth.org/statuses/43547",
+    "fp:The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a ",
+    "truth:117596377951333382",
+    "https://www.trumpstruth.org/statuses/43549"
   ],
   "posts": {
-    "truth:117519060732843479": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42811",
-      "source_text": "<p><a href=\"https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">events.gop.com/events/midterm-</span><span class=\"invisible\">rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18735/888ad4dcd8dfd530-a743c9a02cef.jpg\">View image</a></p>",
-      "published": "Wed, 28 Oct 2026 14:42:38 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-28T15:10:41.370435Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42811",
-      "source_fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/at",
-      "media_identity": "attachment:117519060732843479:888ad4dcd8dfd530.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/at",
-      "truth_social_id": "117519060732843479",
-      "translation": "https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47https://truth-archive.us-iad-1.linodeobjects.com/attachments/18735/888ad4dcd8dfd530-a743c9a02cef.jpg"
-    },
     "truth:117520106264955050": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15216,6 +15200,24 @@
       "source_fingerprint": "fp:A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of ",
       "media_identity": "attachment:117594826848361683:",
       "translation": "真実の著しい悪用者である悪質なBBCに対する大勝利だ。フロリダ州南部地区の高い評価を受けるジェフリー・T・クンツ地裁判事により下された判決である。クンツ判事の力強い判決文では、「本件において、ニュース機関がストーリーを作成した。BBCは、トランプ大統領が決して述べていない声明をしたように見せかけるためにビデオを編集したことを認めることによって、そのことを認めた」と書かれている。我々はアメリカ国民を欺こうとするすべての者に対して戦い続け、そして打ち負かし続けるだろう。この問題への注目に感謝する。ドナルド・J・トランプ大統領"
+    },
+    "truth:117596377951333382": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43549",
+      "source_text": "<p>The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a fully scheduled call, as a favor to C-Span, set up through White House Communications. It was done at C-Span’s request, not mine. The Times knew this, but lied, in order to demean - But this is the least of their lies!</p>",
+      "published": "Wed, 11 Nov 2026 06:25:25 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-11T08:46:16.880709Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43549",
+      "first_seen": "2026-11-11T08:26:12.762647Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a ",
+      "truth_social_id": "117596377951333382",
+      "source_fingerprint": "fp:The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a ",
+      "media_identity": "attachment:117596377951333382:",
+      "translation": "ニューヨーク・タイムズは「トランプ氏が予告なしに見えるC-Spanの番組プレミアに電話で出演した」と誤って報道した。これは間違っている。これは完全に予定された電話で、ホワイトハウス・コミュニケーションズを通じてセットアップされた、C-Spanへの好意としての対応だった。それは私の希望ではなく、C-Spanのリクエストで行われたのだ。タイムズはこのことを知っていたが、貶めるために嘘をついたのだ――だがこれは彼らの嘘の中でも最もましな部分にすぎない！"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37455,22 +37457,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
-    },
-    "truth:117596377951333382": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43549",
-      "source_text": "<p>The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a fully scheduled call, as a favor to C-Span, set up through White House Communications. It was done at C-Span’s request, not mine. The Times knew this, but lied, in order to demean - But this is the least of their lies!</p>",
-      "published": "Wed, 11 Nov 2026 06:25:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-11T08:36:11.916288Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43549",
-      "first_seen": "2026-11-11T08:26:12.762647Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a ",
-      "next_retry_at": "2026-11-11T08:46:11.916305Z",
-      "truth_social_id": "117596377951333382"
     },
     "truth:117596464128874330": {
       "post_status": "RETRY",
