@@ -37435,6 +37435,38 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18917/browser-safe.mp4",
       "truth_social_id": "117581469495786527",
       "next_retry_at": "2026-11-08T16:31:07.419295Z"
+    },
+    "truth:117594721408592840": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43547",
+      "source_text": "<p>The Democrats’ attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Every single Republican, except Thomas Massie, a major LOSER, voted in favor of Pete. Again, Victories in Venezuela and Iran, the Best Recruitment Numbers in the History of the Military (Long waiting lists to get in!), and Spirit like rarely seen before, led to the EXONERATION of a Great American Patriot. The Democrats continue to weaponize and abuse the United States of America. They must be stopped! MAKE AMERICA GREAT AGAIN. President DONALD J. TRUMP</p>",
+      "published": "Tue, 10 Nov 2026 23:24:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-11T00:26:19.766981Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43547",
+      "first_seen": "2026-11-11T00:26:19.766941Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Democrats’ attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Every single Republican, except Thomas Massie, a major LOSER, vo",
+      "next_retry_at": "2026-11-11T00:31:19.766991Z",
+      "truth_social_id": "117594721408592840"
+    },
+    "truth:117594826848361683": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43548",
+      "source_text": "<p>A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of the Southern District of Florida. In his powerful ruling, Judge Kuntz wrote, “Here, the news entity created the story. BBC admitted as much by confirming it had edited a video to make it appear as though President Trump made a statement he never made.” We will continue fighting against, and defeating, all of those who try to deceive the American People! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Tue, 10 Nov 2026 23:50:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-11T00:26:24.377895Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43548",
+      "first_seen": "2026-11-11T00:26:24.377860Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of ",
+      "next_retry_at": "2026-11-11T00:31:24.377904Z",
+      "truth_social_id": "117594826848361683"
     }
   }
 }
