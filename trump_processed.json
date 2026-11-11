@@ -37462,14 +37462,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43549",
       "source_text": "<p>The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a fully scheduled call, as a favor to C-Span, set up through White House Communications. It was done at C-Span’s request, not mine. The Times knew this, but lied, in order to demean - But this is the least of their lies!</p>",
       "published": "Wed, 11 Nov 2026 06:25:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-11T08:26:12.762678Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-11T08:36:11.916288Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43549",
       "first_seen": "2026-11-11T08:26:12.762647Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a ",
-      "next_retry_at": "2026-11-11T08:31:12.762687Z",
+      "next_retry_at": "2026-11-11T08:46:11.916305Z",
       "truth_social_id": "117596377951333382"
     },
     "truth:117596464128874330": {
@@ -37478,14 +37478,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43550",
       "source_text": "<p>The failing New York Times wrote about the “settling of a sexual harassment suit brought years ago by a waitress at President Trump’s golf club in Bedminster, N.J.” What they fail to say is that it did not involve President Trump, a rather important omission. FAKE NEWS!!!</p>",
       "published": "Wed, 11 Nov 2026 06:47:20 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-11T08:26:13.275846Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-11T08:36:12.078392Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43550",
       "first_seen": "2026-11-11T08:26:13.275819Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:The failing New York Times wrote about the “settling of a sexual harassment suit brought years ago by a waitress at President Trump’s golf club in Bed",
-      "next_retry_at": "2026-11-11T08:31:13.275855Z",
+      "next_retry_at": "2026-11-11T08:46:12.078408Z",
       "truth_social_id": "117596464128874330"
     }
   }
