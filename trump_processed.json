@@ -37619,6 +37619,54 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-11T18:45:50.152078Z"
+    },
+    "truth:117603494411017954": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43557",
+      "source_text": "<p>The Republican Senate can no longer be the place “where things are sent to die.” Not passing THE SAVE AMERICA ACT (Voter I.D., Proof of Citizenship), sent up five times by the House, was devastating to the Republican Party in the Midterms. Not terminating the Filibuster, and getting EVERYTHING even “dreamt” of, approved, when the Dems will definitely do so, will go down as being one of the greatest mistakes in the Political History of America. So sad!!! Anyway, good luck to our Republican Senators, work hard, and congratulations to John Thune for another year of leadership, Minority though it may be! President DJT</p>",
+      "published": "Thu, 12 Nov 2026 12:35:14 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-12T14:25:49.048466Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43557",
+      "first_seen": "2026-11-12T14:25:49.048428Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Republican Senate can no longer be the place “where things are sent to die.” Not passing THE SAVE AMERICA ACT (Voter I.D., Proof of Citizenship), ",
+      "next_retry_at": "2026-11-12T14:30:49.048474Z",
+      "truth_social_id": "117603494411017954"
+    },
+    "truth:117603621591099598": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43558",
+      "source_text": "<p>I have asked Vice President Vance to focus his complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and States throughout the U.S. The Blue States, such as Minnesota, California, Illinois, and many more, are all poorly run, corrupt disasters. Billions of Dollars is being stolen each and every month. Our Budget could be quickly BALANCED with the correction of this large scale criminal activity. CORRUPTION is in the Democrat Leadership’s blood! We don’t need a deal with Iran. Those days have long since passed. We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait! Thank you for your attention to this matter. President DJT</p>",
+      "published": "Thu, 12 Nov 2026 13:07:34 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-12T14:25:49.630091Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43558",
+      "first_seen": "2026-11-12T14:25:49.630057Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I have asked Vice President Vance to focus his complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities an",
+      "next_retry_at": "2026-11-12T14:30:49.630099Z",
+      "truth_social_id": "117603621591099598"
+    },
+    "truth:117603685944533416": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43559",
+      "source_text": "<p>If the Democrats want to “root out corruption,” they should start with investigating Blue States, perhaps the most CORRUPT governmental structures and entities anywhere on Earth. Big time money is being stolen each and every hour of the day! President DJT</p>",
+      "published": "Thu, 12 Nov 2026 13:23:56 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-12T14:25:50.178002Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43559",
+      "first_seen": "2026-11-12T14:25:50.177969Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:If the Democrats want to “root out corruption,” they should start with investigating Blue States, perhaps the most CORRUPT governmental structures and",
+      "next_retry_at": "2026-11-12T14:30:50.178009Z",
+      "truth_social_id": "117603685944533416"
     }
   }
 }
