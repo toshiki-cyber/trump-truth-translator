@@ -37644,14 +37644,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43560",
       "source_text": "<p>NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP</p>",
       "published": "Thu, 12 Nov 2026 15:29:03 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-12T16:25:49.751031Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-12T16:30:56.159125Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43560",
       "first_seen": "2026-11-12T16:25:49.750991Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend re",
-      "next_retry_at": "2026-11-12T16:30:49.751040Z",
+      "next_retry_at": "2026-11-12T16:40:56.159140Z",
       "truth_social_id": "117604177898784579"
     },
     "truth:117604296004394581": {
@@ -37660,14 +37660,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43561",
       "source_text": "<p>Will the Seditious Six ever be prosecuted? What they did was a great violation to our Country and its Constitution! President DONALD J. TRUMP</p>",
       "published": "Thu, 12 Nov 2026 15:59:05 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-12T16:25:50.189881Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-12T16:30:56.376897Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43561",
       "first_seen": "2026-11-12T16:25:50.189846Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Will the Seditious Six ever be prosecuted? What they did was a great violation to our Country and its Constitution! President DONALD J. TRUMP",
-      "next_retry_at": "2026-11-12T16:30:50.189890Z",
+      "next_retry_at": "2026-11-12T16:40:56.376912Z",
       "truth_social_id": "117604296004394581"
     }
   }
