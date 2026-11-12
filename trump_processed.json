@@ -37372,8 +37372,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/43440",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18860/e034be451aca4503-40c7a9f5027b.mp4\">View video</a></p>",
       "published": "Tue, 03 Nov 2026 23:51:08 +0000",
-      "retry_count": 37,
-      "updated_at": "2026-11-12T00:55:49.750894Z",
+      "retry_count": 38,
+      "updated_at": "2026-11-12T07:00:48.767044Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43440",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18860/e034be451aca4503-40c7a9f5027b.mp4",
       "media_identity": "attachment:117555191396704437:e034be451aca4503-40c7a9f5027b.mp4",
@@ -37381,7 +37381,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18860/e034be451aca4503-40c7a9f5027b.mp4",
       "truth_social_id": "117555191396704437",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-11-12T06:55:49.750910Z"
+      "next_retry_at": "2026-11-12T13:00:48.767065Z"
     },
     "truth:117555192941614752": {
       "post_status": "RETRY",
