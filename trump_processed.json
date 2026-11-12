@@ -37655,6 +37655,54 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-11T18:45:50.152078Z"
+    },
+    "truth:117603082123932016": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43554",
+      "source_text": "<p>The Democrat Party, lead by one of the most Corrupt and anti-American groups of political leaders and hacks in the history of our Country, and even the World, is doing everything in their power to get away from MASSIVE BLUE STATE CORRUPTION by saying, over and over again, that the Trump Administration is corrupt. It is a sound bite that they viciously use, over and over again, in order to nullify the TREMENDOUS &amp; UNPRECEDENTED theft that has taken place in our Blue States - Minnesota, California, and others, all over the U.S.A. I, perhaps foolishly because the Fake News refuses to write about it, including in my First Term, don’t even take a Salary, worth Millions of Dollars. I am the only President to have done so! In any event, THE DEMOCRATS ARE CORRUPT AND EVIL, and I am the exact opposite! Fight hard, Republicans, or you won’t have a Country left! President DONALD J. TRUMP</p>",
+      "published": "Thu, 12 Nov 2026 10:50:23 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-12T12:25:55.574510Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43554",
+      "first_seen": "2026-11-12T12:25:55.574474Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Democrat Party, lead by one of the most Corrupt and anti-American groups of political leaders and hacks in the history of our Country, and even th",
+      "next_retry_at": "2026-11-12T12:30:55.574520Z",
+      "truth_social_id": "117603082123932016"
+    },
+    "truth:117603230815300802": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43555",
+      "source_text": "<p>Does anybody remember, in my First Term, the relentless effort by the anti-American Dumocrats to get my personal Tax Returns, something that has always been off limits for anyone other than Donald J. Trump. Shockingly, they won this unprecedented right in the U.S. Supreme Court, and hired the best and toughest accountants in the Country to “get Trump.” After one year of intense work, these brilliant Democrat inspired accountants FOUND NOTHING except that I paid my taxes and did everything right. Now, in order to deflect from MASSIVE BLUE STATE CORRUPTION &amp; CRIME, they are at it again, illegally threatening Republicans with knowingly false accusations and charges. Other than cheating, this is how they won the Midterms - But we won’t let our Country go to hell! President DJT</p>",
+      "published": "Thu, 12 Nov 2026 11:28:12 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-12T12:25:56.028320Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43555",
+      "first_seen": "2026-11-12T12:25:56.028288Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Does anybody remember, in my First Term, the relentless effort by the anti-American Dumocrats to get my personal Tax Returns, something that has alway",
+      "next_retry_at": "2026-11-12T12:30:56.028330Z",
+      "truth_social_id": "117603230815300802"
+    },
+    "truth:117603372250841698": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43556",
+      "source_text": "<p>Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don’t want - “Send them to America,” they say - But they will not be accepted! MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE VERY LIBERAL NEW GOVERNOR OF TEXAS, OUR GREAT BORDER PATROL, &amp; ICE, HAVE BEEN SO INFORMED. There will be no leniency! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 12 Nov 2026 12:04:10 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-12T12:25:56.540100Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43556",
+      "first_seen": "2026-11-12T12:25:56.540064Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place ag",
+      "next_retry_at": "2026-11-12T12:30:56.540109Z",
+      "truth_social_id": "117603372250841698"
     }
   }
 }
