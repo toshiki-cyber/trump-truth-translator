@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117195910590067180",
-    "https://trumpstruth.org/statuses/41443",
-    "fp:I am pleased to announce that Pastor Darrell Scott, a longtime friend, respected Faith Leader, and tireless Advocate for America’s Underserved Communi",
     "truth:117196703402255872",
     "https://www.trumpstruth.org/statuses/41444",
     "fp:The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes are large and powerful, and in retaliation for the ",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43565",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4",
     "truth:117608870505558230",
-    "https://www.trumpstruth.org/statuses/43566"
+    "https://www.trumpstruth.org/statuses/43566",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18933/90a2d50b4c54db87-466483dbfe64.jpg",
+    "truth:117609500488513990",
+    "https://www.trumpstruth.org/statuses/43567"
   ],
   "posts": {
-    "truth:117524036771625091": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42831",
-      "source_text": "<p>We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like it! My Approval Rating in the Republican Party is now at 99%. Thank you, such an honor!!! Big Rally in South Carolina for the wonderful Darline Graham, today. She is fantastic. Lindsey is watching, and very proud of her!!! President DJT</p>",
-      "published": "Thu, 29 Oct 2026 11:48:06 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T14:06:19.629787Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42831",
-      "first_seen": "2026-10-29T13:41:21.515966Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like ",
-      "truth_social_id": "117524036771625091",
-      "source_fingerprint": "fp:We are drawing the BIGGEST CROWDS at Trump Rallies in the history of Midterm Elections, by a factor of five times. There has never been anything like ",
-      "media_identity": "attachment:117524036771625091:",
-      "translation": "我々は中間選挙の歴史において、トランプ集会での最大規模の群衆を集めている。5倍という水準だ。これまでこのようなことは存在したことがない。共和党における私の支持率は今や99%だ。ありがとう、このような栄誉をいただき光栄だ。本日、素晴らしいダーリン・グレアムのため、サウスカロライナで大集会を開く。彼女は素晴らしい。リンジーが見守っており、彼女を非常に誇りに思っている。トランプ大統領"
-    },
     "truth:117524674249671299": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15312,6 +15294,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4",
       "truth_social_id": "117608870505558230",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4"
+    },
+    "truth:117609500488513990": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43567",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18933/90a2d50b4c54db87-466483dbfe64.jpg\">View image</a></p>",
+      "published": "Fri, 13 Nov 2026 14:02:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-13T15:05:57.214120Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43567",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18933/90a2d50b4c54db87-466483dbfe64.jpg",
+      "media_identity": "attachment:117609500488513990:90a2d50b4c54db87.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18933/90a2d50b4c54db87-466483dbfe64.jpg",
+      "truth_social_id": "117609500488513990",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18933/90a2d50b4c54db87-466483dbfe64.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
