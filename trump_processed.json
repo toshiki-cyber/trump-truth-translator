@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117195516438814990",
-    "https://www.trumpstruth.org/statuses/41442",
-    "fp:Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once gr",
     "truth:117195910590067180",
     "https://trumpstruth.org/statuses/41443",
     "fp:I am pleased to announce that Pastor Darrell Scott, a longtime friend, respected Faith Leader, and tireless Advocate for America’s Underserved Communi",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43564",
     "fp:Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites ",
     "truth:117606259365899322",
-    "https://www.trumpstruth.org/statuses/43565"
+    "https://www.trumpstruth.org/statuses/43565",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4",
+    "truth:117608870505558230",
+    "https://www.trumpstruth.org/statuses/43566"
   ],
   "posts": {
-    "truth:117523928356184918": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42830",
-      "source_text": "<p>Anthony Constantino has my Complete and Total Endorsement to be the next U.S. Representative from New York’s 21st Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18750/c598d37c79462f94-531c69de944a.mp4\">View video</a></p>",
-      "published": "Thu, 29 Oct 2026 11:20:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T13:11:49.746351Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42830",
-      "source_fingerprint": "fp:Anthony Constantino has my Complete and Total Endorsement to be the next U.S. Representative from New York’s 21st Congressional District — HE WILL NEV",
-      "media_identity": "attachment:117523928356184918:c598d37c79462f94-531c69de944a.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:Anthony Constantino has my Complete and Total Endorsement to be the next U.S. Representative from New York’s 21st Congressional District — HE WILL NEV",
-      "truth_social_id": "117523928356184918",
-      "translation": "アンソニー・コンスタンティーノは、ニューヨーク州第21選挙区の次期米下院議員として、私の完全かつ全面的な支持を得ている——彼は絶対にあなたたちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18750/c598d37c79462f94-531c69de944a.mp4"
-    },
     "truth:117524036771625091": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15312,6 +15296,22 @@
           "rkey": "3n25piwnruczt"
         }
       ]
+    },
+    "truth:117608870505558230": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43566",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4\">View video</a></p>",
+      "published": "Fri, 13 Nov 2026 11:22:26 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-13T13:06:41.899401Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43566",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4",
+      "media_identity": "attachment:117608870505558230:5dc9cd468a2ef2c0-33ef4418772e.mp4",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4",
+      "truth_social_id": "117608870505558230",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18932/5dc9cd468a2ef2c0-33ef4418772e.mp4"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
