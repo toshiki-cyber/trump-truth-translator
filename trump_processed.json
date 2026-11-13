@@ -37640,14 +37640,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43564",
       "source_text": "<p>From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to President Trump. Hugh”</p>",
       "published": "Thu, 12 Nov 2026 23:30:25 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-13T00:25:59.969307Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-13T00:35:58.387538Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43564",
       "first_seen": "2026-11-13T00:25:59.969269Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to Pres",
-      "next_retry_at": "2026-11-13T00:30:59.969317Z",
+      "next_retry_at": "2026-11-13T00:45:58.387556Z",
       "truth_social_id": "117606070721302149"
     },
     "truth:117606259365899322": {
@@ -37656,14 +37656,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43565",
       "source_text": "<p>Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020: <a href=\"https://investor.lilly.com/news-releases/news-release-details/lilly-breaks-ground-pennsylvanias-lehigh-valley-35-billion-site\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">investor.lilly.com/news-releas</span><span class=\"invisible\">es/news-release-details/lilly-breaks-ground-pennsylvanias-lehigh-valley-35-billion-site</span></a></p>",
       "published": "Fri, 13 Nov 2026 00:18:24 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-13T00:26:00.383917Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-13T00:35:58.654448Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43565",
       "first_seen": "2026-11-13T00:26:00.383882Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites ",
-      "next_retry_at": "2026-11-13T00:31:00.383927Z",
+      "next_retry_at": "2026-11-13T00:45:58.654462Z",
       "truth_social_id": "117606259365899322"
     }
   }
