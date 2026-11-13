@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117194670372847111",
-    "https://www.trumpstruth.org/statuses/41440",
-    "fp:https://truthsocial.com/@breitbartnews/117191556794156468",
     "truth:117194678237730264",
     "https://www.trumpstruth.org/statuses/41441",
     "fp:Cheaper drugs, cheaper beef, cheaper gas. Trump lines up fall affordability before Labor Day: \nhttps://justthenews.com/government/white-house/cheaper-",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43562",
     "fp:Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he’s referring to Democrat run Blue States such as Ca",
     "truth:117604932901982469",
-    "https://www.trumpstruth.org/statuses/43563"
+    "https://www.trumpstruth.org/statuses/43563",
+    "fp:From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to Pres",
+    "truth:117606070721302149",
+    "https://www.trumpstruth.org/statuses/43564"
   ],
   "posts": {
-    "truth:117521892279559312": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42825",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521889411299184</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18739/873b397d91692b90-aa5af1f0e5e2.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18740/4f0507f644e8e4c7-74ac19332c0d.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18741/d4221fc77c0c7042-e2ef1d744b0b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18742/548c6da102d542d8-83f559f4f4a0.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42826\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18744/1e6903216bdb1894-040fcc292800.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18745/545b408e1f4f4edf-b84f92445245.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18746/012d86bd456254ae-98c5cb81fc23.jpg\">View image</a></p></blockquote>",
-      "published": "Thu, 29 Oct 2026 02:42:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T03:16:22.604183Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42825",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521889411299184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18739/873b39",
-      "media_identity": "attachment:117521892279559312:4f0507f644e8e4c7.jpg,548c6da102d542d8.jpg,873b397d91692b90.jpg,d4221fc77c0c7042.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521889411299184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18739/873b39",
-      "truth_social_id": "117521892279559312",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117521889411299184https://truth-archive.us-iad-1.linodeobjects.com/attachments/18739/873b397d91692b90-aa5af1f0e5e2.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18740/4f0507f644e8e4c7-74ac19332c0d.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18741/d4221fc77c0c7042-e2ef1d744b0b.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18742/548c6da102d542d8-83f559f4f4a0.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42826https://truth-archive.us-iad-1.linodeobjects.com/attachments/18743/6d0a0c65803642b1-1a6d37381695.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18744/1e6903216bdb1894-040fcc292800.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18745/545b408e1f4f4edf-b84f92445245.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18746/012d86bd456254ae-98c5cb81fc23.jpg"
-    },
     "truth:117521895212942057": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15266,6 +15250,24 @@
           "rkey": "3n254nq2vd2eu"
         }
       ]
+    },
+    "truth:117606070721302149": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43564",
+      "source_text": "<p>From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to President Trump. Hugh”</p>",
+      "published": "Thu, 12 Nov 2026 23:30:25 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-13T00:50:58.172724Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43564",
+      "first_seen": "2026-11-13T00:25:59.969269Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to Pres",
+      "truth_social_id": "117606070721302149",
+      "source_fingerprint": "fp:From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to Pres",
+      "media_identity": "attachment:117606070721302149:",
+      "translation": "ヒュー・ヒューイットから：「トランプ大統領は今日、かつてないほど素晴らしかった。依然として国内で最高のインタビューだ。トランプ大統領への感謝を伝えてほしい。ヒューから」"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37633,22 +37635,6 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-11T18:45:50.152078Z"
-    },
-    "truth:117606070721302149": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43564",
-      "source_text": "<p>From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to President Trump. Hugh”</p>",
-      "published": "Thu, 12 Nov 2026 23:30:25 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-13T00:35:58.387538Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43564",
-      "first_seen": "2026-11-13T00:25:59.969269Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to Pres",
-      "next_retry_at": "2026-11-13T00:45:58.387556Z",
-      "truth_social_id": "117606070721302149"
     },
     "truth:117606259365899322": {
       "post_status": "RETRY",
