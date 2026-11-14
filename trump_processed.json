@@ -37677,6 +37677,22 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-11T18:45:50.152078Z"
+    },
+    "truth:117615368066065400": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43570",
+      "source_text": "<p>Gavin Newscum’s halting the Death Penalty for all 563 California Death Row inmates, some of the worst cold blooded murderers to have ever lived on the face of the Earth, is a disaster for Justice in America. Many of these names, people who have killed, over and over again, can’t believe their luck in having a Governor so incompetent and insensitive that he would not let the long and winding legal system prevail. The family members of those who were so viciously killed are, rightfully,  devastated. Hopefully this decision will be overturned! President DONALD J. TRUMP</p>",
+      "published": "Sat, 14 Nov 2026 14:54:51 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-14T15:06:04.873584Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43570",
+      "first_seen": "2026-11-14T15:06:04.873553Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Gavin Newscum’s halting the Death Penalty for all 563 California Death Row inmates, some of the worst cold blooded murderers to have ever lived on the",
+      "next_retry_at": "2026-11-14T15:11:04.873592Z",
+      "truth_social_id": "117615368066065400"
     }
   }
 }
