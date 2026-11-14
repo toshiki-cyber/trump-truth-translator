@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117197596651722690",
-    "https://www.trumpstruth.org/statuses/41465",
-    "fp:We are unleashing American Energy Dominance! President DONALD J. TRUMP",
     "truth:117197573240600580",
     "https://www.trumpstruth.org/statuses/41463",
     "fp:Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024.\n \nI kno",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43570",
     "fp:“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we ca",
     "truth:117616014481394036",
-    "https://www.trumpstruth.org/statuses/43571"
+    "https://www.trumpstruth.org/statuses/43571",
+    "fp:“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”\nHighly Respected Sena",
+    "truth:117616020655749477",
+    "https://www.trumpstruth.org/statuses/43573"
   ],
   "posts": {
-    "truth:117525241684892239": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42840",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae01e353fe02-73352664631a.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42836\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 29 Oct 2026 16:54:32 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:51:24.869351Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42840",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae",
-      "media_identity": "attachment:117525241684892239:ea6aae01e353fe02.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae",
-      "truth_social_id": "117525241684892239",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525211152165520https://truth-archive.us-iad-1.linodeobjects.com/attachments/18755/ea6aae01e353fe02-73352664631a.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42836https://truth-archive.us-iad-1.linodeobjects.com/attachments/18751/e330c766f9dafb4c-70dd8648eb62.mp4"
-    },
     "truth:117525243080324771": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15312,6 +15296,24 @@
           "rkey": "3n2c252bgosra"
         }
       ]
+    },
+    "truth:117616020655749477": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43573",
+      "source_text": "<p>“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”<br />Highly Respected Senator John Kennedy, of Louisiana, being interviewed by Kayleigh McEnany on FoxNews</p>",
+      "published": "Sat, 14 Nov 2026 17:40:49 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-14T19:46:00.289756Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43573",
+      "first_seen": "2026-11-14T19:05:57.491046Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”\nHighly Respected Sena",
+      "truth_social_id": "117616020655749477",
+      "source_fingerprint": "fp:“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”\nHighly Respected Sena",
+      "media_identity": "attachment:117616020655749477:",
+      "translation": "「負けることを心配する人もいる。私が心配するのは試さないことだ。負けたことは説明できる。だが、なぜ試さなかったのかを国民に説明することはできない！」\n高く尊敬されているルイジアナ州のジョン・ケネディ上院議員が、フォックスニュースでケイリー・マッケナニーのインタビューを受けた際の発言だ。"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37688,22 +37690,6 @@
       "published": "Sat, 14 Nov 2026 17:38:19 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-14T19:05:55.909622Z"
-    },
-    "truth:117616020655749477": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43573",
-      "source_text": "<p>“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”<br />Highly Respected Senator John Kennedy, of Louisiana, being interviewed by Kayleigh McEnany on FoxNews</p>",
-      "published": "Sat, 14 Nov 2026 17:40:49 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-14T19:10:58.134738Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43573",
-      "first_seen": "2026-11-14T19:05:57.491046Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”\nHighly Respected Sena",
-      "next_retry_at": "2026-11-14T19:20:58.134754Z",
-      "truth_social_id": "117616020655749477"
     }
   }
 }
