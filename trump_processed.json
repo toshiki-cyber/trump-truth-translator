@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117197440023162426",
-    "https://www.trumpstruth.org/statuses/41449",
-    "fp:It is my Great Honor to endorse MAGA Warrior, Joe Strada, who is running to represent the incredible people of Florida’s 11th Congressional District!\n",
     "truth:117197444316575505",
     "https://www.trumpstruth.org/statuses/41457",
     "fp:It is my Great Honor to endorse America First Patriot, Mike Beltran, who is running to represent the tremendous people of Florida’s 14th Congressional",
@@ -5000,71 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43579",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4",
     "truth:117616455572752619",
-    "https://www.trumpstruth.org/statuses/43578"
+    "https://www.trumpstruth.org/statuses/43578",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619Trash Island is currently the Worst Golf Course anywhere in the World, bu",
+    "truth:117616471014747868",
+    "https://www.trumpstruth.org/statuses/43580"
   ],
   "posts": {
-    "truth:117525707348152529": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42853",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4\">View video</a></p>",
-      "published": "Thu, 29 Oct 2026 18:52:57 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-29T19:42:25.437183Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42853",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
-      "media_identity": "attachment:117525707348152529:29382fa3522a8cbc-9bd180082415.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
-      "truth_social_id": "117525707348152529",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzws4jjbklw",
-      "expected_embed": "video",
-      "expected_images": 0,
-      "root_rkey": "3myzws4jjbklw",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4",
-        "createdAt": "2026-10-29T19:42:02.865549Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18767/29382fa3522a8cbc-9bd180082415.mp4"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.video",
-          "video": {
-            "$type": "blob",
-            "ref": {
-              "$link": "bafkreidptgtt6lf6sw2eo4bg6hbvmcvyubao4hlugk4rz7hn4cv5ldp6nu"
-            },
-            "mimeType": "video/mp4",
-            "size": 22604578
-          },
-          "alt": ""
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzws4jjbklw",
-          "rkey": "3myzws4jjbklw"
-        }
-      ]
-    },
     "truth:117525708145400474": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15314,6 +15252,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4",
       "truth_social_id": "117616455572752619",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4b3381d415f-0dec2625ba63.jpgQuoted\nhttps://www.trumpstruth.org/statuses/43579RT:\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117616450635385186https://truth-archive.us-iad-1.linodeobjects.com/attachments/18950/8ae138189493ffeb-bea058200df0.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18951/c296a608cd3b5dcd-e1c027ead421.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18952/34b8ae926d69aeee-d4d3c0dabe10.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18953/2af91c02d7e34bf4-50a834bfa084.jpg"
+    },
+    "truth:117616471014747868": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43580",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619</span>Trash Island is currently the Worst Golf Course anywhere in the World, but the Department of the Interior is going to make it into the Best Golf Course anywhere in the World. Unfortunately, Judge Ana Reyes doesn’t want us to quickly and inexpensively fix up the Course which is, also, very dangerous — The Fairways are far too close together. When you walk down the corridors of Trash Island, you don’t hear the sound of the running Potomac, all you hear is the sound of people screaming, “FORE!” In any event, we’re making progress, and hopefully the Judge will agree that the Dignity, Beauty, and Importance of Washington, D.C., will be greatly enhanced by this soon to be beautiful Project. Trash Island, after years of laughter and scorn, will evolve into something very special, something which the Judge will be able to take great pride in seeing! All over the World it will be acclaimed as being the Best Golf Course anywhere, attracting the U.S. Open, the PGA Championship, the Ryder Cup, and the Presidents Cup, with all of the Economic Development that will bring. Very importantly, also, is that anyone living in the D.C. area will be given a 50% discount on any and all Rates charged. The Department of the Interior has done a magnificent job of cleaning, fixing, renovating, and rebuilding 83 Fountains, Monuments, and Statues throughout our beautiful Capital. Even the Reflecting Pool, which hasn’t worked properly since its building in 1922, is open, beautiful, and working as it was always expected to do. Perhaps most importantly, Crime in Washington, D.C., is down 91%, A RECORD, and the People are happy and safe again! The Department of the Interior’s Golf Project will greatly enhance everything else that has already taken place in the last two year period. Everyone is proud and grateful again! Thank you for your attention to this matter. President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18954/71116206d679546d-bad206f4f3b3.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18955/ef054bc472376932-ad0119fc6c4b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18956/0bb6da6e8fbfad40-e4a4ecdc46be.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18957/d8d07272fd95a56f-a5110589cca0.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43578\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4b3381d415f-0dec2625ba63.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 14 Nov 2026 19:35:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:36:12.766078Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43580",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619Trash Island is currently the Worst Golf Course anywhere in the World, bu",
+      "media_identity": "attachment:117616471014747868:0bb6da6e8fbfad40.jpg,71116206d679546d.jpg,d8d07272fd95a56f.jpg,ef054bc472376932.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619Trash Island is currently the Worst Golf Course anywhere in the World, bu",
+      "truth_social_id": "117616471014747868",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619Trashアイランドは現在、世界中どこを探してもワーストなゴルフコースだが、内務省がこれを世界中どこを探してもベストなゴルフコースに変えるつもりだ。残念なことに、アナ・レイエス判事は我々がこのコースを素早く、安く修復することを望んでいない。そしてこのコースは非常に危険だ――フェアウェイが近すぎるのだ。ゴミアイランドの通路を歩いていても、ポトマック川の流れる音は聞こえず、聞こえるのは人々が「フォア！」と叫ぶ声ばかりだ。いずれにせよ、我々は進歩を遂行しており、願わくば判事が、ワシントンD.C.の格式、美しさ、そして重要性が、この間もなく完成する美しいプロジェクトによって大いに高まることに同意してくれるだろう。ゴミアイランドは、長年の嘲笑と軽蔑の後、何か非常に特別なものへと進化する。判事がその完成を見て大いに誇りに思えるようなものになるのだ！世界中で、どこを探してもベストなゴルフコースとして称賛されるだろう。全米オープン、PGAチャンピオンシップ、ライダーカップ、そしてプレジデンツカップを開催し、それがもたらす経済発展は計り知れない。非常に重要なことに、D.C.地域に住んでいる者なら誰もが、すべてのレートに対して50％の割引を受けられるのだ。内務省は、我々の美しい首都全体にわたる83の噴水、モニュメント、そして像の清掃、修復、改修、そして再建において見事な仕事を果たした。1922年の建設以来、ずっとまともに機能していなかったリフレクティング・プールさえ、今は開放され、美しく、そして常に期待されていた通りに機能している。おそらく最も重要なことは、ワシントンD.C.の犯罪が91％減少した。記録的な数字だ。そして国民は再び幸せで安全だ！内務省のゴルフプロジェクトは、この過去2年間にすでに起こったすべてのことをさらに大いに高めるだろう。皆が再び誇りを感じ、感謝している！この件への注目をありがとう。ドナルド・J・トランプ大統領より\nhttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18954/71116206d679546d-bad206f4f3b3.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18955/ef054bc472376932-ad0119fc6c4b.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18956/0bb6da6e8fbfad40-e4a4ecdc46be.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18957/d8d07272fd95a56f-a5110589cca0.jpgQuoted\nhttps://www.trumpstruth.org/statuses/43578RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4b3381d415f-0dec2625ba63.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37690,16 +37644,6 @@
       "published": "Sat, 14 Nov 2026 17:38:19 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-14T19:05:55.909622Z"
-    },
-    "truth:117616471014747868": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43580",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619</span>Trash Island is currently the Worst Golf Course anywhere in the World, but the Department of the Interior is going to make it into the Best Golf Course anywhere in the World. Unfortunately, Judge Ana Reyes doesn’t want us to quickly and inexpensively fix up the Course which is, also, very dangerous — The Fairways are far too close together. When you walk down the corridors of Trash Island, you don’t hear the sound of the running Potomac, all you hear is the sound of people screaming, “FORE!” In any event, we’re making progress, and hopefully the Judge will agree that the Dignity, Beauty, and Importance of Washington, D.C., will be greatly enhanced by this soon to be beautiful Project. Trash Island, after years of laughter and scorn, will evolve into something very special, something which the Judge will be able to take great pride in seeing! All over the World it will be acclaimed as being the Best Golf Course anywhere, attracting the U.S. Open, the PGA Championship, the Ryder Cup, and the Presidents Cup, with all of the Economic Development that will bring. Very importantly, also, is that anyone living in the D.C. area will be given a 50% discount on any and all Rates charged. The Department of the Interior has done a magnificent job of cleaning, fixing, renovating, and rebuilding 83 Fountains, Monuments, and Statues throughout our beautiful Capital. Even the Reflecting Pool, which hasn’t worked properly since its building in 1922, is open, beautiful, and working as it was always expected to do. Perhaps most importantly, Crime in Washington, D.C., is down 91%, A RECORD, and the People are happy and safe again! The Department of the Interior’s Golf Project will greatly enhance everything else that has already taken place in the last two year period. Everyone is proud and grateful again! Thank you for your attention to this matter. President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18954/71116206d679546d-bad206f4f3b3.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18955/ef054bc472376932-ad0119fc6c4b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18956/0bb6da6e8fbfad40-e4a4ecdc46be.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18957/d8d07272fd95a56f-a5110589cca0.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43578\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4b3381d415f-0dec2625ba63.jpg\">View image</a></p></blockquote>",
-      "published": "Sat, 14 Nov 2026 19:35:21 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-14T21:06:05.849007Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43580"
     }
   }
 }
