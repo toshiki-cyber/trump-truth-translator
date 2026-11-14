@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117197573240600580",
-    "https://www.trumpstruth.org/statuses/41463",
-    "fp:Congresswoman Ashley Hinson is running for the United States Senate in Iowa, a State I love and WON BIG, THREE TIMES, in 2016, 2020, and 2024.\n \nI kno",
     "truth:117197412544797656",
     "https://www.trumpstruth.org/statuses/41448",
     "fp:It is my Great Honor to endorse America First Patriot, Zach Lahn, a tremendous Candidate running to be the next Governor of the Wonderful State of Iow",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43571",
     "fp:“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”\nHighly Respected Sena",
     "truth:117616020655749477",
-    "https://www.trumpstruth.org/statuses/43573"
+    "https://www.trumpstruth.org/statuses/43573",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18934/fcef3d7d3d9ef9b8-0d83ae9fc46e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+    "truth:117616438954064087",
+    "https://www.trumpstruth.org/statuses/43574"
   ],
   "posts": {
-    "truth:117525243080324771": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42839",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209478143119</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18754/150a023b481c302e-59baac0d0365.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42837\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18752/c02f8b56a335183c-84844ab3a09a.mp4\">View video</a></p></blockquote>",
-      "published": "Thu, 29 Oct 2026 16:54:53 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:56:15.980212Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42839",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209478143119https://truth-archive.us-iad-1.linodeobjects.com/attachments/18754/150a02",
-      "media_identity": "attachment:117525243080324771:150a023b481c302e.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117525209478143119https://truth-archive.us-iad-1.linodeobjects.com/attachments/18754/150a02",
-      "truth_social_id": "117525243080324771",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117525209478143119https://truth-archive.us-iad-1.linodeobjects.com/attachments/18754/150a023b481c302e-59baac0d0365.jpgQuoted\nhttps://www.trumpstruth.org/statuses/42837https://truth-archive.us-iad-1.linodeobjects.com/attachments/18752/c02f8b56a335183c-84844ab3a09a.mp4"
-    },
     "truth:117525264716938628": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15314,6 +15298,22 @@
       "source_fingerprint": "fp:“Some people worry about losing, I worry about not trying. I can explain a loss, I can’t explain to my people why I didn’t try!”\nHighly Respected Sena",
       "media_identity": "attachment:117616020655749477:",
       "translation": "「負けることを心配する人もいる。私が心配するのは試さないことだ。負けたことは説明できる。だが、なぜ試さなかったのかを国民に説明することはできない！」\n高く尊敬されているルイジアナ州のジョン・ケネディ上院議員が、フォックスニュースでケイリー・マッケナニーのインタビューを受けた際の発言だ。"
+    },
+    "truth:117616438954064087": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43574",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18934/fcef3d7d3d9ef9b8-0d83ae9fc46e.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18935/e2f584ec746e9537-026b46af3d79.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18936/1e0f301655b3a811-701fdd32466d.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18937/a48b88cba7ef5f27-0fd13e57e7b8.jpg\">View image</a></p>",
+      "published": "Sat, 14 Nov 2026 19:27:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:06:10.858600Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43574",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18934/fcef3d7d3d9ef9b8-0d83ae9fc46e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "media_identity": "attachment:117616438954064087:1e0f301655b3a811.jpg,a48b88cba7ef5f27.jpg,e2f584ec746e9537.jpg,fcef3d7d3d9ef9b8.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18934/fcef3d7d3d9ef9b8-0d83ae9fc46e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "truth_social_id": "117616438954064087",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18934/fcef3d7d3d9ef9b8-0d83ae9fc46e.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18935/e2f584ec746e9537-026b46af3d79.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18936/1e0f301655b3a811-701fdd32466d.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18937/a48b88cba7ef5f27-0fd13e57e7b8.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37690,6 +37690,66 @@
       "published": "Sat, 14 Nov 2026 17:38:19 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-14T19:05:55.909622Z"
+    },
+    "truth:117616443567078665": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43575",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616438954064087</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18938/18947dc364396ba3-1dc051bc5521.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18939/f27f39254d5dbe80-4fdf1f8a1e64.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18940/4d65e581df94b8b2-9fbaceec40cb.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18941/4dad738dbf1d4dd8-e4c1c7dc160b.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43574\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18934/fcef3d7d3d9ef9b8-0d83ae9fc46e.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18935/e2f584ec746e9537-026b46af3d79.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18936/1e0f301655b3a811-701fdd32466d.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18937/a48b88cba7ef5f27-0fd13e57e7b8.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 14 Nov 2026 19:28:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:06:05.849520Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43575"
+    },
+    "truth:117616446948354692": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43576",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616443567078665</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18942/cee70d8f923c2c3c-10183ba28c0f.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18943/1f841acde742c016-ccde1b238a83.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18944/04816c47d9745887-5b605ba56130.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18945/8a7e60522738c0ad-7303fe47837a.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43575\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616438954064087</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18938/18947dc364396ba3-1dc051bc5521.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18939/f27f39254d5dbe80-4fdf1f8a1e64.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18940/4d65e581df94b8b2-9fbaceec40cb.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18941/4dad738dbf1d4dd8-e4c1c7dc160b.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 14 Nov 2026 19:29:14 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:06:05.849422Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43576"
+    },
+    "truth:117616450635385186": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43577",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616446948354692</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18946/a7217a982b295e57-34504f9d4c22.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18947/e2aa264347c8c68a-f2f96499f480.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18948/e50eb852d89af73b-0c4e05053701.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43576\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616443567078665</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18942/cee70d8f923c2c3c-10183ba28c0f.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18943/1f841acde742c016-ccde1b238a83.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18944/04816c47d9745887-5b605ba56130.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18945/8a7e60522738c0ad-7303fe47837a.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 14 Nov 2026 19:30:10 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:06:05.849310Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43577"
+    },
+    "truth:117616454522358249": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43579",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616450635385186</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18950/8ae138189493ffeb-bea058200df0.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18951/c296a608cd3b5dcd-e1c027ead421.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18952/34b8ae926d69aeee-d4d3c0dabe10.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18953/2af91c02d7e34bf4-50a834bfa084.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43577\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616446948354692</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18946/a7217a982b295e57-34504f9d4c22.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18947/e2aa264347c8c68a-f2f96499f480.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18948/e50eb852d89af73b-0c4e05053701.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 14 Nov 2026 19:31:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:06:05.849219Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43579"
+    },
+    "truth:117616455572752619": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43578",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4b3381d415f-0dec2625ba63.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43579\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616450635385186</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18950/8ae138189493ffeb-bea058200df0.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18951/c296a608cd3b5dcd-e1c027ead421.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18952/34b8ae926d69aeee-d4d3c0dabe10.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18953/2af91c02d7e34bf4-50a834bfa084.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 14 Nov 2026 19:31:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:06:05.849122Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43578"
+    },
+    "truth:117616471014747868": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43580",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619</span>Trash Island is currently the Worst Golf Course anywhere in the World, but the Department of the Interior is going to make it into the Best Golf Course anywhere in the World. Unfortunately, Judge Ana Reyes doesn’t want us to quickly and inexpensively fix up the Course which is, also, very dangerous — The Fairways are far too close together. When you walk down the corridors of Trash Island, you don’t hear the sound of the running Potomac, all you hear is the sound of people screaming, “FORE!” In any event, we’re making progress, and hopefully the Judge will agree that the Dignity, Beauty, and Importance of Washington, D.C., will be greatly enhanced by this soon to be beautiful Project. Trash Island, after years of laughter and scorn, will evolve into something very special, something which the Judge will be able to take great pride in seeing! All over the World it will be acclaimed as being the Best Golf Course anywhere, attracting the U.S. Open, the PGA Championship, the Ryder Cup, and the Presidents Cup, with all of the Economic Development that will bring. Very importantly, also, is that anyone living in the D.C. area will be given a 50% discount on any and all Rates charged. The Department of the Interior has done a magnificent job of cleaning, fixing, renovating, and rebuilding 83 Fountains, Monuments, and Statues throughout our beautiful Capital. Even the Reflecting Pool, which hasn’t worked properly since its building in 1922, is open, beautiful, and working as it was always expected to do. Perhaps most importantly, Crime in Washington, D.C., is down 91%, A RECORD, and the People are happy and safe again! The Department of the Interior’s Golf Project will greatly enhance everything else that has already taken place in the last two year period. Everyone is proud and grateful again! Thank you for your attention to this matter. President DONALD J. TRUMP</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18954/71116206d679546d-bad206f4f3b3.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18955/ef054bc472376932-ad0119fc6c4b.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18956/0bb6da6e8fbfad40-e4a4ecdc46be.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18957/d8d07272fd95a56f-a5110589cca0.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43578\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18949/7923b4b3381d415f-0dec2625ba63.jpg\">View image</a></p></blockquote>",
+      "published": "Sat, 14 Nov 2026 19:35:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-14T21:06:05.849007Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43580"
     }
   }
 }
