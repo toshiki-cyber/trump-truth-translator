@@ -37644,6 +37644,22 @@
       "published": "Sat, 14 Nov 2026 17:38:19 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-14T19:05:55.909622Z"
+    },
+    "truth:117617041335738125": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43581",
+      "source_text": "<p>Some of the people that Gavin Newscum freed from the Death Penalty, after many years of going through the California “Justice” System, make Hannibal Lecter, of Silence of the Lambs, look like a nice guy! President DJT</p>",
+      "published": "Sat, 14 Nov 2026 22:00:23 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-14T23:05:59.087127Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43581",
+      "first_seen": "2026-11-14T23:05:59.087091Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Some of the people that Gavin Newscum freed from the Death Penalty, after many years of going through the California “Justice” System, make Hannibal L",
+      "next_retry_at": "2026-11-14T23:10:59.087136Z",
+      "truth_social_id": "117617041335738125"
     }
   }
 }
