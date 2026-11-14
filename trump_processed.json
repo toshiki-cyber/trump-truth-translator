@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117197563006552701",
-    "https://www.trumpstruth.org/statuses/41464",
-    "fp:Jon Voight stopped by the White House in order to support the Movie and Television Industry in America! President DONALD J. TRUMP",
     "truth:117197596651722690",
     "https://www.trumpstruth.org/statuses/41465",
     "fp:We are unleashing American Energy Dominance! President DONALD J. TRUMP",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43569",
     "fp:Gavin Newscum’s halting the Death Penalty for all 563 California Death Row inmates, some of the worst cold blooded murderers to have ever lived on the",
     "truth:117615368066065400",
-    "https://www.trumpstruth.org/statuses/43570"
+    "https://www.trumpstruth.org/statuses/43570",
+    "fp:“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we ca",
+    "truth:117616014481394036",
+    "https://www.trumpstruth.org/statuses/43571"
   ],
   "posts": {
-    "truth:117525185794939859": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42835",
-      "source_text": "<p>Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the Arena. Special Jumbotrons put up. See you soon! President DONALD J. TRUMP</p>",
-      "published": "Thu, 29 Oct 2026 16:40:19 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T17:46:20.621132Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42843",
-      "first_seen": "2026-10-29T17:11:21.494417Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the A",
-      "truth_social_id": "117525185794939859",
-      "source_fingerprint": "fp:Just arrived in South Carolina! Watching the Right Side Broadcasting Network (RSBN) Interviews of the people outside that are unable to get into the A",
-      "media_identity": "attachment:117525185794939859:",
-      "translation": "サウスカロライナ州に到着したばかりだ！Right Side Broadcasting Network（RSBN）がアリーナに入れなかった外にいる人たちのインタビューを放映しているのを見ている。特別な大型スクリーンが設置されている。もうすぐ会おう！大統領 ドナルド・J・トランプ",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzpewwfa2qm",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myzpewwfa2qm",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "サウスカロライナ州に到着したばかりだ！Right Side Broadcasting Network（RSBN）がアリーナに入れなかった外にいる人たちのインタビューを放映しているのを見ている。特別な大型スクリーンが設置されている。もうすぐ会おう！大統領 ドナルド・J・トランプ",
-        "createdAt": "2026-10-29T17:36:20.805756Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzpewwfa2qm",
-          "rkey": "3myzpewwfa2qm"
-        }
-      ]
-    },
     "truth:117525241684892239": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15312,6 +15276,42 @@
       "source_fingerprint": "fp:Gavin Newscum’s halting the Death Penalty for all 563 California Death Row inmates, some of the worst cold blooded murderers to have ever lived on the",
       "media_identity": "attachment:117615368066065400:",
       "translation": "ギャヴィン・ニューサムがカリフォルニア州のすべての563人の死刑囚の死刑を停止したことは、アメリカ正義にとって大惨事だ。この中には、地球上に存在したことがある最悪の冷血殺人鬼どもが含まれている。何度も何度も人を殺してきた多くの者たちは、長く曲がりくねった法制度を実現させないほど無能で思慮に欠ける州知事を得たという幸運に信じられない思いでいる。非道に殺された者たちの遺族は、当然のことながら、絶望している。この決定が覆されることを望む！ドナルド・J・トランプ大統領"
+    },
+    "truth:117616014481394036": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43571",
+      "source_text": "<p>“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we can pass with no Democrat votes, provide money for the Military, money for Air Control, a Bill to ban Stock Trading, pass a Bill on Pardon Brokers, pass a Fraud Bill, all in the next 50 days. The FAA Funding should be a stand alone Bill — We should get Democrat support for that!” Senator John Kennedy</p>",
+      "published": "Sat, 14 Nov 2026 17:39:15 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-14T19:35:59.237101Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43571",
+      "first_seen": "2026-11-14T19:05:57.090767Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we ca",
+      "truth_social_id": "117616014481394036",
+      "source_fingerprint": "fp:“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we ca",
+      "media_identity": "attachment:117616014481394036:",
+      "translation": "「私は大統領の指名者全員の承認を勝ち取るために戦う。許可法案を可決させる。調整法案をやりたい。民主党の票なしで可決できる。軍事費を提供する。航空管制費を提供する。株式取引禁止法を可決する。恩赦仲介法を可決する。詐欺法を可決する。全てこれからの50日間で実現する。FAA資金調達は独立した法案であるべきだ。民主党の支持を得るべきだ!」 ジョン・ケネディ上院議員",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2c252bgosra",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3n2c252bgosra",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "「私は大統領の指名者全員の承認を勝ち取るために戦う。許可法案を可決させる。調整法案をやりたい。民主党の票なしで可決できる。軍事費を提供する。航空管制費を提供する。株式取引禁止法を可決する。恩赦仲介法を可決する。詐欺法を可決する。全てこれからの50日間で実現する。FAA資金調達は独立した法案であるべきだ。民主党の支持を得るべきだ!」 ジョン・ケネディ上院議員",
+        "createdAt": "2026-11-14T19:25:58.334861Z",
+        "langs": [
+          "ja"
+        ]
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2c252bgosra",
+          "rkey": "3n2c252bgosra"
+        }
+      ]
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37688,79 +37688,6 @@
       "published": "Sat, 14 Nov 2026 17:38:19 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-14T19:05:55.909622Z"
-    },
-    "truth:117616014481394036": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/43571",
-      "source_text": "<p>“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we can pass with no Democrat votes, provide money for the Military, money for Air Control, a Bill to ban Stock Trading, pass a Bill on Pardon Brokers, pass a Fraud Bill, all in the next 50 days. The FAA Funding should be a stand alone Bill — We should get Democrat support for that!” Senator John Kennedy</p>",
-      "published": "Sat, 14 Nov 2026 17:39:15 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-14T19:26:06.888728Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43571",
-      "first_seen": "2026-11-14T19:05:57.090767Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we ca",
-      "truth_social_id": "117616014481394036",
-      "source_fingerprint": "fp:“I’m going to fight and get all of the President’s Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we ca",
-      "media_identity": "attachment:117616014481394036:",
-      "translation": "「私は大統領の指名者全員の承認を勝ち取るために戦う。許可法案を可決させる。調整法案をやりたい。民主党の票なしで可決できる。軍事費を提供する。航空管制費を提供する。株式取引禁止法を可決する。恩赦仲介法を可決する。詐欺法を可決する。全てこれからの50日間で実現する。FAA資金調達は独立した法案であるべきだ。民主党の支持を得るべきだ!」 ジョン・ケネディ上院議員",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2c252bgosra",
-          "cid": "bafyreierz55qn5znzkw47e635w3p6mxbhncaq56bqtefc6gnvcu2c5ohum"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2c252bgosra",
-          "cid": "bafyreierz55qn5znzkw47e635w3p6mxbhncaq56bqtefc6gnvcu2c5ohum"
-        },
-        "next_index": 1,
-        "last_rkey": "3n2c252bgosra",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "「私は大統領の指名者全員の承認を勝ち取るために戦う。許可法案を可決させる。調整法案をやりたい。民主党の票なしで可決できる。軍事費を提供する。航空管制費を提供する。株式取引禁止法を可決する。恩赦仲介法を可決する。詐欺法を可決する。全てこれからの50日間で実現する。FAA資金調達は独立した法案であるべきだ。民主党の支持を得るべきだ!」 ジョン・ケネディ上院議員",
-          "createdAt": "2026-11-14T19:25:58.334861Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "root_rkey": "3n2c252bgosra",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "「私は大統領の指名者全員の承認を勝ち取るために戦う。許可法案を可決させる。調整法案をやりたい。民主党の票なしで可決できる。軍事費を提供する。航空管制費を提供する。株式取引禁止法を可決する。恩赦仲介法を可決する。詐欺法を可決する。全てこれからの50日間で実現する。FAA資金調達は独立した法案であるべきだ。民主党の支持を得るべきだ!」 ジョン・ケネディ上院議員",
-          "createdAt": "2026-11-14T19:25:58.334861Z",
-          "langs": [
-            "ja"
-          ]
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2c252bgosra",
-            "rkey": "3n2c252bgosra"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2c252bgosra",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3n2c252bgosra",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "「私は大統領の指名者全員の承認を勝ち取るために戦う。許可法案を可決させる。調整法案をやりたい。民主党の票なしで可決できる。軍事費を提供する。航空管制費を提供する。株式取引禁止法を可決する。恩赦仲介法を可決する。詐欺法を可決する。全てこれからの50日間で実現する。FAA資金調達は独立した法案であるべきだ。民主党の支持を得るべきだ!」 ジョン・ケネディ上院議員",
-        "createdAt": "2026-11-14T19:25:58.334861Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2c252bgosra",
-          "rkey": "3n2c252bgosra"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-11-14T19:31:06.888742Z"
     },
     "truth:117616020655749477": {
       "post_status": "RETRY",
