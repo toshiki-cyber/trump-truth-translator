@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117197451163049292",
-    "https://www.trumpstruth.org/statuses/41453",
-    "fp:It is my Great Honor to endorse “MAGA” Mayes Middleton, who is running to be the next Attorney General of the Wonderful State of Texas, a place I love",
     "truth:117197453458260002",
     "https://www.trumpstruth.org/statuses/41452",
     "fp:It is my Great Honor to endorse America First Patriot, Warren Petersen, who is running to be the next Attorney General of the Wonderful State of Arizo",
@@ -5000,45 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43583",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117618181388403813https://truth-archive.us-iad-1.linodeobjects.com/attachments/18959/17e68e",
     "truth:117618182102449443",
-    "https://www.trumpstruth.org/statuses/43584"
+    "https://www.trumpstruth.org/statuses/43584",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18961/954082714e7deee5-0f16fc8d4874.pnghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+    "truth:117618190139423939",
+    "https://www.trumpstruth.org/statuses/43586"
   ],
   "posts": {
-    "truth:117525706731349400": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42854",
-      "source_text": "<p>Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Consumer spending is WAY UP, Business Investment is WAY UP, and Investment in new Equipment EXPLODED by 21%, which means Record Numbers of Factories and Companies are being built and expanded in the U.S.A. Very importantly, Core Inflation remained LOW. We are smashing expectations — with today’s numbers beating 72% of economists’ forecasts. Our Economy is ROARING but, if the Dumocrats win the Midterms, they will burn it all down. If you want to keep this Growth going, you must vote REPUBLICAN! President DONALD J. TRUMP</p>",
-      "published": "Thu, 29 Oct 2026 18:52:48 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-29T20:16:14.371242Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42854",
-      "first_seen": "2026-10-29T19:41:19.743584Z",
-      "no_media_confirmations": 4,
-      "failure_reason": null,
-      "fingerprint": "fp:Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Co",
-      "truth_social_id": "117525706731349400",
-      "source_fingerprint": "fp:Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Co",
-      "media_identity": "attachment:117525706731349400:",
-      "translation": "本日、朝の速報として報告できることを喜ばしく思う。米国経済は3.4％でBOOMING中だ――歴史的水準の経済成長である。消費支出はWAY UP、企業投資はWAY UP、新規設備投資は21％EXPLODED、つまり米国では記録的な数の工場および企業が建設・拡張されている。極めて重要なことに、コアインフレは低位を保った。我々は期待値を打ち砕いている――本日の数字は経済学者の予測の72％を上回った。我々の経済はROARING中だが、民主党が中間選挙に勝利すれば、彼らはすべてを焼き尽くすだろう。この成長を継続させたいなら、共和党に投票しなければならない！\n\nドナルド・J・トランプ大統領",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzwrtkbukwt",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3myzwrtkbukwt",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "本日、朝の速報として報告できることを喜ばしく思う。米国経済は3.4％でBOOMING中だ――歴史的水準の経済成長である。消費支出はWAY UP、企業投資はWAY UP、新規設備投資は21％EXPLODED、つまり米国では記録的な数の工場および企業が建設・拡張されている。極めて重要なことに、コアインフレは低位を保った。我々は期待値を打ち砕いている――本日の数字は経済学者の予測の72％を上回った。我々の経済はROARING中だが、民主党が中間選挙に勝利すれば、彼らはすべてを焼き尽くすだろう。この成長を継続させたいなら、共和党に投票しなければならない！\n\nドナルド・J・トランプ大統領",
-        "createdAt": "2026-10-29T20:06:18.978947Z",
-        "langs": [
-          "ja"
-        ]
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3myzwrtkbukwt",
-          "rkey": "3myzwrtkbukwt"
-        }
-      ]
-    },
     "truth:117525715840384199": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15304,6 +15268,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117618181388403813https://truth-archive.us-iad-1.linodeobjects.com/attachments/18959/17e68e",
       "truth_social_id": "117618182102449443",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117618181388403813https://truth-archive.us-iad-1.linodeobjects.com/attachments/18959/17e68ec244e32e5e-17af8ee4c485.jpgQuoted\nhttps://www.trumpstruth.org/statuses/43585https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4"
+    },
+    "truth:117618190139423939": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43586",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18961/954082714e7deee5-0f16fc8d4874.png\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18962/93d35edfa27b2302-b5318079de7e.png\">View image</a></p>",
+      "published": "Sun, 15 Nov 2026 02:52:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-15T03:21:04.816574Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43586",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18961/954082714e7deee5-0f16fc8d4874.pnghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "media_identity": "attachment:117618190139423939:93d35edfa27b2302.png,954082714e7deee5.png",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18961/954082714e7deee5-0f16fc8d4874.pnghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "truth_social_id": "117618190139423939",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18961/954082714e7deee5-0f16fc8d4874.pnghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18962/93d35edfa27b2302-b5318079de7e.png"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37696,16 +37676,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117618190139423939": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43586",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18961/954082714e7deee5-0f16fc8d4874.png\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18962/93d35edfa27b2302-b5318079de7e.png\">View image</a></p>",
-      "published": "Sun, 15 Nov 2026 02:52:33 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-15T03:05:58.779779Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43586"
     }
   }
 }
