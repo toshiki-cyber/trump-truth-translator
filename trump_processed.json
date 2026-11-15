@@ -37708,6 +37708,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
+    },
+    "truth:117622076975145007": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43593",
+      "source_text": "<p>Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man’ in History Who Can Bring Peace, Prosperity to World with End of Iran War: <a href=\"https://www.breitbart.com/politics/2026/11/15/exclusive-iraqi-president-nizar-amedi-president-trump-very-significantly-important-man-in-history-who-can-bring-peace-prosperity-to-world-with-end-of-iran-war/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">breitbart.com/politics/2026/11</span><span class=\"invisible\">/15/exclusive-iraqi-president-nizar-amedi-president-trump-very-significantly-important-man-in-history-who-can-bring-peace-prosperity-to-world-with-end-of-iran-war/</span></a></p>",
+      "published": "Sun, 15 Nov 2026 19:21:01 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-15T21:05:59.906145Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43593",
+      "first_seen": "2026-11-15T21:05:59.906108Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man’ in History Who Can Bring Peace, Prosperity to World with E",
+      "next_retry_at": "2026-11-15T21:10:59.906154Z",
+      "truth_social_id": "117622076975145007"
     }
   }
 }
