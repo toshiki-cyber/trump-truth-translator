@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117197448086615537",
-    "https://www.trumpstruth.org/statuses/41455",
-    "fp:It is my Great Honor to endorse America First Patriot, Casey Askar, who is running to represent the tremendous people of Florida’s 22nd Congressional ",
     "truth:117197449327603337",
     "https://www.trumpstruth.org/statuses/41454",
     "fp:It is my Great Honor to endorse America First Patriot, Scott Singer, who is running to represent the incredible people of Florida’s 25th Congressional",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43581",
     "fp:Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Dollars in Value? In other words, Investors throughout the Wor",
     "truth:117617708553644602",
-    "https://www.trumpstruth.org/statuses/43582"
+    "https://www.trumpstruth.org/statuses/43582",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18958/4839e71067aa45ea-b0ced9c1667f.jpg",
+    "truth:117617925898523147",
+    "https://www.trumpstruth.org/statuses/43583"
   ],
   "posts": {
-    "truth:117525708513449313": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42851",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4\">View video</a></p>",
-      "published": "Thu, 29 Oct 2026 18:53:15 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-29T19:56:27.060153Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42851",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4",
-      "media_identity": "attachment:117525708513449313:c2050f6a7a52d03b-ff9b21e6d81a.mp4",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4",
-      "truth_social_id": "117525708513449313",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18765/c2050f6a7a52d03b-ff9b21e6d81a.mp4"
-    },
     "truth:117509189268383436": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15306,6 +15290,22 @@
           "rkey": "3n2cs7gbcakmt"
         }
       ]
+    },
+    "truth:117617925898523147": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43583",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18958/4839e71067aa45ea-b0ced9c1667f.jpg\">View image</a></p>",
+      "published": "Sun, 15 Nov 2026 01:45:21 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-15T03:06:00.716532Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43583",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18958/4839e71067aa45ea-b0ced9c1667f.jpg",
+      "media_identity": "attachment:117617925898523147:4839e71067aa45ea.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18958/4839e71067aa45ea-b0ced9c1667f.jpg",
+      "truth_social_id": "117617925898523147",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18958/4839e71067aa45ea-b0ced9c1667f.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37682,6 +37682,36 @@
       "published": "Sat, 14 Nov 2026 17:38:19 +0000",
       "retry_count": 0,
       "updated_at": "2026-11-14T19:05:55.909622Z"
+    },
+    "truth:117618181388403813": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43585",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4\">View video</a></p>",
+      "published": "Sun, 15 Nov 2026 02:50:19 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-15T03:05:58.780057Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43585"
+    },
+    "truth:117618182102449443": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43584",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117618181388403813</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18959/17e68ec244e32e5e-17af8ee4c485.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43585\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4\">View video</a></p></blockquote>",
+      "published": "Sun, 15 Nov 2026 02:50:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-15T03:05:58.779933Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43584"
+    },
+    "truth:117618190139423939": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43586",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18961/954082714e7deee5-0f16fc8d4874.png\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18962/93d35edfa27b2302-b5318079de7e.png\">View image</a></p>",
+      "published": "Sun, 15 Nov 2026 02:52:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-15T03:05:58.779779Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43586"
     }
   }
 }
