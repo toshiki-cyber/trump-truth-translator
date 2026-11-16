@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117198100068865592",
-    "https://trumpstruth.org/statuses/41470",
-    "fp:I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts afte",
     "truth:117198120605224547",
     "https://trumpstruth.org/statuses/41471",
     "fp:I just informed Senator Roger Marshall, who has my Complete and Total Endorsement, that I am granting 13.2 Million Dollars and, separately, 7.3 Millio",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43593",
     "fp:A must read!!!\nIf You Think War Is Unpopular, Wait Till You See Defeat:\nhttps://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-de",
     "truth:117623567982116164",
-    "https://www.trumpstruth.org/statuses/43594"
+    "https://www.trumpstruth.org/statuses/43594",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+    "truth:117623612801930113",
+    "https://www.trumpstruth.org/statuses/43597"
   ],
   "posts": {
-    "truth:117526178919539647": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42867",
-      "source_text": "<p>GREGG JARRETT: Ilhan Omar turns her defense over to a vile purveyor of hate: <a href=\"https://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-turns-defense-vile-purveyor-hate\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/gregg-jarr</span><span class=\"invisible\">ett-ilhan-omar-turns-defense-vile-purveyor-hate</span></a></p>",
-      "published": "Thu, 29 Oct 2026 20:52:53 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T22:01:21.786724Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42867",
-      "first_seen": "2026-10-29T21:11:17.971923Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:GREGG JARRETT: Ilhan Omar turns her defense over to a vile purveyor of hate: \nhttps://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-turns-defense-v",
-      "truth_social_id": "117526178919539647",
-      "source_fingerprint": "fp:GREGG JARRETT: Ilhan Omar turns her defense over to a vile purveyor of hate: \nhttps://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-turns-defense-v",
-      "media_identity": "attachment:117526178919539647:",
-      "translation": "グレッグ・ジャレット：イルハン・オマルは自らの弁護を下劣な憎悪の扇動者に委ねた：\nhttps://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-turns-defense-vile-purveyor-hate"
-    },
     "truth:117526181339407610": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15314,6 +15296,22 @@
       "fingerprint": "fp:A must read!!!\nIf You Think War Is Unpopular, Wait Till You See Defeat:\nhttps://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-de",
       "truth_social_id": "117623567982116164",
       "translation": "必読です!!!\n戦争が不人気だと思っているなら、敗北を目にするまで待つことだ：\nhttps://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-defeat-04608ab0https://truth-archive.us-iad-1.linodeobjects.com/attachments/18965/460d723a62520d0a-7d2f407dc117.pnghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18966/7c03b6fa25ab3a77-9d07ec7fe28a.pnghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18967/3f20d9c0350981c6-61fda2cfb96e.png"
+    },
+    "truth:117623612801930113": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43597",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg\">View image</a></p>",
+      "published": "Mon, 16 Nov 2026 01:51:36 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-16T03:11:22.360089Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43597",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "media_identity": "attachment:117623612801930113:249840a9568a662a.jpeg,33c8f4a9cdbaa08b.jpeg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
+      "truth_social_id": "117623612801930113",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37706,16 +37704,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117623612801930113": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43597",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg\">View image</a></p>",
-      "published": "Mon, 16 Nov 2026 01:51:36 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-16T03:06:00.494328Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43597"
     },
     "truth:117623614337560938": {
       "post_status": "DISCOVERED",
