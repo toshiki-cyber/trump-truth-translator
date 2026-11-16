@@ -37694,6 +37694,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
+    },
+    "truth:117626544494395657": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43603",
+      "source_text": "<p>The new people running 60 Minutes are even worse than their predecessors. A recent study on an attack in the early stages of Iran was not correctly stated. Since February 28, 2026, the start of Epic Fury, Iran has fired between 8,000-9,000 One-way Attack Drones. Only 2 of them got through, resulting in U.S. fatalities, both on the first day, hitting Kuwait and Saudi Arabia. Likewise, Iran has fired about 2,000 Ballistic Missiles. Only 1 out of the 2,0000 got through, and caused U.S. fatalities (Jordan). Translation: 99.99% of Iranian missiles and drones have been shot down or, in any event, not caused U.S. deaths. CENTCOM defensive measures have been historically effective. No one in the World has the ability to do so well. All of this being left out of the 60 Minutes “report.” Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Mon, 16 Nov 2026 14:17:10 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-16T15:05:36.902876Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43603",
+      "first_seen": "2026-11-16T15:05:36.902840Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The new people running 60 Minutes are even worse than their predecessors. A recent study on an attack in the early stages of Iran was not correctly st",
+      "next_retry_at": "2026-11-16T15:10:36.902886Z",
+      "truth_social_id": "117626544494395657"
     }
   }
 }
