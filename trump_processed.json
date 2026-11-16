@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117198120605224547",
-    "https://trumpstruth.org/statuses/41471",
-    "fp:I just informed Senator Roger Marshall, who has my Complete and Total Endorsement, that I am granting 13.2 Million Dollars and, separately, 7.3 Millio",
     "truth:117198143393658444",
     "https://trumpstruth.org/statuses/41472",
     "fp:I just spoke with Governor Kelly Armstrong, of the beautiful State of North Dakota, and told him I am approving 3.4 Million Dollars for the severe sto",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43594",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
     "truth:117623612801930113",
-    "https://www.trumpstruth.org/statuses/43597"
+    "https://www.trumpstruth.org/statuses/43597",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b92",
+    "truth:117623614337560938",
+    "https://www.trumpstruth.org/statuses/43596"
   ],
   "posts": {
-    "truth:117526181339407610": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42869",
-      "source_text": "<p>GREGG JARRETT: Ilhan Omar could face indictment, denaturalization and deportation: <a href=\"https://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-face-indictment-denaturalization-deportation\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/gregg-jarr</span><span class=\"invisible\">ett-ilhan-omar-could-face-indictment-denaturalization-deportation</span></a></p>",
-      "published": "Thu, 29 Oct 2026 20:53:30 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T22:06:16.765525Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42869",
-      "first_seen": "2026-10-29T21:11:18.689184Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:GREGG JARRETT: Ilhan Omar could face indictment, denaturalization and deportation: \nhttps://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-fac",
-      "truth_social_id": "117526181339407610",
-      "source_fingerprint": "fp:GREGG JARRETT: Ilhan Omar could face indictment, denaturalization and deportation: \nhttps://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-fac",
-      "media_identity": "attachment:117526181339407610:",
-      "translation": "グレッグ・ジャレット：イルハン・オマルは起訴、市民権剥奪、および強制送還に直面する可能性がある：\nhttps://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-face-indictment-denaturalization-deportation"
-    },
     "truth:117526183658403524": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15312,6 +15294,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/a",
       "truth_social_id": "117623612801930113",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg"
+    },
+    "truth:117623614337560938": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43596",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b929c3e369b04-b273f710335f.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43597\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg\">View image</a></p></blockquote>",
+      "published": "Mon, 16 Nov 2026 01:51:59 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-16T03:15:59.245632Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43596",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b92",
+      "media_identity": "attachment:117623614337560938:249840a9568a662a-5e416555e088.jpg,33c8f4a9cdbaa08b-52e1aa98bc86.jpg,3a1b929c3e369b04.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b92",
+      "truth_social_id": "117623614337560938",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b929c3e369b04-b273f710335f.pngQuoted\nhttps://www.trumpstruth.org/statuses/43597https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37704,16 +37702,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117623614337560938": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43596",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b929c3e369b04-b273f710335f.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43597\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpg\">View image</a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg\">View image</a></p></blockquote>",
-      "published": "Mon, 16 Nov 2026 01:51:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-16T03:06:00.494202Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43596"
     },
     "truth:117623615345379583": {
       "post_status": "DISCOVERED",
