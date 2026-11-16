@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117198143393658444",
-    "https://trumpstruth.org/statuses/41472",
-    "fp:I just spoke with Governor Kelly Armstrong, of the beautiful State of North Dakota, and told him I am approving 3.4 Million Dollars for the severe sto",
     "truth:117198165412719460",
     "https://trumpstruth.org/statuses/41473",
     "fp:I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43597",
     "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b92",
     "truth:117623614337560938",
-    "https://www.trumpstruth.org/statuses/43596"
+    "https://www.trumpstruth.org/statuses/43596",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623614337560938https://truth-archive.us-iad-1.linodeobjects.com/attachments/18968/0ddf0c",
+    "truth:117623615345379583",
+    "https://www.trumpstruth.org/statuses/43595"
   ],
   "posts": {
-    "truth:117526183658403524": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42868",
-      "source_text": "<p>GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: <a href=\"https://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/gregg-jarr</span><span class=\"invisible\">ett-trump-framed-russia-collusion-hoax-story-exposed</span></a></p>",
-      "published": "Thu, 29 Oct 2026 20:54:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-29T22:11:15.776730Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42868",
-      "first_seen": "2026-10-29T21:11:19.278010Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: \nhttps://www.foxnews.com/opinion/gregg-jarrett-trump-fra",
-      "truth_social_id": "117526183658403524",
-      "source_fingerprint": "fp:GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: \nhttps://www.foxnews.com/opinion/gregg-jarrett-trump-fra",
-      "media_identity": "attachment:117526183658403524:",
-      "translation": "グレッグ・ジャレット：トランプはロシア共謀疑惑の嘘によってはめられた。今、全体の話が暴露されている：\nhttps://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed"
-    },
     "truth:117526601708258656": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15310,6 +15292,22 @@
       "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b92",
       "truth_social_id": "117623614337560938",
       "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b929c3e369b04-b273f710335f.pngQuoted\nhttps://www.trumpstruth.org/statuses/43597https://truth-archive.us-iad-1.linodeobjects.com/attachments/18970/33c8f4a9cdbaa08b-52e1aa98bc86.jpghttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18971/249840a9568a662a-5e416555e088.jpg"
+    },
+    "truth:117623615345379583": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43595",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623614337560938</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18968/0ddf0c8fa1b3f091-cb914f38946c.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43596\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b929c3e369b04-b273f710335f.png\">View image</a></p></blockquote>",
+      "published": "Mon, 16 Nov 2026 01:52:15 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-16T03:21:01.653553Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43595",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623614337560938https://truth-archive.us-iad-1.linodeobjects.com/attachments/18968/0ddf0c",
+      "media_identity": "attachment:117623615345379583:0ddf0c8fa1b3f091.png,249840a9568a662a-5e416555e088.jpg,33c8f4a9cdbaa08b-52e1aa98bc86.jpg,3a1b929c3e369b04-b273f710335f.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623614337560938https://truth-archive.us-iad-1.linodeobjects.com/attachments/18968/0ddf0c",
+      "truth_social_id": "117623615345379583",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117623614337560938https://truth-archive.us-iad-1.linodeobjects.com/attachments/18968/0ddf0c8fa1b3f091-cb914f38946c.pngQuoted\nhttps://www.trumpstruth.org/statuses/43596RT:\nhttps://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b929c3e369b04-b273f710335f.png"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37702,16 +37700,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117623615345379583": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43595",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623614337560938</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18968/0ddf0c8fa1b3f091-cb914f38946c.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43596\">Donald J. Trump</a></p><blockquote><p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117623612801930113</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18969/3a1b929c3e369b04-b273f710335f.png\">View image</a></p></blockquote>",
-      "published": "Mon, 16 Nov 2026 01:52:15 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-16T03:06:00.494073Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43595"
     },
     "truth:117623617958352976": {
       "post_status": "DISCOVERED",
