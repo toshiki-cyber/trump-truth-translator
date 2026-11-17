@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41487",
-    "fp:A Nice Man!!!",
-    "truth:117204716865404743",
     "https://trumpstruth.org/statuses/41489",
     "fp:Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: \nhttps://nypost.com/2026/08/30/opinion/miranda-devine-ag-letitia",
     "truth:117204718132251065",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43611",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg",
     "truth:117629431646825873",
-    "https://www.trumpstruth.org/statuses/43610"
+    "https://www.trumpstruth.org/statuses/43610",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18984/8babdfda7eaabb02-8651b3fe1ee0.jpg",
+    "truth:117629431855296138",
+    "https://www.trumpstruth.org/statuses/43609"
   ],
   "posts": {
-    "truth:117529609631368783": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42891",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png\">View image</a></p>",
-      "published": "Fri, 30 Oct 2026 11:25:21 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-30T12:56:24.730733Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42891",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png",
-      "media_identity": "attachment:117529609631368783:30573217d8235ef0.png",
-      "failure_reason": null,
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png",
-      "truth_social_id": "117529609631368783",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18779/30573217d8235ef0-aa921212a5f4.png"
-    },
     "truth:117529610420067199": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15370,6 +15354,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg",
       "truth_social_id": "117629431646825873",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg"
+    },
+    "truth:117629431855296138": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43609",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18984/8babdfda7eaabb02-8651b3fe1ee0.jpg\">View image</a></p>",
+      "published": "Tue, 17 Nov 2026 02:31:28 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-17T03:15:40.384462Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43609",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18984/8babdfda7eaabb02-8651b3fe1ee0.jpg",
+      "media_identity": "attachment:117629431855296138:8babdfda7eaabb02.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18984/8babdfda7eaabb02-8651b3fe1ee0.jpg",
+      "truth_social_id": "117629431855296138",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18984/8babdfda7eaabb02-8651b3fe1ee0.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37762,16 +37762,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117629431855296138": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43609",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18984/8babdfda7eaabb02-8651b3fe1ee0.jpg\">View image</a></p>",
-      "published": "Tue, 17 Nov 2026 02:31:28 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-17T03:05:37.453815Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43609"
     }
   }
 }
