@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41488",
-    "truth:117206799377569441",
-    "https://trumpstruth.org/statuses/41491",
     "fp:This is GREAT! President DONALD J. TRUMP\nSyria is pitching itself as an alternative to the Strait of Hormuz: \nhttps://www.washingtonpost.com/world/202",
     "truth:117206830744287806",
     "https://trumpstruth.org/statuses/41492",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43609",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18987/22e3f0d45ea374f9-86f9bf85f6ec.jpg",
     "truth:117629573147086367",
-    "https://www.trumpstruth.org/statuses/43612"
+    "https://www.trumpstruth.org/statuses/43612",
+    "fp:RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gasoline in 18 years. Notice that they waited until after the “",
+    "truth:117634065135557984",
+    "https://www.trumpstruth.org/statuses/43613"
   ],
   "posts": {
-    "truth:117529611252882085": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42889",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045aa2845538b0-e96a27e5fe57.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/42890\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg\">View image</a></p></blockquote>",
-      "published": "Fri, 30 Oct 2026 11:25:46 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-30T13:06:22.112665Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42889",
-      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045a",
-      "media_identity": "attachment:117529611252882085:05045aa2845538b0.png,1b3290f291e9ce4d-6d2eb72f2ef3.jpg",
-      "failure_reason": null,
-      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045a",
-      "truth_social_id": "117529611252882085",
-      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117529610420067199https://truth-archive.us-iad-1.linodeobjects.com/attachments/18777/05045aa2845538b0-e96a27e5fe57.pngQuoted\nhttps://www.trumpstruth.org/statuses/42890https://truth-archive.us-iad-1.linodeobjects.com/attachments/18778/1b3290f291e9ce4d-6d2eb72f2ef3.jpg"
-    },
     "truth:117529570134101741": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15424,6 +15408,24 @@
           "rkey": "3n2i2sst5xsvr"
         }
       ]
+    },
+    "truth:117634065135557984": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43613",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602</span>Biggest drop in gasoline in 18 years. Notice that they waited until after the “Election?” President DJT</p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43614\">Schoenlaw</a></p><blockquote><p><a href=\"https://tradersunion.com/news/market-voices/show/4212469-us-gasoline-prices-drop/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tradersunion.com/news/market-v</span><span class=\"invisible\">oices/show/4212469-us-gasoline-prices-drop/</span></a>. Last week saw the biggest drop in retail gas prices at the pump in 18 years!  The blockade is working.  Where is the media???Credit President Trump!!!  <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p></blockquote>",
+      "published": "Tue, 17 Nov 2026 22:09:46 +0000",
+      "retry_count": 2,
+      "updated_at": "2026-11-17T22:31:00.848674Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43613",
+      "first_seen": "2026-11-17T22:15:52.470606Z",
+      "no_media_confirmations": 3,
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gasoline in 18 years. Notice that they waited until after the “",
+      "truth_social_id": "117634065135557984",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gasoline in 18 years. Notice that they waited until after the “",
+      "media_identity": "attachment:117634065135557984:",
+      "translation": "【翻訳】\n\nRT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest 18年ぶりのガソリン価格の下落。「選挙」の後まで待ったことに気づいたか？大統領DJT\n引用\nhttps://www.trumpstruth.org/statuses/43614https://tradersunion.com/news/market-voices/show/4212469-us-gasoline-prices-drop/. 先週はガソリンスタンドでの小売ガソリン価格が18年ぶりの最大幅で下落した！ブロックケードが機能している。メディアはどこにいる？？？トランプ大統領を讃えよ！！！\nhttps://truthsocial.com/@realDonaldTrump"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37816,22 +37818,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117634065135557984": {
-      "post_status": "RETRY",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43613",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602</span>Biggest drop in gasoline in 18 years. Notice that they waited until after the “Election?” President DJT</p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43614\">Schoenlaw</a></p><blockquote><p><a href=\"https://tradersunion.com/news/market-voices/show/4212469-us-gasoline-prices-drop/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tradersunion.com/news/market-v</span><span class=\"invisible\">oices/show/4212469-us-gasoline-prices-drop/</span></a>. Last week saw the biggest drop in retail gas prices at the pump in 18 years!  The blockade is working.  Where is the media???Credit President Trump!!!  <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span></p></blockquote>",
-      "published": "Tue, 17 Nov 2026 22:09:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-17T22:20:55.330103Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43613",
-      "first_seen": "2026-11-17T22:15:52.470606Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
-      "fingerprint": "fp:RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gasoline in 18 years. Notice that they waited until after the “",
-      "next_retry_at": "2026-11-17T22:30:55.330121Z",
-      "truth_social_id": "117634065135557984"
     }
   }
 }
