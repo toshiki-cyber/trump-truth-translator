@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41486",
-    "fp:Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google",
-    "truth:117203256670423247",
     "https://www.trumpstruth.org/statuses/41487",
     "fp:A Nice Man!!!",
     "truth:117204716865404743",
@@ -5000,25 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43607",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18986/ecfe5adc29e9ebdb-781282ede9f8.jpg",
     "truth:117629430343436515",
-    "https://www.trumpstruth.org/statuses/43611"
+    "https://www.trumpstruth.org/statuses/43611",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg",
+    "truth:117629431646825873",
+    "https://www.trumpstruth.org/statuses/43610"
   ],
   "posts": {
-    "truth:117529608108051260": {
-      "post_status": "POSTED",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/42892",
-      "source_text": "<p><a href=\"https://www.newsbreak.com/share/4974811915102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exit\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">newsbreak.com/share/4974811915</span><span class=\"invisible\">102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exit</span></a></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18780/a6cd403fb7a5d957-2abcd636d9a6.png\">View image</a></p>",
-      "published": "Fri, 30 Oct 2026 11:24:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-30T12:51:24.243698Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42892",
-      "source_fingerprint": "fp:https://www.newsbreak.com/share/4974811915102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exithttps://truth-archive.us-iad-1.linodeobjects.",
-      "media_identity": "attachment:117529608108051260:a6cd403fb7a5d957.png",
-      "failure_reason": null,
-      "fingerprint": "fp:https://www.newsbreak.com/share/4974811915102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exithttps://truth-archive.us-iad-1.linodeobjects.",
-      "truth_social_id": "117529608108051260",
-      "translation": "https://www.newsbreak.com/share/4974811915102-maria-bartiromo-lands-first-hosting-gig-since-fox-news-exithttps://truth-archive.us-iad-1.linodeobjects.com/attachments/18780/a6cd403fb7a5d957-2abcd636d9a6.png"
-    },
     "truth:117529609631368783": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15370,6 +15354,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18986/ecfe5adc29e9ebdb-781282ede9f8.jpg",
       "truth_social_id": "117629430343436515",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18986/ecfe5adc29e9ebdb-781282ede9f8.jpg"
+    },
+    "truth:117629431646825873": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43610",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg\">View image</a></p>",
+      "published": "Tue, 17 Nov 2026 02:31:25 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-17T03:10:39.984531Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43610",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg",
+      "media_identity": "attachment:117629431646825873:9e59881097b81d22.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg",
+      "truth_social_id": "117629431646825873",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37762,16 +37762,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117629431646825873": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43610",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18985/9e59881097b81d22-d8608f9926ac.jpg\">View image</a></p>",
-      "published": "Tue, 17 Nov 2026 02:31:25 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-17T03:05:37.453935Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43610"
     },
     "truth:117629431855296138": {
       "post_status": "DISCOVERED",
