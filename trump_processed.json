@@ -37875,14 +37875,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43616",
       "source_text": "<p>I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a true landmark and, in particular, a Deal that will be great for our Farmers and those in the business of “Energy.” President Marcos is a powerful leader, and a man of high integrity and substance. It was an Honor to be with him, and his beautiful wife and son. See you in China! President DONALD J. TRUMP</p>",
       "published": "Wed, 18 Nov 2026 07:44:12 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-18T07:45:52.902793Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-18T07:51:00.379049Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43616",
       "first_seen": "2026-11-18T07:45:52.902754Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to ann",
-      "next_retry_at": "2026-11-18T07:50:52.902800Z",
+      "next_retry_at": "2026-11-18T08:01:00.379065Z",
       "truth_social_id": "117636323928351024"
     }
   }
