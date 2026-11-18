@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:This is GREAT! President DONALD J. TRUMP\nSyria is pitching itself as an alternative to the Strait of Hormuz: \nhttps://www.washingtonpost.com/world/202",
-    "truth:117206830744287806",
-    "https://trumpstruth.org/statuses/41492",
     "fp:Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
     "truth:117206881233100864",
     "https://trumpstruth.org/statuses/41493",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43612",
     "fp:RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gasoline in 18 years. Notice that they waited until after the “",
     "truth:117634065135557984",
-    "https://www.trumpstruth.org/statuses/43613"
+    "https://www.trumpstruth.org/statuses/43613",
+    "fp:Thank you, BIG John. You are great!!! President DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
+    "truth:117634741427255539",
+    "https://www.trumpstruth.org/statuses/43615"
   ],
   "posts": {
-    "truth:117529570134101741": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42884",
-      "source_text": "<p>I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANSAS, as do I. Enjoy!!! President DJT</p>",
-      "published": "Fri, 30 Oct 2026 11:15:19 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-30T13:11:18.165247Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42884",
-      "first_seen": "2026-10-30T12:51:20.440689Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANS",
-      "truth_social_id": "117529570134101741",
-      "source_fingerprint": "fp:I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANS",
-      "media_identity": "attachment:117529570134101741:",
-      "translation": "私は素晴らしい共和党上院議員ロジャー・マーシャル（カンザス州選出）のためにライブラジオインタビューに出演する。ピート・ムンドがKCMOで午前7時30分に放送する。ロジャーはカンザス州を愛している。私もそうだ。楽しもう！！！ 大統領 DJT"
-    },
     "truth:117529618350160774": {
       "post_status": "POSTED",
       "media_state": "READY",
@@ -15426,6 +15408,74 @@
       "source_fingerprint": "fp:RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest drop in gasoline in 18 years. Notice that they waited until after the “",
       "media_identity": "attachment:117634065135557984:",
       "translation": "【翻訳】\n\nRT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602Biggest 18年ぶりのガソリン価格の下落。「選挙」の後まで待ったことに気づいたか？大統領DJT\n引用\nhttps://www.trumpstruth.org/statuses/43614https://tradersunion.com/news/market-voices/show/4212469-us-gasoline-prices-drop/. 先週はガソリンスタンドでの小売ガソリン価格が18年ぶりの最大幅で下落した！ブロックケードが機能している。メディアはどこにいる？？？トランプ大統領を讃えよ！！！\nhttps://truthsocial.com/@realDonaldTrump"
+    },
+    "truth:117634741427255539": {
+      "post_status": "POSTED",
+      "media_state": "NO_MEDIA",
+      "status_url": "https://www.trumpstruth.org/statuses/43615",
+      "source_text": "<p>Thank you, BIG John. You are great!!! President DJT<br /><a href=\"https://www.youtube.com/shorts/CTlVRPAtdXA\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span>youtube.com/shorts/CTlVRPAtdXA</span><span class=\"invisible\"></span></a></p>",
+      "published": "Wed, 18 Nov 2026 01:01:45 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-18T01:36:04.258578Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43615",
+      "first_seen": "2026-11-18T01:06:02.962628Z",
+      "no_media_confirmations": 4,
+      "failure_reason": null,
+      "fingerprint": "fp:Thank you, BIG John. You are great!!! President DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
+      "truth_social_id": "117634741427255539",
+      "source_fingerprint": "fp:Thank you, BIG John. You are great!!! President DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
+      "media_identity": "attachment:117634741427255539:",
+      "translation": "ありがとう、ビッグ・ジョン。君は素晴らしい!!!　大統領 DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2keb375x2bh",
+      "expected_embed": "none",
+      "expected_images": 0,
+      "root_rkey": "3n2keb375x2bh",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "ありがとう、ビッグ・ジョン。君は素晴らしい!!!　大統領 DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
+        "createdAt": "2026-11-18T01:30:54.276252Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 83,
+              "byteEnd": 125
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA",
+            "title": "John Daly Opens Up About Playing Golf With President Trump",
+            "description": "John Daly shares his experience playing golf with President Donald Trump and discusses his views on Trump's character, family, and political opponents.Full e...",
+            "thumb": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifa6etz2yj6q4gjygo3y6vgdfw5pxow2wp6tretlh3k2ljj46nu74"
+              },
+              "mimeType": "image/jpeg",
+              "size": 52331
+            }
+          }
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2keb375x2bh",
+          "rkey": "3n2keb375x2bh"
+        }
+      ]
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -37818,175 +37868,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
-    },
-    "truth:117634741427255539": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/43615",
-      "source_text": "<p>Thank you, BIG John. You are great!!! President DJT<br /><a href=\"https://www.youtube.com/shorts/CTlVRPAtdXA\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span>youtube.com/shorts/CTlVRPAtdXA</span><span class=\"invisible\"></span></a></p>",
-      "published": "Wed, 18 Nov 2026 01:01:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-18T01:31:01.397086Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43615",
-      "first_seen": "2026-11-18T01:06:02.962628Z",
-      "no_media_confirmations": 3,
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:Thank you, BIG John. You are great!!! President DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
-      "truth_social_id": "117634741427255539",
-      "source_fingerprint": "fp:Thank you, BIG John. You are great!!! President DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
-      "media_identity": "attachment:117634741427255539:",
-      "translation": "ありがとう、ビッグ・ジョン。君は素晴らしい!!!　大統領 DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2keb375x2bh",
-          "cid": "bafyreidztuji5thwd6c4dqkbhdsacde7qgea2doaqycsozd7c5crkngzfa"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2keb375x2bh",
-          "cid": "bafyreidztuji5thwd6c4dqkbhdsacde7qgea2doaqycsozd7c5crkngzfa"
-        },
-        "next_index": 1,
-        "last_rkey": "3n2keb375x2bh",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ありがとう、ビッグ・ジョン。君は素晴らしい!!!　大統領 DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
-          "createdAt": "2026-11-18T01:30:54.276252Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 83,
-                "byteEnd": 125
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA",
-              "title": "John Daly Opens Up About Playing Golf With President Trump",
-              "description": "John Daly shares his experience playing golf with President Donald Trump and discusses his views on Trump's character, family, and political opponents.Full e...",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifa6etz2yj6q4gjygo3y6vgdfw5pxow2wp6tretlh3k2ljj46nu74"
-                },
-                "mimeType": "image/jpeg",
-                "size": 52331
-              }
-            }
-          }
-        },
-        "root_rkey": "3n2keb375x2bh",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "ありがとう、ビッグ・ジョン。君は素晴らしい!!!　大統領 DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
-          "createdAt": "2026-11-18T01:30:54.276252Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 83,
-                "byteEnd": 125
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.external",
-            "external": {
-              "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA",
-              "title": "John Daly Opens Up About Playing Golf With President Trump",
-              "description": "John Daly shares his experience playing golf with President Donald Trump and discusses his views on Trump's character, family, and political opponents.Full e...",
-              "thumb": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifa6etz2yj6q4gjygo3y6vgdfw5pxow2wp6tretlh3k2ljj46nu74"
-                },
-                "mimeType": "image/jpeg",
-                "size": 52331
-              }
-            }
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2keb375x2bh",
-            "rkey": "3n2keb375x2bh"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2keb375x2bh",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3n2keb375x2bh",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "ありがとう、ビッグ・ジョン。君は素晴らしい!!!　大統領 DJT\nhttps://www.youtube.com/shorts/CTlVRPAtdXA",
-        "createdAt": "2026-11-18T01:30:54.276252Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 83,
-              "byteEnd": 125
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://www.youtube.com/shorts/CTlVRPAtdXA",
-            "title": "John Daly Opens Up About Playing Golf With President Trump",
-            "description": "John Daly shares his experience playing golf with President Donald Trump and discusses his views on Trump's character, family, and political opponents.Full e...",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreifa6etz2yj6q4gjygo3y6vgdfw5pxow2wp6tretlh3k2ljj46nu74"
-              },
-              "mimeType": "image/jpeg",
-              "size": 52331
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2keb375x2bh",
-          "rkey": "3n2keb375x2bh"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-11-18T01:36:01.397101Z"
     }
   }
 }
