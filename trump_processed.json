@@ -38105,6 +38105,22 @@
       "truth_social_id": "117644783615139589",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-19T22:31:09.902522Z"
+    },
+    "truth:117645160100928884": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43633",
+      "source_text": "<p>I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR &amp; LEGEND, whose record of 4,256 Hits in a Season will never be broken. In addition, Pete played 3,562 career games (Highest Ever!), had 1,314 Runs batted in, 160 Home Runs, a .303 Batting Average, was a 17x All-Star, 3x World Series Champion, NL MVP, World Series MVP, NL Rookie of the Year, 2x Recipient of the Gold Glove Award, Silver Slugger Award, Roberto Clemente Award, 3x NL batting champion and, just like the Great Roger Clemens, who won 354 games, was treated terribly by Major League Baseball in not allowing him to go into the Baseball Hall of Fame. Politics, I guess! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Thu, 19 Nov 2026 21:11:22 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-19T21:16:24.278343Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43633",
+      "first_seen": "2026-11-19T21:16:24.278303Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR & LEGEND, whose record of 4,256 Hits in a Season",
+      "next_retry_at": "2026-11-19T21:21:24.278351Z",
+      "truth_social_id": "117645160100928884"
     }
   }
 }
