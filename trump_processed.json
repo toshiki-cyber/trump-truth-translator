@@ -38105,6 +38105,52 @@
       "truth_social_id": "117644783615139589",
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-19T22:31:09.902522Z"
+    },
+    "truth:117645411680534943": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43634",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/371/284/360/969/original/76ec7628f4ba5d65.mp4\">View video</a></p>",
+      "published": "Thu, 19 Nov 2026 22:15:21 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-19T22:21:11.565978Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43634",
+      "source_fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/371/284/360/969/original/76ec7628f4ba5d65.mp4",
+      "media_identity": "attachment:117645411680534943:76ec7628f4ba5d65.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/371/284/360/969/original/76ec7628f4ba5d65.mp4",
+      "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/371/284/360/969/original/76ec7628f4ba5d65.mp4",
+      "truth_social_id": "117645411680534943",
+      "next_retry_at": "2026-11-19T22:26:11.565999Z"
+    },
+    "truth:117645420344120290": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43635",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117645411680534943</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19001/0983b7e52df0908c-658a3fdbe21e.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43634\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/371/284/360/969/original/76ec7628f4ba5d65.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 19 Nov 2026 22:17:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-19T22:21:10.009892Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43635"
+    },
+    "truth:117645423615781506": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43637",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/371/956/358/804/original/5209c35203179730.mp4\">View video</a></p>",
+      "published": "Thu, 19 Nov 2026 22:18:23 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-19T22:21:10.009712Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43637"
+    },
+    "truth:117645424343773351": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43636",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117645423615781506</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/424/180/032/198/original/8978aaaa787dd036.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43637\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/645/371/956/358/804/original/5209c35203179730.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 19 Nov 2026 22:18:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-19T22:21:10.009518Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43636"
     }
   }
 }
