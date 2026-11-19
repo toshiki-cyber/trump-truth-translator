@@ -37992,6 +37992,32 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18960/7e0b78e3940a100f-59d86fbb930b.mp4",
       "truth_social_id": "117618181388403813",
       "next_retry_at": "2026-11-15T03:16:00.182468Z"
+    },
+    "truth:117644162493926914": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43629",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/643/922/112/820/681/original/c16c502edf0c0c68.mp4\">View video</a></p>",
+      "published": "Thu, 19 Nov 2026 16:57:39 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-19T17:01:08.371592Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43629",
+      "source_fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/643/922/112/820/681/original/c16c502edf0c0c68.mp4",
+      "media_identity": "attachment:117644162493926914:c16c502edf0c0c68.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/643/922/112/820/681/original/c16c502edf0c0c68.mp4",
+      "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/643/922/112/820/681/original/c16c502edf0c0c68.mp4",
+      "truth_social_id": "117644162493926914",
+      "next_retry_at": "2026-11-19T17:06:08.371604Z"
+    },
+    "truth:117644166883657566": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43628",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117644162493926914</span></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/644/166/406/457/331/original/4c8dff7aa6eea16c.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43629\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/643/922/112/820/681/original/c16c502edf0c0c68.mp4\">View video</a></p></blockquote>",
+      "published": "Thu, 19 Nov 2026 16:58:46 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-19T17:01:07.208536Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43628"
     }
   }
 }
