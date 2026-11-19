@@ -37939,14 +37939,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43625",
       "source_text": "<p>Man driving wrong way during fatal North Haven crash was in country illegally: DHS: <a href=\"https://www.wtnh.com/news/connecticut/new-haven/man-driving-wrong-way-during-fatal-north-haven-crash-was-in-country-illegally-dhs/\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">wtnh.com/news/connecticut/new-</span><span class=\"invisible\">haven/man-driving-wrong-way-during-fatal-north-haven-crash-was-in-country-illegally-dhs/</span></a></p>",
       "published": "Thu, 19 Nov 2026 13:31:24 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-19T14:11:07.156587Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-19T14:21:13.793239Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43625",
       "first_seen": "2026-11-19T14:11:07.156547Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:Man driving wrong way during fatal North Haven crash was in country illegally: DHS: \nhttps://www.wtnh.com/news/connecticut/new-haven/man-driving-wrong",
-      "next_retry_at": "2026-11-19T14:16:07.156595Z",
+      "next_retry_at": "2026-11-19T14:31:13.793255Z",
       "truth_social_id": "117643351461768522"
     },
     "truth:117643385705539849": {
@@ -37955,14 +37955,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43626",
       "source_text": "<p>There has been no greater President that stands with American Farmers and Ranchers than President Donald J.<br />Trump!</p><p>As l've stated before, I was the last President to get a Farm Bill done in 2018. IT IS TIME TO DO IT AGAIN, and FAST. Our Great Farmers and Ranchers NEED and DESERVE certainty ahead of the 2027 planting season because FOOD SECURITY IS NATIONAL SECURITY!</p><p>Congressional Republican Majorities, YOU MUST PASS A NEW FARM BILL DURING THE REMAINING DAYS OF CONGRESS. FARMERS AND RANCHERS ARE NOT INTERESTED IN FURTHER DELAYS. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Thu, 19 Nov 2026 13:40:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-19T14:11:07.447667Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-19T14:21:14.096943Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43626",
       "first_seen": "2026-11-19T14:11:07.447629Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:There has been no greater President that stands with American Farmers and Ranchers than President Donald J.\nTrump!\nAs l've stated before, I was the la",
-      "next_retry_at": "2026-11-19T14:16:07.447675Z",
+      "next_retry_at": "2026-11-19T14:31:14.096959Z",
       "truth_social_id": "117643385705539849"
     }
   }
