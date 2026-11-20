@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41520",
-    "fp:What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLI",
-    "truth:117215125018114096",
     "https://trumpstruth.org/statuses/41519",
     "fp:The Greatest RALLY of them all! I’ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night two!!! See you i",
     "truth:117215997527902981",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43643",
     "fp:How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump’s Administration: \nhttps://www.breitbart.com/politics/2026/11/11/how-pete-he",
     "truth:117646011072437950",
-    "https://www.trumpstruth.org/statuses/43644"
+    "https://www.trumpstruth.org/statuses/43644",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg",
+    "truth:117646261644090852",
+    "https://www.trumpstruth.org/statuses/43645"
   ],
   "posts": {
-    "truth:117532258376805068": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42920",
-      "source_text": "<p>Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next Governor of Iowa, Roger Marshall Re-Elected to the U.S. Senate, and Ty Masterson elected to be the next Governor of Kansas! President DONALD J. TRUMP</p>",
-      "published": "Fri, 30 Oct 2026 22:38:58 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-10-31T02:01:26.766050Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42927",
-      "first_seen": "2026-10-30T23:06:19.904062Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next ",
-      "truth_social_id": "117532258376805068",
-      "source_fingerprint": "fp:Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next ",
-      "media_identity": "attachment:117532258376805068:",
-      "translation": "日曜日にアイオワ州とカンザス州でお会いするのを楽しみにしている！アシュレイ・ヒンソンを米上院議員に、ザック・ラーンをアイオワ州次期知事に、ロジャー・マーシャルを米上院議員に再選させ、タイ・マスターソンをカンザス州次期知事に選出させるぞ！ドナルド・J・トランプ大統領"
-    },
     "truth:117532330443249295": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15760,6 +15742,22 @@
       "source_fingerprint": "fp:How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump’s Administration: \nhttps://www.breitbart.com/politics/2026/11/11/how-pete-he",
       "media_identity": "attachment:117646011072437950:",
       "translation": "ピート・ヘグセスとスティーブン・ミラーがトランプ政権の主要課題でいかに連携しているか：\nhttps://www.breitbart.com/politics/2026/11/11/how-pete-hegseth-and-stephen-miller-have-partnered-on-key-issues-in-trumps-administration/"
+    },
+    "truth:117646261644090852": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43645",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg\">View image</a></p>",
+      "published": "Fri, 20 Nov 2026 01:51:30 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-20T02:01:10.719954Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43645",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg",
+      "media_identity": "attachment:117646261644090852:c87f9270cf1aeac9.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg",
+      "truth_social_id": "117646261644090852",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38281,23 +38279,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117646261644090852": {
-      "post_status": "RETRY",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/43645",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg\">View image</a></p>",
-      "published": "Fri, 20 Nov 2026 01:51:30 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-20T01:56:04.562730Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43645",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg",
-      "media_identity": "attachment:117646261644090852:c87f9270cf1aeac9.jpg",
-      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/646/261/230/169/418/small/c87f9270cf1aeac9.jpg",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19007/c87f9270cf1aeac9-8b025442a7b9.jpg",
-      "truth_social_id": "117646261644090852",
-      "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-11-20T02:01:04.562750Z"
     }
   }
 }
