@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117225609291955929",
-    "https://www.trumpstruth.org/statuses/41558",
-    "truth:117225609870150611",
     "https://www.trumpstruth.org/statuses/41557",
     "truth:117225610383063248",
     "https://www.trumpstruth.org/statuses/41556",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43672",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19033/7704b999567d353b-21a86049a58d.jpg",
     "truth:117656425124721382",
-    "https://www.trumpstruth.org/statuses/43673"
+    "https://www.trumpstruth.org/statuses/43673",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19031/106373b474677bdb-dd7f3d5d5f84.jpg",
+    "truth:117656426709314097",
+    "https://www.trumpstruth.org/statuses/43671"
   ],
   "posts": {
-    "truth:117532187647678901": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42974",
-      "source_text": "<p>Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!<br /> <br />A U.S. Naval Academy Graduate and retired Navy Commander, Scott knows the Wisdom and Courage that is required to Defend our Country, Support our incredible Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Scott is working hard to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Protect our always under siege Second Amendment.<br /> <br />Scott Franklin has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR SCOTT — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:20:59 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T07:21:20.234423Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42974",
-      "first_seen": "2026-10-31T06:51:11.997999Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
-      "truth_social_id": "117532187647678901",
-      "source_fingerprint": "fp:Scott Franklin is a fantastic Representative for the Great People of Florida’s 18th Congressional District!\n \nA U.S. Naval Academy Graduate and retire",
-      "media_identity": "attachment:117532187647678901:",
-      "translation": "スコット・フランクリンはフロリダ州第18下院地区の素晴らしい下院議員である！\n\n米国海軍士官学校の卒業生で退役海軍司令官のスコットは、わが国を防衛し、我々の素晴らしい軍人・退役軍人を支援し、「強さを通じた平和」を確保するために必要な英知と勇気を持っている。下院でスコットは、国境を厳重に守り、移民犯罪を阻止し、法と秩序を確保し、経済を成長させ、税金と規制を削減し、米国製品を推進し、米国のエネルギー支配力を解き放ち、常に脅威にさらされている憲法修正第2条を保護するために懸命に働いている。\n\nスコット・フランクリンは再選に向けて私の完全かつ絶対的な支持を得ている！投票に行ってスコットに投票しよう――彼は絶対に君たちを裏切らない！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/florida/"
-    },
     "truth:117532188644183689": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16212,6 +16194,22 @@
           "rkey": "3n2tyfojmhce2"
         }
       ]
+    },
+    "truth:117656426709314097": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43671",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19031/106373b474677bdb-dd7f3d5d5f84.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:56:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T23:21:15.758677Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43671",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19031/106373b474677bdb-dd7f3d5d5f84.jpg",
+      "media_identity": "attachment:117656426709314097:106373b474677bdb.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19031/106373b474677bdb-dd7f3d5d5f84.jpg",
+      "truth_social_id": "117656426709314097",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19031/106373b474677bdb-dd7f3d5d5f84.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38733,16 +38731,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656426709314097": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43671",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19031/106373b474677bdb-dd7f3d5d5f84.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:56:37 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:01:13.142799Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43671"
     },
     "truth:117656427563362319": {
       "post_status": "DISCOVERED",
