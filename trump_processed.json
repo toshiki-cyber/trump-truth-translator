@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117221246252501141",
-    "https://trumpstruth.org/statuses/41530",
-    "fp:Canada’s (currency) Dollar imbalance with the U.S. is unacceptable. It has been that way for years - but no longer! President DJT",
     "truth:117224257173061934",
     "https://trumpstruth.org/statuses/41532",
     "fp:https://truthsocial.com/@Imaluckyangel/117213089504225513The\n Dumocrats CHEAT. Why won’t they approve Voter I.D.? Proof of Citizenship?",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43656",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg",
     "truth:117656263017481361",
-    "https://www.trumpstruth.org/statuses/43652"
+    "https://www.trumpstruth.org/statuses/43652",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19010/6e525f54a84a656d-41baeadb639d.jpg",
+    "truth:117656275120393279",
+    "https://www.trumpstruth.org/statuses/43650"
   ],
   "posts": {
-    "truth:117532333895500203": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42952",
-      "source_text": "<p>Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!<br /> <br />As former Chairman of the House Rules Committee and the National Republican Congressional Committee, Pete has served in Congress during a career “loaded up” with accolades and WINS, always fighting tirelessly for our America First Agenda. He is working hard to Support our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Pete Sessions has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR PETE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:58:10 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T03:46:19.058485Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42952",
-      "first_seen": "2026-10-31T03:26:16.672026Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!\n \nAs former Chairman of the House Rules Committee and the N",
-      "truth_social_id": "117532333895500203",
-      "source_fingerprint": "fp:Congressman Pete Sessions is a Tremendous Champion for Texas’ 17th Congressional District!\n \nAs former Chairman of the House Rules Committee and the N",
-      "media_identity": "attachment:117532333895500203:",
-      "translation": "ピート・セッションズ下院議員はテキサス州第17選挙区の素晴らしいチャンピオンだ！\n\n下院本会議委員会と全国共和党議会委員会の前議長を務めたピートは、栄誉と勝利に満ちたキャリアを通じて議会で奉職してきた。常にアメリカ・ファースト・アジェンダのために不屈の努力で戦ってきた。彼は素晴らしい農民と牧場主をサポートし、税金と規制を削減し、アメリカン・エネルギーの優位性をチャンピオンし、メイド・イン・ザ・ユーエスエーを推進し、今や非常に安全になった国境を安全に保ち、軍・退役軍人を強化し、常に脅威にさらされている修正第2条を守るために懸命に働いている。\n\nピート・セッションズは再選に向けた私の完全かつ全面的な支持を得ている。投票に行ってピートに投票しろ——彼はお前たちを失望させることは決してない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532334509827147": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -15964,6 +15946,22 @@
           "rkey": "3n2tw3xkkjcia"
         }
       ]
+    },
+    "truth:117656275120393279": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43650",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19010/6e525f54a84a656d-41baeadb639d.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:18:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:21:14.686533Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43650",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19010/6e525f54a84a656d-41baeadb639d.jpg",
+      "media_identity": "attachment:117656275120393279:6e525f54a84a656d.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19010/6e525f54a84a656d-41baeadb639d.jpg",
+      "truth_social_id": "117656275120393279",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19010/6e525f54a84a656d-41baeadb639d.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38664,16 +38662,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-11-21T21:21:23.507972Z"
-    },
-    "truth:117656275120393279": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43650",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/274/908/205/545/original/6e525f54a84a656d.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:18:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T20:21:11.084552Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43650"
     },
     "truth:117656277039546822": {
       "post_status": "DISCOVERED",
