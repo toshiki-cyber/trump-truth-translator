@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117225583998045245",
-    "https://www.trumpstruth.org/statuses/41553",
-    "truth:117225585294047619",
     "https://www.trumpstruth.org/statuses/41552",
     "truth:117225587361150130",
     "https://www.trumpstruth.org/statuses/41551",
@@ -5000,65 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43668",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg",
     "truth:117656423495679817",
-    "https://www.trumpstruth.org/statuses/43674"
+    "https://www.trumpstruth.org/statuses/43674",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19032/f657a51a14eb16ee-626b2ea3514c.jpg",
+    "truth:117656425790223281",
+    "https://www.trumpstruth.org/statuses/43672"
   ],
   "posts": {
-    "truth:117532341552582089": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42938",
-      "source_text": "<p>Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas’ 1st Congressional District!<br /> <br />Nathaniel has an incredible Record of Success, and strong support from his Community. In Congress, he is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Support our Amazing Farmers and Ranchers, Ensure American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Champion our Brave Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Nathaniel Moran has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR NATHANIEL — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 23:00:07 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-10-31T07:01:27.793814Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42938",
-      "first_seen": "2026-10-31T02:11:16.588668Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas’ 1st Congressional District!\n \nNathaniel has an incredible",
-      "truth_social_id": "117532341552582089",
-      "source_fingerprint": "fp:Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas’ 1st Congressional District!\n \nNathaniel has an incredible",
-      "media_identity": "attachment:117532341552582089:",
-      "translation": "テキサス州第1選挙区の偉大な人々を代表するナサニエル・モーラン下院議員は素晴らしい仕事をしている！\n\nナサニエルは驚異的な成功の実績を持ち、地域社会から強い支持を受けている。議会ではナサニエルは、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、素晴らしい農民と牧畜業者を支援し、アメリカンエネルギーの優位性を確保し、今や非常に安全になった我々の国境を守り続け、移民犯罪を止め、勇敢な軍人と退役軍人を支持し、常に脅威にさらされている修正第2条を守るために、精力的に働いている。\n\nナサニエル・モーランは再選に向けて私の完全かつ全面的な支持を得ている。ナサニエルに投票しに行こう――彼はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/",
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
-      "expected_embed": "none",
-      "expected_images": 0,
-      "root_rkey": "3mz4v2yvov26n",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "テキサス州第1選挙区の偉大な人々を代表するナサニエル・モーラン下院議員は素晴らしい仕事をしている！\n\nナサニエルは驚異的な成功の実績を持ち、地域社会から強い支持を受けている。議会ではナサニエルは、経済を成長させ、税金と規制を削減し、アメリカ製を推進し、素晴らしい農民と牧畜業者を支援し、アメリカンエネルギーの優位性を確保し、今や非常に安全になった我々の国境を守り続け、移民犯罪を止め、勇敢な軍人と退役軍人を支持し、常に脅威にさらされている修正第2条を守るために、精力的に働いている。\n\nナサニエル・モーランは再選に向けて私の完全かつ全面的な支持を得ている。",
-        "createdAt": "2026-10-31T07:01:19.980633Z",
-        "langs": [
-          "ja"
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.external",
-          "external": {
-            "uri": "https://swampthevoteusa.com/texas/",
-            "title": "Texas",
-            "description": "Texas Secretary of State, Elections Division Address 400 W. 15th Street Austin, TX 78701 Phone 512-463-5650 Email elections@sos.texas.gov Republican Party of Texas Address 807 Brazos St.",
-            "thumb": {
-              "$type": "blob",
-              "ref": {
-                "$link": "bafkreidgkkymurssu4a7bfv4uufnxwf4gwuh4quputcrdgt343xf2zflgy"
-              },
-              "mimeType": "image/jpeg",
-              "size": 7220
-            }
-          }
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov26n",
-          "rkey": "3mz4v2yvov26n"
-        },
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3mz4v2yvov34h",
-          "rkey": "3mz4v2yvov34h"
-        }
-      ]
-    },
     "truth:117532185224695462": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16200,6 +16144,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg",
       "truth_social_id": "117656423495679817",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg"
+    },
+    "truth:117656425790223281": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43672",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19032/f657a51a14eb16ee-626b2ea3514c.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:56:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T23:11:16.256057Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43672",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19032/f657a51a14eb16ee-626b2ea3514c.jpg",
+      "media_identity": "attachment:117656425790223281:f657a51a14eb16ee.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19032/f657a51a14eb16ee-626b2ea3514c.jpg",
+      "truth_social_id": "117656425790223281",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19032/f657a51a14eb16ee-626b2ea3514c.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38900,16 +38860,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-11-21T23:11:23.008260Z"
-    },
-    "truth:117656425790223281": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43672",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/425/423/680/341/original/f657a51a14eb16ee.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:56:22 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:01:13.142960Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43672"
     },
     "truth:117656426709314097": {
       "post_status": "DISCOVERED",
