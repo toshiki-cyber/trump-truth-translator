@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41542",
-    "truth:117225385560464439",
-    "https://www.trumpstruth.org/statuses/41541",
     "fp:Dwight Eisenhower didn’t need a Helipad at the White House for those little Choppers, but America needs one now — Just completed, and MAGNIFICENT! Pre",
     "truth:117225387590126937",
     "https://www.trumpstruth.org/statuses/41540",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43657",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19018/12c965e4e7924150-2f429c2bcdf3.jpg",
     "truth:117656295131182320",
-    "https://www.trumpstruth.org/statuses/43658"
+    "https://www.trumpstruth.org/statuses/43658",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg",
+    "truth:117656298974532240",
+    "https://www.trumpstruth.org/statuses/43661"
   ],
   "posts": {
-    "truth:117532338919815953": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42943",
-      "source_text": "<p>Congressman Jake Ellzey is an America First Patriot who is doing an incredible job representing Texas’ 6th Congressional District!<br /> <br />A former Navy fighter pilot and Combat Veteran, Jake knows the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, he is working hard to Keep our now very Secure Border, SECURE, Stop Migrant Crime, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Grow our Economy, and Protect our always under siege Second Amendment.<br /> <br />Jake Ellzey has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR JAKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:59:27 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T05:06:22.381488Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42943",
-      "first_seen": "2026-10-31T03:26:21.362159Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Jake Ellzey is an America First Patriot who is doing an incredible job representing Texas’ 6th Congressional District!\n \nA former Navy fig",
-      "truth_social_id": "117532338919815953",
-      "source_fingerprint": "fp:Congressman Jake Ellzey is an America First Patriot who is doing an incredible job representing Texas’ 6th Congressional District!\n \nA former Navy fig",
-      "media_identity": "attachment:117532338919815953:",
-      "translation": "下院議員ジェイク・エルゼイはアメリカ・ファースト愛国者であり、テキサス州第6下院議区を素晴らしい仕事ぶりで代表している！\n\n元海軍戦闘機パイロットで戦闘退役軍人のジェイクは、わが国を守り、勇敢な軍人・退役軍人を支援し、強さによる平和を確保するために必要な英知と勇気を知っている。下院では、今や極めて安全になった国境をセキュアに保ち、移民犯罪を阻止し、減税と規制緩和を行い、米国のエネルギー優位性を解放し、メイド・イン・ザ・USA製品を推進し、わが経済を成長させ、常に攻撃にさらされている修正第2条を守るために懸命に働いている。\n\nジェイク・エルゼイは、再選に向けて私の完全かつ全面的な支持を持つ。投票所に行ってジェイクに投票しろ――彼は決してお前たちを失望させないだろう！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532339428251827": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16218,6 +16200,22 @@
           "rkey": "3n2twkkunrc6d"
         }
       ]
+    },
+    "truth:117656298974532240": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43661",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:24:07 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T22:21:17.848745Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43661",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg",
+      "media_identity": "attachment:117656298974532240:8744f1c2fc6cc5ca.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg",
+      "truth_social_id": "117656298974532240",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38739,16 +38737,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656298974532240": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43661",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/298/753/648/948/original/8744f1c2fc6cc5ca.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:24:07 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T20:31:11.772878Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43661"
     },
     "truth:117656324288082630": {
       "post_status": "DISCOVERED",
