@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117225679106637688",
-    "https://trumpstruth.org/statuses/41564",
-    "truth:117225680040508864",
     "https://trumpstruth.org/statuses/41563",
     "fp:I do this for our Country, not myself. I’ve made Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the U.S.A., not myself, ",
     "truth:117225700476536773",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43675",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg",
     "truth:117656439023369533",
-    "https://www.trumpstruth.org/statuses/43677"
+    "https://www.trumpstruth.org/statuses/43677",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19036/fd3502b9e0511071-4dcd5e114b9f.jpg",
+    "truth:117656439718935659",
+    "https://www.trumpstruth.org/statuses/43676"
   ],
   "posts": {
-    "truth:117532221823813086": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42965",
-      "source_text": "<p>State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District!<br /> <br />Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.<br /> <br />“MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR “MAGA” MEG — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:29:40 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T08:16:19.488799Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42965",
-      "first_seen": "2026-10-31T06:51:14.533855Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
-      "truth_social_id": "117532221823813086",
-      "source_fingerprint": "fp:State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District",
-      "media_identity": "attachment:117532221823813086:",
-      "translation": "州下院議員「MAGA」メグ・ワインバーガーは、フロリダ州第94地区を素晴らしく代表するアメリカ・ファースト愛国者だ！\n\nメグはMAGAそのもので、最初から俺たちと共にあり、アメリカ・ファースト・アジェンダの推進を助けてきた。州議会では、経済成長、減税と規制撤廃、米国エネルギー支配の推進、米国製品の奨励、国境の確保、移民犯罪の阻止、軍と退役軍人の強化、選挙の安全保障、絶えず脅威にさらされている修正第2条の防衛に向けて不屈の努力を続けている。\n\n「MAGA」メグ・ワインバーガーは再選に関して俺の完全かつ全面的な支持を得ている！投票に行って「MAGA」メグに投票しろ――彼女はお前たちを決して失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
-    },
     "truth:117532223566112053": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16256,6 +16238,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg",
       "truth_social_id": "117656439023369533",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg"
+    },
+    "truth:117656439718935659": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43676",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19036/fd3502b9e0511071-4dcd5e114b9f.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:59:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T23:51:16.056117Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43676",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19036/fd3502b9e0511071-4dcd5e114b9f.jpg",
+      "media_identity": "attachment:117656439718935659:fd3502b9e0511071.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19036/fd3502b9e0511071-4dcd5e114b9f.jpg",
+      "truth_social_id": "117656439718935659",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19036/fd3502b9e0511071-4dcd5e114b9f.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38777,16 +38775,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656439718935659": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43676",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/439/469/091/602/original/fd3502b9e0511071.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:59:55 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:01:13.141938Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43676"
     },
     "truth:117656441691558626": {
       "post_status": "DISCOVERED",
