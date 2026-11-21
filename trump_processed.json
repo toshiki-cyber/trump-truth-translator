@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41534",
-    "truth:117225348204994362",
-    "https://www.trumpstruth.org/statuses/41539",
     "truth:117225349092174399",
     "https://www.trumpstruth.org/statuses/41538",
     "truth:117225350305412391",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43649",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
     "truth:117656277610749926",
-    "https://www.trumpstruth.org/statuses/43648"
+    "https://www.trumpstruth.org/statuses/43648",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19019/6fe467de33b927de-fa2cd252e9ed.jpg",
+    "truth:117656294383228330",
+    "https://www.trumpstruth.org/statuses/43659"
   ],
   "posts": {
-    "truth:117532336220391714": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42948",
-      "source_text": "<p>Congressman Craig Goldman is an incredible Representative of Texas’ 12th Congressional District!<br /> <br />A Fifth Generation Texan, Craig served as a State Representative for 12 years prior to becoming a distinguished and Highly Respected Congressman. In Congress, he is fighting tirelessly to Champion our Great Farmers and American Agriculture, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Craig Goldman has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR CRAIG — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:58:46 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T04:26:18.663171Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42948",
-      "first_seen": "2026-10-31T03:26:18.942802Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Craig Goldman is an incredible Representative of Texas’ 12th Congressional District!\n \nA Fifth Generation Texan, Craig served as a State R",
-      "truth_social_id": "117532336220391714",
-      "source_fingerprint": "fp:Congressman Craig Goldman is an incredible Representative of Texas’ 12th Congressional District!\n \nA Fifth Generation Texan, Craig served as a State R",
-      "media_identity": "attachment:117532336220391714:",
-      "translation": "クレイグ・ゴールドマン下院議員はテキサス州第12選挙区の素晴らしい代表である！\n\n5代目のテキサス人であるクレイグは、著名で高く尊敬される下院議員になる前に、州下院議員として12年間奉職した。連邦議会では、彼は我が素晴らしい農民とアメリカ農業を支援し、税金と規制を削減し、アメリカのエネルギー優位を進め、米国製品を推進し、現在非常に安全になった国境を安全に保ち、移民犯罪を阻止し、軍隊と退役軍人を強化し、常に脅威にさらされている我々の第2修正条項を守るために、たゆまず戦っている。\n\nクレイグ・ゴールドマンは再選に向けて、私の完全かつ全面的な支持を得ている。投票に行ってクレイグに投票しろ—彼は決してお前たちを失望させない！大統領ドナルド・J・トランプ\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532336752703536": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16118,6 +16100,22 @@
           "rkey": "3n2twclw3kcfg"
         }
       ]
+    },
+    "truth:117656294383228330": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43659",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19019/6fe467de33b927de-fa2cd252e9ed.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:22:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:56:18.830950Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43659",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19019/6fe467de33b927de-fa2cd252e9ed.jpg",
+      "media_identity": "attachment:117656294383228330:6fe467de33b927de.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19019/6fe467de33b927de-fa2cd252e9ed.jpg",
+      "truth_social_id": "117656294383228330",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19019/6fe467de33b927de-fa2cd252e9ed.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38818,16 +38816,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-11-21T21:56:31.448521Z"
-    },
-    "truth:117656294383228330": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43659",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/294/177/497/263/original/6fe467de33b927de.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:22:57 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T20:26:13.753114Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43659"
     },
     "truth:117656295131182320": {
       "post_status": "DISCOVERED",
