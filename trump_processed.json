@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "fp:Dwight Eisenhower didn’t need a Helipad at the White House for those little Choppers, but America needs one now — Just completed, and MAGNIFICENT! Pre",
-    "truth:117225387590126937",
-    "https://www.trumpstruth.org/statuses/41540",
     "truth:117225554731043531",
     "https://www.trumpstruth.org/statuses/41550",
     "truth:117225556457424691",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43658",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg",
     "truth:117656298974532240",
-    "https://www.trumpstruth.org/statuses/43661"
+    "https://www.trumpstruth.org/statuses/43661",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19022/2b48bb133f4defa5-db9355c7eb65.jpg",
+    "truth:117656324288082630",
+    "https://www.trumpstruth.org/statuses/43662"
   ],
   "posts": {
-    "truth:117532339428251827": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42942",
-      "source_text": "<p>Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas’ 5th Congressional District!<br /> <br />A MAGA Warrior, who has been with us from the very beginning, Lance is working hard to Grow our Economy, Cut Taxes and Regulations, Advance American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Support our Military/Veterans, and Protect our always under siege Second Amendment.<br /> <br />Lance Gooden has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR LANCE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:59:35 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T05:16:18.393565Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42942",
-      "first_seen": "2026-10-31T03:26:21.884290Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas’ 5th Congressional District!\n \nA MAGA Warrior, w",
-      "truth_social_id": "117532339428251827",
-      "source_fingerprint": "fp:Congressman Lance Gooden is an America First Patriot, who is doing a fantastic job representing Texas’ 5th Congressional District!\n \nA MAGA Warrior, w",
-      "media_identity": "attachment:117532339428251827:",
-      "translation": "テキサス州第5選挙区の下院議員ランス・グーデンは「アメリカ第一」の愛国者であり、テキサス州第5選挙区の代表として素晴らしい仕事をしている！\n\n最初からわれわれと一緒にいたMAGA戦士であるランスは、経済成長、減税・規制撤廃、アメリカエネルギーの優位確保、「メイド・イン・USA」の推進、現在非常に安全になった国境の防衛継続、軍・退役軍人への支援、そして常に脅威にさらされている修正第2条の保護に懸命に取り組んでいる。\n\nランス・グーデンは再選に向けて、私からの完全かつ総合的な支持を得ている。ランスに投票するために立ち上がれ——彼はお前たちを決して失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532327819364688": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16216,6 +16198,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg",
       "truth_social_id": "117656298974532240",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19021/8744f1c2fc6cc5ca-efcd56ac9fe8.jpg"
+    },
+    "truth:117656324288082630": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43662",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19022/2b48bb133f4defa5-db9355c7eb65.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:30:34 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T22:26:19.344814Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43662",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19022/2b48bb133f4defa5-db9355c7eb65.jpg",
+      "media_identity": "attachment:117656324288082630:2b48bb133f4defa5.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19022/2b48bb133f4defa5-db9355c7eb65.jpg",
+      "truth_social_id": "117656324288082630",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19022/2b48bb133f4defa5-db9355c7eb65.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38737,16 +38735,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656324288082630": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43662",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/324/059/288/919/original/2b48bb133f4defa5.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:30:34 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T20:36:13.202010Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43662"
     },
     "truth:117656327930980615": {
       "post_status": "DISCOVERED",
