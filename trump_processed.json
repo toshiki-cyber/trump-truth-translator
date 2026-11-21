@@ -38581,14 +38581,183 @@
       "next_retry_at": "2026-11-21T21:01:21.903787Z"
     },
     "truth:117656263017481361": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
+      "post_status": "POST_VERIFY_PENDING",
+      "media_state": "READY",
       "status_url": "https://www.trumpstruth.org/statuses/43652",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/262/737/321/420/original/db9a9dc3c857c5b6.jpg\">View image</a></p>",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg\">View image</a></p>",
       "published": "Sat, 21 Nov 2026 20:14:59 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T20:21:11.084730Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43652"
+      "retry_count": 1,
+      "updated_at": "2026-11-21T21:01:22.424199Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43652",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg",
+      "media_identity": "attachment:117656263017481361:db9a9dc3c857c5b6.jpg",
+      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg",
+      "truth_social_id": "117656263017481361",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg",
+      "thread_checkpoint": {
+        "root_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tw3xkkjcia",
+          "cid": "bafyreih56jhispfqa2yfpafiyf5b6rbnl4xb3zsng5j6m5jayedlbhcjlq"
+        },
+        "parent_ref": {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tw3xkkjcia",
+          "cid": "bafyreih56jhispfqa2yfpafiyf5b6rbnl4xb3zsng5j6m5jayedlbhcjlq"
+        },
+        "next_index": 1,
+        "last_rkey": "3n2tw3xkkjcia",
+        "last_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg",
+          "createdAt": "2026-11-21T21:01:15.669632Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 100
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidj26qvd3sd5jz6iz7cf7ruibtk22vvqck6cam5plqvvmakvcogue"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 219978
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1260,
+                  "height": 815
+                }
+              }
+            ]
+          }
+        },
+        "root_rkey": "3n2tw3xkkjcia",
+        "root_record": {
+          "$type": "app.bsky.feed.post",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg",
+          "createdAt": "2026-11-21T21:01:15.669632Z",
+          "langs": [
+            "ja"
+          ],
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteStart": 0,
+                "byteEnd": 100
+              },
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg"
+                }
+              ]
+            }
+          ],
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidj26qvd3sd5jz6iz7cf7ruibtk22vvqck6cam5plqvvmakvcogue"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 219978
+                },
+                "alt": "",
+                "aspectRatio": {
+                  "width": 1260,
+                  "height": 815
+                }
+              }
+            ]
+          }
+        },
+        "created_records": [
+          {
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tw3xkkjcia",
+            "rkey": "3n2tw3xkkjcia"
+          }
+        ]
+      },
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tw3xkkjcia",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3n2tw3xkkjcia",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg",
+        "createdAt": "2026-11-21T21:01:15.669632Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19012/db9a9dc3c857c5b6-d3013ccb3e62.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreidj26qvd3sd5jz6iz7cf7ruibtk22vvqck6cam5plqvvmakvcogue"
+                },
+                "mimeType": "image/jpeg",
+                "size": 219978
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1260,
+                "height": 815
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tw3xkkjcia",
+          "rkey": "3n2tw3xkkjcia"
+        }
+      ],
+      "failure_stage": "VERIFY",
+      "next_retry_at": "2026-11-21T21:06:22.424212Z"
     },
     "truth:117656274545828016": {
       "post_status": "DISCOVERED",
@@ -38749,6 +38918,96 @@
       "retry_count": 0,
       "updated_at": "2026-11-21T20:56:13.299674Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43668"
+    },
+    "truth:117656423495679817": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43674",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/423/255/591/383/original/a3429613b9defae8.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:55:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.143285Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43674"
+    },
+    "truth:117656425124721382": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43673",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/424/899/589/096/original/7704b999567d353b.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:56:12 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.143123Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43673"
+    },
+    "truth:117656425790223281": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43672",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/425/423/680/341/original/f657a51a14eb16ee.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:56:22 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.142960Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43672"
+    },
+    "truth:117656426709314097": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43671",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19031/106373b474677bdb-dd7f3d5d5f84.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:56:37 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.142799Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43671"
+    },
+    "truth:117656427563362319": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43670",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19030/fc84069ff8f1ecc2-4dbac33f3ad4.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:56:50 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.142626Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43670"
+    },
+    "truth:117656431490208325": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43669",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19029/187f825e0cd95018-308ae45f5fd6.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:57:49 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.142452Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43669"
+    },
+    "truth:117656435708743057": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43675",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/434/611/485/976/original/23cdde1d12a3388f.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:58:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.142288Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43675"
+    },
+    "truth:117656439023369533": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43677",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/438/750/354/863/original/7e471b8591833813.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:59:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.142121Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43677"
+    },
+    "truth:117656439718935659": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43676",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/439/469/091/602/original/fd3502b9e0511071.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:59:55 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T21:01:13.141938Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43676"
     }
   }
 }
