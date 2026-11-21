@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://www.trumpstruth.org/statuses/41555",
-    "truth:117225579642973884",
-    "https://www.trumpstruth.org/statuses/41554",
     "truth:117225583998045245",
     "https://www.trumpstruth.org/statuses/41553",
     "truth:117225585294047619",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43666",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19028/1ecc19747680aca1-43f4a60c043e.jpg",
     "truth:117656408396549336",
-    "https://www.trumpstruth.org/statuses/43668"
+    "https://www.trumpstruth.org/statuses/43668",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg",
+    "truth:117656423495679817",
+    "https://www.trumpstruth.org/statuses/43674"
   ],
   "posts": {
-    "truth:117532341064552755": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42939",
-      "source_text": "<p>It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas’ 2nd Congressional District!<br /> <br />A Highly Respected State Legislator, and Very Successful Small Business Owner, Steve has been an incredible Voice for MAGA, and has been with me from the very beginning! As your next Congressman, he will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion School Choice, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Steve Toth has my Complete and Total Endorsement to be the next Representative from Texas’ 2nd Congressional District. GET OUT AND VOTE FOR STEVE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 23:00:00 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T06:51:21.760197Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42939",
-      "first_seen": "2026-10-31T02:11:16.258515Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas’ 2nd Congressional District!\n \nA ",
-      "truth_social_id": "117532341064552755",
-      "source_fingerprint": "fp:It is my Great Honor to endorse MAGA Warrior, Steve Toth, who is running to represent the Tremendous People of Texas’ 2nd Congressional District!\n \nA ",
-      "media_identity": "attachment:117532341064552755:",
-      "translation": "テキサス州第2下院地区の素晴らしい人々を代表して立候補するMAGA戦士スティーブ・トスを推薦することは、私の大きな栄誉である！\n\n高く尊敬される州議員であり、非常に成功した小ビジネスオーナーであるスティーブは、MAGAのために信じられないほどの声となってきたし、最初からずっと私と共にいた！次期下院議員として、彼は経済を成長させ、税金と規制を削減し、学校選択制を支持し、アメリカのエネルギー支配を解き放ち、我々の国境を安全に保ち、移民犯罪を阻止し、軍と退役軍人を支援し、選挙の完全性を進め、常に攻撃を受けている第2修正条項を保護するために、絶え間なく戦うであろう。\n\nスティーブ・トスは、テキサス州第2下院地区の次期代表となるための、私の完全で全面的な推薦を得ている。外に出てスティーブに投票しろ——彼はお前たちを失望させることは決してない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532341552582089": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16202,6 +16184,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19028/1ecc19747680aca1-43f4a60c043e.jpg",
       "truth_social_id": "117656408396549336",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19028/1ecc19747680aca1-43f4a60c043e.jpg"
+    },
+    "truth:117656423495679817": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43674",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:55:47 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T23:01:25.394883Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43674",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg",
+      "media_identity": "attachment:117656423495679817:a3429613b9defae8.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg",
+      "truth_social_id": "117656423495679817",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19034/a3429613b9defae8-a7e98222749d.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38723,16 +38721,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656423495679817": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43674",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/423/255/591/383/original/a3429613b9defae8.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:55:47 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:01:13.143285Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43674"
     },
     "truth:117656425124721382": {
       "post_status": "DISCOVERED",
