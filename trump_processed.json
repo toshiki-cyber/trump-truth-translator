@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117224901332470028",
-    "https://trumpstruth.org/statuses/41533",
-    "truth:117225346749407203",
     "https://www.trumpstruth.org/statuses/41534",
     "truth:117225348204994362",
     "https://www.trumpstruth.org/statuses/41539",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43651",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19009/c52178a884b54dba-a1d3306215c0.jpg",
     "truth:117656277039546822",
-    "https://www.trumpstruth.org/statuses/43649"
+    "https://www.trumpstruth.org/statuses/43649",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
+    "truth:117656277610749926",
+    "https://www.trumpstruth.org/statuses/43648"
   ],
   "posts": {
-    "truth:117532335589938007": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42949",
-      "source_text": "<p>Congressman “Doc” Ronny Jackson is doing a wonderful job representing Texas’ 13th Congressional District! He is a good friend, 100% MAGA, and one of the most talented Medical Doctors and Politicians in our Country.<br /> <br />A respected Admiral, Congressman, and Doctor, “Doc” Ronny Jackson knows the Wisdom and Courage that is necessary to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. During my First Term, “Doc” Ronny served as one of my Senior Advisors and, as my personal Physician, prior to becoming a distinguished Congressman. In Congress, he is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Advance Election Integrity, and Protect our always under siege Second Amendment.<br /> <br />Ronny Jackson is a fighter and WINNER, and has my Complete and Total Endorsement for Re-Election. HE IS ONE OF MY ALL TIME FAVORITES! GET OUT AND VOTE FOR RONNY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:58:36 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T04:16:24.113841Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42949",
-      "first_seen": "2026-10-31T03:26:18.406615Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman “Doc” Ronny Jackson is doing a wonderful job representing Texas’ 13th Congressional District! He is a good friend, 100% MAGA, and one of t",
-      "truth_social_id": "117532335589938007",
-      "source_fingerprint": "fp:Congressman “Doc” Ronny Jackson is doing a wonderful job representing Texas’ 13th Congressional District! He is a good friend, 100% MAGA, and one of t",
-      "media_identity": "attachment:117532335589938007:",
-      "translation": "テキサス州第13選挙区選出下院議員「ドック」ロニー・ジャクソンは素晴らしい仕事をしている！彼は良い友人であり、100%MAGAであり、わが国で最も才能のある医者兼政治家の一人だ。\n\n尊敬される提督であり下院議員であり医者である「ドック」ロニー・ジャクソンは、わが国を防衛し、勇敢な軍人と退役軍人を支援し、強さによる平和を確保するために必要な知恵と勇気を持っている。私の第一期政権中、「ドック」ロニーは私の上級顧問の一人として、また個人医として務めた後、その後著名な下院議員となった。議会では、経済成長、減税と規制緩和、米国製の推進、米国のエネルギー支配の擁護、国境の安全保障、選挙の完全性の推進、そして常に脅威にさらされているわれわれの修正第2条を守るために、不断の努力で戦っている。\n\nロニー・ジャクソンは戦士であり勝者であり、再選に向けた私の完全かつ全面的な支持を持っている。彼は私の史上最高のお気に入りの一人だ！ロニーに投票するために投票所へ行こう――彼は決してお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532336220391714": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16064,6 +16046,76 @@
         {
           "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twcdm3tcp6",
           "rkey": "3n2twcdm3tcp6"
+        }
+      ]
+    },
+    "truth:117656277610749926": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43648",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:18:41 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-21T21:46:20.998950Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43648",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
+      "media_identity": "attachment:117656277610749926:d8f822d590c3916c.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
+      "truth_social_id": "117656277610749926",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twclw3kcfg",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3n2twclw3kcfg",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
+        "createdAt": "2026-11-21T21:36:17.657825Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreifivmprlolemhsl5ct2v6pwapejm4atqssvbxss6m5txthofpjz64"
+                },
+                "mimeType": "image/jpeg",
+                "size": 187962
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1260,
+                "height": 815
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twclw3kcfg",
+          "rkey": "3n2twclw3kcfg"
         }
       ]
     },
@@ -38587,185 +38639,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656277610749926": {
-      "post_status": "POST_VERIFY_PENDING",
-      "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/43648",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:18:41 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-21T21:36:24.812814Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43648",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
-      "media_identity": "attachment:117656277610749926:d8f822d590c3916c.jpg",
-      "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
-      "truth_social_id": "117656277610749926",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
-      "thread_checkpoint": {
-        "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twclw3kcfg",
-          "cid": "bafyreid6ugdtltiatojhnqpp7zlbixv7wblqpbguw5zkury3umowkukaka"
-        },
-        "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twclw3kcfg",
-          "cid": "bafyreid6ugdtltiatojhnqpp7zlbixv7wblqpbguw5zkury3umowkukaka"
-        },
-        "next_index": 1,
-        "last_rkey": "3n2twclw3kcfg",
-        "last_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
-          "createdAt": "2026-11-21T21:36:17.657825Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreifivmprlolemhsl5ct2v6pwapejm4atqssvbxss6m5txthofpjz64"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 187962
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1260,
-                  "height": 815
-                }
-              }
-            ]
-          }
-        },
-        "root_rkey": "3n2twclw3kcfg",
-        "root_record": {
-          "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
-          "createdAt": "2026-11-21T21:36:17.657825Z",
-          "langs": [
-            "ja"
-          ],
-          "facets": [
-            {
-              "$type": "app.bsky.richtext.facet",
-              "index": {
-                "$type": "app.bsky.richtext.facet#byteSlice",
-                "byteStart": 0,
-                "byteEnd": 100
-              },
-              "features": [
-                {
-                  "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg"
-                }
-              ]
-            }
-          ],
-          "embed": {
-            "$type": "app.bsky.embed.images",
-            "images": [
-              {
-                "image": {
-                  "$type": "blob",
-                  "ref": {
-                    "$link": "bafkreifivmprlolemhsl5ct2v6pwapejm4atqssvbxss6m5txthofpjz64"
-                  },
-                  "mimeType": "image/jpeg",
-                  "size": 187962
-                },
-                "alt": "",
-                "aspectRatio": {
-                  "width": 1260,
-                  "height": 815
-                }
-              }
-            ]
-          }
-        },
-        "created_records": [
-          {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twclw3kcfg",
-            "rkey": "3n2twclw3kcfg"
-          }
-        ]
-      },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twclw3kcfg",
-      "expected_embed": "images",
-      "expected_images": 1,
-      "root_rkey": "3n2twclw3kcfg",
-      "root_record": {
-        "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg",
-        "createdAt": "2026-11-21T21:36:17.657825Z",
-        "langs": [
-          "ja"
-        ],
-        "facets": [
-          {
-            "$type": "app.bsky.richtext.facet",
-            "index": {
-              "$type": "app.bsky.richtext.facet#byteSlice",
-              "byteStart": 0,
-              "byteEnd": 100
-            },
-            "features": [
-              {
-                "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19008/d8f822d590c3916c-24e15695332b.jpg"
-              }
-            ]
-          }
-        ],
-        "embed": {
-          "$type": "app.bsky.embed.images",
-          "images": [
-            {
-              "image": {
-                "$type": "blob",
-                "ref": {
-                  "$link": "bafkreifivmprlolemhsl5ct2v6pwapejm4atqssvbxss6m5txthofpjz64"
-                },
-                "mimeType": "image/jpeg",
-                "size": 187962
-              },
-              "alt": "",
-              "aspectRatio": {
-                "width": 1260,
-                "height": 815
-              }
-            }
-          ]
-        }
-      },
-      "created_records": [
-        {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2twclw3kcfg",
-          "rkey": "3n2twclw3kcfg"
-        }
-      ],
-      "failure_stage": "VERIFY",
-      "next_retry_at": "2026-11-21T21:41:24.812837Z"
     },
     "truth:117656293687680123": {
       "post_status": "DISCOVERED",
