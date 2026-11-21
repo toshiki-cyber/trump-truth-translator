@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41561",
-    "truth:117225654386878731",
-    "https://trumpstruth.org/statuses/41562",
     "truth:117225679106637688",
     "https://trumpstruth.org/statuses/41564",
     "truth:117225680040508864",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43670",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19035/23cdde1d12a3388f-5880afe6379b.jpg",
     "truth:117656435708743057",
-    "https://www.trumpstruth.org/statuses/43675"
+    "https://www.trumpstruth.org/statuses/43675",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg",
+    "truth:117656439023369533",
+    "https://www.trumpstruth.org/statuses/43677"
   ],
   "posts": {
-    "truth:117532220565005347": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42966",
-      "source_text": "<p>Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!<br /> <br />A Fourth Generation Floridian from the beautiful Panhandle, and owner of an iconic seafood restaurant, Jimmy served as the Chief Financial Officer for the Great State of Florida for seven years, prior to becoming a very distinguished Congressman. In the U.S. House of Representatives, Jimmy is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment.<br /> <br />Jimmy Patronis has my Complete and Total Endorsement for Re-Election! GET OUT AND VOTE FOR JIMMY — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/florida/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/florida/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:29:21 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T08:06:24.604343Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42966",
-      "first_seen": "2026-10-31T06:51:14.079551Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
-      "truth_social_id": "117532220565005347",
-      "source_fingerprint": "fp:Congressman Jimmy Patronis is a MAGA Warrior who is doing a fantastic job representing Florida’s 1st Congressional District!\n \nA Fourth Generation Flo",
-      "media_identity": "attachment:117532220565005347:",
-      "translation": "下院議員ジミー・パトロニスはMAGA戦士であり、フロリダ州第1下院地区を素晴らしく代表している！\n\n美しいパンハンドル地域出身の4代目フロリダ州民であり、象徴的なシーフードレストランのオーナーであるジミーは、著名な下院議員となる前に、フロリダ州の素晴らしい州のために7年間最高財務責任者を務めた。米国下院議会では、ジミーは我々の経済成長、減税と規制緩和、米国製品の推進、米国のエネルギー支配の解放、国境を確保、移民犯罪の阻止、素晴らしい軍隊・退役軍人の強化、そして常に脅威にさらされている修正第2条の防衛のために絶え間なく戦っている。\n\nジミー・パトロニスは再選について私の完全かつ全面的な支持を得ている！外に出てジミーに投票しろ――彼は決してお前たちを失望させない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/florida/"
-    },
     "truth:117532221823813086": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16258,6 +16240,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19035/23cdde1d12a3388f-5880afe6379b.jpg",
       "truth_social_id": "117656435708743057",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19035/23cdde1d12a3388f-5880afe6379b.jpg"
+    },
+    "truth:117656439023369533": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43677",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 20:59:44 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-21T23:46:17.294780Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43677",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg",
+      "media_identity": "attachment:117656439023369533:7e471b8591833813.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg",
+      "truth_social_id": "117656439023369533",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19037/7e471b8591833813-bf6de64d6365.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38779,16 +38777,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656439023369533": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43677",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/438/750/354/863/original/7e471b8591833813.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 20:59:44 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:01:13.142121Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43677"
     },
     "truth:117656439718935659": {
       "post_status": "DISCOVERED",
