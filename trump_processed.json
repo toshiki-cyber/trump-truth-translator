@@ -39119,6 +39119,22 @@
       "fingerprint": "fp:Isn’t it interesting that Oil prices have dropped precipitously after the Midterm Elections? I said that was going to happen. The whole thing is a Gia",
       "next_retry_at": "2026-11-22T21:55:48.647026Z",
       "truth_social_id": "117662295722625733"
+    },
+    "truth:117662311303966632": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43708",
+      "source_text": "<p>It’s incredible that Somalians have been able to completely take over the once great State of Minnesota. They own it, “lock, stock, and barrel” and, almost 95% are on some form of welfare. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP</p>",
+      "published": "Sun, 22 Nov 2026 21:53:08 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-22T21:55:43.458850Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43708",
+      "first_seen": "2026-11-22T21:55:43.458807Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:It’s incredible that Somalians have been able to completely take over the once great State of Minnesota. They own it, “lock, stock, and barrel” and, a",
+      "next_retry_at": "2026-11-22T22:00:43.458861Z",
+      "truth_social_id": "117662311303966632"
     }
   }
 }
