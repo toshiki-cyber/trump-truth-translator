@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41566",
-    "fp:The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. ",
-    "truth:117225804601307350",
     "https://trumpstruth.org/statuses/41568",
     "truth:117226238502825839",
     "https://trumpstruth.org/statuses/41570",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43678",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg",
     "truth:117656474254035172",
-    "https://www.trumpstruth.org/statuses/43681"
+    "https://www.trumpstruth.org/statuses/43681",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
+    "truth:117656475138147739",
+    "https://www.trumpstruth.org/statuses/43680"
   ],
   "posts": {
-    "truth:117532342092327819": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42937",
-      "source_text": "<p>Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024, the most in History (BY FAR)!<br /> <br />Dawn is a Ninth Generation Texan, successful Surgeon, avid Hunter, former State Senator, and now, as Land Commissioner, has served the Lone Star State during a career “loaded up” with accolades and wins. A true America First Patriot, who has been with us from the very beginning, Dawn is an incredibly effective steward of Texas’ 13 Million Acres of Precious, Energy Rich, State Land — She is a Strong Supporter of Texas Oil &amp; Gas! Dawn is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Champion our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, and Protect our always under siege Second Amendment.<br /> <br />Land Commissioner Dawn Buckingham, M.D., has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR DAWN — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 23:00:16 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T09:01:26.235778Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42937",
-      "first_seen": "2026-10-31T02:11:17.010707Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million V",
-      "truth_social_id": "117532342092327819",
-      "source_fingerprint": "fp:Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million V",
-      "media_identity": "attachment:117532342092327819:",
-      "translation": "ドーン・バッキンガム博士はテキサス州の強力で非常に人気の高い土地委員であり、私はテキサスを愛している。そして私は3度BIG WINを勝ち取っており、2024年には664万票で過去最高（圧倒的に）の勝利を収めた！\n\nドーンは9代続くテキサス人であり、成功した外科医、熱心なハンター、前州上院議員であり、現在土地委員として、「成功と栄誉に満ちた」キャリアを通じてロンスター州に貢献してきた。最初から私たちと共にいた真のアメリカ第一主義の愛国者であるドーンは、テキサスの1300万エーカーの貴重でエネルギー豊富な州有地の非常に効果的な管理者である。彼女はテキサスの石油とガスの強力な支持者だ！ドーンは経済を成長させ、税金と規制を削減し、アメリカンエネルギーの支配力を解放し、米国製を推進し、素晴らしい農民と牧場主を支援し、国境を厳重に守り、移民犯罪、殺人犯、その他の犯罪者が違法に入国するのを阻止し、常に脅威にさらされている修正第2条を保護するために絶え間なく戦っている。\n\n土地委員ドーン・バッキンガム博士（医学博士）は、再選に向けて私の完全で全面的な支持を得ている。ドーンに投票しに行け――彼女はお前たちを決して失望させないだろう！ドナルド・J・トランプ大統領\n\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532342635483426": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16302,6 +16284,76 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg",
       "truth_social_id": "117656474254035172",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg"
+    },
+    "truth:117656475138147739": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43680",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 21:08:55 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-22T00:16:23.013455Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43680",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
+      "media_identity": "attachment:117656475138147739:a1778c55a7e0be32.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
+      "truth_social_id": "117656475138147739",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4gcxak2e",
+      "expected_embed": "images",
+      "expected_images": 1,
+      "root_rkey": "3n2tz4gcxak2e",
+      "root_record": {
+        "$type": "app.bsky.feed.post",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
+        "createdAt": "2026-11-22T00:16:15.930727Z",
+        "langs": [
+          "ja"
+        ],
+        "facets": [
+          {
+            "$type": "app.bsky.richtext.facet",
+            "index": {
+              "$type": "app.bsky.richtext.facet#byteSlice",
+              "byteStart": 0,
+              "byteEnd": 100
+            },
+            "features": [
+              {
+                "$type": "app.bsky.richtext.facet#link",
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg"
+              }
+            ]
+          }
+        ],
+        "embed": {
+          "$type": "app.bsky.embed.images",
+          "images": [
+            {
+              "image": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreifq7kkcrgy4xt4p6u5khm24enecwi5ltfezdbzhgdwkf4la65omvy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 236350
+              },
+              "alt": "",
+              "aspectRatio": {
+                "width": 1260,
+                "height": 815
+              }
+            }
+          ]
+        }
+      },
+      "created_records": [
+        {
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4gcxak2e",
+          "rkey": "3n2tz4gcxak2e"
+        }
+      ]
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38824,36 +38876,36 @@
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
     },
-    "truth:117656475138147739": {
+    "truth:117656475953478869": {
       "post_status": "POST_VERIFY_PENDING",
       "media_state": "READY",
-      "status_url": "https://www.trumpstruth.org/statuses/43680",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 21:08:55 +0000",
+      "status_url": "https://www.trumpstruth.org/statuses/43679",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 21:09:08 +0000",
       "retry_count": 1,
-      "updated_at": "2026-11-22T00:16:23.013455Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43680",
-      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
-      "media_identity": "attachment:117656475138147739:a1778c55a7e0be32.jpg",
+      "updated_at": "2026-11-22T00:21:32.770014Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43679",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg",
+      "media_identity": "attachment:117656475953478869:279bd50e497b9103.jpg",
       "failure_reason": "投稿後embed確認待ち: 公開APIに投稿が未反映",
-      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
-      "truth_social_id": "117656475138147739",
-      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg",
+      "truth_social_id": "117656475953478869",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg",
       "thread_checkpoint": {
         "root_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4gcxak2e",
-          "cid": "bafyreicbl7wuqotrrynv5jy6owefc6pfpmsny3ypkftyd3dcnuc25yzgim"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4s6mnsut",
+          "cid": "bafyreibqhwtxiwakhpdpspfuhtklqwhjxixolb4iyde5t3rdl7ck6eagmi"
         },
         "parent_ref": {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4gcxak2e",
-          "cid": "bafyreicbl7wuqotrrynv5jy6owefc6pfpmsny3ypkftyd3dcnuc25yzgim"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4s6mnsut",
+          "cid": "bafyreibqhwtxiwakhpdpspfuhtklqwhjxixolb4iyde5t3rdl7ck6eagmi"
         },
         "next_index": 1,
-        "last_rkey": "3n2tz4gcxak2e",
+        "last_rkey": "3n2tz4s6mnsut",
         "last_record": {
           "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
-          "createdAt": "2026-11-22T00:16:15.930727Z",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg",
+          "createdAt": "2026-11-22T00:21:25.871973Z",
           "langs": [
             "ja"
           ],
@@ -38868,7 +38920,7 @@
               "features": [
                 {
                   "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg"
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg"
                 }
               ]
             }
@@ -38880,25 +38932,25 @@
                 "image": {
                   "$type": "blob",
                   "ref": {
-                    "$link": "bafkreifq7kkcrgy4xt4p6u5khm24enecwi5ltfezdbzhgdwkf4la65omvy"
+                    "$link": "bafkreig5ffvstr36gsp22tnyjlzkvxxf5bkwy4udbticiglie25db4gmy4"
                   },
                   "mimeType": "image/jpeg",
-                  "size": 236350
+                  "size": 324078
                 },
                 "alt": "",
                 "aspectRatio": {
-                  "width": 1260,
-                  "height": 815
+                  "width": 815,
+                  "height": 1260
                 }
               }
             ]
           }
         },
-        "root_rkey": "3n2tz4gcxak2e",
+        "root_rkey": "3n2tz4s6mnsut",
         "root_record": {
           "$type": "app.bsky.feed.post",
-          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
-          "createdAt": "2026-11-22T00:16:15.930727Z",
+          "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg",
+          "createdAt": "2026-11-22T00:21:25.871973Z",
           "langs": [
             "ja"
           ],
@@ -38913,7 +38965,7 @@
               "features": [
                 {
                   "$type": "app.bsky.richtext.facet#link",
-                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg"
+                  "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg"
                 }
               ]
             }
@@ -38925,15 +38977,15 @@
                 "image": {
                   "$type": "blob",
                   "ref": {
-                    "$link": "bafkreifq7kkcrgy4xt4p6u5khm24enecwi5ltfezdbzhgdwkf4la65omvy"
+                    "$link": "bafkreig5ffvstr36gsp22tnyjlzkvxxf5bkwy4udbticiglie25db4gmy4"
                   },
                   "mimeType": "image/jpeg",
-                  "size": 236350
+                  "size": 324078
                 },
                 "alt": "",
                 "aspectRatio": {
-                  "width": 1260,
-                  "height": 815
+                  "width": 815,
+                  "height": 1260
                 }
               }
             ]
@@ -38941,19 +38993,19 @@
         },
         "created_records": [
           {
-            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4gcxak2e",
-            "rkey": "3n2tz4gcxak2e"
+            "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4s6mnsut",
+            "rkey": "3n2tz4s6mnsut"
           }
         ]
       },
-      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4gcxak2e",
+      "root_uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4s6mnsut",
       "expected_embed": "images",
       "expected_images": 1,
-      "root_rkey": "3n2tz4gcxak2e",
+      "root_rkey": "3n2tz4s6mnsut",
       "root_record": {
         "$type": "app.bsky.feed.post",
-        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg",
-        "createdAt": "2026-11-22T00:16:15.930727Z",
+        "text": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg",
+        "createdAt": "2026-11-22T00:21:25.871973Z",
         "langs": [
           "ja"
         ],
@@ -38968,7 +39020,7 @@
             "features": [
               {
                 "$type": "app.bsky.richtext.facet#link",
-                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19040/a1778c55a7e0be32-90ea39ba53a5.jpg"
+                "uri": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19039/279bd50e497b9103-72bfcf474bd1.jpg"
               }
             ]
           }
@@ -38980,15 +39032,15 @@
               "image": {
                 "$type": "blob",
                 "ref": {
-                  "$link": "bafkreifq7kkcrgy4xt4p6u5khm24enecwi5ltfezdbzhgdwkf4la65omvy"
+                  "$link": "bafkreig5ffvstr36gsp22tnyjlzkvxxf5bkwy4udbticiglie25db4gmy4"
                 },
                 "mimeType": "image/jpeg",
-                "size": 236350
+                "size": 324078
               },
               "alt": "",
               "aspectRatio": {
-                "width": 1260,
-                "height": 815
+                "width": 815,
+                "height": 1260
               }
             }
           ]
@@ -38996,22 +39048,12 @@
       },
       "created_records": [
         {
-          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4gcxak2e",
-          "rkey": "3n2tz4gcxak2e"
+          "uri": "at://did:plc:pei54lmz7zh5mz2tvsua7pqz/app.bsky.feed.post/3n2tz4s6mnsut",
+          "rkey": "3n2tz4s6mnsut"
         }
       ],
       "failure_stage": "VERIFY",
-      "next_retry_at": "2026-11-22T00:21:23.013501Z"
-    },
-    "truth:117656475953478869": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43679",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/475/667/880/704/original/279bd50e497b9103.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 21:09:08 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:11:13.784355Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43679"
+      "next_retry_at": "2026-11-22T00:26:32.770032Z"
     },
     "truth:117656480707360822": {
       "post_status": "DISCOVERED",
