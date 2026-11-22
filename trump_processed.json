@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "https://trumpstruth.org/statuses/41582",
-    "fp:Trump ambassador vows NATO-like reforms to UN after terror scandal: ‘Clean this place up’: \nhttps://justthenews.com/government/federal-agencies/clean-",
-    "truth:117227006754823934",
     "https://trumpstruth.org/statuses/41581",
     "fp:Thank you to Congressman Jim Jordan. He is a truly GREAT guy, and a former All-American wrestler, one of the best, ever, in both high school and colle",
     "truth:117227044833224999",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43694",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19051/b8a565d06a3fd773-538f18547233.mp4",
     "truth:117660724070925141",
-    "https://www.trumpstruth.org/statuses/43693"
+    "https://www.trumpstruth.org/statuses/43693",
+    "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117660724070925141https://truth-archive.us-iad-1.linodeobjects.com/attachments/19050/202728",
+    "truth:117660725477492021",
+    "https://www.trumpstruth.org/statuses/43692"
   ],
   "posts": {
-    "truth:117536838459792366": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42987",
-      "source_text": "<p>PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzie (PA-07), Congressman Rob Bresnahan (PA-08), Congressman Scott Perry (PA-10), and Congressman Lloyd Smucker (PA-11) — All have my Complete and Total Endorsement, and will never let you down. They LOVE the Great People of Pennsylvania, and so do I — Answer your phones, and ENJOY! President DONALD J. TRUMP</p>",
-      "published": "Sat, 31 Oct 2026 18:03:45 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T19:26:17.189985Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42987",
-      "first_seen": "2026-10-31T18:56:14.308302Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzie (PA-07), Congressman Rob Bresnahan (PA-08), Cong",
-      "truth_social_id": "117536838459792366",
-      "source_fingerprint": "fp:PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzie (PA-07), Congressman Rob Bresnahan (PA-08), Cong",
-      "media_identity": "attachment:117536838459792366:",
-      "translation": "ペンシルベニア州よ、私は今、ステイシー・ガリティ州知事候補、ライアン・マッケンジー下院議員（PA-07区）、ロブ・ブレスナハン下院議員（PA-08区）、スコット・ペリー下院議員（PA-10区）、ロイド・スムッカー下院議員（PA-11区）のためのテレラリーを行っている。彼らすべてが私の完全かつ全面的な支持を得ており、決してお前たちを失望させることはない。彼らはペンシルベニア州の素晴らしい人々を愛しており、私も同じだ。電話に出て、楽しんでくれ。ドナルド・J・トランプ大統領"
-    },
     "truth:117536875845240708": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16418,6 +16400,22 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19051/b8a565d06a3fd773-538f18547233.mp4",
       "truth_social_id": "117660724070925141",
       "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19051/b8a565d06a3fd773-538f18547233.mp4"
+    },
+    "truth:117660725477492021": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43692",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117660724070925141</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19050/2027280be73dcaf7-ddc62d43d8eb.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43693\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19051/b8a565d06a3fd773-538f18547233.mp4\">View video</a></p></blockquote>",
+      "published": "Sun, 22 Nov 2026 15:09:51 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-22T15:50:43.615520Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43692",
+      "source_fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117660724070925141https://truth-archive.us-iad-1.linodeobjects.com/attachments/19050/202728",
+      "media_identity": "attachment:117660725477492021:2027280be73dcaf7.png",
+      "failure_reason": null,
+      "fingerprint": "fp:RT: https://truthsocial.com/users/realDonaldTrump/statuses/117660724070925141https://truth-archive.us-iad-1.linodeobjects.com/attachments/19050/202728",
+      "truth_social_id": "117660725477492021",
+      "translation": "https://truthsocial.com/users/realDonaldTrump/statuses/117660724070925141https://truth-archive.us-iad-1.linodeobjects.com/attachments/19050/2027280be73dcaf7-ddc62d43d8eb.pngQuoted\nhttps://www.trumpstruth.org/statuses/43693https://truth-archive.us-iad-1.linodeobjects.com/attachments/19051/b8a565d06a3fd773-538f18547233.mp4"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -39019,16 +39017,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19053/480049a57e938165-563d730537a0.mp4",
       "truth_social_id": "117660722020393630",
       "next_retry_at": "2026-11-22T15:40:43.104231Z"
-    },
-    "truth:117660725477492021": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43692",
-      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117660724070925141</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19050/2027280be73dcaf7-ddc62d43d8eb.png\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43693\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/660/723/947/228/186/original/b8a565d06a3fd773.mp4\">View video</a></p></blockquote>",
-      "published": "Sun, 22 Nov 2026 15:09:51 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-22T15:15:47.697337Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43692"
     },
     "truth:117660771450282590": {
       "post_status": "DISCOVERED",
