@@ -39079,6 +39079,49 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-22T16:10:48.646760Z"
+    },
+    "truth:117661238591305263": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43701",
+      "source_text": "<p>The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” on November 3rd. NASDAQ, by itself, is down 20%. This is 100% due to the fact that the Democrats are “BAD” due to their Anti Growth, and Retribution Only, Policies, and worse. If they don't change, FAST, it will only get worse. But fear not, our Country will soon be STRONG AGAIN — Lots of good things happening! President DONALD J. TRUMP</p>",
+      "published": "Sun, 22 Nov 2026 17:20:20 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-22T17:25:42.662973Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43701",
+      "first_seen": "2026-11-22T17:25:42.662951Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” on November 3rd. NASDAQ, by itself, is down 20%. This is 100",
+      "next_retry_at": "2026-11-22T17:30:42.662981Z",
+      "truth_social_id": "117661238591305263"
+    },
+    "truth:117661238960252261": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43700",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19058/59cda4582ec46c83-c3f1f030ece0.jpg\">View image</a></p>",
+      "published": "Sun, 22 Nov 2026 17:20:26 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-22T17:25:43.295166Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43700",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19058/59cda4582ec46c83-c3f1f030ece0.jpg",
+      "media_identity": "attachment:117661238960252261:59cda4582ec46c83.jpeg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/661/238/898/564/271/small/59cda4582ec46c83.jpeg",
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19058/59cda4582ec46c83-c3f1f030ece0.jpg",
+      "truth_social_id": "117661238960252261",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-11-22T17:30:43.295177Z"
+    },
+    "truth:117661248657891612": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43702",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/661/247/898/757/295/original/21d0dbd32bc86b42.mp4\">View video</a></p>",
+      "published": "Sun, 22 Nov 2026 17:22:54 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-22T17:25:42.238142Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43702"
     }
   }
 }
