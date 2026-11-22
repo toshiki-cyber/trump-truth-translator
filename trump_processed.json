@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117226609449813859",
-    "https://trumpstruth.org/statuses/41576",
-    "truth:117226609992235526",
     "https://trumpstruth.org/statuses/41575",
     "truth:117226612804848895",
     "https://trumpstruth.org/statuses/41573",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43679",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19043/a81be9503f254332-b5cecc496dc4.jpg",
     "truth:117656480707360822",
-    "https://www.trumpstruth.org/statuses/43683"
+    "https://www.trumpstruth.org/statuses/43683",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19046/a839119b0ee17a37-bdfab34446d7.jpg",
+    "truth:117656497080448040",
+    "https://www.trumpstruth.org/statuses/43686"
   ],
   "posts": {
-    "truth:117532344274879590": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42933",
-      "source_text": "<p>Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)!<br /> <br />As Governor, Greg is also fighting tirelessly to Champion Texas Values, Grow the Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Advance MADE IN THE U.S.A., Unleash American Energy Dominance, Promote School Choice, Keep our now very Secure Border, SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Ensure LAW AND ORDER, Protect our Brave Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment.<br /> <br />Greg Abbott has my Complete and Total Endorsement for Re-Election. He is an exceptional Governor and man. GET OUT AND VOTE FOR GREG — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 23:00:49 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T09:31:19.312719Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42933",
-      "first_seen": "2026-10-31T02:11:18.085747Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (Th",
-      "truth_social_id": "117532344274879590",
-      "source_fingerprint": "fp:Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (Th",
-      "media_identity": "attachment:117532344274879590:",
-      "translation": "グレッグ・アボット・テキサス州知事は、強力で極めて尊敬される指導者であり、私は彼の州を愛している。そして私はこの州で3度の大勝を収めており、2024年には640万票という歴史上最多の票を獲得した。これは他の追随を許さない圧倒的なものだ！\n\n州知事として、グレッグはテキサスの価値観を推し進め、経済を成長させ、税金と規制を削減し、素晴らしい農民と牧場主を支持し、アメリカ製造業を進め、アメリカのエネルギー支配力を解放し、学校選択制を推進し、今や非常に安全になった我が国の国境を確保し、移民犯罪者、殺人犯、その他の犯罪者の違法な入国を止め、法と秩序を確保し、勇敢な軍人、退役軍人、法執行官を保護し、常に攻撃を受けている我が国の修正第2条を守るために、不疲労にして活動している。\n\nグレッグ・アボットは再選に向けて、私の完全で全面的な支持を受けている。彼は傑出した州知事であり、傑出した人物である。投票に行ってグレッグに投票しろ — 彼は絶対に君たちを失望させることはない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532344875423035": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16458,6 +16440,22 @@
           "rkey": "3n2tz4s6mnsut"
         }
       ]
+    },
+    "truth:117656497080448040": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43686",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19046/a839119b0ee17a37-bdfab34446d7.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 21:14:30 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-22T00:41:14.449224Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43686",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19046/a839119b0ee17a37-bdfab34446d7.jpg",
+      "media_identity": "attachment:117656497080448040:a839119b0ee17a37.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19046/a839119b0ee17a37-bdfab34446d7.jpg",
+      "truth_social_id": "117656497080448040",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19046/a839119b0ee17a37-bdfab34446d7.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -39158,16 +39156,6 @@
       ],
       "failure_stage": "VERIFY",
       "next_retry_at": "2026-11-22T00:41:23.204995Z"
-    },
-    "truth:117656497080448040": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43686",
-      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19046/a839119b0ee17a37-bdfab34446d7.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 21:14:30 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:26:15.545317Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43686"
     },
     "truth:117656497512509892": {
       "post_status": "DISCOVERED",
