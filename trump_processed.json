@@ -1,9 +1,6 @@
 {
   "version": 2,
   "processed": [
-    "truth:117225802682965481",
-    "https://trumpstruth.org/statuses/41569",
-    "truth:117225744046875186",
     "https://trumpstruth.org/statuses/41566",
     "fp:The Mar-a-Lago Club is considered, by everyone, to be the Best in the World. It also serves as our unparalleled Southern White House, free of charge. ",
     "truth:117225804601307350",
@@ -5000,27 +4997,12 @@
     "https://www.trumpstruth.org/statuses/43682",
     "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19038/f007368ae519d51a-39f06c9a8bb4.jpg",
     "truth:117656441691558626",
-    "https://www.trumpstruth.org/statuses/43678"
+    "https://www.trumpstruth.org/statuses/43678",
+    "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg",
+    "truth:117656474254035172",
+    "https://www.trumpstruth.org/statuses/43681"
   ],
   "posts": {
-    "truth:117532326191609947": {
-      "post_status": "POSTED",
-      "media_state": "NO_MEDIA",
-      "status_url": "https://www.trumpstruth.org/statuses/42962",
-      "source_text": "<p>Congressman Brian Babin, D.D.S, is an incredible Representative of Texas’ 36th Congressional District!<br /> <br />As the Highly Respected Chairman of the House Science Committee, Brian is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Strongly Support Law Enforcement and our Military, Deliver Quality Care to our Brave Veterans, and Protect our always under siege Second Amendment.<br /> <br />Brian Babin has my Complete and Total Endorsement for Re-Election. GET OUT AND VOTE FOR BRIAN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP<br /><a href=\"https://swampthevoteusa.com/texas/\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span>swampthevoteusa.com/texas/</span><span class=\"invisible\"></span></a></p>",
-      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-10-31T08:46:20.426396Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/42962",
-      "first_seen": "2026-10-31T06:51:16.167151Z",
-      "no_media_confirmations": 3,
-      "failure_reason": null,
-      "fingerprint": "fp:Congressman Brian Babin, D.D.S, is an incredible Representative of Texas’ 36th Congressional District!\n \nAs the Highly Respected Chairman of the House",
-      "truth_social_id": "117532326191609947",
-      "source_fingerprint": "fp:Congressman Brian Babin, D.D.S, is an incredible Representative of Texas’ 36th Congressional District!\n \nAs the Highly Respected Chairman of the House",
-      "media_identity": "attachment:117532326191609947:",
-      "translation": "テキサス州第36下院地区の下院議員であるブライアン・ベイビン議員（D.D.S）は、テキサスの素晴らしい代表者だ！\n\n下院科学委員会の尊敬される議長として、ブライアンは経済成長、増税と規制廃止、米国エネルギーの支配権獲得、メイド・イン・ザ・USA推進、今や非常に強固となった国境防衛の堅持、法執行機関と軍への強固な支持、勇敢な退役軍人への質の高いケア提供、そして常に攻撃にさらされている第二修正条項の保護のために、全力で闘っている。\n\nブライアン・ベイビンは再選に向けて、私の完全かつ全面的な支持を得ている。投票に行ってブライアンに投票してくれ――彼は絶対にお前たちをがっかりさせない！ドナルド・J・トランプ大統領\nhttps://swampthevoteusa.com/texas/"
-    },
     "truth:117532342092327819": {
       "post_status": "POSTED",
       "media_state": "NO_MEDIA",
@@ -16304,6 +16286,22 @@
           "rkey": "3n2tyn7m5osaq"
         }
       ]
+    },
+    "truth:117656474254035172": {
+      "post_status": "POSTED",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43681",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg\">View image</a></p>",
+      "published": "Sat, 21 Nov 2026 21:08:42 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-22T00:11:17.168500Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43681",
+      "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg",
+      "media_identity": "attachment:117656474254035172:9bcaf0568d4fc678.jpg",
+      "failure_reason": null,
+      "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg",
+      "truth_social_id": "117656474254035172",
+      "translation": "https://truth-archive.us-iad-1.linodeobjects.com/attachments/19041/9bcaf0568d4fc678-ac202e26091c.jpg"
     },
     "truth:117553803718572465": {
       "post_status": "DISCOVERED",
@@ -38825,16 +38823,6 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/19003/5209c35203179730-8ac469471e9e.mp4",
       "truth_social_id": "117645423615781506",
       "next_retry_at": "2026-11-19T22:51:14.351496Z"
-    },
-    "truth:117656474254035172": {
-      "post_status": "DISCOVERED",
-      "media_state": "PENDING",
-      "status_url": "https://www.trumpstruth.org/statuses/43681",
-      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/656/473/993/893/407/original/9bcaf0568d4fc678.jpg\">View image</a></p>",
-      "published": "Sat, 21 Nov 2026 21:08:42 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-21T21:11:13.784718Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43681"
     },
     "truth:117656475138147739": {
       "post_status": "DISCOVERED",
