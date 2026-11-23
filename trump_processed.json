@@ -39163,6 +39163,22 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-23T05:30:45.429188Z"
+    },
+    "truth:117666313179684854": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43715",
+      "source_text": "<p>Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP</p>",
+      "published": "Mon, 23 Nov 2026 14:50:52 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-23T14:55:35.937597Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43715",
+      "first_seen": "2026-11-23T14:55:35.937555Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP",
+      "next_retry_at": "2026-11-23T15:00:35.937605Z",
+      "truth_social_id": "117666313179684854"
     }
   }
 }
