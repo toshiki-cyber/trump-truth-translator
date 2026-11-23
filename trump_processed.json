@@ -39094,14 +39094,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43709",
       "source_text": "<p>I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP</p>",
       "published": "Mon, 23 Nov 2026 02:54:45 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-23T03:00:50.186965Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-23T03:10:43.036101Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43709",
       "first_seen": "2026-11-23T03:00:50.186913Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
-      "next_retry_at": "2026-11-23T03:05:50.186976Z",
+      "next_retry_at": "2026-11-23T03:20:43.036118Z",
       "truth_social_id": "117663497310955803"
     }
   }
