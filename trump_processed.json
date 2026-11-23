@@ -39167,6 +39167,32 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-23T05:30:45.429188Z"
+    },
+    "truth:117665528575591688": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43713",
+      "source_text": "<p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/665/528/324/668/549/original/877dba8d47ea1e6f.mp4\">View video</a></p>",
+      "published": "Mon, 23 Nov 2026 11:31:20 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-23T11:35:33.680912Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43713",
+      "source_fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/665/528/324/668/549/original/877dba8d47ea1e6f.mp4",
+      "media_identity": "attachment:117665528575591688:877dba8d47ea1e6f.mp4",
+      "failure_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/665/528/324/668/549/original/877dba8d47ea1e6f.mp4",
+      "fingerprint": "fp:https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/665/528/324/668/549/original/877dba8d47ea1e6f.mp4",
+      "truth_social_id": "117665528575591688",
+      "next_retry_at": "2026-11-23T11:40:33.680932Z"
+    },
+    "truth:117665529427047942": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43712",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117665528575591688</span></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19065/5289d0df392db1c6-9b69f32fad23.jpg\">View image</a></p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43713\">Donald J. Trump</a></p><blockquote><p></p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/665/528/324/668/549/original/877dba8d47ea1e6f.mp4\">View video</a></p></blockquote>",
+      "published": "Mon, 23 Nov 2026 11:31:33 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-23T11:35:32.790747Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43712"
     }
   }
 }
