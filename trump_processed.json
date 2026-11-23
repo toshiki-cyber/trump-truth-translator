@@ -39163,6 +39163,22 @@
       ],
       "failure_stage": "MEDIA_UPLOAD",
       "next_retry_at": "2026-11-23T05:30:45.429188Z"
+    },
+    "truth:117666141823845971": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43714",
+      "source_text": "<p>The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World! Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
+      "published": "Mon, 23 Nov 2026 14:07:17 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-23T14:10:29.321242Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43714",
+      "first_seen": "2026-11-23T14:10:29.321206Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leade",
+      "next_retry_at": "2026-11-23T14:15:29.321250Z",
+      "truth_social_id": "117666141823845971"
     }
   }
 }
