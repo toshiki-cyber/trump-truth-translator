@@ -39388,18 +39388,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43730",
       "source_text": "<p>Great job by the Army, and others, in Iowa!!! President DJT</p>",
       "published": "Wed, 25 Nov 2026 20:03:33 +0000",
-      "retry_count": 3,
-      "updated_at": "2026-11-25T20:56:26.154976Z",
+      "retry_count": 4,
+      "updated_at": "2026-11-25T21:21:31.812732Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43730",
       "first_seen": "2026-11-25T20:06:15.714303Z",
-      "no_media_confirmations": 5,
+      "no_media_confirmations": 6,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:Great job by the Army, and others, in Iowa!!! President DJT",
       "truth_social_id": "117678867313533428",
       "source_fingerprint": "fp:Great job by the Army, and others, in Iowa!!! President DJT",
       "media_identity": "attachment:117678867313533428:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-25T21:16:26.154985Z"
+      "next_retry_at": "2026-11-25T22:01:31.812742Z"
     },
     "truth:117678961891442355": {
       "post_status": "RETRY",
