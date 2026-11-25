@@ -38981,8 +38981,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/43632",
       "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/18999/browser-safe.mp4\">View video</a></p>",
       "published": "Thu, 19 Nov 2026 19:35:37 +0000",
-      "retry_count": 29,
-      "updated_at": "2026-11-25T13:56:20.616388Z",
+      "retry_count": 30,
+      "updated_at": "2026-11-25T20:01:20.812179Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43632",
       "source_fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18999/browser-safe.mp4",
       "media_identity": "attachment:117644783615139589:edadf20a556f308a-9bb4901f0293.mov",
@@ -38990,7 +38990,7 @@
       "fingerprint": "fp:https://truth-archive.us-iad-1.linodeobjects.com/attachments/18999/browser-safe.mp4",
       "truth_social_id": "117644783615139589",
       "failure_stage": "MEDIA_UPLOAD",
-      "next_retry_at": "2026-11-25T19:56:20.616410Z"
+      "next_retry_at": "2026-11-26T02:01:20.812199Z"
     },
     "truth:117645411680534943": {
       "post_status": "BLOCKED",
