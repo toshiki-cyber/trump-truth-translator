@@ -39344,14 +39344,14 @@
       "status_url": "https://www.trumpstruth.org/statuses/43727",
       "source_text": "<p><a href=\"https://vimeo.com/1249782646/7e27022b54\" rel=\"nofollow\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">vimeo.com/1249782646/7e27022b5</span><span class=\"invisible\">4</span></a></p>",
       "published": "Wed, 25 Nov 2026 01:02:33 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-25T01:06:11.049280Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-25T01:11:12.770803Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43727",
       "first_seen": "2026-11-25T01:06:11.049249Z",
-      "no_media_confirmations": 1,
+      "no_media_confirmations": 2,
       "failure_reason": "メディアなしの確認猶予中",
       "fingerprint": "fp:https://vimeo.com/1249782646/7e27022b54",
-      "next_retry_at": "2026-11-25T01:11:11.049289Z",
+      "next_retry_at": "2026-11-25T01:21:12.770823Z",
       "truth_social_id": "117674380753944672"
     }
   }
