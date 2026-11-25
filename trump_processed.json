@@ -39407,18 +39407,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43731",
       "source_text": "<p>Rob Sands, the new future Governor of Iowa, is obviously unhappy that the Obama created (2009!) mess was so perfectly handled by the U.S. Army through a flawless detonation, that he’s now complaining about the lead up to the event. He hurt and delayed the process. Was absolutely no help. Just another politician. He should rejoice at this great success, not nitpick and issue phony complaints on “transparency.” I will remember! President DJT</p>",
       "published": "Wed, 25 Nov 2026 20:27:36 +0000",
-      "retry_count": 1,
-      "updated_at": "2026-11-25T21:06:36.004338Z",
+      "retry_count": 2,
+      "updated_at": "2026-11-25T21:16:32.124077Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43731",
       "first_seen": "2026-11-25T20:36:10.691674Z",
-      "no_media_confirmations": 3,
+      "no_media_confirmations": 4,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:Rob Sands, the new future Governor of Iowa, is obviously unhappy that the Obama created (2009!) mess was so perfectly handled by the U.S. Army through",
       "truth_social_id": "117678961891442355",
       "source_fingerprint": "fp:Rob Sands, the new future Governor of Iowa, is obviously unhappy that the Obama created (2009!) mess was so perfectly handled by the U.S. Army through",
       "media_identity": "attachment:117678961891442355:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-25T21:11:36.004348Z"
+      "next_retry_at": "2026-11-25T21:26:32.124087Z"
     },
     "truth:117678999238130459": {
       "post_status": "RETRY",
