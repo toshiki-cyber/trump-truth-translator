@@ -39365,19 +39365,22 @@
     },
     "truth:117678202296534723": {
       "post_status": "RETRY",
-      "media_state": "PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/43729",
       "source_text": "<p>Stocks are down sharply because of the November Third Election results. I wasn’t on the Ballot, but if I was, the results, just like all three times before, would have been much different, and the Stock Market, and your 401-k’s, would be BOOMING. I told you so!!! President DJT</p>",
       "published": "Wed, 25 Nov 2026 17:14:26 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-25T17:26:12.300994Z",
+      "retry_count": 1,
+      "updated_at": "2026-11-25T17:36:30.600431Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43729",
       "first_seen": "2026-11-25T17:16:14.223303Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:Stocks are down sharply because of the November Third Election results. I wasn’t on the Ballot, but if I was, the results, just like all three times b",
-      "next_retry_at": "2026-11-25T17:36:12.301013Z",
-      "truth_social_id": "117678202296534723"
+      "truth_social_id": "117678202296534723",
+      "source_fingerprint": "fp:Stocks are down sharply because of the November Third Election results. I wasn’t on the Ballot, but if I was, the results, just like all three times b",
+      "media_identity": "attachment:117678202296534723:",
+      "failure_stage": "TRANSLATION",
+      "next_retry_at": "2026-11-25T17:41:30.600440Z"
     }
   }
 }
