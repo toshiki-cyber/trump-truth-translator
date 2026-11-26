@@ -39462,8 +39462,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/43734",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@markkhalil\" rel=\"nofollow\">@<span>markkhalil</span></a></span>Where does <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> find the strength, energy, mental acuity, and talent?! Oh wait, I know.☝🏽👍🏽🇺🇸</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/43735\">Mark</a></p><blockquote><p>Where does <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> find the strength, energy, mental acuity, and talent?! Oh wait, I know.☝🏽👍🏽🇺🇸</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19070/e33f491314c16b15-a63b8572c66e.jpg\">View image</a></p></blockquote>",
       "published": "Thu, 26 Nov 2026 05:13:05 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-26T05:36:26.799372Z",
+      "retry_count": 3,
+      "updated_at": "2026-11-26T05:51:29.144497Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43734",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@markkhalilWhere does \nhttps://truthsocial.com/@realDonaldTrump\n find the strength, energy, mental acuity, and talent?! Oh",
       "media_identity": "attachment:117681014599577901:e33f491314c16b15.jpg",
@@ -39471,7 +39471,7 @@
       "fingerprint": "fp:RT \nhttps://truthsocial.com/@markkhalilWhere does \nhttps://truthsocial.com/@realDonaldTrump\n find the strength, energy, mental acuity, and talent?! Oh",
       "truth_social_id": "117681014599577901",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-26T05:46:26.799382Z"
+      "next_retry_at": "2026-11-26T06:11:29.144509Z"
     },
     "truth:117680067105786697": {
       "post_status": "RETRY",
@@ -39492,6 +39492,16 @@
       "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/680/066/263/969/287/original/e6e8ff7e1e779213.mp4",
       "failure_stage": "TRANSLATION",
       "next_retry_at": "2026-11-26T05:51:24.547483Z"
+    },
+    "truth:117681161738909385": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43740",
+      "source_text": "<p>David E. Sanger, the mediocre reporter for the Failing New York Times, didn’t mention in his recent story on me the successful closing of the Border, best crime stats in years (lowest murder rate since 1900 - 126 years!), biggest Tax and Regulation Cuts, EVER, the most successful naval blockade in history, the destruction of Iran’s Navy and Air Force (and more!), the ONE DAY WIN against Venezuela, and today’s big success in straightening out the Obama caused mess in Iowa. David Sanger is a lowlife that only writes what he is told to write by his bosses. Also, until the Election, best Market, EVER, 82 days, settled 8 Wars, and the USA is respected again like never before!</p>",
+      "published": "Thu, 26 Nov 2026 05:47:03 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-26T05:51:11.518397Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43740"
     }
   }
 }
