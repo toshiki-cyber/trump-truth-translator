@@ -39236,18 +39236,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43719",
       "source_text": "<p>I am proud to announce that the FIFA Women's World Cup 2031 will take place in the United States! After hosting the Most Successful World Cup in History, no Country is better positioned than the United States to be home to the largest Women's Sporting Event in History. The FIFA Women's World Cup 2031 will bring Generational Economic Impact to the United States, grow the sport of Soccer throughout our Country and the World, and showcase America’s Exceptionalism. Thank you to Gianni Infantino, and his great staff, for working to bring the Tournament to the U.S.A. President DONALD J. TRUMP</p>",
       "published": "Tue, 24 Nov 2026 17:08:51 +0000",
-      "retry_count": 13,
-      "updated_at": "2026-11-26T11:11:30.199287Z",
+      "retry_count": 14,
+      "updated_at": "2026-11-26T17:16:28.563948Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43719",
       "first_seen": "2026-11-24T17:20:32.498588Z",
-      "no_media_confirmations": 15,
+      "no_media_confirmations": 16,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:I am proud to announce that the FIFA Women's World Cup 2031 will take place in the United States! After hosting the Most Successful World Cup in Histo",
       "truth_social_id": "117672518077966619",
       "source_fingerprint": "fp:I am proud to announce that the FIFA Women's World Cup 2031 will take place in the United States! After hosting the Most Successful World Cup in Histo",
       "media_identity": "attachment:117672518077966619:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-26T17:11:30.199296Z"
+      "next_retry_at": "2026-11-26T23:16:28.563957Z"
     },
     "truth:117672619106081295": {
       "post_status": "RETRY",
