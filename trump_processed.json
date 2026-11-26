@@ -39443,18 +39443,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43733",
       "source_text": "<p>0.000% of Obama caused carcinogens were released into beautiful Iowa air after the Perfect detonation. WE ALL WORKED HARD! President DJT</p>",
       "published": "Thu, 26 Nov 2026 05:08:57 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-26T05:41:24.281399Z",
+      "retry_count": 3,
+      "updated_at": "2026-11-26T05:56:26.970832Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43733",
       "first_seen": "2026-11-26T05:16:08.218758Z",
-      "no_media_confirmations": 4,
+      "no_media_confirmations": 5,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:0.000% of Obama caused carcinogens were released into beautiful Iowa air after the Perfect detonation. WE ALL WORKED HARD! President DJT",
       "truth_social_id": "117681011948883217",
       "source_fingerprint": "fp:0.000% of Obama caused carcinogens were released into beautiful Iowa air after the Perfect detonation. WE ALL WORKED HARD! President DJT",
       "media_identity": "attachment:117681011948883217:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-26T05:51:24.281408Z"
+      "next_retry_at": "2026-11-26T06:16:26.970842Z"
     },
     "truth:117681014599577901": {
       "post_status": "RETRY",
