@@ -39479,8 +39479,8 @@
       "status_url": "https://www.trumpstruth.org/statuses/43738",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@WhiteHouse\" rel=\"nofollow\">@<span>WhiteHouse</span></a></span>America's Mayor. 🇺🇸</p><p>President Donald J. Trump presents Rudy Giuliani with the Presidential Medal of Freedom.</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/43739\">The White House</a></p><blockquote><p>America's Mayor. 🇺🇸</p><p>President Donald J. Trump presents Rudy Giuliani with the Presidential Medal of Freedom.</p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19072/browser-safe.mp4\">View video</a></p></blockquote>",
       "published": "Thu, 26 Nov 2026 05:17:46 +0000",
-      "retry_count": 7,
-      "updated_at": "2026-11-26T11:51:35.216515Z",
+      "retry_count": 8,
+      "updated_at": "2026-11-26T17:26:29.532103Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43738",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@WhiteHouseAmerica's Mayor. 🇺🇸\nPresident Donald J. Trump presents Rudy Giuliani with the Presidential Medal of Freedom.\nRe",
       "media_identity": "attachment:117680067105786697:e6e8ff7e1e779213.mp4",
@@ -39491,7 +39491,7 @@
       "fallback_policy_version": 1,
       "media_fallback_reason": "動画取得・検証失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/680/066/263/969/287/original/e6e8ff7e1e779213.mp4",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-26T17:11:35.216526Z"
+      "next_retry_at": "2026-11-26T23:26:29.532113Z"
     },
     "truth:117681161738909385": {
       "post_status": "RETRY",
