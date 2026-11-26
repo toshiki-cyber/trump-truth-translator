@@ -39494,14 +39494,20 @@
       "next_retry_at": "2026-11-26T06:11:30.659070Z"
     },
     "truth:117681161738909385": {
-      "post_status": "DISCOVERED",
+      "post_status": "RETRY",
       "media_state": "PENDING",
       "status_url": "https://www.trumpstruth.org/statuses/43740",
       "source_text": "<p>David E. Sanger, the mediocre reporter for the Failing New York Times, didn’t mention in his recent story on me the successful closing of the Border, best crime stats in years (lowest murder rate since 1900 - 126 years!), biggest Tax and Regulation Cuts, EVER, the most successful naval blockade in history, the destruction of Iran’s Navy and Air Force (and more!), the ONE DAY WIN against Venezuela, and today’s big success in straightening out the Obama caused mess in Iowa. David Sanger is a lowlife that only writes what he is told to write by his bosses. Also, until the Election, best Market, EVER, 82 days, settled 8 Wars, and the USA is respected again like never before!</p>",
       "published": "Thu, 26 Nov 2026 05:47:03 +0000",
-      "retry_count": 0,
-      "updated_at": "2026-11-26T05:51:11.518397Z",
-      "feed_post_id": "https://www.trumpstruth.org/statuses/43740"
+      "retry_count": 1,
+      "updated_at": "2026-11-26T06:11:11.151086Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43740",
+      "first_seen": "2026-11-26T06:11:11.151039Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:David E. Sanger, the mediocre reporter for the Failing New York Times, didn’t mention in his recent story on me the successful closing of the Border, ",
+      "next_retry_at": "2026-11-26T06:16:11.151097Z",
+      "truth_social_id": "117681161738909385"
     }
   }
 }
