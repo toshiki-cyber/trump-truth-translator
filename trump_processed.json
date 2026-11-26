@@ -39362,18 +39362,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43726",
       "source_text": "<p>Ilhan Omar’s legal reckoning is looming, and redactions can't hide it: <a href=\"https://www.foxnews.com/opinion/ilhan-omars-legal-reckoning-looming-redactions-cant-hide\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">foxnews.com/opinion/ilhan-omar</span><span class=\"invisible\">s-legal-reckoning-looming-redactions-cant-hide</span></a></p>",
       "published": "Wed, 25 Nov 2026 00:57:33 +0000",
-      "retry_count": 12,
-      "updated_at": "2026-11-26T12:56:31.233365Z",
+      "retry_count": 13,
+      "updated_at": "2026-11-26T19:01:28.469601Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43726",
       "first_seen": "2026-11-25T01:01:09.213701Z",
-      "no_media_confirmations": 14,
+      "no_media_confirmations": 15,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:Ilhan Omar’s legal reckoning is looming, and redactions can't hide it: \nhttps://www.foxnews.com/opinion/ilhan-omars-legal-reckoning-looming-redactions",
       "truth_social_id": "117674361089057724",
       "source_fingerprint": "fp:Ilhan Omar’s legal reckoning is looming, and redactions can't hide it: \nhttps://www.foxnews.com/opinion/ilhan-omars-legal-reckoning-looming-redactions",
       "media_identity": "attachment:117674361089057724:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-26T18:56:31.233373Z"
+      "next_retry_at": "2026-11-27T01:01:28.469611Z"
     },
     "truth:117674166454758106": {
       "post_status": "RETRY",
@@ -39675,6 +39675,16 @@
       "media_identity": "attachment:117683512952489451:",
       "failure_stage": "TRANSLATION",
       "next_retry_at": "2026-11-26T20:16:35.392778Z"
+    },
+    "truth:117684273895653312": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43748",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19075/89b8fabdb17d9c73-73920bc24936.jpg\">View image</a></p>",
+      "published": "Thu, 26 Nov 2026 18:58:31 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-26T19:01:12.122871Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43748"
     }
   }
 }
