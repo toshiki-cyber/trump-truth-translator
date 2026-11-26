@@ -39438,6 +39438,39 @@
       "media_identity": "attachment:117678999238130459:",
       "failure_stage": "TRANSLATION",
       "next_retry_at": "2026-11-26T08:41:27.008098Z"
+    },
+    "truth:117681011948883217": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43733",
+      "source_text": "<p>0.000% of Obama caused carcinogens were released into beautiful Iowa air after the Perfect detonation. WE ALL WORKED HARD! President DJT</p>",
+      "published": "Thu, 26 Nov 2026 05:08:57 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-26T05:16:08.218795Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43733",
+      "first_seen": "2026-11-26T05:16:08.218758Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:0.000% of Obama caused carcinogens were released into beautiful Iowa air after the Perfect detonation. WE ALL WORKED HARD! President DJT",
+      "next_retry_at": "2026-11-26T05:21:08.218803Z",
+      "truth_social_id": "117681011948883217"
+    },
+    "truth:117681014599577901": {
+      "post_status": "RETRY",
+      "media_state": "READY",
+      "status_url": "https://www.trumpstruth.org/statuses/43734",
+      "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@markkhalil\" rel=\"nofollow\">@<span>markkhalil</span></a></span>Where does <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> find the strength, energy, mental acuity, and talent?! Oh wait, I know.☝🏽👍🏽🇺🇸</p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/43735\">Mark</a></p><blockquote><p>Where does <span class=\"h-card\"><a href=\"https://truthsocial.com/@realDonaldTrump\" rel=\"nofollow\">@<span>realDonaldTrump</span></a></span> find the strength, energy, mental acuity, and talent?! Oh wait, I know.☝🏽👍🏽🇺🇸</p><p><a href=\"https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/681/014/470/467/589/original/e33f491314c16b15.jpg\">View image</a></p></blockquote>",
+      "published": "Thu, 26 Nov 2026 05:13:05 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-26T05:16:09.208411Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43734",
+      "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@markkhalilWhere does \nhttps://truthsocial.com/@realDonaldTrump\n find the strength, energy, mental acuity, and talent?! Oh",
+      "media_identity": "attachment:117681014599577901:e33f491314c16b15.jpg",
+      "failure_reason": "Blueskyメディアアップロード失敗: 403 Client Error: Forbidden for url: https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/681/014/470/467/589/small/e33f491314c16b15.jpg",
+      "fingerprint": "fp:RT \nhttps://truthsocial.com/@markkhalilWhere does \nhttps://truthsocial.com/@realDonaldTrump\n find the strength, energy, mental acuity, and talent?! Oh",
+      "truth_social_id": "117681014599577901",
+      "failure_stage": "MEDIA_UPLOAD",
+      "next_retry_at": "2026-11-26T05:21:09.208427Z"
     }
   }
 }
