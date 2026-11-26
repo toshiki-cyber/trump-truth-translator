@@ -39550,19 +39550,22 @@
     },
     "truth:117683194517889136": {
       "post_status": "RETRY",
-      "media_state": "PENDING",
+      "media_state": "NO_MEDIA",
       "status_url": "https://www.trumpstruth.org/statuses/43743",
       "source_text": "<p>It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does these numbers. The American Economy under The Trump Administration is doing FAR BETTER than the good numbers already released. Third Quarter GDP Growth has now been corrected to be 4.3%, instead of 3.4%, a major difference! Why wasn’t the correct number issued before the Election? I am asking for an immediate investigation of this situation. This is not a small error, this is a massive, and purposeful, error. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Thu, 26 Nov 2026 14:24:01 +0000",
-      "retry_count": 2,
-      "updated_at": "2026-11-26T14:36:17.023038Z",
+      "retry_count": 1,
+      "updated_at": "2026-11-26T15:01:31.959841Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43743",
       "first_seen": "2026-11-26T14:26:21.878339Z",
-      "no_media_confirmations": 2,
-      "failure_reason": "メディアなしの確認猶予中",
+      "no_media_confirmations": 3,
+      "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the peop",
-      "next_retry_at": "2026-11-26T14:46:17.023051Z",
-      "truth_social_id": "117683194517889136"
+      "truth_social_id": "117683194517889136",
+      "source_fingerprint": "fp:It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the peop",
+      "media_identity": "attachment:117683194517889136:",
+      "failure_stage": "TRANSLATION",
+      "next_retry_at": "2026-11-26T15:06:31.959853Z"
     },
     "truth:117683199090516818": {
       "post_status": "RETRY",
@@ -39579,6 +39582,16 @@
       "fingerprint": "fp:HAPPY THANKSGIVING TO ALL! President DONALD J. TRUMP",
       "next_retry_at": "2026-11-26T14:56:13.646089Z",
       "truth_social_id": "117683199090516818"
+    },
+    "truth:117683312242798397": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43745",
+      "source_text": "<p><span><br />RT: https://truthsocial.com/users/realDonaldTrump/statuses/117683175541431490</span>During my conversations in China with President Vladimir Putin, of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against territories throughout Europe, in the hopes that a Deal can be made between Russia and Ukraine, and made quickly. I really believe this is a strong possibility — Thousands of people are being killed each and every month, A COMPLETE BLOODBATH — and will be a Great Tribute to everyone! It was an Honor meeting with Secretary General of NATO, Mark Rutte, last night at Mar-a-Lago, where many topics were discussed, and in which I updated him on my talks with President Putin. Thank you for your attention to this matter! President DONALD J. TRUMP</p><p>Quoted <a href=\"https://www.trumpstruth.org/statuses/43742\">Donald J. Trump</a></p><blockquote><p>A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE:<br /> <br />President Trump and Secretary General Rutte had an outstanding meeting on Wednesday evening, at what is often referred to as the Southern White House — Mar-a-Lago.</p><p>The meeting was very impactful, with the War between Russia and Ukraine, and the Conflict in Iran, being the primary subjects of discussion. Additionally, all of the record setting achievements that the U.S. and NATO have made together at the Summits in the Hague, and Ankara, were discussed.</p><p>We also talked about, at length, the importance of Russia and Ukraine avoiding any actions that intentionally, or unintentionally, expand the War — and the importance of obtaining a peaceful resolution to the War, as rapidly as possible!</p><p>Lastly, we discussed Defense Spending, and the Investment in our Industrial Base, both in the United States, and all across NATO. I briefed NATO on the tremendous progress our Defense Companies are making on more than 20 new facilities currently under construction. The focus of these Companies is the building of Patriots, THAAD Systems, Tomahawks, and many new Weapons, both Offensive and Defensive, that have not yet been viewed by the Public, or other Countries. There has never been a time when the United States has produced more Military Equipment or Munitions than now. Our “cupboard” will soon be full and, when it is, our Allies and Partners throughout the World will be benefitting greatly. Thank you for your attention to this matter!</p></blockquote>",
+      "published": "Thu, 26 Nov 2026 14:53:57 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-26T15:01:15.509577Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43745"
     }
   }
 }
