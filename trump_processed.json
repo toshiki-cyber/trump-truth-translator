@@ -39504,18 +39504,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43728",
       "source_text": "<p>Early reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations.</p>",
       "published": "Wed, 25 Nov 2026 15:20:42 +0000",
-      "retry_count": 13,
-      "updated_at": "2026-11-27T09:51:36.746478Z",
+      "retry_count": 14,
+      "updated_at": "2026-11-27T15:56:29.773039Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43728",
       "first_seen": "2026-11-25T15:26:11.549969Z",
-      "no_media_confirmations": 15,
+      "no_media_confirmations": 16,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:Early reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations.",
       "truth_social_id": "117677755116150581",
       "source_fingerprint": "fp:Early reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations.",
       "media_identity": "attachment:117677755116150581:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-27T15:51:36.746489Z"
+      "next_retry_at": "2026-11-27T21:56:29.773049Z"
     },
     "truth:117678202296534723": {
       "post_status": "RETRY",
