@@ -39656,18 +39656,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43743",
       "source_text": "<p>It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does these numbers. The American Economy under The Trump Administration is doing FAR BETTER than the good numbers already released. Third Quarter GDP Growth has now been corrected to be 4.3%, instead of 3.4%, a major difference! Why wasn’t the correct number issued before the Election? I am asking for an immediate investigation of this situation. This is not a small error, this is a massive, and purposeful, error. Thank you for your attention to this matter. President DONALD J. TRUMP</p>",
       "published": "Thu, 26 Nov 2026 14:24:01 +0000",
-      "retry_count": 7,
-      "updated_at": "2026-11-26T20:46:31.853644Z",
+      "retry_count": 8,
+      "updated_at": "2026-11-27T02:11:30.228903Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43743",
       "first_seen": "2026-11-26T14:26:21.878339Z",
-      "no_media_confirmations": 9,
+      "no_media_confirmations": 10,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the peop",
       "truth_social_id": "117683194517889136",
       "source_fingerprint": "fp:It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the peop",
       "media_identity": "attachment:117683194517889136:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-27T02:06:31.853654Z"
+      "next_retry_at": "2026-11-27T08:11:30.228914Z"
     },
     "truth:117683199090516818": {
       "post_status": "RETRY",
