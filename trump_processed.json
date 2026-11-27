@@ -39485,18 +39485,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43724",
       "source_text": "<p>RT <span class=\"h-card\"><a href=\"https://truthsocial.com/@Schoenlaw\" rel=\"nofollow\">@<span>Schoenlaw</span></a></span>Regarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the California Constitution. <a href=\"https://www.dropbox.com/scl/fi/92yu855x4cfbdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&amp;st=kqcljs98&amp;dl=0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dropbox.com/scl/fi/92yu855x4cf</span><span class=\"invisible\">bdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&amp;st=kqcljs98&amp;dl=0</span></a></p><p>Reposted <a href=\"https://www.trumpstruth.org/statuses/43725\">Schoenlaw</a></p><blockquote><p>Regarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the California Constitution. <a href=\"https://www.dropbox.com/scl/fi/92yu855x4cfbdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&amp;st=kqcljs98&amp;dl=0\" rel=\"nofollow\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dropbox.com/scl/fi/92yu855x4cf</span><span class=\"invisible\">bdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&amp;st=kqcljs98&amp;dl=0</span></a></p></blockquote>",
       "published": "Wed, 25 Nov 2026 00:57:43 +0000",
-      "retry_count": 16,
-      "updated_at": "2026-11-27T13:46:31.642125Z",
+      "retry_count": 17,
+      "updated_at": "2026-11-27T19:51:29.486011Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43724",
       "first_seen": "2026-11-25T01:01:09.520569Z",
-      "no_media_confirmations": 18,
+      "no_media_confirmations": 19,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:RT \nhttps://truthsocial.com/@SchoenlawRegarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the Calif",
       "truth_social_id": "117674166454758106",
       "source_fingerprint": "fp:RT \nhttps://truthsocial.com/@SchoenlawRegarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the Calif",
       "media_identity": "attachment:117674166454758106:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-27T19:46:31.642134Z"
+      "next_retry_at": "2026-11-28T01:51:29.486021Z"
     },
     "truth:117677755116150581": {
       "post_status": "RETRY",
@@ -39798,6 +39798,26 @@
       "media_identity": "attachment:117687912933180934:",
       "failure_stage": "TRANSLATION",
       "next_retry_at": "2026-11-27T22:11:34.262405Z"
+    },
+    "truth:117690129419902036": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43752",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19078/5275bc8701344d60-ded8419c8bea.jpg\">View image</a></p>",
+      "published": "Fri, 27 Nov 2026 19:47:39 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-27T19:51:13.304664Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43752"
+    },
+    "truth:117690131414400615": {
+      "post_status": "DISCOVERED",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43753",
+      "source_text": "<p></p><p><a href=\"https://truth-archive.us-iad-1.linodeobjects.com/attachments/19079/f550dede0f5e379b-7ace399e86bf.jpg\">View image</a></p>",
+      "published": "Fri, 27 Nov 2026 19:48:09 +0000",
+      "retry_count": 0,
+      "updated_at": "2026-11-27T19:51:13.304524Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43753"
     }
   }
 }
