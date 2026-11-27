@@ -39725,6 +39725,22 @@
       "media_identity": "attachment:117683512952489451:",
       "failure_stage": "TRANSLATION",
       "next_retry_at": "2026-11-27T10:36:31.065365Z"
+    },
+    "truth:117687912933180934": {
+      "post_status": "RETRY",
+      "media_state": "PENDING",
+      "status_url": "https://www.trumpstruth.org/statuses/43750",
+      "source_text": "<p>We support Iraqi Prime Minister Ali al-Zaidi’s efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state.</p><p>We support Prime Minister al-Zaidi’s efforts to build a united, prosperous, and strong Iraq that makes its own political decisions.</p>",
+      "published": "Fri, 27 Nov 2026 10:23:58 +0000",
+      "retry_count": 1,
+      "updated_at": "2026-11-27T10:26:18.580022Z",
+      "feed_post_id": "https://www.trumpstruth.org/statuses/43750",
+      "first_seen": "2026-11-27T10:26:18.579985Z",
+      "no_media_confirmations": 1,
+      "failure_reason": "メディアなしの確認猶予中",
+      "fingerprint": "fp:We support Iraqi Prime Minister Ali al-Zaidi’s efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and",
+      "next_retry_at": "2026-11-27T10:31:18.580030Z",
+      "truth_social_id": "117687912933180934"
     }
   }
 }
