@@ -40111,18 +40111,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43742",
       "source_text": "<p>A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE:<br /> <br />President Trump and Secretary General Rutte had an outstanding meeting on Wednesday evening, at what is often referred to as the Southern White House — Mar-a-Lago.</p><p>The meeting was very impactful, with the War between Russia and Ukraine, and the Conflict in Iran, being the primary subjects of discussion. Additionally, all of the record setting achievements that the U.S. and NATO have made together at the Summits in the Hague, and Ankara, were discussed.</p><p>We also talked about, at length, the importance of Russia and Ukraine avoiding any actions that intentionally, or unintentionally, expand the War — and the importance of obtaining a peaceful resolution to the War, as rapidly as possible!</p><p>Lastly, we discussed Defense Spending, and the Investment in our Industrial Base, both in the United States, and all across NATO. I briefed NATO on the tremendous progress our Defense Companies are making on more than 20 new facilities currently under construction. The focus of these Companies is the building of Patriots, THAAD Systems, Tomahawks, and many new Weapons, both Offensive and Defensive, that have not yet been viewed by the Public, or other Countries. There has never been a time when the United States has produced more Military Equipment or Munitions than now. Our “cupboard” will soon be full and, when it is, our Allies and Partners throughout the World will be benefitting greatly. Thank you for your attention to this matter!</p>",
       "published": "Thu, 26 Nov 2026 14:19:11 +0000",
-      "retry_count": 11,
-      "updated_at": "2026-11-27T20:21:33.866404Z",
+      "retry_count": 12,
+      "updated_at": "2026-11-28T02:26:11.520427Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43742",
       "first_seen": "2026-11-26T14:26:21.654205Z",
-      "no_media_confirmations": 13,
+      "no_media_confirmations": 14,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE:\n \nPresident Trump and Secretary General Rutte had an ou",
       "truth_social_id": "117683175541431490",
       "source_fingerprint": "fp:A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE:\n \nPresident Trump and Secretary General Rutte had an ou",
       "media_identity": "attachment:117683175541431490:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-28T02:21:33.866414Z"
+      "next_retry_at": "2026-11-28T08:26:11.520435Z"
     },
     "truth:117683194517889136": {
       "post_status": "RETRY",
