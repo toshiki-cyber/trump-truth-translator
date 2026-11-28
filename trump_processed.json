@@ -39848,18 +39848,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43721",
       "source_text": "<p>I am pleased to nominate Jim O’Neill to serve as Judge on the United States District Court for the Middle District of North Carolina. Jim has the strong support of both North Carolina Senators, Ted Budd and Thom Tillis. Jim has served as the District Attorney of Forsyth County since 2009, and has been a prosecutor in that office since 1997. He has a deep track record of being tough on crime, and preserving Law and Order. Jim is a graduate of Duke University (where he played varsity lacrosse), and New York Law School. The people of North Carolina are lucky to have a dedicated public servant like Jim who will be a fantastic Judge. Congratulations Jim. Now, let’s get him confirmed! President DONALD J. TRUMP</p>",
       "published": "Tue, 24 Nov 2026 17:40:10 +0000",
-      "retry_count": 19,
-      "updated_at": "2026-11-28T00:41:12.993363Z",
+      "retry_count": 20,
+      "updated_at": "2026-11-28T06:45:39.112872Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43721",
       "first_seen": "2026-11-24T18:00:33.632330Z",
-      "no_media_confirmations": 21,
+      "no_media_confirmations": 22,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:I am pleased to nominate Jim O’Neill to serve as Judge on the United States District Court for the Middle District of North Carolina. Jim has the stro",
       "truth_social_id": "117672641177788145",
       "source_fingerprint": "fp:I am pleased to nominate Jim O’Neill to serve as Judge on the United States District Court for the Middle District of North Carolina. Jim has the stro",
       "media_identity": "attachment:117672641177788145:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-28T06:41:12.993372Z"
+      "next_retry_at": "2026-11-28T12:45:39.112881Z"
     },
     "truth:117672947522305995": {
       "post_status": "RETRY",
