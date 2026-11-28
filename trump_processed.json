@@ -40000,18 +40000,18 @@
       "status_url": "https://www.trumpstruth.org/statuses/43732",
       "source_text": "<p>Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable. When a PERFECT detonation was completed and there for all to see, they went CRAZY with anger. They want our Country to lose. “Another win for Trump!”</p>",
       "published": "Wed, 25 Nov 2026 20:37:06 +0000",
-      "retry_count": 14,
-      "updated_at": "2026-11-27T21:16:37.826495Z",
+      "retry_count": 15,
+      "updated_at": "2026-11-28T03:21:13.578668Z",
       "feed_post_id": "https://www.trumpstruth.org/statuses/43732",
       "first_seen": "2026-11-25T20:51:15.756735Z",
-      "no_media_confirmations": 16,
+      "no_media_confirmations": 17,
       "failure_reason": "Claude翻訳失敗",
       "fingerprint": "fp:Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable. When a PERFECT detonation was completed and ther",
       "truth_social_id": "117678999238130459",
       "source_fingerprint": "fp:Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable. When a PERFECT detonation was completed and ther",
       "media_identity": "attachment:117678999238130459:",
       "failure_stage": "TRANSLATION",
-      "next_retry_at": "2026-11-28T03:16:37.826505Z"
+      "next_retry_at": "2026-11-28T09:21:13.578679Z"
     },
     "truth:117681011948883217": {
       "post_status": "RETRY",
